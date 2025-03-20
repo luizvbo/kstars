@@ -1,14 +1,16 @@
+use anyhow::{Context, Result};
 use clap::Parser;
 use csv::Writer;
 use reqwest::Client;
 use serde::Deserialize;
 use std::{
-    error::Error,
     fs,
     path::Path,
     time::Duration,
 };
 use tokio::time::sleep;
+use tracing::{debug, error, info, warn};
+use tracing_subscriber::{fmt, prelude::*, EnvFilter};
 
 /// Command line arguments.
 #[derive(Parser, Debug)]
@@ -54,75 +56,88 @@ struct LanguageMapping {
 }
 
 /// Reads the GitHub access token from "access_token.txt".
-fn get_access_token() -> Result<String, Box<dyn Error>> {
-    let token = fs::read_to_string("access_token.txt")?.trim().to_string();
+fn get_access_token() -> Result<String> {
+    let token = fs::read_to_string("access_token.txt")
+        .context("Failed to read access_token.txt")?
+        .trim()
+        .to_string();
+    info!("Access token loaded successfully.");
     Ok(token)
 }
 
-/// Fetches repositories for a given language and page.
-/// Uses per_page=100.
+/// Fetches repositories for a given language and page (each page has 100 results).
 async fn fetch_repos(
     client: &Client,
     token: &str,
     language: &str,
     page: u32,
-) -> Result<Vec<Repo>, Box<dyn Error>> {
+) -> Result<Vec<Repo>> {
     let url = format!(
         "https://api.github.com/search/repositories?q=language:{}&sort=stars&order=desc&per_page=100&page={}",
         language, page
     );
+    debug!("Requesting URL: {}", url);
     let resp = client
         .get(&url)
         .header("User-Agent", "rust-github-app")
         .header("Authorization", format!("token {}", token))
         .send()
-        .await?;
+        .await
+        .context("HTTP request failed")?;
     
     if !resp.status().is_success() {
-        Err(format!(
+        error!(
             "Failed to fetch page {} for {}: {}",
-            page, language, resp.status()
-        ))?
-    } else {
-        let search_resp: SearchResponse = resp.json().await?;
-        Ok(search_resp.items)
+            page,
+            language,
+            resp.status()
+        );
+        anyhow::bail!("Request failed with status {}", resp.status());
     }
+    
+    let search_resp: SearchResponse = resp
+        .json()
+        .await
+        .context("Failed to deserialize JSON response")?;
+    debug!("Page {} for {} returned {} repos.", page, language, search_resp.items.len());
+    Ok(search_resp.items)
 }
 
 /// Fetches up to `records` repositories for the specified language.
-/// Since the API is capped at 1000 results, we iterate in pages of 100 (up to 10 pages).
+/// Iterates in pages of 100 (capped to 10 pages due to GitHub limitations).
 async fn fetch_top_repos_for_language(
     client: &Client,
     token: &str,
     language: &str,
     records: u32,
-) -> Result<Vec<Repo>, Box<dyn Error>> {
-    println!("Fetching top repositories for language: {}", language);
+) -> Result<Vec<Repo>> {
+    info!("Fetching top repositories for language: {}", language);
     let per_page = 100;
-    let pages = (records + per_page - 1) / per_page;
-    let pages = pages.min(10); // GitHub search API caps at 1000 results.
+    let pages = ((records + per_page - 1) / per_page).min(10);
     let mut all_repos = Vec::new();
 
     for page in 1..=pages {
+        info!("Fetching page {} for {}", page, language);
         let repos = fetch_repos(client, token, language, page).await?;
         if repos.is_empty() {
+            warn!("No repos returned on page {} for {}. Stopping.", page, language);
             break;
         }
-        println!("Page {}: Fetched {} repositories", page, repos.len());
         all_repos.extend(repos);
-        // Pause to respect GitHub rate limits.
+        // Sleep a bit to help with rate limits.
         sleep(Duration::from_secs(2)).await;
     }
-    println!(
-        "Total repositories fetched for {}: {}\n",
+    info!(
+        "Total repositories fetched for {}: {}",
         language,
         all_repos.len()
     );
     Ok(all_repos)
 }
 
-/// Write the repositories data into a CSV file.
-fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<(), Box<dyn Error>> {
+/// Writes the repository data to a CSV file.
+fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<()> {
+    info!("Writing {} repositories to CSV: {:?}", repos.len(), path.as_ref());
     let mut wtr = Writer::from_path(path)?;
     // Write header.
     wtr.write_record(&[
@@ -138,9 +153,6 @@ fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<(), Box
         "Description",
     ])?;
     for (i, repo) in repos.iter().enumerate() {
-        // Extract owner from the URL if needed; here we keep it blank as the REST API
-        // doesn't provide owner login separately in this endpoint.
-        // Alternatively, you might parse the URL or use GraphQL for more details.
         wtr.write_record(&[
             (i + 1).to_string(),
             repo.name.clone(),
@@ -148,13 +160,14 @@ fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<(), Box
             repo.fork_count.to_string(),
             repo.language.clone().unwrap_or_default(),
             repo.html_url.clone(),
-            "".to_string(),
+            "".to_string(), // Username not available in this endpoint.
             repo.open_issues_count.to_string(),
             repo.pushed_at.clone(),
             repo.description.clone().unwrap_or_default(),
         ])?;
     }
     wtr.flush()?;
+    info!("CSV file written successfully.");
     Ok(())
 }
 
@@ -208,7 +221,6 @@ fn parse_languages(args: Option<Vec<String>>) -> Vec<LanguageMapping> {
                     display_name: parts[1].to_string(),
                 });
             } else {
-                // If no display name provided, use the API name.
                 mappings.push(LanguageMapping {
                     api_name: lang.clone(),
                     display_name: lang,
@@ -223,35 +235,71 @@ fn parse_languages(args: Option<Vec<String>>) -> Vec<LanguageMapping> {
             });
         }
     }
+    info!("Parsed {} languages.", mappings.len());
     mappings
 }
 
+/// Sets up logging in a uv-inspired style using tracing_subscriber.
+///
+/// This function configures an environment filter so that RUST_LOG, if set,
+/// can override the default. The output is formatted with a simple style.
+/// (For more detailed logging including uptime and targets, consider using
+/// hierarchical layers as in the uv example.)
+fn setup_logging() -> Result<()> {
+    // Use an environment filter so that RUST_LOG can override defaults.
+    let filter = EnvFilter::try_from_default_env().unwrap_or_else(|_| EnvFilter::new("info"));
+    tracing_subscriber::registry()
+        .with(filter)
+        .with(fmt::layer().with_target(false).with_timer(fmt::time::UtcTime::rfc_3339()))
+        .init();
+    Ok(())
+}
+
 #[tokio::main]
-async fn main() -> Result<(), Box<dyn Error>> {
+async fn main() -> Result<()> {
+    // Initialize logging.
+    setup_logging().context("Failed to set up logging")?;
+    info!("Application started.");
+
     // Parse CLI arguments.
     let args = Args::parse();
-    // Ensure output directory exists.
-    fs::create_dir_all(&args.output)?;
+    info!("Parsed arguments: {:?}", args);
 
-    // Read GitHub token.
+    // Ensure the output directory exists.
+    fs::create_dir_all(&args.output).context("Failed to create output directory")?;
+    info!("Output directory ensured at: {}", args.output);
+
+    // Load GitHub token.
     let token = get_access_token()?;
-    let client = Client::builder().build()?;
+    let client = Client::builder().build().context("Failed to build HTTP client")?;
+    
     // Parse languages.
     let languages = parse_languages(args.languages);
 
     // For each language, fetch repositories and write CSV.
     for mapping in languages {
-        println!("Processing language: {} ({})", mapping.display_name, mapping.api_name);
-        let repos = fetch_top_repos_for_language(&client, &token, &mapping.api_name, args.records).await?;
-        // Build a file path in the output folder. File name: display name with non-alphanumeric characters replaced.
+        info!("Processing language: {} ({})", mapping.display_name, mapping.api_name);
+        let repos = fetch_top_repos_for_language(&client, &token, &mapping.api_name, args.records)
+            .await
+            .with_context(|| format!("Failed fetching repos for {}", mapping.api_name))?;
+        
+        // Build a safe file name based on display name.
         let safe_name: String = mapping
             .display_name
             .chars()
             .map(|c| if c.is_alphanumeric() { c } else { '_' })
             .collect();
         let file_path = format!("{}/{}.csv", args.output, safe_name);
-        write_repos_to_csv(&file_path, &repos)?;
-        println!("Saved {} records for {} in {}", repos.len(), mapping.display_name, file_path);
+        write_repos_to_csv(&file_path, &repos)
+            .with_context(|| format!("Failed writing CSV for {}", mapping.display_name))?;
+        info!(
+            "Saved {} records for {} in {}",
+            repos.len(),
+            mapping.display_name,
+            file_path
+        );
     }
+    
+    info!("Application finished successfully.");
     Ok(())
 }
