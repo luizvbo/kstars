@@ -3,14 +3,10 @@ use clap::Parser;
 use csv::Writer;
 use reqwest::Client;
 use serde::Deserialize;
-use std::{
-    fs,
-    path::Path,
-    time::Duration,
-};
+use std::{fs, path::Path, time::Duration};
 use tokio::time::sleep;
 use tracing::{debug, error, info, warn};
-use tracing_subscriber::{fmt, prelude::*, EnvFilter};
+use tracing_subscriber::{EnvFilter, fmt, prelude::*};
 
 /// Command line arguments.
 #[derive(Parser, Debug)]
@@ -36,7 +32,7 @@ struct Repo {
     name: String,
     html_url: String,
     stargazers_count: u64,
-    fork_count: u64,
+    fork_count: Option<u64>,
     language: Option<String>,
     description: Option<String>,
     open_issues_count: u64,
@@ -66,12 +62,7 @@ fn get_access_token() -> Result<String> {
 }
 
 /// Fetches repositories for a given language and page (each page has 100 results).
-async fn fetch_repos(
-    client: &Client,
-    token: &str,
-    language: &str,
-    page: u32,
-) -> Result<Vec<Repo>> {
+async fn fetch_repos(client: &Client, token: &str, language: &str, page: u32) -> Result<Vec<Repo>> {
     let url = format!(
         "https://api.github.com/search/repositories?q=language:{}&sort=stars&order=desc&per_page=100&page={}",
         language, page
@@ -84,7 +75,7 @@ async fn fetch_repos(
         .send()
         .await
         .context("HTTP request failed")?;
-    
+
     if !resp.status().is_success() {
         error!(
             "Failed to fetch page {} for {}: {}",
@@ -94,12 +85,17 @@ async fn fetch_repos(
         );
         anyhow::bail!("Request failed with status {}", resp.status());
     }
-    
+
     let search_resp: SearchResponse = resp
         .json()
         .await
         .context("Failed to deserialize JSON response")?;
-    debug!("Page {} for {} returned {} repos.", page, language, search_resp.items.len());
+    debug!(
+        "Page {} for {} returned {} repos.",
+        page,
+        language,
+        search_resp.items.len()
+    );
     Ok(search_resp.items)
 }
 
@@ -120,7 +116,10 @@ async fn fetch_top_repos_for_language(
         info!("Fetching page {} for {}", page, language);
         let repos = fetch_repos(client, token, language, page).await?;
         if repos.is_empty() {
-            warn!("No repos returned on page {} for {}. Stopping.", page, language);
+            warn!(
+                "No repos returned on page {} for {}. Stopping.",
+                page, language
+            );
             break;
         }
         all_repos.extend(repos);
@@ -137,7 +136,11 @@ async fn fetch_top_repos_for_language(
 
 /// Writes the repository data to a CSV file.
 fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<()> {
-    info!("Writing {} repositories to CSV: {:?}", repos.len(), path.as_ref());
+    info!(
+        "Writing {} repositories to CSV: {:?}",
+        repos.len(),
+        path.as_ref()
+    );
     let mut wtr = Writer::from_path(path)?;
     // Write header.
     wtr.write_record(&[
@@ -157,7 +160,7 @@ fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<()> {
             (i + 1).to_string(),
             repo.name.clone(),
             repo.stargazers_count.to_string(),
-            repo.fork_count.to_string(),
+            repo.fork_count.unwrap_or(0).to_string(), // Use 0 if fork_count is None
             repo.language.clone().unwrap_or_default(),
             repo.html_url.clone(),
             "".to_string(), // Username not available in this endpoint.
@@ -250,7 +253,11 @@ fn setup_logging() -> Result<()> {
     let filter = EnvFilter::try_from_default_env().unwrap_or_else(|_| EnvFilter::new("info"));
     tracing_subscriber::registry()
         .with(filter)
-        .with(fmt::layer().with_target(false).with_timer(fmt::time::UtcTime::rfc_3339()))
+        .with(
+            fmt::layer()
+                .with_target(false)
+                .with_timer(fmt::time::UtcTime::rfc_3339()),
+        )
         .init();
     Ok(())
 }
@@ -271,18 +278,23 @@ async fn main() -> Result<()> {
 
     // Load GitHub token.
     let token = get_access_token()?;
-    let client = Client::builder().build().context("Failed to build HTTP client")?;
-    
+    let client = Client::builder()
+        .build()
+        .context("Failed to build HTTP client")?;
+
     // Parse languages.
     let languages = parse_languages(args.languages);
 
     // For each language, fetch repositories and write CSV.
     for mapping in languages {
-        info!("Processing language: {} ({})", mapping.display_name, mapping.api_name);
+        info!(
+            "Processing language: {} ({})",
+            mapping.display_name, mapping.api_name
+        );
         let repos = fetch_top_repos_for_language(&client, &token, &mapping.api_name, args.records)
             .await
             .with_context(|| format!("Failed fetching repos for {}", mapping.api_name))?;
-        
+
         // Build a safe file name based on display name.
         let safe_name: String = mapping
             .display_name
@@ -299,7 +311,7 @@ async fn main() -> Result<()> {
             file_path
         );
     }
-    
+
     info!("Application finished successfully.");
     Ok(())
 }
