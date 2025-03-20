@@ -32,11 +32,14 @@ struct Repo {
     name: String,
     html_url: String,
     stargazers_count: u64,
-    fork_count: Option<u64>,
+    forks_count: u64,
+    watchers_count: u64,
     language: Option<String>,
     description: Option<String>,
     open_issues_count: u64,
     pushed_at: String,
+    created_at: String,
+    size: u64,
 }
 
 /// Structure representing the search API response.
@@ -148,25 +151,29 @@ fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<()> {
         "Project Name",
         "Stars",
         "Forks",
-        "Language",
-        "Repo URL",
-        "Username",
+        "Watchers",
         "Open Issues",
         "Last Commit",
+        "Created At",
+        "Size (KB)",
         "Description",
+        "Language",
+        "Repo URL",
     ])?;
     for (i, repo) in repos.iter().enumerate() {
         wtr.write_record(&[
             (i + 1).to_string(),
             repo.name.clone(),
             repo.stargazers_count.to_string(),
-            repo.fork_count.unwrap_or(0).to_string(), // Use 0 if fork_count is None
-            repo.language.clone().unwrap_or_default(),
-            repo.html_url.clone(),
-            "".to_string(), // Username not available in this endpoint.
+            repo.forks_count.to_string(), 
+            repo.watchers_count.to_string(),
             repo.open_issues_count.to_string(),
             repo.pushed_at.clone(),
+            repo.created_at.clone(),
+            repo.size.to_string(),
             repo.description.clone().unwrap_or_default(),
+            repo.language.clone().unwrap_or_default(),
+            repo.html_url.clone(),
         ])?;
     }
     wtr.flush()?;
