@@ -12,6 +12,10 @@ use tracing_subscriber::{EnvFilter, fmt, prelude::*};
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
 struct Args {
+    /// GitHub access token (can be a file path, a string, or read from an environment variable)
+    #[arg(short, long, env = "GITHUB_TOKEN")]
+    token: Option<String>,
+
     /// List of languages in the format "api_name:display_name" separated by commas.
     /// Example: "CSharp:C#,CPP:C++" (if display name is omitted, the API name is used)
     #[arg(short, long, value_delimiter = ',')]
@@ -54,14 +58,30 @@ struct LanguageMapping {
     display_name: String,
 }
 
-/// Reads the GitHub access token from "access_token.txt".
-fn get_access_token() -> Result<String> {
-    let token = fs::read_to_string("access_token.txt")
-        .context("Failed to read access_token.txt")?
-        .trim()
-        .to_string();
-    info!("Access token loaded successfully.");
-    Ok(token)
+/// Reads the GitHub access token from a file, string, or environment variable.
+fn get_access_token(token_input: Option<String>) -> Result<String> {
+    if let Some(token) = token_input {
+        // Check if it's a valid file path.
+        if Path::new(&token).exists() {
+            info!("Reading access token from file: {}", token);
+            let token = fs::read_to_string(&token)
+                .with_context(|| format!("Failed to read access token from file: {}", token))?;
+            return Ok(token.trim().to_string());
+        }
+
+        // Otherwise, assume it's a direct string.
+        info!("Using access token from command-line input.");
+        return Ok(token);
+    }
+
+    // Fall back to environment variable.
+    if let Ok(token) = std::env::var("GITHUB_TOKEN") {
+        info!("Using access token from environment variable.");
+        return Ok(token.trim().to_string());
+    }
+
+    error!("Access token not provided.");
+    anyhow::bail!("Access token not provided.");
 }
 
 /// Fetches repositories for a given language and page (each page has 100 results).
@@ -283,8 +303,8 @@ async fn main() -> Result<()> {
     fs::create_dir_all(&args.output).context("Failed to create output directory")?;
     info!("Output directory ensured at: {}", args.output);
 
-    // Load GitHub token.
-    let token = get_access_token()?;
+    // Load GitHub token from CLI argument, file, or environment variable.
+    let token = get_access_token(args.token)?;
     let client = Client::builder()
         .build()
         .context("Failed to build HTTP client")?;
