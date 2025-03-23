@@ -185,7 +185,7 @@ fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<()> {
             (i + 1).to_string(),
             repo.name.clone(),
             repo.stargazers_count.to_string(),
-            repo.forks_count.to_string(), 
+            repo.forks_count.to_string(),
             repo.watchers_count.to_string(),
             repo.open_issues_count.to_string(),
             repo.pushed_at.clone(),
@@ -341,4 +341,94 @@ async fn main() -> Result<()> {
 
     info!("Application finished successfully.");
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use crate::{Repo, parse_languages, write_repos_to_csv};
+    use anyhow::Result;
+    use std::fs;
+    use tempfile::tempdir;
+
+    #[test]
+    fn test_parse_languages_with_custom_list() {
+        let languages = vec![
+            "CSharp:C#".to_string(),
+            "CPP:C++".to_string(),
+            "Python".to_string(),
+        ];
+
+        let mappings = parse_languages(Some(languages));
+
+        assert_eq!(mappings.len(), 3);
+        assert_eq!(mappings[0].api_name, "CSharp");
+        assert_eq!(mappings[0].display_name, "C#");
+        assert_eq!(mappings[1].api_name, "CPP");
+        assert_eq!(mappings[1].display_name, "C++");
+        assert_eq!(mappings[2].api_name, "Python");
+        assert_eq!(mappings[2].display_name, "Python");
+    }
+
+    #[test]
+    fn test_parse_languages_with_default_list() {
+        let mappings = parse_languages(None);
+
+        // Check a few key languages from the default list
+        assert!(mappings.len() > 10); // Should have many default languages
+
+        // Find a few specific languages
+        let rust = mappings.iter().find(|m| m.api_name == "Rust").unwrap();
+        let csharp = mappings.iter().find(|m| m.api_name == "CSharp").unwrap();
+
+        assert_eq!(rust.display_name, "Rust");
+        assert_eq!(csharp.display_name, "C#");
+    }
+
+    #[test]
+    fn test_write_repos_to_csv() -> Result<()> {
+        let temp_dir = tempdir()?;
+        let file_path = temp_dir.path().join("rust.csv");
+
+        let repos = vec![
+            Repo {
+                name: "rust".to_string(),
+                html_url: "https://github.com/rust-lang/rust".to_string(),
+                stargazers_count: 50000,
+                forks_count: 10000,
+                watchers_count: 50000,
+                language: Some("Rust".to_string()),
+                description: Some("The Rust Programming Language".to_string()),
+                open_issues_count: 5000,
+                pushed_at: "2023-01-01T00:00:00Z".to_string(),
+                created_at: "2010-01-01T00:00:00Z".to_string(),
+                size: 100000,
+            },
+            Repo {
+                name: "actix".to_string(),
+                html_url: "https://github.com/actix/actix".to_string(),
+                stargazers_count: 10000,
+                forks_count: 2000,
+                watchers_count: 10000,
+                language: Some("Rust".to_string()),
+                description: Some("Actor framework for Rust".to_string()),
+                open_issues_count: 1000,
+                pushed_at: "2023-01-02T00:00:00Z".to_string(),
+                created_at: "2018-01-01T00:00:00Z".to_string(),
+                size: 5000,
+            },
+        ];
+
+        write_repos_to_csv(&file_path, &repos)?;
+
+        // Check that the file exists
+        assert!(file_path.exists());
+
+        // Read the CSV to verify content
+        let content = fs::read_to_string(&file_path)?;
+        assert!(content.contains("Ranking,Project Name,Stars,Forks"));
+        assert!(content.contains("1,rust,50000,10000"));
+        assert!(content.contains("2,actix,10000,2000"));
+
+        Ok(())
+    }
 }

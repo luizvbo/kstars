@@ -11,4 +11,12 @@ tokio = { version = "1", features = ["full"] }
 clap = { version = "4", features = ["derive", "env"] }
 csv = "1.3"
 tracing = "0.1"
-tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt", "time"] }
+tracing-subscriber = { version = "0.3", features = [
+  "env-filter",
+  "fmt",
+  "time",
+] }
+
+[dev-dependencies]
+tempfile = "3.8"
+csv = "1.1"
