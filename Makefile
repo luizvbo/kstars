@@ -1,2 +1,5 @@
-build:
-	cargo install --release --path .
+install:
+	cargo install --path .
+
+test:
+	cargo test
