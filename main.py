@@ -1,7 +1,10 @@
+from collections.abc import Iterable
+from typing import  Any, TypeVar
 import os
 
-
 from prefect import flow, task
+
+T = TypeVar('T')
 
 LANGUAGES = {
     "ActionScript": "ActionScript",
@@ -41,17 +44,24 @@ LANGUAGES = {
 }
 
 
+def chunk_iterable(iterable: Iterable[T], chunk_size: int) -> list[list[T]]:
+    """Convert iterable items to chunks of specified size."""
+    items = list(iterable) 
+    return [items[i:i + chunk_size] for i in range(0, len(items), chunk_size)]
+
 @task
-def run_kstars(language, lang_name):
+def run_kstars(language: str, lang_name: str):
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name}"
     print(f"Running command: {command}")
-    os.system(command)
+    _ = os.system(command)
+    return lang_name
 
 
 @flow(log_prints=True)
 def run_kstars_flow():
-    for lang, lang_name in LANGUAGES.items():
-        run_kstars.submit(lang, lang_name)
+    wait_for  = []
+    for lang_trio in chunk_iterable(LANGUAGES.items(), 3):
+        wait_for = [run_kstars.submit(lang, lang_name, wait_for=wait_for) for lang, lang_name in lang_trio]
 
 
 if __name__ == "__main__":

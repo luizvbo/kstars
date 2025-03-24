@@ -326,8 +326,15 @@ async fn main() -> Result<()> {
         let safe_name: String = mapping
             .display_name
             .chars()
-            .map(|c| if c.is_alphanumeric() { c } else { '_' })
+            .map(|c| {
+                if c.is_alphanumeric() || vec!['_', '-', '.', '+', '#', ' '].contains(&c) {
+                    c
+                } else {
+                    '_'
+                }
+            })
             .collect();
+
         let file_path = format!("{}/{}.csv", args.output, safe_name);
         write_repos_to_csv(&file_path, &repos)
             .with_context(|| format!("Failed writing CSV for {}", mapping.display_name))?;
