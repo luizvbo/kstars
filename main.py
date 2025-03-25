@@ -2,9 +2,7 @@ import os
 from collections.abc import Iterable
 from typing import TypeVar
 
-from prefect import flow, task
-from prefect.client import get_client
-from prefect.concurrency.sync import rate_limit
+from prefect import flow, task, get_client
 
 T = TypeVar("T")
 
@@ -59,9 +57,8 @@ async def setup_rate_limit():
         )
 
 
-@task
+@task(tags=["kstars-api"])
 def run_kstars(language: str, lang_name: str):
-    rate_limit("kstars-api")
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name}"
     print(f"Running command: {command}")
     _ = os.system(command)
@@ -69,10 +66,11 @@ def run_kstars(language: str, lang_name: str):
 
 
 @flow(log_prints=True)
-def run_kstars_flow():
+async def run_kstars_flow():
+    await setup_rate_limit()  # Create the concurrency limit before submitting tasks
     for lang, lang_name in LANGUAGES.items():
         _ = run_kstars.submit(lang, lang_name)
 
 
 if __name__ == "__main__":
-    run_kstars_flow()
+    asyncio.run(run_kstars_flow())
