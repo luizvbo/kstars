@@ -3,6 +3,7 @@ from collections.abc import Iterable
 from typing import TypeVar
 
 from prefect import flow, task, get_client
+import asyncio
 
 T = TypeVar("T")
 
