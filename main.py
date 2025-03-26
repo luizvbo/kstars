@@ -1,4 +1,5 @@
 import os
+from prefect import Flow, register_flow
 from collections.abc import Iterable
 from typing import TypeVar
 
@@ -67,6 +68,5 @@ def run_kstars_flow():
     for lang, lang_name in LANGUAGES.items():
         _ = run_kstars.submit(lang, lang_name)
 
-
 if __name__ == "__main__":
-    run_kstars_flow()
+    register_flow(flow=run_kstars_flow)
