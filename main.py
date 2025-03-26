@@ -1,5 +1,4 @@
 import os
-from prefect import Flow, register_flow
 from collections.abc import Iterable
 from typing import TypeVar
 
@@ -64,9 +63,14 @@ def run_kstars(language: str, lang_name: str):
 
 
 @flow(log_prints=True)
-def run_kstars_flow():
-    for lang, lang_name in LANGUAGES.items():
+def run_kstars_flow(languages: dict[str, str]):
+    for lang, lang_name in languages.items():
         _ = run_kstars.submit(lang, lang_name)
 
+
 if __name__ == "__main__":
-    register_flow(flow=run_kstars_flow)
+    run_kstars_flow.deploy(
+        name="run-kstars",
+        parameters={"languages": LANGUAGES},
+        work_pool_name="local",
+    )
