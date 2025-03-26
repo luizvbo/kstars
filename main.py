@@ -2,8 +2,8 @@ import os
 from collections.abc import Iterable
 from typing import TypeVar
 
-from prefect import flow, task, get_client
-import asyncio
+from prefect import flow, task
+from prefect.concurrency.sync import rate_limit
 
 T = TypeVar("T")
 
@@ -51,27 +51,22 @@ def chunk_iterable(iterable: Iterable[T], chunk_size: int) -> list[list[T]]:
     return [items[i : i + chunk_size] for i in range(0, len(items), chunk_size)]
 
 
-async def setup_rate_limit():
-    async with get_client() as client:
-        await client.create_concurrency_limit(
-            tag="kstars-api", concurrency_limit=3, slot_decay_per_second=0.1
-        )
-
-
 @task(tags=["kstars-api"])
 def run_kstars(language: str, lang_name: str):
+    rate_limit("rate-limited-gh-api")
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name}"
     print(f"Running command: {command}")
-    _ = os.system(command)
+    result = os.system(command)
+    if result != 0:
+        raise Exception(f"The rust API consumer failed with error: {result}")
     return lang_name
 
 
 @flow(log_prints=True)
-async def run_kstars_flow():
-    await setup_rate_limit()  # Create the concurrency limit before submitting tasks
+def run_kstars_flow():
     for lang, lang_name in LANGUAGES.items():
         _ = run_kstars.submit(lang, lang_name)
 
 
 if __name__ == "__main__":
-    asyncio.run(run_kstars_flow())
+    run_kstars_flow()
