@@ -7,7 +7,6 @@ from prefect import flow, task
 from prefect.concurrency.sync import rate_limit
 
 T = TypeVar("T")
-logger = get_run_logger()
 
 LANGUAGES = {
     "ActionScript": "ActionScript",
@@ -55,7 +54,7 @@ def chunk_iterable(iterable: Iterable[T], chunk_size: int) -> list[list[T]]:
 
 @task(tags=["kstars-api"])
 def run_kstars(language: str, lang_name: str):
-    rate_limit("rate-limited-gh-api")
+    logger = get_run_logger()
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name}"
     print(f"Running command: {command}")
     try:
