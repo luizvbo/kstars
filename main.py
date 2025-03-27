@@ -82,13 +82,12 @@ def run_kstars(language: str, lang_name: str):
 def run_kstars_flow(languages: dict[str, str]):
     for lang, lang_name in languages.items():
         rate_limit("rate-limited-gh-api")
-        _ = run_kstars.submit(lang, lang_name)
+        _ = run_kstars(lang, lang_name)
 
 
 if __name__ == "__main__":
     _ = run_kstars_flow.serve(
         name="kstars-load-api",
         parameters={"languages": LANGUAGES},
-        # work_pool_name="local",
         cron="0 1 * * 5",
     )
