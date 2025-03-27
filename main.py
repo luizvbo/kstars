@@ -1,4 +1,5 @@
 import os
+import subprocess
 from collections.abc import Iterable
 from typing import TypeVar
 
@@ -56,9 +57,31 @@ def run_kstars(language: str, lang_name: str):
     rate_limit("rate-limited-gh-api")
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name}"
     print(f"Running command: {command}")
-    result = os.system(command)
-    if result != 0:
-        raise Exception(f"The rust API consumer failed with error: {result}")
+    try:
+        result = subprocess.run(
+            command,
+            shell=True,
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        print("Stdout:")
+        print(result.stdout)
+        print("Stderr:")
+        print(result.stderr)
+
+    except subprocess.CalledProcessError as e:
+        print(f"Error running command: {e}")
+        print("Stdout (error context):")
+        print(e.stdout)
+        print("Stderr (error context):")
+        print(e.stderr)
+    except FileNotFoundError:
+        print(f"Error: The command '{command.split()[0]}' was not found.")
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        result = os.system(command)
+
     return lang_name
 
 
