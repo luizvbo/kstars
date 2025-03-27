@@ -69,8 +69,9 @@ def run_kstars_flow(languages: dict[str, str]):
 
 
 if __name__ == "__main__":
-    run_kstars_flow.deploy(
-        name="run-kstars",
+    _ = run_kstars_flow.deploy(
+        name="kstars-load-api",
         parameters={"languages": LANGUAGES},
         work_pool_name="local",
+        cron="0 1 * * 5",
     )
