@@ -55,6 +55,7 @@ def chunk_iterable(iterable: Iterable[T], chunk_size: int) -> list[list[T]]:
 @task(tags=["kstars-api"])
 def run_kstars(language: str, lang_name: str):
     logger = get_run_logger()
+    rate_limit("rate-limited-gh-api")
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name}"
     print(f"Running command: {command}")
     try:
