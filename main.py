@@ -1,5 +1,5 @@
-import os
 import subprocess
+from prefect.logging import get_run_logger
 from collections.abc import Iterable
 from typing import TypeVar
 
@@ -7,6 +7,7 @@ from prefect import flow, task
 from prefect.concurrency.sync import rate_limit
 
 T = TypeVar("T")
+logger = get_run_logger()
 
 LANGUAGES = {
     "ActionScript": "ActionScript",
@@ -65,22 +66,15 @@ def run_kstars(language: str, lang_name: str):
             text=True,
             check=True
         )
-        print("Stdout:")
-        print(result.stdout)
-        print("Stderr:")
-        print(result.stderr)
+        logger.info(result.stdout)
+        logger.error(result.stderr)
 
     except subprocess.CalledProcessError as e:
-        print(f"Error running command: {e}")
-        print("Stdout (error context):")
-        print(e.stdout)
-        print("Stderr (error context):")
-        print(e.stderr)
+        logger.error(f"Error running command: {e}\n{e.stdout}\n{e.stderr}")
     except FileNotFoundError:
-        print(f"Error: The command '{command.split()[0]}' was not found.")
+        logger.error(f"Error: The command '{command.split()[0]}' was not found.")
     except Exception as e:
-        print(f"An unexpected error occurred: {e}")
-        result = os.system(command)
+        logger.error(f"An unexpected error occurred: {e}")
 
     return lang_name
 
