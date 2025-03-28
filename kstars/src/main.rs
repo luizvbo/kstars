@@ -1,7 +1,10 @@
 use anyhow::{Context, Result};
 use clap::Parser;
 use csv::Writer;
-use reqwest::Client;
+use reqwest::{
+    Client,
+    header::{ACCEPT, AUTHORIZATION, HeaderMap, HeaderValue, USER_AGENT},
+};
 use serde::Deserialize;
 use std::{fs, path::Path, time::Duration};
 use tokio::time::sleep;
@@ -85,16 +88,34 @@ fn get_access_token(token_input: Option<String>) -> Result<String> {
 }
 
 /// Fetches repositories for a given language and page (each page has 100 results).
-async fn fetch_repos(client: &Client, token: &str, language: &str, page: u32) -> Result<Vec<Repo>> {
+/// Fetches repositories for a given language and page (each page has 100 results).
+async fn fetch_repos(
+    client: &reqwest::Client,
+    token: &str,
+    language: &str,
+    page: u32,
+) -> Result<Vec<Repo>> {
     let url = format!(
         "https://api.github.com/search/repositories?q=language:{}&sort=stars&order=desc&per_page=100&page={}",
         language, page
     );
     debug!("Requesting URL: {}", url);
+
+    // Create a header map and set the required headers
+    let mut headers = HeaderMap::new();
+    headers.insert(USER_AGENT, HeaderValue::from_static("rust-github-app"));
+    headers.insert(
+        ACCEPT,
+        HeaderValue::from_static("application/vnd.github.v3+json"),
+    );
+    headers.insert(
+        AUTHORIZATION,
+        HeaderValue::from_str(&format!("token {}", token)).expect("Invalid token format"),
+    );
+
     let resp = client
         .get(&url)
-        .header("User-Agent", "rust-github-app")
-        .header("Authorization", format!("token {}", token))
+        .headers(headers)
         .send()
         .await
         .context("HTTP request failed")?;
