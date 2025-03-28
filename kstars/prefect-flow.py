@@ -66,6 +66,7 @@ def human_readable_size(size_kb):
 
 @task(tags=["kstars-data-processing"])
 def preprocess_data(lang_name: str,input_folder: Path, output_folder: Path):
+    logger = get_run_logger()
     fname = f"{lang_name}.csv"
     df: pd.DataFrame = pd.read_csv(Path(input_folder) / fname)
     for col in ("Last Commit", "Created At"):
@@ -73,9 +74,11 @@ def preprocess_data(lang_name: str,input_folder: Path, output_folder: Path):
     for col in ("Stars", "Forks", "Watchers", "Open Issues"):
         df[col] = df[col].apply("{:,}".format)
     df["Size (KB)"] = df["Size (KB)"].apply(human_readable_size)
-    df.to_csv(Path(input_folder) / fname, index=False)
-    df.head(10).to_csv(Path(input_folder) / f"top10_{fname}", index=False)
-
+    fname_out = Path(output_folder) / fname
+    fname_out_top10 = Path(output_folder) / f"top10_{fname}"
+    df.to_csv(fname_out, index=False)
+    df.head(10).to_csv(fname_out_top10, index=False)
+    logger.info(f"Stored processed files to '{fname_out}' and '{fname_out_top10}'")
 
 @task(tags=["kstars-api"])
 def run_kstars(language: str, lang_name: str, output_folder: str | Path):
