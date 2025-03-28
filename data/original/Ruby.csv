@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size (KB),Description,Language,Repo URL
+1,rails,56644,21814,56644,1277,2008-04-11T02:19:47Z,2025-03-28T08:25:57Z,264014,Ruby on Rails,Ruby,https://github.com/rails/rails
+2,jekyll,49800,10075,49800,205,2008-10-20T06:29:03Z,2025-02-05T20:05:53Z,68944,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,Ruby,https://github.com/jekyll/jekyll
+3,mastodon,48005,7133,48005,4109,2016-02-22T15:01:25Z,2025-03-28T13:16:12Z,288509,"Your self-hosted, globally interconnected microblogging community",Ruby,https://github.com/mastodon/mastodon
+4,huginn,45354,3916,45354,679,2013-03-10T06:00:31Z,2025-03-27T19:14:28Z,8739,Create agents that monitor and act on your behalf.  Your agents are standing by!,Ruby,https://github.com/huginn/huginn
+5,discourse,43580,8485,43580,74,2013-01-12T00:25:55Z,2025-03-28T15:01:23Z,719634,"A platform for community discussion. Free, open, simple.",Ruby,https://github.com/discourse/discourse
+6,brew,43036,10110,43036,85,2016-03-06T05:08:38Z,2025-03-28T12:06:09Z,97309,🍺 The missing package manager for macOS (or Linux),Ruby,https://github.com/Homebrew/brew
+7,maybe,42504,3039,42504,27,2024-01-01T22:23:46Z,2025-03-26T16:41:43Z,5672,The OS for your personal finances,Ruby,https://github.com/maybe-finance/maybe
+8,fastlane,40016,5786,40016,843,2014-12-02T17:00:38Z,2025-03-26T20:13:02Z,82067,🚀 The easiest way to automate building and releasing your iOS and Android apps,Ruby,https://github.com/fastlane/fastlane
+9,devdocs,35973,2410,35973,215,2013-10-24T18:16:07Z,2025-03-27T19:34:34Z,31970,API Documentation Browser,Ruby,https://github.com/freeCodeCamp/devdocs
+10,metasploit-framework,35181,14229,35181,462,2011-08-30T06:13:20Z,2025-03-28T15:00:58Z,1100875,Metasploit Framework,Ruby,https://github.com/rapid7/metasploit-framework
+11,engineering-blogs,32888,1748,32888,131,2015-06-13T18:25:17Z,2024-08-21T13:01:11Z,1339,A curated list of engineering blogs,Ruby,https://github.com/kilimchoi/engineering-blogs
+12,awesome-awesomeness,32462,3571,32462,40,2014-07-08T05:44:19Z,2024-06-02T22:46:41Z,381,A curated list of awesome awesomeness,Ruby,https://github.com/bayandin/awesome-awesomeness
+13,vagrant,26562,4445,26562,726,2010-01-21T08:34:27Z,2025-03-22T05:12:27Z,81574,Vagrant is a tool for building and distributing development environments.,Ruby,https://github.com/hashicorp/vagrant
+14,awesome-swift,25225,3092,25225,5,2014-07-10T14:04:09Z,2025-02-03T16:03:14Z,7454,A collaborative list of awesome Swift libraries and resources. Feel free to contribute!,Ruby,https://github.com/matteocrippa/awesome-swift
+15,devise,24148,5538,24148,219,2009-09-16T12:15:12Z,2024-11-29T13:15:22Z,5836,Flexible authentication solution for Rails with Warden.,Ruby,https://github.com/heartcombo/devise
+16,gitlabhq,23932,5752,23932,36,2011-10-02T16:25:27Z,2025-03-28T12:15:47Z,1856901,GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com,Ruby,https://github.com/gitlabhq/gitlabhq
+17,chatwoot,22944,4087,22944,975,2019-08-14T06:50:51Z,2025-03-28T09:55:36Z,155360,"Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",Ruby,https://github.com/chatwoot/chatwoot
+18,ruby,22453,5391,22453,424,2010-02-27T15:55:23Z,2025-03-28T14:08:52Z,328317,The Ruby Programming Language,Ruby,https://github.com/ruby/ruby
+19,forem,22222,4093,22222,680,2016-11-13T23:02:13Z,2025-03-26T20:47:29Z,1700054,For empowering community 🌱,Ruby,https://github.com/forem/forem
+20,homebrew-cask,21216,10896,21216,25,2012-03-05T02:05:17Z,2025-03-28T13:39:02Z,442367,🍻 A CLI workflow for the administration of macOS applications distributed as binaries,Ruby,https://github.com/Homebrew/homebrew-cask
+21,setup,18910,1600,18910,3,2014-04-06T09:25:02Z,2025-01-20T13:57:10Z,26646,Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp,Ruby,https://github.com/lewagon/setup
+22,postal,15352,1101,15352,67,2017-04-19T12:04:57Z,2025-03-21T23:00:25Z,3264,📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail,Ruby,https://github.com/postalserver/postal
+23,CocoaPods,14678,2660,14678,783,2011-08-14T00:10:53Z,2024-11-10T22:01:14Z,98052,The Cocoa Dependency Manager.,Ruby,https://github.com/CocoaPods/CocoaPods
+24,spree,14495,5060,14495,205,2008-03-10T14:45:35Z,2025-03-28T13:57:06Z,160137,"An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",Ruby,https://github.com/spree/spree
+25,quine-relay,14128,557,14128,16,2013-07-15T13:29:20Z,2024-12-09T17:32:15Z,14867,An uroboros program with 100+ programming languages,Ruby,https://github.com/mame/quine-relay
+26,homebrew-core,14125,12702,14125,120,2016-03-01T06:58:36Z,2025-03-28T14:19:47Z,920153,🍻 Default formulae for the missing package manager for macOS (or Linux),Ruby,https://github.com/Homebrew/homebrew-core
+27,gollum,13975,1562,13975,62,2010-03-29T18:30:53Z,2025-01-17T21:34:27Z,134120,"A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.",Ruby,https://github.com/gollum/gollum
+28,diaspora,13458,2920,13458,424,2010-09-15T05:20:04Z,2025-01-23T21:21:36Z,117355,"A privacy-aware, distributed, open source social network.",Ruby,https://github.com/diaspora/diaspora
+29,sidekiq,13275,2441,13275,29,2012-01-16T23:17:27Z,2025-03-27T06:53:00Z,14348,"Simple, efficient background processing for Ruby",Ruby,https://github.com/sidekiq/sidekiq
+30,fluentd,13083,1363,13083,139,2011-06-19T08:41:40Z,2025-03-27T04:52:34Z,20051,Fluentd: Unified Logging Layer (project under CNCF),Ruby,https://github.com/fluent/fluentd
+31,tmuxinator,12943,626,12943,100,2010-12-10T21:49:50Z,2025-03-22T14:31:51Z,994,Manage complex tmux sessions easily,Ruby,https://github.com/tmuxinator/tmuxinator
+32,capistrano,12771,1770,12771,59,2009-02-26T16:14:04Z,2025-02-09T01:32:29Z,4635,"A deployment automation tool built on Ruby, Rake, and SSH.",Ruby,https://github.com/capistrano/capistrano
+33,rubocop,12708,3072,12708,357,2012-04-21T10:09:58Z,2025-03-28T07:48:35Z,49641,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.",Ruby,https://github.com/rubocop/rubocop
+34,linguist,12629,4442,12629,217,2011-05-09T22:53:13Z,2025-03-18T17:16:27Z,40823,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",Ruby,https://github.com/github-linguist/linguist
+35,kamal,12314,527,12314,129,2023-01-07T14:32:08Z,2025-03-24T09:38:23Z,2464,Deploy web apps anywhere.,Ruby,https://github.com/basecamp/kamal
+36,sinatra,12260,2076,12260,23,2009-01-14T01:27:30Z,2025-03-16T20:53:55Z,7725,Classy web-development dressed in a DSL (official / canonical repo),Ruby,https://github.com/sinatra/sinatra
+37,faker,11341,3177,11341,18,2008-12-24T17:20:37Z,2025-03-26T23:34:59Z,13615,"A library for generating fake data such as names, addresses, and phone numbers.",Ruby,https://github.com/faker-ruby/faker
+38,liquid,11302,1432,11302,388,2008-05-08T15:27:26Z,2025-03-19T17:51:57Z,6019,"Liquid markup language. Safe, customer facing template language for flexible web apps. ",Ruby,https://github.com/Shopify/liquid
+39,fpm,11262,1077,11262,770,2011-01-03T20:07:59Z,2025-03-06T04:43:02Z,3010,"Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",Ruby,https://github.com/jordansissel/fpm
+40,Learning-SICP,11086,1543,11086,1,2012-11-14T13:43:27Z,2023-09-27T09:43:25Z,9077,MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。,Ruby,https://github.com/DeathKing/Learning-SICP
+41,remote-working,10773,866,10773,10,2013-10-22T03:17:29Z,2025-03-28T13:25:14Z,1271,收集整理远程工作相关的资料,Ruby,https://github.com/greatghoul/remote-working
+42,openproject,10105,2503,10105,87,2012-11-28T09:59:11Z,2025-03-28T14:39:19Z,1721212,OpenProject is the leading open source project management software.,Ruby,https://github.com/opf/openproject
+43,capybara,10069,1456,10069,54,2009-11-04T22:19:17Z,2024-08-16T08:12:16Z,12796,Acceptance test framework for web applications,Ruby,https://github.com/teamcapybara/capybara
+44,grape,9919,1225,9919,258,2010-08-02T14:25:08Z,2025-03-15T16:04:35Z,6275,An opinionated framework for creating REST-like APIs in Ruby.,Ruby,https://github.com/ruby-grape/grape
+45,activeadmin,9564,3318,9564,27,2010-04-15T14:26:03Z,2025-03-22T11:38:40Z,15457,The administration framework for Ruby on Rails applications.,Ruby,https://github.com/activeadmin/activeadmin
+46,guides,9499,1375,9499,19,2012-07-27T03:15:44Z,2025-03-28T15:00:54Z,834,A guide for programming in style.,Ruby,https://github.com/thoughtbot/guides
+47,resque,9456,1658,9456,86,2009-08-12T00:27:35Z,2025-01-06T12:56:33Z,2614,"Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",Ruby,https://github.com/resque/resque
+48,octopress,9309,2603,9309,244,2009-10-18T21:41:32Z,2024-03-29T12:47:20Z,170801,Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?,Ruby,https://github.com/imathis/octopress
+49,bourbon,9072,873,9072,0,2011-04-23T15:41:20Z,2024-09-13T18:28:12Z,3159,A Lightweight Sass Tool Set,Ruby,https://github.com/thoughtbot/bourbon
+50,paperclip,8997,2421,8997,54,2008-04-10T19:58:20Z,2023-07-13T17:57:58Z,3579,Easy file attachment management for ActiveRecord,Ruby,https://github.com/thoughtbot/paperclip
+51,wpscan,8914,1280,8914,59,2012-07-11T20:27:47Z,2025-03-27T20:17:21Z,60690,WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com,Ruby,https://github.com/wpscanteam/wpscan
+52,docuseal,8912,623,8912,61,2023-07-03T19:54:54Z,2025-03-24T12:16:17Z,3581,"Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",Ruby,https://github.com/docusealco/docuseal
+53,how-to-contribute-to-open-source,8896,1843,8896,75,2016-09-25T22:01:22Z,2025-03-15T17:20:01Z,799,A guide to contributing to open source,Ruby,https://github.com/freeCodeCamp/how-to-contribute-to-open-source
+54,whenever,8856,725,8856,98,2009-02-16T03:19:48Z,2024-07-31T22:44:25Z,537,Cron jobs in Ruby,Ruby,https://github.com/javan/whenever
+55,carrierwave,8782,1663,8782,43,2008-08-28T18:39:49Z,2025-03-16T09:55:24Z,5169,"Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",Ruby,https://github.com/carrierwaveuploader/carrierwave
+56,kaminari,8619,1083,8619,67,2011-02-06T08:07:20Z,2025-01-26T16:51:22Z,1561,"⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",Ruby,https://github.com/kaminari/kaminari
+57,pghero,8384,451,8384,14,2014-07-21T09:56:02Z,2025-03-22T05:52:54Z,2020,A performance dashboard for Postgres,Ruby,https://github.com/ankane/pghero
+58,pundit,8365,642,8365,18,2012-11-04T09:20:19Z,2025-03-03T14:43:41Z,682,Minimal authorization through OO design and pure Ruby classes,Ruby,https://github.com/varvet/pundit
+59,simple_form,8223,1313,8223,37,2009-12-28T14:23:48Z,2024-08-19T04:11:57Z,2856,"Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",Ruby,https://github.com/heartcombo/simple_form
+60,factory_bot,7961,2598,7961,88,2008-06-03T13:55:37Z,2025-03-24T12:32:46Z,3355,A library for setting up Ruby objects as test data.,Ruby,https://github.com/thoughtbot/factory_bot
+61,omniauth,7951,982,7951,98,2010-03-30T20:34:32Z,2025-02-27T18:48:58Z,3049,OmniAuth is a flexible authentication system utilizing Rack middleware.,Ruby,https://github.com/omniauth/omniauth
+62,rails_admin,7919,2263,7919,197,2010-08-01T17:01:00Z,2025-03-09T08:42:49Z,20997,RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data,Ruby,https://github.com/railsadminteam/rails_admin
+63,puma,7742,1455,7742,97,2011-09-23T02:26:08Z,2025-03-27T18:11:43Z,12057,A Ruby/Rack web server built for parallelism,Ruby,https://github.com/puma/puma
+64,chef,7696,2515,7696,414,2009-01-15T20:40:48Z,2025-03-28T07:45:22Z,299643,"Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",Ruby,https://github.com/chef/chef
+65,puppet,7550,2194,7550,78,2010-09-14T19:26:44Z,2025-02-04T16:47:25Z,90565,Server automation framework and application,Ruby,https://github.com/puppetlabs/puppet
+66,scientist,7535,448,7535,14,2014-02-05T15:58:43Z,2024-12-16T16:42:01Z,244,:microscope: A Ruby library for carefully refactoring critical paths.,Ruby,https://github.com/github/scientist
+67,github-changelog-generator,7434,847,7434,150,2014-10-31T14:06:48Z,2024-11-26T07:32:04Z,2334,"Automatically generate change log from your tags, issues, labels and pull requests on GitHub.",Ruby,https://github.com/github-changelog-generator/github-changelog-generator
+68,jazzy,7361,412,7361,79,2014-06-06T05:52:11Z,2024-10-19T11:38:27Z,89681,Soulful docs for Swift & Objective-C,Ruby,https://github.com/realm/jazzy
+69,bullet,7175,443,7175,106,2009-08-13T15:47:31Z,2025-02-26T10:26:55Z,1687,help to kill N+1 queries and unused eager loading,Ruby,https://github.com/flyerhzm/bullet
+70,brakeman,7095,741,7095,119,2010-08-27T00:00:58Z,2025-02-27T23:58:10Z,41195,A static analysis security vulnerability scanner for Ruby on Rails applications,Ruby,https://github.com/presidentbeef/brakeman
+71,middleman,7090,753,7090,11,2009-07-27T21:41:11Z,2025-03-24T12:23:34Z,23613,Hand-crafted frontend development,Ruby,https://github.com/middleman/middleman
+72,community,7075,2760,7075,0,2020-10-06T00:30:24Z,2025-03-11T16:53:42Z,548,"Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!",Ruby,https://github.com/community/community
+73,dotfiles,6972,1396,6972,5,2011-11-17T22:01:19Z,2024-06-02T22:29:46Z,2936,"YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen",Ruby,https://github.com/skwp/dotfiles
+74,nodejs-learning-guide,6895,1218,6895,11,2016-11-03T14:35:28Z,2023-08-22T05:55:31Z,1166,"Nodejs学习笔记以及经验总结，公众号""程序猿小卡""",Ruby,https://github.com/chyingp/nodejs-learning-guide
+75,better_errors,6885,435,6885,69,2012-12-08T11:02:18Z,2024-07-09T08:00:44Z,1494,Better error page for Rack apps,Ruby,https://github.com/BetterErrors/better_errors
+76,paper_trail,6848,905,6848,14,2009-05-27T15:20:55Z,2024-11-10T18:32:10Z,3903,Track changes to your rails models,Ruby,https://github.com/paper-trail-gem/paper_trail
+77,pry,6792,601,6792,125,2010-12-07T08:10:47Z,2025-02-16T02:12:27Z,8632,A runtime developer console and IRB alternative with powerful introspection capabilities.,Ruby,https://github.com/pry/pry
+78,dotenv,6644,511,6644,12,2012-07-24T03:38:51Z,2024-12-18T00:47:18Z,679,A Ruby gem to load environment variables from `.env`. ,Ruby,https://github.com/bkeepers/dotenv
+79,searchkick,6605,758,6605,24,2013-07-15T01:44:33Z,2025-03-04T05:27:15Z,3154,Intelligent search made easy,Ruby,https://github.com/ankane/searchkick
+80,css-only-chat,6596,274,6596,14,2019-05-07T14:32:58Z,2023-09-08T09:40:31Z,21,A truly monstrous async web chat using no JS whatsoever on the frontend,Ruby,https://github.com/kkuchta/css-only-chat
+81,mailcatcher,6574,585,6574,42,2010-10-25T01:29:06Z,2024-05-25T04:47:59Z,942,Catches mail and serves it through a dream.,Ruby,https://github.com/sj26/mailcatcher
+82,chartkick,6411,570,6411,6,2013-05-07T07:39:38Z,2025-02-19T15:56:03Z,2233,Create beautiful JavaScript charts with one line of Ruby,Ruby,https://github.com/ankane/chartkick
+83,geocoder,6373,1199,6373,47,2009-04-15T16:38:04Z,2025-03-12T01:48:04Z,3226,Complete Ruby geocoding solution.,Ruby,https://github.com/alexreisner/geocoder
+84,guard,6256,486,6256,67,2010-08-02T16:26:44Z,2025-01-02T14:35:15Z,4028,Guard is a command line tool to easily handle events on file system modifications.,Ruby,https://github.com/guard/guard
+85,hanami,6255,540,6255,39,2013-08-09T15:24:44Z,2025-03-26T10:46:00Z,26824,A flexible framework for maintainable Ruby apps,Ruby,https://github.com/hanami/hanami
+86,cancan,6255,782,6255,244,2009-11-17T01:04:45Z,2021-12-11T21:39:34Z,648,Authorization Gem for Ruby on Rails.,Ruby,https://github.com/ryanb/cancan
+87,lolcat,6225,220,6225,29,2011-08-10T13:33:42Z,2024-03-05T16:19:55Z,533,Rainbows and unicorns!,Ruby,https://github.com/busyloop/lolcat
+88,friendly_id,6181,594,6181,30,2008-04-18T13:16:06Z,2024-01-19T01:28:50Z,3862,FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.,Ruby,https://github.com/norman/friendly_id
+89,synx,6079,275,6079,57,2014-04-29T20:28:39Z,2019-07-18T23:40:39Z,18385,A command-line tool that reorganizes your Xcode project folder to match your Xcode groups,Ruby,https://github.com/venmo/synx
+90,foreman,6069,631,6069,70,2010-05-18T00:53:45Z,2024-08-06T22:37:50Z,1223,Manage Procfile-based applications,Ruby,https://github.com/ddollar/foreman
+91,progit,5999,2391,5999,19,2009-07-27T04:52:25Z,2019-04-04T07:17:36Z,33201,"Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)",Ruby,https://github.com/progit/progit
+92,vcr,5916,508,5916,89,2010-02-25T07:16:00Z,2025-01-13T07:35:24Z,3388,"Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",Ruby,https://github.com/vcr/vcr
+93,canvas-lms,5912,2623,5912,591,2011-02-01T00:08:40Z,2025-03-28T14:47:06Z,1932395,"The open LMS by Instructure, Inc.",Ruby,https://github.com/instructure/canvas-lms
+94,markup,5908,3391,5908,46,2009-10-31T01:02:46Z,2025-03-21T23:23:33Z,790,Determines which markup library to use to render a content file (e.g. README) on GitHub,Ruby,https://github.com/github/markup
+95,httparty,5846,963,5846,40,2008-07-28T20:55:11Z,2025-03-27T14:47:21Z,1575,:tada: Makes http fun again!,Ruby,https://github.com/jnunemaker/httparty
+96,faraday,5800,986,5800,46,2009-12-10T17:14:55Z,2025-03-03T05:54:32Z,3443,"Simple, but flexible HTTP client library, with support for multiple backends.",Ruby,https://github.com/lostisland/faraday
+97,WhatWeb,5790,930,5790,52,2010-09-30T10:00:30Z,2024-07-16T06:02:54Z,10996,Next generation web scanner,Ruby,https://github.com/urbanadventurer/WhatWeb
+98,ransack,5745,816,5745,161,2011-03-31T00:34:25Z,2025-03-26T18:44:32Z,6134,Object-based searching. ,Ruby,https://github.com/activerecord-hackery/ransack
+99,concurrent-ruby,5725,417,5725,56,2013-07-23T12:19:51Z,2025-03-23T10:04:22Z,11077,"Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.",Ruby,https://github.com/ruby-concurrency/concurrent-ruby
+100,fast-ruby,5708,379,5708,48,2014-10-13T11:19:28Z,2025-03-07T13:45:30Z,1386,:dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.,Ruby,https://github.com/fastruby/fast-ruby
+101,will_paginate,5707,867,5707,43,2008-02-25T20:21:40Z,2024-06-10T09:07:53Z,1071,Pagination library for Rails and other Ruby applications,Ruby,https://github.com/mislav/will_paginate
+102,dnsmasq-china-list,5703,885,5703,28,2013-06-02T03:10:59Z,2025-03-26T17:40:22Z,334201,Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.,Ruby,https://github.com/felixonmars/dnsmasq-china-list
+103,maximum-awesome,5699,968,5699,35,2013-06-18T00:14:21Z,2025-02-22T22:36:05Z,403,Config files for vim and tmux.,Ruby,https://github.com/square/maximum-awesome
+104,cancancan,5625,641,5625,84,2014-02-19T18:26:23Z,2025-01-27T07:26:12Z,3708,The authorization Gem for Ruby on Rails.,Ruby,https://github.com/CanCanCommunity/cancancan
+105,rack-attack,5604,339,5604,13,2012-07-29T02:19:18Z,2025-02-12T22:37:28Z,966,Rack middleware for blocking & throttling,Ruby,https://github.com/rack/rack-attack
+106,danger,5518,482,5518,161,2015-09-29T05:54:39Z,2025-03-20T10:13:11Z,3446,"🚫 Stop saying ""you forgot to …"" in code review (in Ruby)",Ruby,https://github.com/danger/danger
+107,wayback-machine-downloader,5510,731,5510,189,2015-07-25T23:45:34Z,2024-02-08T05:46:31Z,164,Download an entire website from the Wayback Machine.,Ruby,https://github.com/hartator/wayback-machine-downloader
+108,redmine,5444,2349,5444,8,2012-11-19T22:47:09Z,2025-03-28T07:50:07Z,98669,Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp,Ruby,https://github.com/redmine/redmine
+109,t-ruby,5420,406,5420,179,2011-11-23T02:59:48Z,2024-04-30T21:36:28Z,3653,A command-line power tool for Twitter.,Ruby,https://github.com/sferik/t-ruby
+110,graphql-ruby,5395,1404,5395,67,2015-02-05T04:11:22Z,2025-03-27T14:51:15Z,197514,Ruby implementation of GraphQL ,Ruby,https://github.com/rmosolgo/graphql-ruby
+111,doorkeeper,5377,1076,5377,48,2011-11-18T13:02:01Z,2025-01-31T07:17:13Z,4398,Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.,Ruby,https://github.com/doorkeeper-gem/doorkeeper
+112,active_model_serializers,5332,1388,5332,190,2011-12-01T06:39:26Z,2024-12-01T00:56:17Z,4469,ActiveModel::Serializer implementation and Rails hooks,Ruby,https://github.com/rails-api/active_model_serializers
+113,slim,5331,503,5331,20,2010-09-13T01:32:07Z,2025-03-19T17:48:07Z,2459,Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.,Ruby,https://github.com/slim-template/slim
+114,webpacker,5298,1469,5298,21,2016-12-07T00:55:03Z,2024-07-16T12:30:22Z,5462,Use Webpack to manage app-like JavaScript modules in Rails,Ruby,https://github.com/rails/webpacker
+115,draper,5233,526,5233,25,2011-06-30T22:03:24Z,2025-03-06T14:34:59Z,1407,Decorators/View-Models for Rails Applications,Ruby,https://github.com/drapergem/draper
+116,rest-client,5227,933,5227,141,2009-12-07T19:34:29Z,2024-05-19T10:18:13Z,1458,"Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",Ruby,https://github.com/rest-client/rest-client
+117,formtastic,5209,631,5209,38,2008-04-07T11:18:11Z,2024-08-13T08:14:41Z,4073,A Rails form builder plugin with semantically rich and accessible markup.,Ruby,https://github.com/formtastic/formtastic
+118,rspec-rails,5207,1044,5207,51,2009-12-23T16:40:53Z,2025-03-27T09:29:31Z,4982,RSpec for Rails 7+,Ruby,https://github.com/rspec/rspec-rails
+119,cucumber-ruby,5190,1118,5190,16,2008-04-17T18:19:13Z,2025-03-14T09:53:26Z,16840,Cucumber for Ruby. It's amazing!,Ruby,https://github.com/cucumber/cucumber-ruby
+120,thor,5159,552,5159,150,2008-05-07T20:07:31Z,2025-03-11T07:25:00Z,2943,Thor is a toolkit for building powerful command-line interfaces.,Ruby,https://github.com/rails/thor
+121,rails-api,5150,276,5150,13,2012-03-17T14:39:31Z,2021-05-02T19:31:04Z,182,Rails for API only applications,Ruby,https://github.com/rails-api/rails-api
+122,react_on_rails,5145,633,5145,27,2015-08-20T20:31:54Z,2025-03-27T18:11:49Z,11300,"Integration of React + Webpack + Rails + rails/webpacker including server-side rendering of React, enabling a better developer experience and faster client performance.",Ruby,https://github.com/shakacode/react_on_rails
+123,solidus,5120,1318,5120,125,2015-02-18T20:41:58Z,2025-03-27T17:50:28Z,107571,"🛒 Solidus, the open-source eCommerce framework for industry trailblazers.",Ruby,https://github.com/solidusio/solidus
+124,aasm,5064,639,5064,182,2008-02-28T20:40:04Z,2024-08-13T08:57:55Z,1973,"AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)",Ruby,https://github.com/aasm/aasm
+125,fast_jsonapi,5056,420,5056,104,2018-02-01T00:19:19Z,2023-03-06T16:52:00Z,336,No Longer Maintained - A lightning fast JSON:API serializer for Ruby Objects.,Ruby,https://github.com/Netflix/fast_jsonapi
+126,sequel,5021,1074,5021,0,2008-03-31T05:41:15Z,2025-03-21T14:44:35Z,59711,Sequel: The Database Toolkit for Ruby,Ruby,https://github.com/jeremyevans/sequel
+127,colorls,4996,393,4996,86,2017-06-29T16:41:23Z,2024-11-14T19:20:02Z,41135,"A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:",Ruby,https://github.com/athityakumar/colorls
+128,acts-as-taggable-on,4984,1197,4984,310,2008-03-21T19:07:26Z,2025-02-05T14:28:04Z,1307,A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.,Ruby,https://github.com/mbleigh/acts-as-taggable-on
+129,rack,4982,1640,4982,18,2008-12-24T03:03:12Z,2025-03-25T19:10:48Z,10161,A modular Ruby web server interface.,Ruby,https://github.com/rack/rack
+130,dependabot-core,4957,1086,4957,1336,2017-06-02T12:23:31Z,2025-03-28T14:54:28Z,98958,🤖 Dependabot's core logic for creating update PRs.,Ruby,https://github.com/dependabot/dependabot-core
+131,asciidoctor,4953,805,4953,742,2012-06-01T19:09:20Z,2025-02-14T09:07:29Z,18880,":gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.",Ruby,https://github.com/asciidoctor/asciidoctor
+132,ubicloud,4917,174,4917,54,2023-01-17T19:29:00Z,2025-03-28T12:34:52Z,8520,"Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.",Ruby,https://github.com/ubicloud/ubicloud
+133,bundler,4883,1987,4883,0,2010-01-26T00:46:38Z,2021-03-19T11:26:04Z,226892,Manage your Ruby application's gem dependencies,Ruby,https://github.com/rubygems/bundler
+134,opal,4860,330,4860,149,2009-04-24T08:53:34Z,2025-03-20T21:29:48Z,21069,Ruby ♥︎ JavaScript,Ruby,https://github.com/opal/opal
+135,backup,4844,673,4844,11,2009-10-01T19:28:42Z,2024-07-03T12:44:26Z,3511,Easy full stack backup operations on UNIX-like systems.,Ruby,https://github.com/backup/backup
+136,wraith,4839,357,4839,124,2013-01-23T15:26:31Z,2023-01-15T21:10:16Z,9471,Wraith — A responsive screenshot comparison tool,Ruby,https://github.com/bbc/wraith
+137,simplecov,4818,564,4818,131,2010-08-15T15:28:56Z,2025-02-17T15:19:36Z,2809,Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites,Ruby,https://github.com/simplecov-ruby/simplecov
+138,evil-winrm,4772,626,4772,0,2019-05-28T10:53:00Z,2024-12-02T08:52:41Z,2651,The ultimate WinRM shell for hacking/pentesting,Ruby,https://github.com/Hackplayers/evil-winrm
+139,lolcommits,4761,245,4761,41,2011-10-02T15:25:44Z,2025-03-28T03:55:15Z,2204,:camera: git-based selfies for software developers,Ruby,https://github.com/lolcommits/lolcommits
+140,pagy,4736,419,4736,10,2017-12-31T11:48:16Z,2025-03-28T06:05:38Z,29005,🏆 The Best Pagination Ruby Gem 🥇,Ruby,https://github.com/ddnexus/pagy
+141,zammad,4723,796,4723,466,2012-04-02T08:50:33Z,2025-03-28T06:00:40Z,659259,Zammad is a web based open source helpdesk/customer support system,Ruby,https://github.com/zammad/zammad
+142,prawn,4704,695,4704,93,2008-04-04T22:37:39Z,2025-01-13T21:01:51Z,44262,"Fast, Nimble PDF Writer for Ruby",Ruby,https://github.com/prawnpdf/prawn
+143,shenzhen,4643,491,4643,0,2012-09-28T03:52:00Z,2021-06-20T10:17:38Z,261,CLI for Building & Distributing iOS Apps (.ipa Files),Ruby,https://github.com/nomad-cli/shenzhen
+144,blazer,4639,476,4639,38,2014-10-01T04:54:55Z,2025-03-22T06:03:26Z,4347,Business intelligence made simple,Ruby,https://github.com/ankane/blazer
+145,twitter-ruby,4578,1301,4578,1,2008-02-14T02:20:50Z,2024-04-30T20:16:46Z,20346,A Ruby interface to the Twitter API.,Ruby,https://github.com/sferik/twitter-ruby
+146,active_merchant,4557,2494,4557,121,2008-05-20T13:53:26Z,2025-03-28T09:33:13Z,32480,Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.,Ruby,https://github.com/activemerchant/active_merchant
+147,https-portal,4535,302,4535,48,2015-12-14T20:09:04Z,2025-03-25T11:24:20Z,398,"A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.",Ruby,https://github.com/SteveLTN/https-portal
+148,annotate_models,4457,652,4457,144,2008-02-27T18:04:38Z,2024-08-05T23:45:54Z,1670,Annotate Rails classes with schema and routes info,Ruby,https://github.com/ctran/annotate_models
+149,gemoji,4435,787,4435,14,2011-12-14T17:04:35Z,2024-07-22T14:47:03Z,25920,Emoji images and names.,Ruby,https://github.com/github/gemoji
+150,mechanize,4414,472,4414,5,2008-04-18T16:55:10Z,2025-01-05T18:30:35Z,2563,Mechanize is a ruby library that makes automated web interaction easy.,Ruby,https://github.com/sparklemotion/mechanize
+151,neat,4408,425,4408,0,2012-08-02T17:28:38Z,2019-10-21T13:48:02Z,1870,A fluid and flexible grid Sass framework,Ruby,https://github.com/thoughtbot/neat
+152,octobox,4389,349,4389,58,2016-12-16T23:29:16Z,2025-03-27T11:41:46Z,23502,📮 Untangle your GitHub Notifications,Ruby,https://github.com/octobox/octobox
+153,explore,4370,13094,4370,6,2017-09-16T16:19:53Z,2025-03-27T17:10:01Z,68340,Community-curated topic and collection pages on GitHub,Ruby,https://github.com/github/explore
+154,jbuilder,4365,439,4365,55,2011-11-27T14:02:35Z,2024-09-15T14:37:03Z,620,Jbuilder: generate JSON objects with a Builder-style DSL,Ruby,https://github.com/rails/jbuilder
+155,mina,4362,489,4362,35,2012-06-01T09:32:50Z,2024-08-01T23:49:40Z,959,Blazing fast deployer and server automation tool,Ruby,https://github.com/mina-deploy/mina
+156,dawarich,4350,118,4350,122,2024-03-24T19:46:00Z,2025-03-24T20:30:11Z,12815,Self-hostable alternative to Google Location History (Google Maps Timeline),Ruby,https://github.com/Freika/dawarich
+157,authlogic,4343,643,4343,12,2008-10-24T21:13:34Z,2025-01-01T17:31:34Z,2439,A simple ruby authentication solution.,Ruby,https://github.com/binarylogic/authlogic
+158,YouPlot,4331,57,4331,16,2020-07-28T14:05:15Z,2024-12-26T00:02:39Z,548,A command line tool that draw plots on the terminal.,Ruby,https://github.com/red-data-tools/YouPlot
+159,fog,4316,1463,4316,8,2009-05-18T07:14:04Z,2024-11-19T13:42:48Z,21842,The Ruby cloud services library.,Ruby,https://github.com/fog/fog
+160,ahoy,4297,378,4297,7,2014-02-26T08:42:22Z,2025-02-01T19:47:16Z,828,"Simple, powerful, first-party analytics for Rails",Ruby,https://github.com/ankane/ahoy
+161,terraforming,4285,655,4285,146,2015-03-25T03:50:06Z,2021-12-11T08:18:50Z,1079,"Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained",Ruby,https://github.com/dtan4/terraforming
+162,lobsters,4274,859,4274,141,2012-08-24T16:48:03Z,2025-03-27T16:20:58Z,6921,Computing-focused community centered around link aggregation and discussion,Ruby,https://github.com/lobsters/lobsters
+163,eventmachine,4271,630,4271,208,2008-08-17T18:35:57Z,2024-09-16T19:37:10Z,2665,"EventMachine: fast, simple event-processing library for Ruby programs",Ruby,https://github.com/eventmachine/eventmachine
+164,errbit,4247,995,4247,81,2010-08-04T04:08:34Z,2025-03-28T13:54:55Z,24933,The open source error catcher that's Airbrake API compliant,Ruby,https://github.com/errbit/errbit
+165,parallel,4191,254,4191,34,2009-08-11T18:54:16Z,2024-08-16T15:11:46Z,811,Ruby: parallel processing made simple and fast,Ruby,https://github.com/grosser/parallel
+166,rails_best_practices,4177,276,4177,62,2009-11-03T13:41:10Z,2023-02-06T08:49:01Z,2556,a code metric tool for rails projects,Ruby,https://github.com/flyerhzm/rails_best_practices
+167,strong_migrations,4169,181,4169,4,2015-11-23T05:24:42Z,2025-03-22T03:45:35Z,762,Catch unsafe migrations in development,Ruby,https://github.com/ankane/strong_migrations
+168,typhoeus,4092,438,4092,111,2009-02-18T23:14:50Z,2025-03-12T17:13:03Z,1491, Typhoeus wraps libcurl in order to make fast and reliable requests.,Ruby,https://github.com/typhoeus/typhoeus
+169,activerecord-import,4089,614,4089,38,2010-03-12T05:06:53Z,2025-03-11T15:29:56Z,4996,A library for bulk insertion of data into your database using ActiveRecord.,Ruby,https://github.com/zdennis/activerecord-import
+170,awesome_print,4087,453,4087,107,2010-04-03T04:45:43Z,2024-08-15T20:03:46Z,831,Pretty print your Ruby objects with style -- in full color and with proper indentation,Ruby,https://github.com/awesome-print/awesome_print
+171,reek,4072,280,4072,53,2008-09-05T10:48:33Z,2025-03-25T08:35:18Z,5971,Code smell detector for Ruby,Ruby,https://github.com/troessner/reek
+172,rails-erd,4040,372,4040,94,2010-09-19T18:51:11Z,2023-10-12T07:05:55Z,1299,Generate Entity-Relationship Diagrams for Rails applications,Ruby,https://github.com/voormedia/rails-erd
+173,kss,4028,272,4028,36,2011-11-25T18:03:29Z,2017-12-06T06:40:17Z,759,A methodology for documenting CSS and generating styleguides.,Ruby,https://github.com/kneath/kss
+174,suspenders,4028,529,4028,33,2010-05-14T14:34:46Z,2025-03-17T12:11:49Z,1967,A Rails template with our standard defaults.,Ruby,https://github.com/thoughtbot/suspenders
+175,webmock,4001,569,4001,179,2009-11-06T10:37:29Z,2025-03-08T10:49:44Z,2736,Library for stubbing and setting expectations on HTTP requests in Ruby.,Ruby,https://github.com/bblimke/webmock
+176,stringer,3999,399,3999,26,2013-04-06T04:51:27Z,2025-03-24T06:29:11Z,9953,"A self-hosted, anti-social RSS reader.",Ruby,https://github.com/stringer-rss/stringer
+177,rails-i18n,3996,2763,3996,31,2008-07-31T13:07:53Z,2025-03-27T19:24:54Z,3144,"Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff",Ruby,https://github.com/svenfuchs/rails-i18n
+178,WebHackersWeapons,3988,698,3988,5,2020-04-04T14:54:04Z,2025-03-06T00:52:34Z,37391,"⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting",Ruby,https://github.com/hahwul/WebHackersWeapons
+179,redis-rb,3985,1033,3985,22,2009-02-26T00:53:51Z,2025-03-21T10:44:10Z,2616,A Ruby client library for Redis,Ruby,https://github.com/redis/redis-rb
+180,xcpretty,3959,290,3959,118,2013-12-09T01:31:14Z,2025-03-26T19:42:24Z,3830,Flexible and fast xcodebuild formatter,Ruby,https://github.com/xcpretty/xcpretty
+181,theodinproject,3941,2094,3941,53,2013-05-15T22:08:12Z,2025-03-28T04:42:09Z,34058,Main Website for The Odin Project,Ruby,https://github.com/TheOdinProject/theodinproject
+182,overcommit,3939,281,3939,31,2011-03-24T09:56:15Z,2025-03-03T06:24:49Z,3073,A fully configurable and extendable Git hook manager,Ruby,https://github.com/sds/overcommit
+183,mongoid,3915,1385,3915,283,2009-09-16T16:24:56Z,2025-03-24T19:47:04Z,22059,The Official Ruby Object Mapper for MongoDB,Ruby,https://github.com/mongodb/mongoid
+184,refinerycms,3907,1249,3907,45,2009-05-28T20:13:21Z,2023-08-06T07:08:40Z,27444,An extendable Ruby on Rails CMS that supports Rails 6.0+,Ruby,https://github.com/refinery/refinerycms
+185,celluloid,3885,272,3885,13,2011-03-31T04:05:41Z,2024-03-07T20:00:57Z,4965,Actor-based concurrent object framework for Ruby,Ruby,https://github.com/celluloid/celluloid
+186,octokit.rb,3881,1147,3881,11,2009-12-10T21:41:49Z,2025-03-17T19:43:45Z,17345,Ruby toolkit for the GitHub API,Ruby,https://github.com/octokit/octokit.rb
+187,arachni,3866,768,3866,133,2010-08-25T16:06:38Z,2023-05-24T13:08:51Z,35471,Web Application Security Scanner Framework,Ruby,https://github.com/Arachni/arachni
+188,ruby-warrior,3858,836,3858,39,2008-07-04T21:59:44Z,2024-03-27T16:44:44Z,464,Game written in Ruby for learning Ruby.,Ruby,https://github.com/ryanb/ruby-warrior
+189,ruby,3850,760,3850,15,2013-02-01T21:49:13Z,2025-03-21T21:10:56Z,378,Ruby Style Guide,Ruby,https://github.com/airbnb/ruby
+190,groupdate,3834,238,3834,2,2013-04-18T05:39:03Z,2025-02-16T18:59:55Z,757,The simplest way to group temporal data,Ruby,https://github.com/ankane/groupdate
+191,homeland,3825,1202,3825,27,2012-03-27T10:26:23Z,2025-03-21T23:59:58Z,29665,":circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.",Ruby,https://github.com/ruby-china/homeland
+192,jruby,3818,923,3818,826,2009-04-05T03:54:35Z,2025-03-28T14:11:37Z,293522,"JRuby, an implementation of Ruby on the JVM",Ruby,https://github.com/jruby/jruby
+193,dryrun,3815,280,3815,4,2015-08-19T00:00:04Z,2020-11-25T19:25:25Z,6599,☁️ Try the demo project of any Android Library,Ruby,https://github.com/cesarferreira/dryrun
+194,gist,3814,340,3814,62,2008-10-10T23:35:47Z,2022-06-23T18:02:22Z,1391,Potentially the best command line gister.,Ruby,https://github.com/defunkt/gist
+195,choosealicense.com,3802,1395,3802,47,2013-07-15T15:25:34Z,2025-03-20T18:08:33Z,2987,A site to provide non-judgmental guidance on choosing a license for your open source project,Ruby,https://github.com/github/choosealicense.com
+196,flipper,3784,426,3784,21,2012-07-22T19:39:38Z,2025-03-11T12:53:48Z,8153,"🐬 Beautiful, performant feature flags for Ruby.",Ruby,https://github.com/flippercloud/flipper
+197,ancestry,3780,462,3780,60,2009-10-16T13:37:09Z,2025-02-12T16:10:42Z,9585,Organise ActiveRecord model into a tree structure,Ruby,https://github.com/stefankroes/ancestry
+198,rack-mini-profiler,3776,411,3776,52,2013-09-06T23:32:44Z,2025-02-11T01:30:25Z,2083,Profiler for your development and production Ruby rack apps. ,Ruby,https://github.com/MiniProfiler/rack-mini-profiler
+199,i18n-js,3776,520,3776,8,2009-09-02T03:35:45Z,2024-11-14T17:30:02Z,2980,It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.,Ruby,https://github.com/fnando/i18n-js
+200,haml,3775,575,3775,21,2008-02-11T22:55:26Z,2024-12-28T15:27:55Z,10581,HTML Abstraction Markup Language - A Markup Haiku,Ruby,https://github.com/haml/haml
+201,figaro,3766,287,3766,77,2012-04-02T18:57:32Z,2024-04-28T11:47:34Z,346,Simple Rails app configuration,Ruby,https://github.com/laserlemon/figaro
+202,xiki,3763,207,3763,119,2008-06-05T01:03:11Z,2020-01-03T07:11:19Z,6494,A shell console with GUI features,Ruby,https://github.com/trogdoro/xiki
+203,virtus,3763,230,3763,71,2011-04-02T16:23:50Z,2021-08-10T13:39:34Z,1853,[DISCONTINUED ] Attributes on Steroids for Plain Old Ruby Objects,Ruby,https://github.com/solnic/virtus
+204,letter_opener,3757,239,3757,3,2011-09-07T21:17:22Z,2024-08-02T07:09:54Z,237,Preview mail in the browser instead of sending.,Ruby,https://github.com/ryanb/letter_opener
+205,fusuma,3753,150,3753,24,2016-10-02T18:13:48Z,2025-02-19T15:52:05Z,753,Multitouch gestures with libinput driver on Linux,Ruby,https://github.com/iberianpig/fusuma
+206,rubygems,3751,1787,3751,269,2010-04-16T19:02:44Z,2025-03-28T07:50:49Z,202254,Library packaging and distribution for Ruby.,Ruby,https://github.com/rubygems/rubygems
+207,awesome-blockchains,3749,444,3749,0,2017-09-13T22:33:56Z,2023-02-10T16:37:58Z,2593,A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ,Ruby,https://github.com/openblockchains/awesome-blockchains
+208,state_machine,3734,518,3734,92,2008-06-25T03:41:05Z,2024-03-12T12:13:22Z,5785,Adds support for creating state machines for attributes on any Ruby class,Ruby,https://github.com/pluginaweek/state_machine
+209,clearance,3716,468,3716,32,2008-09-24T19:57:58Z,2024-11-26T16:42:09Z,6846,Rails authentication with email & password.,Ruby,https://github.com/thoughtbot/clearance
+210,OSCP-Exam-Report-Template-Markdown,3712,770,3712,3,2019-06-30T19:48:49Z,2024-12-02T19:56:34Z,3821,":orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report",Ruby,https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+211,sorbet,3670,544,3670,847,2018-06-26T18:13:06Z,2025-03-28T14:50:34Z,201017,"A fast, powerful type checker designed for Ruby",Ruby,https://github.com/sorbet/sorbet
+212,scss-lint,3665,465,3665,67,2012-12-18T18:31:42Z,2024-01-16T23:59:53Z,2474,"Configurable tool for writing clean, consistent SCSS",Ruby,https://github.com/sds/scss-lint
+213,rabl,3640,335,3640,120,2011-04-08T01:56:15Z,2025-01-04T12:27:54Z,1914,"General ruby templating with json, bson, xml, plist and msgpack support",Ruby,https://github.com/nesquena/rabl
+214,mail,3633,941,3633,173,2008-11-22T03:16:54Z,2025-03-20T05:39:25Z,7089,A Really Ruby Mail Library,Ruby,https://github.com/mikel/mail
+215,ruby-jwt,3620,375,3620,16,2011-02-23T21:45:17Z,2025-01-25T10:16:35Z,1517,A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.,Ruby,https://github.com/jwt/ruby-jwt
+216,aws-sdk-ruby,3605,1221,3605,25,2011-07-14T22:21:47Z,2025-03-28T02:30:01Z,501832,The official AWS SDK for Ruby,Ruby,https://github.com/aws/aws-sdk-ruby
+217,fat_free_crm,3598,1323,3598,78,2008-11-25T03:09:44Z,2025-03-28T08:30:43Z,20431,Ruby on Rails CRM platform,Ruby,https://github.com/fatfreecrm/fat_free_crm
+218,devise_token_auth,3563,1136,3563,204,2014-06-29T22:43:58Z,2025-03-11T01:05:35Z,9051,Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.,Ruby,https://github.com/lynndylanhurley/devise_token_auth
+219,wicked_pdf,3558,649,3558,303,2009-06-16T21:03:09Z,2025-03-10T14:50:54Z,848,PDF generator (from HTML) plugin for Ruby on Rails,Ruby,https://github.com/mileszs/wicked_pdf
+220,koala,3557,464,3557,45,2010-04-22T07:14:55Z,2024-12-28T15:57:53Z,7441,"A lightweight Facebook library supporting the Graph, Marketing, and Atlas APIs, realtime updates, test users, and OAuth.",Ruby,https://github.com/arsduo/koala
+221,docker-sync,3541,285,3541,6,2016-07-08T13:27:42Z,2024-10-24T10:47:33Z,3027,"Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux",Ruby,https://github.com/EugenMayer/docker-sync
+222,shoulda-matchers,3540,911,3540,47,2010-12-15T22:41:52Z,2025-03-14T20:43:18Z,15891,Simple one-liner tests for common Rails functionality,Ruby,https://github.com/thoughtbot/shoulda-matchers
+223,feedbin,3538,276,3538,175,2013-08-24T00:31:31Z,2025-03-28T12:53:59Z,24156,A nice place to read on the web.,Ruby,https://github.com/feedbin/feedbin
+224,docs,3534,452,3534,50,2011-10-04T18:33:41Z,2024-03-18T09:14:01Z,16926,Curriculum for RailsBridge workshops,Ruby,https://github.com/railsbridge/docs
+225,blog,3521,309,3521,13,2014-01-25T11:17:41Z,2016-05-22T01:21:07Z,22294,"Too young, too simple. Sometimes, naive.",Ruby,https://github.com/livoras/blog
+226,scenic,3496,228,3496,26,2014-04-29T16:36:17Z,2025-02-21T14:42:32Z,424,Versioned database views for Rails,Ruby,https://github.com/scenic-views/scenic
+227,lograge,3496,301,3496,69,2012-03-10T06:24:57Z,2024-11-10T20:02:22Z,378,An attempt to tame Rails' default policy to log everything.,Ruby,https://github.com/roidrage/lograge
+228,blackcandy,3494,174,3494,32,2018-02-07T06:51:06Z,2025-03-12T13:22:11Z,11792,A self hosted music streaming server,Ruby,https://github.com/blackcandy-org/blackcandy
+229,trailblazer,3444,139,3444,36,2013-06-26T02:03:42Z,2025-02-12T10:55:25Z,1618,The advanced business logic framework for Ruby.,Ruby,https://github.com/trailblazer/trailblazer
+230,styles,3437,3852,3437,363,2010-12-16T22:46:44Z,2025-03-22T21:29:31Z,70385,Official repository for Citation Style Language (CSL) citation styles.,Ruby,https://github.com/citation-style-language/styles
+231,audited,3424,674,3424,200,2008-02-09T16:14:05Z,2024-11-08T20:40:47Z,1201,Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.,Ruby,https://github.com/collectiveidea/audited
+232,parallel_tests,3419,504,3419,131,2009-05-17T10:54:32Z,2025-03-09T18:40:50Z,32193,"Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber",Ruby,https://github.com/grosser/parallel_tests
+233,objc-zen-book-cn,3413,813,3413,3,2015-03-16T12:43:43Z,2018-05-01T00:22:51Z,802,ObjC Zen Book 中文翻译,Ruby,https://github.com/oa414/objc-zen-book-cn
+234,interactor,3402,215,3402,26,2013-07-25T20:32:44Z,2025-01-02T03:56:32Z,183,Interactor provides a common interface for performing complex user interactions.,Ruby,https://github.com/collectiveidea/interactor
+235,plugin-directory,3396,689,3396,2,2014-05-11T14:12:42Z,2025-03-23T00:16:05Z,5493,Official Sketch Plugin directory,Ruby,https://github.com/sketchplugins/plugin-directory
+236,rubycritic,3392,225,3392,52,2013-10-09T14:58:31Z,2025-03-10T19:37:08Z,3303,A Ruby code quality reporter,Ruby,https://github.com/whitesmith/rubycritic
+237,timecop,3386,227,3386,8,2008-11-07T20:37:52Z,2024-12-30T18:38:03Z,403,"A gem providing ""time travel"", ""time freezing"", and ""time acceleration"" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.",Ruby,https://github.com/travisjeffery/timecop
+238,padrino-framework,3386,504,3386,56,2009-11-18T00:33:56Z,2025-01-01T22:53:48Z,11149,Padrino is a full-stack ruby framework built upon Sinatra. ,Ruby,https://github.com/padrino/padrino-framework
+239,rails-composer,3385,483,3385,46,2012-07-24T18:43:01Z,2019-05-30T19:00:30Z,760,Rails Composer. The Rails generator on steroids for starter apps.,Ruby,https://github.com/RailsApps/rails-composer
+240,view_component,3382,448,3382,36,2019-08-02T22:02:20Z,2025-03-27T21:26:20Z,3949,"A framework for building reusable, testable & encapsulated view components in Ruby on Rails.",Ruby,https://github.com/ViewComponent/view_component
+241,rouge,3362,756,3362,257,2012-08-31T09:54:51Z,2024-12-23T06:01:16Z,4986,A pure Ruby code highlighter that is compatible with Pygments,Ruby,https://github.com/rouge-ruby/rouge
+242,sha256-animation,3351,164,3351,1,2020-05-11T09:49:59Z,2024-03-06T12:11:56Z,8053,Animation of the SHA-256 hash function in your terminal.,Ruby,https://github.com/in3rsha/sha256-animation
+243,jekyll-bootstrap,3343,1700,3343,57,2011-12-30T23:03:46Z,2024-11-30T21:13:59Z,810,The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.,Ruby,https://github.com/plusjade/jekyll-bootstrap
+244,byebug,3337,330,3337,93,2013-03-18T20:21:11Z,2025-03-28T14:59:02Z,4209,Debugging in Ruby 2,Ruby,https://github.com/deivid-rodriguez/byebug
+245,minitest,3321,568,3321,19,2009-02-18T07:40:21Z,2025-03-12T19:16:54Z,1716,"minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.",Ruby,https://github.com/minitest/minitest
+246,sstoolkit,3303,574,3303,1,2010-08-19T19:17:22Z,2015-10-30T04:40:24Z,5369,A collection of well-documented iOS classes for making life easier,Ruby,https://github.com/soffes/sstoolkit
+247,wisper,3295,154,3295,2,2013-03-29T23:48:32Z,2024-08-15T15:29:18Z,327,A micro library providing Ruby objects with Publish-Subscribe capabilities,Ruby,https://github.com/krisleech/wisper
+248,fontcustom,3286,422,3286,131,2012-10-08T02:14:42Z,2023-03-08T19:00:37Z,1635,Generate custom icon webfonts from the comfort of the command line.,Ruby,https://github.com/FontCustom/fontcustom
+249,pgsync,3274,205,3274,14,2015-12-08T05:37:40Z,2025-03-27T23:46:11Z,518,Sync data from one Postgres database to another,Ruby,https://github.com/ankane/pgsync
+250,algorithms,3258,356,3258,2,2014-11-10T01:11:42Z,2022-08-18T11:55:51Z,117,algorithms playground for common questions,Ruby,https://github.com/sagivo/algorithms
+251,chronic,3243,459,3243,148,2008-01-29T06:48:49Z,2023-09-28T02:41:20Z,689,Chronic is a pure Ruby natural language date parser.,Ruby,https://github.com/mojombo/chronic
+252,high_voltage,3214,152,3214,0,2009-04-21T19:54:37Z,2025-03-05T15:10:16Z,968,Easily include static pages in your Rails app.,Ruby,https://github.com/thoughtbot/high_voltage
+253,volt,3212,195,3212,76,2014-01-10T18:10:09Z,2018-01-23T08:54:42Z,3537,A Ruby web framework where your Ruby runs on both server and client,Ruby,https://github.com/voltrb/volt
+254,shrine,3205,272,3205,21,2015-10-25T23:33:32Z,2024-09-09T15:54:23Z,14191,File Attachment toolkit for Ruby applications,Ruby,https://github.com/shrinerb/shrine
+255,peek,3181,148,3181,17,2013-03-09T07:22:46Z,2024-04-26T00:50:43Z,232,Take a peek into your Rails applications.,Ruby,https://github.com/peek/peek
+256,rolify,3171,405,3171,151,2011-06-03T20:54:40Z,2023-10-18T20:50:00Z,729,Role management library with resource scoping,Ruby,https://github.com/RolifyCommunity/rolify
+257,secure_headers,3167,253,3167,31,2012-12-12T01:41:57Z,2025-03-24T17:00:32Z,1694,Manages application of security headers with many safe defaults,Ruby,https://github.com/github/secure_headers
+258,selfstarter,3163,1619,3163,48,2012-10-11T17:42:56Z,2022-10-27T17:12:44Z,10623,Roll your own crowdfunding,Ruby,https://github.com/apigy/selfstarter
+259,dotjs,3151,337,3151,27,2011-02-07T07:01:33Z,2018-07-26T16:09:13Z,579,~/.js,Ruby,https://github.com/defunkt/dotjs
+260,awesome-xcode-extensions,3141,210,3141,1,2016-08-17T20:17:01Z,2023-09-24T15:39:25Z,140,Awesome native Xcode extensions.,Ruby,https://github.com/theswiftdev/awesome-xcode-extensions
+261,psd.rb,3119,205,3119,24,2013-05-08T03:33:06Z,2021-01-08T15:32:24Z,8368,Parse Photoshop files in Ruby with ease,Ruby,https://github.com/layervault/psd.rb
+262,dalli,3102,453,3102,25,2010-08-17T16:56:58Z,2025-02-18T17:33:13Z,1477,High performance memcached client for Ruby,Ruby,https://github.com/petergoldstein/dalli
+263,factory_bot_rails,3100,374,3100,7,2010-05-24T20:27:03Z,2025-02-28T15:16:07Z,402,Factory Bot ♥ Rails,Ruby,https://github.com/thoughtbot/factory_bot_rails
+264,truffleruby,3098,189,3098,175,2016-02-05T18:03:11Z,2025-03-28T12:44:07Z,306788,"A high performance implementation of the Ruby programming language, built on GraalVM.",Ruby,https://github.com/oracle/truffleruby
+265,cocoon,3085,383,3085,34,2011-02-09T17:50:09Z,2023-08-08T14:11:26Z,375,"Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms",Ruby,https://github.com/nathanvda/cocoon
+266,elasticsearch-rails,3080,801,3080,55,2013-11-08T17:00:19Z,2025-02-18T10:53:49Z,5791,Elasticsearch integrations for ActiveModel/Record and Ruby on Rails,Ruby,https://github.com/elastic/elasticsearch-rails
+267,cells,3073,237,3073,38,2008-08-06T10:31:06Z,2024-12-02T09:00:38Z,1743,View components for Ruby and Rails.,Ruby,https://github.com/trailblazer/cells
+268,gon,3057,185,3057,50,2011-05-09T15:26:18Z,2023-03-10T15:31:07Z,878,Your Rails variables in your JS,Ruby,https://github.com/gazay/gon
+269,mustache,3045,268,3045,52,2009-09-24T08:20:21Z,2024-07-09T21:48:32Z,1179,Logic-less Ruby templates.,Ruby,https://github.com/mustache/mustache
+270,http,3019,324,3019,92,2011-10-06T04:19:10Z,2024-12-19T02:38:28Z,1904,"HTTP (The Gem! a.k.a. http.rb) - a fast Ruby HTTP client with a chainable API, streaming support, and timeouts",Ruby,https://github.com/httprb/http
+271,derailed_benchmarks,3012,144,3012,12,2014-10-15T20:56:37Z,2025-01-01T20:08:57Z,589,"Go faster, off the Rails - Benchmarks for your whole Rails app",Ruby,https://github.com/zombocom/derailed_benchmarks
+272,ruby-openai,3004,359,3004,36,2020-08-03T22:56:25Z,2025-03-14T17:12:49Z,3153,OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!,Ruby,https://github.com/alexrudall/ruby-openai
+273,hashie,2998,313,2998,36,2009-11-12T14:12:00Z,2025-01-30T09:11:48Z,1283,Hashie is a collection of classes and mixins that make Ruby hashes more powerful.,Ruby,https://github.com/hashie/hashie
+274,Portus,2997,473,2997,155,2015-04-13T12:18:20Z,2023-01-19T11:16:56Z,37491,Authorization service and frontend for Docker registry (v2),Ruby,https://github.com/SUSE/Portus
+275,public_activity,2980,337,2980,22,2011-02-28T10:25:44Z,2024-10-07T22:42:11Z,628,Easy activity tracking for models - similar to Github's Public Activity,Ruby,https://github.com/public-activity/public_activity
+276,lunchy,2944,117,2944,3,2011-03-23T22:29:39Z,2021-02-15T21:49:27Z,59,A friendly wrapper for launchctl,Ruby,https://github.com/eddiezane/lunchy
+277,database_cleaner,2944,483,2944,26,2009-03-05T06:08:15Z,2025-03-10T15:18:19Z,1376,Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.,Ruby,https://github.com/DatabaseCleaner/database_cleaner
+278,fake-s3,2939,357,2939,116,2012-04-13T01:03:08Z,2023-04-13T18:57:21Z,226,A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies,Ruby,https://github.com/jubos/fake-s3
+279,pdfkit,2937,428,2937,0,2010-05-21T13:21:26Z,2023-08-22T23:38:08Z,16521,A Ruby gem to transform HTML + CSS into PDFs using the command-line utility wkhtmltopdf,Ruby,https://github.com/pdfkit/pdfkit
+280,oxidized,2933,958,2933,85,2013-04-17T14:50:06Z,2025-03-26T23:14:54Z,3121,Oxidized is a network device configuration backup tool. It's a RANCID replacement!,Ruby,https://github.com/ytti/oxidized
+281,houston,2928,227,2928,0,2012-09-07T21:08:33Z,2021-06-20T11:02:39Z,149,Apple Push Notifications; No Dirigible Required,Ruby,https://github.com/nomad-cli/houston
+282,csscss,2917,151,2917,16,2013-03-01T23:17:25Z,2018-11-27T17:45:20Z,226,A CSS redundancy analyzer that analyzes redundancy.,Ruby,https://github.com/zmoazeni/csscss
+283,JXA-Cookbook,2915,118,2915,8,2014-10-28T13:15:58Z,2014-11-02T17:07:07Z,1981,Cookbook for JavaScript for Automation in Mac OS X Yosemite,Ruby,https://github.com/JXA-Cookbook/JXA-Cookbook
+284,paranoia,2905,531,2905,105,2010-09-12T08:57:53Z,2025-03-16T14:26:11Z,475,"acts_as_paranoid for Rails 5, 6 and 7",Ruby,https://github.com/rubysherpas/paranoia
+285,inspec,2896,680,2896,423,2015-08-28T22:16:01Z,2025-03-28T11:39:37Z,57264,InSpec: Auditing and Testing Framework,Ruby,https://github.com/inspec/inspec
+286,rollout,2891,212,2891,9,2010-07-18T04:25:36Z,2024-03-01T11:52:28Z,232,Feature flippers.,Ruby,https://github.com/fetlife/rollout
+287,sensu,2886,386,2886,50,2011-07-11T17:50:16Z,2019-12-31T23:01:24Z,4054,Monitoring for today's infrastructure. ,Ruby,https://github.com/sensu/sensu
+288,vagrant-vbguest,2881,219,2881,0,2011-09-06T20:41:41Z,2023-12-17T15:26:49Z,633,A Vagrant plugin to keep your VirtualBox Guest Additions up to date,Ruby,https://github.com/dotless-de/vagrant-vbguest
+289,kubelabs,2859,984,2859,9,2019-12-27T05:45:17Z,2025-01-25T19:06:44Z,63137,Get Started with Kubernetes,Ruby,https://github.com/collabnix/kubelabs
+290,rspec-metagem,2851,232,2851,0,2009-06-29T16:13:38Z,2024-11-27T18:22:15Z,139,RSpec meta-gem that depends on the other components,Ruby,https://github.com/rspec/rspec-metagem
+291,minimagick,2847,349,2847,2,2008-03-06T01:35:38Z,2025-03-21T12:57:02Z,3765,mini replacement for RMagick,Ruby,https://github.com/minimagick/minimagick
+292,google-api-ruby-client,2824,876,2824,43,2012-01-26T21:54:39Z,2025-03-23T10:58:22Z,2466347,REST client for Google APIs,Ruby,https://github.com/googleapis/google-api-ruby-client
+293,roo,2820,503,2820,117,2012-03-07T22:31:18Z,2025-02-14T08:15:30Z,6867,Roo provides an interface to spreadsheets of several sorts.,Ruby,https://github.com/roo-rb/roo
+294,wicked,2813,190,2813,13,2011-12-27T20:25:29Z,2024-08-30T06:33:28Z,408,Use wicked to turn your controller into a wizard,Ruby,https://github.com/zombocom/wicked
+295,spring,2811,339,2811,131,2012-12-29T03:53:34Z,2025-03-12T08:22:47Z,1166,Rails application preloader,Ruby,https://github.com/rails/spring
+296,awesome-rails-gem,2811,287,2811,29,2014-12-13T04:59:49Z,2024-03-12T22:04:35Z,140,A collection of awesome Ruby Gems for Rails development.,Ruby,https://github.com/hothero/awesome-rails-gem
+297,good_job,2793,212,2793,135,2020-02-24T15:01:22Z,2025-03-10T03:19:21Z,13278,"Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.",Ruby,https://github.com/bensheldon/good_job
+298,standard,2792,216,2792,51,2018-11-07T14:08:51Z,2025-03-25T16:27:19Z,1119,Ruby's bikeshed-proof linter and formatter 🚲,Ruby,https://github.com/standardrb/standard
+299,money,2786,629,2786,30,2008-10-31T15:05:03Z,2025-02-03T14:44:45Z,2680,A Ruby Library for dealing with money and currency conversion.,Ruby,https://github.com/RubyMoney/money
+300,gharchive.org,2770,212,2770,23,2012-03-11T00:44:31Z,2024-08-05T20:13:39Z,548,"GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.",Ruby,https://github.com/igrigorik/gharchive.org
+301,meta-tags,2760,278,2760,17,2008-09-17T01:41:59Z,2025-03-20T00:49:49Z,1008,Search Engine Optimization (SEO) for Ruby on Rails applications.,Ruby,https://github.com/kpumuk/meta-tags
+302,Web-CTF-Cheatsheet,2753,556,2753,0,2017-12-14T15:19:53Z,2025-03-23T07:26:07Z,292,Web CTF CheatSheet 🐈,Ruby,https://github.com/w181496/Web-CTF-Cheatsheet
+303,janky,2749,214,2749,0,2011-12-19T14:20:27Z,2022-04-04T14:51:58Z,619,Continuous integration server built on top of Jenkins and Hubot,Ruby,https://github.com/github/janky
+304,falcon,2747,84,2747,35,2017-06-15T03:59:49Z,2025-03-17T11:14:37Z,5230,"A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.",Ruby,https://github.com/socketry/falcon
+305,comfortable-mexican-sofa,2721,630,2721,53,2010-11-29T15:58:39Z,2024-05-27T03:59:34Z,10025,ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine,Ruby,https://github.com/comfy/comfortable-mexican-sofa
+306,play,2705,368,2705,35,2011-03-29T03:29:10Z,2017-04-06T02:42:46Z,6817,play ► — your company's dj,Ruby,https://github.com/play/play
+307,inherited_resources,2704,388,2704,1,2009-02-04T21:11:19Z,2025-03-22T00:43:35Z,1346,,Ruby,https://github.com/activeadmin/inherited_resources
+308,split,2704,366,2704,30,2011-05-14T18:05:47Z,2025-03-24T22:10:22Z,1337,:chart_with_upwards_trend: The Rack Based A/B testing framework,Ruby,https://github.com/splitrb/split
+309,bundler-audit,2699,236,2699,50,2013-02-11T05:41:07Z,2024-09-14T18:28:18Z,563,Patch-level verification for Bundler,Ruby,https://github.com/rubysec/bundler-audit
+310,client_side_validations,2698,404,2698,9,2011-01-30T17:15:05Z,2025-03-23T11:07:53Z,2141,Client Side Validations made easy for Ruby on Rails,Ruby,https://github.com/DavyJonesLocker/client_side_validations
+311,endoflife.date,2696,872,2696,282,2019-05-27T11:16:58Z,2025-03-28T12:13:59Z,9738,Informative site with EoL dates of everything,Ruby,https://github.com/endoflife-date/endoflife.date
+312,bootsnap,2691,184,2691,9,2017-02-06T21:22:34Z,2024-08-07T14:22:29Z,3079,Boot large Ruby/Rails apps faster,Ruby,https://github.com/Shopify/bootsnap
+313,algorithms,2689,352,2689,17,2008-07-10T09:55:11Z,2024-01-18T17:26:46Z,1020,Ruby algorithms and data structures. C extensions,Ruby,https://github.com/kanwei/algorithms
+314,apartment,2677,462,2677,135,2012-09-26T15:28:36Z,2024-06-12T15:18:38Z,1269,Database multi-tenancy for Rack (and Rails) applications,Ruby,https://github.com/influitive/apartment
+315,foreman,2668,1000,2668,91,2009-07-23T15:07:00Z,2025-03-28T11:43:45Z,138610,an application that automates the lifecycle of servers ,Ruby,https://github.com/theforeman/foreman
+316,devise_invitable,2663,552,2663,74,2009-12-09T23:11:54Z,2025-03-25T13:13:08Z,1494,An invitation strategy for devise,Ruby,https://github.com/scambra/devise_invitable
+317,brew,2656,236,2656,0,2016-04-23T21:38:42Z,2019-02-20T19:57:30Z,30536,:beer::penguin: The Homebrew package manager for Linux,Ruby,https://github.com/Linuxbrew/brew
+318,objc-zen-book,2656,353,2656,11,2014-07-08T20:52:42Z,2021-07-22T02:47:30Z,437,Zen and the Art of the Objective-C Craftsmanship,Ruby,https://github.com/objc-zen/objc-zen-book
+319,Developing_iOS_8_Apps_With_Swift,2648,475,2648,2,2015-01-25T10:53:23Z,2019-12-30T01:58:55Z,8144,Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译,Ruby,https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
+320,Scumblr,2647,320,2647,38,2014-08-06T04:59:55Z,2020-01-10T06:38:50Z,1914,Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results,Ruby,https://github.com/Netflix-Skunkworks/Scumblr
+321,homebrew-php,2642,179,2642,0,2019-12-20T04:09:29Z,2025-03-27T01:32:09Z,5595,:beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.,Ruby,https://github.com/shivammathur/homebrew-php
+322,pronto,2641,245,2641,11,2013-07-02T17:58:41Z,2025-02-17T08:51:37Z,5590,Quick automated code review of your changes,Ruby,https://github.com/prontolabs/pronto
+323,sucker_punch,2638,111,2638,2,2013-01-19T16:34:19Z,2023-12-11T04:04:33Z,294,"Sucker Punch is a Ruby asynchronous processing library using concurrent-ruby, heavily influenced by Sidekiq and girl_friday.",Ruby,https://github.com/brandonhilkert/sucker_punch
+324,cupertino,2633,190,2633,0,2012-07-05T19:23:31Z,2021-06-20T10:18:12Z,207,CLI for the Apple Dev Center,Ruby,https://github.com/nomad-cli/cupertino
+325,axlsx,2623,695,2623,222,2011-11-20T14:15:45Z,2023-02-21T21:49:23Z,9846,"    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.",Ruby,https://github.com/randym/axlsx
+326,betty,2611,213,2611,49,2014-05-04T22:31:31Z,2021-06-24T08:25:17Z,634,Friendly English-like interface for your command line. Don't remember a command? Ask Betty.,Ruby,https://github.com/pickhardt/betty
+327,git-up,2604,147,2604,37,2009-10-06T21:53:45Z,2017-11-07T22:48:59Z,87,NOT MAINTAINED,Ruby,https://github.com/aanand/git-up
+328,vagrant-aws,2603,575,2603,267,2013-02-06T04:22:19Z,2021-06-04T16:51:42Z,420,Use Vagrant to manage your EC2 and VPC instances.,Ruby,https://github.com/mitchellh/vagrant-aws
+329,jets,2602,184,2602,6,2017-10-26T18:39:27Z,2024-12-04T20:39:10Z,16868,Ruby on Jets,Ruby,https://github.com/rubyonjets/jets
+330,xcode-install,2597,245,2597,140,2015-04-08T20:47:32Z,2024-05-04T19:05:20Z,587,🔽 Install and update your Xcodes,Ruby,https://github.com/xcpretty/xcode-install
+331,our-boxen,2577,876,2577,7,2012-10-02T18:44:10Z,2018-04-09T02:49:36Z,102601,Copy me for your team.,Ruby,https://github.com/boxen/our-boxen
+332,git-internals-pdf,2573,196,2573,10,2013-09-06T14:31:08Z,2023-03-27T18:02:05Z,45983,PDF on Git Internals,Ruby,https://github.com/pluralsight/git-internals-pdf
+333,design-patterns-in-ruby,2562,512,2562,0,2012-10-07T01:44:45Z,2024-01-30T14:07:43Z,18,Examples from the book Design Patterns in Ruby by Russ Olsen.  # ruby 2.2.0,Ruby,https://github.com/design-patterns-in-ruby/design-patterns-in-ruby
+334,coverband,2552,162,2552,13,2013-11-04T00:30:52Z,2025-01-31T20:53:25Z,29223,Ruby production code coverage collection and reporting (line of code usage),Ruby,https://github.com/danmayer/coverband
+335,fixer,2547,197,2547,19,2012-11-20T13:41:46Z,2022-09-03T06:58:57Z,1332,A foreign exchange rates and currency conversion API,Ruby,https://github.com/fixerAPI/fixer
+336,octopus,2536,504,2536,124,2010-05-15T20:19:59Z,2024-02-16T15:24:07Z,1234,Database Sharding for ActiveRecord,Ruby,https://github.com/thiagopradi/octopus
+337,murder,2526,267,2526,8,2010-01-21T07:05:36Z,2017-01-04T02:33:40Z,168,Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained),Ruby,https://github.com/lg/murder
+338,homebrew-emacs-plus,2525,192,2525,18,2016-04-02T10:17:48Z,2025-03-01T08:26:33Z,72351,Emacs Plus formulae for the Homebrew package manager,Ruby,https://github.com/d12frosted/homebrew-emacs-plus
+339,homebrew-cask-upgrade,2519,91,2519,16,2015-11-06T09:06:30Z,2024-10-28T17:19:02Z,244,A command line tool for upgrading every outdated app installed by Homebrew Cask,Ruby,https://github.com/buo/homebrew-cask-upgrade
+340,tty,2518,81,2518,13,2012-09-30T20:21:06Z,2022-12-31T11:46:26Z,4756,Toolkit for developing sleek command line apps.,Ruby,https://github.com/piotrmurach/tty
+341,noticed,2514,188,2514,4,2020-07-27T21:39:18Z,2025-02-14T16:05:08Z,1570,Notifications for Ruby on Rails applications,Ruby,https://github.com/excid3/noticed
+342,PokeAssistant,2511,206,2511,3,2021-04-11T13:43:46Z,2022-09-17T08:24:52Z,1340,"Amazing Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest Ping! Every features are automated.",Ruby,https://github.com/TrashUwU/PokeAssistant
+343,serverspec,2511,368,2511,3,2013-03-24T04:15:25Z,2023-09-02T01:46:19Z,2087,"RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",Ruby,https://github.com/mizzy/serverspec
+344,poltergeist,2499,414,2499,12,2011-10-27T22:36:00Z,2019-09-27T15:03:45Z,1903,A PhantomJS driver for Capybara,Ruby,https://github.com/teampoltergeist/poltergeist
+345,videos-pt.br-tecnologia,2499,287,2499,0,2018-10-31T18:40:22Z,2025-03-24T13:36:09Z,419,Repositório de canais no Youtube BR sobre desenvolvimento,Ruby,https://github.com/lucasgomide/videos-pt.br-tecnologia
+346,reform,2497,182,2497,39,2013-04-30T05:02:35Z,2023-12-24T10:32:52Z,1905,Form objects decoupled from models.,Ruby,https://github.com/trailblazer/reform
+347,apipie-rails,2490,467,2490,222,2011-10-25T10:31:02Z,2025-02-19T13:46:56Z,2528,Ruby on Rails API documentation tool,Ruby,https://github.com/Apipie/apipie-rails
+348,warden,2489,204,2489,21,2009-04-23T04:47:23Z,2024-10-29T19:14:14Z,632,General Rack Authentication Framework,Ruby,https://github.com/wardencommunity/warden
+349,browser,2468,365,2468,19,2010-07-16T17:25:01Z,2024-12-04T18:30:40Z,953,Do some browser detection with Ruby. Includes ActionController integration.,Ruby,https://github.com/fnando/browser
+350,video_transcoding,2451,162,2451,2,2015-05-06T04:29:14Z,2025-01-28T23:57:23Z,483,"Tools to transcode, inspect and convert videos.",Ruby,https://github.com/lisamelton/video_transcoding
+351,redmine,2450,678,2450,25,2008-06-02T22:36:50Z,2022-04-10T16:51:42Z,87172,Redmine is a flexible project management web application written using Ruby on Rails framework.  http://github.com/edavis10/redmine is the official git mirror of the svn repository,Ruby,https://github.com/edavis10/redmine
+352,web-app-theme,2445,390,2445,34,2009-01-18T02:23:05Z,2024-03-01T07:12:15Z,1283,A simple theme for web apps,Ruby,https://github.com/gravityblast/web-app-theme
+353,goliath,2441,217,2441,30,2011-01-06T21:25:45Z,2023-10-08T16:57:35Z,1010,Goliath is a non-blocking Ruby web server framework,Ruby,https://github.com/postrank-labs/goliath
+354,refile,2439,297,2439,28,2014-11-19T16:41:22Z,2024-07-01T17:43:36Z,958,"Ruby file uploads, take 3",Ruby,https://github.com/refile/refile
+355,ice_cube,2436,359,2436,62,2010-03-10T15:27:10Z,2024-07-19T13:13:38Z,4420,Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying,Ruby,https://github.com/ice-cube-ruby/ice_cube
+356,loomio,2422,691,2422,103,2011-11-08T03:27:12Z,2025-03-28T07:44:59Z,157493,Loomio is a collaborative decision making tool,Ruby,https://github.com/loomio/loomio
+357,rufus-scheduler,2420,203,2420,8,2008-04-01T04:21:05Z,2024-09-04T21:28:04Z,1948,"scheduler for Ruby (at, in, cron and every jobs)",Ruby,https://github.com/jmettraux/rufus-scheduler
+358,iStats,2419,171,2419,32,2014-04-13T04:35:52Z,2023-01-29T19:26:57Z,293,Ruby gem for your mac stats,Ruby,https://github.com/Chris911/iStats
+359,the-ultimate-guide-to-ruby-timeouts,2416,96,2416,0,2015-07-27T02:09:49Z,2025-03-22T01:56:00Z,627,Timeouts for popular Ruby gems,Ruby,https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts
+360,awesome_nested_set,2410,487,2410,3,2008-02-21T16:03:25Z,2024-11-14T18:49:22Z,667,An awesome replacement for acts_as_nested_set and better_nested_set.,Ruby,https://github.com/collectiveidea/awesome_nested_set
+361,homesick,2400,124,2400,14,2010-03-04T05:22:50Z,2020-10-19T07:53:51Z,388,Your home directory is your castle. Don't leave your dotfiles behind.,Ruby,https://github.com/technicalpickles/homesick
+362,squeel,2397,211,2397,82,2011-04-09T15:41:39Z,2022-03-29T17:18:31Z,622,"Active Record, improved. Live again :)",Ruby,https://github.com/activerecord-hackery/squeel
+363,best-ruby,2390,218,2390,6,2015-10-31T19:59:11Z,2023-04-12T15:59:47Z,1322,"Ruby Tricks, Idiomatic Ruby, Refactoring and Best Practices",Ruby,https://github.com/franzejr/best-ruby
+364,Xcodeproj,2390,467,2390,177,2011-11-07T10:59:27Z,2024-10-31T17:13:08Z,4105,Create and modify Xcode projects from Ruby.,Ruby,https://github.com/CocoaPods/Xcodeproj
+365,sharetribe,2388,1328,2388,4,2012-05-25T15:34:17Z,2025-03-26T14:26:32Z,142362,"Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.",Ruby,https://github.com/sharetribe/sharetribe
+366,danbooru,2384,424,2384,449,2010-02-04T19:59:27Z,2025-01-29T22:39:59Z,71984,A taggable image board written in Rails.,Ruby,https://github.com/danbooru/danbooru
+367,helpy,2384,498,2384,230,2015-04-01T03:44:22Z,2023-03-08T21:42:10Z,90540,"Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.",Ruby,https://github.com/helpyio/helpy
+368,coltrane,2378,64,2378,12,2017-05-30T18:29:34Z,2025-01-29T18:17:15Z,27059,🎹🎸A music theory library with a command-line interface,Ruby,https://github.com/pedrozath/coltrane
+369,teamocil,2371,102,2371,22,2011-02-05T18:09:52Z,2021-03-10T12:26:11Z,208,There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.,Ruby,https://github.com/remi/teamocil
+370,chromebrew,2366,394,2366,47,2013-08-05T22:05:57Z,2025-03-28T08:18:01Z,61967,Package manager for Chrome OS,Ruby,https://github.com/chromebrew/chromebrew
+371,rake,2365,613,2365,78,2014-05-21T21:11:31Z,2025-03-25T02:33:25Z,3489,A make-like build utility for Ruby.,Ruby,https://github.com/ruby/rake
+372,premailer,2359,365,2359,95,2009-11-26T05:31:46Z,2024-09-27T18:05:06Z,1051,Preflight for HTML email,Ruby,https://github.com/premailer/premailer
+373,rubygems.org,2358,939,2358,104,2009-01-29T22:30:46Z,2025-03-27T14:36:30Z,24885,The Ruby community's gem hosting service.,Ruby,https://github.com/rubygems/rubygems.org
+374,vagrant-libvirt,2345,508,2345,132,2013-03-26T23:54:32Z,2024-08-17T21:15:02Z,4183,Vagrant provider for libvirt.,Ruby,https://github.com/vagrant-libvirt/vagrant-libvirt
+375,minicron,2336,153,2336,45,2014-02-03T19:20:05Z,2021-05-16T17:14:11Z,10817,🕰️ Monitor your cron jobs,Ruby,https://github.com/jamesrwhite/minicron
+376,openstreetmap-website,2328,954,2328,590,2010-05-01T16:22:12Z,2025-03-27T17:32:21Z,475362,The Rails application that powers OpenStreetMap,Ruby,https://github.com/openstreetmap/openstreetmap-website
+377,engine,2324,621,2324,92,2010-07-22T19:02:27Z,2024-10-18T20:35:05Z,32043,"A platform to create, publish and edit sites",Ruby,https://github.com/locomotivecms/engine
+378,jsonapi-resources,2321,535,2321,251,2014-03-29T18:45:23Z,2024-11-21T03:09:06Z,3724,A resource-focused Rails library for developing JSON:API compliant servers.,Ruby,https://github.com/cerebris/jsonapi-resources
+379,PasswordPusher,2319,382,2319,123,2011-12-28T17:35:19Z,2025-03-28T10:46:06Z,65449,"🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.",Ruby,https://github.com/pglombardo/PasswordPusher
+380,que,2312,191,2312,53,2013-10-30T21:21:53Z,2024-10-28T04:38:03Z,2255,A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.,Ruby,https://github.com/que-rb/que
+381,sorcery,2308,383,2308,75,2011-01-29T23:44:22Z,2016-12-29T17:46:16Z,2698,Magical authentication for Rails 3 & 4,Ruby,https://github.com/NoamB/sorcery
+382,stimulus_reflex,2301,174,2301,15,2018-10-14T13:19:43Z,2025-02-12T20:19:16Z,5853,Build reactive applications with the Rails tooling you already know and love.,Ruby,https://github.com/stimulusreflex/stimulus_reflex
+383,ISO-3166-Countries-with-Regional-Codes,2295,3323,2295,14,2011-04-21T03:34:06Z,2024-06-29T19:44:43Z,193,"ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets",Ruby,https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes
+384,onetimesecret,2293,391,2293,73,2013-01-30T11:21:31Z,2025-03-27T08:41:16Z,20990,Keep passwords and other sensitive information out of your inboxes and chat logs.,Ruby,https://github.com/onetimesecret/onetimesecret
+385,thin,2271,354,2271,15,2008-01-19T05:39:04Z,2025-02-16T10:13:52Z,2020,A very fast & simple Ruby web server,Ruby,https://github.com/macournoyer/thin
+386,html-pipeline,2270,382,2270,1,2012-08-01T18:07:58Z,2024-12-15T22:21:27Z,1155,HTML processing filters and utilities,Ruby,https://github.com/gjtorikian/html-pipeline
+387,countries,2264,671,2264,24,2009-12-18T22:42:26Z,2025-03-18T18:29:43Z,12223,"All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).",Ruby,https://github.com/countries/countries
+388,homebrew-apple,2255,85,2255,0,2023-05-18T00:06:32Z,2024-06-15T18:20:38Z,13,,Ruby,https://github.com/apple/homebrew-apple
+389,mysql2,2251,549,2251,190,2010-03-31T15:40:17Z,2024-12-27T06:38:36Z,2118,"A modern, simple and very fast Mysql library for Ruby - binding to libmysql",Ruby,https://github.com/brianmario/mysql2
+390,sneakers,2250,329,2250,61,2013-10-09T12:41:36Z,2024-06-26T20:05:06Z,1536,A fast background processing framework for Ruby and RabbitMQ,Ruby,https://github.com/jondot/sneakers
+391,request-log-analyzer,2241,189,2241,23,2008-07-25T05:40:33Z,2020-11-18T15:39:31Z,1508,"Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.",Ruby,https://github.com/wvanbergen/request-log-analyzer
+392,ruby-bookmarks,2235,341,2235,0,2014-06-25T13:23:41Z,2024-01-31T06:35:40Z,598,Ruby and Ruby on Rails bookmarks collection,Ruby,https://github.com/dreikanter/ruby-bookmarks
+393,async,2233,96,2233,21,2017-04-06T03:04:33Z,2025-03-26T22:53:39Z,7060,An awesome asynchronous event-driven reactor for Ruby.,Ruby,https://github.com/socketry/async
+394,ckeditor,2231,882,2231,13,2011-06-23T15:04:32Z,2025-01-23T13:42:18Z,10395,Ckeditor 4.x integration gem for rails,Ruby,https://github.com/galetahub/ckeditor
+395,legacy-linuxbrew,2222,295,2222,0,2013-04-04T09:18:42Z,2017-09-28T14:40:34Z,69626,":skull: This repository is defunct, because it has been split into https://github.com/Linuxbrew/brew and https://github.com/Linuxbrew/homebrew-core",Ruby,https://github.com/Linuxbrew/legacy-linuxbrew
+396,bashly,2220,90,2220,0,2019-11-19T19:52:16Z,2025-03-16T08:15:31Z,3548,Bash command line framework and CLI generator,Ruby,https://github.com/DannyBen/bashly
+397,discard,2219,85,2219,5,2017-04-19T02:12:11Z,2024-11-05T23:16:20Z,112,🃏🗑 Soft deletes for ActiveRecord done right,Ruby,https://github.com/jhawthorn/discard
+398,god,2214,528,2214,122,2008-01-13T05:16:23Z,2024-03-29T13:10:04Z,2639,Ruby process monitor,Ruby,https://github.com/mojombo/god
+399,shoulda,2210,183,2210,2,2008-04-14T13:27:26Z,2024-09-24T16:34:29Z,1345,Makes tests easy on the fingers and the eyes,Ruby,https://github.com/thoughtbot/shoulda
+400,turbo-rails,2199,337,2199,104,2020-12-02T20:22:32Z,2025-03-10T03:16:23Z,2304,Use Turbo in your Ruby on Rails app,Ruby,https://github.com/hotwired/turbo-rails
+401,rpush,2193,378,2193,36,2013-01-02T14:46:47Z,2025-02-13T19:34:24Z,27742,The push notification service for Ruby.,Ruby,https://github.com/rpush/rpush
+402,logstash-patterns-core,2179,974,2179,89,2014-11-02T21:40:40Z,2023-04-06T11:55:40Z,295,,Ruby,https://github.com/logstash-plugins/logstash-patterns-core
+403,staytus,2176,285,2176,56,2015-02-19T21:34:14Z,2023-01-19T21:52:11Z,522,💡 An open source solution for publishing the status of your services,Ruby,https://github.com/adamcooke/staytus
+404,pact-ruby,2172,217,2172,26,2013-11-26T22:55:05Z,2025-03-27T16:35:27Z,3135,"Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",Ruby,https://github.com/pact-foundation/pact-ruby
+405,globalize,2165,501,2165,7,2010-07-30T14:30:27Z,2025-02-03T23:30:45Z,1689,Rails I18n de-facto standard library for ActiveRecord model/data translation.,Ruby,https://github.com/globalize/globalize
+406,hologram,2162,200,2162,43,2013-04-04T21:07:57Z,2023-08-10T12:27:31Z,2702,A markdown based documentation system for style guides.,Ruby,https://github.com/trulia/hologram
+407,ChatGPT3-Free-Prompt-List,2162,166,2162,2,2023-01-14T19:25:29Z,2023-03-07T12:52:13Z,1308,A free guide for learning to create ChatGPT3 Prompts,Ruby,https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
+408,CeWL,2161,276,2161,11,2016-04-22T12:08:54Z,2024-10-28T18:44:14Z,204,CeWL is a Custom Word List Generator,Ruby,https://github.com/digininja/CeWL
+409,rspec-rails-examples,2156,317,2156,40,2014-11-18T17:43:35Z,2020-07-26T09:46:32Z,387,RSpec cheatsheet & Rails app: Learn how to expertly test Rails apps from a model codebase,Ruby,https://github.com/eliotsykes/rspec-rails-examples
+410,machine-learning-with-ruby,2151,180,2151,6,2017-04-20T09:44:48Z,2024-12-26T17:58:24Z,472,Curated list: Resources for machine learning in Ruby,Ruby,https://github.com/arbox/machine-learning-with-ruby
+411,delayed_job,2149,1247,2149,48,2008-02-17T21:00:03Z,2020-11-07T13:10:28Z,4838,Database backed asynchronous priority queue -- Extracted from Shopify ,Ruby,https://github.com/tobi/delayed_job
+412,one_gadget,2141,140,2141,3,2017-02-07T08:03:34Z,2025-03-27T21:23:19Z,14272,The best tool for finding one gadget RCE in libc.so.6,Ruby,https://github.com/david942j/one_gadget
+413,config,2138,234,2138,24,2010-03-21T20:03:30Z,2024-09-23T15:50:12Z,665,"Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects.",Ruby,https://github.com/rubyconfig/config
+414,karafka,2136,184,2136,48,2015-07-30T11:49:27Z,2025-03-28T08:20:28Z,6649,Ruby and Rails efficient Kafka processing framework,Ruby,https://github.com/karafka/karafka
+415,ghi,2130,135,2130,85,2009-04-22T04:36:23Z,2022-03-03T13:54:20Z,1113,"GitHub Issues on the command line. Use your $EDITOR, not your browser.",Ruby,https://github.com/stephencelis/ghi
+416,stackprof,2124,132,2124,54,2013-10-10T04:25:22Z,2025-02-28T11:35:18Z,341,a sampling call-stack profiler for ruby 2.2+,Ruby,https://github.com/tmm1/stackprof
+417,nanoc,2122,249,2122,21,2009-07-17T11:28:53Z,2025-03-16T12:54:09Z,13979,A powerful web publishing system,Ruby,https://github.com/nanoc/nanoc
+418,SiriProxy,2119,342,2119,22,2011-11-19T22:48:18Z,2016-09-30T00:14:40Z,4922,A (tampering) proxy server for Apple's Siri,Ruby,https://github.com/plamoni/SiriProxy
+419,dinghy,2119,109,2119,33,2014-11-05T20:09:47Z,2019-04-16T17:34:23Z,419,"faster, friendlier Docker on OS X. Deprecated.",Ruby,https://github.com/codekitchen/dinghy
+420,dragonfly,2115,243,2115,68,2009-08-29T19:15:08Z,2025-01-03T10:16:36Z,6751,"A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!",Ruby,https://github.com/markevans/dragonfly
+421,motor-admin,2103,170,2103,21,2021-08-06T13:47:04Z,2024-05-30T06:59:11Z,545,"Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.",Ruby,https://github.com/motor-admin/motor-admin
+422,active_interaction,2102,142,2102,19,2013-06-26T22:19:51Z,2025-02-02T23:36:24Z,1955,:briefcase: Manage application specific business logic.,Ruby,https://github.com/AaronLasseigne/active_interaction
+423,i18n-tasks,2101,267,2101,70,2013-06-23T22:44:34Z,2025-03-22T12:17:20Z,2939,"Manage translation and localization with static analysis, for Ruby i18n",Ruby,https://github.com/glebm/i18n-tasks
+424,prmd,2096,170,2096,77,2013-12-19T17:45:58Z,2025-02-06T16:33:27Z,536,JSON Schema tools and doc generation for HTTP APIs,Ruby,https://github.com/interagent/prmd
+425,rom,2093,161,2093,26,2013-06-15T14:59:58Z,2025-01-21T13:59:31Z,8685,Data mapping and persistence toolkit for Ruby,Ruby,https://github.com/rom-rb/rom
+426,ffi,2092,337,2092,153,2009-08-05T20:28:18Z,2025-02-17T15:22:38Z,5857,Ruby FFI,Ruby,https://github.com/ffi/ffi
+427,xerosploit,2088,651,2088,290,2016-07-30T16:16:20Z,2023-03-23T10:31:26Z,795,Efficient and advanced man in the middle framework,Ruby,https://github.com/LionSec/xerosploit
+428,git-deploy,2088,132,2088,18,2009-09-08T13:30:59Z,2019-03-22T16:13:56Z,80,git deployment made easy,Ruby,https://github.com/mislav/git-deploy
+429,redis-objects,2088,229,2088,16,2009-11-10T14:32:02Z,2023-03-30T19:57:08Z,782,Map Redis types directly to Ruby objects,Ruby,https://github.com/nateware/redis-objects
+430,feedjira,2083,372,2083,19,2009-01-16T04:02:30Z,2025-03-17T08:40:34Z,4077,A feed parsing library,Ruby,https://github.com/feedjira/feedjira
+431,app-host,2078,413,2078,40,2017-12-23T18:50:45Z,2023-01-19T11:16:18Z,10819,应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im  | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包,Ruby,https://github.com/pluosi/app-host
+432,ci,2077,92,2077,0,2017-12-14T19:17:22Z,2018-09-13T15:35:11Z,3439,"Open source, self hosted, mobile optimized CI powered by fastlane",Ruby,https://github.com/fastlane/ci
+433,solid_queue,2071,158,2071,54,2023-01-13T09:41:21Z,2025-03-24T09:55:50Z,721,Database-backed Active Job backend,Ruby,https://github.com/rails/solid_queue
+434,savon,2070,614,2070,21,2009-07-02T13:19:34Z,2025-03-24T07:17:09Z,2993,Heavy metal SOAP client,Ruby,https://github.com/savonrb/savon
+435,synapse,2070,250,2070,50,2012-11-09T03:03:06Z,2023-10-21T11:47:30Z,915,A transparent service discovery framework for connecting an SOA,Ruby,https://github.com/airbnb/synapse
+436,rxswift-to-combine-cheatsheet,2069,130,2069,8,2019-06-08T11:07:58Z,2023-04-12T05:28:20Z,7506,RxSwift to Apple’s Combine Cheat Sheet,Ruby,https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet
+437,shoryuken,2068,288,2068,13,2014-09-02T13:04:10Z,2025-03-25T17:41:39Z,1973,A super efficient Amazon SQS thread based message processor for Ruby. This project is in MAINTENANCE MODE.,Ruby,https://github.com/ruby-shoryuken/shoryuken
+438,knock,2061,255,2061,61,2015-07-13T14:08:32Z,2021-03-21T22:06:07Z,174,Seamless JWT authentication for Rails API,Ruby,https://github.com/nsarno/knock
+439,rswag,2060,439,2060,84,2015-01-12T19:08:10Z,2025-03-21T15:16:40Z,9242,Seamlessly adds a Swagger to Rails-based API's,Ruby,https://github.com/rswag/rswag
+440,acts_as_list,2054,357,2054,1,2011-02-05T06:39:01Z,2024-11-19T18:37:45Z,705,An ActiveRecord plugin for managing lists.,Ruby,https://github.com/brendon/acts_as_list
+441,pay,2054,325,2054,0,2017-02-01T19:50:52Z,2025-03-27T14:19:04Z,6205,Payments for Ruby on Rails apps,Ruby,https://github.com/pay-rails/pay
+442,api-umbrella,2052,339,2052,235,2012-08-30T21:34:06Z,2025-03-21T19:12:17Z,30691,Open source API management platform,Ruby,https://github.com/NREL/api-umbrella
+443,her,2049,325,2049,116,2012-04-08T23:34:17Z,2024-05-17T10:59:56Z,1144,Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.,Ruby,https://github.com/remi/her
+444,bosh,2048,657,2048,20,2012-04-02T18:52:32Z,2025-03-27T15:42:59Z,559046,"Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.",Ruby,https://github.com/cloudfoundry/bosh
+445,sanitize,2048,144,2048,0,2008-12-25T06:03:43Z,2024-12-30T22:30:26Z,2039,Ruby HTML and CSS sanitizer.,Ruby,https://github.com/rgrove/sanitize
+446,fui,2045,181,2045,20,2014-01-22T18:18:09Z,2023-02-18T00:48:20Z,67,Find unused Objective-C imports.,Ruby,https://github.com/dblock/fui
+447,responders,2044,157,2044,8,2009-12-02T13:19:13Z,2024-04-22T13:42:33Z,430,A set of Rails responders to dry up your application,Ruby,https://github.com/heartcombo/responders
+448,ruboto,2031,159,2031,80,2010-06-17T19:20:59Z,2023-05-15T11:51:06Z,117695,A platform for developing apps using JRuby on Android.,Ruby,https://github.com/ruboto/ruboto
+449,zeitwerk,2028,120,2028,0,2019-01-11T15:09:12Z,2025-03-27T21:26:38Z,901,Efficient and thread-safe code loader for Ruby,Ruby,https://github.com/fxn/zeitwerk
+450,redis-stat,2026,340,2026,24,2012-07-22T12:47:19Z,2016-12-12T16:01:16Z,2112,(UNMAINTAINED) A real-time Redis monitoring tool,Ruby,https://github.com/junegunn/redis-stat
+451,tesla-api,2025,535,2025,22,2013-02-03T00:00:55Z,2024-12-06T08:09:00Z,1010,"🚘 A Ruby gem and unofficial documentation of Tesla's JSON API for the Model S, 3, X, and Y.",Ruby,https://github.com/timdorr/tesla-api
+452,attr_encrypted,2014,424,2014,83,2009-01-08T08:08:20Z,2025-01-23T18:17:18Z,425,Generates attr_accessors that encrypt and decrypt attributes,Ruby,https://github.com/attr-encrypted/attr_encrypted
+453,rbs,2012,217,2012,162,2019-03-10T08:22:27Z,2025-03-28T06:21:56Z,10570,Type Signature for Ruby,Ruby,https://github.com/ruby/rbs
+454,ruby-prof,2012,207,2012,4,2009-11-14T02:54:18Z,2024-11-24T19:23:14Z,2281,A ruby profiler.  See https://ruby-prof.github.io for more information.,Ruby,https://github.com/ruby-prof/ruby-prof
+455,counter_culture,2009,212,2009,10,2012-05-24T19:26:40Z,2025-03-20T15:07:11Z,727,Turbo-charged counter caches for your Rails app.,Ruby,https://github.com/magnusvk/counter_culture
+456,pry-byebug,2006,142,2006,44,2013-05-02T23:30:11Z,2025-03-28T15:05:56Z,521,Step-by-step debugging and stack navigation in Pry,Ruby,https://github.com/deivid-rodriguez/pry-byebug
+457,stripe-ruby,1997,560,1997,20,2011-06-25T19:51:57Z,2025-03-28T04:23:58Z,14712,Ruby library for the Stripe API.    ,Ruby,https://github.com/stripe/stripe-ruby
+458,recaptcha,1991,443,1991,50,2008-04-11T23:01:45Z,2025-01-14T17:28:09Z,902,ReCaptcha helpers for ruby apps,Ruby,https://github.com/ambethia/recaptcha
+459,trestle,1985,180,1985,117,2016-09-11T23:36:22Z,2025-01-09T02:15:57Z,17180,"A modern, responsive admin framework for Ruby on Rails",Ruby,https://github.com/TrestleAdmin/trestle
+460,nifty-generators,1981,278,1981,64,2008-05-06T18:19:19Z,2021-12-11T21:44:40Z,376,A collection of useful Rails generator scripts.,Ruby,https://github.com/ryanb/nifty-generators
+461,elasticsearch-ruby,1974,611,1974,11,2013-05-03T07:39:25Z,2025-03-27T16:31:48Z,15626,Ruby integrations for Elasticsearch,Ruby,https://github.com/elastic/elasticsearch-ruby
+462,grit,1971,509,1971,53,2007-10-29T14:37:16Z,2023-08-17T19:15:41Z,7954,**Grit is no longer maintained. Check out libgit2/rugged.** Grit gives you object oriented read/write access to Git repositories via Ruby.,Ruby,https://github.com/mojombo/grit
+463,mutant,1967,153,1967,127,2012-07-23T14:18:46Z,2025-03-23T01:06:56Z,5751,Automated code reviews via mutation testing - semantic code coverage.,Ruby,https://github.com/mbj/mutant
+464,illacceptanything,1965,594,1965,26,2015-04-07T19:34:36Z,2025-01-02T14:36:23Z,1579121,The project where literally anything* goes.,Ruby,https://github.com/illacceptanything/illacceptanything
+465,dexter,1963,48,1963,4,2017-06-24T23:38:25Z,2025-03-27T23:48:38Z,352,The automatic indexer for Postgres,Ruby,https://github.com/ankane/dexter
+466,capybara-webkit,1963,425,1963,30,2011-02-25T03:46:54Z,2020-03-03T15:09:01Z,1642,A Capybara driver for headless WebKit to test JavaScript web apps,Ruby,https://github.com/thoughtbot/capybara-webkit
+467,awesome-space,1962,159,1962,5,2019-06-17T03:27:25Z,2024-08-06T05:22:42Z,235,🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index,Ruby,https://github.com/orbitalindex/awesome-space
+468,gitsh,1958,103,1958,40,2013-11-02T09:33:38Z,2024-04-07T06:49:47Z,6317,An interactive shell for git,Ruby,https://github.com/thoughtbot/gitsh
+469,yard,1957,403,1957,115,2008-02-26T00:01:52Z,2024-12-20T22:27:47Z,8967,"YARD is a Ruby Documentation tool. The Y stands for ""Yay!""",Ruby,https://github.com/lsegal/yard
+470,hound,1957,398,1957,68,2013-01-02T18:12:40Z,2024-05-17T19:22:09Z,6091,Automated code review for GitHub pull requests.,Ruby,https://github.com/houndci/hound
+471,tilt,1946,224,1946,6,2009-01-29T13:49:29Z,2023-12-29T08:13:39Z,984,Generic interface to multiple Ruby template engines,Ruby,https://github.com/rtomayko/tilt
+472,listen,1932,248,1932,27,2012-01-10T20:02:29Z,2025-03-03T09:12:24Z,1664,The Listen gem listens to file modifications and notifies you about the changes.,Ruby,https://github.com/guard/listen
+473,solargraph,1930,157,1930,128,2017-03-18T13:15:12Z,2025-03-27T09:31:50Z,33934,A Ruby language server.,Ruby,https://github.com/castwide/solargraph
+474,slacktyping,1929,61,1929,0,2018-04-25T22:14:49Z,2018-04-27T22:02:11Z,487,i'm typing when you're typing,Ruby,https://github.com/will/slacktyping
+475,identity_cache,1927,174,1927,40,2013-02-28T05:19:14Z,2025-01-29T21:19:36Z,1402,"IdentityCache is a blob level caching solution to plug into Active Record. Don't #find, #fetch!",Ruby,https://github.com/Shopify/identity_cache
+476,rqrcode,1909,237,1909,2,2008-04-03T09:31:15Z,2024-10-13T18:29:19Z,538,A Ruby library that encodes QR Codes,Ruby,https://github.com/whomwah/rqrcode
+477,test-prof,1905,158,1905,5,2017-05-18T16:08:16Z,2025-03-25T22:55:17Z,19386,Ruby Tests Profiling Toolbox,Ruby,https://github.com/test-prof/test-prof
+478,github-services,1895,1275,1895,0,2010-05-14T20:07:36Z,2019-01-31T15:54:49Z,99492,Legacy GitHub Services Integration,Ruby,https://github.com/github/github-services
+479,sidekiq-cron,1892,295,1892,1,2013-08-25T09:43:05Z,2025-03-27T20:17:23Z,1214,Scheduler / Cron for Sidekiq jobs,Ruby,https://github.com/sidekiq-cron/sidekiq-cron
+480,chewy,1891,370,1891,65,2013-12-09T08:33:03Z,2024-10-08T18:54:39Z,2537,High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client,Ruby,https://github.com/toptal/chewy
+481,ciao,1890,103,1890,5,2019-07-15T18:39:05Z,2025-03-23T17:54:10Z,1029,HTTP checks & tests (private & public) monitoring - check the status of your URL,Ruby,https://github.com/brotandgames/ciao
+482,asset_sync,1889,346,1889,62,2011-07-30T00:18:02Z,2025-01-07T02:00:37Z,712,Synchronises Assets between Rails and S3,Ruby,https://github.com/AssetSync/asset_sync
+483,hamster,1882,92,1882,16,2009-10-21T04:10:49Z,2021-11-30T17:59:47Z,2896,"Efficient, Immutable, Thread-Safe Collection classes for Ruby",Ruby,https://github.com/hamstergem/hamster
+484,deployinator,1874,160,1874,5,2011-07-29T19:32:38Z,2019-09-27T15:51:40Z,1429,Deployinate!,Ruby,https://github.com/etsy/deployinator
+485,markdownlint,1872,235,1872,151,2014-06-01T23:05:35Z,2024-01-12T13:18:03Z,510,Markdown lint tool,Ruby,https://github.com/markdownlint/markdownlint
+486,test-kitchen,1872,582,1872,6,2012-04-25T14:14:42Z,2025-01-21T01:43:38Z,7808,Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms,Ruby,https://github.com/test-kitchen/test-kitchen
+487,wordmove,1870,172,1870,23,2011-11-30T14:07:56Z,2022-10-18T21:14:25Z,958,Multi-stage command line deploy/mirroring and task runner for Wordpress,Ruby,https://github.com/welaika/wordmove
+488,did_you_mean,1870,113,1870,6,2014-02-02T05:09:58Z,2025-01-10T04:19:16Z,2081,The gem that has been saving people from typos since 2014,Ruby,https://github.com/ruby/did_you_mean
+489,maid,1861,84,1861,45,2011-05-21T15:35:43Z,2025-03-28T15:06:30Z,833,"Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as ""Hazel for hackers"".",Ruby,https://github.com/maid/maid
+490,data-setup,1861,512,1861,6,2019-10-04T12:45:33Z,2025-03-16T12:39:39Z,36041,Setup instructions for Le Wagon's students on their first day of Data Science Bootcamp,Ruby,https://github.com/lewagon/data-setup
+491,retire,1857,531,1857,96,2011-02-07T11:32:05Z,2018-04-18T18:50:17Z,4994,A rich Ruby API and DSL for the Elasticsearch search engine,Ruby,https://github.com/karmi/retire
+492,closure_tree,1857,241,1857,93,2011-05-18T06:28:17Z,2024-11-02T08:03:56Z,1301,Easily and efficiently make your ActiveRecord models support hierarchies,Ruby,https://github.com/ClosureTree/closure_tree
+493,teambox,1852,404,1852,15,2009-08-28T16:39:12Z,2013-05-06T10:07:34Z,43545,"This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter.",Ruby,https://github.com/redbooth/teambox
+494,pdf-reader,1850,276,1850,69,2008-06-03T01:11:36Z,2025-03-05T05:55:47Z,27650,The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.,Ruby,https://github.com/yob/pdf-reader
+495,roar,1847,137,1847,18,2011-01-01T18:22:16Z,2023-01-17T15:54:37Z,1092,Parse and render REST API documents using representers.,Ruby,https://github.com/trailblazer/roar
+496,pages-gem,1845,356,1845,104,2013-08-08T16:09:08Z,2025-03-03T18:20:47Z,1554,A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages,Ruby,https://github.com/github/pages-gem
+497,lhm,1843,191,1843,36,2011-05-04T09:52:09Z,2023-08-30T11:53:18Z,518,Online MySQL schema migrations,Ruby,https://github.com/soundcloud/lhm
+498,ruby_llm,1838,69,1838,32,2025-01-30T08:58:19Z,2025-03-28T13:12:24Z,10612,"A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.",Ruby,https://github.com/crmne/ruby_llm
+499,ferrum,1838,141,1838,48,2019-07-23T06:58:27Z,2025-03-05T08:22:00Z,1366,Headless Chrome Ruby API,Ruby,https://github.com/rubycdp/ferrum
+500,active_record_doctor,1833,58,1833,33,2016-02-13T13:18:37Z,2025-03-15T08:57:52Z,453,Identify database issues before they hit production.,Ruby,https://github.com/gregnavis/active_record_doctor
+501,homebrew-openjdk,1825,101,1825,4,2018-03-25T20:59:07Z,2023-09-07T06:34:40Z,374,AdoptOpenJDK HomeBrew Tap,Ruby,https://github.com/AdoptOpenJDK/homebrew-openjdk
+502,Generamba,1821,183,1821,35,2015-11-04T11:57:22Z,2023-05-24T09:33:57Z,793,This codegenerator is too brilliant to be real!,Ruby,https://github.com/strongself/Generamba
+503,zen-rails-security-checklist,1816,149,1816,1,2017-04-10T20:36:14Z,2020-03-09T11:42:57Z,82,Checklist of security precautions for Ruby on Rails applications.,Ruby,https://github.com/brunofacca/zen-rails-security-checklist
+504,remote-in-japan,1814,309,1814,6,2015-09-04T00:40:58Z,2025-03-04T04:13:45Z,9925,Tech companies in Japan that hire remote workers.,Ruby,https://github.com/remote-jp/remote-in-japan
+505,money-rails,1814,388,1814,17,2012-03-26T14:59:07Z,2025-02-03T14:45:41Z,902,Integration of RubyMoney - Money with Rails,Ruby,https://github.com/RubyMoney/money-rails
+506,homoiconic,1812,112,1812,13,2008-10-28T02:36:02Z,2018-02-23T16:15:11Z,6396,An experiment in publishing code and words about code on a small scale.,Ruby,https://github.com/raganwald-deprecated/homoiconic
+507,fasterer,1811,75,1811,9,2015-02-17T10:12:26Z,2024-06-14T12:04:43Z,218,:zap: Don't make your Rubies go fast. Make them go fasterer ™. :zap: ,Ruby,https://github.com/DamirSvrtan/fasterer
+508,decent_exposure,1810,109,1810,9,2010-01-12T02:47:04Z,2023-04-11T16:09:31Z,448,A helper for creating declarative interfaces in controllers,Ruby,https://github.com/hashrocket/decent_exposure
+509,um,1806,44,1806,7,2015-12-26T07:06:35Z,2021-05-26T19:10:43Z,93,Create and maintain your own man pages so you can remember how to do stuff,Ruby,https://github.com/sinclairtarget/um
+510,statesman,1806,161,1806,34,2013-09-05T09:42:17Z,2025-02-06T16:01:51Z,962,A statesmanlike state machine library.,Ruby,https://github.com/gocardless/statesman
+511,calabash-ios,1806,371,1806,120,2012-03-03T11:52:47Z,2023-07-04T14:13:20Z,167410,Calabash for iOS,Ruby,https://github.com/calabash/calabash-ios
+512,twurl,1802,296,1802,13,2009-10-18T05:48:53Z,2023-07-20T20:54:51Z,209,OAuth-enabled curl for the Twitter API,Ruby,https://github.com/twitter/twurl
+513,shopify_app,1800,709,1800,21,2008-10-09T15:10:52Z,2025-03-27T16:33:09Z,5541,A Rails Engine for building Shopify Apps,Ruby,https://github.com/Shopify/shopify_app
+514,alan-sdk-flutter,1798,41,1798,3,2020-04-22T11:34:39Z,2024-05-01T06:01:38Z,303,Conversational AI SDK for Flutter to enable text and voice conversations with actions (iOS and Android),Ruby,https://github.com/alan-ai/alan-sdk-flutter
+515,MacRuby,1796,190,1796,87,2010-10-10T22:31:20Z,2015-01-03T23:07:55Z,61455,"MacRuby is an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector, the LLVM compiler infrastructure and the Foundation and ICU frameworks.",Ruby,https://github.com/MacRuby/MacRuby
+516,nested_form,1795,504,1795,84,2010-01-12T06:57:26Z,2021-12-11T21:47:06Z,420,Rails plugin to conveniently handle multiple models in a single form.,Ruby,https://github.com/ryanb/nested_form
+517,snibox,1787,118,1787,44,2018-01-02T22:29:26Z,2022-12-12T14:10:18Z,916,Self-hosted snippet manager,Ruby,https://github.com/snibox/snibox
+518,india,1780,412,1780,63,2020-09-21T17:58:56Z,2025-02-14T23:32:37Z,1613,GitHub resources and information for the developer community in India,Ruby,https://github.com/github/india
+519,real-world-rails,1774,145,1774,49,2015-05-02T11:28:52Z,2025-03-10T08:46:17Z,12958,Real World Rails applications and their open source codebases for developers to learn from,Ruby,https://github.com/eliotsykes/real-world-rails
+520,workflow,1769,209,1769,10,2009-01-23T11:52:34Z,2024-06-26T10:10:06Z,546,Ruby finite-state-machine-inspired API for modeling workflow,Ruby,https://github.com/geekq/workflow
+521,kiba,1768,88,1768,1,2013-07-18T22:21:34Z,2024-12-01T22:04:11Z,228,Data processing & ETL framework for Ruby,Ruby,https://github.com/thbar/kiba
+522,google-drive-ruby,1766,502,1766,69,2012-04-29T08:09:52Z,2024-08-08T10:53:43Z,789,A Ruby library to read/write files/spreadsheets in Google Drive/Docs.,Ruby,https://github.com/gimite/google-drive-ruby
+523,rodauth,1759,99,1759,0,2015-08-12T15:11:41Z,2025-03-16T15:28:59Z,5068,Ruby's Most Advanced Authentication Framework,Ruby,https://github.com/jeremyevans/rodauth
+524,centurion,1759,113,1759,9,2014-06-04T21:44:12Z,2024-08-26T19:53:14Z,516,A mass deployment tool for Docker fleets,Ruby,https://github.com/newrelic/centurion
+525,ruby-git,1758,532,1758,11,2008-01-27T17:23:23Z,2025-02-28T01:41:06Z,1242,"Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.",Ruby,https://github.com/ruby-git/ruby-git
+526,enumerize,1754,194,1754,5,2012-01-25T10:31:04Z,2025-02-22T21:24:38Z,675,Enumerated attributes with I18n and ActiveRecord/Mongoid support,Ruby,https://github.com/brainspec/enumerize
+527,marginalia,1754,143,1754,12,2012-03-11T21:35:11Z,2024-08-05T02:12:32Z,206,Attach comments to ActiveRecord's SQL queries,Ruby,https://github.com/basecamp/marginalia
+528,octopress,1750,173,1750,51,2013-11-17T20:35:39Z,2022-06-15T08:50:48Z,433,Octopress 3.0 – Jekyll's Ferrari,Ruby,https://github.com/octopress/octopress
+529,LicenseFinder,1748,345,1748,136,2011-01-17T08:24:18Z,2024-07-22T21:57:46Z,5828,Find licenses for your project's dependencies.,Ruby,https://github.com/pivotal/LicenseFinder
+530,bullet_train,1742,289,1742,81,2022-03-07T23:45:33Z,2025-03-28T06:20:11Z,5507,The Open Source Ruby on Rails SaaS Template,Ruby,https://github.com/bullet-train-co/bullet_train
+531,benchmark-ips,1741,98,1741,5,2012-03-24T02:58:55Z,2025-02-02T22:08:16Z,293,Provides iteration per second benchmarking for Ruby,Ruby,https://github.com/evanphx/benchmark-ips
+532,htty,1741,64,1741,34,2010-09-06T15:23:37Z,2021-01-03T02:19:06Z,1738,"htty is the HTTP TTY, a console application for interacting with web servers.",Ruby,https://github.com/htty/htty
+533,resque-scheduler,1739,483,1739,79,2009-12-21T05:24:09Z,2025-01-06T12:57:51Z,1153,A light-weight job scheduling system built on top of Resque,Ruby,https://github.com/resque/resque-scheduler
+534,rspec,1738,172,1738,16,2008-02-29T23:32:44Z,2015-05-03T01:29:01Z,18518,Behaviour Driven Development framework for Ruby,Ruby,https://github.com/dchelimsky/rspec
+535,kramdown,1734,280,1734,11,2008-11-30T08:32:47Z,2024-11-18T16:41:59Z,3487,"kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.",Ruby,https://github.com/gettalong/kramdown
+536,authentication-zero,1733,59,1733,17,2022-02-14T09:00:07Z,2024-12-05T17:33:30Z,529,An authentication system generator for Rails applications. ,Ruby,https://github.com/lazaronixon/authentication-zero
+537,ruby-lsp,1730,186,1730,142,2022-02-25T19:13:56Z,2025-03-28T14:53:48Z,53198,An opinionated language server for Ruby,Ruby,https://github.com/Shopify/ruby-lsp
+538,sidekiq-scheduler,1730,239,1730,15,2012-03-12T18:52:41Z,2025-03-17T13:00:13Z,1659,Lightweight job scheduler extension for Sidekiq,Ruby,https://github.com/sidekiq-scheduler/sidekiq-scheduler
+539,memory_profiler,1727,88,1727,9,2013-09-04T07:56:02Z,2024-09-17T05:32:27Z,247,memory_profiler for ruby,Ruby,https://github.com/SamSaffron/memory_profiler
+540,websocket-rails,1726,284,1726,201,2012-03-26T05:23:16Z,2024-02-14T10:47:37Z,1416,Plug and play websocket support for ruby on rails.,Ruby,https://github.com/websocket-rails/websocket-rails
+541,react-webpack-rails-tutorial,1724,385,1724,5,2014-09-16T06:54:32Z,2025-03-21T05:14:00Z,5960,"Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native! Live Demo:",Ruby,https://github.com/shakacode/react-webpack-rails-tutorial
+542,innodb_ruby,1723,322,1723,16,2012-11-11T00:05:47Z,2024-11-26T00:45:06Z,41979,"A parser for InnoDB file formats, in Ruby",Ruby,https://github.com/jeremycole/innodb_ruby
+543,duckrails,1720,107,1720,33,2016-03-05T08:55:35Z,2023-07-13T16:31:20Z,3844,Development tool to mock API endpoints quickly and easily (docker image available),Ruby,https://github.com/iridakos/duckrails
+544,premailer-rails,1716,256,1716,12,2011-04-03T00:05:17Z,2024-06-17T05:56:17Z,339,CSS styled emails without the hassle.,Ruby,https://github.com/fphilipe/premailer-rails
+545,vagrant-digitalocean,1709,181,1709,42,2013-02-27T05:33:06Z,2023-09-07T12:54:42Z,310,:droplet: A Vagrant provider plugin that manages DigitalOcean droplets.,Ruby,https://github.com/devopsgroup-io/vagrant-digitalocean
+546,rbtrace,1706,65,1706,23,2011-02-10T06:20:11Z,2024-06-18T16:08:13Z,1525,"like strace, but for ruby code",Ruby,https://github.com/tmm1/rbtrace
+547,homebrew-emacsmacport,1704,130,1704,80,2013-02-25T15:27:17Z,2025-03-02T23:31:34Z,16155,Emacs mac port formulae for the Homebrew package manager,Ruby,https://github.com/railwaycat/homebrew-emacsmacport
+548,langchainrb,1704,229,1704,61,2023-04-18T18:43:09Z,2025-03-26T12:13:02Z,2864,Build LLM-powered applications in Ruby,Ruby,https://github.com/patterns-ai-core/langchainrb
+549,packwerk,1701,117,1701,37,2020-09-23T14:44:21Z,2025-03-21T23:56:44Z,7872,Good things come in small packages.,Ruby,https://github.com/Shopify/packwerk
+550,24pullrequests,1698,538,1698,24,2012-11-13T16:32:05Z,2025-03-27T18:34:58Z,14132,:christmas_tree: Giving back to open source for the holidays,Ruby,https://github.com/24pullrequests/24pullrequests
+551,slanger,1696,204,1696,30,2011-06-14T10:25:30Z,2022-07-21T23:34:21Z,563,Open Pusher implementation compatible with Pusher libraries,Ruby,https://github.com/stevegraham/slanger
+552,em-websocket,1688,186,1688,25,2009-12-21T00:32:43Z,2021-11-11T05:02:55Z,396,EventMachine based WebSocket server,Ruby,https://github.com/igrigorik/em-websocket
+553,calabash-android,1683,616,1683,98,2012-02-05T20:48:08Z,2024-08-08T15:01:26Z,58596,Automated Functional testing for Android using cucumber,Ruby,https://github.com/calabash/calabash-android
+554,radiant,1683,342,1683,69,2008-06-20T15:28:43Z,2021-04-05T17:22:15Z,15324,"Radiant is a no-fluff, open source content management system designed for small teams.",Ruby,https://github.com/radiant/radiant
+555,lita,1678,181,1678,16,2013-04-20T10:35:36Z,2022-06-14T05:31:04Z,1089,ChatOps for Ruby.,Ruby,https://github.com/litaio/lita
+556,jekyll-seo-tag,1677,298,1677,39,2015-10-25T21:45:01Z,2024-06-19T18:34:52Z,579,A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.,Ruby,https://github.com/jekyll/jekyll-seo-tag
+557,has_scope,1666,89,1666,3,2009-12-04T11:45:59Z,2024-04-09T19:59:21Z,174,Map incoming controller parameters to named scopes in your resources,Ruby,https://github.com/heartcombo/has_scope
+558,hirb,1661,71,1661,18,2009-03-07T01:13:19Z,2024-02-28T04:13:19Z,1238,"A mini view framework for console/irb that's easy to use, even while under its influence. Console goodies include a no-wrap table, auto-pager, tree and menu.",Ruby,https://github.com/cldwalker/hirb
+559,recommendify,1660,147,1660,18,2012-01-29T03:56:10Z,2014-05-08T21:18:47Z,1910,Generate recommendations using collaborative filtering,Ruby,https://github.com/asmuth/recommendify
+560,streamio-ffmpeg,1657,418,1657,66,2010-04-06T14:30:49Z,2024-05-08T12:47:14Z,58185,Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies,Ruby,https://github.com/streamio/streamio-ffmpeg
+561,message_bus,1656,135,1656,21,2013-05-15T05:19:31Z,2025-03-26T08:53:13Z,1820,A reliable and robust messaging bus for Ruby and Rack,Ruby,https://github.com/discourse/message_bus
+562,prosopite,1651,49,1651,18,2021-02-17T17:53:29Z,2025-03-03T16:36:59Z,84,Rails N+1 queries auto-detection with zero false positives / false negatives,Ruby,https://github.com/charkost/prosopite
+563,ioctocat,1650,254,1650,29,2009-03-28T17:25:03Z,2014-01-29T20:29:04Z,17962,"iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch)",Objective-C,https://github.com/dennisreimann/ioctocat
+564,greasyfork,1648,470,1648,13,2014-02-18T17:52:32Z,2025-03-28T00:29:03Z,20964,An online repository of user scripts.,Ruby,https://github.com/greasyfork-org/greasyfork
+565,mailboxer,1644,462,1644,151,2011-03-07T11:55:43Z,2024-04-11T22:08:07Z,687,A Rails gem to send messages inside a web application,Ruby,https://github.com/mailboxer/mailboxer
+566,catarse,1641,832,1641,71,2010-11-11T13:37:03Z,2023-03-28T13:42:31Z,73487,The first open source crowdfunding platform for creative projects in the world,Ruby,https://github.com/catarse/catarse
+567,bootstrap_form,1641,351,1641,46,2012-01-06T06:41:18Z,2025-03-12T19:55:35Z,6064,"Official repository of the bootstrap_form gem, a Rails form builder that makes it super easy to create beautiful-looking forms using Bootstrap 5.",Ruby,https://github.com/bootstrap-ruby/bootstrap_form
+568,connection_pool,1639,146,1639,4,2011-05-14T19:30:37Z,2025-03-21T14:55:17Z,225,Generic connection pooling for Ruby,Ruby,https://github.com/mperham/connection_pool
+569,logidze,1637,81,1637,12,2016-04-13T17:12:54Z,2025-03-21T14:02:10Z,672,Database changes log for Rails,Ruby,https://github.com/palkan/logidze
+570,geokit,1636,364,1636,19,2008-12-01T05:49:32Z,2024-07-29T00:47:05Z,13180,Official Geokit Gem. Geokit gem provides geocoding and distance/heading calculations. Pair with the geokit-rails plugin for full-fledged location-based app functionality.,Ruby,https://github.com/geokit/geokit
+571,awesome-geek-podcasts,1634,212,1634,1,2015-05-20T17:46:19Z,2023-03-27T16:54:35Z,372,A curated list of podcasts we like to listen to. ,Ruby,https://github.com/guipdutra/awesome-geek-podcasts
+572,einhorn,1633,47,1633,1,2012-05-25T00:03:23Z,2025-01-19T00:32:18Z,488,Einhorn: the language-independent shared socket manager           ,Ruby,https://github.com/contribsys/einhorn
+573,goldiloader,1629,53,1629,2,2014-06-12T15:13:26Z,2024-11-08T21:15:24Z,297,Just the right amount of Rails eager loading,Ruby,https://github.com/salsify/goldiloader
+574,thinking-sphinx,1629,470,1629,16,2008-04-14T01:28:12Z,2024-07-07T11:02:26Z,5294,Sphinx/Manticore plugin for ActiveRecord/Rails,Ruby,https://github.com/pat/thinking-sphinx
+575,rails-assets,1628,69,1628,26,2013-07-06T17:09:37Z,2022-07-29T22:03:34Z,3658,The solution to assets management in Rails,Ruby,https://github.com/tenex/rails-assets
+576,js-routes,1628,152,1628,0,2011-08-03T14:53:48Z,2025-03-03T09:23:40Z,2212,Brings Rails named routes to javascript,Ruby,https://github.com/railsware/js-routes
+577,avo,1625,277,1625,247,2020-04-26T09:31:53Z,2025-03-28T10:37:01Z,17323,Build Ruby on Rails apps 10x faster,Ruby,https://github.com/avo-hq/avo
+578,mosql,1623,223,1623,58,2013-01-14T21:57:04Z,2020-04-07T20:36:11Z,260,MongoDB → PostgreSQL streaming replication        ,Ruby,https://github.com/stripe-archive/mosql
+579,ch340g-ch34g-ch34x-mac-os-x-driver,1621,234,1621,4,2016-09-26T12:02:57Z,2023-05-15T18:34:33Z,854,CH340G CH34G CH34X Mac OS X driver,Ruby,https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver
+580,simple_calendar,1620,268,1620,4,2012-02-04T11:06:01Z,2025-03-21T23:31:43Z,488,A wonderfully simple calendar gem for Rails,Ruby,https://github.com/excid3/simple_calendar
+581,anemone,1614,324,1614,52,2009-04-14T18:31:48Z,2020-03-20T11:27:38Z,591,Anemone web-spider framework,Ruby,https://github.com/chriskite/anemone
+582,rotp,1613,459,1613,8,2011-02-13T18:20:59Z,2025-01-06T22:27:09Z,282,Ruby One Time Password library,Ruby,https://github.com/mdp/rotp
+583,joss,1611,188,1611,152,2016-01-24T23:34:35Z,2025-03-11T11:14:03Z,30924,The Journal of Open Source Software,Ruby,https://github.com/openjournals/joss
+584,XXEinjector,1610,318,1610,0,2015-05-16T10:56:14Z,2024-12-01T15:25:27Z,94,Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.,Ruby,https://github.com/enjoiz/XXEinjector
+585,OpenFarm,1608,245,1608,134,2013-10-27T04:46:37Z,2025-01-06T07:47:30Z,87297,A free and open database for farming and gardening knowledge. You can grow anything!,Ruby,https://github.com/openfarmcc/OpenFarm
+586,backbone-rails,1608,255,1608,48,2011-05-11T23:18:08Z,2021-06-15T23:12:42Z,1436,Easily use backbone.js with rails 3.1,Ruby,https://github.com/codebrew/backbone-rails
+587,shoes4,1606,193,1606,97,2012-05-24T14:57:59Z,2023-11-17T21:43:57Z,59816,Shoes 4 : the next version of Shoes,Ruby,https://github.com/shoes/shoes4
+588,validates_timeliness,1605,234,1605,19,2008-07-25T22:36:22Z,2024-12-31T04:22:31Z,1395,Date and time validation plugin for ActiveModel and Rails.  Supports multiple ORMs and allows custom date/time formats.,Ruby,https://github.com/adzap/validates_timeliness
+589,liftoff,1603,104,1603,31,2012-10-19T00:58:18Z,2020-06-27T18:22:35Z,18350,CLI for creating and configuring new Xcode projects,Ruby,https://github.com/liftoffcli/liftoff
+590,terraform-landscape,1602,129,1602,17,2017-02-28T19:24:09Z,2024-03-20T18:03:51Z,778,Improve Terraform's plan output to be easier to read and understand,Ruby,https://github.com/coinbase/terraform-landscape
+591,mongomapper,1601,381,1601,72,2009-05-27T22:55:25Z,2025-03-04T16:52:25Z,2863,A Ruby Object Mapper for Mongo,Ruby,https://github.com/mongomapper/mongomapper
+592,acts_as_tenant,1599,267,1599,41,2011-08-08T20:51:14Z,2024-09-06T16:48:06Z,480,Easy multi-tenancy for Rails in a shared database setup.,Ruby,https://github.com/ErwinM/acts_as_tenant
+593,clean-code-ruby,1599,163,1599,6,2017-09-07T18:50:10Z,2022-09-10T02:38:29Z,321,🛁 Clean Code concepts adapted for Ruby,Ruby,https://github.com/uohzxela/clean-code-ruby
+594,html-proofer,1595,205,1595,14,2013-02-27T08:35:49Z,2025-02-21T14:08:01Z,8829,Test your rendered HTML files to make sure they're accurate.,Ruby,https://github.com/gjtorikian/html-proofer
+595,multiwoven,1593,70,1593,43,2023-10-20T15:21:26Z,2025-03-28T10:14:28Z,6303,🔥🔥🔥 Open source composable CDP -  alternative to hightouch and census. ,Ruby,https://github.com/Multiwoven/multiwoven
+596,thredded,1587,214,1587,35,2013-05-09T01:17:41Z,2024-11-13T18:12:13Z,3662,The best Rails forums engine ever.,Ruby,https://github.com/thredded/thredded
+597,travis.rb,1586,410,1586,207,2013-01-09T00:25:13Z,2024-10-25T11:48:30Z,2048,Travis CI Client (CLI and Ruby library),Ruby,https://github.com/travis-ci/travis.rb
+598,json-schema,1585,242,1585,104,2010-11-24T20:05:16Z,2024-12-02T11:39:51Z,1144,Ruby JSON Schema Validator,Ruby,https://github.com/voxpupuli/json-schema
+599,cuttlefish,1583,177,1583,149,2013-03-30T21:30:54Z,2024-06-27T03:33:49Z,26769,Transactional email server with a lovely web interface,Ruby,https://github.com/mlandauer/cuttlefish
+600,lol_dba,1583,70,1583,17,2012-02-28T12:31:11Z,2024-03-07T18:47:58Z,397,"lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. Also, it can generate .sql migration scripts.",Ruby,https://github.com/plentz/lol_dba
+601,github-awards,1581,122,1581,102,2015-01-25T10:08:58Z,2023-01-03T14:13:59Z,2874,Discover your ranking on github :,Ruby,https://github.com/vdaubry/github-awards
+602,ansible-elasticsearch,1581,860,1581,13,2015-04-30T07:21:20Z,2022-06-24T04:41:26Z,1216,Ansible playbook for Elasticsearch,Ruby,https://github.com/elastic/ansible-elasticsearch
+603,ruby-progressbar,1575,131,1575,3,2009-02-16T22:06:07Z,2024-06-12T04:34:26Z,1015,Ruby/ProgressBar is a text progress bar library for Ruby.,Ruby,https://github.com/jfelchner/ruby-progressbar
+604,geokit-rails,1574,245,1574,38,2008-12-19T01:56:49Z,2024-02-23T16:46:25Z,389,Official Geokit plugin for Rails/ActiveRecord. Provides location-based goodness for your Rails app. Requires the Geokit gem.,Ruby,https://github.com/geokit/geokit-rails
+605,boxen,1573,140,1573,16,2012-09-30T04:28:33Z,2018-03-25T21:14:19Z,383,Manage Mac development boxes with love (and Puppet).,Ruby,https://github.com/boxen/boxen
+606,redmon,1571,126,1571,25,2012-01-05T00:59:07Z,2020-05-16T19:13:55Z,2909,"A web interface for managing redis: cli, admin, and live monitoring",Ruby,https://github.com/steelThread/redmon
+607,slather,1570,238,1570,162,2014-06-12T05:06:03Z,2024-11-10T02:05:46Z,1202,Generate test coverage reports for Xcode projects & hook it into CI.,Ruby,https://github.com/SlatherOrg/slather
+608,insoshi,1570,534,1570,2,2008-04-02T19:19:05Z,2022-08-01T18:50:54Z,13875,An open source social networking platform in Ruby on Rails,Ruby,https://github.com/insoshi/insoshi
+609,restful-authentication,1569,270,1569,27,2008-01-14T14:44:23Z,2015-07-31T22:25:04Z,1208,inactive project,Ruby,https://github.com/technoweenie/restful-authentication
+610,addressable,1569,270,1569,43,2008-06-05T19:00:11Z,2025-02-16T18:11:45Z,1968,"Addressable is an alternative implementation to the URI implementation that is part of Ruby's standard library. It is flexible, offers heuristic parsing, and additionally provides extensive support for IRIs and URI templates.",Ruby,https://github.com/sporkmonger/addressable
+611,ffaker,1560,558,1560,13,2010-01-15T06:26:22Z,2025-02-02T18:42:04Z,5403,Faker refactored.,Ruby,https://github.com/ffaker/ffaker
+612,cocoapods-keys,1558,90,1558,50,2014-08-16T19:19:31Z,2023-09-01T12:36:58Z,281,A key value store for storing per-developer environment and application keys,Ruby,https://github.com/orta/cocoapods-keys
+613,terminal-table,1551,125,1551,1,2009-01-07T23:43:22Z,2025-01-27T21:53:18Z,294,"Ruby ASCII Table Generator, simple and feature rich.",Ruby,https://github.com/tj/terminal-table
+614,forem,1549,421,1549,47,2011-02-20T21:16:22Z,2016-10-05T12:45:05Z,26474,The best Rails 3 and Rails 4 forum engine. Ever.,Ruby,https://github.com/rubysherpas/forem
+615,awesome-web-desktops,1547,109,1547,0,2019-10-08T20:49:41Z,2025-03-24T17:23:29Z,2279,"Websites, web apps, portfolios which look like desktop operating systems",Ruby,https://github.com/syxanash/awesome-web-desktops
+616,artoo,1546,142,1546,20,2012-08-14T20:31:07Z,2023-12-19T14:46:41Z,1125,"Ruby framework for robotics, drones, and the Internet of Things (IoT)",Ruby,https://github.com/hybridgroup/artoo
+617,vanity,1543,269,1543,36,2009-11-04T05:51:35Z,2023-03-16T10:12:48Z,3334,Experiment Driven Development for Ruby,Ruby,https://github.com/assaf/vanity
+618,impressionist,1537,309,1537,80,2011-02-04T04:10:22Z,2024-08-14T12:42:53Z,749,Rails Plugin that tracks impressions and page views,Ruby,https://github.com/charlotte-ruby/impressionist
+619,watir,1534,248,1534,11,2009-11-09T11:40:46Z,2024-05-31T14:27:21Z,8878,Watir Powered By Selenium,Ruby,https://github.com/watir/watir
+620,rustboot,1534,224,1534,7,2013-05-26T14:57:53Z,2021-08-01T13:04:25Z,32,A tiny 32 bit kernel written in Rust,Ruby,https://github.com/haileys/rustboot
+621,acts_as_votable,1533,217,1533,15,2010-12-30T05:52:38Z,2022-12-12T17:27:52Z,278,Votable ActiveRecord for Rails,Ruby,https://github.com/ryanto/acts_as_votable
+622,merit,1532,198,1532,2,2011-11-25T18:46:40Z,2024-07-22T07:50:44Z,890,Reputation engine for Rails apps,Ruby,https://github.com/merit-gem/merit
+623,decidim,1531,413,1531,450,2016-08-17T14:27:06Z,2025-03-28T14:26:11Z,280363,The participatory democracy framework. A generator and multiple gems made with Ruby on Rails,Ruby,https://github.com/decidim/decidim
+624,image_optim,1525,109,1525,38,2012-01-05T21:03:14Z,2025-03-23T13:39:21Z,4118,Optimize images using multiple utilities,Ruby,https://github.com/toy/image_optim
+625,rails-footnotes,1522,163,1522,10,2008-12-18T13:21:16Z,2025-03-27T16:31:53Z,649,Every Rails page has footnotes that gives information about your application and links back to your editor,Ruby,https://github.com/indirect/rails-footnotes
+626,guides,1520,166,1520,11,2010-10-01T00:23:11Z,2018-03-05T03:28:13Z,3736,Guides for Ruby and Elixir and whatever else I feel like,Ruby,https://github.com/radar/guides
+627,webrat,1520,275,1520,15,2008-03-02T20:09:28Z,2016-06-28T03:27:40Z,62141,Webrat - Ruby Acceptance Testing for Web applications,Ruby,https://github.com/brynary/webrat
+628,ifme,1520,757,1520,36,2014-04-19T06:58:25Z,2025-03-23T04:47:15Z,86927,"Free, open source mental health communication web app to share experiences with loved ones",Ruby,https://github.com/ifmeorg/ifme
+629,squasher,1514,57,1514,5,2014-01-19T19:10:55Z,2024-12-16T19:31:17Z,104,Squasher - squash your old migrations in a single command,Ruby,https://github.com/jalkoby/squasher
+630,simple_token_authentication,1508,239,1508,82,2013-12-15T21:49:02Z,2024-12-03T23:55:12Z,777,Simple (and safe*) token authentication for Rails apps or API with Devise.,Ruby,https://github.com/gonzalo-bulnes/simple_token_authentication
+631,geminabox,1508,318,1508,6,2010-01-07T23:05:13Z,2025-03-05T20:50:25Z,604,Really simple rubygem hosting,Ruby,https://github.com/geminabox/geminabox
+632,imap-backup,1505,78,1505,14,2012-06-10T11:22:37Z,2024-11-15T19:46:48Z,2565,Backup and Migrate IMAP Email Accounts,Ruby,https://github.com/joeyates/imap-backup
+633,word-to-markdown,1503,157,1503,10,2014-03-22T20:03:23Z,2025-01-08T20:41:27Z,1267,A ruby gem to liberate content from Microsoft Word documents,Ruby,https://github.com/benbalter/word-to-markdown
+634,jsduck,1498,240,1498,87,2010-10-04T13:40:38Z,2020-04-16T21:37:08Z,6202,Simple JavaScript Duckumentation generator.,Ruby,https://github.com/senchalabs/jsduck
+635,redis-store,1496,341,1496,7,2009-04-11T14:15:41Z,2025-02-13T11:57:57Z,3134,"Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks",Ruby,https://github.com/redis-store/redis-store
+636,otwarchive,1496,541,1496,53,2011-02-07T14:50:58Z,2025-03-28T01:08:46Z,67923,The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project,Ruby,https://github.com/otwcode/otwarchive
+637,rb,1495,42,1495,1,2018-08-14T02:31:27Z,2023-02-16T14:51:16Z,21,Turns Ruby into a versatile command line utility,Ruby,https://github.com/thisredone/rb
+638,gitreflow,1493,64,1493,14,2012-01-10T21:15:52Z,2022-03-01T21:55:13Z,704,"Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template.",Ruby,https://github.com/reenhanced/gitreflow
+639,slack-notifier,1493,160,1493,25,2013-09-05T21:29:45Z,2023-04-24T07:03:26Z,204,A simple wrapper for posting to slack channels,Ruby,https://github.com/slack-notifier/slack-notifier
+640,toto,1491,243,1491,61,2009-10-27T14:24:27Z,2015-11-08T23:17:44Z,589,the 10 second blog-engine for hackers,Ruby,https://github.com/cloudhead/toto
+641,timetrap,1490,117,1490,31,2009-04-13T09:17:23Z,2025-03-12T20:07:55Z,625,Simple command line timetracker,Ruby,https://github.com/samg/timetrap
+642,tailwindcss-rails,1490,185,1490,6,2021-01-09T10:26:36Z,2025-03-19T19:21:41Z,4446,,Ruby,https://github.com/rails/tailwindcss-rails
+643,sidekiq-unique-jobs,1489,276,1489,65,2012-07-26T06:22:39Z,2025-03-20T10:41:26Z,19860,Prevents duplicate Sidekiq jobs,Ruby,https://github.com/mhenrixon/sidekiq-unique-jobs
+644,lockbox,1488,72,1488,3,2019-01-02T19:21:24Z,2024-12-29T23:41:44Z,784,Modern encryption for Ruby and Rails,Ruby,https://github.com/ankane/lockbox
+645,omniauth-google-oauth2,1487,416,1487,3,2011-11-03T19:04:23Z,2025-03-24T21:51:35Z,514,Oauth2 strategy for Google,Ruby,https://github.com/zquestz/omniauth-google-oauth2
+646,tty-prompt,1487,139,1487,29,2015-11-01T17:40:57Z,2024-07-20T19:31:37Z,1746,A beautiful and powerful interactive command line prompt,Ruby,https://github.com/piotrmurach/tty-prompt
+647,smarter_csv,1485,189,1485,2,2012-07-29T22:12:24Z,2024-12-21T19:13:51Z,911,"Ruby Gem for convenient reading and writing of CSV files. It has intelligent defaults, and auto-discovery of column and row separators. It imports CSV Files as Array(s) of Hashes, suitable for direct processing with ActiveRecord, kicking-off batch jobs with Sidekiq, parallel processing, or oploading data to S3. Writing CSV Files is equally easy.",Ruby,https://github.com/tilo/smarter_csv
+648,acts_as_paranoid,1485,196,1485,45,2008-03-04T04:48:18Z,2025-03-24T09:38:36Z,710,ActiveRecord plugin allowing you to hide and restore records without actually deleting them.,Ruby,https://github.com/ActsAsParanoid/acts_as_paranoid
+649,jeweler,1481,164,1481,20,2008-10-12T03:23:00Z,2021-01-03T03:53:29Z,1462,Opinionated tool for creating and managing Rubygem projects,Ruby,https://github.com/technicalpickles/jeweler
+650,request_store,1480,88,1480,9,2012-12-17T09:43:43Z,2024-05-01T20:21:45Z,84,Per-request global storage for Rack.,Ruby,https://github.com/steveklabnik/request_store
+651,consuldemocracy,1469,1115,1469,246,2015-07-15T18:04:16Z,2025-03-27T19:11:04Z,115056,Consul Democracy - Open Government and E-Participation Web Software,Ruby,https://github.com/consuldemocracy/consuldemocracy
+652,vagrant-hostmanager,1466,147,1466,78,2013-03-27T19:33:12Z,2023-07-30T19:48:52Z,192,:pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.,Ruby,https://github.com/devopsgroup-io/vagrant-hostmanager
+653,kontena,1464,127,1464,435,2015-03-22T18:52:32Z,2019-02-19T12:12:49Z,9121,"The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.",Ruby,https://github.com/kontena/kontena
+654,rubber,1464,244,1464,107,2008-06-03T20:39:50Z,2020-11-23T09:52:48Z,3886,"A capistrano/rails plugin that makes it easy to deploy/manage/scale to various service providers, including EC2, DigitalOcean, vSphere, and bare metal servers.",Ruby,https://github.com/rubber/rubber
+655,bower-rails,1457,129,1457,36,2012-10-21T19:27:30Z,2023-04-24T05:04:17Z,304,Bundler-like DSL + rake tasks for Bower on Rails,Ruby,https://github.com/rharriso/bower-rails
+656,dashing-rails,1455,148,1455,18,2013-08-03T21:12:45Z,2020-01-06T16:24:44Z,1552,The exceptionally handsome dashboard framework for Rails.,Ruby,https://github.com/gottfrois/dashing-rails
+657,rspec_api_documentation,1454,367,1454,110,2011-11-15T16:12:21Z,2024-08-17T08:03:42Z,1709,Automatically generate API documentation from RSpec,Ruby,https://github.com/zipmark/rspec_api_documentation
+658,action_policy,1454,93,1454,3,2018-03-29T15:46:19Z,2025-03-12T19:15:17Z,1496,Authorization framework for Ruby/Rails applications,Ruby,https://github.com/palkan/action_policy
+659,gitdown,1453,32,1453,5,2013-04-06T23:16:00Z,2016-08-08T18:55:53Z,427,Don't commit when you're drunk,Ruby,https://github.com/noidontdig/gitdown
+660,instagram-ruby-gem,1452,628,1452,65,2011-02-02T01:52:41Z,2019-02-28T18:21:48Z,347,The official gem for the Instagram API,Ruby,https://github.com/facebookarchive/instagram-ruby-gem
+661,data-migrate,1452,196,1452,36,2011-04-19T02:47:06Z,2025-03-19T04:45:31Z,674,Migrate and update data alongside your database structure.,Ruby,https://github.com/ilyakatz/data-migrate
+662,contracts.ruby,1451,82,1451,51,2012-06-07T08:26:04Z,2025-01-13T03:09:19Z,734,Contracts for Ruby.,Ruby,https://github.com/egonSchiele/contracts.ruby
+663,sorcery,1451,229,1451,61,2016-09-16T22:19:20Z,2024-09-23T18:23:44Z,1559,Magical Authentication,Ruby,https://github.com/Sorcery/sorcery
+664,tugboat,1449,89,1449,12,2013-04-13T19:14:45Z,2018-03-11T19:09:27Z,709,A command line tool for interacting with your DigitalOcean droplets.,Ruby,https://github.com/petems/tugboat
+665,gitlab-ci,1448,314,1448,70,2012-10-10T09:00:53Z,2016-05-14T19:36:38Z,5714,DEPRECATED - Please use the GitLab.com issue tracker,Ruby,https://github.com/gitlabhq/gitlab-ci
+666,monocle,1446,119,1446,20,2013-09-30T23:28:34Z,2014-07-16T16:18:16Z,776,Link and news sharing,Ruby,https://github.com/maccman/monocle
+667,samson,1446,235,1446,81,2014-05-27T05:55:57Z,2025-03-22T23:25:49Z,363757,"Web interface for deployments, with plugin architecture and kubernetes support",Ruby,https://github.com/zendesk/samson
+668,cuba,1442,248,1442,3,2010-04-25T04:02:48Z,2024-01-24T13:00:14Z,311,Rum based microframework for web development.,Ruby,https://github.com/soveran/cuba
+669,genghis,1441,163,1441,76,2011-09-17T11:42:33Z,2016-01-26T23:09:23Z,21895,The single-file MongoDB admin app,Ruby,https://github.com/bobthecow/genghis
+670,decisiontree,1441,129,1441,10,2009-02-23T04:52:20Z,2018-10-31T15:22:42Z,56,ID3-based implementation of the ML Decision Tree algorithm,Ruby,https://github.com/igrigorik/decisiontree
+671,rails_event_store,1438,124,1438,77,2015-03-31T22:02:32Z,2025-03-28T12:18:04Z,14607,A Ruby implementation of an Event Store based on Active Record,Ruby,https://github.com/RailsEventStore/rails_event_store
+672,shipit-engine,1432,146,1432,66,2014-02-26T22:59:57Z,2025-02-24T18:21:51Z,6016,Deployment coordination,Ruby,https://github.com/Shopify/shipit-engine
+673,mongo-ruby-driver,1426,534,1426,12,2009-01-15T16:40:45Z,2025-03-12T15:43:07Z,43567,The Official MongoDB Ruby Driver,Ruby,https://github.com/mongodb/mongo-ruby-driver
+674,graphql-batch,1426,105,1426,14,2015-09-20T04:57:22Z,2024-10-14T11:39:41Z,223,A query batching executor for the graphql gem,Ruby,https://github.com/Shopify/graphql-batch
+675,rails_apps_composer,1425,303,1425,53,2011-05-17T16:55:05Z,2020-10-01T18:59:55Z,1748,A gem with recipes to create Rails application templates for Rails starter apps.,Ruby,https://github.com/RailsApps/rails_apps_composer
+676,rime-auto-deploy,1425,72,1425,2,2023-04-06T15:09:10Z,2024-12-18T14:57:46Z,2619,Rime输入法安装脚本，让一切更轻松。Make using Rime easy. ,Ruby,https://github.com/Mark24Code/rime-auto-deploy
+677,pg_search,1423,372,1423,154,2011-01-14T15:26:06Z,2025-03-12T17:07:17Z,1234,pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search ,Ruby,https://github.com/Casecommons/pg_search
+678,examples,1423,365,1423,2,2015-05-07T14:11:18Z,2021-11-16T16:12:50Z,1921,📝 A collection of example fastlane setups,Ruby,https://github.com/fastlane/examples
+679,barkeep,1422,145,1422,188,2011-09-01T18:30:15Z,2023-08-26T07:15:25Z,6875,The friendly code review system.,Ruby,https://github.com/ooyala/barkeep
+680,CodeTriage,1421,369,1421,102,2012-07-21T03:54:51Z,2024-01-11T14:21:19Z,10715,Discover the best way to get started contributing to Open Source projects,Ruby,https://github.com/codetriage/CodeTriage
+681,vite_ruby,1419,123,1419,29,2021-01-19T03:50:35Z,2025-03-26T18:48:56Z,3090,"⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience",Ruby,https://github.com/ElMassimo/vite_ruby
+682,unicorn,1416,263,1416,4,2009-09-04T02:50:52Z,2025-03-23T22:15:21Z,8800,Unofficial Unicorn Mirror.,Ruby,https://github.com/defunkt/unicorn
+683,jsonapi-serializer,1415,142,1415,67,2019-10-03T15:57:42Z,2024-07-19T03:11:59Z,501,A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi),Ruby,https://github.com/jsonapi-serializer/jsonapi-serializer
+684,quiet_assets,1412,84,1412,0,2012-02-13T09:31:20Z,2021-06-28T08:17:42Z,45,"DEPRECATED: As of sprockets-rails version 3.1.0, used in current versions of rails, this gem is deprecated",Ruby,https://github.com/evrone/quiet_assets
+685,clearskies,1411,50,1411,4,2013-09-14T21:05:38Z,2014-12-09T06:02:14Z,1842,Open source btsync clone,Ruby,https://github.com/jewel/clearskies
+686,vimdeck,1411,57,1411,11,2013-09-17T19:02:33Z,2021-01-11T19:07:11Z,2033,VIM as a presentation tool,Ruby,https://github.com/tybenz/vimdeck
+687,suture,1410,29,1410,11,2016-08-18T15:04:54Z,2023-09-29T00:37:51Z,385,🏥 A Ruby gem that helps you refactor your legacy code,Ruby,https://github.com/testdouble/suture
+688,litestack,1409,69,1409,15,2023-02-20T22:07:18Z,2024-12-04T15:20:17Z,4928,,Ruby,https://github.com/oldmoe/litestack
+689,activegraph,1400,273,1400,238,2008-05-30T10:44:36Z,2025-01-13T21:58:02Z,48779,An active model wrapper for the Neo4j Graph Database for Ruby.,Ruby,https://github.com/neo4jrb/activegraph
+690,settingslogic,1399,185,1399,43,2008-10-31T03:30:03Z,2024-04-23T08:43:29Z,529,A simple and straightforward settings solution that uses an ERB enabled YAML file and a singleton design pattern.,Ruby,https://github.com/binarylogic/settingslogic
+691,render_sync,1398,106,1398,39,2013-04-06T05:38:16Z,2019-05-25T19:15:38Z,367,Real-time Rails Partials,Ruby,https://github.com/chrismccord/render_sync
+692,bunny,1398,308,1398,9,2011-03-02T13:40:03Z,2025-03-23T23:22:50Z,4034,"Bunny is a popular, easy to use, mature Ruby client for RabbitMQ",Ruby,https://github.com/ruby-amqp/bunny
+693,ohm,1398,167,1398,14,2009-05-26T17:33:35Z,2022-12-20T11:06:01Z,1156,Object-Hash Mapping for Redis,Ruby,https://github.com/soveran/ohm
+694,soundcloud2000,1397,84,1397,27,2013-01-19T14:03:50Z,2019-08-15T12:21:14Z,196,A terminal client for https://soundcloud.com,Ruby,https://github.com/grobie/soundcloud2000
+695,usbarmory,1396,215,1396,1,2014-10-03T12:13:53Z,2024-10-29T12:00:43Z,21410,USB armory - The open source compact secure computer,Ruby,https://github.com/usbarmory/usbarmory
+696,onebody,1396,283,1396,12,2008-02-23T15:53:26Z,2021-01-29T17:15:05Z,30440,"private member portal for churches, built with Ruby on Rails",Ruby,https://github.com/seven1m/onebody
+697,krane,1396,115,1396,66,2017-01-17T20:41:23Z,2025-03-17T18:47:34Z,9542,A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result,Ruby,https://github.com/Shopify/krane
+698,mutations,1395,93,1395,30,2012-10-19T19:38:09Z,2023-01-17T08:14:37Z,258,Compose your business logic into commands that sanitize and validate input.,Ruby,https://github.com/cypriss/mutations
+699,steep,1394,95,1394,149,2017-03-27T15:34:46Z,2025-03-27T16:03:07Z,6217,Static type checker for Ruby,Ruby,https://github.com/soutaro/steep
+700,spork,1393,201,1393,112,2009-05-20T17:58:38Z,2018-04-26T23:13:31Z,1941,A DRb server for testing frameworks (RSpec / Cucumber currently) that forks before each run to ensure a clean testing state.,Ruby,https://github.com/sporkrb/spork
+701,searchlogic,1392,134,1392,114,2008-08-25T05:23:31Z,2022-07-19T23:22:13Z,6616,"Searchlogic provides object based searching, common named scopes, and other useful tools.",Ruby,https://github.com/binarylogic/searchlogic
+702,zsteg,1389,145,1389,7,2013-01-06T22:12:11Z,2024-03-25T19:38:54Z,9658,detect stegano-hidden data in PNG & BMP,Ruby,https://github.com/zed-0xff/zsteg
+703,seed_dump,1386,224,1386,51,2010-07-27T12:31:39Z,2023-10-16T23:31:32Z,231,Rails 4/5 task to dump your data to db/seeds.rb,Ruby,https://github.com/rroblak/seed_dump
+704,obtvse,1384,261,1384,20,2012-03-23T08:18:47Z,2022-10-19T08:36:36Z,5471,Deprecated: See natew/obtvse2,Ruby,https://github.com/natew/obtvse
+705,telegram-bot-ruby,1384,222,1384,0,2015-06-27T17:40:29Z,2025-02-13T04:37:12Z,456,Ruby wrapper for Telegram's Bot API,Ruby,https://github.com/atipugin/telegram-bot-ruby
+706,kredis,1381,79,1381,15,2021-01-30T13:16:06Z,2025-03-07T14:14:10Z,344,Higher-level data structures built on Redis,Ruby,https://github.com/rails/kredis
+707,bodyapps-web,1380,10,1380,17,2014-05-23T10:36:24Z,2017-11-29T18:05:28Z,8943,Web service and web application components of #bodyapps project,Ruby,https://github.com/OpnTec/bodyapps-web
+708,brimir,1377,296,1377,0,2012-11-23T12:31:36Z,2018-12-22T15:01:41Z,2613,Email helpdesk built using Ruby on Rails and Zurb Foundation,Ruby,https://github.com/ivaldi/brimir
+709,gruff,1376,239,1376,20,2008-03-11T22:06:00Z,2024-12-27T15:53:27Z,434024,Gruff graphing library for Ruby,Ruby,https://github.com/topfunky/gruff
+710,fastimage,1375,117,1375,0,2009-06-10T13:53:18Z,2025-01-03T16:41:06Z,25647,FastImage finds the size or type of an image given its uri by fetching as little as needed,Ruby,https://github.com/sdsykes/fastimage
+711,griddler,1374,199,1374,0,2012-10-26T14:27:49Z,2024-07-12T18:58:16Z,592,Simplify receiving email in Rails (deprecated),Ruby,https://github.com/thoughtbot/griddler
+712,rubyzip,1371,312,1371,35,2010-09-24T10:50:15Z,2025-02-10T08:07:30Z,2841,Official Rubyzip repository,Ruby,https://github.com/rubyzip/rubyzip
+713,semian,1370,79,1370,51,2014-09-23T14:47:19Z,2025-03-20T17:38:45Z,1429,:monkey: Resiliency toolkit for Ruby for failing fast,Ruby,https://github.com/Shopify/semian
+714,treat,1369,127,1369,35,2012-01-24T02:07:29Z,2017-05-05T22:31:43Z,4955,Natural language processing framework for Ruby.,Ruby,https://github.com/louismullie/treat
+715,ronn,1368,84,1368,50,2009-11-02T22:11:27Z,2022-01-29T05:32:21Z,535,the opposite of roff,Ruby,https://github.com/rtomayko/ronn
+716,phlex,1366,90,1366,6,2022-06-01T14:40:16Z,2025-03-28T02:39:32Z,1245,Object-oriented views in Ruby.,Ruby,https://github.com/phlex-ruby/phlex
+717,docker,1365,792,1365,7,2013-05-11T00:21:06Z,2025-02-02T09:57:59Z,5193,Development repository for the docker cookbook,Ruby,https://github.com/sous-chefs/docker
+718,twilio-ruby,1364,468,1364,38,2009-09-15T06:17:02Z,2025-03-20T10:28:38Z,14631,A Ruby gem for communicating with the Twilio API and generating TwiML,Ruby,https://github.com/twilio/twilio-ruby
+719,rails-security-checklist,1364,95,1364,72,2016-12-31T15:16:17Z,2022-07-17T16:46:46Z,39,:key: Community-driven Rails Security Checklist (see our GitHub Issues for the newest checks that aren't yet in the README),Ruby,https://github.com/eliotsykes/rails-security-checklist
+720,legacy-cli,1363,382,1363,315,2009-03-18T01:21:53Z,2022-02-12T11:37:40Z,6889,Heroku CLI,Ruby,https://github.com/heroku/legacy-cli
+721,manageiq,1363,900,1363,293,2014-06-13T02:31:26Z,2025-03-28T13:16:03Z,407699,ManageIQ Open-Source Management Platform,Ruby,https://github.com/ManageIQ/manageiq
+722,classroom,1362,572,1362,224,2015-05-05T05:33:50Z,2020-03-12T15:25:27Z,169709,"GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.",Ruby,https://github.com/github-education-resources/classroom
+723,google-cloud-ruby,1360,556,1360,92,2014-05-30T21:47:14Z,2025-03-28T10:17:16Z,272327,Google Cloud Client Library for Ruby,Ruby,https://github.com/googleapis/google-cloud-ruby
+724,recommendable,1359,114,1359,18,2012-01-20T21:59:40Z,2018-04-24T15:42:20Z,522,:+1::-1: A recommendation engine using Likes and Dislikes for your Ruby app,Ruby,https://github.com/davidcelis/recommendable
+725,dry-validation,1359,189,1359,24,2015-07-22T22:05:39Z,2025-03-19T17:21:40Z,2418,Validation library with type-safe schemas and rules,Ruby,https://github.com/dry-rb/dry-validation
+726,json_resume,1357,116,1357,9,2014-01-24T21:42:44Z,2018-06-18T07:08:57Z,2413,"Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON",Ruby,https://github.com/prat0318/json_resume
+727,ember-rails,1354,251,1354,18,2012-01-03T02:48:12Z,2018-06-20T13:50:11Z,18363,Ember for Rails 3.1+,Ruby,https://github.com/emberjs/ember-rails
+728,lamernews,1351,200,1351,47,2011-10-15T09:26:51Z,2022-05-27T17:53:02Z,330,Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery,Ruby,https://github.com/antirez/lamernews
+729,pry-rails,1351,88,1351,22,2011-08-27T10:30:50Z,2024-06-20T01:31:49Z,132,Rails >= 3 pry initializer,Ruby,https://github.com/pry/pry-rails
+730,review,1350,215,1350,93,2010-01-16T12:42:25Z,2025-01-12T02:49:06Z,44337,Re:VIEW is flexible document format/conversion system,Ruby,https://github.com/kmuto/review
+731,activeresource,1349,360,1349,19,2012-03-13T21:09:47Z,2024-10-31T17:50:06Z,1057,Connects business objects and REST web services,Ruby,https://github.com/rails/activeresource
+732,abba,1348,70,1348,11,2013-01-25T00:05:54Z,2020-08-12T06:03:39Z,470,A/B testing framework,Ruby,https://github.com/maccman/abba
+733,ActiveRecordExtended,1348,44,1348,6,2018-04-29T13:18:13Z,2025-02-26T20:36:30Z,453,Adds additional postgres functionality to an ActiveRecord / Rails application,Ruby,https://github.com/GeorgeKaraszi/ActiveRecordExtended
+734,www,1347,514,1347,63,2013-01-21T00:23:18Z,2025-03-28T06:38:25Z,431434,The main website for Write the Docs. ,Ruby,https://github.com/writethedocs/www
+735,spreadsheet_architect,1343,43,1343,5,2016-02-26T18:25:58Z,2025-01-18T01:04:19Z,1139,"Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.",Ruby,https://github.com/westonganger/spreadsheet_architect
+736,roadie,1341,83,1341,5,2010-10-26T08:08:59Z,2024-05-13T05:48:49Z,1063,Making HTML emails comfortable for the Ruby rockstars,Ruby,https://github.com/Mange/roadie
+737,selecta,1341,81,1341,6,2013-10-11T21:04:22Z,2023-03-03T23:49:25Z,621,"A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.",Ruby,https://github.com/garybernhardt/selecta
+738,wbench,1337,56,1337,7,2013-02-03T09:29:52Z,2020-10-02T05:29:28Z,863,"It benchmarks websites, YO!",Ruby,https://github.com/desktoppr/wbench
+739,SIMP,1336,279,1336,0,2015-04-28T14:52:42Z,2019-11-05T22:27:13Z,71,A system automation and configuration management stack targeted toward operational flexibility and policy compliance.,Ruby,https://github.com/NationalSecurityAgency/SIMP
+740,activerecord-reputation-system,1334,121,1334,28,2012-05-17T11:43:53Z,2016-01-14T23:40:36Z,745,An Active Record Reputation System for Rails,Ruby,https://github.com/twitter/activerecord-reputation-system
+741,developer.github.com,1331,1133,1331,0,2011-04-26T19:20:56Z,2017-10-11T20:18:38Z,147649,GitHub Developer site,Ruby,https://github.com/github/developer.github.com
+742,pretender,1331,52,1331,0,2013-03-05T06:18:38Z,2024-12-29T17:14:08Z,90,Log in as another user in Rails,Ruby,https://github.com/ankane/pretender
+743,mail_view,1330,128,1330,11,2010-04-21T04:39:59Z,2018-02-08T08:07:12Z,441,Visual email testing,Ruby,https://github.com/basecamp/mail_view
+744,foreigner,1324,123,1324,4,2009-04-16T05:50:41Z,2019-02-06T16:22:54Z,395,Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb,Ruby,https://github.com/matthuhiggins/foreigner
+745,wechat,1321,372,1321,12,2014-03-28T11:23:11Z,2025-03-01T18:10:19Z,1590,"API, command and message handling for WeChat in Rails",Ruby,https://github.com/Eric-Guo/wechat
+746,guard-rspec,1317,246,1317,49,2010-10-03T21:10:16Z,2021-08-10T21:39:24Z,673,Guard::RSpec automatically run your specs (much like autotest),Ruby,https://github.com/guard/guard-rspec
+747,wombat,1316,129,1316,24,2011-11-14T05:03:24Z,2024-01-24T10:05:43Z,2654,Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.,Ruby,https://github.com/felipecsl/wombat
+748,vim-elixir,1316,154,1316,41,2012-03-06T21:36:59Z,2025-03-13T22:31:18Z,667,Vim configuration files for Elixir,Ruby,https://github.com/elixir-editors/vim-elixir
+749,YosemiteSanFranciscoFont,1315,172,1315,1,2014-11-19T00:25:21Z,2015-06-25T06:30:07Z,14155,Replace Helvetica Neue on your 10.10 Yosemite Mac with San Francisco – the Watch font.,Ruby,https://github.com/supermarin/YosemiteSanFranciscoFont
+750,screengif,1315,53,1315,16,2013-02-20T19:58:06Z,2020-07-31T08:09:56Z,5233,Create animated gif screencasts.,Ruby,https://github.com/dergachev/screengif
+751,vcap,1313,351,1313,0,2011-04-12T03:02:38Z,2013-08-28T00:38:39Z,965024,Cloud Foundry - the open platform as a service project,Ruby,https://github.com/cloudfoundry-attic/vcap
+752,cane,1312,74,1312,9,2012-01-14T19:33:47Z,2023-02-06T23:14:03Z,333,Code quality threshold checking as part of your build,Ruby,https://github.com/square/cane
+753,cocoapods-binary,1312,206,1312,101,2018-03-24T13:18:48Z,2022-07-22T03:09:39Z,266,"integrate pods in form of prebuilt frameworks conveniently, reducing compile time",Ruby,https://github.com/leavez/cocoapods-binary
+754,seeing_is_believing,1310,53,1310,30,2013-01-02T03:03:28Z,2022-03-18T20:06:43Z,21926,Displays the results of every line of code in your file,Ruby,https://github.com/JoshCheek/seeing_is_believing
+755,jb,1301,43,1301,18,2016-07-01T12:30:23Z,2025-01-16T15:27:24Z,155,A simple and fast JSON API template engine for Ruby on Rails,Ruby,https://github.com/amatsuda/jb
+756,passwordless,1301,91,1301,13,2017-11-05T22:15:51Z,2025-03-10T10:22:36Z,386,🗝 Authentication for your Rails app without the icky-ness of passwords,Ruby,https://github.com/mikker/passwordless
+757,business_time,1296,218,1296,27,2010-04-13T18:36:41Z,2025-01-07T02:43:02Z,330,Support for doing time math in business hours and days,Ruby,https://github.com/bokmann/business_time
+758,highline,1293,138,1293,12,2009-02-02T16:25:53Z,2025-01-06T04:24:39Z,2314,A higher level command-line oriented interface.,Ruby,https://github.com/JEG2/highline
+759,boom,1293,116,1293,6,2010-10-19T07:39:59Z,2023-02-19T17:08:47Z,356,Motherfucking TEXT SNIPPETS! On the COMMAND LINE!,Ruby,https://github.com/holman/boom
+760,cocoapods-playgrounds,1292,36,1292,17,2016-02-10T20:26:37Z,2019-03-11T07:44:01Z,273,:black_joker: Generate Swift Playgrounds for any library.,Ruby,https://github.com/asmallteapot/cocoapods-playgrounds
+761,omnibus,1291,299,1291,65,2012-02-14T21:15:35Z,2025-03-17T10:20:54Z,36854,Easily create full-stack installers for your project across a variety of platforms.,Ruby,https://github.com/chef/omnibus
+762,powder,1290,67,1290,14,2011-04-08T13:59:48Z,2019-10-08T23:55:09Z,180,"Makes Pow even easier. I mean really, really, ridiculously easy",Ruby,https://github.com/powder-rb/powder
+763,cuprite,1290,96,1290,64,2018-07-17T16:13:43Z,2025-03-06T06:09:09Z,795,Headless Chrome/Chromium driver for Capybara,Ruby,https://github.com/rubycdp/cuprite
+764,dpl,1289,367,1289,65,2013-05-27T10:26:39Z,2025-03-28T09:56:06Z,4641,Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.,Ruby,https://github.com/travis-ci/dpl
+765,appraisal,1288,108,1288,14,2010-11-11T20:50:44Z,2024-10-25T18:18:02Z,394,A Ruby library for testing your library against different versions of dependencies.,Ruby,https://github.com/thoughtbot/appraisal
+766,dip,1285,47,1285,15,2016-10-06T04:56:38Z,2024-12-25T09:38:57Z,574,The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.,Ruby,https://github.com/bibendi/dip
+767,ruby-processing,1280,89,1280,0,2008-04-13T14:39:59Z,2020-08-31T18:22:59Z,80587,"Code as Art, Art as Code. Processing and Ruby are meant for each other.",Ruby,https://github.com/jashkenas/ruby-processing
+768,fluentd-kubernetes-daemonset,1279,978,1279,19,2017-01-21T02:37:31Z,2025-03-13T06:55:11Z,2839,Fluentd daemonset for Kubernetes and it Docker image,Ruby,https://github.com/fluent/fluentd-kubernetes-daemonset
+769,ruby-kafka,1276,339,1276,1,2016-01-18T13:24:55Z,2023-04-09T19:23:18Z,2215,A Ruby client library for Apache Kafka,Ruby,https://github.com/zendesk/ruby-kafka
+770,watchr,1276,74,1276,34,2009-08-18T13:21:58Z,2011-10-15T01:23:48Z,1157,Modern continuous testing (flexible alternative to Autotest),Ruby,https://github.com/mynyml/watchr
+771,hexapdf,1275,72,1275,7,2014-09-11T08:45:34Z,2025-02-15T21:14:19Z,5911,Versatile PDF creation and manipulation for Ruby,Ruby,https://github.com/gettalong/hexapdf
+772,cfn_nag,1272,212,1272,82,2016-02-11T13:15:25Z,2024-08-01T23:27:46Z,1501,Linting tool for CloudFormation templates,Ruby,https://github.com/stelligent/cfn_nag
+773,devise-jwt,1272,129,1272,5,2017-01-12T11:13:34Z,2025-01-05T14:45:08Z,311,JWT token authentication with devise and rails,Ruby,https://github.com/waiting-for-dev/devise-jwt
+774,diffy,1271,104,1271,40,2010-06-29T02:49:04Z,2024-10-21T16:27:32Z,166,Easy Diffing in Ruby,Ruby,https://github.com/samg/diffy
+775,omniauth-facebook,1270,401,1270,2,2011-10-15T07:37:00Z,2025-01-21T00:41:55Z,351,Facebook OAuth2 Strategy for OmniAuth,Ruby,https://github.com/simi/omniauth-facebook
+776,Mars,1270,277,1270,17,2019-01-21T07:13:26Z,2020-06-22T05:23:47Z,15721,Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等,Ruby,https://github.com/TideSec/Mars
+777,gli,1268,105,1268,10,2009-02-05T03:49:25Z,2025-03-09T15:54:45Z,2141,Make awesome command-line applications the easy way,Ruby,https://github.com/davetron5000/gli
+778,strong_parameters,1263,164,1263,65,2012-03-13T19:48:14Z,2017-08-08T18:36:31Z,169,Taint and required checking for Action Pack and enforcement in Active Model,Ruby,https://github.com/rails/strong_parameters
+779,ProMotion,1260,144,1260,25,2012-08-30T16:35:59Z,2025-02-04T15:14:50Z,2120,ProMotion is a RubyMotion gem that makes iPhone development less like Objective-C and more like Ruby.,Ruby,https://github.com/jamonholmgren/ProMotion
+780,colorize,1260,142,1260,4,2009-11-23T11:45:34Z,2024-05-21T23:51:26Z,207,"Ruby string class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.",Ruby,https://github.com/fazibear/colorize
+781,rack-contrib,1258,222,1258,1,2008-12-24T00:03:51Z,2024-11-15T20:30:55Z,447,Contributed Rack Middleware and Utilities,Ruby,https://github.com/rack/rack-contrib
+782,XSpear,1257,231,1257,21,2019-07-12T14:46:28Z,2022-09-27T13:47:33Z,1121,🔱 Powerfull XSS Scanning and Parameter analysis tool&gem,Ruby,https://github.com/hahwul/XSpear
+783,geo_pattern,1257,89,1257,1,2014-01-27T15:38:07Z,2023-12-20T16:42:22Z,1755,Create beautiful generative geometric background images from a string.,Ruby,https://github.com/jasonlong/geo_pattern
+784,rspec-expectations,1255,393,1255,0,2009-06-29T15:58:17Z,2024-11-30T12:37:23Z,5706,Provides a readable API to express expected outcomes of a code example,Ruby,https://github.com/rspec/rspec-expectations
+785,best-practices-badge,1254,200,1254,222,2015-07-22T20:14:25Z,2025-03-25T09:17:26Z,73559,🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge),Ruby,https://github.com/coreinfrastructure/best-practices-badge
+786,active_hash,1252,180,1252,29,2009-07-22T01:03:40Z,2025-01-22T15:51:23Z,681,"A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource",Ruby,https://github.com/active-hash/active_hash
+787,devise-two-factor,1248,252,1248,42,2014-05-12T18:46:54Z,2025-03-14T17:29:41Z,370,Barebones two-factor authentication with Devise,Ruby,https://github.com/devise-two-factor/devise-two-factor
+788,mocha,1247,160,1247,110,2008-10-04T13:34:25Z,2025-03-01T17:09:40Z,4501,A mocking and stubbing library for Ruby,Ruby,https://github.com/freerange/mocha
+789,declarative_authorization,1244,230,1244,62,2008-08-14T14:05:37Z,2020-09-01T11:33:38Z,1045,An unmaintained authorization plugin for Rails. Please fork to support current versions of Rails,Ruby,https://github.com/stffn/declarative_authorization
+790,seed-fu,1236,158,1236,57,2008-04-01T13:36:22Z,2022-08-09T06:39:24Z,170,"Advanced seed data handling for Rails, combining the best practices of several methods together.",Ruby,https://github.com/mbleigh/seed-fu
+791,globalid,1234,131,1234,23,2014-08-15T14:05:35Z,2024-08-20T18:06:26Z,298,Identify app models with a URI,Ruby,https://github.com/rails/globalid
+792,heroku-accounts,1230,65,1230,1,2009-12-23T22:25:38Z,2016-04-23T20:58:29Z,35,Multiple account management for Heroku,Ruby,https://github.com/ddollar/heroku-accounts
+793,rspec-core,1229,758,1229,0,2009-06-29T15:41:05Z,2024-11-30T10:40:27Z,12027,RSpec runner and formatters,Ruby,https://github.com/rspec/rspec-core
+794,xray-rails,1225,79,1225,33,2013-03-06T17:02:49Z,2024-12-07T21:58:20Z,425,☠️ A development tool that reveals your UI's bones,Ruby,https://github.com/brentd/xray-rails
+795,Ruby,1223,302,1223,9,2016-07-25T17:32:57Z,2025-01-17T15:11:25Z,533,All algorithms implemented in Ruby,Ruby,https://github.com/TheAlgorithms/Ruby
+796,camaleon-cms,1222,290,1222,18,2015-07-09T16:21:45Z,2025-03-15T17:05:12Z,56071,Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails,Ruby,https://github.com/owen2345/camaleon-cms
+797,awesome-vapor,1219,62,1219,8,2018-02-16T19:33:10Z,2023-10-14T17:45:31Z,173,A curated list of Vapor-related awesome projects.,Ruby,https://github.com/vapor-community/awesome-vapor
+798,slack-ruby-client,1219,224,1219,79,2015-07-24T20:04:49Z,2025-03-27T23:23:19Z,2487,"A Ruby and command-line client for the Slack Web, Real Time Messaging and Event APIs.",Ruby,https://github.com/slack-ruby/slack-ruby-client
+799,em-http-request,1217,225,1217,15,2008-08-22T20:53:40Z,2024-11-10T05:42:53Z,922,Asynchronous HTTP Client (EventMachine + Ruby),Ruby,https://github.com/igrigorik/em-http-request
+800,autoprefixer-rails,1215,110,1215,7,2013-04-04T22:01:13Z,2024-12-02T15:35:53Z,25849,Autoprefixer for Ruby and Ruby on Rails,Ruby,https://github.com/ai/autoprefixer-rails
+801,ror_ecommerce,1213,408,1213,23,2010-10-16T01:39:59Z,2023-06-13T14:53:16Z,9045,"Ruby on Rails Ecommerce platform, perfect for your small business solution.",Ruby,https://github.com/drhenner/ror_ecommerce
+802,bridgetown,1209,117,1209,67,2020-04-07T03:35:46Z,2025-03-15T20:29:07Z,17414,"A next-generation progressive site generator & fullstack framework, powered by Ruby",Ruby,https://github.com/bridgetownrb/bridgetown
+803,truemail,1208,65,1208,0,2019-03-04T10:29:42Z,2024-04-23T08:59:17Z,643,"🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.",Ruby,https://github.com/truemail-rb/truemail
+804,RubyMotionSamples,1207,339,1207,11,2012-05-03T15:13:19Z,2021-04-28T18:55:05Z,21763,A collection of RubyMotion applications for code samples.,Ruby,https://github.com/HipByte/RubyMotionSamples
+805,job-iteration,1206,46,1206,46,2018-06-13T11:01:27Z,2025-03-24T10:58:22Z,966,Makes your background jobs interruptible and resumable by design.,Ruby,https://github.com/Shopify/job-iteration
+806,vagrant-lxc,1204,180,1204,1,2013-02-25T12:37:14Z,2022-11-24T23:41:12Z,1227,LXC provider for Vagrant,Ruby,https://github.com/fgrehm/vagrant-lxc
+807,authority,1204,68,1204,0,2012-03-09T18:31:06Z,2019-11-18T16:24:23Z,790,*CURRENTLY UNMAINTAINED*. Authority helps you authorize actions in your Rails app. It's ORM-neutral and has very little fancy syntax; just group your models under one or more Authorizer classes and write plain Ruby methods on them.,Ruby,https://github.com/nathanl/authority
+808,taps,1201,139,1201,69,2009-02-07T02:33:21Z,2018-03-20T18:55:44Z,672,simple database import/export app,Ruby,https://github.com/ricardochimal/taps
+809,newrelic-ruby-agent,1200,604,1200,147,2008-10-31T16:13:01Z,2025-03-27T17:52:00Z,39641,New Relic RPM Ruby Agent,Ruby,https://github.com/newrelic/newrelic-ruby-agent
+810,tracks,1199,538,1199,246,2011-07-16T10:26:14Z,2025-01-26T16:12:58Z,22700,"Tracks is a GTD™ web application, built with Ruby on Rails",Ruby,https://github.com/TracksApp/tracks
+811,active_attr,1197,90,1197,49,2011-09-29T20:14:06Z,2024-12-26T22:50:34Z,501,What ActiveModel left out,Ruby,https://github.com/cgriego/active_attr
+812,email-spec,1196,171,1196,35,2008-12-09T21:09:32Z,2024-07-22T20:49:09Z,768,Collection of RSpec/MiniTest matchers and Cucumber steps for testing email in a ruby app using ActionMailer or Pony,Ruby,https://github.com/email-spec/email-spec
+813,invisible_captcha,1196,66,1196,1,2012-06-06T14:30:32Z,2025-01-30T10:52:30Z,240,🍯 Unobtrusive and flexible spam protection for Rails apps,Ruby,https://github.com/markets/invisible_captcha
+814,debug,1192,130,1192,85,2019-09-20T07:28:16Z,2024-12-18T20:49:34Z,1728,Debugging functionality for Ruby,Ruby,https://github.com/ruby/debug
+815,rails-pg-extras,1192,35,1192,1,2019-12-25T10:53:26Z,2025-02-25T11:43:34Z,1386,"Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.",Ruby,https://github.com/pawurb/rails-pg-extras
+816,update_xcode_plugins,1190,82,1190,11,2016-02-25T08:26:01Z,2018-06-06T01:02:04Z,70,No more messing with plugin UUIDs; Plugins on Xcode 8+!,Ruby,https://github.com/inket/update_xcode_plugins
+817,fucking_shell_scripts,1189,89,1189,2,2013-08-16T18:10:40Z,2015-02-17T13:30:21Z,324,"The easiest, most common sense configuration management tool... because you just use fucking shell scripts.",Ruby,https://github.com/brandonhilkert/fucking_shell_scripts
+818,queue_classic,1189,152,1189,11,2011-01-26T04:50:39Z,2024-03-22T19:04:18Z,752,"Simple, efficient worker queue for Ruby & PostgreSQL.",Ruby,https://github.com/QueueClassic/queue_classic
+819,fresh,1188,86,1188,43,2012-09-03T23:49:29Z,2023-08-24T03:58:28Z,1421,Keep your dotfiles fresh.,Ruby,https://github.com/freshshell/fresh
+820,deadweight,1187,50,1187,14,2009-07-21T19:04:25Z,2016-04-27T14:52:46Z,149,NOT MAINTAINED,Ruby,https://github.com/aanand/deadweight
+821,rubyinstaller,1186,301,1186,27,2009-02-15T20:40:25Z,2021-05-22T05:12:24Z,969,RubyInstaller for Windows - Build recipes,Ruby,https://github.com/oneclick/rubyinstaller
+822,Xaddress,1185,46,1185,6,2016-08-09T14:57:39Z,2022-09-30T16:58:27Z,18865,Xaddress - Give 7 billion people an instant physical address,Ruby,https://github.com/roberdam/Xaddress
+823,eye,1185,86,1185,19,2012-12-29T12:48:39Z,2021-11-13T07:29:26Z,2187,Process monitoring tool. Inspired from Bluepill and God.,Ruby,https://github.com/kostya/eye
+824,BubbleWrap,1183,208,1183,32,2012-05-03T17:55:51Z,2021-04-25T16:06:18Z,1866,"Cocoa wrappers and helpers for RubyMotion (Ruby for iOS and OS X) - Making Cocoa APIs more Ruby like, one API at a time. Fork away and send your pull requests",Ruby,https://github.com/rubymotion-community/BubbleWrap
+825,blueprinter,1180,113,1180,17,2017-08-03T23:34:27Z,2025-03-24T13:19:42Z,2627,"Simple, Fast, and Declarative Serialization Library for Ruby",Ruby,https://github.com/procore-oss/blueprinter
+826,oink,1178,70,1178,23,2009-02-10T04:50:45Z,2018-01-30T14:55:58Z,191,Log parser to identify actions which significantly increase VM heap size,Ruby,https://github.com/noahd1/oink
+827,carmen,1173,276,1173,19,2009-03-17T19:18:42Z,2022-01-31T18:44:57Z,1360,A repository of geographic regions for Ruby,Ruby,https://github.com/carmen-ruby/carmen
+828,browsercms,1172,259,1172,321,2009-03-31T14:30:53Z,2022-07-21T22:55:57Z,14322,BrowserCMS: Humane Content Management for Rails,Ruby,https://github.com/browsermedia/browsercms
+829,pleaserun,1169,76,1169,44,2013-07-12T06:04:02Z,2023-08-30T08:15:38Z,358,"An attempt to abstract this ""init"" script madness.",Ruby,https://github.com/jordansissel/pleaserun
+830,awspec,1169,192,1169,38,2015-07-27T12:22:55Z,2025-03-17T22:51:12Z,2537,RSpec tests for your AWS resources.,Ruby,https://github.com/k1LoW/awspec
+831,asciidoctor-pdf,1168,500,1168,13,2014-01-11T09:48:11Z,2025-03-22T08:40:38Z,30764,":page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.",Ruby,https://github.com/asciidoctor/asciidoctor-pdf
+832,oga,1168,39,1168,1,2014-02-26T12:50:51Z,2023-06-10T16:32:01Z,8641,Oga is an XML/HTML parser written in Ruby.,Ruby,https://github.com/yorickpeterse/oga
+833,sshkit,1168,254,1168,44,2012-03-09T16:37:07Z,2025-02-09T01:24:27Z,1565,"A toolkit for deploying code and assets to servers in a repeatable, testable, reliable way.",Ruby,https://github.com/capistrano/sshkit
+834,icalendar,1167,189,1167,16,2008-12-28T00:05:21Z,2025-01-07T17:06:47Z,903,icalendar.rb main repository,Ruby,https://github.com/icalendar/icalendar
+835,Home-Network-Note,1167,97,1167,3,2014-11-28T03:47:14Z,2024-12-30T05:54:55Z,15164,🚧 持续更新 🚧 记录搭建兼顾学习娱乐的家用网络环境的过程，折腾过的一些软硬件小经验。,Ruby,https://github.com/soulteary/Home-Network-Note
+836,rotating-proxy,1165,259,1165,24,2014-04-11T23:23:34Z,2024-04-25T07:50:11Z,30,Rotating TOR proxy with Docker,Ruby,https://github.com/mattes/rotating-proxy
+837,github,1164,316,1164,27,2011-09-25T19:36:22Z,2023-05-13T06:05:32Z,7384,Ruby interface to GitHub API,Ruby,https://github.com/piotrmurach/github
+838,koudoku,1162,186,1162,72,2012-12-27T06:01:59Z,2021-01-04T18:59:44Z,229,Robust subscription support for Rails with Stripe.,Ruby,https://github.com/andrewculver/koudoku
+839,excon,1162,286,1162,19,2009-10-25T17:50:46Z,2025-03-18T14:57:37Z,3409,"Usable, fast, simple HTTP 1.1 for Ruby",Ruby,https://github.com/excon/excon
+840,openfoodnetwork,1161,729,1161,576,2012-10-17T07:56:23Z,2025-03-27T05:10:21Z,113054,"Connect suppliers, distributors and consumers to trade local produce.",Ruby,https://github.com/openfoodfoundation/openfoodnetwork
+841,jammit,1160,197,1160,41,2009-11-08T00:38:48Z,2021-08-26T00:08:01Z,2745,Industrial Strength Asset Packaging for Rails,Ruby,https://github.com/documentcloud/jammit
+842,cocoapods-packager,1156,227,1156,117,2014-03-17T18:23:25Z,2023-03-16T08:46:58Z,316,CocoaPods plugin which allows you to generate a static library from a podspec.,Ruby,https://github.com/CocoaPods/cocoapods-packager
+843,doing,1156,91,1156,6,2014-03-15T19:32:05Z,2025-01-19T10:16:22Z,7879,,Ruby,https://github.com/ttscoff/doing
+844,alan-sdk-cordova,1156,5,1156,4,2019-10-23T12:18:37Z,2024-05-01T06:00:21Z,14139,Conversational AI SDK for Apache Cordova to enable text and voice conversations with actions (iOS and Android),Ruby,https://github.com/alan-ai/alan-sdk-cordova
+845,rspec-mocks,1155,358,1155,0,2009-06-29T15:56:06Z,2024-11-30T10:37:10Z,7511,"RSpec's 'test double' framework, with support for stubbing and mocking",Ruby,https://github.com/rspec/rspec-mocks
+846,vagrant-hostsupdater,1154,129,1154,36,2013-04-28T11:40:48Z,2021-12-01T06:06:47Z,136,,Ruby,https://github.com/agiledivider/vagrant-hostsupdater
+847,net-http-cheat-sheet,1149,162,1149,0,2010-01-07T08:42:55Z,2019-04-03T04:53:58Z,20,A collection of Ruby Net::HTTP examples.,Ruby,https://github.com/augustl/net-http-cheat-sheet
+848,zealot,1149,142,1149,5,2019-01-25T06:50:46Z,2025-03-26T21:44:14Z,237980,"开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps",Ruby,https://github.com/tryzealot/zealot
+849,pgslice,1149,67,1149,0,2016-04-24T23:40:03Z,2025-03-27T23:46:51Z,268,Postgres partitioning as easy as pie,Ruby,https://github.com/ankane/pgslice
+850,cryptosphere,1148,48,1148,1,2011-11-30T06:48:21Z,2016-01-30T20:04:22Z,1462,"Encrypted peer-to-peer web application platform for decentralized, privacy-preserving applications",Ruby,https://github.com/cryptosphere/cryptosphere
+851,sprinkle,1148,136,1148,20,2008-02-26T12:58:26Z,2018-01-24T06:08:42Z,891,"Sprinkle is a software provisioning tool you can use to build remote servers with. eg. to install a Rails, or Sinatra stack on a brand new slice directly after its been created",Ruby,https://github.com/sprinkle-tool/sprinkle
+852,whois,1147,281,1147,12,2009-06-27T12:38:44Z,2024-11-22T14:07:41Z,10881,An intelligent — pure Ruby — WHOIS client and parser.,Ruby,https://github.com/weppos/whois
+853,seedbank,1146,91,1146,13,2011-03-21T00:02:53Z,2023-12-07T17:42:52Z,457,"Seedbank gives your seed data a little structure. Create seeds for each environment, share seeds between environments and specify dependencies to load your seeds in order. All nicely integrated with simple rake tasks.",Ruby,https://github.com/james2m/seedbank
+854,communityengine,1138,316,1138,0,2008-03-25T19:55:55Z,2021-04-05T01:27:31Z,9412,"Adds basic social networking capabilities to your existing application, including users, blogs, photos, clippings, favorites, and more.",Ruby,https://github.com/bborn/communityengine
+855,rails-stripe-membership-saas,1137,231,1137,22,2012-10-17T19:23:48Z,2017-10-13T05:55:14Z,914,An example Rails 4.2 app with Stripe and the Payola gem for a membership or subscription site.,Ruby,https://github.com/RailsApps/rails-stripe-membership-saas
+856,ahoy_email,1137,139,1137,1,2014-04-28T08:25:42Z,2024-12-29T17:14:35Z,360,First-party email analytics for Rails,Ruby,https://github.com/ankane/ahoy_email
+857,swot,1137,26598,1137,761,2012-01-31T04:00:56Z,2024-08-21T15:36:06Z,2825,:school: Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.,Ruby,https://github.com/leereilly/swot
+858,jetpants,1133,81,1133,3,2012-05-24T11:32:17Z,2017-06-15T19:52:13Z,27524,MySQL toolkit for managing billions of rows and hundreds of database machines,Ruby,https://github.com/tumblr/jetpants
+859,spreadsheet,1133,242,1133,13,2012-04-13T15:44:37Z,2024-11-20T09:51:19Z,5403,The Ruby Spreadsheet by ywesee GmbH,Ruby,https://github.com/zdavatz/spreadsheet
+860,dstk,1132,182,1132,50,2011-03-07T05:02:00Z,2016-08-29T12:16:48Z,3817,A collection of the best open data sets and open-source tools for data science,Ruby,https://github.com/petewarden/dstk
+861,airborne,1131,125,1131,45,2014-09-12T16:48:34Z,2024-01-16T02:20:26Z,324,RSpec driven API testing framework,Ruby,https://github.com/brooklynDev/airborne
+862,github-gem,1130,188,1130,74,2008-02-28T09:35:34Z,2024-04-01T14:31:19Z,673,`github` command line helper for simplifying your GitHub experience.,Ruby,https://github.com/defunkt/github-gem
+863,social_stream,1130,301,1130,49,2010-09-24T15:19:58Z,2020-10-17T06:12:06Z,22364,A framework for building distributed social network websites,Ruby,https://github.com/ging/social_stream
+864,slop,1129,71,1129,1,2010-11-26T22:09:15Z,2023-11-14T18:28:21Z,1232,Simple Lightweight Option Parsing - ✨ new contributors welcome ✨,Ruby,https://github.com/leejarvis/slop
+865,kitchen-terraform,1128,144,1128,0,2016-06-23T01:59:10Z,2024-10-22T14:32:15Z,5078,Test Kitchen plugins for testing Terraform configurations,Ruby,https://github.com/newcontext-oss/kitchen-terraform
+866,libraries.io,1124,206,1124,179,2014-09-30T14:26:33Z,2025-03-21T17:59:30Z,65520,:books: The Open Source Discovery Service,Ruby,https://github.com/librariesio/libraries.io
+867,itamae,1124,124,1124,37,2013-12-23T10:30:26Z,2025-01-17T13:12:18Z,953,"Configuration management tool inspired by Chef, but simpler and lightweight. Formerly known as Lightchef.",Ruby,https://github.com/itamae-kitchen/itamae
+868,store_model,1122,92,1122,26,2019-02-12T13:17:57Z,2025-02-01T12:20:32Z,293,Work with JSON-backed attributes as ActiveRecord-ish models,Ruby,https://github.com/DmitryTsepelev/store_model
+869,jquery-ui-rails,1121,247,1121,16,2012-02-17T18:17:51Z,2024-07-05T06:53:49Z,1190,jQuery UI for the Rails asset pipeline,Ruby,https://github.com/jquery-ui-rails/jquery-ui-rails
+870,jekyll-assets,1120,171,1120,52,2012-10-21T22:43:15Z,2024-02-20T15:08:38Z,6881,:art: Asset pipelines for Jekyll.,Ruby,https://github.com/envygeeks/jekyll-assets
+871,docker-rails,1120,175,1120,1,2016-10-27T14:21:49Z,2024-10-29T04:23:56Z,14128,"Dockerize Rails 7 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq",Ruby,https://github.com/ledermann/docker-rails
+872,slack-ruby-bot,1118,186,1118,36,2015-07-02T18:21:53Z,2021-05-02T20:05:07Z,5849,The easiest way to write a Slack bot in Ruby.,Ruby,https://github.com/slack-ruby/slack-ruby-bot
+873,machinist,1116,134,1116,31,2008-10-06T11:43:46Z,2023-06-23T10:00:40Z,2161,Fixtures aren't fun. Machinist is.,Ruby,https://github.com/notahat/machinist
+874,Eternalblue-Doublepulsar-Metasploit,1115,520,1115,83,2017-04-24T12:41:56Z,2021-03-31T09:44:10Z,2893,Module of Metasploit to exploit the vulnerability Eternalblue-Doublepulsar.,Ruby,https://github.com/Telefonica/Eternalblue-Doublepulsar-Metasploit
+875,homebrew-autoupdate,1115,57,1115,10,2015-04-22T15:36:13Z,2025-02-20T18:20:20Z,428,":tropical_drink: An easy, convenient way to automatically update Homebrew.",Ruby,https://github.com/DomT4/homebrew-autoupdate
+876,moneta,1114,87,1114,23,2012-11-18T20:07:23Z,2024-08-02T14:16:50Z,3122,a unified interface to key/value stores,Ruby,https://github.com/moneta-rb/moneta
+877,active_scaffold,1114,332,1114,27,2008-05-21T17:47:42Z,2025-03-28T13:12:20Z,9194,"Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",Ruby,https://github.com/activescaffold/active_scaffold
+878,jsonb_accessor,1113,92,1113,4,2015-04-02T01:14:40Z,2024-04-07T11:11:20Z,554,Adds typed jsonb backed fields to your ActiveRecord models.,Ruby,https://github.com/madeintandem/jsonb_accessor
+879,active_decorator,1112,110,1112,10,2011-12-02T12:09:38Z,2025-01-16T15:06:02Z,356,"ORM agnostic truly Object-Oriented view helper for Rails 4, 5, 6, 7, and 8",Ruby,https://github.com/amatsuda/active_decorator
+880,maintenance_tasks,1111,83,1111,9,2020-09-22T14:25:41Z,2025-03-24T13:36:04Z,2913,A Rails engine for queueing and managing data migrations.,Ruby,https://github.com/Shopify/maintenance_tasks
+881,tkn,1110,84,1110,6,2012-09-10T06:13:06Z,2023-01-19T00:43:11Z,2198,Terminal Keynote - A hack for terminal-based talks,Ruby,https://github.com/fxn/tkn
+882,tweetstream,1108,154,1108,28,2009-09-22T20:20:04Z,2021-08-24T17:51:40Z,413,A simple EventMachine-based library for consuming Twitter's Streaming API.,Ruby,https://github.com/tweetstream/tweetstream
+883,importmap-rails,1107,119,1107,39,2021-07-29T00:25:49Z,2024-12-21T01:22:19Z,867,Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.,Ruby,https://github.com/rails/importmap-rails
+884,FxLifeSheet,1107,73,1107,26,2019-04-01T09:19:29Z,2024-01-13T17:25:43Z,3127,Tracking the key metrics of my life,Ruby,https://github.com/KrauseFx/FxLifeSheet
+885,rails_performance,1105,65,1105,17,2020-01-24T09:46:01Z,2025-03-05T10:29:08Z,6808,Monitor performance of you Rails applications (self-hosted and free),Ruby,https://github.com/igorkasyanchuk/rails_performance
+886,docker-api,1105,290,1105,48,2013-06-13T19:29:58Z,2024-10-30T18:40:46Z,16590,A lightweight Ruby client for the Docker Remote API,Ruby,https://github.com/upserve/docker-api
+887,active_type,1101,76,1101,2,2014-02-21T08:13:06Z,2025-02-27T16:37:03Z,480,Make any Ruby object quack like ActiveRecord,Ruby,https://github.com/makandra/active_type
+888,database_consistency,1100,49,1100,8,2018-10-30T11:13:51Z,2025-02-07T09:37:56Z,718,The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.,Ruby,https://github.com/djezzzl/database_consistency
+889,phonelib,1100,134,1100,13,2012-10-08T14:30:58Z,2025-03-12T06:38:03Z,47288,Ruby gem for phone validation and formatting using google libphonenumber library data,Ruby,https://github.com/daddyz/phonelib
+890,rails-settings-cached,1097,204,1097,7,2011-01-20T08:41:50Z,2024-12-10T05:54:27Z,414,Global settings for your Rails application.,Ruby,https://github.com/huacnlee/rails-settings-cached
+891,grape-swagger,1094,476,1094,126,2012-07-19T08:39:49Z,2025-02-19T14:25:58Z,2174,Add OAPI/swagger v2.0 compliant documentation to your grape API,Ruby,https://github.com/ruby-grape/grape-swagger
+892,ranked-model,1093,133,1093,2,2011-01-28T15:19:09Z,2024-11-19T18:45:49Z,189,An acts_as_sortable/acts_as_list replacement built for Rails 4+,Ruby,https://github.com/brendon/ranked-model
+893,anystyle,1091,92,1091,66,2011-08-31T16:24:21Z,2024-08-14T22:01:29Z,18102,Fast citation reference parsing,Ruby,https://github.com/inukshuk/anystyle
+894,manyfold,1089,67,1089,270,2021-02-05T20:55:43Z,2025-03-27T15:26:42Z,13209,A self-hosted digital asset manager for 3d print files.,Ruby,https://github.com/manyfold3d/manyfold
+895,Dress,1088,186,1088,2,2023-01-28T06:03:31Z,2025-03-28T05:50:15Z,2904645,好耶 是女装 | 备份·接受PR,Ruby,https://github.com/Cute-Dress/Dress
+896,commander,1087,64,1087,0,2008-10-16T16:43:42Z,2015-04-01T05:52:37Z,1891,The complete solution for Ruby command-line executables,Ruby,https://github.com/tj/commander
+897,git_stats,1085,154,1085,53,2012-10-06T07:22:38Z,2024-05-08T03:48:26Z,35652,GitStats is a git repository statistics generator.,Ruby,https://github.com/tomgi/git_stats
+898,awesome-style-guide,1084,69,1084,0,2016-05-01T04:42:32Z,2023-01-19T09:04:15Z,68,A list of awesome style guide.,Ruby,https://github.com/kciter/awesome-style-guide
+899,fakeweb,1084,130,1084,32,2008-10-13T06:53:18Z,2019-02-15T13:56:56Z,513,Ruby test helper for injecting fake responses to web requests,Ruby,https://github.com/chrisk/fakeweb
+900,rails-template,1083,228,1083,0,2015-01-30T22:17:11Z,2023-12-18T20:07:18Z,645,My former app template for Rails 7. All recommendations you see here have been moved to https://github.com/mattbrictson/nextgen,Ruby,https://github.com/mattbrictson/rails-template
+901,cocoapods-deintegrate,1081,45,1081,5,2014-10-01T01:47:38Z,2022-04-05T22:21:29Z,271,A CocoaPods plugin to remove and de-integrate CocoaPods from your project.,Ruby,https://github.com/CocoaPods/cocoapods-deintegrate
+902,render_async,1078,75,1078,13,2017-03-20T12:34:17Z,2024-11-11T17:59:10Z,612,render_async lets you include pages asynchronously with AJAX,Ruby,https://github.com/nikolalsvk/render_async
+903,gush,1075,110,1075,15,2014-03-18T15:59:18Z,2025-03-19T08:19:41Z,458,Fast and distributed workflow runner using ActiveJob and Redis,Ruby,https://github.com/chaps-io/gush
+904,rack-bug,1074,103,1074,17,2009-03-09T01:43:24Z,2016-04-27T20:46:14Z,1296,Debugging toolbar for Rack applications implemented as middleware,Ruby,https://github.com/brynary/rack-bug
+905,berkshelf,1073,312,1073,45,2012-05-01T23:46:29Z,2024-08-14T18:37:00Z,7035,A Chef Cookbook manager,Ruby,https://github.com/berkshelf/berkshelf
+906,oxml_xxe,1072,235,1072,1,2015-03-06T20:30:49Z,2024-12-16T11:26:53Z,2702,A tool for embedding XXE/XML exploits into different filetypes,Ruby,https://github.com/BuffaloWill/oxml_xxe
+907,datagrid,1072,115,1072,4,2011-06-13T15:15:29Z,2025-03-17T12:33:10Z,1651,Gem to create tables grids with sortable columns and filters,Ruby,https://github.com/bogdan/datagrid
+908,shopify-api-ruby,1071,478,1071,20,2009-06-12T15:54:26Z,2025-03-28T15:07:46Z,6902,ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.,Ruby,https://github.com/Shopify/shopify-api-ruby
+909,vagrant-cachier,1071,110,1071,0,2013-03-21T14:34:03Z,2022-12-05T22:16:19Z,261,Caffeine reducer,Ruby,https://github.com/fgrehm/vagrant-cachier
+910,ridgepole,1069,127,1069,6,2014-06-29T08:12:33Z,2025-03-17T02:51:40Z,1844,"Ridgepole is a tool to manage DB schema.  It defines DB schema using Rails DSL, and updates DB schema according to DSL. (like Chef/Puppet)",Ruby,https://github.com/ridgepole/ridgepole
+911,airplay,1068,70,1068,28,2011-07-05T11:29:11Z,2022-10-23T20:11:53Z,1291,Airplay bindings to Ruby,Ruby,https://github.com/elcuervo/airplay
+912,gitlab,1067,397,1067,13,2012-09-21T17:46:11Z,2025-03-17T09:01:16Z,1847,Ruby wrapper and CLI for the GitLab REST API,Ruby,https://github.com/NARKOZ/gitlab
+913,batch-loader,1067,52,1067,11,2017-07-31T14:59:54Z,2024-04-24T15:23:08Z,282,:zap: Powerful tool for avoiding N+1 DB or HTTP queries,Ruby,https://github.com/exAspArk/batch-loader
+914,gibbon,1066,165,1066,4,2010-11-12T22:13:10Z,2023-06-07T13:41:21Z,393,Gibbon is an API wrapper for MailChimp's API,Ruby,https://github.com/amro/gibbon
+915,image-builder-rpi,1065,167,1065,47,2016-01-07T18:06:13Z,2022-02-18T20:23:48Z,498,SD card image for Raspberry Pi with Docker: HypriotOS,Ruby,https://github.com/hypriot/image-builder-rpi
+916,active_storage_validations,1062,139,1062,13,2018-08-28T15:59:26Z,2025-03-21T10:22:21Z,2582,"Do it like => validates :photos, attached: true, content_type: ['image/png', 'image/jpg', 'image/jpeg'], size: { less_than: 500.kilobytes }, limit: { min: 1, max: 3 }, aspect_ratio: :landscape, dimension: { width: { in: 800..1600 }",Ruby,https://github.com/igorkasyanchuk/active_storage_validations
+917,hotwire-example-template,1061,79,1061,4,2021-04-05T04:10:18Z,2025-01-04T14:01:02Z,1324,A collection of branches that transmit HTML over the wire.,Ruby,https://github.com/thoughtbot/hotwire-example-template
+918,cocoapods-imy-bin,1059,243,1059,84,2020-06-14T05:49:57Z,2024-08-17T07:56:36Z,57684,,Ruby,https://github.com/MeetYouDevs/cocoapods-imy-bin
+919,cli-ui,1058,53,1058,15,2017-05-31T19:15:08Z,2025-03-26T01:46:22Z,1322,CLI tooling framework with simple interactive widgets,Ruby,https://github.com/Shopify/cli-ui
+920,fakefs,1057,190,1057,36,2009-05-29T08:11:32Z,2025-01-20T22:13:49Z,1636,A fake filesystem. Use it in your tests.,Ruby,https://github.com/fakefs/fakefs
+921,nlp-with-ruby,1056,67,1056,7,2016-03-15T20:56:12Z,2023-06-27T09:38:04Z,1254,Curated List: Practical Natural Language Processing done in Ruby,Ruby,https://github.com/arbox/nlp-with-ruby
+922,fir-cli,1056,222,1056,5,2015-04-07T03:02:35Z,2024-06-12T05:40:49Z,1859,fir.im(betaqr.com) command-line interface,Ruby,https://github.com/PGYER/fir-cli
+923,chunky_png,1055,103,1055,16,2010-01-04T06:56:19Z,2024-06-03T10:22:43Z,1252,Read/write access to PNG images in pure Ruby.,Ruby,https://github.com/wvanbergen/chunky_png
+924,by_star,1053,73,1053,11,2008-11-24T01:46:47Z,2023-01-18T06:30:34Z,483,"Lets you find ActiveRecord + Mongoid objects by year, month, fortnight, week and more!",Ruby,https://github.com/radar/by_star
+925,soulmate,1052,123,1052,0,2011-02-14T18:17:52Z,2017-03-28T21:05:55Z,79,"Unmaintained, use Soulheart!",Ruby,https://github.com/seatgeek/soulmate
+926,Kintsugi,1051,23,1051,0,2021-04-19T14:39:54Z,2024-11-27T21:08:55Z,271,A tool to automatically resolve Git conflicts that occur in Xcode project files,Ruby,https://github.com/Lightricks/Kintsugi
+927,naught,1050,51,1050,10,2013-05-26T05:37:54Z,2017-11-12T13:24:11Z,892,A toolkit for building Null Object classes in Ruby,Ruby,https://github.com/avdi/naught
+928,down,1050,51,1050,6,2015-09-25T22:40:32Z,2025-02-01T22:26:26Z,514,"Streaming downloads using Net::HTTP, http.rb or HTTPX",Ruby,https://github.com/janko/down
+929,faye-websocket-ruby,1049,96,1049,6,2011-11-22T01:45:25Z,2023-09-06T21:56:07Z,435,Standards-compliant WebSocket client and server,Ruby,https://github.com/faye/faye-websocket-ruby
+930,charlock_holmes,1049,144,1049,63,2011-08-23T22:53:03Z,2024-07-11T04:26:42Z,85225,"Character encoding detection, brought to you by ICU",Ruby,https://github.com/brianmario/charlock_holmes
+931,opsworks-cookbooks,1049,1219,1049,100,2013-02-18T15:03:48Z,2023-04-10T09:16:55Z,5702,Chef Cookbooks for the AWS OpsWorks Service,Ruby,https://github.com/aws/opsworks-cookbooks
+932,lazy_high_charts,1049,242,1049,39,2009-12-28T22:29:14Z,2023-02-11T14:47:59Z,1815,"Make highcharts a la ruby , works in rails 5.X / 4.X / 3.X, and other ruby web frameworks",Ruby,https://github.com/michelson/lazy_high_charts
+933,cijoe,1048,128,1048,17,2009-08-06T00:20:39Z,2011-10-01T22:56:55Z,425,CI Joe is a fun Continuous Integration server. Unmaintained.,Ruby,https://github.com/defunkt/cijoe
+934,apple-knowledge,1048,87,1048,4,2021-12-06T21:13:59Z,2024-04-03T22:40:29Z,87905,"A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",Ruby,https://github.com/hack-different/apple-knowledge
+935,konacha,1047,116,1047,21,2012-02-12T03:19:24Z,2019-03-16T00:10:57Z,1018,Test your Rails application's JavaScript with the mocha test framework and chai assertion library,Ruby,https://github.com/jfirebaugh/konacha
+936,Kaffeine,1047,111,1047,18,2014-04-14T22:16:44Z,2023-01-19T13:53:16Z,588,Keeping free Heroku apps awake.,Ruby,https://github.com/romainbutteaud/Kaffeine
+937,daru,1046,140,1046,92,2014-10-04T08:23:21Z,2023-08-15T13:17:11Z,4646,Data Analysis in RUby,Ruby,https://github.com/SciRuby/daru
+938,mobility,1046,87,1046,20,2017-02-22T12:27:51Z,2025-02-01T08:23:05Z,2984,Pluggable Ruby translation framework,Ruby,https://github.com/shioyama/mobility
+939,phony,1045,231,1045,1,2010-03-16T09:04:51Z,2025-03-22T10:49:58Z,6333,"E164 international phone number normalizing, splitting, formatting. ",Ruby,https://github.com/floere/phony
+940,gitnub,1044,62,1044,9,2008-03-02T06:22:30Z,2015-05-26T19:00:23Z,3506,A Gitk-like application written in RubyCocoa that looks like it belongs on a Mac.  See the wiki for downloads and screenshots.,Ruby,https://github.com/caged/gitnub
+941,homebrew-virt-manager,1043,265,1043,68,2014-12-19T18:14:15Z,2023-03-25T03:06:07Z,124,A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX,Ruby,https://github.com/jeffreywildman/homebrew-virt-manager
+942,thingspeak,1042,331,1042,37,2010-12-19T02:13:11Z,2023-09-21T11:24:42Z,3635,"ThingSpeak is an open source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. With ThingSpeak, you can create sensor logging applications, location tracking applications, and a social network of things with status updates.",Ruby,https://github.com/iobridge/thingspeak
+943,haml-rails,1042,172,1042,30,2010-08-13T23:56:16Z,2025-01-13T16:23:53Z,190,let your Gemfile do the talking,Ruby,https://github.com/haml/haml-rails
+944,homebrew-macos-cross-toolchains,1041,66,1041,7,2021-02-28T12:53:45Z,2024-09-23T13:24:32Z,164,macOS cross compiler toolchains,Ruby,https://github.com/messense/homebrew-macos-cross-toolchains
+945,metainspector,1038,165,1038,27,2008-06-25T21:49:27Z,2024-06-15T23:23:24Z,1148,"Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...",Ruby,https://github.com/jaimeiniesta/metainspector
+946,Hours,1036,264,1036,72,2014-02-24T22:25:47Z,2023-01-20T05:06:04Z,7947,Time registration that doesn't suck,Ruby,https://github.com/DefactoSoftware/Hours
+947,em-synchrony,1036,149,1036,22,2010-03-15T22:50:27Z,2018-01-26T20:36:57Z,253,Fiber aware EventMachine clients and convenience classes,Ruby,https://github.com/igrigorik/em-synchrony
+948,fb_graph,1033,187,1033,0,2010-04-23T07:15:16Z,2022-06-25T00:58:44Z,2706,This gem doesn't support FB Graph API v2.0+. Please use fb_graph2 gem instead.,Ruby,https://github.com/nov/fb_graph
+949,docker-rails-example,1033,212,1033,10,2020-12-22T20:15:16Z,2025-03-28T11:16:09Z,1406,A production ready example Rails app that's using Docker and Docker Compose.,Ruby,https://github.com/nickjj/docker-rails-example
+950,wordpress-exploit-framework,1030,263,1030,1,2015-11-27T22:13:52Z,2019-11-24T19:04:44Z,1960,A Ruby framework designed to aid in the penetration testing of WordPress systems. ,Ruby,https://github.com/rastating/wordpress-exploit-framework
+951,juvia,1029,92,1029,28,2011-08-11T20:45:43Z,2024-01-03T21:00:44Z,719,A commenting server similar to Disqus and IntenseDebate.,Ruby,https://github.com/phusion/juvia
+952,cucumber-rails,1028,329,1028,3,2009-11-09T01:05:11Z,2025-02-05T15:29:00Z,1845,Rails Generators for Cucumber with special support for Capybara and DatabaseCleaner,Ruby,https://github.com/cucumber/cucumber-rails
+953,attachment_fu,1028,336,1028,35,2008-01-14T14:51:56Z,2017-03-28T00:48:29Z,1008,"Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.",Ruby,https://github.com/technoweenie/attachment_fu
+954,composite_primary_keys,1027,357,1027,6,2008-03-04T22:58:40Z,2024-12-20T04:10:47Z,2425,Composite Primary Keys support for Active Record,Ruby,https://github.com/composite-primary-keys/composite_primary_keys
+955,ruby-advisory-db,1026,221,1026,26,2013-02-12T07:10:30Z,2025-03-22T17:54:41Z,1979,A database of vulnerable Ruby Gems,Ruby,https://github.com/rubysec/ruby-advisory-db
+956,seccomp-tools,1026,69,1026,4,2017-05-27T06:42:43Z,2025-03-27T21:37:01Z,2837,Provide powerful tools for seccomp analysis,Ruby,https://github.com/david942j/seccomp-tools
+957,rgeo,1022,160,1022,32,2010-10-19T05:07:01Z,2025-02-20T19:49:26Z,3846,Geospatial data library for Ruby,Ruby,https://github.com/rgeo/rgeo
+958,rage,1022,22,1022,12,2023-09-15T15:33:26Z,2025-03-27T18:35:59Z,916,Fast web framework compatible with Rails.,Ruby,https://github.com/rage-rb/rage
+959,capybara-screenshot,1021,170,1021,61,2011-10-12T15:08:25Z,2022-10-25T03:56:18Z,409,Automatically save screen shots when a Capybara scenario fails,Ruby,https://github.com/mattheworiordan/capybara-screenshot
+960,shopify-cli,1020,206,1020,0,2018-12-11T21:59:47Z,2023-06-01T10:38:31Z,21297,Shopify CLI helps you build against the Shopify platform faster.,Ruby,https://github.com/Shopify/shopify-cli
+961,vccw,1019,180,1019,52,2013-10-05T18:40:07Z,2021-08-03T07:54:18Z,9388,A Vagrant based development environment.,Ruby,https://github.com/vccw-team/vccw
+962,kimuraframework,1015,158,1015,39,2018-08-23T11:05:06Z,2024-05-28T20:28:26Z,198,"Kimurai is a modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites",Ruby,https://github.com/vifreefly/kimuraframework
+963,rails-settings,1015,138,1015,23,2009-05-16T07:00:46Z,2024-12-29T10:25:19Z,312,Manage settings with Ruby on Rails,Ruby,https://github.com/ledermann/rails-settings
+964,treetop,1014,109,1014,0,2008-02-29T18:29:24Z,2018-05-09T12:50:21Z,2600,A Ruby-based parsing DSL based on parsing expression grammars.,Ruby,https://github.com/nathansobo/treetop
+965,md2key,1011,45,1011,2,2015-08-06T17:02:57Z,2023-01-21T14:29:39Z,6555,Convert markdown to keynote,Ruby,https://github.com/k0kubun/md2key
+966,FuzzScanner,1010,206,1010,1,2019-04-08T11:26:08Z,2020-06-22T05:21:46Z,6690,一个主要用于信息搜集的工具集，主要是用于对网站子域名、开放端口、端口指纹、c段地址、敏感目录等信息进行批量搜集。,Ruby,https://github.com/TideSec/FuzzScanner
+967,transpec,1010,49,1010,13,2013-07-27T04:30:12Z,2023-02-21T18:52:49Z,3202,The RSpec syntax converter,Ruby,https://github.com/yujinakayama/transpec
+968,vagrant-parallels,1010,88,1010,19,2013-06-07T19:14:28Z,2025-03-28T06:58:47Z,72762,Vagrant Parallels Provider,Ruby,https://github.com/Parallels/vagrant-parallels
+969,super_diff,1007,57,1007,48,2011-01-18T06:25:07Z,2025-03-11T17:34:53Z,5690,A more helpful way to view differences between complex data structures in RSpec.,Ruby,https://github.com/splitwise/super_diff
+970,ruby-patterns,1004,104,1004,3,2015-03-28T13:32:48Z,2017-04-17T18:55:21Z,35,Examples of Patterns in Ruby,Ruby,https://github.com/piscolomo/ruby-patterns
+971,cinch,1003,181,1003,33,2010-04-23T13:40:53Z,2019-04-13T16:11:08Z,1449,The IRC Bot Building Framework,Ruby,https://github.com/cinchrb/cinch
+972,sciruby,1000,79,1000,0,2011-01-06T20:50:22Z,2020-02-28T08:20:45Z,361,Tools for scientific computation in Ruby,Ruby,https://github.com/SciRuby/sciruby
+973,alba,998,50,998,3,2020-01-21T12:53:40Z,2025-03-26T20:29:35Z,1284,"Alba is a JSON serializer for Ruby, JRuby and TruffleRuby.",Ruby,https://github.com/okuramasafumi/alba
+974,grocer,998,117,998,24,2012-03-29T17:25:50Z,2021-01-13T17:41:13Z,446,Pushing your Apple notifications since 2012.,Ruby,https://github.com/grocer/grocer
+975,fabrication,997,95,997,6,2010-06-12T01:55:33Z,2021-03-15T14:09:11Z,989,This project has moved to GitLab! Please check there for the latest updates.,Ruby,https://github.com/paulelliott/fabrication
+976,graphiti,997,142,997,72,2016-09-22T21:46:19Z,2025-03-21T23:32:12Z,18189,Stylish Graph APIs,Ruby,https://github.com/graphiti-api/graphiti
+977,redcar,995,146,995,23,2010-08-21T17:42:07Z,2022-07-20T19:29:32Z,45354,A cross-platform programmer's editor written in Ruby.,Ruby,https://github.com/danlucraft/redcar
+978,i18n,994,410,994,55,2008-06-13T12:47:13Z,2025-01-19T22:48:31Z,1765,Internationalization (i18n) library for Ruby,Ruby,https://github.com/ruby-i18n/i18n
+979,sidekiq-status,993,121,993,22,2012-08-15T14:41:28Z,2021-06-26T21:41:59Z,583,an extension to the sidekiq message processing to track your jobs,Ruby,https://github.com/utgarda/sidekiq-status
+980,cache-money,993,104,993,22,2008-11-25T00:53:12Z,2015-03-20T00:20:58Z,510,A Write-Through Cacheing Library for ActiveRecord,Ruby,https://github.com/nkallen/cache-money
+981,standalone-migrations,993,151,993,17,2008-12-23T00:02:12Z,2025-01-15T18:28:31Z,739,A gem to use Rails Database Migrations in non Rails projects,Ruby,https://github.com/thuss/standalone-migrations
+982,grover,991,116,991,20,2018-08-22T09:43:48Z,2025-02-06T07:46:55Z,758,"A Ruby gem to transform HTML into PDFs, PNGs or JPEGs using Google Puppeteer/Chromium",Ruby,https://github.com/Studiosity/grover
+983,licensed,990,125,990,4,2018-02-02T22:46:45Z,2025-03-28T11:57:50Z,19250,A Ruby gem to cache and verify the licenses of dependencies,Ruby,https://github.com/licensee/licensed
+984,net-ssh,988,455,988,103,2009-06-19T12:23:42Z,2024-12-14T13:56:18Z,7623,Pure Ruby implementation of an SSH (protocol 2) client,Ruby,https://github.com/net-ssh/net-ssh
+985,gauntlt,986,187,986,19,2012-03-27T19:29:56Z,2022-06-20T16:51:52Z,4013,"a ruggedization framework that embodies the principle ""be mean to your code""",Ruby,https://github.com/gauntlt/gauntlt
+986,stringex,986,159,986,19,2008-02-19T15:31:07Z,2023-08-29T09:48:30Z,674,"Some [hopefully] useful extensions to Ruby’s String class. It is made up of three libraries: ActsAsUrl [permalink solution with better character translation], Unidecoder [Unicode to Ascii transliteration], and StringExtensions [miscellaneous helper methods for the String class].",Ruby,https://github.com/rsl/stringex
+987,heroku-buildpack-python,985,1832,985,20,2011-05-17T20:26:30Z,2025-03-13T10:28:10Z,58153,Heroku's classic buildpack for Python applications.,Ruby,https://github.com/heroku/heroku-buildpack-python
+988,rbnacl,982,87,982,6,2013-01-21T00:17:11Z,2024-10-15T16:50:59Z,1090,Ruby FFI binding to the Networking and Cryptography (NaCl) library (a.k.a. libsodium),Ruby,https://github.com/RubyCrypto/rbnacl
+989,rerun,981,80,981,30,2009-06-08T15:59:27Z,2024-05-22T19:48:26Z,321,Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.,Ruby,https://github.com/alexch/rerun
+990,hamlit,981,59,981,0,2015-03-30T11:43:34Z,2023-08-02T18:07:16Z,2011,High Performance Haml Implementation,Ruby,https://github.com/k0kubun/hamlit
+991,whitewidow,981,230,981,0,2016-04-08T20:29:06Z,2018-01-11T21:33:53Z,15068,SQL Vulnerability Scanner,Ruby,https://github.com/WhitewidowScanner/whitewidow
+992,rocket_pants,980,130,980,36,2012-03-06T01:30:38Z,2019-04-26T16:14:25Z,1050,"API building tools on top of ActionController. Also, an awesome name.",Ruby,https://github.com/Sutto/rocket_pants
+993,username-anarchy,979,137,979,0,2012-11-07T05:35:10Z,2024-09-20T01:57:59Z,17221,Username tools for penetration testing,Ruby,https://github.com/urbanadventurer/username-anarchy
+994,jekyll-sitemap,978,140,978,16,2014-03-02T00:17:43Z,2024-08-08T22:28:41Z,314,Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site,Ruby,https://github.com/jekyll/jekyll-sitemap
+995,natalie,978,68,978,17,2019-11-12T15:25:47Z,2025-03-28T14:37:52Z,16554,"a work-in-progress Ruby compiler, written in Ruby and C++",Ruby,https://github.com/natalie-lang/natalie
+996,redis-rails,977,125,977,2,2011-09-08T07:17:49Z,2024-11-26T04:07:05Z,103,Redis stores for Ruby on Rails,Ruby,https://github.com/redis-store/redis-rails
+997,activerecord-sqlserver-adapter,977,563,977,21,2008-11-15T14:53:54Z,2025-03-24T12:56:50Z,3969,SQL Server Adapter For Rails,Ruby,https://github.com/rails-sqlserver/activerecord-sqlserver-adapter
+998,hashids.rb,977,45,977,1,2012-10-13T16:26:41Z,2024-01-05T13:59:51Z,86,A small Ruby gem to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.,Ruby,https://github.com/peterhellberg/hashids.rb
+999,turnip,976,111,976,11,2011-10-21T16:49:56Z,2024-08-09T09:04:29Z,390,Gherkin extension for RSpec,Ruby,https://github.com/jnicklas/turnip
+1000,turbo-sprockets-rails3,976,75,976,41,2012-09-28T10:46:06Z,2014-12-23T15:51:35Z,563,"Speeds up your Rails 3 assets:precompile by only recompiling changed files, and only compiling once to generate all assets",Ruby,https://github.com/ndbroadbent/turbo-sprockets-rails3
