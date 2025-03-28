@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size (KB),Description,Language,Repo URL
+1,FiraCode,78535,3126,78535,407,2014-11-11T19:32:38Z,2025-03-14T13:13:57Z,89010,Free monospaced font with programming ligatures,Clojure,https://github.com/tonsky/FiraCode
+2,metabase,41391,5457,41391,3967,2015-02-02T19:25:47Z,2025-03-28T14:23:06Z,893848,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:,Clojure,https://github.com/metabase/metabase
+3,penpot,37154,1899,37154,432,2015-12-29T22:09:07Z,2025-03-28T14:21:48Z,241782,Penpot: The open-source design tool for design and code collaboration,Clojure,https://github.com/penpot/penpot
+4,logseq,35715,2102,35715,1462,2020-05-23T00:06:06Z,2025-03-28T13:50:18Z,130693,"A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",Clojure,https://github.com/logseq/logseq
+5,LightTable,11712,914,11712,181,2012-06-27T22:32:43Z,2022-06-17T00:20:21Z,19648,The Light Table IDE ⛺,Clojure,https://github.com/LightTable/LightTable
+6,clojurescript,9272,791,9272,7,2011-07-20T23:29:13Z,2025-03-20T20:35:46Z,18570,Clojure to JS compiler,Clojure,https://github.com/clojure/clojurescript
+7,instant,8242,240,8242,49,2024-08-19T21:53:42Z,2025-03-28T14:18:05Z,13331,Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.,Clojure,https://github.com/instantdb/instant
+8,leiningen,7290,1602,7290,102,2009-11-01T05:50:07Z,2025-03-22T21:18:24Z,7486,Moved to Codeberg; this is a convenience mirror,Clojure,https://github.com/technomancy/leiningen
+9,jepsen,6988,726,6988,65,2013-04-14T19:20:27Z,2025-03-07T16:58:58Z,46906,"A framework for distributed systems verification, with fault injection",Clojure,https://github.com/jepsen-io/jepsen
+10,om,6647,361,6647,80,2013-12-11T18:18:11Z,2020-08-17T12:30:25Z,2181,ClojureScript interface to Facebook's React,Clojure,https://github.com/omcljs/om
+11,athens,6304,402,6304,317,2020-03-31T01:29:41Z,2023-02-03T12:32:15Z,78287,"Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21",Clojure,https://github.com/athensresearch/athens
+12,overtone,5993,448,5993,94,2010-08-23T12:19:57Z,2025-03-04T06:47:54Z,9322,Collaborative Programmable Music ,Clojure,https://github.com/overtone/overtone
+13,datascript,5582,311,5582,77,2014-04-15T12:58:22Z,2025-01-05T19:12:16Z,1862,"Immutable database and Datalog query engine for Clojure, ClojureScript and JS",Clojure,https://github.com/tonsky/datascript
+14,re-frame,5463,719,5463,22,2014-12-05T11:08:39Z,2025-03-24T19:10:50Z,83344,"A ClojureScript framework for building user interfaces, leveraging React",Clojure,https://github.com/day8/re-frame
+15,reagent,4801,416,4801,27,2013-12-18T18:12:03Z,2025-03-19T12:17:38Z,4267,A minimalistic ClojureScript interface to React.js,Clojure,https://github.com/reagent-project/reagent
+16,riemann,4248,509,4248,29,2012-02-08T07:51:32Z,2025-02-17T00:59:43Z,7731,"A network event stream processing system, in Clojure.",Clojure,https://github.com/riemann/riemann
+17,babashka,4194,259,4194,32,2019-08-09T12:53:24Z,2025-03-19T16:40:35Z,11107,"Native, fast starting Clojure interpreter for scripting",Clojure,https://github.com/babashka/babashka
+18,compojure,4101,258,4101,6,2008-05-01T00:31:39Z,2024-01-31T18:54:43Z,5868,A concise routing library for Ring/Clojure,Clojure,https://github.com/weavejester/compojure
+19,status-mobile,3940,989,3940,423,2016-02-22T21:48:48Z,2025-03-28T13:02:15Z,484361,"a free (libre) open source, mobile OS for Ethereum",Clojure,https://github.com/status-im/status-mobile
+20,ring,3808,522,3808,38,2012-04-29T11:15:06Z,2025-03-28T13:51:56Z,7383,Clojure HTTP server abstraction,Clojure,https://github.com/ring-clojure/ring
+21,clojure-koans,3763,2142,3763,9,2010-11-02T22:12:23Z,2024-05-28T20:23:52Z,283,A set of exercises for learning Clojure,Clojure,https://github.com/functional-koans/clojure-koans
+22,icepick,3745,208,3745,26,2013-07-13T16:43:09Z,2021-05-26T07:01:41Z,945,Android Instance State made easy,Clojure,https://github.com/frankiesardo/icepick
+23,mori,3382,146,3382,63,2012-05-11T02:23:01Z,2020-04-19T19:59:59Z,1643,ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript,Clojure,https://github.com/swannodette/mori
+24,maelstrom,3214,196,3214,17,2017-04-12T20:47:04Z,2025-02-04T20:38:45Z,1281,A workbench for writing toy implementations of distributed systems.,Clojure,https://github.com/jepsen-io/maelstrom
+25,swarmpit,3210,295,3210,179,2017-02-06T09:46:42Z,2025-02-06T19:35:27Z,6880,Lightweight mobile-friendly Docker Swarm management UI,Clojure,https://github.com/swarmpit/swarmpit
+26,quil,2988,167,2988,47,2012-03-05T08:20:54Z,2024-12-28T20:50:14Z,11306,Main repo. Quil source code.,Clojure,https://github.com/quil/quil
+27,modern-cljs,2918,287,2918,37,2012-11-03T02:20:48Z,2020-10-09T18:44:09Z,34172,A series of tutorials on ClojureScript,Clojure,https://github.com/magomimmo/modern-cljs
+28,lein-figwheel,2879,207,2879,98,2014-04-18T03:20:56Z,2024-03-26T22:29:38Z,3739,Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!,Clojure,https://github.com/bhauman/lein-figwheel
+29,instaparse,2775,150,2775,38,2013-02-03T07:19:34Z,2024-05-30T05:52:26Z,1278,,Clojure,https://github.com/Engelberg/instaparse
+30,awesome-clojure,2749,209,2749,6,2014-07-09T15:27:44Z,2024-05-22T19:56:53Z,210,A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff,Clojure,https://github.com/razum2um/awesome-clojure
+31,pedestal,2724,296,2724,25,2013-03-04T17:18:45Z,2025-03-28T00:04:09Z,7925,The Pedestal Server-side Libraries,Clojure,https://github.com/pedestal/pedestal
+32,hiccup,2720,177,2720,25,2009-11-02T21:08:16Z,2025-03-21T17:51:39Z,466,Fast library for rendering HTML in Clojure,Clojure,https://github.com/weavejester/hiccup
+33,xtdb,2636,174,2636,531,2018-03-19T08:19:27Z,2025-03-28T13:33:06Z,220811,"An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt",Clojure,https://github.com/xtdb/xtdb
+34,clojure-cookbook,2600,435,2600,41,2013-06-12T01:11:34Z,2024-01-12T10:11:30Z,11402,This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com,Clojure,https://github.com/clojure-cookbook/clojure-cookbook
+35,aleph,2557,239,2557,40,2010-07-07T08:02:58Z,2025-02-25T09:19:06Z,3602,"Asynchronous streaming communication for Clojure - web server, web client, and raw TCP/UDP",Clojure,https://github.com/clj-commons/aleph
+36,specter,2550,105,2550,38,2015-02-26T15:56:33Z,2024-09-16T15:10:52Z,1921,Clojure(Script)'s missing piece,Clojure,https://github.com/redplanetlabs/specter
+37,code-maat,2446,226,2446,12,2013-08-08T13:48:26Z,2024-11-18T10:05:49Z,1413,A command line tool to mine and analyze data from version-control systems,Clojure,https://github.com/adamtornhill/code-maat
+38,schema,2424,254,2424,27,2013-07-22T23:26:46Z,2024-08-31T00:23:49Z,3167,Clojure(Script) library for declarative data description and validation,Clojure,https://github.com/plumatic/schema
+39,shadow-cljs,2302,181,2302,34,2015-10-09T18:44:09Z,2025-03-25T14:03:28Z,8577,ClojureScript compilation made easy,Clojure,https://github.com/thheller/shadow-cljs
+40,incanter,2239,289,2239,78,2009-03-12T02:58:47Z,2023-11-10T07:21:02Z,42571,"Clojure-based, R-like statistical computing and graphics environment for the JVM",Clojure,https://github.com/incanter/incanter
+41,component,2106,94,2106,2,2013-10-22T01:48:47Z,2022-02-26T19:00:25Z,153,Managed lifecycle of stateful objects in Clojure,Clojure,https://github.com/stuartsierra/component
+42,onyx,2050,203,2050,84,2013-12-02T01:21:14Z,2019-08-31T10:58:07Z,17013,"Distributed, masterless, high performance, fault tolerant data processing",Clojure,https://github.com/onyx-platform/onyx
+43,core.async,1988,212,1988,2,2013-05-15T15:43:16Z,2025-03-27T13:57:34Z,1715,Facilities for async programming and communication in Clojure,Clojure,https://github.com/clojure/core.async
+44,electric,1923,52,1923,9,2020-09-30T14:24:43Z,2025-03-22T15:24:28Z,10600,Electric Clojure: full-stack differential dataflow for UI,Clojure,https://github.com/hyperfiddle/electric
+45,clerk,1898,82,1898,69,2021-03-08T13:26:30Z,2025-03-25T19:48:48Z,3932,⚡️ Moldable Live Programming for Clojure,Clojure,https://github.com/nextjournal/clerk
+46,transit-format,1884,36,1884,10,2014-06-26T21:39:15Z,2024-07-15T19:50:55Z,1207,A data interchange format.,Clojure,https://github.com/cognitect/transit-format
+47,lumo,1875,85,1875,111,2016-09-28T01:52:55Z,2022-05-16T17:17:30Z,20392,"Fast, cross-platform, standalone ClojureScript environment",Clojure,https://github.com/anmonteiro/lumo
+48,lacinia,1831,163,1831,21,2017-03-15T21:59:45Z,2025-02-08T17:51:06Z,3642,GraphQL implementation in pure Clojure,Clojure,https://github.com/walmartlabs/lacinia
+49,honeysql,1810,176,1810,3,2012-07-13T13:58:26Z,2025-03-28T06:06:53Z,1567,Turn Clojure data structures into SQL,Clojure,https://github.com/seancorfield/honeysql
+50,clj-http,1798,412,1798,68,2011-09-07T21:37:58Z,2024-08-19T19:50:50Z,2077,An idiomatic clojure http client wrapping the apache client. Officially supported version.,Clojure,https://github.com/dakrone/clj-http
+51,kibit,1765,132,1765,54,2012-03-04T18:57:05Z,2024-05-22T00:06:30Z,471,There's a function for that!,Clojure,https://github.com/clj-commons/kibit
+52,sente,1757,192,1757,19,2014-02-21T11:30:04Z,2024-12-31T15:57:15Z,1619,Realtime web comms library for Clojure/Script,Clojure,https://github.com/taoensso/sente
+53,clj-kondo,1753,293,1753,89,2019-03-20T22:58:13Z,2025-03-26T20:52:13Z,14836,Static analyzer and linter for Clojure code that sparks joy,Clojure,https://github.com/clj-kondo/clj-kondo
+54,boot,1745,179,1745,111,2014-10-23T20:36:42Z,2021-04-22T20:43:31Z,3062,Build tooling for Clojure.,Clojure,https://github.com/boot-clj/boot
+55,Midje,1693,129,1693,43,2010-05-23T19:00:57Z,2024-01-04T12:07:30Z,73017,"Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing",Clojure,https://github.com/marick/Midje
+56,Arcadia,1682,108,1682,55,2014-04-17T11:20:45Z,2023-02-15T19:05:25Z,57904,Clojure in Unity,Clojure,https://github.com/arcadia-unity/Arcadia
+57,datahike,1653,97,1653,73,2018-01-05T16:57:28Z,2025-02-04T09:00:27Z,5075,"A fast, immutable, distributed & compositional Datalog engine for everyone. ",Clojure,https://github.com/replikativ/datahike
+58,closh,1627,66,1627,65,2017-10-31T16:23:51Z,2022-12-05T02:30:31Z,2278,Bash-like shell based on Clojure,Clojure,https://github.com/dundalek/closh
+59,enlive,1619,151,1619,31,2009-01-18T12:12:35Z,2022-01-17T12:51:48Z,361,a selector-based (à la CSS) templating and transformation system for Clojure,Clojure,https://github.com/cgrand/enlive
+60,HumbleUI,1601,54,1601,32,2021-10-29T21:30:52Z,2025-01-02T14:28:13Z,4245,Clojure Desktop UI framework,Clojure,https://github.com/HumbleUI/HumbleUI
+61,malli,1567,217,1567,184,2019-05-17T19:21:51Z,2025-03-21T18:17:21Z,7985,High-performance data-driven data specification library for Clojure/Script.,Clojure,https://github.com/metosin/malli
+62,fulcro,1565,141,1565,1,2017-07-12T16:57:03Z,2025-03-27T04:02:25Z,18377,A library for development of single-page full-stack web applications in clj/cljs,Clojure,https://github.com/fulcrologic/fulcro
+63,devcards,1530,112,1530,30,2014-05-09T18:46:00Z,2023-09-17T15:16:13Z,7049,Devcards aims to provide a visual REPL experience for ClojureScript,Clojure,https://github.com/bhauman/devcards
+64,cheshire,1496,155,1496,55,2011-03-23T14:11:48Z,2025-03-21T21:13:37Z,1206,Clojure JSON and JSON SMILE (binary json format) encoding/decoding,Clojure,https://github.com/dakrone/cheshire
+65,plumbing,1491,106,1491,12,2013-01-25T00:39:58Z,2023-02-01T03:46:03Z,604,Prismatic's Clojure(Script) utility belt,Clojure,https://github.com/plumatic/plumbing
+66,dactyl-manuform,1490,164,1490,15,2018-04-09T15:52:38Z,2022-09-30T21:33:56Z,75268,,Clojure,https://github.com/abstracthat/dactyl-manuform
+67,ClojureDart,1488,99,1488,108,2021-01-25T09:00:10Z,2025-03-28T08:53:35Z,8590,Clojure dialect for Flutter and Dart,Clojure,https://github.com/Tensegritics/ClojureDart
+68,drake,1483,110,1483,83,2013-01-24T15:38:50Z,2022-04-12T00:06:43Z,827,"Data workflow tool, like a ""Make for data""",Clojure,https://github.com/Factual/drake
+69,seesaw,1476,145,1476,72,2011-03-21T02:44:09Z,2023-07-28T19:55:45Z,2371,"Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library",Clojure,https://github.com/clj-commons/seesaw
+70,reitit,1474,260,1474,141,2017-08-07T10:29:40Z,2025-03-28T14:13:49Z,19685,A fast data-driven routing library for Clojure/Script,Clojure,https://github.com/metosin/reitit
+71,Korma,1473,219,1473,80,2011-10-05T22:02:15Z,2020-10-15T17:12:25Z,820,Tasty SQL for Clojure.,Clojure,https://github.com/korma/Korma
+72,yesql,1471,111,1471,58,2013-09-24T10:29:23Z,2024-11-23T00:30:44Z,300,A Clojure library for using SQL.,Clojure,https://github.com/krisajenkins/yesql
+73,core.logic,1464,125,1464,1,2011-04-27T20:42:46Z,2024-07-15T17:52:27Z,3139,A logic programming library for Clojure & ClojureScript,Clojure,https://github.com/clojure/core.logic
+74,konstellate,1463,81,1463,14,2019-05-09T20:18:07Z,2019-07-25T15:08:39Z,1010,Free and Open Source GUI to Visualize Kubernetes Applications.,Clojure,https://github.com/jeremykross/konstellate
+75,timbre,1458,173,1458,5,2012-05-28T06:22:02Z,2025-02-28T13:43:02Z,1346,Pure Clojure/Script logging library,Clojure,https://github.com/taoensso/timbre
+76,Nightcode,1400,123,1400,32,2013-06-06T03:09:02Z,2021-04-24T06:40:22Z,18413,An IDE for Clojure,Clojure,https://github.com/oakes/Nightcode
+77,cascalog,1377,176,1377,40,2010-03-31T00:40:07Z,2023-05-18T22:49:55Z,2416,Data processing on Hadoop without the hassle.,Clojure,https://github.com/nathanmarz/cascalog
+78,auto-parcel,1370,83,1370,11,2014-03-13T19:30:16Z,2017-02-12T15:10:29Z,379,Android Parcelable models made easy,Clojure,https://github.com/frankiesardo/auto-parcel
+79,garden,1351,93,1351,45,2013-04-09T02:58:50Z,2024-01-16T21:37:58Z,633,Generate CSS with Clojure,Clojure,https://github.com/noprompt/garden
+80,duckling_old,1324,217,1324,70,2014-05-15T23:02:02Z,2019-05-30T14:10:47Z,1639,Deprecated in favor of https://github.com/facebook/duckling,Clojure,https://github.com/facebookarchive/duckling_old
+81,chestnut,1312,96,1312,11,2014-08-24T21:27:18Z,2022-06-23T20:16:06Z,619,Application template for Clojure + ClojureScript web apps,Clojure,https://github.com/plexus/chestnut
+82,core.typed,1291,74,1291,2,2013-02-02T21:35:31Z,2024-07-15T17:52:40Z,13788,An optional type system for Clojure,Clojure,https://github.com/clojure/core.typed
+83,integrant,1273,63,1273,17,2016-12-05T00:18:16Z,2025-02-12T16:49:51Z,353,Micro-framework for data-driven architecture,Clojure,https://github.com/weavejester/integrant
+84,cortex,1271,110,1271,29,2016-09-27T17:03:43Z,2018-09-10T20:29:23Z,5249,Machine learning in Clojure,Clojure,https://github.com/originrose/cortex
+85,GokuRakuJoudo,1263,125,1263,69,2018-09-01T14:51:03Z,2025-02-22T02:59:52Z,865,config karabiner with ease,Clojure,https://github.com/yqrashawn/GokuRakuJoudo
+86,sci,1259,90,1259,40,2019-08-11T14:23:42Z,2025-03-25T14:57:32Z,3026,Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs,Clojure,https://github.com/babashka/sci
+87,liberator,1254,129,1254,64,2012-09-02T09:05:07Z,2021-09-28T13:08:50Z,1405,Liberator is a Clojure library for building RESTful applications.,Clojure,https://github.com/clojure-liberator/liberator
+88,ultra,1243,37,1243,8,2015-01-04T22:06:34Z,2023-02-16T16:23:57Z,5862,A Leiningen plugin for a superior development environment,Clojure,https://github.com/venantius/ultra
+89,mount,1235,87,1235,30,2015-10-19T20:41:45Z,2025-01-31T17:58:57Z,1647,managing Clojure and ClojureScript app state since (reset),Clojure,https://github.com/tolitius/mount
+90,datalevin,1224,71,1224,38,2020-06-08T23:53:52Z,2025-03-24T15:31:42Z,48419,"A simple, fast and versatile Datalog database",Clojure,https://github.com/juji-io/datalevin
+91,clojure-lsp,1214,160,1214,152,2018-03-28T06:52:45Z,2025-03-27T21:03:31Z,36806,Clojure & ClojureScript Language Server (LSP) implementation,Clojure,https://github.com/clojure-lsp/clojure-lsp
+92,clara-rules,1207,114,1207,86,2013-07-27T01:17:19Z,2025-01-14T14:11:56Z,2434,Forward-chaining rules in Clojure(Script),Clojure,https://github.com/oracle-samples/clara-rules
+93,criterium,1202,54,1202,19,2009-12-16T15:40:35Z,2025-02-24T13:34:18Z,695,Benchmarking library for clojure,Clojure,https://github.com/hugoduncan/criterium
+94,core.match,1196,63,1196,1,2011-09-02T13:19:42Z,2024-07-15T17:52:51Z,1230,An optimized pattern matching library for Clojure,Clojure,https://github.com/clojure/core.match
+95,hitchhiker-tree,1192,65,1192,17,2016-02-19T18:49:16Z,2018-07-22T21:01:33Z,393,"Functional, persistent, off-heap, high performance data structure",Clojure,https://github.com/datacrypt-project/hitchhiker-tree
+96,carmine,1167,132,1167,8,2012-05-12T10:34:01Z,2025-03-19T09:23:11Z,2771,Redis client + message queue for Clojure,Clojure,https://github.com/taoensso/carmine
+97,friend,1153,123,1153,30,2012-03-30T10:01:52Z,2021-03-08T14:41:08Z,276,An extensible authentication and authorization library for Clojure Ring web applications and services. ,Clojure,https://github.com/cemerick/friend
+98,cljfmt,1137,121,1137,58,2014-11-17T23:50:14Z,2024-12-07T00:57:17Z,643,A tool for formatting Clojure code,Clojure,https://github.com/weavejester/cljfmt
+99,duct,1135,52,1135,12,2014-09-09T14:44:19Z,2021-06-19T11:18:45Z,590,Server-side application framework for Clojure,Clojure,https://github.com/duct-framework/duct
+100,frak,1133,39,1133,1,2013-07-29T17:41:10Z,2019-04-10T22:38:00Z,63,Transform collections of strings into regular expressions.,Clojure,https://github.com/noprompt/frak
+101,test.check,1129,109,1129,0,2013-12-03T17:43:26Z,2024-07-15T17:53:02Z,1288,QuickCheck for Clojure,Clojure,https://github.com/clojure/test.check
+102,libpython-clj,1127,70,1127,31,2019-05-16T20:17:56Z,2024-12-08T17:28:08Z,2342,Python bindings for Clojure,Clojure,https://github.com/clj-python/libpython-clj
+103,compojure-api,1117,150,1117,55,2014-01-07T10:00:52Z,2024-11-04T20:35:42Z,3354,Sweet web apis with Compojure & Swagger,Clojure,https://github.com/metosin/compojure-api
+104,cljs-devtools,1111,51,1111,18,2015-01-27T21:00:07Z,2023-04-08T21:20:05Z,923,A collection of Chrome DevTools enhancements for ClojureScript developers,Clojure,https://github.com/binaryage/cljs-devtools
+105,lein-cljsbuild,1097,151,1097,49,2011-12-29T05:16:58Z,2021-03-19T16:43:38Z,840,Leiningen plugin to make ClojureScript development easy.,Clojure,https://github.com/emezeske/lein-cljsbuild
+106,neanderthal,1090,56,1090,7,2014-08-14T22:33:23Z,2025-02-27T18:51:45Z,3957,Fast Clojure Matrix Library,Clojure,https://github.com/uncomplicate/neanderthal
+107,eastwood,1083,66,1083,36,2012-01-06T18:33:14Z,2024-07-10T21:23:02Z,3593,Clojure lint tool,Clojure,https://github.com/jonase/eastwood
+108,nippy,1065,59,1065,8,2012-07-01T17:13:32Z,2024-12-31T14:39:14Z,1572,The fastest serialization library for Clojure,Clojure,https://github.com/taoensso/nippy
+109,4clojure,1065,226,1065,89,2011-04-12T05:35:29Z,2021-08-08T10:25:33Z,3466,An interactive problem website for learning Clojure,Clojure,https://github.com/4clojure/4clojure
+110,clojuredocs,1054,77,1054,27,2010-06-29T22:45:39Z,2023-11-09T17:45:56Z,11656,clojuredocs.org web app,Clojure,https://github.com/zk/clojuredocs
+111,manifold,1024,108,1024,29,2014-03-04T08:53:48Z,2024-05-14T10:10:43Z,1636,A compatibility layer for event-driven abstractions,Clojure,https://github.com/clj-commons/manifold
+112,hoplon,1024,65,1024,38,2013-05-15T21:06:03Z,2024-10-11T00:57:52Z,2040,Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.,Clojure,https://github.com/hoplon/hoplon
+113,functional-programming-learning-path,1007,85,1007,1,2018-08-18T17:58:07Z,2024-10-22T11:41:29Z,54622,✨ A Learning Path for Functional Programming,Clojure,https://github.com/imteekay/functional-programming-learning-path
+114,amazonica,1005,201,1005,44,2013-03-10T23:49:48Z,2024-12-13T15:22:21Z,1373,A comprehensive Clojure client for the entire Amazon AWS api.,Clojure,https://github.com/mcohen01/amazonica
+115,Selmer,1004,115,1004,21,2013-07-22T18:36:19Z,2025-01-31T17:16:05Z,1338,"A fast, Django inspired template system in Clojure.",Clojure,https://github.com/yogthos/Selmer
+116,bidi,998,90,998,60,2013-12-20T20:10:30Z,2023-03-15T10:46:57Z,730,Bidirectional URI routing,Clojure,https://github.com/juxt/bidi
+117,cljfx,986,48,986,37,2018-12-22T22:02:32Z,2025-01-28T12:01:45Z,1395,"Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame",Clojure,https://github.com/cljfx/cljfx
+118,citysdk,973,183,973,6,2015-02-02T14:17:57Z,2024-10-30T15:54:57Z,2477069,"Convenient JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript)",Clojure,https://github.com/uscensusbureau/citysdk
+119,liquid,966,42,966,9,2016-11-04T21:36:29Z,2022-03-11T19:04:25Z,1389,"Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.",Clojure,https://github.com/mogenslund/liquid
+120,geom,965,77,965,30,2014-02-19T16:25:37Z,2025-03-22T14:59:18Z,8971,2D/3D geometry toolkit for Clojure/Clojurescript,Clojure,https://github.com/thi-ng/geom
+121,anvil-runtime,956,119,956,32,2020-04-14T22:50:12Z,2024-11-27T18:38:17Z,11590,The runtime engine for hosting Anvil web apps,Clojure,https://github.com/anvil-works/anvil-runtime
+122,cats,947,67,947,31,2014-06-13T19:15:40Z,2025-03-20T19:06:08Z,1638,Category Theory and Algebraic abstractions for Clojure and ClojureScript.,Clojure,https://github.com/funcool/cats
+123,meander,945,56,945,20,2017-10-27T05:20:21Z,2023-09-08T14:28:43Z,3198,Tools for transparent data transformation,Clojure,https://github.com/noprompt/meander
+124,play-clj,944,72,944,9,2013-12-29T01:21:20Z,2019-03-11T00:46:23Z,57851,A Clojure game library,Clojure,https://github.com/oakes/play-clj
+125,portal,941,82,941,15,2020-06-03T01:43:48Z,2025-01-12T02:21:40Z,6582,A clojure tool to navigate through your data.,Clojure,https://github.com/djblue/portal
+126,logic-tutorial,938,80,938,14,2011-04-29T04:45:51Z,2018-10-30T11:45:38Z,339,A Very Gentle Introduction to Relational Programming,Clojure,https://github.com/swannodette/logic-tutorial
+127,expound,930,22,930,10,2017-06-25T23:29:09Z,2024-10-10T23:00:50Z,1749,Human-optimized error messages for clojure.spec,Clojure,https://github.com/bhb/expound
+128,etaoin,930,96,930,16,2017-01-13T15:24:16Z,2025-03-26T21:32:23Z,5531,Pure Clojure Webdriver protocol implementation,Clojure,https://github.com/clj-commons/etaoin
+129,pronoun.is,929,102,929,46,2015-03-03T09:36:58Z,2023-01-08T02:23:06Z,152,Show people how to use pronouns!,Clojure,https://github.com/witch-house/pronoun.is
+130,environ,927,71,927,20,2012-04-04T15:43:51Z,2024-04-15T15:28:54Z,67,Library for managing environment variables in Clojure,Clojure,https://github.com/weavejester/environ
+131,braid,925,53,925,39,2016-01-08T20:29:36Z,2021-06-08T15:15:09Z,6255, Braid is a team-chat app with a novel UI that leads to better conversations.,Clojure,https://github.com/braidchat/braid
+132,clojurec,922,56,922,5,2012-06-06T13:24:19Z,2018-04-25T22:28:20Z,1198,A Clojure implementation on top of C,Clojure,https://github.com/schani/clojurec
+133,biff,920,47,920,13,2020-03-27T20:25:51Z,2025-02-23T07:21:51Z,1784,A Clojure web framework for solo developers.,Clojure,https://github.com/jacobobryant/biff
+134,titanoboa,918,47,918,13,2018-05-09T12:42:18Z,2022-09-16T12:57:43Z,9346,"Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.",Clojure,https://github.com/commsor/titanoboa
+135,netrunner,918,396,918,202,2014-04-23T17:57:52Z,2025-03-25T01:43:56Z,97580,,Clojure,https://github.com/mtgred/netrunner
+136,programming-language-research,916,57,916,0,2019-04-16T00:37:13Z,2024-10-22T11:41:16Z,37584,"✨ Programming Language Research, Applied PLT & Compilers",Clojure,https://github.com/imteekay/programming-language-research
+137,markright,912,56,912,24,2015-10-12T10:08:36Z,2021-11-30T00:57:18Z,2002,➡ Electron powered markdown editor with live preview,Clojure,https://github.com/dvcrn/markright
+138,pulsar,911,54,911,11,2013-04-10T09:03:02Z,2020-02-05T08:27:44Z,4023,"Fibers, Channels and Actors for Clojure",Clojure,https://github.com/puniverse/pulsar
+139,loom,888,109,888,43,2013-03-20T02:05:51Z,2023-12-30T02:40:37Z,572,Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj,Clojure,https://github.com/aysylu/loom
+140,nbb,879,52,879,10,2021-07-27T13:39:37Z,2024-11-25T13:59:34Z,1922,Scripting in Clojure on Node.js using SCI,Clojure,https://github.com/babashka/nbb
+141,medley,878,67,878,10,2013-08-26T13:35:30Z,2024-10-19T06:15:48Z,325,A lightweight library of useful Clojure functions,Clojure,https://github.com/weavejester/medley
+142,tesser,872,38,872,3,2014-11-11T02:22:00Z,2025-03-03T23:34:35Z,619,"Clojure reducers, but for parallel execution: locally and on distributed systems.",Clojure,https://github.com/aphyr/tesser
+143,wonderland-clojure-katas,870,509,870,0,2014-12-13T15:14:22Z,2023-10-28T20:31:26Z,378,Clojure Katas inspired by Alice in Wonderland,Clojure,https://github.com/gigasquid/wonderland-clojure-katas
+144,lt-cljs-tutorial,863,121,863,10,2014-01-15T12:11:29Z,2015-10-08T07:16:26Z,656,A ClojureScript Programming Language Tutorial for Light Table Users,Clojure,https://github.com/swannodette/lt-cljs-tutorial
+145,reagent-cookbook,843,87,843,2,2014-10-29T21:35:33Z,2022-03-25T23:12:00Z,1047,Examples of how to accomplish specific tasks in a Reagent webapp.,Clojure,https://github.com/reagent-project/reagent-cookbook
+146,clojupyter,839,94,839,12,2014-05-09T07:09:06Z,2025-03-18T08:36:00Z,39258,a Jupyter kernel for Clojure,Clojure,https://github.com/clojupyter/clojupyter
+147,oz,832,74,832,65,2018-02-12T08:10:28Z,2024-04-02T20:25:59Z,27789,Data visualizations in Clojure and ClojureScript using Vega and Vega-lite,Clojure,https://github.com/metasoarous/oz
+148,marginalia,831,80,831,46,2010-10-26T19:02:48Z,2024-07-05T10:39:03Z,11046,Ultra-lightweight literate programming for clojure inspired by docco,Clojure,https://github.com/clj-commons/marginalia
+149,buddy,830,38,830,4,2014-01-15T20:38:23Z,2021-05-28T14:53:05Z,552,Security library for Clojure,Clojure,https://github.com/funcool/buddy
+150,kaocha,813,84,813,57,2018-04-17T11:44:11Z,2025-02-26T15:57:22Z,1632,Full featured next gen Clojure test runner,Clojure,https://github.com/lambdaisland/kaocha
+151,javelin,811,44,811,7,2013-02-14T18:19:50Z,2023-10-31T12:50:48Z,470,Spreadsheet-like dataflow programming in ClojureScript.,Clojure,https://github.com/hoplon/javelin
+152,nrepl,811,98,811,40,2010-09-21T20:22:01Z,2025-03-27T21:23:43Z,2532,"A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.",Clojure,https://github.com/nrepl/nrepl
+153,re-com,811,143,811,49,2014-07-14T08:54:29Z,2025-03-24T23:26:24Z,6576,A ClojureScript library of reusable components for Reagent,Clojure,https://github.com/day8/re-com
+154,sicmutils,806,69,806,13,2014-09-08T17:20:51Z,2024-03-22T05:30:38Z,5840,"Computer Algebra, Physics and Differential Geometry in Clojure.",Clojure,https://github.com/sicmutils/sicmutils
+155,pallet,804,115,804,125,2010-02-17T16:03:03Z,2018-05-25T15:44:26Z,13561,Automates controlling and provisioning cloud server instances. DevOps for the JVM.,Clojure,https://github.com/pallet/pallet
+156,next-jdbc,797,92,797,0,2019-01-10T06:00:30Z,2025-03-27T17:31:00Z,1218,A modern low-level Clojure wrapper for JDBC-based access to databases.,Clojure,https://github.com/seancorfield/next-jdbc
+157,vr-logorrhoe,788,0,788,0,2019-05-02T06:08:50Z,2019-05-02T06:10:18Z,524,,Clojure,https://github.com/voicerepublic/vr-logorrhoe
+158,Nightlight,787,36,787,13,2016-09-28T02:41:05Z,2019-12-26T00:11:40Z,3235,An embedded editor for Clojure,Clojure,https://github.com/oakes/Nightlight
+159,secretary,772,64,772,23,2012-03-11T03:09:13Z,2020-12-13T18:45:07Z,175,A client-side router for ClojureScript.,Clojure,https://github.com/clj-commons/secretary
+160,dirac,770,30,770,20,2015-12-15T00:37:56Z,2022-08-26T16:03:55Z,248406,A Chrome DevTools fork for ClojureScript developers,Clojure,https://github.com/binaryage/dirac
+161,aero,769,60,769,18,2015-05-15T09:08:54Z,2025-02-10T10:49:15Z,284,"A small library for explicit, intentful configuration.",Clojure,https://github.com/juxt/aero
+162,flow-storm-debugger,761,35,761,22,2020-09-08T11:03:02Z,2025-03-26T15:26:45Z,52250,A debugger for Clojure and ClojureScript with some unique features.,Clojure,https://github.com/flow-storm/flow-storm-debugger
+163,dommy,760,72,760,12,2013-01-13T08:30:11Z,2018-01-07T00:14:06Z,345,A tiny ClojureScript DOM manipulation and event library,Clojure,https://github.com/plumatic/dommy
+164,clojure-opennlp,756,82,756,4,2010-02-17T01:47:08Z,2018-11-27T14:37:14Z,33612,Natural Language Processing in Clojure (opennlp),Clojure,https://github.com/dakrone/clojure-opennlp
+165,aws-api,747,101,747,62,2018-07-27T13:09:18Z,2025-02-26T18:26:12Z,1243,"AWS, data driven",Clojure,https://github.com/cognitect-labs/aws-api
+166,noir,737,78,737,23,2011-05-11T00:19:29Z,2012-12-13T23:35:54Z,780,A framework for writing web applications in clojure.,Clojure,https://github.com/noir-clojure/noir
+167,tools.cli,733,52,733,1,2011-04-20T11:30:22Z,2024-12-04T05:58:34Z,454,Command-line processing,Clojure,https://github.com/clojure/tools.cli
+168,squint,731,49,731,18,2022-08-13T12:52:45Z,2025-03-19T13:23:07Z,2400,Light-weight ClojureScript dialect,Clojure,https://github.com/squint-cljs/squint
+169,java.jdbc,727,141,727,0,2011-04-17T11:36:42Z,2024-10-04T20:40:22Z,2108,JDBC from Clojure (formerly clojure.contrib.sql),Clojure,https://github.com/clojure/java.jdbc
+170,missionary,724,30,724,49,2018-06-02T13:33:14Z,2025-03-06T19:51:50Z,541,A functional effect and streaming system for Clojure/Script,Clojure,https://github.com/leonoel/missionary
+171,lamina,710,57,710,0,2010-11-03T02:48:01Z,2015-09-15T15:59:17Z,4589,not under active development - event-driven workflows for clojure,Clojure,https://github.com/ztellman/lamina
+172,ethlance,706,125,706,5,2016-11-20T23:18:10Z,2025-03-10T14:42:41Z,24849,Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever!,Clojure,https://github.com/district0x/ethlance
+173,core.matrix,706,113,706,73,2013-01-03T02:29:15Z,2022-12-07T13:09:38Z,5147,core.matrix : Multi-dimensional array programming API for Clojure,Clojure,https://github.com/mikera/core.matrix
+174,cider-nrepl,700,179,700,35,2013-12-21T15:27:38Z,2025-03-27T21:25:27Z,3589,"A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc. ",Clojure,https://github.com/clojure-emacs/cider-nrepl
+175,tech.ml.dataset,700,35,700,27,2019-02-14T17:07:02Z,2025-03-19T23:52:11Z,9420,A Clojure high performance data processing system,Clojure,https://github.com/techascent/tech.ml.dataset
+176,jet,696,42,696,10,2019-07-18T17:30:47Z,2024-10-03T17:03:58Z,354,"CLI to transform between JSON, EDN, YAML and Transit using Clojure",Clojure,https://github.com/borkdude/jet
+177,rebel-readline,695,38,695,69,2018-01-12T16:56:51Z,2025-02-08T19:46:18Z,408,Terminal readline library for Clojure dialects,Clojure,https://github.com/bhauman/rebel-readline
+178,sablono,695,66,695,17,2013-12-21T10:29:21Z,2020-08-04T21:21:30Z,675,Lisp/Hiccup style templating for Facebook's React in ClojureScript.,Clojure,https://github.com/r0man/sablono
+179,hugsql,694,52,694,4,2015-10-07T16:24:10Z,2024-12-02T14:27:33Z,1319,A Clojure library for embracing SQL,Clojure,https://github.com/layerware/hugsql
+180,krell,686,36,686,12,2020-03-23T17:40:12Z,2024-06-13T17:59:44Z,574,Simple ClojureScript React Native Tooling,Clojure,https://github.com/vouch-opensource/krell
+181,clj-pdf,678,103,678,45,2012-04-11T04:23:22Z,2024-12-13T15:18:18Z,16637,PDF generation library for Clojure,Clojure,https://github.com/clj-pdf/clj-pdf
+182,lambdacd,676,58,676,25,2014-09-14T10:08:11Z,2023-01-27T10:32:48Z,21548,a library to define a continuous delivery pipeline in code,Clojure,https://github.com/flosell/lambdacd
+183,cljs-ajax,671,137,671,25,2013-04-09T18:08:17Z,2024-06-06T13:41:25Z,380,simple asynchronous Ajax client for ClojureScript and Clojure,Clojure,https://github.com/JulianBirch/cljs-ajax
+184,codox,667,97,667,48,2011-10-30T04:43:00Z,2024-08-14T18:05:12Z,585,Clojure documentation tool,Clojure,https://github.com/weavejester/codox
+185,tools.nrepl,666,80,666,5,2010-10-12T13:31:53Z,2024-07-15T17:53:35Z,852,"A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.",Clojure,https://github.com/clojure/tools.nrepl
+186,migratus,662,95,662,23,2011-12-02T21:58:26Z,2025-01-05T22:58:37Z,652,MIGRATE ALL THE THINGS!,Clojure,https://github.com/yogthos/migratus
+187,precept,660,33,660,38,2017-03-07T21:04:02Z,2022-12-06T17:35:30Z,1325,A declarative programming framework,Clojure,https://github.com/CoNarrative/precept
+188,slingshot,654,28,654,13,2011-06-13T13:35:20Z,2019-10-21T14:06:32Z,403,Enhanced try and throw for Clojure leveraging Clojure's capabilities,Clojure,https://github.com/scgilardi/slingshot
+189,hickory,652,52,652,12,2012-05-17T07:36:22Z,2025-03-13T20:04:54Z,279,HTML as data,Clojure,https://github.com/clj-commons/hickory
+190,luminus-template,648,145,648,33,2012-12-24T00:44:06Z,2023-09-16T22:43:47Z,2958,a template project for the Luminus framework,Clojure,https://github.com/luminus-framework/luminus-template
+191,figwheel-main,645,93,645,107,2018-06-27T11:36:20Z,2025-02-18T15:55:17Z,2440,Figwheel Main provides tooling for developing ClojureScript applications,Clojure,https://github.com/bhauman/figwheel-main
+192,lein-droid,644,57,644,27,2012-04-28T21:04:16Z,2019-02-13T14:12:24Z,728,A Leiningen plugin for building Clojure/Android projects,Clojure,https://github.com/clojure-android/lein-droid
+193,re-frame-10x,643,69,643,25,2016-11-04T06:16:37Z,2025-02-18T21:31:56Z,18115,A debugging dashboard for re-frame.  X-ray vision as tooling.,Clojure,https://github.com/day8/re-frame-10x
+194,asami,643,29,643,68,2018-04-09T20:10:47Z,2022-03-30T19:13:38Z,34706,A graph store for Clojure and ClojureScript,Clojure,https://github.com/threatgrid/asami
+195,helix,643,53,643,16,2019-11-22T16:53:30Z,2024-08-04T17:08:51Z,3485,"A simple, easy to use library for React development in ClojureScript.",Clojure,https://github.com/lilactown/helix
+196,claypoole,637,28,637,6,2014-02-11T18:35:57Z,2024-09-15T20:54:28Z,315,Claypoole: Threadpool tools for Clojure,Clojure,https://github.com/clj-commons/claypoole
+197,docjure,633,130,633,35,2010-03-30T16:07:09Z,2025-01-04T20:56:03Z,642,Read and write Office documents from Clojure,Clojure,https://github.com/mjul/docjure
+198,spacewar,631,62,631,6,2018-09-03T20:51:55Z,2025-03-27T15:20:51Z,552,Space War starting in Episode 55 of cleancoders.com,Clojure,https://github.com/unclebob/spacewar
+199,pathom,624,62,624,14,2017-07-28T00:37:35Z,2024-01-09T00:27:52Z,21742,Pathom is a Clojure(script) engine for processing EQL requests.,Clojure,https://github.com/wilkerlucio/pathom
+200,dot-clojure,622,100,622,0,2018-03-15T16:57:13Z,2025-03-22T19:05:26Z,236,My .clojure/deps.edn file,Clojure,https://github.com/seancorfield/dot-clojure
+201,orchestra,621,25,621,9,2017-03-29T06:33:55Z,2021-01-01T20:39:28Z,194,Complete instrumentation for clojure.spec,Clojure,https://github.com/jeaye/orchestra
+202,klangmeister,619,22,619,9,2015-12-26T08:21:55Z,2020-01-08T19:57:23Z,2404,A musical scratchpad.,Clojure,https://github.com/ctford/klangmeister
+203,ragtime,619,84,619,19,2011-11-19T19:06:18Z,2024-12-03T16:15:12Z,427,Database-independent migration library,Clojure,https://github.com/weavejester/ragtime
+204,atea,617,24,617,23,2012-02-16T15:16:56Z,2012-03-03T02:31:59Z,1346,A minimalistic menu bar time tracker for MacOS,Clojure,https://github.com/pkamenarsky/atea
+205,enlive-tutorial,615,80,615,20,2010-01-26T05:32:55Z,2019-01-02T02:15:15Z,365,An Easy Introduction to Enlive,Clojure,https://github.com/swannodette/enlive-tutorial
+206,tick,616,56,616,6,2016-10-26T15:41:33Z,2025-03-18T09:10:07Z,3305,Time as a value.,Clojure,https://github.com/juxt/tick
+207,quiescent,612,46,612,4,2014-02-07T17:18:36Z,2017-12-11T21:04:43Z,234,A lightweight ClojureScript abstraction over ReactJS,Clojure,https://github.com/levand/quiescent
+208,reveal,610,21,610,14,2020-02-17T20:46:21Z,2024-12-26T19:25:12Z,8555,Read Eval Visualize Loop for Clojure,Clojure,https://github.com/vlaaad/reveal
+209,tools.namespace,609,62,609,1,2011-04-22T16:59:54Z,2024-07-15T17:53:46Z,600,Tools for managing namespaces in Clojure,Clojure,https://github.com/clojure/tools.namespace
+210,SQLiDetector,609,108,609,2,2022-07-27T12:04:11Z,2025-03-23T02:35:54Z,17163,"Simple python script supported with BurpBouty profile that helps you to detect SQL injection ""Error based"" by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",Clojure,https://github.com/eslam3kl/SQLiDetector
+211,system,608,76,608,12,2014-07-25T02:05:15Z,2024-11-12T20:12:34Z,1975,Reloaded components à la carte,Clojure,https://github.com/danielsz/system
+212,pretty,606,28,606,1,2013-10-18T20:53:32Z,2025-02-23T23:26:24Z,2639,"Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions",Clojure,https://github.com/clj-commons/pretty
+213,precursor,605,43,605,8,2014-09-27T00:02:10Z,2024-05-17T21:30:33Z,51396,Create mockups with real-time collaboration,Clojure,https://github.com/PrecursorApp/precursor
+214,flambo,605,84,605,13,2014-01-07T19:42:06Z,2018-07-31T18:22:41Z,729,A Clojure DSL for Apache Spark,Clojure,https://github.com/sorenmacbeth/flambo
+215,ghostwheel,602,14,602,15,2018-06-26T19:38:50Z,2024-02-17T10:42:10Z,462,Hassle-free inline clojure.spec with semi-automatic generative testing and side effect detection,Clojure,https://github.com/gnl/ghostwheel
+216,rewrite-clj,600,57,600,37,2013-07-19T11:22:41Z,2025-03-28T14:24:34Z,8628,Rewrite Clojure code and edn,Clojure,https://github.com/clj-commons/rewrite-clj
+217,programming-clojure,599,137,599,6,2008-12-08T15:03:04Z,2021-01-13T23:50:25Z,27888,Sample code for the book,Clojure,https://github.com/stuarthalloway/programming-clojure
+218,cljs-electron,597,52,597,0,2015-01-02T20:03:37Z,2020-04-07T16:20:37Z,113,ClojureScript + Electron + Figwheel + Reagent  = ❤❤❤,Clojure,https://github.com/Gonzih/cljs-electron
+219,clojurecademy,596,48,596,7,2017-10-17T11:22:35Z,2020-06-04T08:54:34Z,547,Clojurecademy Web Application,Clojure,https://github.com/clojurecademy/clojurecademy
+220,membrane,596,20,596,40,2020-03-11T18:44:29Z,2025-03-23T21:52:20Z,33627,A Simple UI Library That Runs Anywhere,Clojure,https://github.com/phronmophobic/membrane
+221,spec-tools,595,93,595,69,2016-06-22T12:23:25Z,2024-10-11T08:22:44Z,1192,Clojure(Script) tools for clojure.spec,Clojure,https://github.com/metosin/spec-tools
+222,spectrum,593,20,593,14,2016-07-04T19:43:52Z,2021-04-17T12:41:59Z,1379,,Clojure,https://github.com/arohner/spectrum
+223,re-frame-template,592,89,592,0,2015-03-02T21:30:15Z,2025-02-18T22:51:22Z,1272,A Leiningen template for creating a re-frame application (client only) with a shadow-cljs build.,Clojure,https://github.com/day8/re-frame-template
+224,ubergraph,591,34,591,8,2014-04-08T20:54:39Z,2024-05-15T09:34:35Z,428,An all-purpose Clojure graph data structure that implements Loom protocols and more.,Clojure,https://github.com/Engelberg/ubergraph
+225,automat,589,48,589,15,2013-08-11T03:27:32Z,2018-09-09T08:08:06Z,602,better automata through combinators,Clojure,https://github.com/ztellman/automat
+226,postal,589,86,589,39,2009-04-20T23:29:09Z,2024-04-10T02:40:58Z,252,Clojure email support,Clojure,https://github.com/drewr/postal
+227,spyscope,589,35,589,10,2012-10-20T22:47:57Z,2019-12-25T12:22:15Z,39,Trace-oriented debugging tools for Clojure,Clojure,https://github.com/dgrnbrg/spyscope
+228,scope-capture,588,14,588,16,2017-10-02T21:19:26Z,2024-07-17T11:57:04Z,95,Project your Clojure(Script) REPL into the same context as your code when it ran,Clojure,https://github.com/vvvvalvalval/scope-capture
+229,trapperkeeper,587,75,587,10,2013-10-28T23:14:43Z,2025-02-04T02:09:53Z,1161,A services framework for Clojure / JVM applications.,Clojure,https://github.com/puppetlabs/trapperkeeper
+230,cljs-http,587,94,587,30,2012-02-04T22:54:43Z,2025-01-03T17:37:01Z,231,A ClojureScript HTTP library.,Clojure,https://github.com/r0man/cljs-http
+231,cherry,583,22,583,8,2022-07-20T10:09:47Z,2025-03-18T14:03:30Z,874,Experimental ClojureScript to ES6 module compiler,Clojure,https://github.com/squint-cljs/cherry
+232,xforms,581,32,581,12,2015-09-03T09:19:12Z,2024-01-22T12:17:14Z,1294,Extra transducers and reducing fns for Clojure(script),Clojure,https://github.com/cgrand/xforms
+233,potemkin,579,54,579,15,2010-09-04T19:45:51Z,2025-03-09T10:11:03Z,216,some ideas which are almost good,Clojure,https://github.com/clj-commons/potemkin
+234,zprint,577,51,577,59,2016-09-22T02:28:31Z,2024-08-14T15:20:56Z,2662,"Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.",Clojure,https://github.com/kkinnear/zprint
+235,toucan,572,49,572,23,2017-01-27T23:58:45Z,2023-10-04T22:44:49Z,687,A classy high-level Clojure library for defining application models and retrieving them from a DB,Clojure,https://github.com/metabase/toucan
+236,swiss-arrows,571,23,571,8,2012-03-07T21:22:05Z,2019-06-14T13:17:24Z,66,a collection of arrow macros,Clojure,https://github.com/rplevy/swiss-arrows
+237,npm-force-resolutions,570,28,570,50,2018-05-06T12:28:49Z,2022-12-22T11:17:22Z,377,Force npm to install a specific transitive dependency version,Clojure,https://github.com/rogeriochaves/npm-force-resolutions
+238,PigPen,567,53,567,19,2013-12-12T22:56:45Z,2023-04-10T10:32:34Z,1821,Map-Reduce for Clojure,Clojure,https://github.com/Netflix/PigPen
+239,clojure-scheme,564,21,564,5,2012-03-12T05:26:24Z,2020-01-12T14:23:03Z,3818,Clojure to Scheme to C to the bare metal.,Clojure,https://github.com/takeoutweight/clojure-scheme
+240,proton,564,54,564,48,2015-10-06T04:54:07Z,2018-11-30T05:06:21Z,4861,space-atom. spacemacs and sublimious style editing in atom,Clojure,https://github.com/dvcrn/proton
+241,coast,562,31,562,18,2017-12-26T04:31:31Z,2023-02-01T04:38:52Z,1217,The fullest full stack clojure web framework,Clojure,https://github.com/coast-framework/coast
+242,eva,561,25,561,104,2019-05-29T16:10:47Z,2023-06-11T20:40:18Z,861,"A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent",Clojure,https://github.com/Workiva/eva
+243,lein-ancient,558,33,558,19,2013-06-10T15:05:38Z,2021-10-26T06:21:57Z,521,Check your Projects for outdated Dependencies | Moved to Codeberg,Clojure,https://github.com/xsc/lein-ancient
+244,clojure2d,555,24,555,6,2016-06-20T09:15:57Z,2025-02-03T11:13:45Z,160228,Java2D wrapper + creative coding supporting functions (based on Processing and openFrameworks),Clojure,https://github.com/Clojure2D/clojure2d
+245,markdown-clj,552,121,552,26,2011-10-10T21:45:56Z,2025-02-07T14:15:08Z,1478,Markdown parser in Clojure,Clojure,https://github.com/yogthos/markdown-clj
+246,play-cljc,550,14,550,9,2019-02-24T22:04:16Z,2023-10-05T15:58:48Z,118595,A Clojure and ClojureScript game library,Clojure,https://github.com/oakes/play-cljc
+247,chime,549,39,549,7,2013-04-23T21:57:04Z,2024-05-03T12:12:41Z,119,A really lightweight Clojure scheduler,Clojure,https://github.com/jarohen/chime
+248,martian,549,44,549,26,2016-04-18T17:59:39Z,2024-11-14T21:40:21Z,22900,"The HTTP abstraction library for Clojure/script, supporting OpenAPI, Swagger, Schema, re-frame and more",Clojure,https://github.com/oliyh/martian
+249,data.json,549,60,549,2,2011-03-11T15:00:31Z,2024-11-27T20:33:03Z,321,JSON in Clojure,Clojure,https://github.com/clojure/data.json
+250,joy,547,30,547,20,2019-09-02T13:46:26Z,2023-11-16T15:45:14Z,2320,A full stack web framework written in janet,Clojure,https://github.com/joy-framework/joy
+251,conduit,546,95,546,1,2017-11-16T15:43:53Z,2023-10-27T19:08:48Z,6724,Real world application built with ClojureScript + re-frame,Clojure,https://github.com/jacekschae/conduit
+252,magento-cache-clean,545,67,545,15,2018-08-08T18:05:40Z,2024-12-06T12:51:55Z,5344,A faster drop in replacement for bin/magento cache:clean with file watcher,Clojure,https://github.com/mage2tv/magento-cache-clean
+253,tufte,545,21,545,2,2016-07-07T04:50:01Z,2024-11-15T13:50:09Z,692,Simple performance monitoring library for Clojure/Script,Clojure,https://github.com/taoensso/tufte
+254,codeq,545,53,545,11,2012-09-28T13:51:36Z,2024-07-15T18:10:50Z,537,Creates Datomic dbs from git repos,Clojure,https://github.com/Datomic/codeq
+255,odoyle-rules,544,21,544,21,2020-07-18T20:26:24Z,2023-10-05T15:58:14Z,14550,A rules engine for Clojure(Script),Clojure,https://github.com/oakes/odoyle-rules
+256,cljdoc,543,79,543,62,2018-01-05T17:14:04Z,2025-03-28T00:37:29Z,23110,📚 A central documentation hub for the Clojure community,Clojure,https://github.com/cljdoc/cljdoc
+257,conch,540,48,540,10,2012-01-21T00:51:36Z,2023-10-30T02:22:35Z,165,A flexible library for shelling out in Clojure,Clojure,https://github.com/Raynes/conch
+258,polylith,540,49,540,19,2019-06-09T14:46:44Z,2025-01-25T08:11:19Z,51118,A tool used to develop Polylith based architectures in Clojure.,Clojure,https://github.com/polyfy/polylith
+259,fipp,533,44,533,9,2013-01-11T02:18:25Z,2024-10-27T19:08:26Z,217,Fast Idiomatic Pretty Printer for Clojure,Clojure,https://github.com/brandonbloom/fipp
+260,thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang,522,4,522,1,2018-11-25T05:04:38Z,2020-04-02T11:53:53Z,5,The exciting new ->->><?as->cond->! macro,Clojure,https://github.com/randomcorp/thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang
+261,typedclojure,517,7,517,19,2020-02-20T06:09:28Z,2025-03-19T06:14:46Z,17388,An optional type system for Clojure,Clojure,https://github.com/typedclojure/typedclojure
+262,day-of-datomic,516,101,516,7,2012-09-05T16:11:58Z,2024-07-15T18:11:00Z,173,Sample Code for Day of Datomic presentation,Clojure,https://github.com/Datomic/day-of-datomic
+263,spec-provider,516,22,516,11,2016-06-08T21:35:19Z,2020-05-24T21:14:45Z,174,Infer Clojure specs from sample data. Inspired by F#'s type providers.,Clojure,https://github.com/stathissideris/spec-provider
+264,tupelo,515,15,515,7,2014-06-30T20:19:28Z,2025-03-19T03:23:07Z,4857,Tupelo:  Clojure With A Spoonful of Honey,Clojure,https://github.com/cloojure/tupelo
+265,storm-deploy,515,148,515,36,2011-09-02T19:20:13Z,2015-07-21T18:09:23Z,559,One click deploy for Storm clusters on AWS,Clojure,https://github.com/nathanmarz/storm-deploy
+266,deuce,514,14,514,0,2012-04-14T10:01:27Z,2016-08-01T13:17:18Z,16022,Deuce is (not yet) Emacs under Clojure,Clojure,https://github.com/hraberg/deuce
+267,prone,514,25,514,4,2014-08-19T08:35:24Z,2024-09-13T12:13:30Z,523,Better exception reporting middleware for Ring.,Clojure,https://github.com/magnars/prone
+268,cloverage,513,101,513,68,2012-11-26T17:09:25Z,2024-11-06T00:42:28Z,772,Clojure test coverage tool,Clojure,https://github.com/cloverage/cloverage
+269,workspaces,512,25,512,11,2018-07-03T14:45:26Z,2024-06-21T01:56:05Z,2543,Live development environment for Clojurescript,Clojure,https://github.com/nubank/workspaces
+270,kit,510,47,510,23,2021-06-18T05:20:06Z,2025-03-25T16:50:04Z,1209,"Lightweight, modular framework for scalable web development in Clojure",Clojure,https://github.com/kit-clj/kit
+271,clojure-contrib,509,81,509,3,2009-06-12T22:14:06Z,2024-01-22T21:26:29Z,3622,NOTE - the contrib libraries have moved to individual repos under Clojure:,Clojure,https://github.com/richhickey/clojure-contrib
+272,graalvm-clojure,509,50,509,8,2019-05-11T17:05:19Z,2024-11-27T16:00:23Z,174,"This project contains a set of ""hello world"" projects to verify which Clojure libraries do actually compile and produce native images under GraalVM.",Clojure,https://github.com/clj-easy/graalvm-clojure
+273,austin,508,31,508,20,2013-08-02T14:08:14Z,2022-01-24T21:14:46Z,453,"The ClojureScript browser-REPL rebuilt stronger, faster, easier.",Clojure,https://github.com/cemerick/austin
+274,edge,508,62,508,38,2015-12-10T07:31:11Z,2021-09-13T21:05:17Z,2768,A Clojure application foundation from JUXT,Clojure,https://github.com/juxt/edge
+275,pomegranate,508,61,508,0,2011-10-03T20:46:49Z,2025-03-26T20:47:51Z,344,A sane Clojure API for Maven Artifact Resolver + dynamic runtime modification of the classpath,Clojure,https://github.com/clj-commons/pomegranate
+276,labrepl,506,81,506,3,2010-01-14T09:11:28Z,2014-12-03T20:20:06Z,2222,,Clojure,https://github.com/relevance/labrepl
+277,promesa,505,58,505,20,2015-03-25T20:39:35Z,2024-08-19T18:36:44Z,1359,A promise library & concurrency toolkit for Clojure and ClojureScript.,Clojure,https://github.com/funcool/promesa
+278,metabase-clickhouse-driver,505,96,505,34,2019-03-11T23:01:26Z,2025-03-19T19:25:58Z,600,ClickHouse database driver for the Metabase business intelligence front-end,Clojure,https://github.com/ClickHouse/metabase-clickhouse-driver
+279,slamhound,502,38,502,18,2011-04-25T16:57:46Z,2020-10-01T20:00:38Z,472,Slamhound rips your namespace form apart and reconstructs it.,Clojure,https://github.com/technomancy/slamhound
+280,editscript,502,23,502,11,2018-03-05T07:25:33Z,2025-01-25T22:45:27Z,767,A library to diff and patch Clojure/ClojureScript data structures,Clojure,https://github.com/juji-io/editscript
+281,zk-web,501,153,501,19,2012-10-26T12:21:25Z,2021-01-22T09:52:52Z,236,A web UI for zookeeper,Clojure,https://github.com/qiuxiafei/zk-web
+282,lein-ring,501,99,501,45,2010-12-07T21:33:17Z,2023-05-31T23:00:07Z,254,Ring plugin for Leiningen,Clojure,https://github.com/weavejester/lein-ring
+283,mulog,499,47,499,8,2019-11-02T18:39:20Z,2025-03-27T10:34:54Z,4144,"μ/log is a micro-logging library that logs events and data, not words!",Clojure,https://github.com/BrunoBonacci/mulog
+284,sequence,498,31,498,13,2020-09-02T16:55:25Z,2024-06-28T19:32:41Z,44,"Immutable, scalable, and easy to use ledger service.",Clojure,https://github.com/hoophq/sequence
+285,Nightweb,496,70,496,9,2012-10-03T21:10:45Z,2016-07-11T13:38:51Z,8678,An anonymous P2P social network in Clojure,Clojure,https://github.com/oakes/Nightweb
+286,joyride,490,17,490,7,2022-04-23T22:25:00Z,2024-10-16T20:54:39Z,6215,Making VS Code Hackable like Emacs since 2022,Clojure,https://github.com/BetterThanTomorrow/joyride
+287,Doplarr,489,33,489,38,2021-08-10T17:50:55Z,2024-04-16T04:44:40Z,880,An *arr request bot for Discord,Clojure,https://github.com/kiranshila/Doplarr
+288,gloss,484,57,484,8,2010-08-12T03:45:29Z,2023-07-28T20:59:17Z,361,"speaks in bytes, so you don't have to",Clojure,https://github.com/clj-commons/gloss
+289,monger,484,108,484,22,2011-09-11T10:29:30Z,2024-11-28T20:12:01Z,1980,"Monger is an idiomatic Clojure MongoDB driver with sane defaults, batteries included, well documented, low overhead",Clojure,https://github.com/michaelklishin/monger
+290,piggieback,483,48,483,9,2012-08-09T20:51:49Z,2025-01-01T14:23:58Z,255,nREPL support for ClojureScript REPLs,Clojure,https://github.com/nrepl/piggieback
+291,dire,483,20,483,11,2012-12-28T16:25:13Z,2016-01-24T23:56:10Z,166,Erlang-style supervisor error handling for Clojure,Clojure,https://github.com/MichaelDrogalis/dire
+292,lib-noir,480,47,480,7,2012-06-23T19:51:01Z,2018-09-15T21:13:31Z,288,"A set of libraries for ring apps, including stateful sessions.",Clojure,https://github.com/noir-clojure/lib-noir
+293,maria,478,34,478,56,2016-11-11T12:02:03Z,2024-02-09T10:51:24Z,13272,A ClojureScript coding environment for beginners.,Clojure,https://github.com/mhuebert/maria
+294,camel-snake-kebab,477,48,477,18,2012-10-14T12:55:04Z,2025-03-25T21:16:44Z,172,A Clojure[Script] library for word case conversions,Clojure,https://github.com/clj-commons/camel-snake-kebab
+295,defun,477,20,477,1,2014-09-14T06:29:15Z,2023-10-20T16:42:02Z,48,A macro to define clojure functions with parameter pattern matching just like erlang or elixir.,Clojure,https://github.com/killme2008/defun
+296,matcher-combinators,476,25,476,12,2017-12-19T22:06:51Z,2025-03-06T10:27:43Z,697,Library for creating matcher combinator to compare nested data structures,Clojure,https://github.com/nubank/matcher-combinators
+297,beat-link-trigger,475,38,475,4,2016-05-13T05:05:56Z,2025-03-24T03:44:15Z,61636,Trigger events and automate shows in response to events on Pioneer CDJs,Clojure,https://github.com/Deep-Symmetry/beat-link-trigger
+298,debux,474,19,474,3,2016-02-27T08:42:25Z,2024-03-16T15:24:14Z,2956,A trace-based debugging library for Clojure and ClojureScript.,Clojure,https://github.com/philoskim/debux
+299,clojure.java-time,474,47,474,22,2015-12-06T08:12:48Z,2024-11-16T00:32:04Z,905,Java 8 Date-Time API for Clojure,Clojure,https://github.com/dm3/clojure.java-time
+300,clojars-web,472,113,472,14,2009-11-15T00:19:16Z,2025-03-27T01:35:48Z,3836,A community repository for open-source Clojure libraries,Clojure,https://github.com/clojars/clojars-web
+301,fluokitten,470,35,470,2,2013-05-19T18:14:00Z,2024-05-16T11:16:45Z,722,"Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more.",Clojure,https://github.com/uncomplicate/fluokitten
+302,speclj,467,59,467,29,2010-11-09T01:45:42Z,2025-03-20T19:03:13Z,1144,"pronounced ""speckle"": a TDD/BDD framework for Clojure.",Clojure,https://github.com/slagyr/speclj
+303,t3tr0s,466,28,466,18,2014-05-01T22:43:18Z,2017-06-10T01:08:43Z,20276,30th anniversary tetris in ClojureScript,Clojure,https://github.com/imalooney/t3tr0s
+304,acha,466,33,466,9,2014-09-27T00:00:52Z,2024-05-12T14:47:48Z,1056,Git Achievements,Clojure,https://github.com/someteam/acha
+305,re-graph,464,39,464,15,2017-10-17T18:59:09Z,2025-02-20T23:19:13Z,227,A graphql client for clojurescript and clojure,Clojure,https://github.com/oliyh/re-graph
+306,muuntaja,461,52,461,22,2016-08-13T11:01:21Z,2025-03-05T17:42:14Z,1282,"Clojure library for fast http api format negotiation, encoding and decoding.",Clojure,https://github.com/metosin/muuntaja
+307,re-frisk,461,29,461,13,2016-09-19T12:28:46Z,2025-03-14T10:31:31Z,10372,Take full control of re-frame app,Clojure,https://github.com/flexsurfer/re-frisk
+308,posh,460,46,460,22,2015-11-19T02:56:26Z,2020-11-14T12:14:31Z,1850,A luxuriously simple and powerful way to make front-ends with DataScript and Reagent in Clojure.,Clojure,https://github.com/mpdairy/posh
+309,session,460,36,460,16,2012-04-19T02:34:38Z,2015-08-07T21:06:42Z,50004,repl into the clojurescript community,Clojure,https://github.com/kovasb/session
+310,leipzig,459,26,459,6,2012-10-30T15:51:40Z,2024-01-19T02:40:36Z,749,A music composition library for Clojure and Clojurescript.,Clojure,https://github.com/ctford/leipzig
+311,hashp,458,23,458,13,2019-12-14T03:56:35Z,2025-02-19T00:02:21Z,29,"A better ""prn"" for debugging",Clojure,https://github.com/weavejester/hashp
+312,meiro,457,15,457,1,2017-04-22T16:41:20Z,2020-07-04T23:15:41Z,314,"Maze generation code, inspired by Mazes for Programmers.",Clojure,https://github.com/defndaines/meiro
+313,clojure-polylith-realworld-example-app,455,81,455,4,2018-02-28T23:18:55Z,2024-12-26T20:16:10Z,25390,"Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.",Clojure,https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app
+314,cljss,455,26,455,23,2017-02-05T13:37:36Z,2023-04-18T04:39:23Z,279,Clojure Style Sheets — CSS-in-JS for ClojureScript,Clojure,https://github.com/clj-commons/cljss
+315,fs,454,120,454,30,2011-12-10T23:51:20Z,2024-01-16T22:19:35Z,363,File system utilities for Clojure.,Clojure,https://github.com/Raynes/fs
+316,core.cache,453,63,453,0,2011-11-22T20:15:29Z,2024-11-09T07:17:17Z,335,A caching library for Clojure implementing various cache strategies,Clojure,https://github.com/clojure/core.cache
+317,algo.monads,452,49,452,3,2011-04-20T11:29:30Z,2024-07-15T17:54:07Z,151,"Macros for defining monads, and definition of the most common monads",Clojure,https://github.com/clojure/algo.monads
+318,yamlscript,450,43,450,15,2022-07-03T21:31:31Z,2025-03-27T19:24:20Z,19036,Programming in YAML,Clojure,https://github.com/yaml/yamlscript
+319,rhizome,450,40,450,9,2013-05-03T22:04:29Z,2017-09-28T09:18:07Z,260,simple graph and tree visualization,Clojure,https://github.com/ztellman/rhizome
+320,sparkling,448,68,448,13,2015-01-05T20:24:50Z,2022-03-10T10:07:36Z,1178,"A Clojure library for Apache Spark: fast, fully-features, and developer friendly ",Clojure,https://github.com/gorillalabs/sparkling
+321,walkable,446,15,446,19,2018-02-06T19:44:29Z,2022-01-31T20:01:23Z,1089,"A Clojure(script) SQL library for building APIs: Datomic® (GraphQL-ish) pull syntax, data driven configuration, dynamic filtering with relations in mind",Clojure,https://github.com/walkable-server/walkable
+322,cyanite,444,79,444,34,2013-12-08T14:46:19Z,2017-06-26T11:19:35Z,1188,cyanite stores your metrics,Clojure,https://github.com/pyr/cyanite
+323,immutant,443,55,443,1,2011-10-18T13:40:41Z,2020-08-25T20:13:25Z,18004,A suite of libraries for Clojure apps,Clojure,https://github.com/immutant/immutant
+324,chord,439,40,439,7,2013-08-03T14:04:48Z,2020-07-12T09:57:33Z,151,"A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.",Clojure,https://github.com/jarohen/chord
+325,clj-webdriver,437,93,437,39,2011-03-11T08:15:58Z,2016-12-07T14:40:12Z,1776,[UNMAINTAINED] Clojure API for Selenium-WebDriver,Clojure,https://github.com/semperos/clj-webdriver
+326,tools.deps.alpha,435,77,435,1,2017-07-24T14:11:15Z,2024-07-15T17:54:30Z,1067,A functional API for transitive dependency graph expansion and the creation of classpaths,Clojure,https://github.com/clojure/tools.deps.alpha
+327,om-tools,434,31,434,9,2014-05-09T06:35:30Z,2018-07-07T17:28:45Z,199,Tools for building Om applications,Clojure,https://github.com/plumatic/om-tools
+328,vscode-theme-alabaster,434,18,434,8,2017-04-27T14:46:44Z,2025-03-21T10:14:10Z,756,A light theme for Visual Studio Code,Clojure,https://github.com/tonsky/vscode-theme-alabaster
+329,deep-diamond,434,17,434,0,2019-03-03T13:09:45Z,2025-01-16T21:47:21Z,883,A fast Clojure Tensor & Deep Learning library,Clojure,https://github.com/uncomplicate/deep-diamond
+330,jsonista,434,30,434,19,2017-05-23T13:34:37Z,2024-12-19T13:01:18Z,1977,Clojure library for fast JSON encoding and decoding.,Clojure,https://github.com/metosin/jsonista
+331,afterglow,430,23,430,12,2015-04-10T23:43:01Z,2025-03-24T04:16:18Z,274882,"A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.",Clojure,https://github.com/Deep-Symmetry/afterglow
+332,chocolatier,429,29,429,3,2014-01-20T05:11:41Z,2020-04-04T16:06:21Z,7023,WIP ClojureScript game/engine using Pixi.js for rendering.,Clojure,https://github.com/alexkehayias/chocolatier
+333,domina,429,46,429,19,2011-11-06T04:04:52Z,2022-08-04T00:03:46Z,19060,A DOM manipulation library for ClojureScript,Clojure,https://github.com/levand/domina
+334,antq,428,27,428,23,2020-05-03T22:23:08Z,2025-03-20T22:20:10Z,897,Point out your outdated dependencies.,Clojure,https://github.com/liquidz/antq
+335,clj-async-profiler,427,18,427,1,2017-12-11T13:37:16Z,2025-03-27T21:13:27Z,6167,Embedded high-precision Clojure profiler,Clojure,https://github.com/clojure-goes-fast/clj-async-profiler
+336,eftest,426,41,426,22,2015-08-10T19:20:20Z,2024-05-24T20:44:10Z,273,Fast and pretty Clojure test runner,Clojure,https://github.com/weavejester/eftest
+337,clojure-turtle,426,33,426,15,2015-06-13T03:32:54Z,2017-09-02T22:36:08Z,1719,A Clojure library that implements the Logo programming language in a Clojure context,Clojure,https://github.com/google/clojure-turtle
+338,avout,423,29,423,8,2011-10-25T01:14:06Z,2019-08-29T01:18:25Z,6621,Avout: Distributed State in Clojure,Clojure,https://github.com/liebke/avout
+339,emmy,422,25,422,105,2022-11-09T18:21:51Z,2024-10-29T17:29:17Z,11188,The Emmy Computer Algebra System.,Clojure,https://github.com/mentat-collective/emmy
+340,clooj,420,49,420,61,2011-01-21T08:36:49Z,2024-05-05T18:08:26Z,763,"clooj, a lightweight IDE for clojure",Clojure,https://github.com/clj-commons/clooj
+341,byte-streams,420,32,420,5,2013-06-27T06:16:29Z,2023-07-22T11:08:05Z,1197,A Rosetta stone for JVM byte representations,Clojure,https://github.com/clj-commons/byte-streams
+342,shadertone,420,38,420,9,2013-04-14T06:30:43Z,2024-03-17T05:58:26Z,2097,A mix of www.shadertoy.com and Overtone,Clojure,https://github.com/overtone/shadertone
+343,slingcode,420,28,420,30,2020-03-15T12:34:31Z,2020-08-27T01:23:04Z,1317,personal computing platform,Clojure,https://github.com/chr15m/slingcode
+344,hikari-cp,419,51,419,3,2014-08-20T19:18:24Z,2024-12-02T11:05:58Z,318,A Clojure wrapper to HikariCP JDBC connection pool,Clojure,https://github.com/tomekw/hikari-cp
+345,relic,415,7,415,4,2021-07-27T14:29:21Z,2024-11-29T10:50:45Z,1761,Functional relational programming for Clojure(Script).,Clojure,https://github.com/wotbrew/relic
+346,failjure,415,18,415,12,2016-01-28T14:14:43Z,2023-10-12T16:48:21Z,66,Monadic error utilities for general use in Clojure(script) projects,Clojure,https://github.com/adambard/failjure
+347,skyscraper,413,10,413,4,2015-08-11T13:27:55Z,2023-07-24T11:17:27Z,349,Structural scraping for the rest of us.,Clojure,https://github.com/nathell/skyscraper
+348,chromex,414,21,414,4,2015-11-18T17:40:37Z,2023-05-01T20:23:08Z,4952,Write Chrome Extensions in ClojureScript,Clojure,https://github.com/binaryage/chromex
+349,themecreator,412,34,412,7,2015-11-10T15:55:00Z,2024-06-20T07:13:04Z,12679,"https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.",Clojure,https://github.com/mswift42/themecreator
+350,jayq,410,57,410,0,2012-02-04T21:22:28Z,2018-02-23T18:47:45Z,105,A ClojureScript wrapper for jQuery,Clojure,https://github.com/ibdknox/jayq
+351,sayid,409,27,409,15,2015-09-26T18:43:17Z,2022-03-30T17:27:29Z,619,A debugger for Clojure,Clojure,https://github.com/clojure-emacs/sayid
+352,om-cookbook,407,32,407,2,2014-11-30T12:29:43Z,2015-08-28T21:24:02Z,1523,Home of Om recipes,Clojure,https://github.com/omcljs/om-cookbook
+353,value-category-cheatsheet,407,21,407,0,2016-12-22T02:03:47Z,2023-05-20T18:34:31Z,372,"A C++14 cheat-sheet on lvalues, rvalues, xvalues, and more",Clojure,https://github.com/jeaye/value-category-cheatsheet
+354,kioo,404,37,404,11,2014-01-12T19:18:07Z,2018-05-01T18:25:21Z,564,Enlive/Enfocus  style templating for Facebook's React and Om in ClojureScript.,Clojure,https://github.com/ckirkendall/kioo
+355,zelkova,403,9,403,2,2014-10-17T00:41:11Z,2016-05-11T14:15:48Z,557,Elm-style FRP for Clojure and ClojureScript,Clojure,https://github.com/jamesmacaulay/zelkova
+356,tenzing,403,39,403,15,2014-11-30T16:02:36Z,2018-05-14T21:59:45Z,702,⚡️ Clojurescript application template using Boot,Clojure,https://github.com/martinklepsch/tenzing
+357,ClojureProgramming,402,88,402,8,2012-01-04T17:10:19Z,2020-10-13T13:38:00Z,574,Example projects and sample code featured in Clojure Programming (1st ed.) from O'Reilly,Clojure,https://github.com/clojurebook/ClojureProgramming
+358,cftbat-code,402,105,402,8,2015-05-04T20:06:21Z,2023-02-14T00:41:47Z,77,,Clojure,https://github.com/braveclojure/cftbat-code
+359,pepa,401,65,401,2,2015-01-06T11:41:09Z,2017-09-18T13:40:36Z,1861,A document management system,Clojure,https://github.com/bevuta/pepa
+360,ziggurat,401,64,401,2,2018-12-27T07:06:12Z,2024-12-03T05:55:16Z,1557,A stream processing framework to build stateless applications on Kafka,Clojure,https://github.com/gojek/ziggurat
+361,knossos,401,32,401,6,2013-12-22T18:22:24Z,2025-03-07T16:44:32Z,6127,Verifies the linearizability of experimentally accessible histories.,Clojure,https://github.com/jepsen-io/knossos
+362,js-interop,400,16,400,6,2019-02-13T14:18:09Z,2023-10-27T00:07:56Z,273,A JavaScript-interop library for ClojureScript.,Clojure,https://github.com/applied-science/js-interop
+363,pathom3,399,33,399,9,2020-06-23T21:53:53Z,2025-03-17T21:28:07Z,2507,Interface with complex data via graph mapping.,Clojure,https://github.com/wilkerlucio/pathom3
+364,hanami,398,12,398,8,2017-09-14T20:53:49Z,2024-10-21T18:20:57Z,2986,Interactive arts and charts plotting with Clojure(Script) and Vega-lite / Vega. Flower viewing 花見 (hanami),Clojure,https://github.com/jsa-aerial/hanami
+365,cljx,397,34,397,10,2012-03-19T18:55:27Z,2016-06-15T17:55:25Z,187,Write a portable codebase targeting Clojure/ClojureScript,Clojure,https://github.com/lynaghk/cljx
+366,expectations,395,25,395,0,2010-08-16T00:46:56Z,2023-04-11T22:07:31Z,4617,"A minimalist's unit testing framework (""classic"" version)",Clojure,https://github.com/clojure-expectations/expectations
+367,moon,395,13,395,21,2024-07-30T06:44:02Z,2024-11-13T13:02:54Z,21123,RPG Maker & Engine,Clojure,https://github.com/damn/moon
+368,lein_template_descjop,395,16,395,6,2015-04-17T05:28:47Z,2017-10-06T12:45:50Z,168,A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).,Clojure,https://github.com/karad/lein_template_descjop
+369,reagent-template,395,53,395,11,2014-10-17T02:54:08Z,2022-06-27T11:35:24Z,471,A Leiningen template for projects using Reagent.,Clojure,https://github.com/reagent-project/reagent-template
+370,book-source,395,60,395,7,2011-04-17T17:58:11Z,2021-08-16T02:36:35Z,5332,"The source code for ""The Joy of Clojure""",Clojure,https://github.com/joyofclojure/book-source
+371,test-refresh,392,28,392,8,2013-11-01T02:59:03Z,2024-12-15T22:22:13Z,434,Refreshes and reruns clojure.tests in your project.,Clojure,https://github.com/jakemcc/test-refresh
+372,neil,390,29,390,23,2021-09-27T14:05:03Z,2024-12-09T12:18:37Z,310,A CLI to add common aliases and features to deps.edn-based projects,Clojure,https://github.com/babashka/neil
+373,elastisch,389,134,389,12,2011-12-07T21:05:34Z,2024-11-18T19:50:41Z,2335,"A minimalistic Clojure client for ElasticSearch, supports both HTTP and native transports",Clojure,https://github.com/clojurewerkz/elastisch
+374,tools.logging,388,51,388,0,2011-03-11T15:01:29Z,2024-07-15T17:54:41Z,285,Clojure logging API,Clojure,https://github.com/clojure/tools.logging
+375,durable-queue,388,31,388,20,2013-09-25T01:51:18Z,2023-07-28T21:03:04Z,374,a disk-backed queue for clojure,Clojure,https://github.com/clj-commons/durable-queue
+376,hato,388,29,388,18,2019-06-09T14:01:25Z,2024-07-19T14:39:57Z,159,"An HTTP client for Clojure, wrapping JDK 11's HttpClient",Clojure,https://github.com/gnarroway/hato
+377,freactive,387,27,387,20,2014-07-10T19:55:57Z,2015-11-12T03:28:26Z,2777,"High-performance, pure Clojurescript, declarative DOM library",Clojure,https://github.com/aaronc/freactive
+378,re-posh,387,25,387,6,2017-06-09T11:10:55Z,2022-02-04T03:04:58Z,71,Use your re-frame with DataScript as a data storage,Clojure,https://github.com/denistakeda/re-posh
+379,fn-fx,386,33,386,32,2015-01-23T22:14:23Z,2019-08-10T23:26:29Z,418,A Functional API around JavaFX / OpenJFX.,Clojure,https://github.com/fn-fx/fn-fx
+380,eql,383,18,383,0,2018-11-01T19:04:12Z,2023-09-29T17:41:46Z,538,"EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc.",Clojure,https://github.com/edn-query-language/eql
+381,farolero,381,4,381,2,2021-04-03T17:08:18Z,2024-04-17T20:47:08Z,335,Thread-safe Common Lisp style conditions and restarts for Clojure(Script) and Babashka.,Clojure,https://github.com/IGJoshua/farolero
+382,naga,380,19,380,24,2016-07-28T22:18:34Z,2022-03-14T17:06:26Z,557,Datalog based rules engine,Clojure,https://github.com/threatgrid/naga
+383,macchiato-core,380,36,380,15,2016-11-28T14:36:51Z,2024-06-18T02:41:14Z,163,Ring style HTTP server abstraction for Node.js,Clojure,https://github.com/macchiato-framework/macchiato-core
+384,Clojure-Sublimed,379,21,379,17,2018-12-23T23:43:07Z,2024-12-30T15:55:59Z,7534,Clojure support for Sublime Text 4,Clojure,https://github.com/tonsky/Clojure-Sublimed
+385,deps-new,378,20,378,5,2021-08-05T06:44:14Z,2025-03-28T06:11:38Z,352,Create new projects for the Clojure CLI / deps.edn,Clojure,https://github.com/seancorfield/deps-new
+386,jackdaw,373,78,373,79,2018-11-29T12:34:49Z,2024-08-16T15:00:20Z,1921,A Clojure library for the Apache Kafka distributed streaming platform.,Clojure,https://github.com/FundingCircle/jackdaw
+387,vase,373,40,373,25,2015-01-30T14:34:29Z,2024-08-26T03:05:35Z,1969,Data driven microservices,Clojure,https://github.com/cognitect-labs/vase
+388,twitter-api,372,61,372,14,2011-06-15T09:57:23Z,2020-11-02T15:33:36Z,329,Async io interface to all the twitter APIs,Clojure,https://github.com/adamwynne/twitter-api
+389,ring-swagger,371,84,371,17,2014-01-31T11:03:45Z,2024-07-09T20:35:03Z,1458,Swagger Spec for Clojure Web Apps,Clojure,https://github.com/metosin/ring-swagger
+390,cli-matic,371,29,371,35,2018-03-31T11:20:30Z,2023-08-11T06:12:43Z,403,"Compact, hands-free [sub]command line parsing library for Clojure.",Clojure,https://github.com/l3nz/cli-matic
+391,enfocus,370,38,370,12,2011-12-02T03:08:33Z,2017-06-19T00:04:18Z,1327,DOM manipulation and templating library for ClojureScript inspired by Enlive.,Clojure,https://github.com/ckirkendall/enfocus
+392,qu,370,81,370,15,2013-03-07T11:33:38Z,2020-10-22T18:39:36Z,7187,":warning: This project was archived on September 25th, 2020 and is no longer maintained",Clojure,https://github.com/cfpb/qu
+393,useful,369,57,369,9,2010-05-22T16:52:29Z,2020-12-13T18:55:49Z,758,"Some Clojure functions we use all the time, and so can you.",Clojure,https://github.com/clj-commons/useful
+394,rn-rf-shadow,368,53,368,7,2019-03-11T08:48:35Z,2024-05-26T00:53:27Z,2037,An example project to get you started with React Native using shadow-cljs in 3 minutes,Clojure,https://github.com/PEZ/rn-rf-shadow
+395,mies,367,49,367,2,2013-10-28T02:41:55Z,2018-07-05T16:09:13Z,73,Minimal ClojureScript project template,Clojure,https://github.com/swannodette/mies
+396,transit-clj,366,23,366,11,2014-03-20T14:36:22Z,2024-07-15T19:49:38Z,298,transit-format implementation for Clojure,Clojure,https://github.com/cognitect/transit-clj
+397,kixi.stats,366,20,366,1,2015-12-09T10:31:09Z,2025-03-10T17:57:38Z,334,A library of statistical distribution sampling and transducing functions,Clojure,https://github.com/MastodonC/kixi.stats
+398,magic,366,17,366,36,2015-07-30T22:34:41Z,2023-07-13T15:48:51Z,7364,Morgan And Grand Iron Clojure,Clojure,https://github.com/nasser/magic
+399,optimus,366,22,366,16,2013-11-07T19:54:57Z,2025-01-19T15:12:42Z,505,A Ring middleware for frontend performance optimization.,Clojure,https://github.com/magnars/optimus
+400,bayadera,365,23,365,4,2013-07-02T17:22:45Z,2020-09-10T11:09:54Z,1045,High-performance Bayesian Data Analysis on the GPU in Clojure,Clojure,https://github.com/uncomplicate/bayadera
+401,bouncer,364,38,364,10,2013-01-04T06:07:37Z,2021-07-12T03:10:36Z,450,A validation DSL for Clojure & Clojurescript applications,Clojure,https://github.com/theleoborges/bouncer
+402,RxClojure,363,40,363,6,2014-08-19T03:45:43Z,2020-02-22T07:03:09Z,9513,RxJava bindings for Clojure,Clojure,https://github.com/ReactiveX/RxClojure
+403,tools.trace,362,36,362,0,2011-09-13T12:40:57Z,2024-07-15T17:54:51Z,154,1.3 update of clojure.contrib.trace,Clojure,https://github.com/clojure/tools.trace
+404,specmonstah,360,18,360,10,2016-12-09T14:20:16Z,2023-09-14T18:21:02Z,4740,Specmonstah will eat the face off your test fixtures,Clojure,https://github.com/reifyhealth/specmonstah
+405,congomongo,359,77,359,5,2009-10-24T06:59:14Z,2023-05-03T07:39:58Z,5721,Clojure wrapper for the mongo-db java api,Clojure,https://github.com/congomongo/congomongo
+406,robert-hooke,359,24,359,9,2010-06-11T05:22:58Z,2020-07-27T15:41:19Z,46,Hooke your Clojure functions!,Clojure,https://github.com/technomancy/robert-hooke
+407,compliment,358,38,358,9,2013-08-06T23:03:07Z,2025-03-27T21:11:23Z,2232,Clojure completion library that you deserve,Clojure,https://github.com/alexander-yakushev/compliment
+408,langohr,358,46,358,12,2011-07-24T12:37:33Z,2025-03-10T16:38:58Z,1618,"A small, feature complete Clojure client for RabbitMQ that embraces the AMQP 0.9.1 model",Clojure,https://github.com/michaelklishin/langohr
+409,cprop,357,25,357,15,2015-03-25T19:03:32Z,2024-03-05T23:47:27Z,246,"likes properties, environments, configs, profiles.. ",Clojure,https://github.com/tolitius/cprop
+410,kee-frame,357,27,357,7,2018-02-15T21:07:20Z,2023-09-20T10:51:41Z,481,re-frame with batteries included,Clojure,https://github.com/ingesolvoll/kee-frame
+411,stream2es,356,60,356,26,2013-01-30T21:08:38Z,2018-10-29T20:46:44Z,312,"Stream data into ES (Wikipedia, Twitter, stdin, or other ESes)",Clojure,https://github.com/elastic/stream2es
+412,learndatalogtoday,356,54,356,21,2013-06-24T14:36:08Z,2023-01-08T08:48:04Z,423,Interactive Datalog Tutorial,Clojure,https://github.com/jonase/learndatalogtoday
+413,slacker,356,28,356,4,2011-11-23T09:33:23Z,2022-04-29T08:04:34Z,804,"Transparent, non-incursive RPC by clojure and for clojure",Clojure,https://github.com/sunng87/slacker
+414,clojure-web-benchmarks,355,18,355,2,2012-12-10T06:34:17Z,2023-09-28T15:36:59Z,9728,Clojure web benchmarks,Clojure,https://github.com/taoensso/clojure-web-benchmarks
+415,penumbra,355,42,355,1,2009-06-23T06:39:10Z,2016-07-02T23:57:28Z,979,not under active development - idiomatic opengl bindings for clojure,Clojure,https://github.com/ztellman/penumbra
+416,math.combinatorics,354,31,354,0,2011-07-29T15:26:54Z,2024-07-15T17:55:02Z,195,"Efficient, functional algorithms for generating lazy sequences for common combinatorial functions",Clojure,https://github.com/clojure/math.combinatorics
+417,usermanager-example,352,42,352,0,2019-04-25T21:40:48Z,2024-12-15T18:38:07Z,17812,"A little demo web app in Clojure, using Component, Ring, Compojure, Selmer (and a database)",Clojure,https://github.com/seancorfield/usermanager-example
+418,yetibot,351,62,351,306,2011-12-14T03:44:00Z,2025-03-11T16:03:05Z,2259,"🤖 Extreme chatops bot for Slack, Discord, Mattermost, IRC 🔧 New contributors welcome 🏗",Clojure,https://github.com/yetibot/yetibot
+419,perun,351,38,351,27,2015-05-22T18:51:09Z,2024-01-06T21:13:01Z,7249,Programmable static site generator built with Clojure and Boot (HELP NEEDED!),Clojure,https://github.com/hashobject/perun
+420,tentacles,351,111,351,11,2011-11-18T07:02:18Z,2020-07-02T20:06:53Z,324,An Octocat is nothing without his tentacles,Clojure,https://github.com/Raynes/tentacles
+421,cljs-oops,351,13,351,5,2016-09-02T17:15:38Z,2022-03-05T20:00:18Z,743,ClojureScript macros for convenient native Javascript object access.,Clojure,https://github.com/binaryage/cljs-oops
+422,stasis,351,27,351,4,2014-01-09T19:45:33Z,2024-05-30T08:58:29Z,277,Some Clojure functions for creating static websites.,Clojure,https://github.com/magnars/stasis
+423,schism,350,6,350,3,2018-01-09T00:00:13Z,2021-07-23T16:48:58Z,123,CRDTs in Clojure(Script) with EDN Serialization,Clojure,https://github.com/aredington/schism
+424,ring-defaults,348,29,348,1,2014-06-05T15:34:08Z,2025-01-24T17:47:47Z,94,A library to provide sensible Ring middleware defaults,Clojure,https://github.com/ring-clojure/ring-defaults
+425,asami,347,10,347,14,2018-05-01T21:14:38Z,2024-09-26T07:53:03Z,34312,"A flexible graph store, written in Clojure",Clojure,https://github.com/quoll/asami
+426,music-as-data,346,22,346,2,2011-02-16T09:15:48Z,2012-10-02T13:12:49Z,26520,A Live Programming language for music,Clojure,https://github.com/jonromero/music-as-data
+427,Common-Metadata-Repository,346,99,346,12,2016-11-29T20:41:30Z,2025-03-27T21:03:38Z,60602,,Clojure,https://github.com/nasa/Common-Metadata-Repository
+428,db,345,23,345,53,2020-10-19T21:06:38Z,2025-03-28T01:31:10Z,13227,Fluree database library,Clojure,https://github.com/fluree/db
+429,scittle,345,31,345,3,2021-05-23T09:17:05Z,2025-03-15T10:07:38Z,4691,Execute Clojure(Script) directly from browser script tags via SCI,Clojure,https://github.com/babashka/scittle
+430,state-flow,345,15,345,6,2018-06-18T23:27:41Z,2025-03-20T21:55:36Z,496,Integration testing framework using a state monad in the backend for building and composing flows,Clojure,https://github.com/nubank/state-flow
+431,dtype-next,344,22,344,10,2020-08-21T13:45:09Z,2025-03-04T19:40:18Z,4257,A Clojure library designed to aid in the implementation of high performance algorithms and systems.,Clojure,https://github.com/cnuernber/dtype-next
+432,metrics-clojure,344,82,344,12,2011-11-01T00:41:17Z,2024-06-24T15:28:44Z,447,A thin façade around Coda Hale's metrics library.,Clojure,https://github.com/clj-commons/metrics-clojure
+433,holy-lambda,342,20,342,11,2019-03-29T19:38:44Z,2024-04-23T14:45:26Z,206202,"The extraordinary simple, performant, and extensible custom AWS Lambda runtime for Clojure. ",Clojure,https://github.com/FieryCod/holy-lambda
+434,cljs-time,342,58,342,34,2013-08-28T13:44:13Z,2021-02-02T15:59:08Z,2468,A clj-time inspired date library for clojurescript.,Clojure,https://github.com/andrewmcveigh/cljs-time
+435,appengine-magic,340,49,340,18,2010-06-03T17:20:43Z,2023-10-18T04:53:52Z,597,A library designed to make it easy to use Google App Engine from Clojure,Clojure,https://github.com/gcv/appengine-magic
+436,simulant,339,30,339,6,2012-10-27T12:57:34Z,2024-07-15T18:11:10Z,138,,Clojure,https://github.com/Datomic/simulant
+437,reply,339,43,339,22,2011-11-13T02:09:21Z,2021-09-02T13:19:39Z,484,"REPL-y: A fitter, happier, more productive REPL for Clojure.",Clojure,https://github.com/trptcolin/reply
+438,loco,338,16,338,6,2014-01-03T01:03:47Z,2023-03-01T06:02:30Z,154,A Constraint Programming library for Clojure,Clojure,https://github.com/aengelberg/loco
+439,diehard,338,27,338,6,2016-06-25T08:28:00Z,2024-10-09T21:40:19Z,434,"Clojure resilience library for flexible retry, circuit breaker and rate limiter",Clojure,https://github.com/sunng87/diehard
+440,Cook,338,63,338,129,2015-09-11T18:20:08Z,2023-04-24T19:14:38Z,90626,Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark,Clojure,https://github.com/twosigma/Cook
+441,Clojush,332,93,332,53,2010-04-18T19:45:50Z,2023-05-06T17:03:52Z,21674,The Push programming language and the PushGP genetic programming system implemented in Clojure.,Clojure,https://github.com/lspector/Clojush
+442,org-parser,332,16,332,13,2019-10-31T20:36:56Z,2024-04-08T16:36:57Z,418,org-parser is a parser for the Org mode markup language for Emacs.,Clojure,https://github.com/200ok-ch/org-parser
+443,regal,332,15,332,5,2020-02-11T16:47:50Z,2024-04-16T08:08:58Z,224,Royally reified regular expressions,Clojure,https://github.com/lambdaisland/regal
+444,replikativ,330,12,330,4,2015-08-30T14:02:33Z,2018-03-05T00:13:29Z,10731,"An open, scalable and distributive infrastructure for a data-driven community of applications.",Clojure,https://github.com/replikativ/replikativ
+445,clj-3df,330,13,330,16,2018-06-06T10:49:13Z,2019-11-08T16:36:09Z,234,Clojure(Script) client for Declarative Dataflow.,Clojure,https://github.com/sixthnormal/clj-3df
+446,orchard,327,54,327,23,2018-01-04T18:44:56Z,2025-03-28T11:03:59Z,1986,A fertile ground for Clojure tooling,Clojure,https://github.com/clojure-emacs/orchard
+447,virgil,326,22,326,5,2015-11-19T05:27:19Z,2025-03-27T21:35:22Z,561,Recompile Java code without restarting the REPL,Clojure,https://github.com/clj-commons/virgil
+448,bosquet,325,23,325,5,2023-01-01T17:03:29Z,2025-03-28T04:41:35Z,2665,"Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications.",Clojure,https://github.com/zmedelis/bosquet
+449,doo,325,63,325,54,2015-05-10T14:42:47Z,2025-03-08T17:06:16Z,839,doo is a library and lein plugin to run cljs.test on different js environments.,Clojure,https://github.com/bensu/doo
+450,keechma,325,11,325,10,2016-02-06T10:44:32Z,2022-12-06T14:34:53Z,838,Micro frontend framework for ClojureScript and Reagent,Clojure,https://github.com/keechma/keechma
+451,datsync,323,18,323,6,2016-02-03T22:34:46Z,2021-12-22T23:00:45Z,3576,Datomic <-> DataScript syncing/replication utilities,Clojure,https://github.com/metasoarous/datsync
+452,weasel,323,35,323,10,2014-01-26T10:19:54Z,2020-05-08T09:53:51Z,114,ClojureScript browser REPL using WebSockets,Clojure,https://github.com/nrepl/weasel
+453,transit-cljs,323,21,323,12,2014-05-22T15:31:54Z,2024-07-15T19:49:11Z,258,Transit for ClojureScript,Clojure,https://github.com/cognitect/transit-cljs
+454,scad-clj,322,52,322,5,2012-12-10T05:18:49Z,2020-03-18T22:05:32Z,11817,OpenSCAD DSL in Clojure,Clojure,https://github.com/farrellm/scad-clj
+455,muse,322,16,322,3,2015-06-08T20:06:05Z,2018-08-13T13:58:30Z,147,Clojure library that makes remote data access code elegant and efficient at the same time,Clojure,https://github.com/kachayev/muse
+456,clostache,321,61,321,22,2010-10-16T12:21:24Z,2022-03-10T10:11:45Z,196,{{ mustache }} for Clojure,Clojure,https://github.com/fhd/clostache
+457,tablecloth,321,27,321,44,2020-06-15T11:00:12Z,2025-02-17T09:13:56Z,29255,Dataset manipulation library built on the top of tech.ml.dataset,Clojure,https://github.com/scicloj/tablecloth
+458,Excel-REPL,321,16,321,2,2015-01-31T14:30:42Z,2019-07-23T00:41:20Z,6871,Clojure Development Environment for Excel,Clojure,https://github.com/whamtet/Excel-REPL
+459,coffi,319,9,319,4,2021-09-14T20:06:51Z,2025-03-03T21:05:53Z,609,A Foreign Function Interface in Clojure for JDK 22+.,Clojure,https://github.com/IGJoshua/coffi
+460,misaki,319,32,319,10,2012-03-20T15:33:33Z,2014-12-10T21:44:29Z,3990,Jekyll inspired static site generator in Clojure,Clojure,https://github.com/liquidz/misaki
+461,islaclj,319,11,319,2,2012-06-05T19:39:24Z,2014-06-23T15:14:46Z,745,A programming language for young children,Clojure,https://github.com/maryrosecook/islaclj
+462,ring-json,318,47,318,12,2012-07-16T12:23:39Z,2021-06-09T19:33:32Z,65,Ring middleware for handling JSON,Clojure,https://github.com/ring-clojure/ring-json
+463,hiphip,318,20,318,1,2013-07-10T01:44:51Z,2023-04-27T18:37:57Z,200,"hiphip (array)! simple, performant array manipulation in Clojure",Clojure,https://github.com/plumatic/hiphip
+464,pyro,318,5,318,8,2015-07-07T19:13:12Z,2018-07-09T14:27:32Z,329,Light up your Clojure stacktraces,Clojure,https://github.com/venantius/pyro
+465,stylefy,317,11,317,13,2017-05-17T15:16:38Z,2024-06-20T20:26:12Z,36477,Clojure(Script) library for styling user interface components with ease.,Clojure,https://github.com/Jarzka/stylefy
+466,lambada,317,22,317,1,2015-06-16T08:12:18Z,2016-11-06T05:00:31Z,19,A more passionate way to write AWS Lambda functions,Clojure,https://github.com/uswitch/lambada
+467,advenjure,317,18,317,37,2016-03-02T19:31:24Z,2017-10-28T22:33:33Z,615,A declarative text adventure engine,Clojure,https://github.com/facundoolano/advenjure
+468,humane-test-output,316,21,316,3,2014-03-26T20:41:07Z,2021-03-16T19:04:43Z,80,Humane test output for clojure.test.,Clojure,https://github.com/pjstadig/humane-test-output
+469,joplin,315,48,315,18,2014-07-17T11:30:32Z,2019-12-18T11:44:16Z,421,Flexible datastore migration and seeding for Clojure projects,Clojure,https://github.com/juxt/joplin
+470,floki,315,7,315,8,2018-12-22T10:23:35Z,2019-06-24T14:54:07Z,92,A JSON/EDN browser for the terminal,Clojure,https://github.com/denisidoro/floki
+471,lein-try,314,13,314,8,2013-07-11T19:26:17Z,2019-04-16T10:43:45Z,308,A Leiningen plugin for trying out new libraries,Clojure,https://github.com/avescodes/lein-try
+472,tongue,314,20,314,6,2016-07-05T11:49:07Z,2024-05-23T15:37:45Z,114,Do-it-yourself i18n library for Clojure/Script,Clojure,https://github.com/tonsky/tongue
+473,expresso,314,20,314,8,2013-03-11T02:01:34Z,2024-01-03T17:39:33Z,682,Clojure library for symbolic computation,Clojure,https://github.com/clojure-numerics/expresso
+474,truss,313,14,313,1,2015-11-05T04:44:50Z,2025-03-03T09:59:06Z,665,Micro toolkit for Clojure/Script errors,Clojure,https://github.com/taoensso/truss
+475,uberdeps,313,26,313,0,2019-04-29T18:25:03Z,2024-08-06T13:24:57Z,71,Uberjar builder for deps.edn,Clojure,https://github.com/tonsky/uberdeps
+476,cljs-bean,313,10,313,10,2019-06-08T12:05:05Z,2022-11-19T17:57:31Z,132,Efficient JavaScript object interop via idiomatic ClojureScript,Clojure,https://github.com/mfikes/cljs-bean
+477,ripley,313,10,313,5,2020-05-21T14:19:25Z,2024-04-03T12:57:24Z,354,Server rendered UIs over WebSockets,Clojure,https://github.com/tatut/ripley
+478,BODOL,312,13,312,2,2013-04-19T17:54:44Z,2017-04-17T19:25:45Z,327,The common BODil Oriented Language,Clojure,https://github.com/bodil/BODOL
+479,om-tutorial,312,47,312,4,2015-11-18T21:54:59Z,2017-02-20T08:31:53Z,1693,WORK IN PROGRESS,Clojure,https://github.com/awkay/om-tutorial
+480,cljs-lambda,310,34,310,16,2015-07-03T18:59:42Z,2019-05-09T03:56:12Z,192,Utilities around deploying Clojurescript functions to AWS Lambda,Clojure,https://github.com/nervous-systems/cljs-lambda
+481,methodical,309,20,309,43,2019-08-15T02:03:45Z,2025-02-20T00:00:12Z,1175,"Functional and flexible multimethods for Clojure. Nondestructive multimethod construction, CLOS-style aux methods and method combinations,  partial-default dispatch, easy next-method invocation, helpful debugging tools, and more.",Clojure,https://github.com/camsaul/methodical
+482,spec-alpha2,309,27,309,2,2018-10-22T14:30:12Z,2024-07-15T17:55:13Z,558,Clojure library to describe the structure of data and functions,Clojure,https://github.com/clojure/spec-alpha2
+483,cuerdas,309,30,309,5,2014-12-08T14:28:32Z,2023-11-08T23:08:48Z,1047,String manipulation library for Clojure(Script),Clojure,https://github.com/funcool/cuerdas
+484,geo,308,17,308,6,2014-10-21T21:01:34Z,2024-04-09T14:40:56Z,468,"Clojure library for working with geohashes, polygons, and other world geometry",Clojure,https://github.com/Factual/geo
+485,expo-cljs-template,308,33,308,4,2016-09-26T13:07:03Z,2022-11-07T00:09:16Z,278,Expo template for Clojurescript React Native,Clojure,https://github.com/seantempesta/expo-cljs-template
+486,px3d,308,11,308,2,2019-07-24T08:56:47Z,2020-03-01T09:47:26Z,4506,Experimental pixel 3d engine,Clojure,https://github.com/infinitelives/px3d
+487,gamma,306,20,306,22,2014-11-27T05:52:00Z,2017-01-16T17:53:00Z,1638,glsl shaders made simple,Clojure,https://github.com/kovasb/gamma
+488,spire,306,17,306,49,2019-11-14T16:21:01Z,2022-11-22T13:59:09Z,1409,pragmatic provisioning using clojure,Clojure,https://github.com/epiccastle/spire
+489,clj-memory-meter,306,11,306,0,2018-03-05T10:23:05Z,2025-03-27T21:14:17Z,174,Measure object memory consumption in Clojure,Clojure,https://github.com/clojure-goes-fast/clj-memory-meter
+490,kerodon,305,22,305,13,2012-02-21T03:19:22Z,2023-11-15T04:25:00Z,163,interaction and testing library for html based ring apps.,Clojure,https://github.com/xeqi/kerodon
+491,cljstyle,305,39,305,21,2017-01-13T19:23:04Z,2024-12-15T05:27:54Z,774,A tool for formatting Clojure code,Clojure,https://github.com/greglook/cljstyle
+492,deep-diff2,305,18,305,6,2018-10-30T16:00:06Z,2025-02-11T14:43:08Z,544,Deep diff Clojure data structures and pretty print the result,Clojure,https://github.com/lambdaisland/deep-diff2
+493,imagez,303,36,303,11,2013-05-15T03:05:57Z,2022-10-02T10:39:39Z,492,Image processing library for Clojure,Clojure,https://github.com/mikera/imagez
+494,more-speech,303,35,303,6,2022-01-18T19:02:02Z,2024-02-06T18:18:06Z,8045,A Nostr browser in Clojure.  ,Clojure,https://github.com/unclebob/more-speech
+495,puppetdb,303,227,303,27,2011-08-11T18:54:46Z,2025-02-04T02:04:22Z,29137,Centralized Puppet Storage,Clojure,https://github.com/puppetlabs/puppetdb
+496,create-cljs-app,302,18,302,45,2019-10-15T20:55:18Z,2023-01-01T06:03:14Z,456,Set up a modern CLJS web app by running one command.,Clojure,https://github.com/filipesilva/create-cljs-app
+497,clj-org-analyzer,301,21,301,8,2019-07-24T17:53:32Z,2021-12-06T12:50:31Z,27097,Fun with org data,Clojure,https://github.com/rksm/clj-org-analyzer
+498,konserve,301,25,301,19,2015-08-30T14:11:56Z,2024-12-30T19:29:55Z,1924,A clojuresque key-value/document store protocol with core.async. ,Clojure,https://github.com/replikativ/konserve
+499,skuld,300,13,300,19,2013-07-29T21:38:55Z,2015-01-05T20:49:25Z,1286,Distributed task tracking system.,Clojure,https://github.com/Factual/skuld
+500,dali,299,18,299,14,2012-08-24T22:55:15Z,2023-05-04T08:28:23Z,1374,"dali is a Clojure library for representing, exporting and manipulating the SVG graphics format.",Clojure,https://github.com/stathissideris/dali
+501,lein-exec,299,16,299,3,2011-07-15T19:25:14Z,2017-11-02T13:30:32Z,42,Leiningen plugin for executing Clojure scripts,Clojure,https://github.com/kumarshantanu/lein-exec
+502,puppetserver,298,238,298,18,2014-05-07T19:00:24Z,2025-02-21T16:01:11Z,11297,Server automation framework and application,Clojure,https://github.com/puppetlabs/puppetserver
+503,sitefox,297,8,297,16,2021-09-28T14:27:36Z,2025-01-13T13:09:04Z,494,Node + cljs backend web framework,Clojure,https://github.com/chr15m/sitefox
+504,buddy-auth,297,69,297,9,2014-12-27T15:13:24Z,2022-01-26T21:27:04Z,756,Authentication and Authorization facilities for ring and ring based web applications.,Clojure,https://github.com/funcool/buddy-auth
+505,block-the-eu-cookie-shit-list,295,38,295,1,2012-08-02T14:37:18Z,2021-02-02T16:26:15Z,11531,Adblock / Adblock plus filter list for blocking cookie notifications,Clojure,https://github.com/r4vi/block-the-eu-cookie-shit-list
+506,at-at,294,37,294,1,2011-08-10T13:48:26Z,2024-10-19T19:26:43Z,70,Ahead-of-time function scheduler,Clojure,https://github.com/overtone/at-at
+507,lein-npm,294,43,294,10,2012-12-23T20:33:42Z,2020-10-29T23:48:29Z,74,Manage Node dependencies for CLJS projects,Clojure,https://github.com/RyanMcG/lein-npm
+508,riemann-jvm-profiler,293,19,293,2,2014-05-28T20:31:20Z,2024-09-03T21:36:49Z,130,Sends stacktrace-level performance data from a JVM process to Riemann.,Clojure,https://github.com/riemann/riemann-jvm-profiler
+509,replicant,292,12,292,2,2023-11-05T17:26:16Z,2025-03-27T22:21:28Z,466,A data-driven rendering library for Clojure(Script) that renders hiccup to DOM or to strings.,Clojure,https://github.com/cjohansen/replicant
+510,test-runner,292,33,292,8,2018-02-09T16:08:25Z,2024-11-19T22:32:43Z,58,A test runner for clojure.test,Clojure,https://github.com/cognitect-labs/test-runner
+511,geni,292,27,292,17,2020-04-18T10:46:14Z,2023-11-28T17:22:38Z,1953,A Clojure dataframe library that runs on Spark,Clojure,https://github.com/zero-one-group/geni
+512,meuse,290,12,290,9,2019-04-20T22:21:45Z,2023-06-04T16:01:37Z,8513,"A private Cargo crate registry, for Rust",Clojure,https://github.com/mcorbin/meuse
+513,goose,290,11,290,19,2022-04-07T06:17:54Z,2025-02-24T06:49:26Z,2049,A powerful background job processing library for Clojure,Clojure,https://github.com/nilenso/goose
+514,graphqlize,290,20,290,24,2020-01-15T08:52:25Z,2020-11-08T10:32:17Z,59,A Clojure & JVM library for developing GraphQL API instantly from Postgres and MySQL databases,Clojure,https://github.com/graphqlize/graphqlize
+515,play-cljs,290,15,290,5,2016-07-26T15:38:17Z,2020-02-21T21:03:01Z,5648,A ClojureScript game library,Clojure,https://github.com/oakes/play-cljs
+516,carve,290,17,290,4,2019-12-30T20:28:56Z,2025-03-17T19:39:46Z,497,Remove unused Clojure vars,Clojure,https://github.com/borkdude/carve
+517,conformity,289,50,289,8,2012-10-27T00:01:08Z,2023-05-18T07:38:21Z,87,"A Clojure/Datomic library for idempotently transacting norms into your database – be they schema, data, or otherwise",Clojure,https://github.com/avescodes/conformity
+518,rcf,288,12,288,38,2020-09-24T19:34:55Z,2023-10-31T19:57:45Z,1276,"RCF – a REPL-first, async test macro for Clojure/Script",Clojure,https://github.com/hyperfiddle/rcf
+519,throttler,287,27,287,10,2014-03-30T19:02:32Z,2022-01-20T13:36:55Z,98,Control the throughput of function calls and core.async channels,Clojure,https://github.com/brunoV/throttler
+520,phrase,287,8,287,10,2017-09-14T09:11:10Z,2020-04-29T17:41:43Z,51,Clojure(Script) library for phrasing spec problems.,Clojure,https://github.com/alexanderkiel/phrase
+521,flare,286,18,286,1,2017-08-27T01:12:26Z,2019-06-28T00:23:03Z,328,"Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)",Clojure,https://github.com/aria42/flare
+522,better-cond,286,11,286,6,2016-06-28T08:16:28Z,2022-07-07T05:34:06Z,69,"A version of cond that supports :let clauses, and a number of other conveniences.",Clojure,https://github.com/Engelberg/better-cond
+523,graphql-clj,285,22,285,11,2016-07-26T18:03:42Z,2020-12-19T06:57:52Z,914,A Clojure library that provides GraphQL implementation.,Clojure,https://github.com/tendant/graphql-clj
+524,simple-check,285,18,285,0,2013-05-09T20:17:41Z,2014-02-28T23:40:25Z,1332,QuickCheck for Clojure,Clojure,https://github.com/reiddraper/simple-check
+525,clojurem,284,9,284,1,2012-07-25T04:27:15Z,2014-02-14T03:31:17Z,1349,Clojure to Objective-C compiler,Clojure,https://github.com/joshaber/clojurem
+526,clojureql,284,39,284,19,2008-12-15T18:25:14Z,2018-02-12T21:35:02Z,408,ClojureQL is superior SQL integration for Clojure,Clojure,https://github.com/LauJensen/clojureql
+527,dactyl-manuform-mini-keyboard,282,277,282,3,2018-04-20T22:57:02Z,2023-12-30T16:42:18Z,76001,,Clojure,https://github.com/l4u/dactyl-manuform-mini-keyboard
+528,juxt-accounting,282,20,282,1,2013-06-19T22:35:44Z,2015-04-23T06:21:05Z,579,Double-entry accounting software written in Clojure with Datomic.,Clojure,https://github.com/juxt/juxt-accounting
+529,hodur-engine,282,13,282,10,2018-07-27T19:08:07Z,2022-01-08T00:29:22Z,324,"Hodur is a domain modeling approach and collection of libraries to Clojure.  By using Hodur you can define your domain model as data, parse and validate it, and then either consume your model via an API or use one of the many plugins to help you achieve mechanical results faster and in a purely functional manner.",Clojure,https://github.com/hodur-org/hodur-engine
+530,rvbbit,282,13,282,5,2024-03-12T14:59:03Z,2025-01-04T17:00:56Z,409455,Reactive Data Board & Visual Flow Platform,Clojure,https://github.com/ryrobes/rvbbit
+531,clisk,281,13,281,5,2012-05-15T06:48:02Z,2017-12-02T06:29:42Z,590,The Clojure Image Synthesis Kit,Clojure,https://github.com/mikera/clisk
+532,nvd-clojure,281,40,281,7,2016-07-28T22:47:18Z,2025-03-27T07:39:21Z,480270,National Vulnerability Database dependency checker for Clojure projects,Clojure,https://github.com/rm-hull/nvd-clojure
+533,ring-jetty9-adapter,280,50,280,6,2013-04-20T02:55:58Z,2025-03-24T17:13:17Z,606,"An enhanced version of jetty adapter for ring, with additional features like websockets, http/2 and http/3",Clojure,https://github.com/sunng87/ring-jetty9-adapter
+534,pithos,280,44,280,12,2013-09-27T15:21:52Z,2018-10-01T06:03:23Z,3486,UNMAINTAINED - cassandra-backed object store. Retired backend for Exoscale's Simple Object Storage offering.,Clojure,https://github.com/exoscale/pithos
+535,no.disassemble,280,13,280,11,2013-03-30T02:36:54Z,2015-02-06T00:17:08Z,223,,Clojure,https://github.com/gtrak/no.disassemble
+536,clojurecl,280,18,280,2,2015-06-11T23:15:10Z,2024-05-16T11:19:57Z,895,ClojureCL is a Clojure library for parallel computations with OpenCL.,Clojure,https://github.com/uncomplicate/clojurecl
+537,luno-react-native,280,33,280,1,2016-01-25T19:10:13Z,2016-06-21T22:18:18Z,7765,Cross-platform React Native application written in ClojureScript,Clojure,https://github.com/alwx/luno-react-native
+538,jagrid,279,6,279,0,2014-04-16T09:42:15Z,2018-05-09T07:13:15Z,401,Japanese-styled grid framework.,Clojure,https://github.com/kawasima/jagrid
+539,encore,279,55,279,1,2014-02-23T06:37:12Z,2025-03-27T14:47:18Z,3324,Core utils library for Clojure/Script,Clojure,https://github.com/taoensso/encore
+540,tower,279,24,279,11,2012-06-09T10:58:53Z,2024-03-19T14:27:07Z,651,i18n & L10n library for Clojure/Script,Clojure,https://github.com/taoensso/tower
+541,data.csv,278,54,278,0,2011-08-23T23:55:24Z,2024-07-15T17:55:23Z,80,CSV reader/writer to/from Clojure data structures,Clojure,https://github.com/clojure/data.csv
+542,charred,278,12,278,3,2022-04-10T19:32:57Z,2025-01-21T15:59:24Z,213,zero dependency efficient read/write of json and csv data.,Clojure,https://github.com/cnuernber/charred
+543,Conjure,278,14,278,2,2009-06-01T15:35:35Z,2012-11-01T21:03:52Z,32038,A Rails like framework for Clojure.,Clojure,https://github.com/macourtney/Conjure
+544,clojure-jna,277,15,277,4,2009-05-10T02:48:24Z,2014-11-25T21:14:07Z,190,Dynamically load and use native C libs from Clojure using JNA,Clojure,https://github.com/Chouser/clojure-jna
+545,datawalk,277,2,277,1,2017-10-22T12:40:45Z,2018-07-20T18:21:06Z,1559,Interactively explore complex data structures at the REPL with minimum keystrokes,Clojure,https://github.com/eggsyntax/datawalk
+546,clojurescript-koans,277,35,277,13,2013-11-05T21:58:18Z,2022-10-18T19:58:13Z,4003,A ClojureScript adaptation of the Clojure koans that runs purely in-browser,Clojure,https://github.com/lazerwalker/clojurescript-koans
+547,Lightmod,275,13,275,4,2017-10-24T21:44:32Z,2019-12-28T17:37:15Z,13187,An all-in-one tool for full stack Clojure,Clojure,https://github.com/oakes/Lightmod
+548,VisualReview,275,24,275,10,2015-01-30T14:12:27Z,2020-02-10T20:58:02Z,2581,"VisualReview, a human-friendly tool for testing and reviewing visual regressions.",Clojure,https://github.com/xebia/VisualReview
+549,liz,275,2,275,0,2020-11-28T11:30:32Z,2021-10-02T12:30:44Z,397,Lisp-flavored general-purpose programming language (based on Zig),Clojure,https://github.com/dundalek/liz
+550,es2unix,273,30,273,9,2013-01-09T23:42:51Z,2023-06-20T23:12:46Z,164,Command-line ES,Clojure,https://github.com/elastic/es2unix
+551,citrus,273,21,273,13,2017-02-08T20:37:04Z,2022-12-07T21:18:50Z,681,State management library for Rum,Clojure,https://github.com/clj-commons/citrus
+552,clj-java-decompiler,273,8,273,2,2018-01-29T07:52:22Z,2025-03-27T21:13:52Z,41,REPL-integrated Clojure-to-Java decompiler,Clojure,https://github.com/clojure-goes-fast/clj-java-decompiler
+553,t3tr0s-slides,273,16,273,0,2014-09-01T02:27:52Z,2016-09-15T05:41:30Z,3185,interactive guide to tetris in cljs,Clojure,https://github.com/shaunlebron/t3tr0s-slides
+554,clj-oauth,273,52,273,6,2009-07-20T23:22:24Z,2022-07-15T08:27:08Z,4665,OAuth Consumer support for Clojure,Clojure,https://github.com/drone29a/clj-oauth
+555,clj.native-image,272,20,272,3,2018-05-25T17:55:03Z,2021-08-07T12:27:34Z,30,Build GraalVM native images with Clojure Deps and CLI tools,Clojure,https://github.com/taylorwood/clj.native-image
+556,harmonikit,272,27,272,1,2013-11-09T23:59:06Z,2013-11-27T02:55:34Z,274,An additive synth for Clojure and overtone,Clojure,https://github.com/richhickey/harmonikit
+557,core.memoize,270,38,270,0,2011-11-22T20:16:34Z,2024-10-04T22:47:11Z,290,"A manipulable, pluggable, memoization framework for Clojure",Clojure,https://github.com/clojure/core.memoize
+558,clj-stacktrace,270,25,270,9,2009-07-12T14:11:36Z,2015-01-23T12:41:43Z,230,More readable stacktraces for Clojure,Clojure,https://github.com/mmcgrana/clj-stacktrace
+559,shadow-grove,270,7,270,4,2022-07-09T07:58:58Z,2025-03-19T19:59:45Z,1694,A ClojureScript system to build browser based frontends,Clojure,https://github.com/thheller/shadow-grove
+560,clj-debugger,268,11,268,2,2014-11-01T16:30:39Z,2018-06-07T13:46:10Z,70,The missing tool,Clojure,https://github.com/razum2um/clj-debugger
+561,om-bootstrap,268,36,268,13,2014-07-18T15:13:39Z,2016-06-01T00:39:05Z,420,Bootstrap 3 Components built with Om.,Clojure,https://github.com/racehub/om-bootstrap
+562,http.async.client,267,40,267,7,2010-07-07T23:24:24Z,2022-10-31T05:21:12Z,1395,Async Http Client - Clojure,Clojure,https://github.com/cch1/http.async.client
+563,open-registry,267,6,267,31,2019-04-11T13:30:58Z,2022-05-26T22:36:15Z,11405,Community Owned JavaScript Registry,Clojure,https://github.com/open-services/open-registry
+564,deps.clj,267,22,267,3,2019-12-25T12:44:11Z,2025-03-06T11:58:12Z,688,A faithful port of the clojure CLI bash script to Clojure,Clojure,https://github.com/borkdude/deps.clj
+565,publish-spa,266,14,266,13,2023-04-12T19:38:52Z,2024-10-31T18:18:11Z,89127,A github action and CLI to publish logseq graphs as a SPA app,Clojure,https://github.com/logseq/publish-spa
+566,lobos,266,56,266,35,2010-12-21T23:12:45Z,2016-11-18T20:46:11Z,2236,A library to create and manipulate SQL database schemas with migrations support.,Clojure,https://github.com/budu/lobos
+567,mjolnir,265,14,265,11,2013-03-05T03:47:10Z,2013-05-16T22:09:36Z,433,,Clojure,https://github.com/halgari/mjolnir
+568,memory-hole,264,24,264,5,2016-08-14T15:43:19Z,2020-05-30T16:05:43Z,2036,Memory Hole is a support issue organizer application,Clojure,https://github.com/yogthos/memory-hole
+569,clj-fuzzy,264,26,264,5,2014-01-09T13:31:52Z,2023-06-19T05:27:27Z,780,A handy collection of algorithms dealing with fuzzy strings and phonetics.,Clojure,https://github.com/Yomguithereal/clj-fuzzy
+570,engulf,263,14,263,4,2011-05-10T10:36:00Z,2018-07-03T18:39:41Z,1383,"Distributed HTTP load tester, written in Clojure and Javascript.  ",Clojure,https://github.com/andrewvc/engulf
+571,reduce-fsm,263,15,263,4,2011-09-24T06:06:55Z,2024-10-02T01:13:58Z,146,A clojure finite state machine library,Clojure,https://github.com/cdorrat/reduce-fsm
+572,portfolio,263,18,263,5,2022-10-25T14:26:59Z,2025-01-29T20:58:42Z,1122,Component-driven development for Clojure,Clojure,https://github.com/cjohansen/portfolio
+573,pegasus,262,17,262,8,2015-09-30T17:24:12Z,2018-08-25T04:17:02Z,392,":racehorse:✈️  Pegasus is a scalable, modular, polite web-crawler for Clojure",Clojure,https://github.com/shriphani/pegasus
+574,spandex,262,31,262,2,2016-12-15T10:50:11Z,2024-05-29T11:02:13Z,264,Elasticsearch client for Clojure (built on new ES 8.x java client),Clojure,https://github.com/mpenet/spandex
+575,tools.analyzer,262,33,262,0,2013-10-04T13:41:24Z,2024-07-15T17:55:45Z,1656,"An analyzer for Clojure code, written in Clojure and producing AST in EDN",Clojure,https://github.com/clojure/tools.analyzer
+576,tempura,262,17,262,3,2016-01-24T05:38:39Z,2024-06-05T10:25:30Z,144,Simple text localization library for Clojure/Script,Clojure,https://github.com/taoensso/tempura
+577,ordered,261,40,261,10,2011-06-20T17:43:45Z,2025-03-20T12:40:47Z,214,"Ordered sets and maps, implemented in pure clojure",Clojure,https://github.com/clj-commons/ordered
+578,moustache,261,9,261,5,2009-05-11T09:10:44Z,2013-03-01T15:29:35Z,159,a micro web framework/internal DSL to wire Ring handlers and middlewares,Clojure,https://github.com/cgrand/moustache
+579,simpleui,260,15,260,5,2020-12-21T00:08:51Z,2025-02-13T05:00:54Z,2477,JS Free Single Page Applications,Clojure,https://github.com/whamtet/simpleui
+580,re-frame-http-fx,259,25,259,8,2016-07-15T04:38:04Z,2022-01-10T12:17:40Z,257,"A re-frame ""effects handler"" for performing Ajax tasks (via cljs-ajax)",Clojure,https://github.com/day8/re-frame-http-fx
+581,depot,259,14,259,4,2018-03-21T22:34:14Z,2021-05-01T14:59:15Z,229,Find newer versions of your dependencies in your deps.edn file,Clojure,https://github.com/Olical/depot
+582,transcriptor,259,8,259,1,2017-09-26T01:25:15Z,2024-07-15T17:48:08Z,5,Convert REPL interactions into example-based tests.,Clojure,https://github.com/cognitect-labs/transcriptor
+583,LaTTe,259,13,259,3,2015-03-04T22:01:18Z,2025-03-13T12:14:05Z,720,LaTTe : a Laboratory for Type Theory experiments (in clojure),Clojure,https://github.com/latte-central/LaTTe
+584,antizer,259,46,259,17,2017-06-30T01:27:47Z,2020-08-09T15:34:51Z,3043,ClojureScript library for Ant Design React UI components,Clojure,https://github.com/priornix/antizer
+585,untangled,258,8,258,0,2016-03-01T23:53:43Z,2017-03-02T18:38:54Z,3676,Central public-facing website,Clojure,https://github.com/untangled-web/untangled
+586,tawny-owl,257,55,257,12,2012-12-29T16:06:16Z,2024-11-04T14:33:22Z,4585,Build OWL Ontologies in a Programmatic Environment,Clojure,https://github.com/phillord/tawny-owl
+587,parkour,257,19,257,2,2013-11-04T13:48:41Z,2016-03-23T13:25:13Z,903,Hadoop MapReduce in idiomatic Clojure.,Clojure,https://github.com/damballa/parkour
+588,morse,256,48,256,7,2016-03-23T12:47:59Z,2022-01-30T21:09:14Z,153,📡 Clojure interface for Telegram Bot API,Clojure,https://github.com/Otann/morse
+589,semantic-csv,256,22,256,22,2014-11-09T17:34:48Z,2023-02-15T11:42:50Z,429,Higher level tools for working with CSV data and files,Clojure,https://github.com/metasoarous/semantic-csv
+590,puget,255,28,255,4,2013-11-11T00:58:18Z,2023-01-07T21:24:01Z,405,Canonical Colorizing Clojure Printer,Clojure,https://github.com/greglook/puget
+591,refactor-nrepl,255,69,255,11,2014-07-06T14:00:15Z,2025-03-18T09:11:06Z,1163,nREPL middleware to support refactorings in an editor agnostic way,Clojure,https://github.com/clojure-emacs/refactor-nrepl
+592,clj-jgit,254,56,254,8,2011-05-05T20:01:23Z,2024-08-22T22:18:47Z,522,Clojure wrapper around JGit,Clojure,https://github.com/clj-jgit/clj-jgit
+593,alembic,254,13,254,7,2013-04-28T21:13:24Z,2017-04-08T10:21:29Z,582,A library for distilling (resolving and adding to the classpath) dependencies,Clojure,https://github.com/pallet/alembic
+594,clj-uuid,253,27,253,5,2013-10-03T13:55:33Z,2024-10-15T14:43:45Z,1394,"RFC9562 Unique Identifiers (v1,v3,v4,v5,v6,v7,v8,squuid) for Clojure",Clojure,https://github.com/danlentz/clj-uuid
+595,wasm.cljc,253,2,253,0,2021-02-23T23:40:26Z,2021-04-15T20:48:49Z,400,"Spec compliant WebAssembly compiler, decompiler, and generator",Clojure,https://github.com/helins/wasm.cljc
+596,herbert,253,6,253,0,2013-04-30T18:07:05Z,2024-08-22T20:37:43Z,551,Clojure library defining a schema for edn values,Clojure,https://github.com/miner/herbert
+597,desktop,251,17,251,8,2023-05-08T19:16:14Z,2025-03-21T00:54:31Z,4908,"A secure password manager for macOS,Linux and Windows platforms",Clojure,https://github.com/OneKeePass/desktop
+598,accountant,251,39,251,5,2015-09-13T05:41:09Z,2023-08-28T15:24:05Z,66,"ClojureScript navigation for single-page applications, made simple.",Clojure,https://github.com/venantius/accountant
+599,reanimated,250,14,250,5,2015-10-18T22:20:22Z,2018-03-16T11:38:04Z,1478,An animation library for Reagent (ClojureScript),Clojure,https://github.com/timothypratley/reanimated
+600,url,250,37,250,19,2012-04-08T21:01:36Z,2020-02-27T16:28:33Z,305,Makes working with URLs in Clojure and ClojureScript easy,Clojure,https://github.com/cemerick/url
+601,fastmath,249,12,249,11,2018-03-07T14:48:45Z,2025-03-27T13:20:31Z,87115,Fast primitive based math library,Clojure,https://github.com/generateme/fastmath
+602,hx,248,16,248,16,2018-06-08T15:02:28Z,2023-11-06T12:45:18Z,669,"A simple, easy to use library for React development in ClojureScript.",Clojure,https://github.com/nosco/hx
+603,racing-game-cljs,247,11,247,0,2021-06-15T14:20:44Z,2021-06-24T07:52:20Z,440,"A 3D racing game built with ClojureScript, React and ThreeJS",Clojure,https://github.com/ertugrulcetin/racing-game-cljs
+604,lein-native-image,247,6,247,0,2018-05-20T12:59:00Z,2022-05-09T22:24:55Z,38,A Leiningen plugin to build GraalVM native images,Clojure,https://github.com/taylorwood/lein-native-image
+605,alia,247,47,247,5,2013-02-12T16:50:27Z,2023-07-28T07:28:41Z,1581,High performance Cassandra client for clojure,Clojure,https://github.com/mpenet/alia
+606,dorothy,247,25,247,7,2011-08-11T03:24:05Z,2020-12-17T04:11:51Z,81,Hiccup-style generation of Graphviz graphs in Clojure,Clojure,https://github.com/daveray/dorothy
+607,mach,245,21,245,24,2016-12-21T17:50:04Z,2018-01-10T20:18:36Z,18228,A remake of make (in ClojureScript),Clojure,https://github.com/juxt/mach
+608,structural-typing,245,9,245,1,2015-05-17T20:49:42Z,2016-09-05T20:27:33Z,1229,"Structural typing for Clojure, somewhat inspired by Elm. Tailored to ""flow-style"" programming, where complex structures flow through a series of functions, each of which makes a smallish change. Can also be used in testing tools and the like that need to describe how a nested structure differs from a description.",Clojure,https://github.com/marick/structural-typing
+609,obb,244,5,244,7,2022-01-02T21:02:35Z,2022-10-23T09:42:51Z,67,Ad-hoc ClojureScript scripting of Mac applications via Apple's Open Scripting Architecture.,Clojure,https://github.com/babashka/obb
+610,uri,244,21,244,5,2017-02-23T10:53:49Z,2024-01-24T06:41:51Z,145,A pure Clojure/ClojureScript URI library,Clojure,https://github.com/lambdaisland/uri
+611,grasp,244,7,244,5,2020-10-28T12:37:45Z,2023-10-04T10:21:19Z,106,Grep Clojure code using clojure.spec regexes,Clojure,https://github.com/borkdude/grasp
+612,4ever-clojure,244,28,244,19,2021-07-05T21:30:07Z,2024-09-27T12:57:05Z,200,"Pure cljs version of 4clojure, meant to run forever!",Clojure,https://github.com/oxalorg/4ever-clojure
+613,trammel,243,8,243,2,2010-04-02T01:03:18Z,2014-07-31T15:09:48Z,386,Contracts programming with Clojure,Clojure,https://github.com/fogus/trammel
+614,clj-fast,243,1,243,10,2019-10-22T10:22:19Z,2022-04-14T08:13:41Z,4610,Unpredictably faster Clojure,Clojure,https://github.com/bsless/clj-fast
+615,enliven,243,7,243,3,2014-01-17T13:24:25Z,2015-06-24T16:18:16Z,560,"Enlive next: faster, better, broader",Clojure,https://github.com/cgrand/enliven
+616,tapestry,243,6,243,0,2020-08-15T19:00:58Z,2025-02-26T16:27:06Z,66,Weave loom fibers into your Clojure,Clojure,https://github.com/teknql/tapestry
+617,seqexp,242,9,242,6,2014-06-19T10:10:14Z,2020-11-12T16:20:41Z,64,Regexp for sequences!,Clojure,https://github.com/cgrand/seqexp
+618,faraday,242,83,242,3,2013-05-21T08:04:54Z,2024-06-01T19:39:27Z,952,Amazon DynamoDB client for Clojure,Clojure,https://github.com/taoensso/faraday
+619,guardrails,242,26,242,1,2019-10-28T14:51:38Z,2025-03-16T17:34:39Z,319,"Efficient, hassle-free function call validation with a concise inline syntax for clojure.spec and Malli",Clojure,https://github.com/fulcrologic/guardrails
+620,meteor-load-test,242,23,242,5,2013-04-13T22:41:01Z,2017-02-17T21:46:30Z,276,Load testing tool for Meteor applications,Clojure,https://github.com/alanning/meteor-load-test
+621,safely,240,9,240,1,2015-09-20T20:22:01Z,2024-11-06T14:39:00Z,1567,Safely is a Clojure's circuit-breaker library for handling retries in an elegant declarative way.,Clojure,https://github.com/BrunoBonacci/safely
+622,tea-time,240,5,240,1,2018-04-03T17:43:37Z,2018-12-20T14:44:09Z,18,Lightweight Clojure task scheduler,Clojure,https://github.com/aphyr/tea-time
+623,flow,240,4,240,1,2018-07-05T14:22:23Z,2024-06-07T11:18:48Z,277,Functional (and opinionated) errors handling in Clojure,Clojure,https://github.com/fmnoise/flow
+624,trombi,239,20,239,2,2014-01-15T18:39:13Z,2024-01-04T08:57:45Z,528,Load testing library for testing stateful apps with Clojure,Clojure,https://github.com/mhjort/trombi
+625,kern,238,15,238,7,2013-01-11T04:20:07Z,2021-05-08T10:17:38Z,253,A Parser Combinators Library for Clojure,Clojure,https://github.com/blancas/kern
+626,clj-statecharts,238,15,238,10,2020-08-25T08:11:37Z,2023-06-17T14:45:11Z,1864,State Machine and StateCharts for Clojure(Script),Clojure,https://github.com/lucywang000/clj-statecharts
+627,clj-reload,238,7,238,3,2024-01-29T19:12:48Z,2025-03-19T23:34:25Z,284,Smarter way to reload Clojure code,Clojure,https://github.com/tonsky/clj-reload
+628,cli,238,19,238,2,2022-06-02T11:24:04Z,2025-03-18T09:44:07Z,320,Turn Clojure functions into CLIs!,Clojure,https://github.com/babashka/cli
+629,causatum,237,8,237,4,2013-08-01T16:09:45Z,2017-10-16T12:44:18Z,33,A Clojure library for generating streams of events based on stochastic state machines.,Clojure,https://github.com/candera/causatum
+630,cljr,237,11,237,10,2010-06-19T19:49:57Z,2010-07-22T21:59:58Z,1047,cljr is a Clojure REPL and package management system.,Clojure,https://github.com/liebke/cljr
+631,webfui,237,19,237,4,2012-11-14T22:29:15Z,2013-01-30T18:40:04Z,3390,Client-Side Web Framework for ClojureScript,Clojure,https://github.com/drcode/webfui
+632,clj-drone,237,21,237,3,2013-01-03T19:15:34Z,2017-04-11T13:39:25Z,7437,Clojure Copter - Control for the AR Parrot Drone,Clojure,https://github.com/gigasquid/clj-drone
+633,clj-ssh,236,66,236,30,2010-03-05T21:29:48Z,2023-12-23T10:27:53Z,494,SSH commands via jsch,Clojure,https://github.com/clj-commons/clj-ssh
+634,cloroutine,236,13,236,12,2018-07-24T14:59:54Z,2024-11-19T09:09:44Z,45,Coroutine support for clojure,Clojure,https://github.com/leonoel/cloroutine
+635,overarch,236,6,236,1,2023-05-07T14:55:00Z,2025-03-28T08:09:33Z,4559,"Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.",Clojure,https://github.com/soulspace-org/overarch
+636,pcp,234,5,234,9,2020-03-21T07:22:50Z,2022-03-12T11:07:05Z,4956,PCP: Clojure Processor -- A Clojure replacement for PHP,Clojure,https://github.com/alekcz/pcp
+637,BotHack,234,24,234,4,2014-03-08T16:16:27Z,2016-09-07T14:24:50Z,27543,BotHack – A Nethack Bot Framework,Clojure,https://github.com/krajj7/BotHack
+638,clip,233,15,233,9,2019-10-12T15:03:37Z,2023-10-28T16:51:08Z,142,Light structure and support for dependency injection,Clojure,https://github.com/juxt/clip
+639,cljs-tui-template,232,9,232,3,2019-01-08T00:15:05Z,2019-03-08T18:34:58Z,983,A leiningen template to generate ClojureScript Terminal-User-Interface applications built on web technologies you already know.,Clojure,https://github.com/jaidetree/cljs-tui-template
+640,pyramid,232,11,232,3,2020-10-29T05:39:43Z,2024-11-15T23:10:33Z,682,A library for storing and querying graph data in Clojure,Clojure,https://github.com/lilactown/pyramid
+641,kalai,232,17,232,2,2019-11-11T23:51:23Z,2023-07-25T15:22:49Z,961,"A source-to-source transpiler to convert Clojure to multiple target languages (Rust, C++, Java, ...)",Clojure,https://github.com/kalai-transpiler/kalai
+642,doxa,232,8,232,10,2021-02-07T19:09:39Z,2023-07-21T13:24:57Z,2289,,Clojure,https://github.com/ribelo/doxa
+643,data.xml,232,69,232,3,2011-03-11T15:05:46Z,2024-07-15T17:56:09Z,592,,Clojure,https://github.com/clojure/data.xml
+644,parsatron,232,23,232,11,2011-02-08T04:26:35Z,2021-02-18T19:12:15Z,72,Clojure parser combinators,Clojure,https://github.com/youngnh/parsatron
+645,datsys,231,25,231,21,2016-03-17T05:08:03Z,2017-12-18T18:33:28Z,5047,(+ clj cljs datomic datascript re-frame-esque-frp),Clojure,https://github.com/metasoarous/datsys
+646,reagi,231,13,231,4,2013-05-12T18:34:52Z,2016-03-04T19:50:04Z,1351,An FRP library for Clojure and ClojureScript,Clojure,https://github.com/weavejester/reagi
+647,clout,231,31,231,2,2009-10-24T20:24:46Z,2018-04-13T19:01:14Z,80,HTTP route-matching library for Clojure,Clojure,https://github.com/weavejester/clout
+648,mimir,230,8,230,0,2012-03-25T19:49:47Z,2024-03-05T10:52:18Z,444,Mímir is an experimental rule engine written in Clojure.,Clojure,https://github.com/hraberg/mimir
+649,unrepl,230,17,230,15,2017-03-02T11:48:00Z,2019-05-28T13:56:11Z,257,A common ground for better Clojure REPLs,Clojure,https://github.com/Unrepl/unrepl
+650,nix-env-selector,230,30,230,24,2019-09-26T15:36:28Z,2025-03-05T08:31:12Z,5805,Allows switch environment for Visual Studio Code using Nix Package Manager.,Clojure,https://github.com/arrterian/nix-env-selector
+651,nurokit,229,13,229,2,2012-11-27T13:44:52Z,2015-09-08T04:00:23Z,11822,Toolkit for machine learning in Clojure,Clojure,https://github.com/nuroko/nurokit
+652,discljord,229,28,229,19,2017-11-18T04:43:16Z,2024-07-22T20:49:23Z,1110,"A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability",Clojure,https://github.com/discljord/discljord
+653,jig,227,19,227,7,2013-08-19T10:50:54Z,2014-03-26T13:46:22Z,1482,Jig is an application harness providing a beautifully interactive development experience for Clojure projects.,Clojure,https://github.com/juxt/jig
+654,genartlib,227,20,227,2,2016-03-05T21:35:50Z,2024-09-09T18:26:59Z,176,Utilities for creating generative artwork with Clojure,Clojure,https://github.com/thobbs/genartlib
+655,huri,226,17,226,19,2016-02-20T10:31:18Z,2019-02-05T16:12:15Z,409,Tools for the lazy data scientist,Clojure,https://github.com/sbelak/huri
+656,dependency,225,30,225,2,2013-04-07T13:42:10Z,2023-08-28T13:43:29Z,23,A data structure for representing dependency graphs in Clojure,Clojure,https://github.com/stuartsierra/dependency
+657,clutch,225,38,225,30,2009-05-23T23:30:26Z,2018-05-08T15:40:18Z,457,A Clojure library for Apache CouchDB.,Clojure,https://github.com/clojure-clutch/clutch
+658,kekkonen,225,15,225,22,2012-11-28T12:44:20Z,2019-11-01T13:34:51Z,576,A remote (CQRS) API library for Clojure.,Clojure,https://github.com/metosin/kekkonen
+659,process,225,32,225,9,2020-08-07T14:52:54Z,2025-03-17T19:39:36Z,779,Clojure library for shelling out / spawning sub-processes,Clojure,https://github.com/babashka/process
+660,scicloj.ml,225,16,225,2,2021-03-18T13:58:42Z,2024-11-29T21:15:19Z,5329,A Clojure machine learning library,Clojure,https://github.com/scicloj/scicloj.ml
+661,fork,225,12,225,0,2019-08-12T22:23:40Z,2024-04-03T21:47:03Z,853,A non-intrusive Clojurescript form management library for Re-frame and Reagent.,Clojure,https://github.com/luciodale/fork
+662,zest,224,13,224,6,2016-01-13T00:20:18Z,2019-12-14T19:09:57Z,1321,[UNMAINTAINED] Zest documentation browser,Clojure,https://github.com/zestdocs/zest
+663,metabase-athena-driver,223,32,223,2,2019-05-07T14:30:58Z,2022-12-08T18:15:27Z,146,An Amazon Athena driver for Metabase 0.32 and later,Clojure,https://github.com/dacort/metabase-athena-driver
+664,pushy,223,28,223,15,2014-10-09T00:31:04Z,2022-01-18T10:34:44Z,56,Clojurescript library for quick and easy HTML5 pushState,Clojure,https://github.com/kibu-australia/pushy
+665,quartzite,223,35,223,3,2011-12-18T19:42:39Z,2025-02-05T16:39:00Z,301,Quarzite is a thin idiomatic Clojure layer on top the Quartz Scheduler,Clojure,https://github.com/michaelklishin/quartzite
+666,spec.alpha,222,49,222,2,2017-04-26T15:28:51Z,2024-07-15T17:56:20Z,348,Clojure library to describe the structure of data and functions,Clojure,https://github.com/clojure/spec.alpha
+667,silk,222,13,222,5,2014-06-28T01:37:36Z,2022-01-04T23:48:51Z,74,Routing for Clojure & ClojureScript,Clojure,https://github.com/domkm/silk
+668,cambada,222,28,222,23,2018-06-10T15:31:27Z,2020-12-24T00:42:23Z,48,"Packager for Clojure based on deps.edn (AKA tools.deps). Supporting jar, uberjar and GraalVM's native-image.",Clojure,https://github.com/luchiniatwork/cambada
+669,Logic-Starter,221,16,221,0,2011-07-13T18:31:16Z,2013-03-12T07:23:07Z,2071,Starter Project for Introduction to Logic Programming with Clojure,Clojure,https://github.com/frenchy64/Logic-Starter
+670,logseq-query,221,9,221,6,2022-02-02T07:11:11Z,2023-01-30T04:59:46Z,114,,Clojure,https://github.com/cldwalker/logseq-query
+671,pandect,221,11,221,0,2013-05-16T01:57:57Z,2024-09-17T12:23:44Z,1535,"Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure | Migrated to codeberg",Clojure,https://github.com/xsc/pandect
+672,telemere,221,7,221,6,2023-08-28T10:06:36Z,2025-03-10T21:31:58Z,2291,Structured logs and telemetry for Clojure/Script,Clojure,https://github.com/taoensso/telemere
+673,ClojureNews,221,25,221,5,2016-05-15T16:22:13Z,2018-03-19T08:16:09Z,3811,Clojure News Web Application - (Hacker News Clone),Clojure,https://github.com/ertugrulcetin/ClojureNews
+674,epitaph,221,27,221,9,2016-09-11T22:09:46Z,2021-04-09T17:00:53Z,743,https://mkremins.itch.io/epitaph,Clojure,https://github.com/mkremins/epitaph
+675,crate,220,27,220,5,2012-02-04T21:34:53Z,2015-11-02T21:08:01Z,242,A ClojureScript implementation of Hiccup,Clojure,https://github.com/ibdknox/crate
+676,flyer.js,220,12,220,0,2014-08-25T15:26:43Z,2018-06-10T17:15:50Z,659,"Broadcast Messaging Library that works between iFrames, Frames, and Windows",Clojure,https://github.com/benzap/flyer.js
+677,inflections-clj,220,23,220,4,2010-02-10T19:26:59Z,2024-05-07T20:05:13Z,405,Rails-like inflection library for Clojure and ClojureScript,Clojure,https://github.com/r0man/inflections-clj
+678,fnhouse,220,28,220,3,2014-02-25T00:58:48Z,2016-04-19T09:05:54Z,154,,Clojure,https://github.com/plumatic/fnhouse
+679,bob,220,16,220,12,2017-09-16T11:37:44Z,2025-03-28T08:23:16Z,1733,This is what CI/CD should've been.,Clojure,https://github.com/bob-cd/bob
+680,Dynadoc,219,7,219,7,2017-11-18T14:41:59Z,2022-10-14T09:39:42Z,1446,Dynamic documentation for Clojure(Script),Clojure,https://github.com/oakes/Dynadoc
+681,yagni,219,10,219,10,2015-03-15T21:05:12Z,2021-09-30T13:07:31Z,65,A Leiningen plugin for finding dead code,Clojure,https://github.com/venantius/yagni
+682,openai-clojure,219,31,219,3,2023-01-30T22:25:08Z,2024-11-05T19:03:33Z,487,Clojure functions to drive the OpenAI API,Clojure,https://github.com/wkok/openai-clojure
+683,omchaya,218,10,218,1,2014-02-17T22:45:15Z,2014-04-11T22:41:09Z,8147,ClojureScript + Om client for Kandan (http://kandanapp.com/),Clojure,https://github.com/sgrove/omchaya
+684,duratom,217,14,217,1,2016-06-11T10:49:22Z,2023-12-09T21:08:44Z,204,A durable atom type for Clojure,Clojure,https://github.com/jimpil/duratom
+685,clojure-protobuf,217,70,217,28,2010-01-19T06:16:06Z,2017-09-01T21:32:43Z,638,Google protocol buffers wrapper for Clojure.,Clojure,https://github.com/ninjudd/clojure-protobuf
+686,test.chuck,216,26,216,13,2014-04-12T02:09:57Z,2024-12-21T01:41:35Z,438,A utility library for test.check,Clojure,https://github.com/gfredericks/test.chuck
+687,avi,216,15,216,7,2014-02-23T19:12:02Z,2018-01-26T16:15:33Z,1105,a lively vi,Clojure,https://github.com/maitria/avi
+688,clojure-lanterna,216,51,216,8,2012-07-07T03:55:52Z,2019-02-26T17:51:42Z,98,A Clojurey wrapper around the Lanterna terminal output library.,Clojure,https://github.com/MultiMUD/clojure-lanterna
+689,rich4clojure,216,46,216,9,2021-07-20T13:53:31Z,2023-10-06T07:49:33Z,354,Practice Clojure using Interactive Programming in your editor,Clojure,https://github.com/PEZ/rich4clojure
+690,system,215,19,215,5,2021-08-09T14:42:03Z,2024-10-22T11:51:46Z,431,a dependency injection library for Clojure and ClojureScript 🍩,Clojure,https://github.com/donut-party/system
+691,tools.build,215,32,215,0,2021-04-28T20:39:50Z,2025-03-25T22:52:37Z,1709,Clojure builds as Clojure programs,Clojure,https://github.com/clojure/tools.build
+692,data.finger-tree,215,14,215,1,2010-10-12T13:28:17Z,2024-07-15T17:56:30Z,143,Finger Tree data structure,Clojure,https://github.com/clojure/data.finger-tree
+693,lein-localrepo,215,15,215,1,2011-07-11T18:28:28Z,2017-06-20T21:40:46Z,33,Work with local Maven repository,Clojure,https://github.com/kumarshantanu/lein-localrepo
+694,backtick,214,11,214,0,2012-11-22T09:32:48Z,2023-09-09T17:22:04Z,29,Clojure's syntax-quote reader macro as a normal macro,Clojure,https://github.com/brandonbloom/backtick
+695,delimc,214,22,214,6,2011-03-25T05:37:55Z,2020-06-26T14:53:48Z,135,Delimited continuations for Clojure,Clojure,https://github.com/swannodette/delimc
+696,hiccups,214,22,214,3,2011-08-07T09:56:28Z,2020-11-06T18:17:22Z,42,A ClojureScript port of Hiccup - a fast library for rendering HTML in ClojureScript,Clojure,https://github.com/teropa/hiccups
+697,dotfiles,213,26,213,1,2019-12-26T05:58:50Z,2022-06-12T23:40:26Z,30187,"Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux)",Clojure,https://github.com/camspiers/dotfiles
+698,oss.io,213,61,213,28,2014-11-05T14:20:33Z,2017-07-22T07:58:22Z,446,Developers gathering up,Clojure,https://github.com/bcambel/oss.io
+699,clojail,213,27,213,9,2011-03-22T19:33:17Z,2019-09-22T13:47:10Z,424,A control freak's best friend,Clojure,https://github.com/Raynes/clojail
+700,lein-monolith,213,18,213,3,2016-06-12T05:51:00Z,2024-10-15T18:21:43Z,462,Leiningen plugin for working with monorepos.,Clojure,https://github.com/amperity/lein-monolith
+701,strucjure,213,11,213,2,2012-10-06T21:19:52Z,2013-12-25T10:47:13Z,1277,A library for doing stuff to other stuff. ,Clojure,https://github.com/jamii/strucjure
+702,nomad,213,15,213,0,2013-03-30T14:58:05Z,2020-04-26T14:34:23Z,186, A configuration library designed to allow Clojure applications to travel painlessly between different environments.,Clojure,https://github.com/jarohen/nomad
+703,otplike,212,5,212,11,2016-08-09T16:21:38Z,2024-02-19T19:50:57Z,678,Erlang/OTP like processes and behaviours for Clojure on top of core.async,Clojure,https://github.com/suprematic/otplike
+704,clj-kafka,212,76,212,22,2012-01-22T23:01:21Z,2016-05-17T01:44:48Z,309,Wrapper to the Java API for interacting with Kafka,Clojure,https://github.com/pingles/clj-kafka
+705,cqrs-server,211,13,211,4,2015-02-09T19:42:15Z,2015-05-11T06:42:50Z,290,"An opinionated Clojure CQRS/ES implementation using Onyx, Datomic, DynamoDB, Kafka and Zookeeper.",Clojure,https://github.com/Yuppiechef/cqrs-server
+706,stencil,210,37,210,11,2011-05-23T21:32:59Z,2018-05-09T21:31:46Z,314,A Clojure implementation of Mustache,Clojure,https://github.com/davidsantiago/stencil
+707,gniazdo,210,38,210,3,2013-10-17T14:45:40Z,2023-04-30T14:22:53Z,68,A WebSocket client for Clojure,Clojure,https://github.com/stalefruits/gniazdo
+708,honeyeql,210,8,210,3,2020-01-15T08:55:11Z,2024-11-01T12:59:33Z,1106,HoneyEQL is a Clojure library enables you to query database using the EDN Query Language.,Clojure,https://github.com/tamizhvendan/honeyeql
+709,sqlingvo,210,23,210,13,2012-10-23T20:15:30Z,2024-05-07T19:37:11Z,1250,A Clojure & ClojureScript DSL for SQL,Clojure,https://github.com/r0man/sqlingvo
+710,ataraxy,209,13,209,7,2015-12-14T19:22:02Z,2022-06-19T23:09:56Z,125,A data-driven Ring routing and destructuring library,Clojure,https://github.com/weavejester/ataraxy
+711,tools.reader,209,66,209,1,2013-02-02T21:52:50Z,2025-03-10T11:56:08Z,1161,Clojure reader in Clojure,Clojure,https://github.com/clojure/tools.reader
+712,sieppari,209,22,209,12,2018-08-09T14:48:04Z,2024-12-31T15:12:26Z,266,"Small, fast, and complete interceptor library for Clojure/Script",Clojure,https://github.com/metosin/sieppari
+713,meltdown,209,13,209,1,2013-05-17T16:00:28Z,2016-01-02T01:52:21Z,263,"Clojure interface to Reactor, an event-driven programming and stream processing toolkit for the JVM",Clojure,https://github.com/clojurewerkz/meltdown
+714,replumb,209,16,209,20,2015-10-28T00:38:54Z,2018-08-17T17:54:35Z,661,ClojureScript plumbing for your self-hosted REPLs.,Clojure,https://github.com/arichiardi/replumb
+715,mbrainz-sample,208,39,208,3,2013-04-11T20:15:05Z,2025-03-19T13:40:42Z,1764,Example queries and rules for working with the Datomic mbrainz example database,Clojure,https://github.com/Datomic/mbrainz-sample
+716,dysentery,208,24,208,10,2016-04-24T02:12:33Z,2025-03-24T04:04:47Z,13829,Exploring ways to participate in a Pioneer Pro DJ Link network,Clojure,https://github.com/Deep-Symmetry/dysentery
+717,formative,208,18,208,20,2012-09-06T15:24:32Z,2020-09-30T18:10:21Z,432,"Web forms for Clojure and ClojureScript  - rendering, parsing, and validating",Clojure,https://github.com/jkk/formative
+718,vertigo,207,7,207,0,2013-05-18T00:06:50Z,2016-11-21T17:55:08Z,499,heterogeneous structs for clojure,Clojure,https://github.com/ztellman/vertigo
+719,dom-top,207,8,207,9,2017-01-19T18:56:16Z,2025-03-07T16:35:48Z,71,"Unorthodox control flow, for Clojurists with masochistic sensibilities.",Clojure,https://github.com/aphyr/dom-top
+720,datascope,207,9,207,1,2016-05-28T17:36:21Z,2020-04-03T16:16:45Z,185,Visualization of Clojure data structures using Graphviz,Clojure,https://github.com/walmartlabs/datascope
+721,lymchat,207,20,207,0,2016-09-14T01:34:13Z,2019-07-08T23:21:24Z,9751,Lymchat - learn different cultures. ,Clojure,https://github.com/tiensonqin/lymchat
+722,fetch,207,30,207,6,2012-02-04T21:21:32Z,2020-10-25T07:46:03Z,23,A ClojureScript library for Client/Server interaction ⛺,Clojure,https://github.com/LightTable/fetch
+723,girouette,206,18,206,3,2020-12-27T17:47:19Z,2024-06-17T19:14:37Z,386,"Grammar-based, generative approach to CSS.",Clojure,https://github.com/green-coder/girouette
+724,spec-coerce,206,14,206,2,2017-07-20T22:53:25Z,2022-01-09T13:40:08Z,134,Coerce by leveraging your specs,Clojure,https://github.com/wilkerlucio/spec-coerce
+725,typed-clojure,206,12,206,0,2011-11-21T11:38:13Z,2013-02-08T11:07:13Z,2137,DEPRECATED SEE BELOW Gradual typing for Clojure,Clojure,https://github.com/frenchy64/typed-clojure
+726,clj-otel,206,13,206,7,2022-02-22T21:06:55Z,2025-03-22T17:53:13Z,2400,An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry.,Clojure,https://github.com/steffan-westcott/clj-otel
+727,vectorz-clj,205,18,205,13,2012-12-01T13:44:04Z,2025-02-16T14:32:29Z,830,Fast matrix and vector maths library for Clojure - as a core.matrix implementation,Clojure,https://github.com/mikera/vectorz-clj
+728,clojure-mail,205,54,205,14,2012-07-26T18:48:32Z,2021-04-14T13:01:40Z,177,"A Clojure library for parsing, downloading and reading email from IMAP servers.",Clojure,https://github.com/owainlewis/clojure-mail
+729,cljs-react-material-ui,205,31,205,14,2016-04-20T13:59:35Z,2018-09-03T14:09:59Z,72,Clojurescript library for using material-ui.com,Clojure,https://github.com/madvas/cljs-react-material-ui
+730,crypto-password,205,15,205,1,2012-11-26T20:48:15Z,2023-06-01T16:08:55Z,157,Library for securely hashing passwords,Clojure,https://github.com/weavejester/crypto-password
+731,react-tutorial-om,205,12,205,0,2013-12-19T22:36:53Z,2014-03-18T18:39:01Z,278,The react tutorial rewritten in Om,Clojure,https://github.com/jalehman/react-tutorial-om
+732,synthread,205,12,205,0,2013-01-23T21:48:19Z,2015-06-20T00:29:51Z,488,Syntax threading macros for Clojure,Clojure,https://github.com/Viasat/synthread
+733,superstring,205,10,205,0,2015-04-05T11:51:33Z,2024-12-28T17:37:03Z,233,Clojure and Clojurescript string library,Clojure,https://github.com/expez/superstring
+734,neocons,204,31,204,3,2011-11-19T09:26:30Z,2024-11-18T19:42:50Z,708,A feature rich idiomatic Clojure client for the Neo4J REST API,Clojure,https://github.com/michaelklishin/neocons
+735,supdate,204,4,204,3,2016-12-28T17:39:41Z,2022-10-12T14:53:12Z,32,Clojure's update with superpowers.,Clojure,https://github.com/vvvvalvalval/supdate
+736,clj-rethinkdb,204,42,204,41,2014-10-03T13:21:49Z,2019-04-24T03:12:49Z,776,,Clojure,https://github.com/apa512/clj-rethinkdb
+737,atom-parinfer,204,8,204,22,2015-10-27T00:32:59Z,2022-11-01T14:23:20Z,1844,Parinfer for Atom,Clojure,https://github.com/oakmac/atom-parinfer
+738,reagent-material-ui,203,19,203,8,2019-09-29T23:25:56Z,2023-03-08T22:29:57Z,12070,Reagent wrapper for MUI (formerly Material UI) v5,Clojure,https://github.com/arttuka/reagent-material-ui
+739,fulcro-rad,203,50,203,2,2019-11-09T23:12:18Z,2025-03-27T04:27:42Z,1655,Fulcro Rapid Application Development,Clojure,https://github.com/fulcrologic/fulcro-rad
+740,homebase-react,202,10,202,1,2020-10-06T21:51:53Z,2021-09-07T14:27:55Z,39797,The React state management library for write-heavy applications,Clojure,https://github.com/homebaseio/homebase-react
+741,lacinia-pedestal,202,62,202,7,2017-04-10T23:39:00Z,2024-11-18T02:46:11Z,965,Expose Lacinia GraphQL as Pedestal endpoints,Clojure,https://github.com/walmartlabs/lacinia-pedestal
+742,insn,202,5,202,1,2017-08-18T02:31:45Z,2025-01-11T13:56:22Z,286,Functional JVM bytecode generation for Clojure.,Clojure,https://github.com/jgpc42/insn
+743,parsley,201,24,201,8,2009-09-07T13:30:23Z,2018-02-27T11:41:06Z,280,a DSL for creating total and truly incremental parsers in Clojure,Clojure,https://github.com/cgrand/parsley
+744,shadow-arborist,199,5,199,0,2019-05-20T13:11:47Z,2022-07-09T19:05:07Z,25,"Exploring a CLJS world without React, see shadow-grove repo instead.",Clojure,https://github.com/thheller/shadow-arborist
+745,backup-scripts,199,7,199,0,2021-01-31T13:16:07Z,2021-05-29T14:11:54Z,41,The various scripts I use to back up my home computers using ssh and rsync,Clojure,https://github.com/eamonnsullivan/backup-scripts
+746,parallel,198,5,198,1,2018-01-07T17:30:15Z,2019-07-16T07:45:21Z,937,A library of parallel-enabled Clojure functions,Clojure,https://github.com/reborg/parallel
+747,numberwords,198,9,198,1,2020-01-12T15:11:23Z,2021-01-20T12:30:45Z,1783,Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.,Clojure,https://github.com/accelerated-text/numberwords
+748,clj-aws-s3,198,103,198,30,2012-01-29T17:15:23Z,2017-04-01T11:59:37Z,125,S3 client library for Clojure,Clojure,https://github.com/weavejester/clj-aws-s3
+749,tilakone,198,20,198,5,2018-08-12T22:33:29Z,2024-02-15T09:44:02Z,102,Minimalistic finite state machine (FSM) in Clojure,Clojure,https://github.com/metosin/tilakone
+750,csv-metabase-driver,197,17,197,11,2019-10-11T16:54:47Z,2024-08-11T15:30:15Z,276,A CSV metabase driver ,Clojure,https://github.com/Markenson/csv-metabase-driver
+751,core.rrb-vector,197,22,197,0,2013-03-28T16:22:26Z,2024-07-15T17:57:03Z,1641,RRB-Trees in Clojure,Clojure,https://github.com/clojure/core.rrb-vector
+752,omniconf,197,17,197,8,2016-02-02T16:00:35Z,2024-04-02T11:52:39Z,125,Configuration library for Clojure that favors explicitness,Clojure,https://github.com/grammarly/omniconf
+753,venia,197,20,197,23,2017-04-27T09:21:04Z,2022-04-07T08:16:29Z,76,Clojure(Script) graphql query generation,Clojure,https://github.com/Vincit/venia
+754,lucene-grep,196,5,196,20,2021-01-10T18:23:15Z,2024-09-03T22:08:38Z,7243,Grep-like utility based on Lucene Monitor compiled with GraalVM native-image,Clojure,https://github.com/dainiusjocas/lucene-grep
+755,riddley,196,30,196,7,2013-09-02T17:36:06Z,2022-09-04T21:25:42Z,650,code-walking without caveats,Clojure,https://github.com/ztellman/riddley
+756,static,196,55,196,1,2010-08-23T08:14:34Z,2021-12-12T22:23:41Z,162,Static Site Generator,Clojure,https://github.com/nakkaya/static
+757,dativity,196,13,196,1,2018-09-28T06:22:10Z,2022-11-14T16:56:16Z,545,"data driven, stateless, process engine",Clojure,https://github.com/agentbellnorm/dativity
+758,buffy,194,13,194,3,2013-11-12T17:27:52Z,2022-06-11T03:09:27Z,234,"Buffy The ByteBuffer Slayer, Clojure library for working with binary data.",Clojure,https://github.com/clojurewerkz/buffy
+759,anomalies,193,8,193,4,2017-07-24T14:19:48Z,2024-07-15T17:48:18Z,11,,Clojure,https://github.com/cognitect-labs/anomalies
+760,babbage,193,6,193,1,2013-01-22T05:05:43Z,2014-02-11T17:57:56Z,628,Easily gather data and compute summary measures declaratively.,Clojure,https://github.com/ReadyForZero/babbage
+761,kinsky,193,46,193,2,2016-01-07T12:21:40Z,2022-03-01T14:34:04Z,178,Kafka Clojure client library,Clojure,https://github.com/pyr/kinsky
+762,mastodon-bot,193,24,193,9,2018-03-11T21:06:00Z,2021-10-23T20:40:46Z,614,a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon,Clojure,https://github.com/yogthos/mastodon-bot
+763,honeysql-postgres,193,28,193,10,2016-04-14T12:08:05Z,2021-08-20T07:41:01Z,159,PostgreSQL extension for honeysql,Clojure,https://github.com/nilenso/honeysql-postgres
+764,storage-atom,192,19,192,10,2013-01-26T06:17:25Z,2022-10-28T09:07:52Z,37,ClojureScript atoms backed by HTML5 web storage.,Clojure,https://github.com/alandipert/storage-atom
+765,tesla-microservice,192,25,192,2,2015-01-22T11:45:07Z,2024-12-20T08:51:36Z,414,Common basis for some of otto.de's clojure microservices,Clojure,https://github.com/otto-de/tesla-microservice
+766,grafter,192,16,192,50,2014-04-18T09:52:11Z,2023-12-22T02:56:56Z,6501,Linked Data & RDF Manufacturing Tools in Clojure,Clojure,https://github.com/Swirrl/grafter
+767,catacumba,192,25,192,5,2015-04-07T18:27:55Z,2019-09-23T07:48:45Z,2229,Asynchronous web toolkit for clojure built on top of Ratpack / Netty,Clojure,https://github.com/funcool/catacumba
+768,Nightmod,192,10,192,6,2014-02-01T16:35:25Z,2019-08-09T11:52:19Z,5177,A tool for making live-moddable games in Clojure,Clojure,https://github.com/oakes/Nightmod
+769,nano-id,191,9,191,1,2018-06-26T17:20:50Z,2024-01-26T13:42:59Z,68,A unique string ID generator for Clojure and ClojureScript (・_・)ノ,Clojure,https://github.com/zelark/nano-id
+770,prototyping-with-clojure,190,17,190,1,2019-07-08T11:42:30Z,2020-09-26T11:54:37Z,540,A series of tutorials on creating a full-stack app with Clojure and Clojurescript,Clojure,https://github.com/aliaksandr-s/prototyping-with-clojure
+771,tesserae,190,10,190,3,2023-03-31T20:03:05Z,2024-08-26T14:55:59Z,514,A Clojure spreadsheet and more!,Clojure,https://github.com/lumberdev/tesserae
+772,scriptjure,190,15,190,2,2009-10-07T19:54:49Z,2022-07-20T09:11:05Z,170,a Clojure library for generating javascript,Clojure,https://github.com/arohner/scriptjure
+773,panthera,189,15,189,3,2019-06-19T21:42:59Z,2020-05-03T14:17:04Z,424,Data-frames & arrays on Clojure,Clojure,https://github.com/alanmarazzi/panthera
+774,speculative,189,16,189,6,2018-10-20T09:25:28Z,2019-04-07T06:25:13Z,1295,Unofficial community-driven specs for clojure.core,Clojure,https://github.com/borkdude/speculative
+775,hello-cljsc,189,15,189,3,2014-01-15T03:55:25Z,2015-03-30T04:35:52Z,315,Hello ClojureScript Compiler,Clojure,https://github.com/swannodette/hello-cljsc
+776,data.priority-map,189,18,189,0,2011-07-29T15:25:43Z,2024-07-15T17:57:14Z,141,Clojure priority map data structure,Clojure,https://github.com/clojure/data.priority-map
+777,falkor,188,7,188,1,2015-06-13T18:27:42Z,2016-02-12T20:40:43Z,22,Open Source web scraping API. Falkor turns web pages into queryable JSON,Clojure,https://github.com/owainlewis/falkor
+778,glue,188,7,188,0,2017-11-10T15:22:44Z,2021-03-15T21:41:37Z,30,"Configure Vue.js components using ClojureScript, manage global state using Atoms.",Clojure,https://github.com/Gonzih/glue
+779,edna,187,7,187,1,2018-03-19T01:16:09Z,2023-01-04T22:56:44Z,9418,A Clojure data -> music library,Clojure,https://github.com/oakes/edna
+780,clojure-csv,187,35,187,14,2009-11-11T06:48:14Z,2023-02-02T23:45:33Z,84,A library for reading and writing CSV files from Clojure,Clojure,https://github.com/davidsantiago/clojure-csv
+781,salt,187,7,187,0,2019-07-30T23:19:49Z,2019-10-31T22:41:43Z,365,,Clojure,https://github.com/Viasat/salt
+782,autochrome,186,11,186,4,2018-02-08T22:08:44Z,2022-06-06T22:09:01Z,107,Structural diffs for clojure source code,Clojure,https://github.com/ladderlife/autochrome
+783,proletarian,185,9,185,3,2020-12-01T11:43:52Z,2024-11-04T13:53:04Z,146,A durable job queuing and worker system for Clojure backed by PostgreSQL or MySQL.,Clojure,https://github.com/msolli/proletarian
+784,shrubbery,185,5,185,4,2015-04-21T20:03:23Z,2017-11-03T14:13:33Z,115,"Mocks, stubs, and spies for Clojure protocols.",Clojure,https://github.com/bguthrie/shrubbery
+785,re-frame-async-flow-fx,185,18,185,4,2016-07-11T07:24:37Z,2023-05-24T02:54:11Z,327,A re-frame effects handler for coordinating the kind of async control flow which often happens on app startup.,Clojure,https://github.com/day8/re-frame-async-flow-fx
+786,hermes,185,24,185,1,2020-09-06T07:59:43Z,2025-02-26T09:36:28Z,1539,"A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.",Clojure,https://github.com/wardle/hermes
+787,perseverance,185,10,185,4,2016-11-13T09:56:23Z,2022-03-07T12:14:50Z,22,Flexible retries library for Clojure,Clojure,https://github.com/grammarly/perseverance
+788,dj-data-converter,185,14,185,18,2018-11-22T16:59:09Z,2025-03-07T11:58:40Z,234,A command-line app for converting data files to and from different DJ software formats.,Clojure,https://github.com/digital-dj-tools/dj-data-converter
+789,quickblog,185,34,185,7,2022-07-15T10:31:08Z,2025-03-10T10:08:03Z,148,Light-weight static blog engine for Clojure and babashka,Clojure,https://github.com/borkdude/quickblog
+790,odin,184,9,184,9,2016-07-01T13:01:45Z,2018-10-30T19:26:05Z,72,An embedded extensible logic DSL for Clojure.,Clojure,https://github.com/halgari/odin
+791,tweet-secret,184,10,184,0,2013-07-16T21:35:41Z,2013-09-21T21:36:00Z,336,"This is a text steganography application optimized for use on Twitter, written in Clojure.",Clojure,https://github.com/dpapathanasiou/tweet-secret
+792,graphql-builder,184,15,184,3,2017-02-08T20:46:58Z,2023-12-22T17:07:45Z,78,GraphQL client library for Clojure and ClojureScript,Clojure,https://github.com/retro/graphql-builder
+793,clojurecuda,184,10,184,1,2017-01-15T11:37:37Z,2025-01-16T21:44:32Z,520,Clojure library for CUDA development,Clojure,https://github.com/uncomplicate/clojurecuda
+794,calvin,184,9,184,7,2016-11-14T00:54:48Z,2018-12-15T18:38:49Z,120,A minimalistic build tool for clojurescript projects that does not require the jvm,Clojure,https://github.com/eginez/calvin
+795,validateur,184,24,184,5,2011-09-11T22:45:50Z,2025-01-28T13:53:14Z,229,Functional validations inspired by Ruby's ActiveModel,Clojure,https://github.com/michaelklishin/validateur
+796,timelike,184,9,184,1,2013-02-16T06:34:46Z,2013-03-31T17:37:16Z,268,"A library for simulating parallel systems, in Clojure",Clojure,https://github.com/aphyr/timelike
+797,iapetos,184,33,184,10,2016-07-17T13:38:39Z,2024-07-05T07:03:47Z,265,A Clojure Prometheus Client,Clojure,https://github.com/clj-commons/iapetos
+798,injest,183,3,183,3,2021-09-03T19:38:58Z,2024-10-19T04:25:00Z,107,"+>, +>>, x>>, =>>: Auto-transducifying, auto-parallelizing path thread macros",Clojure,https://github.com/johnmn3/injest
+799,reflex,183,7,183,1,2012-05-23T22:32:33Z,2013-10-14T04:31:01Z,179,Automatic state propogation in ClojureScript,Clojure,https://github.com/lynaghk/reflex
+800,pinot,183,9,183,7,2011-07-30T02:20:23Z,2012-02-04T22:48:58Z,141,the ClojureScript client-side web framework,Clojure,https://github.com/ibdknox/pinot
+801,clograms,182,8,182,22,2019-08-12T18:49:15Z,2024-07-02T11:38:48Z,3216,Clojure[Script] source code diagrams,Clojure,https://github.com/jpmonettas/clograms
+802,pdfboxing,182,38,182,6,2013-12-12T20:54:17Z,2024-12-16T15:11:02Z,2806,Nice wrapper of PDFBox in Clojure,Clojure,https://github.com/dotemacs/pdfboxing
+803,superlifter,182,13,182,4,2019-01-25T10:14:13Z,2025-01-08T13:52:10Z,75,A DataLoader for Clojure/script,Clojure,https://github.com/oliyh/superlifter
+804,clortex,182,18,182,11,2014-01-16T14:15:32Z,2015-12-02T14:02:02Z,84282,(pre-alpha) Implementation of Jeff Hawkins' Hierarchical Temporal Memory & Cortical Learning Algorithm,Clojure,https://github.com/htm-community/clortex
+805,itsy,182,29,182,5,2012-05-18T22:10:22Z,2015-06-10T16:50:34Z,175,A threaded web-spider written in Clojure,Clojure,https://github.com/dakrone/itsy
+806,clj-tagsoup,181,23,181,12,2010-03-30T14:42:49Z,2020-05-01T13:02:11Z,28,A HTML parser for Clojure.,Clojure,https://github.com/nathell/clj-tagsoup
+807,caesium,181,28,181,13,2014-08-04T15:58:56Z,2023-09-15T19:14:04Z,496,Modern cryptography (libsodium/NaCl) for Clojure,Clojure,https://github.com/lvh/caesium
+808,codax,181,9,181,7,2017-09-22T21:24:00Z,2024-02-16T00:41:20Z,386,An idiomatic transactional embedded database for clojure,Clojure,https://github.com/dscarpetti/codax
+809,dactyl-configurator,181,17,181,5,2023-03-01T09:55:44Z,2024-03-25T10:29:05Z,4514,Generate Dactyl keyboard designs from your browser.,Clojure,https://github.com/rianadon/dactyl-configurator
+810,Paravim,181,6,181,2,2019-04-13T12:12:15Z,2023-10-05T15:59:47Z,1263,A Vim-based editor for Clojure,Clojure,https://github.com/oakes/Paravim
+811,fs,181,45,181,4,2020-11-16T09:30:24Z,2025-03-17T19:03:45Z,375,File system utility library for Clojure,Clojure,https://github.com/babashka/fs
+812,domino,180,9,180,2,2019-05-18T20:03:42Z,2024-01-11T12:37:24Z,490,A Clojure/Script data flow engine,Clojure,https://github.com/domino-clj/domino
+813,analemma,180,10,180,2,2011-01-08T06:57:59Z,2024-08-11T14:25:03Z,156,Analemma is a Clojure library for generating charts and Scalable Vector Graphics (SVG),Clojure,https://github.com/liebke/analemma
+814,brute,180,6,180,1,2014-04-05T00:57:53Z,2016-01-24T00:36:01Z,162,A simple and lightweight Entity Component System library for writing games with Clojure and ClojureScript.,Clojure,https://github.com/markmandel/brute
+815,ArcadiaGodot,178,13,178,10,2017-11-17T18:36:43Z,2024-06-08T03:39:45Z,10384,,Clojure,https://github.com/arcadia-unity/ArcadiaGodot
+816,reloaded.repl,178,12,178,4,2014-04-19T21:21:50Z,2019-12-25T12:23:14Z,17,REPL functions to support the reloaded workflow,Clojure,https://github.com/weavejester/reloaded.repl
+817,spy,178,9,178,1,2017-10-07T12:46:04Z,2025-02-12T13:42:44Z,907,"Clojure/ClojureScript library for stubs, spies and mocks.",Clojure,https://github.com/alexanderjamesking/spy
+818,playphraseme-site,177,21,177,1,2018-02-02T12:15:24Z,2020-05-23T11:28:13Z,73316,,Clojure,https://github.com/potapenko/playphraseme-site
+819,qlkit,177,10,177,4,2018-01-22T21:23:30Z,2019-12-26T22:22:20Z,57,Clojurescript UI Development with Graph Queries,Clojure,https://github.com/forward-blockchain/qlkit
+820,marceline,177,14,177,6,2013-10-21T19:27:21Z,2017-04-03T21:45:50Z,148,A Clojure DSL for Storm/Trident,Clojure,https://github.com/sorenmacbeth/marceline
+821,cdk-clj,177,17,177,11,2019-07-26T17:14:32Z,2021-07-31T13:39:48Z,75263,[deprecated – Stedi no longer uses Clojure] A Clojure wrapper for the AWS Cloud Development Kit (AWS CDK),Clojure,https://github.com/Stedi-Public-Archive/cdk-clj
+822,boot-cljs,176,40,176,21,2014-10-17T19:56:53Z,2018-10-25T20:03:21Z,390,Boot task to compile ClojureScript programs.,Clojure,https://github.com/boot-clj/boot-cljs
+823,clj-docker-client,176,13,176,4,2018-11-08T18:40:47Z,2022-10-12T10:09:04Z,1290,"An idiomatic, data-driven, REPL friendly Clojure Docker client",Clojure,https://github.com/into-docker/clj-docker-client
+824,akar,176,14,176,0,2015-10-24T01:00:45Z,2024-07-29T21:16:33Z,3539,"First-class patterns for Clojure. Made with love, functions, and just the right amount of syntax.",Clojure,https://github.com/missingfaktor/akar
+825,JS-Workshop,176,15,176,0,2017-06-29T19:54:42Z,2022-09-08T15:35:36Z,51,Reagent Workshop for React developers,Clojure,https://github.com/ClojureTO/JS-Workshop
+826,infer,176,38,176,2,2010-08-19T23:00:39Z,2015-12-29T23:25:39Z,363,inference and machine learning in clojure,Clojure,https://github.com/aria42/infer
+827,edamame,176,14,176,1,2019-08-27T15:45:33Z,2025-03-11T14:00:18Z,416,Configurable EDN/Clojure parser with location metadata,Clojure,https://github.com/borkdude/edamame
+828,lein-bikeshed,175,23,175,9,2012-12-12T18:40:48Z,2019-03-22T22:51:47Z,85,"A Leiningen plugin designed to tell you your code is bad, and that you should feel bad",Clojure,https://github.com/dakrone/lein-bikeshed
+829,math.numeric-tower,175,14,175,0,2011-07-29T15:26:24Z,2024-07-15T17:57:24Z,69,Math functions that deal intelligently with the various types in Clojure's numeric tower,Clojure,https://github.com/clojure/math.numeric-tower
+830,clerk-demo,175,26,175,6,2021-10-07T16:59:37Z,2024-10-18T12:22:03Z,42341,🤹 A bucket of interesting Clerk demos.,Clojure,https://github.com/nextjournal/clerk-demo
+831,superv.async,175,10,175,10,2016-09-09T12:19:29Z,2024-11-17T23:31:27Z,142,This is a Clojure(Script) library that extends core.async with error handling and includes a number of convenience functions and macros.,Clojure,https://github.com/replikativ/superv.async
+832,clj-ns-browser,175,11,175,32,2012-03-27T18:02:26Z,2024-11-16T02:20:37Z,9753,Smalltalk-like namespace/class/var/function browser for clojure docs and source-code based on seesaw,Clojure,https://github.com/franks42/clj-ns-browser
+833,proxy-plus,175,11,175,7,2019-12-20T19:54:41Z,2024-05-13T04:34:21Z,35,A replacement for Clojure's proxy that's 10x faster and more usable,Clojure,https://github.com/redplanetlabs/proxy-plus
+834,atom-chlorine,175,14,175,8,2018-09-26T22:47:15Z,2022-03-12T10:54:15Z,32257,"An Atom plugin to integrate with Socket-REPL over Clojure, ClojureScript, ClojureCLR, Joker, Babashka, Clojerl, Lumo and Plank",Clojure,https://github.com/mauricioszabo/atom-chlorine
+835,systems-toolbox,174,23,174,13,2015-02-25T20:52:02Z,2019-12-27T20:20:08Z,2732,Tools and building blocks for building Systems in Clojure and ClojureScript,Clojure,https://github.com/matthiasn/systems-toolbox
+836,closp,174,8,174,0,2015-01-19T16:00:58Z,2020-12-31T20:36:15Z,2021,Clojure template for web development (with SPA support),Clojure,https://github.com/sveri/closp
+837,sulolive,174,20,174,7,2016-12-03T19:35:27Z,2023-01-24T22:20:09Z,25244,SULO Live online marketplace. See DEMO on  ,Clojure,https://github.com/eponai/sulolive
+838,babashka-htmx-todoapp,173,11,173,0,2021-08-06T12:09:35Z,2024-03-14T11:03:13Z,68,Quick example of a todo list SPA using Babashka and htmx,Clojure,https://github.com/prestancedesign/babashka-htmx-todoapp
+839,ring-cors,173,45,173,11,2011-03-04T15:43:34Z,2019-12-19T21:48:35Z,60,Ring middleware for Cross-Origin Resource Sharing.,Clojure,https://github.com/r0man/ring-cors
+840,cq,173,11,173,3,2021-03-19T17:28:04Z,2024-09-03T21:08:22Z,207,"Clojure Query: A Command-line Data Processor for JSON, YAML, EDN, XML and more",Clojure,https://github.com/markus-wa/cq
+841,haslett,173,9,173,2,2017-06-08T15:05:28Z,2024-05-01T15:00:27Z,68,A lightweight WebSocket library for ClojureScript,Clojure,https://github.com/weavejester/haslett
+842,instar,173,8,173,4,2014-07-12T08:43:38Z,2015-08-05T09:12:31Z,434,Simpler and more powerful assoc/dissoc/update-in for both Clojure and ClojureScript,Clojure,https://github.com/boxed/instar
+843,oj,173,6,173,4,2014-10-31T15:42:20Z,2015-01-23T19:44:17Z,531,:tropical_drink: A Clojure library for talking to your database.,Clojure,https://github.com/taylorlapeyre/oj
+844,blaze,172,19,172,125,2019-03-29T09:35:01Z,2025-03-28T10:49:14Z,35994,"A FHIR® Server with internal, fast CQL Evaluation Engine",Clojure,https://github.com/samply/blaze
+845,clucy,172,58,172,7,2009-12-10T23:26:06Z,2016-03-11T09:34:23Z,387,Clojure interface to Lucene,Clojure,https://github.com/weavejester/clucy
+846,clojure-tco,172,11,172,7,2012-04-27T01:36:51Z,2013-12-11T03:09:51Z,834,Expanding support for constant-space tail calls in the Clojure language.,Clojure,https://github.com/cjfrisz/clojure-tco
+847,mesh,172,7,172,1,2014-04-22T00:09:09Z,2019-01-20T03:00:27Z,120,A toolkit for Responsive Web Typography,Clojure,https://github.com/facjure/mesh
+848,castra,172,25,172,10,2013-06-06T15:43:20Z,2020-12-24T19:59:53Z,1165,HTTP remote procedure call handler for Clojure.,Clojure,https://github.com/hoplon/castra
+849,google-search-console-bulk-url-removal,172,71,172,5,2013-06-09T23:02:00Z,2023-12-24T22:03:15Z,214,A chrome extension that allows for bulk url removal.,Clojure,https://github.com/noitcudni/google-search-console-bulk-url-removal
+850,cake,171,12,171,0,2010-05-21T00:07:52Z,2012-08-23T22:36:21Z,3764,A tasty build tool for Clojure.,Clojure,https://github.com/ninjudd/cake
+851,kafka-fast,171,19,171,0,2013-12-15T22:22:04Z,2019-11-27T16:57:25Z,1102,fast kafka api for JVM languages implemented in clojure,Clojure,https://github.com/gerritjvv/kafka-fast
+852,one-time,170,17,170,0,2016-07-21T20:59:26Z,2025-01-16T19:50:09Z,180,One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two Factor / Multi Factor Authentication.,Clojure,https://github.com/suvash/one-time
+853,shadow-cljs-tailwindcss,170,20,170,5,2021-03-15T19:57:26Z,2025-03-27T04:40:43Z,932,shadow-cljs + tailwindcss,Clojure,https://github.com/jacekschae/shadow-cljs-tailwindcss
+854,primitive-math,170,15,170,0,2013-06-07T20:02:43Z,2023-07-28T21:09:04Z,77,for the discerning arithmetician,Clojure,https://github.com/clj-commons/primitive-math
+855,fleetdb,170,18,170,3,2009-10-27T10:20:47Z,2014-05-04T15:00:50Z,409,A schema-free database implemented in Clojure,Clojure,https://github.com/mmcgrana/fleetdb
+856,strongbox,170,7,170,5,2019-03-19T13:35:56Z,2024-12-28T01:15:01Z,17106,a World of Warcraft Addon Manager aimed at Linux players,Clojure,https://github.com/ogri-la/strongbox
+857,pohjavirta,169,8,169,18,2019-05-19T08:50:41Z,2023-04-13T17:19:32Z,747,Fast & Non-blocking Clojure wrapper for Undertow,Clojure,https://github.com/metosin/pohjavirta
+858,async-webinar,169,17,169,3,2014-08-19T19:34:33Z,2024-07-16T17:59:00Z,16,Repository for the front end core.async webinar,Clojure,https://github.com/cognitect/async-webinar
+859,solar-system-of-js,169,6,169,1,2015-03-24T03:00:00Z,2015-07-28T16:49:30Z,1860,Visualize the languages on the JS platform,Clojure,https://github.com/shaunlebron/solar-system-of-js
+860,gungnir,168,9,168,10,2020-07-19T18:14:58Z,2023-06-28T19:19:18Z,464,"A fully featured, data-driven database library for Clojure.",Clojure,https://github.com/kwrooijen/gungnir
+861,dato,168,8,168,14,2015-07-28T20:51:30Z,2015-11-02T16:19:44Z,636,Experiment in distilling apps to their essence,Clojure,https://github.com/datodev/dato
+862,zetawar,168,14,168,50,2016-05-30T17:03:04Z,2019-01-14T03:26:34Z,2965,Zetawar is a turn based tactical strategy game implemented in 100% ClojureScript.,Clojure,https://github.com/Zetawar/zetawar
+863,mock-mechanics,168,7,168,4,2022-06-29T18:16:45Z,2023-02-05T14:13:38Z,46729,Mechanical/visual programming language,Clojure,https://github.com/felipereigosa/mock-mechanics
+864,reforms,168,7,168,4,2015-06-17T14:43:49Z,2017-02-08T16:30:27Z,6356,"Beautiful Bootstrap 3 forms for Om, Reagent and Rum.",Clojure,https://github.com/bilus/reforms
+865,clojure,168,160,168,22,2014-02-28T02:28:52Z,2025-03-27T18:25:10Z,2145,Exercism exercises in Clojure.,Clojure,https://github.com/exercism/clojure
+866,nasus,168,9,168,5,2019-03-04T13:09:08Z,2021-12-28T17:26:30Z,86,Zero-configuration command-line async HTTP files server in Clojure. Like Python's SimpleHTTPServer but scalable.,Clojure,https://github.com/kachayev/nasus
+867,om-sync,168,11,168,4,2014-02-12T05:10:54Z,2015-03-21T22:17:40Z,350,A reusable Om component for keeping local application state in sync with server application state,Clojure,https://github.com/swannodette/om-sync
+868,clj-antlr,167,33,167,6,2013-04-26T16:54:04Z,2025-02-07T16:14:01Z,107,Clojure bindings for the ANTLR 4 parser,Clojure,https://github.com/aphyr/clj-antlr
+869,jet,167,19,167,8,2014-07-19T16:16:35Z,2017-07-04T06:15:04Z,329,"[not maintained, use at own risk] Jetty9 ring server adapter with WebSocket support via core.async and Jetty9 based HTTP & WebSocket clients (jvm based, no cljs)",Clojure,https://github.com/mpenet/jet
+870,humanize,167,21,167,3,2014-01-22T09:59:03Z,2024-11-12T17:08:18Z,138,Produce human readable strings in clojure,Clojure,https://github.com/clj-commons/humanize
+871,tracks,167,3,167,1,2016-10-04T14:32:21Z,2019-09-30T16:23:17Z,147,Programming with shapes,Clojure,https://github.com/escherize/tracks
+872,hindley-milner,167,8,167,0,2014-01-10T16:35:58Z,2014-08-24T22:31:28Z,208,An implementation of Hindley-Milner in Clojure.,Clojure,https://github.com/ericnormand/hindley-milner
+873,dumdom,167,9,167,11,2018-05-30T14:34:13Z,2024-08-23T10:56:45Z,468,Efficiently render and re-render immutable data,Clojure,https://github.com/cjohansen/dumdom
+874,arachne-core,167,13,167,4,2016-07-07T17:15:23Z,2018-10-26T15:25:12Z,273,The core module for the Arachne web framework,Clojure,https://github.com/arachne-framework/arachne-core
+875,lein-tools-deps,167,20,167,26,2017-12-13T23:19:52Z,2022-12-20T12:47:36Z,128,A leiningen plugin that lets you share tools.deps.alpha dependencies in your leiningen project,Clojure,https://github.com/RickMoynihan/lein-tools-deps
+876,cljs-noderepl,166,21,166,5,2012-11-04T18:31:27Z,2014-09-21T13:51:07Z,293,A ClojureScript REPL running on Node.JS,Clojure,https://github.com/bodil/cljs-noderepl
+877,zmq-async,166,13,166,3,2013-07-22T20:09:37Z,2014-11-23T19:54:21Z,563,Threadsafe Clojure core.async interface to ZeroMQ,Clojure,https://github.com/lynaghk/zmq-async
+878,functional-composition,166,33,166,1,2012-10-07T12:04:09Z,2024-09-15T21:36:10Z,316,"A live-coding presentation on music theory and Bach's ""Canone alla Quarta"".",Clojure,https://github.com/ctford/functional-composition
+879,macrovich,165,6,165,6,2016-12-15T12:51:37Z,2023-07-13T09:19:10Z,17,"A set of three macros to ease writing `*.cljc` supporting Clojure, Clojurescript and self-hosted Clojurescript.",Clojure,https://github.com/cgrand/macrovich
+880,swarmiji,165,9,165,2,2009-03-25T19:29:15Z,2011-11-18T00:41:47Z,6397,A distributed computing system that helps writing and running Clojure code in parallel - across cores and processors,Clojure,https://github.com/amitrathore/swarmiji
+881,clojurescript.test,165,32,165,1,2013-02-27T21:39:30Z,2015-11-25T13:49:43Z,975,A maximal port of `clojure.test` to ClojureScript. DEPRECATED,Clojure,https://github.com/cemerick/clojurescript.test
+882,propaganda,165,16,165,1,2013-06-24T21:29:58Z,2014-03-12T08:00:34Z,866,A propagator library for Clojure,Clojure,https://github.com/tgk/propaganda
+883,igoki,164,15,164,50,2015-08-25T07:43:20Z,2023-07-20T14:41:49Z,17854,Clojure Go Kifu recorder and OGS player,Clojure,https://github.com/CmdrDats/igoki
+884,clj-processing,164,12,164,1,2008-09-08T20:30:30Z,2012-03-18T14:04:04Z,635,A wrapper for Processing in Clojure.,Clojure,https://github.com/rosado/clj-processing
+885,json-html,163,15,163,0,2014-03-20T02:42:18Z,2020-05-30T16:06:14Z,58,Provide EDN/JSON and get a DOM node with a human representation of the data,Clojure,https://github.com/yogthos/json-html
+886,kitchen-async,163,8,163,11,2017-03-01T01:09:47Z,2022-12-06T15:05:44Z,202,"A Promise library for ClojureScript, or a poor man's core.async",Clojure,https://github.com/athos/kitchen-async
+887,zookeeper-clj,163,24,163,19,2011-10-25T00:52:35Z,2024-11-15T16:33:54Z,134,A Clojure DSL for Apache ZooKeeper,Clojure,https://github.com/liebke/zookeeper-clj
+888,ring-middleware-format,163,49,163,9,2011-08-15T13:05:51Z,2022-04-27T06:43:00Z,283,Ring middleware for parsing parameters and emitting responses in JSON or other formats,Clojure,https://github.com/ngrunwald/ring-middleware-format
+889,datomic-tutorial,163,11,163,0,2017-03-14T17:38:23Z,2017-03-27T17:20:40Z,150,,Clojure,https://github.com/ftravers/datomic-tutorial
+890,clojure-mode,163,18,163,14,2020-07-29T10:02:03Z,2024-12-09T10:16:02Z,14344,Clojure/Script mode for CodeMirror 6,Clojure,https://github.com/nextjournal/clojure-mode
+891,integrant-repl,163,17,163,4,2016-12-25T18:50:29Z,2024-11-01T21:27:12Z,33,Reloaded workflow functions for Integrant,Clojure,https://github.com/weavejester/integrant-repl
+892,cljs-bootstrap,163,17,163,3,2015-06-16T12:39:49Z,2015-07-27T15:28:43Z,604,ClojureScript compiling ClojureScript,Clojure,https://github.com/swannodette/cljs-bootstrap
+893,re-pressed,163,14,163,0,2018-04-15T23:33:33Z,2023-08-01T19:13:50Z,8267,re-pressed is a clojurescript library that handles keyboard events for re-frame applications.,Clojure,https://github.com/gadfly361/re-pressed
+894,rustly,162,1,162,0,2019-05-29T23:47:55Z,2020-03-22T19:36:56Z,18,A Clojure to Rust transpiler,Clojure,https://github.com/timothypratley/rustly
+895,clj-record,162,21,162,0,2008-12-27T19:25:16Z,2012-11-27T20:40:55Z,12277,DEPRECATED: A pseudo-port of ActiveRecord to the Clojure programming language,Clojure,https://github.com/duelinmarkers/clj-record
+896,config,162,15,162,1,2014-06-18T22:12:05Z,2024-10-06T19:31:13Z,49,Library for managing environment variables in Clojure using EDN configuration files,Clojure,https://github.com/yogthos/config
+897,jsx-to-clojurescript,162,10,162,1,2016-05-10T11:48:46Z,2018-02-08T15:47:07Z,145,Command and library to convert JSX snippets to Om/Reagent/Rum or other Clojurescript-style format.,Clojure,https://github.com/madvas/jsx-to-clojurescript
+898,test.generative,162,16,162,2,2011-04-23T18:24:45Z,2024-07-15T17:57:34Z,339,Generative test runner,Clojure,https://github.com/clojure/test.generative
+899,skream,162,9,162,4,2014-05-19T17:47:20Z,2014-07-29T19:36:58Z,430,Skream is a high-performance time-series library with memory-footprint guarantees.,Clojure,https://github.com/someben/skream
+900,pulse,161,6,161,14,2011-02-09T19:18:34Z,2014-11-10T18:39:33Z,1772,DEPRECATED: Real-time Heroku operations dashboard,Clojure,https://github.com/heroku/pulse
+901,matchure,161,8,161,8,2010-04-25T18:36:11Z,2011-11-29T01:12:14Z,813,"Powerful, idiomatic pattern matching for clojure",Clojure,https://github.com/dcolthorp/matchure
+902,special,161,7,161,2,2016-12-11T21:48:54Z,2018-09-21T05:21:09Z,19,Special (Conditions).  A condition system for Clojure,Clojure,https://github.com/clojureman/special
+903,lazytest,161,16,161,1,2010-02-22T15:14:32Z,2013-04-07T14:13:36Z,2153,(archived) New test framework for Clojure,Clojure,https://github.com/stuartsierra/lazytest
+904,clj-postgresql,161,18,161,9,2014-03-26T15:16:33Z,2025-03-07T08:23:57Z,111,PostgreSQL helpers for Clojure projects,Clojure,https://github.com/remodoy/clj-postgresql
+905,intension,161,7,161,0,2016-01-07T06:33:16Z,2017-03-03T17:17:07Z,14,Query nested maps/vectors with Datalog,Clojure,https://github.com/alandipert/intension
+906,clojure-linq-examples,161,11,161,1,2013-10-29T21:59:01Z,2020-02-13T21:52:21Z,146,C#'s 101 LINQ Samples translated to Clojure ,Clojure,https://github.com/mythz/clojure-linq-examples
+907,less-awful-ssl,160,25,160,3,2013-05-30T21:42:28Z,2024-11-13T17:10:09Z,29,"Sssh no tears, only TLS now. For Clojure.",Clojure,https://github.com/aphyr/less-awful-ssl
+908,clj-nix,160,22,160,26,2022-04-02T19:16:53Z,2025-03-24T03:48:51Z,1151,Nix helpers for Clojure projects,Clojure,https://github.com/jlesquembre/clj-nix
+909,datascript-chat,160,21,160,0,2014-08-28T08:01:31Z,2016-01-25T09:26:00Z,1823,Sample SPA using DataScript and core.async,Clojure,https://github.com/tonsky/datascript-chat
+910,llama.clj,160,9,160,3,2023-07-19T22:49:28Z,2025-02-07T22:35:48Z,305,Run LLMs locally. A clojure wrapper for llama.cpp.,Clojure,https://github.com/phronmophobic/llama.clj
+911,om-i,160,3,160,2,2015-02-28T10:36:09Z,2015-09-05T21:05:32Z,220,Instrumentation helpers for Om applications,Clojure,https://github.com/PrecursorApp/om-i
+912,system-viz,160,7,160,2,2015-12-10T18:12:37Z,2019-12-10T03:23:01Z,265,Graphviz visualization of a component system,Clojure,https://github.com/walmartlabs/system-viz
+913,org-html-slideshow,160,39,160,7,2011-12-28T20:08:21Z,2020-10-28T15:44:14Z,659,JavaScript presentation slides generated from Emacs org-mode,Clojure,https://github.com/relevance/org-html-slideshow
+914,matchbox,160,19,160,11,2015-02-15T13:21:54Z,2017-04-20T07:17:29Z,387,Firebase client for Clojure(Script),Clojure,https://github.com/crisptrutski/matchbox
+915,postagga,159,16,159,12,2017-03-10T11:19:05Z,2020-12-15T05:51:02Z,18510,A Library to parse natural language in pure Clojure and ClojureScript,Clojure,https://github.com/turbopape/postagga
+916,clj-wasm,159,4,159,0,2019-11-21T17:44:34Z,2019-11-24T20:55:54Z,9,Clojure-flavored WASM's text format,Clojure,https://github.com/roman01la/clj-wasm
+917,caves,158,21,158,0,2012-07-07T21:56:34Z,2012-10-13T20:30:29Z,173,The code for my Caves of Clojure series of blog posts.,Clojure,https://github.com/sjl/caves
+918,digest,158,18,158,1,2012-03-28T21:32:52Z,2023-07-28T21:12:17Z,771,"Digest algorithms (md5, sha1 ...) for Clojure",Clojure,https://github.com/clj-commons/digest
+919,SICP-Clojure,158,18,158,0,2012-11-25T21:49:31Z,2015-08-22T11:02:09Z,152,"Solutions to the SICP exercises, in Clojure.",Clojure,https://github.com/gregsexton/SICP-Clojure
+920,powderkeg,158,22,158,14,2016-12-02T02:48:07Z,2018-09-22T02:14:07Z,2780,Live-coding the cluster!,Clojure,https://github.com/HCADatalab/powderkeg
+921,whidbey,158,10,158,0,2014-05-09T07:33:56Z,2023-01-07T21:27:45Z,145,nREPL middleware to pretty-print colored values,Clojure,https://github.com/greglook/whidbey
+922,wah,158,8,158,0,2017-05-12T01:29:20Z,2019-07-28T06:34:53Z,41,a slightly higher-level language superset of webassembly,Clojure,https://github.com/tmcw/wah
+923,clojure-hadoop,157,39,157,0,2009-07-28T19:53:48Z,2012-03-06T22:01:11Z,210,Library to aid writing Hadoop jobs in Clojure.,Clojure,https://github.com/stuartsierra/clojure-hadoop
+924,fast-edn,157,1,157,1,2024-11-07T18:48:29Z,2025-01-05T17:04:04Z,370,Drop-in replacement for clojure.edn that is 6 times faster,Clojure,https://github.com/tonsky/fast-edn
+925,tryclojure,157,18,157,1,2022-02-19T07:53:13Z,2025-02-10T19:38:57Z,9707,Clojure live REPL tutorial,Clojure,https://github.com/eliascotto/tryclojure
+926,vizard,157,5,157,3,2015-10-29T02:16:38Z,2017-11-02T18:44:32Z,763,magic visualization,Clojure,https://github.com/sorenmacbeth/vizard
+927,grimoire,157,41,157,35,2014-07-01T02:01:27Z,2018-11-20T05:50:18Z,14104,Community documentation of Clojure,Clojure,https://github.com/clojure-grimoire/grimoire
+928,Postmortem,157,2,157,2,2018-11-09T11:07:33Z,2024-12-10T13:39:29Z,210,A simple debug library for Clojure(Script) that features data-oriented logging and tracing,Clojure,https://github.com/athos/Postmortem
+929,release-on-push-action,156,47,156,19,2019-10-26T17:22:13Z,2024-07-23T02:09:03Z,100,Github Action to create a git tag + release when pushed to master,Clojure,https://github.com/rymndhng/release-on-push-action
+930,snitch,156,3,156,16,2022-02-05T03:32:36Z,2025-01-13T11:37:32Z,183,"    Snitch injects inline defs in your functions and multimethods. This enables a repl-based, editor-agnostic, clojure and clojurescript debugging workflow. It is inline-defs on steroids.",Clojure,https://github.com/AbhinavOmprakash/snitch
+931,reagent-figwheel,156,9,156,0,2014-10-21T01:32:26Z,2018-06-26T00:18:07Z,102,"Leiningen template for Reagent applications in Clojurescript with Figwheel. Optionally includes secretary, cljs.test, garden, less, cider, devcards, cljs-devtools, re-risk",Clojure,https://github.com/gadfly361/reagent-figwheel
+932,boot-new,155,42,155,2,2015-12-31T17:14:12Z,2019-06-27T01:31:39Z,85,Generate new projects based on Boot Templates and/or Leiningen Templates!,Clojure,https://github.com/boot-clj/boot-new
+933,lein-bin,155,19,155,10,2011-11-14T21:21:35Z,2018-01-11T15:00:22Z,152,Standalone console executables for your project.,Clojure,https://github.com/Raynes/lein-bin
+934,full.async,155,9,155,2,2015-02-20T00:25:23Z,2020-01-31T17:34:56Z,629,Extensions and helpers for core.async.,Clojure,https://github.com/fullcontact/full.async
+935,bridge,155,10,155,0,2018-02-17T09:51:01Z,2019-02-06T17:12:24Z,205,A ClojureBridge event registration system - see readme for blog posts,Clojure,https://github.com/robert-stuttaford/bridge
+936,voluble,155,11,155,11,2020-02-23T02:21:47Z,2023-09-18T22:19:10Z,114,"Intelligent data generator for Apache Kafka. Generates streams of realistic data with support for cross-topic relationships, tombstoning, configurable rates, and more.",Clojure,https://github.com/MichaelDrogalis/voluble
+937,money,155,20,155,1,2012-03-11T14:44:30Z,2023-06-30T19:57:22Z,172,A Clojure library that deals with monetary values and currencies. Built on top of Joda Money.,Clojure,https://github.com/clojurewerkz/money
+938,clay,155,17,155,81,2022-03-28T10:51:45Z,2025-03-25T23:27:48Z,35643,A REPL-friendly Clojure tool for notebooks and datavis,Clojure,https://github.com/scicloj/clay
+939,clj-logging-config,155,23,155,7,2011-07-13T08:08:10Z,2020-01-15T10:24:15Z,115,Easy logging configuration for Clojure.,Clojure,https://github.com/malcolmsparks/clj-logging-config
+940,nimrod,154,2,154,7,2011-05-21T18:41:34Z,2013-04-22T07:28:08Z,893,"Not Invasive MetRics, Oh Dear!",Clojure,https://github.com/sbtourist/nimrod
+941,cljplot,154,7,154,12,2019-03-28T18:03:45Z,2024-09-25T14:02:14Z,72536,JVM Clojure charting library,Clojure,https://github.com/generateme/cljplot
+942,build-clj,154,10,154,0,2021-08-28T04:26:39Z,2023-02-01T02:02:50Z,87,Common build tasks abstracted into a library.,Clojure,https://github.com/seancorfield/build-clj
+943,parens-of-the-dead,154,9,154,0,2015-08-17T19:10:53Z,2019-08-18T19:46:17Z,1060,A series of zombie-themed games written with Clojure and ClojureScript.,Clojure,https://github.com/magnars/parens-of-the-dead
+944,ham-fisted,154,4,154,1,2022-04-21T21:05:47Z,2025-03-04T19:37:48Z,4126,High performance HAMT,Clojure,https://github.com/cnuernber/ham-fisted
+945,clojisr,154,10,154,30,2019-06-12T11:49:28Z,2025-01-15T10:24:22Z,3162,Clojure speaks statistics - a bridge between Clojure to R,Clojure,https://github.com/scicloj/clojisr
+946,swank-clojure,154,98,154,6,2008-04-04T00:09:28Z,2016-09-08T18:11:51Z,742,Swank/slime support for clojure,Clojure,https://github.com/jochu/swank-clojure
+947,bblgum,154,5,154,0,2023-01-21T20:33:13Z,2025-03-18T07:58:54Z,35,An extremely tiny and simple wrapper around charmbracelet/gum,Clojure,https://github.com/lispyclouds/bblgum
+948,lazybot,154,75,154,17,2010-03-26T03:29:58Z,2015-06-17T15:51:06Z,2320,An IRC bot written in Clojure.,Clojure,https://github.com/Raynes/lazybot
+949,paren-soup,154,12,154,6,2015-07-23T15:42:06Z,2020-12-22T22:08:04Z,16261,A browser-based editor for ClojureScript,Clojure,https://github.com/oakes/paren-soup
+950,excel-clj,154,9,154,4,2019-04-17T15:58:10Z,2023-02-12T18:57:23Z,985,"Write Excel docs & PDFs with Clojure data, from higher level abstractions (tree, table) or via a manual grid specification.",Clojure,https://github.com/matthewdowney/excel-clj
+951,comportex,153,27,153,6,2014-03-29T01:39:05Z,2016-09-23T09:01:27Z,1505,Hierarchical Temporal Memory in Clojure,Clojure,https://github.com/htm-community/comportex
+952,k8s-api,153,13,153,9,2019-12-19T14:26:22Z,2024-05-20T18:17:02Z,974,"Kubernetes client, data driven",Clojure,https://github.com/nubank/k8s-api
+953,clatrix,153,29,153,14,2012-04-26T21:45:34Z,2016-09-11T15:50:23Z,925,"A stupid name for a smart matrix library, because who doesn't love smart matrices?",Clojure,https://github.com/tel/clatrix
+954,vijual,153,30,153,6,2010-01-20T03:31:59Z,2017-07-11T11:24:55Z,550,Graph Layout Library For Clojure,Clojure,https://github.com/drcode/vijual
+955,narrator,152,5,152,1,2013-07-29T02:03:38Z,2016-01-23T04:12:07Z,296,"expressive, composable stream analysis",Clojure,https://github.com/ztellman/narrator
+956,grape,152,3,152,2,2019-10-26T18:01:25Z,2023-01-31T10:00:51Z,231,:grapes: Syntax-aware grep-like for Clojure,Clojure,https://github.com/bfontaine/grape
+957,keycloak-clojure,152,30,152,5,2017-12-13T22:12:22Z,2025-01-27T10:20:36Z,11873,A Clojure library helping the integration of Keycloak with a Clojure Application + a sample SPA Client and API Server demonstrating the Keycloak integration,Clojure,https://github.com/jgrodziski/keycloak-clojure
+958,hicada,152,11,152,2,2017-12-19T13:00:55Z,2020-11-10T07:41:15Z,53,Hiccup compiler similar to sablono,Clojure,https://github.com/rauhs/hicada
+959,mranderson,152,14,152,25,2014-08-24T22:26:42Z,2023-07-31T10:03:18Z,203,Dependency inlining and shadowing,Clojure,https://github.com/benedekfazekas/mranderson
+960,feynman_OS,152,5,152,2,2023-12-20T09:32:08Z,2024-03-17T04:26:24Z,22537,这是@howie.serious 的《费曼学习法》在笔记落地环节的示范项目。请直接通过网站体验效果。体验后有兴趣，则通过RELEASES 下载 logseq 模板。,Clojure,https://github.com/howie-serious/feynman_OS
+961,excel-templates,152,18,152,16,2014-10-09T18:33:20Z,2016-06-04T04:24:37Z,139,Create Excel workbooks from Clojure code using templates and plain old data,Clojure,https://github.com/tomfaulhaber/excel-templates
+962,chp,152,5,152,1,2013-05-08T05:53:23Z,2013-07-14T01:29:09Z,787,ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.,Clojure,https://github.com/runexec/chp
+963,jme-clj,151,10,151,3,2020-12-15T14:23:43Z,2024-09-12T21:50:37Z,80768,"A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine",Clojure,https://github.com/ertugrulcetin/jme-clj
+964,debug-repl,151,13,151,1,2010-02-01T07:10:03Z,2013-08-19T06:01:56Z,181,Clojure REPL that is aware of surrounding lexical scope,Clojure,https://github.com/GeorgeJahad/debug-repl
+965,unilog,151,9,151,0,2014-10-14T15:37:34Z,2025-02-04T21:33:31Z,189,easy logging setup in clojure,Clojure,https://github.com/pyr/unilog
+966,uclj,151,1,151,6,2021-12-21T20:52:06Z,2023-06-03T19:38:06Z,110,"Small, quick, native Clojure interpreter",Clojure,https://github.com/erdos/uclj
+967,re-frame-flow,151,3,151,0,2021-05-08T16:46:11Z,2021-05-18T09:05:19Z,1077,Graph based visualization tool for re-frame event chains,Clojure,https://github.com/ertugrulcetin/re-frame-flow
+968,soda-ash,151,8,151,1,2016-01-17T00:29:07Z,2018-11-19T16:41:17Z,524,Soda-ash is an interface between clojurescript's Reagent and Semantic UI React,Clojure,https://github.com/gadfly361/soda-ash
+969,fleet,151,10,151,0,2009-12-28T11:27:17Z,2019-01-08T10:53:39Z,310,Templating System for Clojure,Clojure,https://github.com/Flamefork/fleet
+970,iota,150,7,150,5,2015-07-17T14:13:45Z,2019-06-06T13:14:40Z,27,Infix operators for test assertions,Clojure,https://github.com/juxt/iota
+971,datomic-schema,150,22,150,6,2013-08-07T20:31:14Z,2022-01-18T08:01:51Z,55,Makes it easier to see your Datomic schema without sacrificing any features.,Clojure,https://github.com/Yuppiechef/datomic-schema
+972,mug,150,5,150,10,2010-11-10T09:09:42Z,2011-10-04T22:37:14Z,46266,A self-hosted JavaScript compiler for the JVM. Written in CoffeeScript.,Clojure,https://github.com/tcr/mug
+973,buddy-core,150,50,150,7,2014-12-27T14:25:16Z,2024-07-19T09:35:53Z,812,Cryptographic api for Clojure,Clojure,https://github.com/funcool/buddy-core
+974,ring-http-response,150,25,150,2,2014-02-07T12:43:05Z,2025-02-16T10:10:12Z,195,Handling HTTP Statuses with Clojure(Script),Clojure,https://github.com/metosin/ring-http-response
+975,finagle-clojure,150,18,150,3,2014-08-06T20:08:21Z,2023-10-30T22:13:54Z,465,A thin Clojure wrapper around Finagle,Clojure,https://github.com/finagle/finagle-clojure
+976,testcontainers-clj,150,15,150,11,2020-06-04T08:43:13Z,2024-04-30T23:22:29Z,150,Control Docker containers from your test lifecycle for Clojure integration tests.,Clojure,https://github.com/testcontainers/testcontainers-clj
+977,exploding-fish,150,12,150,7,2012-05-05T02:31:35Z,2018-07-16T13:42:34Z,128,A URI library for Clojure,Clojure,https://github.com/wtetzner/exploding-fish
+978,deps-deploy,150,33,150,15,2018-11-04T20:58:12Z,2024-02-06T19:03:38Z,59,deploy your stuff ,Clojure,https://github.com/slipset/deps-deploy
+979,ring-oauth2,149,39,149,11,2017-07-05T15:06:18Z,2024-07-08T00:26:29Z,84,OAuth 2.0 client middleware for Ring,Clojure,https://github.com/weavejester/ring-oauth2
+980,nbb-logseq,149,3,149,3,2022-04-25T20:38:58Z,2025-03-10T19:27:33Z,6438,nbb with features enabled for logseq,Clojure,https://github.com/logseq/nbb-logseq
+981,grumpy,149,14,149,11,2017-08-30T19:03:33Z,2024-04-11T08:18:53Z,712,Minimalistic blog engine,Clojure,https://github.com/tonsky/grumpy
+982,carry,148,6,148,0,2016-02-18T17:50:32Z,2019-06-21T07:16:55Z,33201,ClojureScript application framework.,Clojure,https://github.com/metametadata/carry
+983,fusebox,148,1,148,0,2020-02-20T17:43:10Z,2024-12-02T12:44:44Z,425,An extremely lightweight fault tolerance library for Clojure(Script),Clojure,https://github.com/potetm/fusebox
+984,reaver,148,13,148,0,2014-12-09T19:23:30Z,2025-01-16T19:28:59Z,25,A Clojure library for extracting data from HTML.,Clojure,https://github.com/mischov/reaver
+985,electron-and-clojurescript,148,21,148,4,2015-09-11T08:18:50Z,2019-10-21T08:38:13Z,8,💡 Make an electron app with nothing but ClojureScript!,Clojure,https://github.com/martinklepsch/electron-and-clojurescript
+986,trikl,148,8,148,1,2018-11-12T16:35:22Z,2022-11-15T15:48:51Z,227,Terminal UI library for Clojure,Clojure,https://github.com/lambdaisland/trikl
+987,notespace,148,10,148,21,2019-11-16T13:56:43Z,2024-01-03T20:35:49Z,15769,using your namespace as a notebook,Clojure,https://github.com/scicloj/notespace
+988,sketchy,148,18,148,1,2013-06-15T03:22:18Z,2023-06-07T16:10:59Z,151,"Sketching Algorithms for Clojure (bloom filter, min-hash, hyper-loglog, count-min sketch)",Clojure,https://github.com/bigmlcom/sketchy
+989,core.unify,148,9,148,1,2010-10-12T13:30:16Z,2024-11-06T18:08:02Z,151,Unification library,Clojure,https://github.com/clojure/core.unify
+990,alumbra,148,14,148,2,2016-11-12T13:40:15Z,2017-06-12T12:12:14Z,116,Simple & Elegant GraphQL for Clojure!,Clojure,https://github.com/alumbra/alumbra
+991,clj-ml,148,55,148,3,2010-02-28T12:12:41Z,2016-02-22T14:38:21Z,504,A machine learning library for Clojure built on top of Weka and friends,Clojure,https://github.com/antoniogarrote/clj-ml
+992,lein-beanstalk,148,41,148,25,2011-01-22T20:14:09Z,2016-03-30T03:13:53Z,273,Leiningen plugin for Amazon's Elastic Beanstalk service,Clojure,https://github.com/weavejester/lein-beanstalk
+993,punk,148,5,148,13,2018-12-17T18:43:52Z,2021-03-30T18:13:44Z,14536,A data REBL built for the web,Clojure,https://github.com/lilactown/punk
+994,clairvoyant,147,10,147,5,2014-08-29T21:32:57Z,2017-04-04T14:39:04Z,412,Flexible tracing for ClojureScript,Clojure,https://github.com/spellhouse/clairvoyant
+995,pattern,147,5,147,0,2021-05-07T06:32:28Z,2024-12-20T17:51:16Z,832,Pattern lets you transform data structures in amazing ways.,Clojure,https://github.com/pangloss/pattern
+996,clojurescript-lua,147,7,147,3,2012-06-15T18:02:54Z,2018-03-02T17:45:26Z,198,Clojurescript running on lua ! In construction,Clojure,https://github.com/raph-amiard/clojurescript-lua
+997,samsara,147,17,147,40,2016-01-08T21:41:38Z,2023-05-22T21:34:53Z,23943,Samsara is a real-time analytics platform,Clojure,https://github.com/samsara/samsara
+998,traversy,147,10,147,4,2014-08-10T16:33:00Z,2019-11-20T15:55:46Z,149,Multilenses for Clojure,Clojure,https://github.com/ctford/traversy
+999,libpython-clj-examples,146,20,146,1,2020-01-11T00:28:40Z,2020-06-13T22:46:15Z,3688,Examples using libpython-clj,Clojure,https://github.com/gigasquid/libpython-clj-examples
+1000,syme,146,25,146,9,2013-01-10T06:28:07Z,2020-07-17T19:44:38Z,472,Instant collaboration on GitHub projects.,Clojure,https://github.com/technomancy/syme
