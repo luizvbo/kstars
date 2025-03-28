@@ -1,10 +1,7 @@
 use anyhow::{Context, Result};
 use clap::Parser;
 use csv::Writer;
-use reqwest::{
-    Client,
-    header::{ACCEPT, AUTHORIZATION, HeaderMap, HeaderValue, USER_AGENT},
-};
+use reqwest::Client;
 use serde::Deserialize;
 use std::{fs, path::Path, time::Duration};
 use tokio::time::sleep;
@@ -88,7 +85,12 @@ fn get_access_token(token_input: Option<String>) -> Result<String> {
 }
 
 /// Fetches repositories for a given language and page (each page has 100 results).
-async fn fetch_repos(client: &reqwest::Client, token: &str, language: &str, page: u32) -> Result<Vec<Repo>> {
+async fn fetch_repos(
+    client: &reqwest::Client,
+    token: &str,
+    language: &str,
+    page: u32,
+) -> Result<Vec<Repo>> {
     let url = format!(
         "https://api.github.com/search/repositories?q=language:{}&sort=stars&order=desc&per_page=100&page={}",
         language, page
@@ -97,15 +99,23 @@ async fn fetch_repos(client: &reqwest::Client, token: &str, language: &str, page
 
     // Set up headers
     let mut headers = reqwest::header::HeaderMap::new();
-    headers.insert(reqwest::header::USER_AGENT, reqwest::header::HeaderValue::from_static("rust-github-app"));
-    headers.insert(reqwest::header::ACCEPT, reqwest::header::HeaderValue::from_static("application/vnd.github.v3+json"));
+    headers.insert(
+        reqwest::header::USER_AGENT,
+        reqwest::header::HeaderValue::from_static("rust-github-app"),
+    );
+    headers.insert(
+        reqwest::header::ACCEPT,
+        reqwest::header::HeaderValue::from_static("application/vnd.github.v3+json"),
+    );
     headers.insert(
         reqwest::header::AUTHORIZATION,
-        reqwest::header::HeaderValue::from_str(&format!("token {}", token)).expect("Invalid token format"),
+        reqwest::header::HeaderValue::from_str(&format!("token {}", token))
+            .expect("Invalid token format"),
     );
 
     // Send the request
-    let resp = client.get(&url)
+    let resp = client
+        .get(&url)
         .headers(headers)
         .send()
         .await
@@ -126,7 +136,12 @@ async fn fetch_repos(client: &reqwest::Client, token: &str, language: &str, page
 
     // Now check if the response was successful
     if !resp.status().is_success() {
-        error!("Failed to fetch page {} for {}: {}", page, language, resp.status());
+        error!(
+            "Failed to fetch page {} for {}: {}",
+            page,
+            language,
+            resp.status()
+        );
         anyhow::bail!("Request failed with status {}", resp.status());
     }
 
@@ -135,10 +150,14 @@ async fn fetch_repos(client: &reqwest::Client, token: &str, language: &str, page
         .json()
         .await
         .context("Failed to deserialize JSON response")?;
-    debug!("Page {} for {} returned {} repos.", page, language, search_resp.items.len());
+    debug!(
+        "Page {} for {} returned {} repos.",
+        page,
+        language,
+        search_resp.items.len()
+    );
     Ok(search_resp.items)
 }
-
 
 /// Fetches up to `records` repositories for the specified language.
 /// Iterates in pages of 100 (capped to 10 pages due to GitHub limitations).
