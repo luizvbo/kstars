@@ -2,7 +2,7 @@
 // For each language, you should have a "top10_<Language>.csv" (for the homepage)
 // and a "<Language>.csv" (for the expanded page).
 const languages = [
-  { name: "R", top10: "top10_R.csv", full: "R.csv" },
+  { name: "C", top10: "top10_C.csv", full: "C.csv" },
   // Add additional languages here, e.g.:
   // { name: "Python", top10: "top10_Python.csv", full: "Python.csv" },
   // { name: "JavaScript", top10: "top10_JavaScript.csv", full: "JavaScript.csv" },
@@ -14,7 +14,7 @@ const contentDiv = document.getElementById("content");
 // Function to create a sortable table from CSV data.
 function createTable(data) {
   const table = document.createElement("table");
-  table.classList.add("sortable");
+  table.setAttribute("data-sortable", "");
 
   // Create table header.
   const thead = document.createElement("thead");
@@ -30,7 +30,7 @@ function createTable(data) {
   // Create table body.
   const tbody = document.createElement("tbody");
   // Start from index 1 to skip header row.
-  for (let i = 1; i < data.length; i++) {
+  for (let i = 1; i < data.length-1; i++) {
     const row = document.createElement("tr");
     data[i].forEach((cell) => {
       const td = document.createElement("td");
@@ -45,7 +45,7 @@ function createTable(data) {
 
 // Function to load a CSV file and add its table to the page.
 function loadCSV(language) {
-  Papa.parse("results/" + language.top10, {
+  Papa.parse("data/processed/" + language.top10, {
     download: true,
     complete: function (results) {
       const sectionDiv = document.createElement("div");
@@ -81,6 +81,7 @@ function loadCSV(language) {
 
 // Load each language’s top-10 CSV.
 languages.forEach((language) => loadCSV(language));
+document.addEventListener('DOMContentLoaded', Sortable.init);
 
 // Theme toggle functionality.
 const themeToggle = document.getElementById("themeToggle");
