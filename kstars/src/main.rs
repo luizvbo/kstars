@@ -88,60 +88,57 @@ fn get_access_token(token_input: Option<String>) -> Result<String> {
 }
 
 /// Fetches repositories for a given language and page (each page has 100 results).
-/// Fetches repositories for a given language and page (each page has 100 results).
-async fn fetch_repos(
-    client: &reqwest::Client,
-    token: &str,
-    language: &str,
-    page: u32,
-) -> Result<Vec<Repo>> {
+async fn fetch_repos(client: &reqwest::Client, token: &str, language: &str, page: u32) -> Result<Vec<Repo>> {
     let url = format!(
         "https://api.github.com/search/repositories?q=language:{}&sort=stars&order=desc&per_page=100&page={}",
         language, page
     );
     debug!("Requesting URL: {}", url);
 
-    // Create a header map and set the required headers
-    let mut headers = HeaderMap::new();
-    headers.insert(USER_AGENT, HeaderValue::from_static("rust-github-app"));
+    // Set up headers
+    let mut headers = reqwest::header::HeaderMap::new();
+    headers.insert(reqwest::header::USER_AGENT, reqwest::header::HeaderValue::from_static("rust-github-app"));
+    headers.insert(reqwest::header::ACCEPT, reqwest::header::HeaderValue::from_static("application/vnd.github.v3+json"));
     headers.insert(
-        ACCEPT,
-        HeaderValue::from_static("application/vnd.github.v3+json"),
-    );
-    headers.insert(
-        AUTHORIZATION,
-        HeaderValue::from_str(&format!("token {}", token)).expect("Invalid token format"),
+        reqwest::header::AUTHORIZATION,
+        reqwest::header::HeaderValue::from_str(&format!("token {}", token)).expect("Invalid token format"),
     );
 
-    let resp = client
-        .get(&url)
+    // Send the request
+    let resp = client.get(&url)
         .headers(headers)
         .send()
         .await
         .context("HTTP request failed")?;
 
+    // Handle rate limiting if a 403 error is returned
+    if resp.status() == reqwest::StatusCode::FORBIDDEN {
+        let headers = resp.headers();
+        if let Some(retry_after) = headers.get("x-ratelimit-reset") {
+            let reset_time: u64 = retry_after.to_str()?.parse()?;
+            let wait_time = reset_time - (chrono::Utc::now().timestamp() as u64);
+            if wait_time > 0 {
+                warn!("Rate limit exceeded. Sleeping for {} seconds...", wait_time);
+                tokio::time::sleep(tokio::time::Duration::from_secs(wait_time)).await;
+            }
+        }
+    }
+
+    // Now check if the response was successful
     if !resp.status().is_success() {
-        error!(
-            "Failed to fetch page {} for {}: {}",
-            page,
-            language,
-            resp.status()
-        );
+        error!("Failed to fetch page {} for {}: {}", page, language, resp.status());
         anyhow::bail!("Request failed with status {}", resp.status());
     }
 
+    // Deserialize the response into SearchResponse
     let search_resp: SearchResponse = resp
         .json()
         .await
         .context("Failed to deserialize JSON response")?;
-    debug!(
-        "Page {} for {} returned {} repos.",
-        page,
-        language,
-        search_resp.items.len()
-    );
+    debug!("Page {} for {} returned {} repos.", page, language, search_resp.items.len());
     Ok(search_resp.items)
 }
+
 
 /// Fetches up to `records` repositories for the specified language.
 /// Iterates in pages of 100 (capped to 10 pages due to GitHub limitations).
