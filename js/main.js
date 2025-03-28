@@ -1,8 +1,38 @@
-// List of languages with corresponding CSV file names.
-// For each language, you should have a "top10_<Language>.csv" (for the homepage)
-// and a "<Language>.csv" (for the expanded page).
 const languages = [
-  { name: "C", top10: "top10_C.csv", full: "C.csv" },
+  "ActionScript",
+  "C",
+  "C#",
+  "C++",
+  "Clojure",
+  "CoffeeScript",
+  "CSS",
+  "Dart",
+  "DM",
+  "Elixir",
+  "Go",
+  "Groovy",
+  "Haskell",
+  "HTML",
+  "Java",
+  "JavaScript",
+  "Julia",
+  "Kotlin",
+  "Lua",
+  "MATLAB",
+  "Objective-C",
+  "Perl",
+  "PHP",
+  "PowerShell",
+  "Python",
+  "R",
+  "Ruby",
+  "Rust",
+  "Scala",
+  "Shell",
+  "Swift",
+  "TeX",
+  "TypeScript",
+  "Vim script",
 ];
 
 const contentDiv = document.getElementById("content");
@@ -41,8 +71,8 @@ function createTable(data) {
 }
 
 // Function to load a CSV file and add its table to the page.
-function loadCSV(language) {
-  Papa.parse("data/processed/" + language.top10, {
+function loadCSV(language, folder, prefix) {
+  Papa.parse(folder + prefix + language, {
     download: true,
     complete: function (results) {
       const sectionDiv = document.createElement("div");
