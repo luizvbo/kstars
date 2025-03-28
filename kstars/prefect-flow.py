@@ -69,6 +69,8 @@ def human_readable_size(size_kb):
 
 @task(
     tags=["kstars-data-processing"],
+    retries=10,
+    retry_delay_seconds=30,
     cache_policy=CACHE_POLICY,
     cache_expiration=timedelta(days=1),
 )
@@ -89,7 +91,11 @@ def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
 
 
 @task(
-    tags=["kstars-api"], cache_policy=CACHE_POLICY, cache_expiration=timedelta(days=1)
+    tags=["kstars-api"],
+    retries=10,
+    retry_delay_seconds=30,
+    cache_policy=CACHE_POLICY,
+    cache_expiration=timedelta(days=1),
 )
 def run_kstars(language: str, lang_name: str, output_folder: str | Path):
     logger = get_run_logger()
