@@ -1,9 +1,11 @@
 import subprocess
+from datetime import timedelta
 from pathlib import Path
 from typing import TypeVar
 
 import pandas as pd
 from prefect import flow, task
+from prefect.cache_policies import DEFAULT
 from prefect.concurrency.sync import rate_limit
 from prefect.logging import get_run_logger
 from prefect.states import Failed
@@ -47,6 +49,7 @@ LANGUAGES = {
     "Vim-script": "Vim script",
 }
 OUTPUT_FOLDER = "../data"
+CACHE_POLICY = DEFAULT
 
 
 def human_readable_size(size_kb):
@@ -64,8 +67,12 @@ def human_readable_size(size_kb):
         return f"{size_tb:.2f} TB"
 
 
-@task(tags=["kstars-data-processing"])
-def preprocess_data(lang_name: str,input_folder: Path, output_folder: Path):
+@task(
+    tags=["kstars-data-processing"],
+    cache_policy=CACHE_POLICY,
+    cache_expiration=timedelta(days=1),
+)
+def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
     logger = get_run_logger()
     fname = f"{lang_name}.csv"
     df: pd.DataFrame = pd.read_csv(Path(input_folder) / fname)
@@ -80,7 +87,10 @@ def preprocess_data(lang_name: str,input_folder: Path, output_folder: Path):
     df.head(10).to_csv(fname_out_top10, index=False)
     logger.info(f"Stored processed files to '{fname_out}' and '{fname_out_top10}'")
 
-@task(tags=["kstars-api"])
+
+@task(
+    tags=["kstars-api"], cache_policy=CACHE_POLICY, cache_expiration=timedelta(days=1)
+)
 def run_kstars(language: str, lang_name: str, output_folder: str | Path):
     logger = get_run_logger()
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name} -o {output_folder}"
@@ -114,9 +124,7 @@ def run_kstars_flow(languages: dict[str, str], output_folder: str):
     for lang, lang_name in languages.items():
         rate_limit("rate-limited-gh-api")
         _ = run_kstars(lang, lang_name, path_data_original)
-        preprocess_data(
-            lang_name, path_data_original, path_data_processed
-        )
+        preprocess_data(lang_name, path_data_original, path_data_processed)
 
 
 if __name__ == "__main__":
