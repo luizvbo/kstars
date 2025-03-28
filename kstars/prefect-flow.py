@@ -77,12 +77,20 @@ def human_readable_size(size_kb):
 def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
     logger = get_run_logger()
     fname = f"{lang_name}.csv"
-    df: pd.DataFrame = pd.read_csv(Path(input_folder) / fname)
+    path_input = Path(input_folder) / fname
+    try:
+        df: pd.DataFrame = pd.read_csv(path_input)
+    except FileNotFoundError:
+        return Failed(message=f"File '{path_input}' not found.")
+
     for col in ("Last Commit", "Created At"):
-        df[col] = df[col].apply(pd.to_datetime).dt.date
-    for col in ("Stars", "Forks", "Watchers", "Open Issues"):
-        df[col] = df[col].apply("{:,}".format)
-    df["Size (KB)"] = df["Size (KB)"].apply(human_readable_size)
+        df[col] = df[col].apply(pd.to_datetime).dt.strftime("%d/%m/%Y")
+    df["Size"] = df["Size (KB)"].apply(human_readable_size)
+
+    new_columns = df.columns.drop("Size").tolist()
+    new_columns.insert(new_columns.index("Size (KB)"), "Size")
+    df = df[new_columns]
+
     fname_out = Path(output_folder) / fname
     fname_out_top10 = Path(output_folder) / f"top10_{fname}"
     df.to_csv(fname_out, index=False)
@@ -123,13 +131,19 @@ def run_kstars(language: str, lang_name: str, output_folder: str | Path):
 @flow(log_prints=True)
 def run_kstars_flow(languages: dict[str, str], output_folder: str):
     path_data_original = Path(output_folder) / "original"
-    path_data_processed = Path(output_folder) / "processed"
-    # Create the folders if they still don't exist
     path_data_original.mkdir(parents=True, exist_ok=True)
-    path_data_processed.mkdir(parents=True, exist_ok=True)
+
     for lang, lang_name in languages.items():
         rate_limit("rate-limited-gh-api")
         _ = run_kstars(lang, lang_name, path_data_original)
+
+
+@flow(log_prints=True)
+def run_post_processing(languages: dict[str, str], output_folder: str):
+    path_data_original = Path(output_folder) / "original"
+    path_data_processed = Path(output_folder) / "processed"
+    path_data_processed.mkdir(parents=True, exist_ok=True)
+    for _, lang_name in languages.items():
         preprocess_data(lang_name, path_data_original, path_data_processed)
 
 
