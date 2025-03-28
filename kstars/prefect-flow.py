@@ -8,7 +8,6 @@ from prefect import State, flow, serve, task
 from prefect.cache_policies import DEFAULT
 from prefect.concurrency.sync import rate_limit
 from prefect.logging import get_run_logger
-from prefect.states import Failed
 
 T = TypeVar("T")
 
@@ -72,9 +71,7 @@ def human_readable_size(size_kb: int) -> str:
     retries=5,
     retry_delay_seconds=10,
 )
-def preprocess_data(
-    lang_name: str, input_folder: Path, output_folder: Path
-) -> None | State:
+def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
     logger = get_run_logger()
     fname = f"{lang_name}.csv"
     input_file_path = Path(input_folder) / fname
@@ -95,20 +92,22 @@ def preprocess_data(
             f"Stored processed files to '{output_file_path}' and '{output_top10_file_path}'"
         )
 
-    except FileNotFoundError:
-        return Failed(message=f"Error: Input file not found at '{input_file_path}'")
+    except FileNotFoundError as e:
+        logger.error(f"Error: Input file not found at '{input_file_path}'")
+        raise e
     except KeyError as e:
-        return Failed(
-            message=f"Error: Column not found in CSV '{input_file_path}': {e}"
-        )
+        logger.error(f"Error: Column not found in CSV '{input_file_path}': {e}")
+        raise e
+
     except ValueError as e:
-        return Failed(message=f"Error processing data in '{input_file_path}': {e}")
-    except PermissionError:
-        return Failed(
-            message=f"Error: Permission denied while writing to output folder '{output_folder}'"
-        )
+        logger.error(f"Error processing data in '{input_file_path}': {e}")
+        raise e
+    except PermissionError as e:
+        logger.error(f"Error: Permission denied while writing to '{output_folder}'")
+        raise e
     except Exception as e:
-        return Failed(message=f"An unexpected error occurred: {e}")
+        logger.error(f"An unexpected error occurred: {e}")
+        raise e
 
 
 @task(
@@ -132,13 +131,14 @@ def run_kstars_task(
         logger.error(result.stderr)
 
     except subprocess.CalledProcessError as e:
-        return Failed(message=f"Error running command: {e}\n{e.stdout}\n{e.stderr}")
-    except FileNotFoundError:
-        return Failed(
-            message=f"Error: The command '{command.split()[0]}' was not found."
-        )
+        logger.error(f"Error running command: {e}\n{e.stdout}\n{e.stderr}")
+        raise e
+    except FileNotFoundError as e:
+        logger.error(f"Error: The command '{command.split()[0]}' was not found.")
+        raise e
     except Exception as e:
-        return Failed(message=f"An unexpected error occurred: {e}")
+        logger.error(f"An unexpected error occurred: {e}")
+        raise e
 
 
 @flow(log_prints=True)
