@@ -2,7 +2,7 @@
 ## Prefect
 
 ```shell
-prefect gcl create rate-limited-gh-api --limit 5 --slot-decay-per-second 1.0
+prefect gcl create rate-limited-gh-api --limit 1 --slot-decay-per-second 0.09
 
 export PREFECT_API_URL="http://127.0.0.1:4200/api"
 

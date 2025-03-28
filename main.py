@@ -5,6 +5,7 @@ from typing import TypeVar
 
 from prefect import flow, task
 from prefect.concurrency.sync import rate_limit
+from prefect.states import Failed
 
 T = TypeVar("T")
 
@@ -69,11 +70,11 @@ def run_kstars(language: str, lang_name: str):
         logger.error(result.stderr)
 
     except subprocess.CalledProcessError as e:
-        logger.error(f"Error running command: {e}\n{e.stdout}\n{e.stderr}")
+        return Failed(message=f"Error running command: {e}\n{e.stdout}\n{e.stderr}")
     except FileNotFoundError:
-        logger.error(f"Error: The command '{command.split()[0]}' was not found.")
+        return Failed(message=f"Error: The command '{command.split()[0]}' was not found.")
     except Exception as e:
-        logger.error(f"An unexpected error occurred: {e}")
+        return Failed(message=f"An unexpected error occurred: {e}")
 
     return lang_name
 
