@@ -122,7 +122,7 @@ def run_kstars_task(
     language: str, lang_name: str, output_folder: str | Path
 ) -> None | State:
     logger = get_run_logger()
-    command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name} -o {output_folder}"
+    command = f'kstars -t $(cat access_token.txt) -l "{language}:{lang_name}" -o {output_folder}'
     print(f"Running command: {command}")
     try:
         result = subprocess.run(
