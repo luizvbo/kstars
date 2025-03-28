@@ -46,7 +46,7 @@ LANGUAGES = {
     "TypeScript": "TypeScript",
     "Vim-script": "Vim script",
 }
-OUTPUT_FOLDER = "./data"
+OUTPUT_FOLDER = "../data"
 
 
 def human_readable_size(size_kb):
