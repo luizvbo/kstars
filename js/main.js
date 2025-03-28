@@ -3,13 +3,10 @@
 // and a "<Language>.csv" (for the expanded page).
 const languages = [
   { name: "C", top10: "top10_C.csv", full: "C.csv" },
-  // Add additional languages here, e.g.:
-  // { name: "Python", top10: "top10_Python.csv", full: "Python.csv" },
-  // { name: "JavaScript", top10: "top10_JavaScript.csv", full: "JavaScript.csv" },
-  // ... up to 34 languages.
 ];
 
 const contentDiv = document.getElementById("content");
+let loadedLanguagesCount = 0;
 
 // Function to create a sortable table from CSV data.
 function createTable(data) {
@@ -30,7 +27,7 @@ function createTable(data) {
   // Create table body.
   const tbody = document.createElement("tbody");
   // Start from index 1 to skip header row.
-  for (let i = 1; i < data.length-1; i++) {
+  for (let i = 1; i < data.length - 1; i++) {
     const row = document.createElement("tr");
     data[i].forEach((cell) => {
       const td = document.createElement("td");
@@ -60,7 +57,6 @@ function loadCSV(language) {
 
       // Create a link to the expanded table page.
       const link = document.createElement("a");
-      // This assumes you have a separate HTML page (e.g., R.html) that displays the full table.
       link.href = language.full.replace(".csv", ".html");
       link.textContent = "View full list";
       headerDiv.appendChild(link);
@@ -72,16 +68,27 @@ function loadCSV(language) {
       sectionDiv.appendChild(table);
 
       contentDiv.appendChild(sectionDiv);
+
+      // Increment the counter and check if all languages are loaded.
+      loadedLanguagesCount++;
+      if (loadedLanguagesCount === languages.length) {
+        Sortable.init();
+      }
     },
     error: function (err) {
       console.error("Error loading CSV for " + language.name, err);
+      // Even if there's an error, you might want to check if all expected loads are attempted
+      loadedLanguagesCount++;
+      if (loadedLanguagesCount === languages.length) {
+        Sortable.init();
+      }
     },
   });
 }
 
 // Load each language’s top-10 CSV.
 languages.forEach((language) => loadCSV(language));
-document.addEventListener('DOMContentLoaded', Sortable.init);
+document.addEventListener("DOMContentLoaded", Sortable.init);
 
 // Theme toggle functionality.
 const themeToggle = document.getElementById("themeToggle");
