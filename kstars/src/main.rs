@@ -41,8 +41,8 @@ struct Repo {
     language: Option<String>,
     description: Option<String>,
     open_issues_count: u64,
-    pushed_at: String,
     created_at: String,
+    pushed_at: String,
     size: u64,
 }
 
@@ -173,8 +173,8 @@ fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<()> {
         "Forks",
         "Watchers",
         "Open Issues",
-        "Last Commit",
         "Created At",
+        "Last Commit",
         "Size (KB)",
         "Description",
         "Language",
@@ -188,8 +188,8 @@ fn write_repos_to_csv<P: AsRef<Path>>(path: P, repos: &[Repo]) -> Result<()> {
             repo.forks_count.to_string(),
             repo.watchers_count.to_string(),
             repo.open_issues_count.to_string(),
-            repo.pushed_at.clone(),
             repo.created_at.clone(),
+            repo.pushed_at.clone(),
             repo.size.to_string(),
             repo.description.clone().unwrap_or_default(),
             repo.language.clone().unwrap_or_default(),
@@ -326,8 +326,15 @@ async fn main() -> Result<()> {
         let safe_name: String = mapping
             .display_name
             .chars()
-            .map(|c| if c.is_alphanumeric() { c } else { '_' })
+            .map(|c| {
+                if c.is_alphanumeric() || vec!['_', '-', '.', '+', '#', ' '].contains(&c) {
+                    c
+                } else {
+                    '_'
+                }
+            })
             .collect();
+
         let file_path = format!("{}/{}.csv", args.output, safe_name);
         write_repos_to_csv(&file_path, &repos)
             .with_context(|| format!("Failed writing CSV for {}", mapping.display_name))?;
@@ -399,8 +406,8 @@ mod tests {
                 language: Some("Rust".to_string()),
                 description: Some("The Rust Programming Language".to_string()),
                 open_issues_count: 5000,
-                pushed_at: "2023-01-01T00:00:00Z".to_string(),
                 created_at: "2010-01-01T00:00:00Z".to_string(),
+                pushed_at: "2023-01-01T00:00:00Z".to_string(),
                 size: 100000,
             },
             Repo {
@@ -412,8 +419,8 @@ mod tests {
                 language: Some("Rust".to_string()),
                 description: Some("Actor framework for Rust".to_string()),
                 open_issues_count: 1000,
-                pushed_at: "2023-01-02T00:00:00Z".to_string(),
                 created_at: "2018-01-01T00:00:00Z".to_string(),
+                pushed_at: "2023-01-02T00:00:00Z".to_string(),
                 size: 5000,
             },
         ];
