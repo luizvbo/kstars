@@ -118,7 +118,9 @@ def preprocess_data(
     cache_policy=CACHE_POLICY,
     cache_expiration=timedelta(days=1),
 )
-def run_kstars_task(language: str, lang_name: str, output_folder: str | Path) -> None|State:
+def run_kstars_task(
+    language: str, lang_name: str, output_folder: str | Path
+) -> None | State:
     logger = get_run_logger()
     command = f"kstars -t $(cat access_token.txt) -l {language}:{lang_name} -o {output_folder}"
     print(f"Running command: {command}")
@@ -139,9 +141,8 @@ def run_kstars_task(language: str, lang_name: str, output_folder: str | Path) ->
         return Failed(message=f"An unexpected error occurred: {e}")
 
 
-
 @flow(log_prints=True)
-def run_kstars(languages: dict[str, str], output_folder: str):
+def run_load_api(languages: dict[str, str], output_folder: str):
     path_data_original = Path(output_folder) / "original"
     path_data_original.mkdir(parents=True, exist_ok=True)
 
@@ -160,7 +161,7 @@ def run_post_processing(languages: dict[str, str], output_folder: str):
 
 
 if __name__ == "__main__":
-    flow_run_kstars = run_kstars.to_deployment(
+    flow_run_kstars = run_load_api.to_deployment(
         name="kstars-load-api",
         parameters={"languages": LANGUAGES, "output_folder": OUTPUT_FOLDER},
         cron="0 1 * * 5",
