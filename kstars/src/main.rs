@@ -136,13 +136,16 @@ async fn fetch_repos(
 
     // Now check if the response was successful
     if !resp.status().is_success() {
+        let status = resp.status(); // capture status first
+        let error_text = resp
+            .text()
+            .await
+            .unwrap_or_else(|_| "Failed to retrieve error message".to_string());
         error!(
-            "Failed to fetch page {} for {}: {}",
-            page,
-            language,
-            resp.status()
+            "Failed to fetch page {} for {}: {}. API message: {}",
+            page, language, status, error_text
         );
-        anyhow::bail!("Request failed with status {}", resp.status());
+        anyhow::bail!("Request failed with status {}: {}", status, error_text);
     }
 
     // Deserialize the response into SearchResponse
