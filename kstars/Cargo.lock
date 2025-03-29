@@ -774,6 +774,7 @@ dependencies = [
  "csv",
  "reqwest",
  "serde",
+ "serde_json",
  "tempfile",
  "tokio",
  "tracing",
