@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Title will be set dynamically by JS -->
+    <title>kstars: Top 1000 GitHub Repos</title>
+    <!-- Adjust path for CSS relative to the 'pages' directory -->
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+  <body>
+    <header>
+      <!-- Heading will be updated by JS -->
+      <h1 id="language-title">Top 1000 GitHub Repos</h1>
+      <div>
+        <a href="../index.html" style="color: white; margin-right: 15px"
+          >Back to Home</a
+        >
+        <button id="themeToggle" class="toggle-button">
+          Toggle Dark/Light
+        </button>
+      </div>
+    </header>
+
+    <div class="container" id="language-content">
+      <!-- Table will be injected here -->
+      <p id="loading-message">Loading data...</p>
+    </div>
+
+    <!-- JS Libraries: Adjust paths relative to the 'pages' directory -->
+    <script src="../js/sortable.min.js"></script>
+    <script src="../js/papaparse.min.js"></script>
+    <!-- New JS file for this page's logic -->
+    <script src="../js/language-page.js"></script>
+  </body>
+</html>
