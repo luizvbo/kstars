@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size (KB),Description,Language,Repo URL
+1,shellcheck,37142,1800,37142,1110,2012-11-17T03:15:11Z,2024-12-14T05:42:11Z,5382,"ShellCheck, a static analysis tool for shell scripts",Haskell,https://github.com/koalaman/shellcheck
+2,pandoc,36593,3470,36593,1112,2010-03-20T20:34:23Z,2025-03-28T05:04:09Z,66908,Universal markup converter,Haskell,https://github.com/jgm/pandoc
+3,postgrest,25042,1071,25042,310,2014-06-13T00:23:00Z,2025-03-28T09:53:35Z,12409,REST API for any Postgres database,Haskell,https://github.com/PostgREST/postgrest
+4,hadolint,10796,438,10796,231,2015-11-15T20:20:58Z,2025-03-24T08:35:52Z,3882,"Dockerfile linter, validate inline bash, written in Haskell",Haskell,https://github.com/hadolint/hadolint
+5,semantic,9027,453,9027,116,2019-03-15T14:54:00Z,2024-07-24T03:56:04Z,34508,"Parsing, analyzing, and comparing source code across many languages",Haskell,https://github.com/github/semantic
+6,purescript,8678,566,8678,305,2013-09-30T05:29:23Z,2025-02-20T15:16:21Z,13682,A strongly-typed language that compiles to JavaScript,Haskell,https://github.com/purescript/purescript
+7,compiler,7617,659,7617,344,2012-04-19T06:24:43Z,2024-07-17T21:53:51Z,9877,"Compiler for Elm, a functional language for reliable webapps.",Haskell,https://github.com/elm/compiler
+8,unison,5960,274,5960,1136,2015-05-06T14:53:49Z,2025-03-28T04:38:43Z,131968,A friendly programming language from the future,Haskell,https://github.com/unisonweb/unison
+9,Carp,5632,173,5632,146,2016-01-11T12:54:09Z,2024-11-26T10:58:51Z,11981,"A statically typed lisp, without a GC, for real-time applications.",Haskell,https://github.com/carp-lang/Carp
+10,ihp,5022,202,5022,267,2017-12-03T18:45:14Z,2025-03-26T19:26:55Z,55949,🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,Haskell,https://github.com/digitallyinduced/ihp
+11,kmonad,4365,329,4365,202,2019-09-28T17:54:41Z,2025-03-25T10:20:50Z,1497,An advanced keyboard manager,Haskell,https://github.com/kmonad/kmonad
+12,Haxl,4295,311,4295,6,2014-04-02T20:10:58Z,2024-11-19T13:29:04Z,783,"A Haskell library that simplifies access to remote data, such as databases or web-based services. ",Haskell,https://github.com/facebook/Haxl
+13,fp-course,4172,1196,4172,17,2013-01-03T00:13:31Z,2024-12-02T00:31:53Z,4257,Functional Programming Course,Haskell,https://github.com/system-f/fp-course
+14,duckling,4134,728,4134,137,2017-03-02T01:45:50Z,2025-02-22T01:17:27Z,7572,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",Haskell,https://github.com/facebook/duckling
+15,stack,4015,849,4015,587,2015-04-29T20:56:42Z,2025-03-22T20:22:55Z,26968,The Haskell Tool Stack,Haskell,https://github.com/commercialhaskell/stack
+16,cardano-sl,3772,629,3772,188,2016-10-14T13:44:38Z,2020-07-30T15:22:04Z,119915,Cryptographic currency implementing Ouroboros PoS protocol,Haskell,https://github.com/input-output-hk/cardano-sl
+17,Kind,3649,145,3649,6,2018-07-13T03:08:55Z,2025-01-22T16:54:12Z,36229,A modern proof language,Haskell,https://github.com/HigherOrderCO/Kind
+18,koka,3465,177,3465,187,2016-12-08T23:00:37Z,2025-03-25T17:41:57Z,47446,Koka language compiler and interpreter,Haskell,https://github.com/koka-lang/koka
+19,Idris-dev,3449,640,3449,709,2011-09-14T16:55:49Z,2025-02-17T14:08:47Z,38281,A Dependently Typed Functional Programming Language,Haskell,https://github.com/idris-lang/Idris-dev
+20,xmonad,3431,295,3431,58,2015-08-22T15:58:45Z,2025-03-22T05:40:40Z,5697,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",Haskell,https://github.com/xmonad/xmonad
+21,write-you-a-haskell,3370,256,3370,30,2015-01-05T13:44:54Z,2021-01-11T13:56:03Z,961,Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/),Haskell,https://github.com/sdiehl/write-you-a-haskell
+22,hledger,3208,323,3208,367,2013-04-08T16:41:47Z,2025-03-13T21:53:27Z,105938,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",Haskell,https://github.com/simonmichael/hledger
+23,awesome-haskell,3137,173,3137,15,2014-07-13T14:08:56Z,2023-04-13T20:54:30Z,172,"A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",Haskell,https://github.com/krispo/awesome-haskell
+24,cardano-node,3114,728,3114,332,2019-05-23T20:12:22Z,2025-03-28T13:02:18Z,114383,The core component that is used to participate in a Cardano decentralised blockchain.,Haskell,https://github.com/IntersectMBO/cardano-node
+25,ghc,3113,713,3113,8,2011-04-02T19:39:34Z,2025-03-28T14:34:47Z,481181,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,Haskell,https://github.com/ghc/ghc
+26,Simula,3042,96,3042,68,2017-04-13T11:35:42Z,2024-12-14T22:46:21Z,216312,Linux VR Desktop,Haskell,https://github.com/SimulaVR/Simula
+27,echidna,2852,387,2852,147,2017-08-27T23:13:10Z,2025-03-10T22:34:34Z,2506,Ethereum smart contract fuzzer,Haskell,https://github.com/crytic/echidna
+28,xdg-ninja,2783,154,2783,30,2022-05-12T13:35:20Z,2025-03-09T22:18:24Z,641,A shell script which checks your $HOME for unwanted files and directories.,Haskell,https://github.com/b3nj5m1n/xdg-ninja
+29,haskell-language-server,2775,381,2775,529,2020-01-25T14:19:39Z,2025-03-27T14:28:21Z,24529,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,Haskell,https://github.com/haskell/haskell-language-server
+30,hakyll,2740,412,2740,117,2009-12-02T12:45:28Z,2025-03-23T14:05:31Z,18777,A static website compiler library in Haskell,Haskell,https://github.com/jaspervdj/hakyll
+31,Functional-Programming,2693,158,2693,9,2015-02-10T15:07:42Z,2019-08-06T22:00:55Z,10279,"Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",Haskell,https://github.com/caiorss/Functional-Programming
+32,yesod,2667,372,2667,119,2009-06-27T22:54:51Z,2025-03-21T18:16:29Z,9241,A RESTful Haskell web framework built on WAI.,Haskell,https://github.com/yesodweb/yesod
+33,wire-server,2663,324,2663,136,2017-02-14T10:42:59Z,2025-03-28T14:31:23Z,71548,🇪🇺 Wire back-end services,Haskell,https://github.com/wireapp/wire-server
+34,eta,2617,140,2617,242,2016-04-07T11:25:02Z,2022-07-31T17:14:19Z,11304,"The Eta Programming Language, a dialect of Haskell on the JVM",Haskell,https://github.com/typelead/eta
+35,ghcjs,2611,186,2611,293,2010-08-19T16:32:40Z,2023-01-21T23:46:36Z,6831,"Haskell to JavaScript compiler, based on GHC",Haskell,https://github.com/ghcjs/ghcjs
+36,agda,2602,367,2602,1048,2015-08-08T17:51:48Z,2025-03-28T13:48:01Z,152067,Agda is a dependently typed programming language / interactive theorem prover.,Haskell,https://github.com/agda/agda
+37,wiwinwlh,2581,241,2581,8,2014-03-31T00:33:36Z,2022-02-25T06:38:14Z,10083,What I Wish I Knew When Learning Haskell,Haskell,https://github.com/sdiehl/wiwinwlh
+38,patat,2546,62,2546,18,2016-09-23T09:37:28Z,2025-03-24T17:24:34Z,965,Terminal-based presentations using Pandoc,Haskell,https://github.com/jaspervdj/patat
+39,futhark,2494,173,2494,71,2013-02-01T15:07:26Z,2025-03-28T09:09:23Z,51743,:boom::computer::boom: A data-parallel functional programming language,Haskell,https://github.com/diku-dk/futhark
+40,Tidal,2385,264,2385,107,2010-09-09T11:00:10Z,2025-03-09T21:22:10Z,14571,Pattern language,Haskell,https://github.com/tidalcycles/Tidal
+41,haskell-ide-engine,2374,206,2374,301,2015-10-22T06:59:33Z,2020-12-23T06:21:46Z,6794,The engine for haskell ide-integration. Not an IDE,Haskell,https://github.com/haskell/haskell-ide-engine
+42,miso,2237,141,2237,7,2016-06-26T04:28:54Z,2025-03-28T08:48:25Z,1981,:ramen: A tasty Haskell front-end framework,Haskell,https://github.com/dmjio/miso
+43,gitit,2191,224,2191,207,2008-11-07T07:38:49Z,2025-01-13T20:03:24Z,2226,"A wiki using HAppS, pandoc, and git",Haskell,https://github.com/jgm/gitit
+44,corrode,2167,114,2167,79,2016-05-05T21:12:52Z,2019-03-10T01:48:47Z,725,C to Rust translator,Haskell,https://github.com/jameysharp/corrode
+45,dapptools,2120,325,2120,171,2018-06-12T12:34:20Z,2025-02-25T19:28:22Z,8864,"Dapp, Seth, Hevm, and more",Haskell,https://github.com/dapphub/dapptools
+46,lens,2049,275,2049,106,2012-07-25T22:00:42Z,2025-03-04T12:07:05Z,28727,"Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens",Haskell,https://github.com/ekmett/lens
+47,asterius,1967,58,1967,137,2017-11-20T13:18:05Z,2022-11-14T00:45:01Z,92407,"DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc",Haskell,https://github.com/tweag/asterius
+48,lamdu,1865,74,1865,26,2011-10-20T21:13:43Z,2025-03-20T16:42:09Z,32668,lamdu - towards the next generation IDE,Haskell,https://github.com/lamdu/lamdu
+49,servant,1863,415,1863,293,2014-12-02T15:58:17Z,2025-03-18T13:41:54Z,7424,"Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!",Haskell,https://github.com/haskell-servant/servant
+50,erd,1824,152,1824,18,2013-10-26T17:12:42Z,2024-09-09T12:30:17Z,309,Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.,Haskell,https://github.com/BurntSushi/erd
+51,aura,1808,115,1808,50,2012-05-14T11:56:22Z,2025-01-04T07:45:01Z,15087,A multilingual package manager for Arch Linux and the AUR.,Haskell,https://github.com/fosskers/aura
+52,taskell,1747,73,1747,54,2017-11-15T15:02:14Z,2023-10-03T06:57:40Z,3649,Command-line Kanban board/task manager with support for Trello boards and GitHub projects,Haskell,https://github.com/smallhadroncollider/taskell
+53,scotty,1739,136,1739,33,2011-12-30T22:43:27Z,2025-02-23T11:31:38Z,755,"Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository)",Haskell,https://github.com/scotty-web/scotty
+54,zsh-git-prompt,1737,398,1737,58,2010-04-29T18:05:24Z,2023-11-08T03:54:12Z,1105,Informative git prompt for zsh,Haskell,https://github.com/olivierverdier/zsh-git-prompt
+55,niv,1692,77,1692,91,2019-01-17T21:00:18Z,2025-03-02T23:46:25Z,587,Easy dependency management for Nix projects,Haskell,https://github.com/nmattia/niv
+56,cabal,1656,707,1656,1880,2012-03-15T12:53:38Z,2025-03-28T13:45:00Z,55532,Official upstream development repository for Cabal and cabal-install,Haskell,https://github.com/haskell/cabal
+57,HLearn,1627,133,1627,23,2012-07-18T00:08:33Z,2016-05-29T16:51:53Z,17533,Homomorphic machine learning,Haskell,https://github.com/mikeizbicki/HLearn
+58,brick,1626,167,1626,4,2015-05-09T08:23:44Z,2025-03-12T17:00:15Z,2996,A declarative Unix terminal UI library written in Haskell,Haskell,https://github.com/jtdaugherty/brick
+59,dex-lang,1609,109,1609,141,2019-10-25T12:33:24Z,2025-01-25T03:31:39Z,36176,Research language for array processing in the Haskell/ML family,Haskell,https://github.com/google-research/dex-lang
+60,plutus,1591,486,1591,220,2016-11-15T22:38:43Z,2025-03-28T13:47:28Z,318799,The Plutus language implementation and tools,Haskell,https://github.com/IntersectMBO/plutus
+61,haskell,1591,198,1591,39,2016-10-16T03:40:47Z,2024-08-15T15:09:36Z,10161,Haskell bindings for TensorFlow,Haskell,https://github.com/tensorflow/haskell
+62,real-world-haskell-cn,1568,231,1568,26,2012-10-19T16:07:47Z,2022-02-14T13:35:16Z,11410,《Real World Haskell》中文翻译项目,Haskell,https://github.com/huangzworks/real-world-haskell-cn
+63,neuron,1524,148,1524,25,2020-03-05T01:29:54Z,2023-05-22T16:29:04Z,29920,Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote),Haskell,https://github.com/srid/neuron
+64,yi,1518,201,1518,221,2011-02-06T21:16:54Z,2024-11-01T13:05:53Z,34634,The Haskell-Scriptable Editor,Haskell,https://github.com/yi-editor/yi
+65,hlint,1504,199,1504,273,2013-07-23T08:43:40Z,2025-03-28T10:25:48Z,6224,Haskell source code suggestions,Haskell,https://github.com/ndmitchell/hlint
+66,clash-compiler,1483,156,1483,349,2013-07-04T09:29:15Z,2025-03-26T20:54:02Z,20509,Haskell to VHDL/Verilog/SystemVerilog compiler,Haskell,https://github.com/clash-lang/clash-compiler
+67,grenade,1451,83,1451,24,2016-06-23T12:04:52Z,2023-12-08T21:23:07Z,357,Deep Learning in Haskell,Haskell,https://github.com/HuwCampbell/grenade
+68,haste-compiler,1442,111,1442,63,2012-01-26T10:23:30Z,2019-03-17T10:49:58Z,4176,A GHC-based Haskell to JavaScript compiler,Haskell,https://github.com/valderman/haste-compiler
+69,haskell-trainings,1405,109,1405,4,2019-01-23T10:10:14Z,2023-04-10T00:27:48Z,688,Haskell 101 and 102: slides and codelabs,Haskell,https://github.com/google/haskell-trainings
+70,greenclip,1401,35,1401,8,2017-01-03T22:43:14Z,2025-03-22T21:05:18Z,3600,Simple clipboard manager to be integrated with rofi - Static binary available,Haskell,https://github.com/erebe/greenclip
+71,course-plan,1388,58,1388,0,2021-12-19T16:24:32Z,2023-07-09T14:01:05Z,122,"📜 Haskell course info, plan, video lectures, slides",Haskell,https://github.com/haskell-beginners-2022/course-plan
+72,gifcurry,1385,56,1385,40,2016-01-13T05:37:43Z,2021-08-13T16:19:41Z,86715,"😎 The open-source, Haskell-built video editor for GIF makers.",Haskell,https://github.com/lettier/gifcurry
+73,plutus-pioneer-program,1384,997,1384,5,2021-03-30T19:29:22Z,2025-02-22T17:07:57Z,147511,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",Haskell,https://github.com/input-output-hk/plutus-pioneer-program
+74,fossa-cli,1345,178,1345,68,2018-01-10T18:30:32Z,2025-03-27T20:51:30Z,119429,"Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.",Haskell,https://github.com/fossas/fossa-cli
+75,elm-format,1318,148,1318,228,2015-09-13T00:09:34Z,2023-04-13T18:43:21Z,4031,elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide,Haskell,https://github.com/avh4/elm-format
+76,fay,1283,89,1283,24,2012-07-21T15:26:38Z,2021-06-09T15:10:00Z,2630,A proper subset of Haskell that compiles to JavaScript,Haskell,https://github.com/faylang/fay
+77,Publications,1274,38,1274,4,2014-12-08T10:14:19Z,2025-01-10T12:21:23Z,43313,"Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com",Haskell,https://github.com/BartoszMilewski/Publications
+78,aeson,1268,323,1268,83,2011-01-21T21:24:26Z,2025-03-27T18:36:58Z,41327,A fast Haskell JSON library,Haskell,https://github.com/haskell/aeson
+79,articles,1259,92,1259,0,2013-02-07T18:52:10Z,2023-07-12T09:28:11Z,8466,Miscellaneous articles. The readme is the table of contents.,Haskell,https://github.com/quchen/articles
+80,codeworld,1251,198,1251,445,2014-06-19T21:56:15Z,2025-03-26T22:25:29Z,7550,Educational computer programming environment using Haskell,Haskell,https://github.com/google/codeworld
+81,liquidhaskell,1230,145,1230,444,2012-09-22T15:06:55Z,2025-03-22T20:10:13Z,60400,Liquid Types For Haskell,Haskell,https://github.com/ucsd-progsys/liquidhaskell
+82,developers-roadmap,1212,262,1212,61,2019-03-31T10:40:35Z,2025-03-14T11:13:25Z,983,How to learn front-end or back-end development,Haskell,https://github.com/fullstack-development/developers-roadmap
+83,ghcid,1151,113,1151,121,2014-09-26T22:01:52Z,2024-03-01T13:09:46Z,972,Very low feature GHCi based IDE,Haskell,https://github.com/ndmitchell/ghcid
+84,cryptol,1150,123,1150,242,2014-04-17T22:29:10Z,2025-03-27T11:58:43Z,87220,Cryptol: The Language of Cryptography,Haskell,https://github.com/GaloisInc/cryptol
+85,reanimate,1143,62,1143,30,2019-02-13T20:08:04Z,2025-02-06T18:32:33Z,7972,Haskell library for building declarative animations based on SVG graphics,Haskell,https://github.com/reanimate/reanimate
+86,haskell-must-watch,1136,59,1136,0,2015-03-04T13:56:54Z,2017-10-17T13:24:26Z,14,"Huge list of  videos, talks, courses for Haskell programming language.",Haskell,https://github.com/hzlmn/haskell-must-watch
+87,kitten,1115,40,1115,69,2011-12-20T04:17:17Z,2023-04-10T00:10:33Z,2914,A statically typed concatenative systems programming language.,Haskell,https://github.com/evincarofautumn/kitten
+88,hasktorch,1105,111,1105,89,2017-09-09T21:50:59Z,2025-02-16T05:30:20Z,14020,Tensors and neural networks in Haskell,Haskell,https://github.com/hasktorch/hasktorch
+89,software-design-in-haskell,1095,69,1095,4,2019-12-18T15:25:35Z,2024-12-18T11:27:13Z,349,Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.,Haskell,https://github.com/graninas/software-design-in-haskell
+90,reflex,1083,150,1083,92,2014-11-09T20:27:01Z,2025-03-09T22:54:46Z,2378,"Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.",Haskell,https://github.com/reflex-frp/reflex
+91,queryparser,1079,145,1079,23,2017-04-13T04:51:29Z,2022-02-16T11:16:33Z,410,"Parsing and analysis of Vertica, Hive, and Presto SQL.",Haskell,https://github.com/uber/queryparser
+92,nixfmt,1071,48,1071,27,2018-08-02T12:33:51Z,2025-03-18T16:20:42Z,1022,The official (but not yet stable) formatter for Nix code,Haskell,https://github.com/NixOS/nixfmt
+93,matterhorn,1067,78,1067,20,2016-08-19T16:25:54Z,2025-03-24T18:42:11Z,8183,A feature-rich Unix terminal client for the Mattermost chat system,Haskell,https://github.com/matterhorn-chat/matterhorn
+94,nix-output-monitor,1059,30,1059,76,2020-10-03T14:25:34Z,2025-03-07T12:23:07Z,9300,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,Haskell,https://github.com/maralorn/nix-output-monitor
+95,HaLVM,1057,79,1057,37,2012-03-29T22:39:16Z,2018-12-06T17:24:40Z,4182,The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen,Haskell,https://github.com/GaloisInc/HaLVM
+96,polysemy,1041,74,1041,44,2019-02-13T20:53:25Z,2025-03-15T12:15:30Z,1148,":gemini: higher-order, no-boilerplate monads",Haskell,https://github.com/polysemy-research/polysemy
+97,kaleidoscope,1038,129,1038,9,2013-12-28T05:12:52Z,2020-04-21T09:09:58Z,531,Haskell LLVM JIT Compiler Tutorial,Haskell,https://github.com/sdiehl/kaleidoscope
+98,grin,1037,38,1037,31,2017-06-23T20:18:06Z,2023-04-28T14:15:23Z,22867,GRIN is a compiler back-end for lazy and strict functional languages with whole program optimization support.,Haskell,https://github.com/grin-compiler/grin
+99,fp-course,1031,133,1031,18,2011-06-30T12:40:12Z,2023-03-06T02:28:36Z,3501,Functional Programming Course,Haskell,https://github.com/tonymorris/fp-course
+100,linux_notification_center,1028,40,1028,42,2017-04-12T19:24:01Z,2025-02-06T11:12:49Z,235435,A notification daemon/center for linux,Haskell,https://github.com/phuhl/linux_notification_center
+101,kit,1023,30,1023,20,2018-08-03T22:22:58Z,2021-08-14T01:21:10Z,1764,"Kit: a magical, high performance programming language, designed for game development.",Haskell,https://github.com/kitlang/kit
+102,learn4haskell,1022,849,1022,35,2020-09-26T09:44:33Z,2024-06-28T18:49:09Z,945,👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests,Haskell,https://github.com/kowainik/learn4haskell
+103,intero,1008,135,1008,30,2014-10-19T16:29:25Z,2020-01-25T08:48:39Z,2317,,Haskell,https://github.com/chrisdone-archive/intero
+104,stylish-haskell,1004,151,1004,138,2012-05-14T09:42:11Z,2025-01-19T06:41:46Z,1228,Haskell code prettifier,Haskell,https://github.com/haskell/stylish-haskell
+105,LtuPatternFactory,999,38,999,11,2018-10-05T19:32:13Z,2024-01-17T23:42:42Z,602,"Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns",Haskell,https://github.com/thma/LtuPatternFactory
+106,neut,993,13,993,0,2020-04-26T02:23:12Z,2025-03-14T10:03:03Z,33434,A programming language with static memory management based on λ-calculus,Haskell,https://github.com/vekatze/neut
+107,bsc,989,153,989,211,2020-01-31T22:01:29Z,2025-03-06T02:53:08Z,40004,Bluespec Compiler (BSC),Haskell,https://github.com/B-Lang-org/bsc
+108,obelisk,988,108,988,183,2018-05-23T01:53:32Z,2025-03-18T11:13:53Z,19546,"Functional reactive web and mobile applications, with batteries included.",Haskell,https://github.com/obsidiansystems/obelisk
+109,ormolu,987,83,987,65,2018-11-25T12:16:23Z,2025-03-12T12:40:08Z,3516,A formatter for Haskell source code,Haskell,https://github.com/tweag/ormolu
+110,toodles,977,33,977,14,2018-09-21T23:49:17Z,2023-04-18T21:04:04Z,439,Project management directly from the TODOs in your codebase,Haskell,https://github.com/aviaviavi/toodles
+111,leksah,976,110,976,229,2011-02-14T22:17:54Z,2024-05-01T15:56:06Z,26001,Haskell IDE,Haskell,https://github.com/leksah/leksah
+112,pandoc-crossref,976,77,976,89,2015-03-19T20:51:47Z,2025-03-23T21:38:22Z,2910,Pandoc filter for cross-references,Haskell,https://github.com/lierdakil/pandoc-crossref
+113,turtle,950,90,950,43,2015-01-18T02:53:20Z,2024-05-23T15:37:10Z,910,"Shell programming, Haskell style",Haskell,https://github.com/Gabriella439/turtle
+114,megaparsec,940,90,940,20,2015-07-26T19:33:53Z,2025-01-31T14:08:11Z,2617,Industrial-strength monadic parser combinator library,Haskell,https://github.com/mrkkrp/megaparsec
+115,optparse-applicative,925,117,925,37,2012-05-11T17:09:52Z,2025-03-27T22:38:09Z,1020,Applicative option parser,Haskell,https://github.com/pcapriotti/optparse-applicative
+116,tetris,922,41,922,9,2017-06-13T03:48:49Z,2025-02-27T18:29:33Z,417,A terminal interface for Tetris,Haskell,https://github.com/samtay/tetris
+117,egison,918,31,918,22,2013-02-15T04:35:21Z,2022-12-22T23:19:05Z,8911,The Egison Programming Language,Haskell,https://github.com/egison/egison
+118,project-m36,918,47,918,89,2014-10-27T00:17:22Z,2025-03-08T01:56:48Z,7207,Project: M36 Relational Algebra Engine,Haskell,https://github.com/agentm/project-m36
+119,accelerate,914,122,914,62,2011-04-08T02:50:11Z,2025-01-13T21:00:16Z,16146,Embedded language for high-performance array computations,Haskell,https://github.com/AccelerateHS/accelerate
+120,radicle-alpha,914,32,914,45,2018-05-17T08:50:33Z,2020-03-26T14:58:12Z,2568,A peer-to-peer stack for code collaboration,Haskell,https://github.com/radicle-dev/radicle-alpha
+121,conduit,911,195,911,50,2011-12-11T04:55:45Z,2025-03-16T07:41:18Z,4166,A streaming data library,Haskell,https://github.com/snoyberg/conduit
+122,detexify-hs-backend,899,40,899,1,2010-11-10T08:38:30Z,2016-12-26T21:00:50Z,18506,Detexify Backend written in Haskell,Haskell,https://github.com/kirel/detexify-hs-backend
+123,streamly,886,66,886,451,2017-07-13T13:31:39Z,2025-03-26T23:12:10Z,17976,"High performance, concurrent functional programming abstractions",Haskell,https://github.com/composewell/streamly
+124,cachix,884,48,884,123,2018-02-25T19:55:01Z,2025-03-15T13:42:29Z,3560,Command line client for Nix binary cache hosting:,Haskell,https://github.com/cachix/cachix
+125,bench,883,21,883,10,2016-03-20T06:35:02Z,2024-12-20T04:27:30Z,61,Command-line benchmark tool,Haskell,https://github.com/Gabriella439/bench
+126,parsec,865,97,865,48,2014-03-23T20:46:26Z,2025-01-05T00:08:42Z,469,A monadic parser combinator library,Haskell,https://github.com/haskell/parsec
+127,swarm,860,54,860,266,2021-08-23T16:47:47Z,2025-03-28T13:51:49Z,10831,Resource gathering + programming game,Haskell,https://github.com/swarm-game/swarm
+128,emanote,857,73,857,69,2021-05-09T15:21:59Z,2025-03-23T20:33:24Z,6558,Emanate a structured view of your plain-text notes,Haskell,https://github.com/srid/emanote
+129,unused,854,24,854,1,2016-04-28T09:37:11Z,2020-05-28T02:48:16Z,272,Deprecated; see https://github.com/unused-code/unused,Haskell,https://github.com/joshuaclayton/unused
+130,waymonad,853,39,853,16,2017-09-15T07:49:55Z,2019-07-13T18:57:40Z,1737,A wayland compositor based on ideas from and inspired by xmonad,Haskell,https://github.com/waymonad/waymonad
+131,wai,848,264,848,67,2010-01-17T15:44:09Z,2025-03-17T01:08:31Z,4983,Haskell Web Application Interface,Haskell,https://github.com/yesodweb/wai
+132,rio,848,54,848,38,2017-12-30T16:36:57Z,2024-08-08T07:08:50Z,527,A standard library for Haskell,Haskell,https://github.com/commercialhaskell/rio
+133,nix-tree,826,17,826,14,2020-06-24T22:41:51Z,2025-02-28T03:33:43Z,269,Interactively browse dependency graphs of Nix derivations.,Haskell,https://github.com/utdemir/nix-tree
+134,espial,826,29,826,17,2018-04-10T00:17:07Z,2024-12-30T21:06:59Z,30399," Espial is an open-source, web-based bookmarking server.",Haskell,https://github.com/jonschoning/espial
+135,Rome,822,57,822,35,2016-08-08T13:47:49Z,2023-01-25T03:26:12Z,1025,"Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others ",Haskell,https://github.com/tmspzz/Rome
+136,cardano-wallet,793,223,793,17,2019-03-01T10:50:58Z,2025-03-28T08:41:00Z,288690,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,Haskell,https://github.com/cardano-foundation/cardano-wallet
+137,shake,779,120,779,199,2013-02-25T20:10:28Z,2025-02-02T21:45:37Z,9366,Shake build system,Haskell,https://github.com/ndmitchell/shake
+138,hspec,766,104,766,46,2011-02-09T22:00:08Z,2025-03-17T01:47:57Z,4995,A Testing Framework for Haskell,Haskell,https://github.com/hspec/hspec
+139,hoogle,763,143,763,167,2012-04-19T13:23:16Z,2025-03-23T17:52:06Z,6120,Haskell API search engine,Haskell,https://github.com/ndmitchell/hoogle
+140,tip-toi-reveng,762,127,762,42,2013-04-14T17:16:18Z,2024-10-28T12:04:50Z,17176,Trying to understand the file format of Tip Toi,Haskell,https://github.com/entropia/tip-toi-reveng
+141,elm-platform,762,124,762,9,2013-12-20T05:24:43Z,2018-08-22T20:51:38Z,19694,Bundle of all core development tools for Elm,Haskell,https://github.com/elm-lang/elm-platform
+142,sixten,760,26,760,38,2017-10-19T18:44:48Z,2020-08-20T12:57:06Z,2024,Functional programming with fewer indirections,Haskell,https://github.com/ollef/sixten
+143,quickcheck,744,125,744,64,2012-07-28T22:50:15Z,2025-03-12T11:06:12Z,1265,Automatic testing of Haskell programs.,Haskell,https://github.com/nick8325/quickcheck
+144,pboy,741,24,741,10,2018-05-07T13:41:54Z,2022-06-11T15:51:12Z,687,a small .pdf management tool with a command-line UI,Haskell,https://github.com/2mol/pboy
+145,alga,737,68,737,47,2016-12-05T00:30:03Z,2024-05-19T22:27:47Z,2005,Algebraic graphs,Haskell,https://github.com/snowleopard/alga
+146,oden,724,21,724,15,2015-10-27T08:42:36Z,2017-04-11T12:26:50Z,33230,The Oden Programming Language (NO LONGER IN ACTIVE DEVELOPMENT),Haskell,https://github.com/oden-lang/oden
+147,distributed-process,723,98,723,140,2011-11-23T13:59:00Z,2025-03-06T21:48:28Z,7955,Cloud Haskell core libraries,Haskell,https://github.com/haskell-distributed/distributed-process
+148,glance,723,15,723,4,2016-01-05T01:04:01Z,2022-03-20T20:40:39Z,918,A visual Haskell,Haskell,https://github.com/rgleichman/glance
+149,hstream,722,55,722,11,2020-08-31T09:42:17Z,2024-12-26T02:51:04Z,6583,"HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.",Haskell,https://github.com/hstreamdb/hstream
+150,relude,711,81,711,16,2018-07-19T02:31:07Z,2025-03-09T11:59:06Z,3520,"🌀 Safe, performant, user-friendly and lightweight Haskell standard library",Haskell,https://github.com/kowainik/relude
+151,summoner,709,75,709,34,2017-08-18T22:18:39Z,2024-11-10T23:12:54Z,965,🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects,Haskell,https://github.com/kowainik/summoner
+152,crucible,708,43,708,189,2016-10-31T20:43:08Z,2025-03-28T14:06:08Z,43601,Crucible is a library for symbolic simulation of imperative programs,Haskell,https://github.com/GaloisInc/crucible
+153,cgrep,708,33,708,3,2013-05-11T11:18:26Z,2024-11-08T16:54:43Z,2952,Cgrep: a context-aware grep for source codes,Haskell,https://github.com/awgn/cgrep
+154,copilot,704,62,704,12,2015-06-09T23:48:41Z,2025-03-08T02:25:30Z,4818,A stream-based runtime-verification framework for generating hard real-time C code.,Haskell,https://github.com/Copilot-Language/copilot
+155,dnngraph,704,59,704,9,2015-02-15T03:11:12Z,2015-12-07T04:39:34Z,512,"A DSL for deep neural networks, supporting Caffe and Torch",Haskell,https://github.com/ajtulloch/dnngraph
+156,taffybar,703,137,703,60,2011-08-12T06:10:24Z,2025-03-05T02:42:25Z,2246,A gtk based status bar for tiling window managers such as XMonad,Haskell,https://github.com/taffybar/taffybar
+157,brittany,689,68,689,122,2016-07-24T21:21:20Z,2022-11-11T18:13:34Z,2856,haskell source code formatter,Haskell,https://github.com/lspitzner/brittany
+158,haskell-hedgehog,683,107,683,104,2017-03-15T21:57:18Z,2025-03-18T07:40:42Z,978,"Release with confidence, state-of-the-art property testing for Haskell.",Haskell,https://github.com/hedgehogqa/haskell-hedgehog
+159,Spock,680,57,680,32,2013-09-05T19:29:55Z,2024-04-08T04:20:51Z,918,Another Haskell web framework for rapid development,Haskell,https://github.com/agrafix/Spock
+160,ghc-mod,675,175,675,115,2010-03-10T03:02:30Z,2019-06-17T17:22:20Z,3270,Happy Haskell Hacking for editors. DEPRECATED,Haskell,https://github.com/DanielG/ghc-mod
+161,hakatime,668,51,668,25,2020-02-26T15:02:37Z,2024-11-18T22:49:11Z,1587,Wakatime server implementation & analytics dashboard,Haskell,https://github.com/mujx/hakatime
+162,gwern.net,666,64,666,3,2020-10-31T16:31:55Z,2025-03-27T10:15:10Z,300096,"Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).",Haskell,https://github.com/gwern/gwern.net
+163,Haskell-Data-Analysis-Cookbook,656,125,656,1,2014-05-21T07:03:51Z,2015-10-03T19:58:11Z,1122,Accompanying Source Code for the Haskell Data Analysis Cookbook,Haskell,https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook
+164,fused-effects,653,52,653,31,2018-10-02T16:51:27Z,2025-01-08T14:58:56Z,6682,"A fast, flexible, fused effect system for Haskell",Haskell,https://github.com/fused-effects/fused-effects
+165,elaboration-zoo,651,39,651,3,2016-03-28T13:39:00Z,2025-01-26T09:32:24Z,942,Minimal implementations for dependent type checking and elaboration,Haskell,https://github.com/AndrasKovacs/elaboration-zoo
+166,tasty,648,110,648,27,2013-04-22T06:14:16Z,2025-03-21T23:39:00Z,942,Modern and extensible testing framework for Haskell,Haskell,https://github.com/UnkindPartition/tasty
+167,stanford-cs240h,648,65,648,0,2011-09-28T05:38:49Z,2011-10-25T23:32:37Z,643,"Course materials for Stanford CS240h, ""Functional Systems in Haskell""",Haskell,https://github.com/bos/stanford-cs240h
+168,haskell-exercises,647,97,647,1,2018-08-26T13:26:18Z,2023-11-07T17:54:13Z,124,A little course to learn about some of the more obscure GHC extensions.,Haskell,https://github.com/i-am-tom/haskell-exercises
+169,hpack,642,105,642,64,2014-11-19T14:51:34Z,2025-03-26T00:22:01Z,1214,hpack: A modern format for Haskell packages,Haskell,https://github.com/sol/hpack
+170,LambdaHack,635,56,635,108,2010-10-02T12:59:47Z,2024-03-18T07:37:59Z,37339,"Haskell game engine library for roguelike dungeon crawlers; please offer feedback, e.g., after trying out the sample game with the web frontend at",Haskell,https://github.com/LambdaHack/LambdaHack
+171,purescript-native,635,40,635,17,2014-12-06T06:16:39Z,2023-03-28T04:01:46Z,9704,A native compiler backend for PureScript (via C++ or Golang),Haskell,https://github.com/andyarvanitis/purescript-native
+172,transient,634,28,634,10,2014-11-17T13:10:18Z,2021-03-06T12:24:35Z,21262,"A full stack, reactive architecture for general purpose programming.  Algebraic and monadically composable primitives for concurrency, parallelism, event handling, transactions, multithreading, Web, and distributed computing with complete de-inversion of control (No callbacks, no blocking, pure state)",Haskell,https://github.com/transient-haskell/transient
+173,applied-fp-course,629,180,629,8,2017-10-13T03:38:55Z,2023-11-20T13:29:36Z,643,Applied Functional Programming Course - Move from exercises to a working app!,Haskell,https://github.com/qfpl/applied-fp-course
+174,rasa,620,42,620,20,2016-11-08T18:59:51Z,2020-10-21T02:45:04Z,955,Extremely modular text editor built in Haskell,Haskell,https://github.com/ChrisPenner/rasa
+175,forest-compiler,619,14,619,8,2017-11-10T22:26:17Z,2021-08-04T11:47:12Z,668,A multi-syntax functional programming language that compiles to WebAssembly.,Haskell,https://github.com/forest-lang/forest-compiler
+176,FP-Course-ITMO,616,36,616,3,2015-09-01T17:20:07Z,2022-01-17T07:52:57Z,1154,Slides and other materials for functional programming lectures ITMO university,Haskell,https://github.com/jagajaga/FP-Course-ITMO
+177,monomer,612,45,612,40,2019-09-23T14:45:48Z,2024-05-20T10:03:55Z,7354,"An easy to use, cross platform, GUI library for writing Haskell applications.",Haskell,https://github.com/fjvallarino/monomer
+178,Perspec,610,33,610,34,2020-02-22T21:13:32Z,2025-02-01T15:06:04Z,14729,Scriptable desktop app to correct the perspective of images,Haskell,https://github.com/ad-si/Perspec
+179,amazonka,610,232,610,73,2013-08-03T07:08:22Z,2025-03-21T10:32:25Z,1317836,A comprehensive Amazon Web Services SDK for Haskell.,Haskell,https://github.com/brendanhay/amazonka
+180,haskell-opaleye,609,115,609,108,2014-11-03T22:57:53Z,2025-03-08T07:57:28Z,2121,,Haskell,https://github.com/tomjaguarpaw/haskell-opaleye
+181,granule,608,36,608,36,2017-05-18T09:40:02Z,2025-02-11T00:37:43Z,7983,A statically-typed linear functional language with graded modal types for fine-grained program reasoning,Haskell,https://github.com/granule-project/granule
+182,sv2v,607,58,607,32,2019-02-08T04:49:52Z,2025-03-20T02:57:29Z,2299,SystemVerilog to Verilog conversion,Haskell,https://github.com/zachjs/sv2v
+183,legion,601,37,601,0,2017-04-12T06:51:49Z,2018-03-01T08:19:04Z,34,Simple blockchain server written in Haskell for educational purposes,Haskell,https://github.com/aviaviavi/legion
+184,xmonad-contrib,600,280,600,54,2015-08-22T17:45:35Z,2025-03-22T05:40:18Z,12359,Contributed modules for xmonad,Haskell,https://github.com/xmonad/xmonad-contrib
+185,helm,598,67,598,23,2013-07-07T09:38:09Z,2018-12-01T21:50:12Z,505,"A functionally reactive game engine, with headgear to protect you from the headache of game development provided.",Haskell,https://github.com/z0w0/helm
+186,simplexmq,594,69,594,80,2020-10-11T10:00:55Z,2025-03-28T10:31:25Z,7416,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,Haskell,https://github.com/simplex-chat/simplexmq
+187,beam,594,172,594,124,2015-01-13T03:43:12Z,2025-03-18T01:06:05Z,18045,"A type-safe, non-TH Haskell SQL library and ORM",Haskell,https://github.com/haskell-beam/beam
+188,pact,590,106,590,122,2016-11-13T05:16:00Z,2025-03-13T06:08:25Z,15362,The Pact Smart Contract Language,Haskell,https://github.com/kadena-io/pact
+189,pi-forall,590,92,590,0,2013-07-20T14:13:37Z,2024-11-18T19:26:35Z,38508,A demo implementation of a simple dependently-typed language,Haskell,https://github.com/sweirich/pi-forall
+190,hell,589,53,589,3,2013-11-22T04:23:56Z,2025-03-24T10:39:11Z,331,Haskell-based shell scripting language,Haskell,https://github.com/chrisdone/hell
+191,HaskellR,588,47,588,24,2013-11-28T10:13:50Z,2024-10-10T13:32:23Z,1963,The full power of R in Haskell.,Haskell,https://github.com/tweag/HaskellR
+192,reach-lang,582,168,582,20,2019-09-02T13:59:21Z,2023-09-11T15:16:43Z,209319,Reach: The Safest and Smartest DApp Programming Language,Haskell,https://github.com/reach-sh/reach-lang
+193,hython,581,26,581,0,2014-07-16T19:11:46Z,2017-08-01T00:18:19Z,562,Haskell-powered Python 3 interpreter,Haskell,https://github.com/mattgreen/hython
+194,ghcide,579,96,579,0,2019-09-10T12:20:11Z,2020-12-30T18:08:00Z,2795,A library for building Haskell IDE tooling,Haskell,https://github.com/haskell/ghcide
+195,cubicaltt,578,76,578,22,2015-02-26T13:27:28Z,2023-09-21T07:38:49Z,2551,Experimental implementation of Cubical Type Theory,Haskell,https://github.com/mortberg/cubicaltt
+196,stan,578,52,578,84,2018-07-25T09:43:10Z,2025-01-20T11:55:55Z,572,🕵️ Haskell STatic ANalyser,Haskell,https://github.com/kowainik/stan
+197,hindent,565,114,565,36,2014-08-24T15:16:00Z,2025-03-25T14:19:35Z,2296,Haskell pretty printer,Haskell,https://github.com/mihaimaruseac/hindent
+198,zero-bs-haskell,564,23,564,4,2019-02-13T20:58:46Z,2021-07-13T09:16:38Z,772,"Learn Haskell, with tiny lessons.",Haskell,https://github.com/alpacaaa/zero-bs-haskell
+199,scheme,562,117,562,4,2016-03-21T22:22:25Z,2022-12-19T11:27:24Z,54685,Write You a Scheme,Haskell,https://github.com/write-you-a-scheme-v2/scheme
+200,eff,557,18,557,10,2019-10-23T16:50:16Z,2023-05-05T17:14:18Z,423,🚧 a work in progress effect system for Haskell 🚧,Haskell,https://github.com/hasura/eff
+201,bulletproofs,541,48,541,7,2018-07-11T06:38:34Z,2022-12-25T10:16:13Z,181,Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup ,Haskell,https://github.com/sdiehl/bulletproofs
+202,stgi,531,25,531,6,2016-03-31T17:57:55Z,2021-06-08T08:59:12Z,984,A user-centric visual STG implementation to help understand GHC/Haskell's execution model.,Haskell,https://github.com/quchen/stgi
+203,hasql,529,55,529,20,2014-10-27T13:13:02Z,2025-02-02T19:53:48Z,1035,The fastest PostgreSQL libpq-based driver for Haskell,Haskell,https://github.com/nikita-volkov/hasql
+204,reactive-banana,528,70,528,48,2011-01-15T20:19:26Z,2024-12-22T22:54:24Z,2046,Library for functional reactive programming in Haskell.,Haskell,https://github.com/HeinrichApfelmus/reactive-banana
+205,haskoin-core,527,94,527,3,2013-03-14T13:40:12Z,2024-12-10T19:31:33Z,5819,Haskoin Core is a Bitcoin and Bitcoin Cash library,Haskell,https://github.com/haskoin/haskoin-core
+206,attoparsec,520,93,520,25,2010-10-10T17:30:32Z,2024-12-12T03:38:13Z,1148,A fast Haskell library for parsing ByteStrings,Haskell,https://github.com/haskell/attoparsec
+207,FP101x-Content-2015,518,144,518,0,2015-10-14T12:52:08Z,2015-12-20T20:47:19Z,10008,FP101x - Functional Programming MOOC 2015 Content Repository,Haskell,https://github.com/fptudelft/FP101x-Content-2015
+208,haskell-code-explorer,515,19,515,23,2018-10-02T09:46:36Z,2023-01-18T14:08:20Z,1454,Web application for exploring and understanding Haskell codebases,Haskell,https://github.com/alexwl/haskell-code-explorer
+209,haskell,510,195,510,62,2014-02-28T02:59:12Z,2024-11-01T05:06:05Z,3205,Exercism exercises in Haskell.,Haskell,https://github.com/exercism/haskell
+210,Functional-Design-and-Architecture,510,38,510,0,2016-06-19T15:50:48Z,2024-11-30T03:31:07Z,1239,"Code and materials for my book ""Functional Design and Architecture""",Haskell,https://github.com/graninas/Functional-Design-and-Architecture
+211,retrie,507,32,507,21,2019-02-26T02:29:05Z,2024-06-27T18:58:26Z,249,"Retrie is a powerful, easy-to-use codemodding tool for Haskell.",Haskell,https://github.com/facebookincubator/retrie
+212,criterion,505,86,505,30,2010-10-10T18:22:22Z,2024-10-27T00:13:10Z,2845,A powerful but simple library for measuring the performance of Haskell code.,Haskell,https://github.com/haskell/criterion
+213,intro_to_parsing,503,35,503,3,2013-12-31T12:18:05Z,2019-07-23T21:10:09Z,159,Introduction to parsing with Haskell and Parsec,Haskell,https://github.com/JakeWheat/intro_to_parsing
+214,carnival,497,30,497,0,2014-01-31T22:14:32Z,2016-07-18T17:03:35Z,896,"An unobtrusive, developer-friendly way to add comments",Haskell,https://github.com/thoughtbot/carnival
+215,time.gif,492,28,492,2,2017-08-11T17:54:44Z,2023-09-22T09:41:35Z,35,GIF that always shows the current time in UTC,Haskell,https://github.com/def-/time.gif
+216,pipes,492,69,492,15,2012-01-08T23:53:01Z,2022-10-15T20:23:36Z,2114,Compositional pipelines,Haskell,https://github.com/Gabriella439/pipes
+217,hpffp-resources,491,79,491,0,2015-11-16T21:10:15Z,2017-12-13T20:13:50Z,140154,Haskell Programming From First Principles - Follow-up Resources,Haskell,https://github.com/pushcx/hpffp-resources
+218,frp-zoo,491,31,491,19,2014-09-29T00:26:18Z,2022-04-02T17:15:32Z,194,Comparing many FRP implementations by reimplementing the same toy app in each.,Haskell,https://github.com/gelisam/frp-zoo
+219,bartosz-basics-of-haskell,488,19,488,0,2019-04-23T15:40:17Z,2021-01-10T19:03:31Z,32,Code and exercises from Bartosz Milewski's Basics of Haskell Tutorial,Haskell,https://github.com/raviksharma/bartosz-basics-of-haskell
+220,10-minute-vim-exercises,486,30,486,1,2016-10-13T11:23:12Z,2023-04-14T22:05:26Z,55,"The exercise files from 10 Minute Vim, for convenience of readers",Haskell,https://github.com/steveshogren/10-minute-vim-exercises
+221,thinking-with-types,484,42,484,17,2018-12-13T18:11:28Z,2023-03-06T17:33:59Z,190548,📖 source material for Thinking with Types,Haskell,https://github.com/isovector/thinking-with-types
+222,compleat,479,18,479,12,2009-10-17T04:54:52Z,2024-05-15T19:08:38Z,66,Generate command-line completions using a simple DSL.,Haskell,https://github.com/mbrubeck/compleat
+223,nixpkgs-update,478,77,478,108,2017-11-03T02:25:28Z,2025-03-24T23:14:50Z,976,Updating nixpkgs packages since 2018,Haskell,https://github.com/nix-community/nixpkgs-update
+224,selda,478,57,478,49,2017-04-08T21:15:10Z,2024-06-05T05:42:28Z,1093,"A type-safe, high-level SQL library for Haskell",Haskell,https://github.com/valderman/selda
+225,proto-lens,477,109,477,41,2016-05-03T18:35:31Z,2025-03-01T21:05:14Z,2192,API for protocol buffers using modern Haskell language and library patterns.,Haskell,https://github.com/google/proto-lens
+226,juvix,477,57,477,136,2017-09-04T21:38:25Z,2025-03-28T14:27:34Z,11946,A language for intent-centric and declarative decentralised applications,Haskell,https://github.com/anoma/juvix
+227,persistent,474,295,474,258,2010-03-19T20:44:30Z,2025-03-24T15:25:52Z,16169,Persistence interface for Haskell allowing multiple storage methods.,Haskell,https://github.com/yesodweb/persistent
+228,jl,473,19,473,5,2017-07-15T21:03:09Z,2022-05-17T07:42:09Z,95,Functional sed for JSON,Haskell,https://github.com/chrisdone-archive/jl
+229,WhyHaskellMatters,469,14,469,1,2020-02-05T19:41:16Z,2023-12-15T08:30:02Z,492,In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples.  The presentation aims to be self-contained and does not require any previous knowledge of the language. ,Haskell,https://github.com/thma/WhyHaskellMatters
+230,foundation,464,95,464,94,2016-05-07T13:48:40Z,2023-06-14T02:43:39Z,2603,Empire strikes back,Haskell,https://github.com/haskell-foundation/foundation
+231,saw-script,463,70,463,430,2015-04-16T21:39:32Z,2025-03-28T05:22:34Z,92672,The SAW scripting language.,Haskell,https://github.com/GaloisInc/saw-script
+232,xmonad-config,462,159,462,4,2010-06-27T06:38:10Z,2023-10-04T17:50:59Z,511,"My xmonad and xmobar configuration, plus necessary scripts to make things more usable.",Haskell,https://github.com/vicfryzel/xmonad-config
+233,DeepDarkFantasy,462,47,462,0,2016-09-21T11:02:51Z,2018-05-10T06:46:16Z,44284,A Programming Language for Deep Learning,Haskell,https://github.com/ThoughtWorksInc/DeepDarkFantasy
+234,snap,461,66,461,30,2010-07-03T18:14:08Z,2024-07-04T23:59:03Z,2040,"Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates.",Haskell,https://github.com/snapframework/snap
+235,MicroHs,458,37,458,20,2023-05-25T17:22:39Z,2025-03-21T07:25:10Z,64925,Haskell implemented with combinators,Haskell,https://github.com/augustss/MicroHs
+236,Yampa,456,52,456,0,2014-02-10T08:36:41Z,2025-02-28T05:32:41Z,5663,Functional Reactive Programming domain-specific language  for efficient hybrid systems,Haskell,https://github.com/ivanperez-keera/Yampa
+237,threepenny-gui,455,76,455,56,2011-12-25T00:17:06Z,2025-03-23T15:47:02Z,4411,GUI framework that uses the web browser as a display.,Haskell,https://github.com/HeinrichApfelmus/threepenny-gui
+238,juno,453,53,453,6,2016-02-26T23:46:40Z,2022-01-12T23:01:27Z,29650,Smart Contracts Running on a BFT Hardened Raft,Haskell,https://github.com/kadena-io/juno
+239,snake-fury,452,42,452,0,2021-12-28T18:41:06Z,2023-07-24T06:17:47Z,3261,a challenge for Haskell beginners,Haskell,https://github.com/lsmor/snake-fury
+240,tamarin-prover,452,137,452,117,2012-02-22T20:03:23Z,2025-03-26T08:28:14Z,51764,Main source code repository of the Tamarin prover for security protocol verification.,Haskell,https://github.com/tamarin-prover/tamarin-prover
+241,pLam,451,17,451,5,2017-08-05T15:32:04Z,2021-04-11T23:18:57Z,1153,An interpreter for learning and exploring pure λ-calculus,Haskell,https://github.com/slovnicki/pLam
+242,vaultenv,449,27,449,17,2017-03-01T09:29:36Z,2025-03-19T15:32:28Z,502,Launch processes with Vault secrets in the environment,Haskell,https://github.com/channable/vaultenv
+243,sparkle,449,27,449,16,2015-11-09T15:49:47Z,2023-02-01T17:37:04Z,1155,Haskell on Apache Spark.,Haskell,https://github.com/tweag/sparkle
+244,concat,447,50,447,38,2016-08-14T17:32:21Z,2024-02-28T10:59:03Z,11453,Compiling to Categories,Haskell,https://github.com/compiling-to-categories/concat
+245,fp-course,446,89,446,10,2018-05-10T18:53:49Z,2021-05-16T08:26:29Z,3464,Fork of the original Data61 course to be more Stack friendly,Haskell,https://github.com/bitemyapp/fp-course
+246,haskell-ci,441,72,441,88,2013-10-19T14:29:28Z,2025-03-27T14:06:11Z,2205,Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations,Haskell,https://github.com/haskell-CI/haskell-ci
+247,generic-lens,441,56,441,40,2016-09-05T20:22:28Z,2024-12-24T18:20:26Z,1038,"Generically derive traversals, lenses, and prisms.",Haskell,https://github.com/kcsongor/generic-lens
+248,haskell-chart,437,86,437,63,2013-03-18T04:04:36Z,2024-12-01T09:46:05Z,6831,A 2D charting library for haskell,Haskell,https://github.com/timbod7/haskell-chart
+249,webify,435,23,435,6,2013-04-07T16:42:29Z,2021-08-01T14:38:59Z,115,"webfont generator - converts ttf to woff, eot and svg",Haskell,https://github.com/ananthakumaran/webify
+250,DSLsofMath,433,52,433,5,2015-04-17T22:53:27Z,2025-03-23T07:10:59Z,196032,Domain-Specific Languages of Mathematics,Haskell,https://github.com/DSLsofMath/DSLsofMath
+251,full-fledged-hledger,432,33,432,3,2017-12-01T23:31:11Z,2025-02-06T10:17:03Z,446,"Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports",Haskell,https://github.com/adept/full-fledged-hledger
+252,komposition,431,21,431,24,2018-09-28T09:22:39Z,2021-04-20T11:34:20Z,3281,The video editor built for screencasters,Haskell,https://github.com/owickstrom/komposition
+253,Reduceron,429,32,429,17,2011-06-22T08:18:03Z,2024-12-13T22:55:00Z,9032,"FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection.  Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA.  A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome.",Haskell,https://github.com/tommythorn/Reduceron
+254,elm-reactor,428,63,428,45,2014-04-19T00:00:04Z,2018-08-22T20:28:43Z,1971,Interactive development tool that makes it easy to develop and debug Elm programs.,Haskell,https://github.com/elm-lang/elm-reactor
+255,movie-monad,428,25,428,11,2017-08-31T05:17:24Z,2020-03-07T14:36:03Z,7024,:tv: A free and simple to use video player made with Haskell.,Haskell,https://github.com/lettier/movie-monad
+256,compiler,427,24,427,70,2021-12-20T17:50:36Z,2025-03-24T20:57:29Z,11928,Compiler for the Gren programming language,Haskell,https://github.com/gren-lang/compiler
+257,DontFearTheProfunctorOptics,427,25,427,0,2017-09-20T15:06:22Z,2022-09-05T06:18:11Z,154,Don't Fear the Profunctor Optics!,Haskell,https://github.com/hablapps/DontFearTheProfunctorOptics
+258,brok,426,10,426,13,2019-01-10T11:06:30Z,2023-03-06T10:48:55Z,964,Find broken links in text documents,Haskell,https://github.com/smallhadroncollider/brok
+259,bloodhound,426,117,426,41,2014-04-01T14:15:45Z,2025-03-18T22:57:04Z,2441,Haskell Elasticsearch client and query DSL,Haskell,https://github.com/bitemyapp/bloodhound
+260,hackage-server,425,198,425,250,2013-08-20T11:08:21Z,2025-03-24T18:13:44Z,12309,Hackage-Server: A Haskell Package Repository,Haskell,https://github.com/haskell/hackage-server
+261,subhask,420,42,420,18,2014-04-18T00:54:47Z,2019-05-16T01:56:05Z,1020,Type safe interface for working in subcategories of Hask,Haskell,https://github.com/mikeizbicki/subhask
+262,Shelly.hs,418,83,418,30,2012-03-02T17:34:50Z,2024-07-06T07:04:07Z,1486,Haskell shell scripting,Haskell,https://github.com/gregwebs/Shelly.hs
+263,github,418,195,418,49,2011-10-30T22:38:34Z,2025-03-27T16:49:19Z,1410,The github API for Haskell,Haskell,https://github.com/haskell-github/github
+264,xmonad-ubuntu-conf,415,165,415,0,2012-06-11T00:26:20Z,2023-08-07T01:37:41Z,77,"My xmonad config for Ubuntu versions from 20.04 all the way back to 12.04! Including package list, config files, and instructions.",Haskell,https://github.com/davidbrewer/xmonad-ubuntu-conf
+265,text,414,158,414,60,2010-10-20T03:35:23Z,2025-03-26T20:25:53Z,3793,Haskell library for space- and time-efficient operations over Unicode text.,Haskell,https://github.com/haskell/text
+266,morpheus-graphql,414,64,414,12,2019-02-08T20:18:45Z,2024-06-30T20:33:08Z,12093,"Haskell GraphQL Api, Client and Tools",Haskell,https://github.com/morpheusgraphql/morpheus-graphql
+267,Caramel,412,13,412,2,2015-09-27T22:12:46Z,2016-06-28T02:20:45Z,61,A modern syntax for the λ-calculus.,Haskell,https://github.com/VictorTaelin/Caramel
+268,effectful,412,30,412,8,2021-06-11T11:43:45Z,2025-03-13T11:16:11Z,4088,"An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.",Haskell,https://github.com/haskell-effectful/effectful
+269,websockets,411,114,411,41,2011-09-08T17:56:52Z,2024-12-12T17:45:17Z,920,A Haskell library for creating WebSocket-capable servers,Haskell,https://github.com/jaspervdj/websockets
+270,hs-tls,407,93,407,32,2010-09-09T21:41:49Z,2025-03-18T05:32:57Z,4781,TLS/SSL implementation in haskell,Haskell,https://github.com/haskell-tls/hs-tls
+271,termonad,407,50,407,28,2018-03-18T11:45:06Z,2025-01-20T19:48:04Z,1411,Terminal emulator configurable in Haskell.,Haskell,https://github.com/cdepillabout/termonad
+272,gloss,407,85,407,13,2013-11-29T02:53:53Z,2024-07-06T11:57:19Z,1495,"Painless 2D vector graphics, animations and simulations.",Haskell,https://github.com/benl23x5/gloss
+273,graphql-api,404,32,404,64,2016-10-12T09:06:17Z,2019-11-23T16:39:32Z,922,Write type-safe GraphQL services in Haskell,Haskell,https://github.com/haskell-graphql/graphql-api
+274,protolude,402,51,402,11,2016-04-07T15:47:12Z,2024-05-16T14:41:31Z,330,A sensible starting Prelude template.,Haskell,https://github.com/protolude/protolude
+275,gists,402,44,402,0,2013-10-27T12:02:57Z,2018-03-01T16:19:03Z,86,With way too messy gist.github pages this is an attempt to organise my snippets,Haskell,https://github.com/kqr/gists
+276,ivory,398,28,398,21,2013-04-29T17:47:42Z,2020-02-21T18:36:15Z,6601,The Ivory EDSL,Haskell,https://github.com/GaloisInc/ivory
+277,call-haskell-from-anything,396,19,396,7,2013-02-04T04:59:02Z,2022-06-17T18:14:04Z,63,Call Haskell functions from any programming language via serialization and dynamic libraries,Haskell,https://github.com/nh2/call-haskell-from-anything
+278,Haskell,396,98,396,20,2020-02-18T07:40:50Z,2024-01-25T20:17:18Z,181,,Haskell,https://github.com/TheAlgorithms/Haskell
+279,fourmolu,393,61,393,73,2020-05-16T14:18:46Z,2025-02-01T01:36:39Z,5035,A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!,Haskell,https://github.com/fourmolu/fourmolu
+280,monocle,392,59,392,112,2019-11-29T22:51:30Z,2025-03-13T17:46:08Z,9103,Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.,Haskell,https://github.com/change-metrics/monocle
+281,apecs,390,44,390,15,2017-08-10T14:59:21Z,2024-03-20T21:35:02Z,1679,"a fast, extensible, type driven Haskell ECS framework for games",Haskell,https://github.com/jonascarpay/apecs
+282,hmatrix,390,104,390,69,2011-12-07T20:11:51Z,2024-06-25T00:05:52Z,3435,Linear algebra and numerical computation,Haskell,https://github.com/haskell-numerics/hmatrix
+283,peridot,389,4,389,0,2020-07-28T23:10:32Z,2023-01-06T14:19:21Z,1197,A fast functional language based on two level type theory,Haskell,https://github.com/eashanhatti/peridot
+284,tart,388,19,388,2,2017-08-05T21:47:33Z,2024-11-22T22:44:07Z,531,Tart - draw ASCII art in the terminal with your mouse!,Haskell,https://github.com/jtdaugherty/tart
+285,ogma,388,35,388,4,2021-08-05T15:28:13Z,2025-03-22T20:55:27Z,32236,Generator of runtime monitors for flight and robotics applications.,Haskell,https://github.com/nasa/ogma
+286,rest,388,52,388,50,2014-04-04T14:22:27Z,2018-10-02T17:26:16Z,1491,"Packages for defining APIs, running them, generating client code and documentation.",Haskell,https://github.com/silkapp/rest
+287,nix-diff,387,19,387,11,2017-09-30T19:02:53Z,2024-12-20T07:48:10Z,928,Explain why two Nix derivations differ,Haskell,https://github.com/Gabriella439/nix-diff
+288,yst,386,38,386,16,2009-08-01T18:09:05Z,2024-05-27T09:16:54Z,277,create static websites from YAML data and string templates,Haskell,https://github.com/jgm/yst
+289,esqueleto,386,107,386,86,2016-12-14T21:00:29Z,2025-03-20T14:45:49Z,2412,"New home of Esqueleto, please file issues so we can get things caught up!",Haskell,https://github.com/bitemyapp/esqueleto
+290,doctest,385,75,385,76,2010-11-04T19:06:17Z,2025-02-17T06:47:14Z,739,An implementation of Python's doctest for Haskell,Haskell,https://github.com/sol/doctest
+291,markup.rocks,385,22,385,15,2015-05-02T18:49:03Z,2016-08-31T06:12:01Z,998,Pandoc based document editor and converter in your browser.,Haskell,https://github.com/ozanmakes/markup.rocks
+292,lsp,385,95,385,52,2016-09-23T19:21:01Z,2025-03-19T21:30:41Z,4055,Haskell library for the Microsoft Language Server Protocol,Haskell,https://github.com/haskell/lsp
+293,massiv,385,24,385,20,2017-02-24T01:05:34Z,2025-01-12T17:30:30Z,6835,Efficient Haskell Arrays featuring Parallel computation,Haskell,https://github.com/lehins/massiv
+294,constellation,384,109,384,3,2016-11-14T06:27:55Z,2020-07-06T12:57:42Z,253,Peer-to-peer encrypted message exchange,Haskell,https://github.com/Consensys/constellation
+295,optics,382,25,382,55,2017-03-10T21:08:54Z,2025-03-26T21:19:36Z,2802,Optics as an abstract interface,Haskell,https://github.com/well-typed/optics
+296,wreq,380,69,380,18,2014-04-01T03:59:07Z,2024-03-25T07:48:19Z,573,,Haskell,https://github.com/haskell/wreq
+297,hnes,380,19,380,0,2017-08-17T06:53:47Z,2023-05-17T22:34:36Z,18410,:video_game: NES Emulator written in Haskell,Haskell,https://github.com/dbousamra/hnes
+298,haskell-emacs,380,24,380,19,2014-12-05T20:44:22Z,2024-02-05T22:25:26Z,285,Write Emacs extensions in Haskell,Haskell,https://github.com/knupfer/haskell-emacs
+299,ad,379,74,379,16,2010-06-14T09:19:18Z,2025-03-03T11:31:51Z,2382,Automatic Differentiation,Haskell,https://github.com/ekmett/ad
+300,haskell-platform,379,91,379,76,2012-03-22T17:58:26Z,2022-02-02T16:09:53Z,3234,Distribution of Haskell with batteries included ,Haskell,https://github.com/haskell/haskell-platform
+301,LambdaNet,378,38,378,5,2014-11-14T20:05:28Z,2016-03-25T18:15:48Z,1020,Purely functional artificial neural network library implemented in Haskell.,Haskell,https://github.com/jbarrow/LambdaNet
+302,Haskell-Morte-Library,377,25,377,14,2014-08-27T04:23:55Z,2022-09-04T23:23:07Z,394,A bare-bones calculus-of-constructions,Haskell,https://github.com/Gabriella439/Haskell-Morte-Library
+303,vector,377,139,377,60,2013-09-24T18:27:31Z,2025-01-28T14:27:07Z,2651,"An efficient implementation of Int-indexed arrays (both mutable and immutable), with a powerful loop optimisation framework .",Haskell,https://github.com/haskell/vector
+304,postgres-websockets,375,29,375,5,2016-05-08T01:43:22Z,2025-03-20T01:37:18Z,473,PostgreSQL + Websockets,Haskell,https://github.com/diogob/postgres-websockets
+305,mtl,374,64,374,33,2012-01-25T02:09:10Z,2024-07-25T18:09:51Z,272,The Monad Transformer Library,Haskell,https://github.com/haskell/mtl
+306,Earley,370,24,370,16,2015-04-11T18:27:29Z,2023-05-14T21:25:58Z,259,Parsing all context-free grammars using Earley's algorithm in Haskell.,Haskell,https://github.com/ollef/Earley
+307,incredible,370,37,370,29,2015-07-24T07:46:31Z,2025-03-02T10:57:33Z,2533,The Incredible Proof Machine,Haskell,https://github.com/nomeata/incredible
+308,squeal,369,32,369,30,2017-08-28T16:55:09Z,2024-12-26T15:54:07Z,3947,"Squeal, a deep embedding of SQL in Haskell",Haskell,https://github.com/morphismtech/squeal
+309,cabal2nix,366,157,366,88,2011-08-05T15:31:37Z,2025-03-11T17:57:28Z,3386,Generate Nix build instructions from a Cabal file,Haskell,https://github.com/NixOS/cabal2nix
+310,sdl2,365,86,365,38,2014-10-17T08:27:25Z,2025-03-22T11:15:16Z,2813,Haskell bindings to the SDL2 library,Haskell,https://github.com/haskell-game/sdl2
+311,hawk,365,20,365,75,2013-08-03T00:48:32Z,2024-02-10T04:55:36Z,932,Haskell text processor for the command-line,Haskell,https://github.com/gelisam/hawk
+312,mezzo,364,12,364,3,2016-10-30T16:34:22Z,2019-03-03T12:30:38Z,1262,A Haskell library for typesafe music composition,Haskell,https://github.com/DimaSamoz/mezzo
+313,funflow,364,32,364,36,2017-09-28T19:17:56Z,2024-01-29T06:37:52Z,64772,Functional workflows,Haskell,https://github.com/tweag/funflow
+314,reflex-dom,363,148,363,61,2014-11-09T20:27:30Z,2025-03-09T19:34:45Z,2697,Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.,Haskell,https://github.com/reflex-frp/reflex-dom
+315,clay,360,72,360,12,2012-12-18T09:15:25Z,2025-01-09T13:37:35Z,632,A CSS preprocessor as embedded Haskell.,Haskell,https://github.com/sebastiaanvisser/clay
+316,Son,358,7,358,9,2017-01-31T21:34:31Z,2019-12-23T18:56:29Z,225,Work in progress. Best alternative: https://matrix.org/docs/spec/appendices.html#canonical-json,Haskell,https://github.com/seagreen/Son
+317,parconc-examples,356,105,356,7,2013-01-24T16:11:30Z,2025-03-25T11:54:58Z,1188,"Sample code to accompany the book ""Parallel and Concurrent Programming in Haskell""",Haskell,https://github.com/simonmar/parconc-examples
+318,picard,354,119,354,37,2021-08-31T16:57:40Z,2023-10-18T02:48:43Z,778,PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models. PICARD is a ServiceNow Research project that was started at Element AI.,Haskell,https://github.com/ServiceNow/picard
+319,react-haskell,352,26,352,14,2014-11-10T01:04:47Z,2015-08-02T03:17:48Z,5494,React bindings for Haskell,Haskell,https://github.com/joelburget/react-haskell
+320,haskell-do,352,32,352,34,2017-02-01T18:25:24Z,2018-02-10T18:56:50Z,43837,:pencil2: :bar_chart: - The Haskell code editor focused on interactive development.,Haskell,https://github.com/theam/haskell-do
+321,CloudHaskell,349,22,349,4,2011-02-14T15:37:42Z,2012-10-16T13:49:17Z,631,A distributed computing framework for Haskell,Haskell,https://github.com/jepst/CloudHaskell
+322,texmath,347,68,347,29,2009-07-01T18:05:53Z,2025-03-16T17:14:46Z,8781,A Haskell library for converting LaTeX math to MathML.,Haskell,https://github.com/jgm/texmath
+323,recursion-schemes,345,57,345,27,2011-01-29T01:19:23Z,2024-12-07T03:19:07Z,340,"Generalized bananas, lenses and barbed wire",Haskell,https://github.com/recursion-schemes/recursion-schemes
+324,verve-lang,344,7,344,4,2016-03-19T19:37:51Z,2021-11-30T02:18:45Z,4200,A functional language for the working hacker,Haskell,https://github.com/tadeuzagallo/verve-lang
+325,nuri,344,13,344,6,2019-05-11T02:07:41Z,2025-03-03T11:19:22Z,909,누리 : 함수형 한글 프로그래밍 언어,Haskell,https://github.com/suhdonghwi/nuri
+326,linear-base,342,37,342,55,2017-11-23T09:46:09Z,2024-11-08T16:06:21Z,1739,Standard library for linear types in Haskell.,Haskell,https://github.com/tweag/linear-base
+327,nix-package-versions,341,29,341,10,2020-02-11T23:23:47Z,2025-01-23T23:25:07Z,40916,Search for old versions of Nix packages,Haskell,https://github.com/lazamar/nix-package-versions
+328,req,341,40,341,8,2016-09-13T19:03:43Z,2025-03-27T20:09:44Z,377,An HTTP client library,Haskell,https://github.com/mrkkrp/req
+329,purerl,339,7,339,7,2019-12-05T12:16:23Z,2024-06-21T19:28:00Z,401,Erlang backend for the PureScript compiler,Haskell,https://github.com/purerl/purerl
+330,ptghci,338,6,338,12,2019-02-27T01:27:51Z,2023-10-08T16:37:13Z,282,"High-powered REPL for Haskell, inspired by IPython",Haskell,https://github.com/litxio/ptghci
+331,machines,338,46,338,20,2012-08-16T22:31:42Z,2025-03-03T12:13:20Z,570,Networks of composable stream transducers,Haskell,https://github.com/ekmett/machines
+332,infernu,338,11,338,15,2014-09-02T22:46:45Z,2018-12-18T19:51:19Z,2484,Type inference and checking for a safer JavaScript.,Haskell,https://github.com/sinelaw/infernu
+333,network,335,190,335,30,2010-10-27T21:37:32Z,2025-01-28T04:28:58Z,2034,Low-level networking interface,Haskell,https://github.com/haskell/network
+334,mu-haskell,334,19,334,16,2019-09-27T08:44:27Z,2024-08-01T23:25:22Z,11034,Mu (μ) is a purely functional framework for building micro services.,Haskell,https://github.com/higherkindness/mu-haskell
+335,amulet,333,16,333,31,2017-12-20T14:04:11Z,2021-10-17T20:03:22Z,4121,An ML-like functional programming language,Haskell,https://github.com/amuletml/amulet
+336,aima-haskell,332,43,332,2,2012-06-29T17:51:18Z,2017-08-07T21:48:51Z,2196,Algorithms from AIMA in Haskell,Haskell,https://github.com/chris-taylor/aima-haskell
+337,monad-challenges,332,78,332,3,2016-01-19T10:57:41Z,2021-08-03T14:15:00Z,326,A set of challenges for jump starting your understanding of monads.,Haskell,https://github.com/mightybyte/monad-challenges
+338,containers,330,182,330,191,2011-06-20T17:48:10Z,2025-03-23T06:47:26Z,9600,Assorted concrete container types,Haskell,https://github.com/haskell/containers
+339,hedis,330,130,330,32,2011-02-23T20:31:41Z,2024-11-25T04:14:05Z,699,A Redis client library for Haskell.,Haskell,https://github.com/informatikr/hedis
+340,scalpel,329,41,329,11,2014-12-26T08:15:53Z,2024-11-16T02:59:58Z,271,A high level web scraping library for Haskell.,Haskell,https://github.com/fimad/scalpel
+341,arbtt,326,36,326,58,2013-11-05T08:32:01Z,2024-04-20T18:37:22Z,1283,"arbtt, the automatic rule-based time-tracker",Haskell,https://github.com/nomeata/arbtt
+342,csound-expression,325,31,325,19,2013-01-20T15:47:46Z,2024-10-22T16:34:23Z,4647,Haskell Framework for Electronic Music,Haskell,https://github.com/spell-music/csound-expression
+343,async,324,65,324,26,2012-06-08T13:36:45Z,2024-11-01T14:51:42Z,188,Run IO operations asynchronously and wait for their results,Haskell,https://github.com/simonmar/async
+344,hakaru,319,31,319,42,2014-12-19T00:51:11Z,2022-03-21T16:23:19Z,13949,A probabilistic programming language,Haskell,https://github.com/hakaru-dev/hakaru
+345,snap-core,318,84,318,23,2010-05-22T04:00:45Z,2024-07-04T22:39:10Z,2094,"Core type definitions (Snap monad, HTTP types, etc) and utilities for web handlers. ",Haskell,https://github.com/snapframework/snap-core
+346,hascard,318,9,318,6,2020-01-19T21:42:09Z,2024-10-27T19:23:17Z,10075,flashcard TUI with markdown cards,Haskell,https://github.com/Yvee1/hascard
+347,vty,316,57,316,2,2011-03-16T22:03:51Z,2025-03-09T02:34:27Z,3657,A high-level ncurses alternative written in Haskell,Haskell,https://github.com/jtdaugherty/vty
+348,purenix,313,9,313,15,2021-10-03T00:58:20Z,2024-08-26T08:49:45Z,158,Nix backend for PureScript.  Transpile PureScript code to Nix.,Haskell,https://github.com/purenix-org/purenix
+349,berp,313,10,313,2,2010-03-03T08:21:43Z,2016-01-29T22:39:41Z,1318,An implementation of Python 3,Haskell,https://github.com/bjpop/berp
+350,ogmios,313,93,313,2,2020-03-16T21:58:59Z,2025-03-12T18:09:42Z,64484,❇️ A WebSocket JSON/RPC bridge for Cardano,Haskell,https://github.com/CardanoSolutions/ogmios
+351,quine-central,313,11,313,0,2016-09-13T04:18:05Z,2018-12-12T05:29:37Z,15,A quine generator,Haskell,https://github.com/dpiponi/quine-central
+352,mariposa,311,6,311,1,2024-01-08T01:39:51Z,2024-02-12T23:02:03Z,54,A toy programming language with time travel,Haskell,https://github.com/ambulancja/mariposa
+353,NeoHaskell,311,3,311,94,2023-09-16T18:03:47Z,2025-03-27T19:33:47Z,157,⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.,Haskell,https://github.com/neohaskell/NeoHaskell
+354,ghcup-hs,310,94,310,185,2020-03-08T23:37:19Z,2025-03-27T14:51:08Z,12357,,Haskell,https://github.com/haskell/ghcup-hs
+355,three-layer,310,26,310,9,2018-04-25T15:53:38Z,2021-04-06T05:52:01Z,333,:three: :cake: Architecture of the Haskell web applications,Haskell,https://github.com/Holmusk/three-layer
+356,husk-scheme,309,28,309,32,2010-05-26T17:02:56Z,2023-11-15T03:49:59Z,10943,A full implementation of the Scheme programming language for the Haskell Platform.,Haskell,https://github.com/justinethier/husk-scheme
+357,alex,306,82,306,32,2011-07-11T20:13:56Z,2025-03-15T19:58:43Z,4697,A lexical analyser generator for Haskell,Haskell,https://github.com/haskell/alex
+358,holmes,305,16,305,8,2019-11-24T19:15:28Z,2024-07-02T05:06:01Z,111,A reference library for constraint-solving with propagators and CDCL.,Haskell,https://github.com/i-am-tom/holmes
+359,plutus-apps,305,214,305,80,2021-10-21T09:27:28Z,2024-09-27T11:52:06Z,129361,The Plutus application platform,Haskell,https://github.com/IntersectMBO/plutus-apps
+360,dth,304,26,304,0,2014-07-23T18:59:23Z,2022-10-18T20:25:43Z,91944,Examples of Dependently-typed programs in Haskell,Haskell,https://github.com/sweirich/dth
+361,statistics,304,69,304,25,2010-10-10T17:49:07Z,2025-02-16T15:30:21Z,1633,"A fast, high quality library for computing with statistics in Haskell.",Haskell,https://github.com/haskell/statistics
+362,cardano-db-sync,302,164,302,161,2020-02-26T23:34:13Z,2025-03-26T19:12:39Z,11108,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,Haskell,https://github.com/IntersectMBO/cardano-db-sync
+363,Expresso,302,13,302,5,2012-08-16T06:37:20Z,2023-04-21T09:07:01Z,158,A simple expressions language with polymorphic extensible row types.,Haskell,https://github.com/willtim/Expresso
+364,happy,301,85,301,47,2012-09-21T19:14:30Z,2025-02-09T19:13:25Z,24057,The Happy parser generator for Haskell,Haskell,https://github.com/haskell/happy
+365,hydra,301,87,301,88,2021-03-01T13:45:19Z,2025-03-28T14:09:50Z,230652,Implementation of the Hydra Head protocol,Haskell,https://github.com/cardano-scaling/hydra
+366,prettyprinter,301,37,301,55,2017-05-17T07:06:18Z,2024-11-07T12:37:45Z,878,"A modern, extensible and well-documented prettyprinter.",Haskell,https://github.com/quchen/prettyprinter
+367,Frames,300,41,300,74,2014-12-01T23:33:05Z,2023-11-01T12:49:13Z,2186,Data frames for tabular data.,Haskell,https://github.com/acowley/Frames
+368,smos,299,47,299,11,2018-07-29T13:45:17Z,2025-03-27T10:20:58Z,9922,A comprehensive self-management System,Haskell,https://github.com/NorfairKing/smos
+369,trifecta,299,49,299,12,2011-08-04T23:59:03Z,2025-03-03T12:19:22Z,1038,"Parser combinators with highlighting, slicing, layout, literate comments, Clang-style diagnostics and the kitchen sink",Haskell,https://github.com/ekmett/trifecta
+370,acid-state,299,60,299,31,2013-06-29T15:16:55Z,2025-03-15T10:59:41Z,551,Add ACID guarantees to any serializable Haskell data structure,Haskell,https://github.com/acid-state/acid-state
+371,haskell-gi,299,74,299,29,2013-04-10T09:04:15Z,2025-02-21T20:53:56Z,4099,Generate Haskell bindings for GObject-Introspection capable libraries,Haskell,https://github.com/haskell-gi/haskell-gi
+372,dbignore,296,9,296,12,2014-05-13T03:32:09Z,2015-02-10T02:34:52Z,428,.gitignore for Dropbox,Haskell,https://github.com/tkonolige/dbignore
+373,magic-haskell,296,28,296,41,2016-07-14T00:11:08Z,2019-05-15T08:02:00Z,7027,魔力haskell官方网站,Haskell,https://github.com/winterland1989/magic-haskell
+374,bytestring,296,141,296,86,2013-02-15T19:06:34Z,2025-03-04T12:41:35Z,13798,"An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.",Haskell,https://github.com/haskell/bytestring
+375,servant-persistent,296,49,296,6,2015-06-06T07:09:28Z,2022-04-16T18:43:30Z,102,A brief example of Servant with Persistent,Haskell,https://github.com/parsonsmatt/servant-persistent
+376,slides,294,30,294,1,2015-07-05T23:42:43Z,2023-06-23T18:01:17Z,44154,Slides from talks that I give,Haskell,https://github.com/Gabriella439/slides
+377,package.elm-lang.org,292,113,292,86,2014-10-28T20:24:07Z,2023-03-24T11:17:37Z,4514,website for browsing packages and exploring documentation,Haskell,https://github.com/elm/package.elm-lang.org
+378,lucid,292,40,292,0,2014-11-15T12:46:52Z,2025-03-11T17:03:13Z,329,"Clear to write, read and edit DSL for writing HTML",Haskell,https://github.com/chrisdone/lucid
+379,microlens,292,40,292,16,2015-02-19T13:20:07Z,2025-03-08T07:50:58Z,883,A lightweight (but compatible with ‘lens’) lenses library,Haskell,https://github.com/stevenfontanella/microlens
+380,pandoc-citeproc,292,60,292,0,2013-08-24T05:52:39Z,2020-10-09T23:33:53Z,3344,Library and executable for using citeproc with pandoc,Haskell,https://github.com/jgm/pandoc-citeproc
+381,FuncShell,291,8,291,5,2017-04-20T08:26:01Z,2022-01-27T20:04:32Z,32650,Improve your shell by making it functional through Haskell! (An update to Awkward),Haskell,https://github.com/iostreamer-X/FuncShell
+382,gotta-go-fast,290,16,290,6,2017-07-20T22:35:37Z,2023-02-25T21:17:54Z,6214,A command line utility for practicing typing and measuring your WPM and accuracy.,Haskell,https://github.com/callum-oakley/gotta-go-fast
+383,gi-gtk-declarative,290,35,290,32,2018-05-31T19:36:04Z,2024-01-11T17:27:15Z,1280,Declarative GTK+ programming in Haskell,Haskell,https://github.com/owickstrom/gi-gtk-declarative
+384,singletons,290,37,290,29,2012-11-26T17:31:46Z,2025-03-08T13:11:52Z,7040,Fake dependent types in Haskell using singletons,Haskell,https://github.com/goldfirere/singletons
+385,frank,288,11,288,3,2017-08-18T01:36:37Z,2024-04-23T15:10:02Z,667,Frank compiler,Haskell,https://github.com/frank-lang/frank
+386,inline-c,288,50,288,16,2015-02-12T13:16:26Z,2024-12-06T15:33:39Z,1108,,Haskell,https://github.com/fpco/inline-c
+387,coreutils,287,3,287,0,2018-09-02T16:39:11Z,2025-03-18T16:05:36Z,387,Unix core utilities implemented in Haskell,Haskell,https://github.com/Gandalf-/coreutils
+388,hue-dashboard,286,21,286,7,2016-04-24T15:29:57Z,2018-05-01T14:29:42Z,3477,A web interface for monitoring and controlling Philips Hue lights,Haskell,https://github.com/blitzcode/hue-dashboard
+389,Carnap,286,28,286,105,2016-01-10T18:21:59Z,2024-12-15T21:37:52Z,6563,A formal logic framework that runs in the browser,Haskell,https://github.com/Carnap/Carnap
+390,shh,286,11,286,13,2017-09-22T02:32:27Z,2024-08-17T06:57:28Z,287,Simple shell like scripting from Haskell,Haskell,https://github.com/luke-clifton/shh
+391,haskell,285,24,285,1,2015-03-14T07:49:47Z,2022-01-02T07:05:07Z,8666,A curated list of awesome things related to Haskell.,Haskell,https://github.com/lotz84/haskell
+392,gogol,285,110,285,33,2015-09-24T18:19:43Z,2025-03-10T03:07:50Z,160288,A comprehensive Google Services SDK for Haskell.,Haskell,https://github.com/brendanhay/gogol
+393,Angel,284,25,284,9,2010-06-04T18:51:13Z,2019-09-25T19:56:49Z,214,"Process Monitoring/Management, Like Daemontools",Haskell,https://github.com/MichaelXavier/Angel
+394,http-client,284,191,284,69,2013-10-04T08:09:04Z,2025-03-26T11:04:29Z,2616,"An HTTP client engine, intended as a base layer for more user-friendly packages.",Haskell,https://github.com/snoyberg/http-client
+395,UwUpp,283,8,283,5,2020-03-03T12:40:41Z,2022-12-04T07:42:57Z,86,The next generation esoteric language,Haskell,https://github.com/Deltaphish/UwUpp
+396,HaskellKoans,283,85,283,11,2012-01-09T00:19:12Z,2021-01-20T01:44:00Z,27,Haskell Koans for the Vancouver's Haskell UnMeetup,Haskell,https://github.com/HaskVan/HaskellKoans
+397,ouroboros-network,282,87,282,346,2018-09-19T16:38:43Z,2025-03-27T20:51:11Z,45922,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,Haskell,https://github.com/IntersectMBO/ouroboros-network
+398,vado,281,7,281,0,2017-08-01T14:15:54Z,2019-04-27T09:40:54Z,24,A demo web browser engine written in Haskell,Haskell,https://github.com/chrisdone-archive/vado
+399,z,281,9,281,0,2012-12-29T17:24:45Z,2014-01-26T09:25:01Z,201,"A strict, impure, curried, partially applied programming language with rather peculiar syntax. ",Haskell,https://github.com/chrisdone-archive/z
+400,nix-vscode-extensions,278,21,278,15,2022-08-27T06:23:22Z,2025-03-28T01:54:55Z,295024,"Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]",Haskell,https://github.com/nix-community/nix-vscode-extensions
+401,haskell-course,278,21,278,2,2015-12-09T17:31:55Z,2022-07-08T13:15:28Z,3994,Introductory Haskell course materials (originally CIS 194 @ UPenn),Haskell,https://github.com/byorgey/haskell-course
+402,discord-haskell,277,59,277,20,2018-06-12T21:47:56Z,2025-02-23T14:19:34Z,1710,Haskell library for writing Discord bots,Haskell,https://github.com/discord-haskell/discord-haskell
+403,haskanoid,276,27,276,14,2014-09-22T11:18:09Z,2023-04-08T21:33:52Z,18088,"A free and open source breakout clone in Haskell using SDL and FRP, with Wiimote and Kinect support.",Haskell,https://github.com/ivanperez-keera/haskanoid
+404,friday,276,18,276,7,2013-08-02T14:51:10Z,2023-05-20T02:40:17Z,12969,Fast image IO and transformations.,Haskell,https://github.com/RaphaelJ/friday
+405,ru-haskell-book,276,24,276,29,2012-05-18T15:24:42Z,2023-08-08T05:30:20Z,24105,учебник по Haskell,Haskell,https://github.com/anton-k/ru-haskell-book
+406,aws-lambda-haskell-runtime,276,48,276,25,2018-11-30T02:11:11Z,2024-02-22T12:48:58Z,322,⚡Haskell runtime for AWS Lambda,Haskell,https://github.com/theam/aws-lambda-haskell-runtime
+407,lawvere,275,5,275,9,2020-12-05T17:58:27Z,2023-03-06T13:57:10Z,217,A categorical programming language with effects,Haskell,https://github.com/jameshaydon/lawvere
+408,lit,274,13,274,0,2014-07-28T18:35:53Z,2017-04-17T16:52:10Z,197,A modern tool for literate programming,Haskell,https://github.com/cdosborn/lit
+409,haskell-tor,273,19,273,25,2015-11-17T06:07:28Z,2017-11-03T23:50:56Z,891,A Haskell implementation of the Tor protocol.,Haskell,https://github.com/GaloisInc/haskell-tor
+410,Sirea,272,8,272,0,2012-04-06T22:47:37Z,2013-05-25T18:00:22Z,2010,Simply Reactive! Declarative orchestration in Haskell using RDP,Haskell,https://github.com/dmbarbour/Sirea
+411,exercises,271,356,271,3,2021-12-19T17:13:09Z,2024-05-20T22:08:04Z,93,💻 Exercises for the Haskell Beginners 2022 course,Haskell,https://github.com/haskell-beginners-2022/exercises
+412,atom,271,20,271,3,2009-05-20T03:37:49Z,2017-05-15T16:40:15Z,180,A DSL for embedded hard realtime applications.,Haskell,https://github.com/tomahawkins/atom
+413,hevm,270,55,270,48,2022-08-29T18:39:09Z,2025-03-27T17:38:32Z,14212,symbolic EVM evaluator,Haskell,https://github.com/ethereum/hevm
+414,cheatsheet,269,20,269,0,2008-10-07T23:35:33Z,2023-06-01T18:36:44Z,1283,A Haskell CheatSheet in PDF and literate source formats.,Haskell,https://github.com/m4dc4p/cheatsheet
+415,nvim-hs,268,18,268,9,2014-11-22T13:46:38Z,2025-03-21T15:18:53Z,803,Neovim API for Haskell plugins as well as the plugin provider,Haskell,https://github.com/neovimhaskell/nvim-hs
+416,cardano-ledger,267,156,267,213,2018-09-24T14:14:10Z,2025-03-28T12:43:54Z,118217,The ledger implementation and specifications of the Cardano blockchain.,Haskell,https://github.com/IntersectMBO/cardano-ledger
+417,hint,267,42,267,33,2016-03-06T17:04:07Z,2025-03-12T10:50:19Z,498,Runtime Haskell interpreter,Haskell,https://github.com/haskell-hint/hint
+418,ohaskell.guide,265,29,265,30,2016-02-29T09:55:27Z,2023-11-03T18:00:33Z,23436,Ваша первая книга о языке Haskell,Haskell,https://github.com/denisshevchenko/ohaskell.guide
+419,halive,263,16,263,14,2015-05-07T07:14:54Z,2021-03-26T04:26:54Z,199,Live recompiler for Haskell,Haskell,https://github.com/lukexi/halive
+420,guanxi,263,29,263,6,2018-10-01T18:09:56Z,2024-09-07T04:16:44Z,303,Relational programming in Haskell. Mostly developed on twitch.,Haskell,https://github.com/ekmett/guanxi
+421,diagnose,262,19,262,12,2020-08-21T10:19:02Z,2024-08-11T20:45:06Z,1608,A simple library for reporting compiler/interpreter errors,Haskell,https://github.com/Mesabloo/diagnose
+422,Vinyl,262,48,262,44,2012-10-26T03:36:57Z,2023-10-28T07:29:29Z,860,Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.,Haskell,https://github.com/VinylRecords/Vinyl
+423,Hubris,261,16,261,4,2009-08-07T09:52:15Z,2015-06-30T18:14:04Z,856,Bridge from Ruby to Haskell,Haskell,https://github.com/mwotton/Hubris
+424,keter,261,75,261,61,2012-05-06T04:21:55Z,2025-03-15T12:37:07Z,860,Web app deployment manager,Haskell,https://github.com/snoyberg/keter
+425,hid-examples,260,92,260,2,2018-05-22T16:07:07Z,2024-12-01T11:47:10Z,3077,"Examples to accompany the book ""Haskell in Depth""",Haskell,https://github.com/bravit/hid-examples
+426,co-log,260,51,260,18,2018-07-26T08:40:11Z,2025-03-16T15:51:51Z,506,📓 Flexible and configurable modern #Haskell logging framework,Haskell,https://github.com/co-log/co-log
+427,sixty,258,7,258,2,2019-04-27T21:22:21Z,2024-09-05T18:35:20Z,11362,Dependent type checker using normalisation by evaluation,Haskell,https://github.com/ollef/sixty
+428,lion,257,16,257,3,2021-02-18T03:18:12Z,2024-08-03T07:53:28Z,331,Where Lions Roam: RISC-V on the VELDT,Haskell,https://github.com/standardsemiconductor/lion
+429,pp,257,21,257,18,2016-03-29T09:18:28Z,2023-12-22T15:13:18Z,4300,"PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...",Haskell,https://github.com/CDSoft/pp
+430,quickspec,254,26,254,19,2012-03-21T15:16:50Z,2025-03-13T18:01:01Z,1957,Equational laws for free,Haskell,https://github.com/nick8325/quickspec
+431,Algorithm-W-Step-By-Step,253,20,253,4,2010-03-21T08:05:22Z,2010-03-29T06:44:31Z,403,Classic Algorithm W for type inference.,Haskell,https://github.com/wh5a/Algorithm-W-Step-By-Step
+432,sbv,252,35,252,1,2011-01-07T07:26:47Z,2025-03-27T17:44:06Z,17531,SMT Based Verification in Haskell. Express properties about Haskell programs  and automatically prove them using SMT solvers. ,Haskell,https://github.com/LeventErkok/sbv
+433,typo,251,7,251,0,2013-08-07T17:17:46Z,2016-03-19T16:13:34Z,32,A programming language that runs in Haskell's type system.,Haskell,https://github.com/seliopou/typo
+434,haskell-tools,250,27,250,52,2016-01-03T16:04:22Z,2024-07-18T10:02:43Z,6605,Developer tools for Haskell,Haskell,https://github.com/haskell-tools/haskell-tools
+435,api.unverified.email,250,7,250,1,2019-08-12T08:52:31Z,2020-04-11T15:07:18Z,190,A service to help with testing of sending the right emails,Haskell,https://github.com/honest-technology/api.unverified.email
+436,frp-arduino,249,20,249,17,2015-01-13T16:38:50Z,2019-04-23T11:08:51Z,438,Arduino programming without the hassle of C.,Haskell,https://github.com/frp-arduino/frp-arduino
+437,chainweb-node,248,97,248,101,2019-03-16T13:13:12Z,2025-03-24T15:12:57Z,35525,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,Haskell,https://github.com/kadena-io/chainweb-node
+438,record,248,6,248,13,2015-01-18T19:42:43Z,2019-02-20T13:01:44Z,165,Anonymous records,Haskell,https://github.com/nikita-volkov/record
+439,blaze-html,248,48,248,23,2010-03-13T17:12:35Z,2025-03-12T10:25:48Z,4876,A blazingly fast HTML combinator library for Haskell.,Haskell,https://github.com/jaspervdj/blaze-html
+440,pretty-simple,246,30,246,17,2016-12-15T06:07:56Z,2025-01-27T13:44:33Z,1745,pretty-printer for Haskell data types that have a Show instance,Haskell,https://github.com/cdepillabout/pretty-simple
+441,hyperbole,245,12,245,7,2023-11-27T18:16:21Z,2025-03-27T16:04:47Z,2618,"Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView",Haskell,https://github.com/seanhess/hyperbole
+442,airship,244,14,244,7,2015-01-23T22:30:51Z,2023-03-01T14:00:13Z,338,"Helium + Webmachine = Airship. A toolkit for building declarative, RESTful web apps.",Haskell,https://github.com/tmcgilchrist/airship
+443,aws,243,107,243,49,2010-10-08T19:45:35Z,2025-01-20T23:51:52Z,2058,Amazon Web Services for Haskell,Haskell,https://github.com/aristidb/aws
+444,mmaclone,243,17,243,1,2016-02-08T15:32:19Z,2019-07-10T18:51:44Z,1272,A simple Wolfram Language clone in Haskell,Haskell,https://github.com/jyh1/mmaclone
+445,gRPC-haskell,243,78,243,31,2017-02-28T17:42:11Z,2025-03-25T21:21:24Z,16409,Haskell gRPC support,Haskell,https://github.com/awakesecurity/gRPC-haskell
+446,silica,242,7,242,3,2018-03-18T08:18:44Z,2020-01-18T06:16:44Z,129,optics for Haskell with the most amazing type errors you've seen,Haskell,https://github.com/evertedsphere/silica
+447,hal,242,13,242,18,2018-12-19T19:15:19Z,2024-09-14T02:41:30Z,383,hal provides an AWS Lambda Custom Runtime environment for your Haskell applications.,Haskell,https://github.com/Nike-Inc/hal
+448,pandoc-plot,239,8,239,9,2019-11-09T18:32:42Z,2025-03-02T03:01:16Z,2474,Render and include figures in Pandoc documents using your plotting toolkit of choice,Haskell,https://github.com/LaurentRDC/pandoc-plot
+449,Juicy.Pixels,238,57,238,36,2011-08-21T17:40:31Z,2024-06-05T07:07:48Z,41407,Haskell library to load & save pictures,Haskell,https://github.com/Twinside/Juicy.Pixels
+450,fireward,238,4,238,17,2019-04-09T14:14:08Z,2023-04-10T20:34:55Z,940,"A concise and readable language for Firestore security rules, similar to Firebase Bolt.",Haskell,https://github.com/bijoutrouvaille/fireward
+451,owlcloud,236,13,236,2,2015-09-11T17:18:43Z,2017-11-25T11:04:42Z,35,OwnCloud for owls done via The Microservice Architecture,Haskell,https://github.com/k-bx/owlcloud
+452,act,236,38,236,36,2019-09-13T16:50:11Z,2025-03-21T14:09:05Z,4524,Smart contract specification language,Haskell,https://github.com/ethereum/act
+453,tagsoup,235,38,235,34,2013-10-11T10:28:20Z,2024-10-20T16:16:14Z,1451,Haskell library for parsing and extracting information from (possibly malformed) HTML/XML documents,Haskell,https://github.com/ndmitchell/tagsoup
+454,stack-templates,235,111,235,2,2015-07-14T16:39:43Z,2024-12-28T22:50:07Z,1261,Project templates for stack new,Haskell,https://github.com/commercialhaskell/stack-templates
+455,TaskLite,235,14,235,45,2019-06-13T16:11:08Z,2024-11-18T16:05:34Z,4574,The CLI task manager for power users,Haskell,https://github.com/ad-si/TaskLite
+456,fregot,235,11,235,10,2019-02-10T12:48:49Z,2022-06-30T13:38:28Z,2372,Fugue Rego Toolkit,Haskell,https://github.com/fugue/fregot
+457,sjsp,234,7,234,0,2015-06-30T05:31:06Z,2020-01-31T15:54:00Z,46,Simple JavaScript Profiler,Haskell,https://github.com/itchyny/sjsp
+458,combinatorrent,234,31,234,27,2009-12-09T23:56:38Z,2017-01-18T14:16:10Z,1940,A bittorrent client written in Haskell,Haskell,https://github.com/jlouis/combinatorrent
+459,lets-lens,233,92,233,9,2015-05-21T00:58:53Z,2024-12-02T00:31:36Z,67,Course material for lens,Haskell,https://github.com/system-f/lets-lens
+460,haskeline,233,77,233,43,2013-10-31T05:19:04Z,2025-03-03T16:45:05Z,1276,A Haskell library for line input in command-line programs.,Haskell,https://github.com/haskell/haskeline
+461,haskell-relational-record,233,36,233,14,2013-05-08T05:44:28Z,2023-12-02T17:32:37Z,5413,"This repository includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.",Haskell,https://github.com/khibino/haskell-relational-record
+462,inline-java,231,15,231,11,2016-10-19T08:36:42Z,2023-11-25T19:14:28Z,1108,Haskell/Java interop via inline Java code in Haskell modules.,Haskell,https://github.com/tweag/inline-java
+463,freer-simple,231,21,231,19,2017-07-05T18:14:52Z,2024-05-16T14:26:15Z,283,A friendly effect system for Haskell,Haskell,https://github.com/lexi-lambda/freer-simple
+464,Lol,230,45,230,12,2015-09-29T21:04:20Z,2021-03-22T14:10:51Z,4155,Λ ⚬ λ: Functional Lattice Cryptography,Haskell,https://github.com/cpeikert/Lol
+465,ruhaskell,229,48,229,4,2015-01-14T09:20:51Z,2023-03-20T11:17:48Z,6546,Главный сайт сообщества,Haskell,https://github.com/ruHaskell/ruhaskell
+466,klfc,229,13,229,26,2016-09-12T18:58:34Z,2023-03-05T14:43:29Z,6319,Keyboard Layout Files Creator,Haskell,https://github.com/39aldo39/klfc
+467,1HaskellADay,228,38,228,0,2016-06-08T13:17:11Z,2021-06-04T18:22:33Z,88775,,Haskell,https://github.com/geophf/1HaskellADay
+468,psc-package,228,45,228,27,2017-02-07T03:47:49Z,2022-07-24T14:21:16Z,138,A package manager for PureScript based on package sets,Haskell,https://github.com/purescript/psc-package
+469,inline-rust,226,9,226,14,2017-09-28T07:19:06Z,2021-05-24T19:54:03Z,140,Use snippets of Rust inline in your Haskell programs,Haskell,https://github.com/harpocrates/inline-rust
+470,yesod-cookbook,226,43,226,5,2015-09-08T13:55:24Z,2021-02-02T17:54:42Z,512,Cookbook documentation,Haskell,https://github.com/yesodweb/yesod-cookbook
+471,glambda,224,30,224,0,2015-05-04T19:51:04Z,2025-03-27T13:01:32Z,4868,The home of the Glamorous Glambda interpreter,Haskell,https://github.com/goldfirere/glambda
+472,Euterpea2,224,71,224,20,2015-12-16T19:59:10Z,2024-08-04T15:00:10Z,19558,Euterpea version 2,Haskell,https://github.com/Euterpea/Euterpea2
+473,pronk,224,21,224,12,2011-07-11T23:59:47Z,2013-01-11T16:41:46Z,210,"A small command line application for load testing web servers.  Think of it as similar to httperf or ab, only more modern and simpler to deal with.",Haskell,https://github.com/bos/pronk
+474,cassava,223,107,223,59,2012-03-20T00:14:40Z,2025-03-11T12:44:27Z,592,A CSV parsing and encoding library optimized for ease of use and high performance,Haskell,https://github.com/haskell-hvr/cassava
+475,nstack,222,14,222,0,2017-03-21T09:08:32Z,2024-02-07T10:39:39Z,237,"Type-safe, composable microservices for data analytics",Haskell,https://github.com/nstack/nstack
+476,eclair-lang,222,13,222,9,2021-06-19T14:46:24Z,2024-01-22T09:15:36Z,4080,"A minimal, fast Datalog implementation in Haskell that compiles to LLVM IR",Haskell,https://github.com/luc-tielen/eclair-lang
+477,compiler,222,17,222,1,2019-12-21T06:32:11Z,2024-12-08T06:52:04Z,2092,The adventures of a Haskell compiler,Haskell,https://github.com/blynn/compiler
+478,givegif,221,5,221,1,2016-03-28T18:30:14Z,2019-11-04T11:44:01Z,11854,GIFs on the command line,Haskell,https://github.com/passy/givegif
+479,unordered-containers,221,100,221,123,2011-01-17T19:52:29Z,2024-05-13T06:54:14Z,2246,Efficient hashing-based container types,Haskell,https://github.com/haskell-unordered-containers/unordered-containers
+480,ermine,220,17,220,14,2012-11-19T19:48:26Z,2018-08-20T01:59:58Z,9597,The Ermine Programming Language - Join us on irc.freenode.net #ermine,Haskell,https://github.com/ermine-language/ermine
+481,par-tutorial,219,24,219,2,2011-05-17T11:02:18Z,2013-02-07T14:14:34Z,7665,A tutorial on Parallel and Concurrent Haskell,Haskell,https://github.com/simonmar/par-tutorial
+482,Allure,219,18,219,27,2010-10-02T13:22:20Z,2023-11-17T13:43:38Z,11839,"Allure of the Stars is a near-future Sci-Fi roguelike and tactical squad combat game written in Haskell; please offer feedback, e.g., after trying out the web frontend version at",Haskell,https://github.com/AllureOfTheStars/Allure
+483,twidge,219,29,219,25,2010-04-22T02:49:06Z,2016-05-30T20:26:35Z,1834,Command-line twitter/identica client [Haskell],Haskell,https://github.com/jgoerzen/twidge
+484,macaw,218,20,218,80,2017-09-28T16:42:26Z,2025-03-24T18:55:41Z,10943,Open source binary analysis tools.,Haskell,https://github.com/GaloisInc/macaw
+485,traderjoes,218,14,218,2,2024-01-21T21:12:21Z,2024-12-27T18:09:11Z,53,"Price tracking program and website for Trader Joe's, updated daily.",Haskell,https://github.com/cmoog/traderjoes
+486,serverless-haskell,217,22,217,23,2017-12-18T04:33:00Z,2024-01-08T06:08:15Z,2940,Deploying Haskell applications to AWS Lambda with Serverless,Haskell,https://github.com/seek-oss/serverless-haskell
+487,rzk,217,10,217,58,2020-11-26T10:28:20Z,2025-03-14T14:59:52Z,58250,An experimental proof assistant based on a type theory for synthetic ∞-categories.,Haskell,https://github.com/rzk-lang/rzk
+488,dunai,217,36,217,6,2016-07-11T22:22:46Z,2025-02-28T07:12:57Z,18051,"Classic FRP, Arrowized FRP, Reactive Programming, and Stream Programming, all via Monadic Stream Functions",Haskell,https://github.com/ivanperez-keera/dunai
+489,haskell-backend,216,45,216,152,2017-01-11T06:07:30Z,2025-03-24T19:07:20Z,112764,The symbolic execution engine powering the K Framework,Haskell,https://github.com/runtimeverification/haskell-backend
+490,defect-process,215,15,215,1,2021-09-19T02:28:05Z,2023-08-01T05:46:10Z,1756,Defect Process (2d hack n' slash game) full source code,Haskell,https://github.com/incoherentsoftware/defect-process
+491,capability,214,9,214,9,2018-08-09T07:23:27Z,2024-07-02T09:52:43Z,360,Extensional capabilities and deriving combinators,Haskell,https://github.com/tweag/capability
+492,duet,214,8,214,0,2017-04-17T14:07:46Z,2023-05-07T20:36:44Z,2975,"A tiny language, a subset of Haskell aimed at aiding teachers teach Haskell",Haskell,https://github.com/chrisdone-archive/duet
+493,summer-2015-haskell-class,213,11,213,0,2015-06-18T13:36:12Z,2015-09-08T19:09:59Z,371,Summer 2015 Haskell Class,Haskell,https://github.com/michaelochurch/summer-2015-haskell-class
+494,elm-package,213,66,213,54,2013-09-25T20:52:59Z,2018-08-22T20:03:43Z,700,Command line tool to share Elm libraries,Haskell,https://github.com/elm-lang/elm-package
+495,haskell-phrasebook,213,22,213,20,2019-07-24T05:31:44Z,2022-02-24T23:11:51Z,303,The Haskell Phrasebook: a quick intro to Haskell via small annotated example programs,Haskell,https://github.com/typeclasses/haskell-phrasebook
+496,PLFA-zh,211,22,211,26,2019-01-17T06:01:32Z,2025-03-24T07:42:27Z,146214,《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版,Haskell,https://github.com/Agda-zh/PLFA-zh
+497,quine,211,25,211,1,2014-10-13T07:47:26Z,2019-01-05T16:19:31Z,5010,"haskell, opengl, toy project",Haskell,https://github.com/ekmett/quine
+498,haskell-scotty-realworld-example-app,210,33,210,2,2017-09-09T06:40:01Z,2019-11-10T12:21:16Z,119,Exemplary real world backend API built with Haskell/Scotty https://realworld.io,Haskell,https://github.com/eckyputrady/haskell-scotty-realworld-example-app
+499,optparse-generic,210,31,210,11,2016-02-26T15:37:18Z,2024-02-01T23:55:53Z,164,Auto-generate a command-line parser for your datatype,Haskell,https://github.com/Gabriella439/optparse-generic
+500,music-suite,210,17,210,32,2014-06-04T19:05:56Z,2022-04-13T18:55:51Z,9758,Music in Haskell,Haskell,https://github.com/music-suite/music-suite
+501,slick,210,24,210,1,2018-07-17T18:57:00Z,2024-08-14T21:45:14Z,9612,Static site generator built on Shake configured in Haskell,Haskell,https://github.com/ChrisPenner/slick
+502,haskelldocumentation,208,30,208,1,2015-02-24T08:42:03Z,2022-05-18T18:21:41Z,158,Repository for collaborative Haskell documentation,Haskell,https://github.com/commercialhaskell/haskelldocumentation
+503,axel,208,9,208,42,2017-08-11T14:56:55Z,2024-05-17T22:32:09Z,906,Haskell + Lisp,Haskell,https://github.com/axellang/axel
+504,linear,208,52,208,28,2011-06-02T06:04:58Z,2025-03-04T12:07:13Z,2242,Low-dimensional linear algebra primitives for Haskell.,Haskell,https://github.com/ekmett/linear
+505,katip,207,69,207,20,2015-05-28T23:09:52Z,2025-01-27T05:09:57Z,719,A structured logging framework for Haskell,Haskell,https://github.com/Soostone/katip
+506,hadrian,207,37,207,39,2014-12-23T17:01:44Z,2019-02-04T16:58:24Z,3208,Hadrian: a new build system for the Glasgow Haskell Compiler. Now merged into the GHC tree!,Haskell,https://github.com/snowleopard/hadrian
+507,implicit-hie,207,17,207,20,2020-05-01T00:59:28Z,2024-02-21T07:24:21Z,479,Auto generate a stack or cabal multi component hie.yaml file,Haskell,https://github.com/Avi-D-coder/implicit-hie
+508,diagrams,206,11,206,11,2012-07-26T20:18:20Z,2023-08-01T19:59:59Z,60,Embedded domain-specific language for declarative vector graphics (wrapper package),Haskell,https://github.com/diagrams/diagrams
+509,postgresql-simple,206,71,206,79,2011-12-25T05:51:13Z,2021-11-19T18:13:41Z,892,Mid-level client library for accessing PostgreSQL from Haskell,Haskell,https://github.com/lpsmith/postgresql-simple
+510,antigen-hs,206,21,206,3,2014-05-21T11:22:30Z,2024-07-29T20:56:09Z,52,A fast zsh plugin manager,Haskell,https://github.com/Tarrasch/antigen-hs
+511,thesis,206,6,206,3,2015-04-28T20:15:56Z,2018-07-19T03:52:32Z,15271,Richard A. Eisenberg's PhD Dissertation,Haskell,https://github.com/goldfirere/thesis
+512,pie-hs,205,16,205,1,2019-02-04T04:30:09Z,2019-11-08T23:25:21Z,138,An implementation of Pie in Haskell,Haskell,https://github.com/david-christiansen/pie-hs
+513,lambdacube-edsl,205,12,205,0,2012-04-21T00:41:37Z,2018-06-23T09:28:59Z,11173,Previous version of LambdaCube 3D as Embedded Domain Specific Language in Haskell. Check the latest system:,Haskell,https://github.com/lambdacube3d/lambdacube-edsl
+514,haskell-telegram-api,204,67,204,20,2016-01-04T08:19:58Z,2023-03-07T14:13:05Z,1720,Telegram Bot API for Haskell,Haskell,https://github.com/klappvisor/haskell-telegram-api
+515,c-repl,204,24,204,1,2008-08-27T15:56:34Z,2020-09-07T05:21:11Z,93,a C read-eval-print loop (abandoned),Haskell,https://github.com/evmar/c-repl
+516,quickcheck-state-machine,203,25,203,28,2017-02-15T14:38:52Z,2021-05-11T14:40:30Z,2843,Test monadic programs using state machine based models,Haskell,https://github.com/advancedtelematic/quickcheck-state-machine
+517,hi,203,20,203,7,2013-07-17T14:48:25Z,2023-01-12T07:27:37Z,234,Generate scaffold for a Haskell project,Haskell,https://github.com/fujimura/hi
+518,skylighting,202,64,202,26,2016-12-13T15:19:33Z,2025-01-29T19:28:58Z,4749,A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions,Haskell,https://github.com/jgm/skylighting
+519,unfog,202,7,202,9,2019-10-22T07:12:01Z,2025-02-05T07:11:31Z,476,"⏱ Minimalist CLI task & time manager, written in Haskell.",Haskell,https://github.com/soywod/unfog
+520,nvfetcher,201,16,201,19,2021-04-20T04:07:58Z,2024-11-25T04:41:30Z,3933,Generate nix sources expr for the latest version of packages,Haskell,https://github.com/berberman/nvfetcher
+521,gifstream,201,7,201,0,2015-01-11T16:44:41Z,2023-09-22T09:41:56Z,310,Make interactive games in Haskell using GIF streams that can be shown in the web browser,Haskell,https://github.com/def-/gifstream
+522,9m,201,13,201,2,2014-05-20T19:50:34Z,2023-08-20T18:16:30Z,103,9m Unicode URL Shortener,Haskell,https://github.com/ehamberg/9m
+523,c2hs,200,52,200,78,2013-07-25T11:49:51Z,2024-03-13T22:20:15Z,4732,c2hs is a pre-processor for Haskell FFI bindings to C libraries,Haskell,https://github.com/haskell/c2hs
+524,flow,200,11,200,0,2015-04-01T22:12:06Z,2025-03-17T14:22:50Z,118,:droplet: Write more understandable Haskell.,Haskell,https://github.com/tfausak/flow
+525,QuickFuzz,199,45,199,21,2015-06-27T12:33:53Z,2020-04-21T14:14:56Z,12486,An experimental grammar fuzzer in Haskell using QuickCheck,Haskell,https://github.com/CIFASIS/QuickFuzz
+526,HaTeX,199,46,199,20,2012-01-17T13:47:45Z,2023-09-28T10:01:27Z,919,The Haskell LaTeX library.,Haskell,https://github.com/Daniel-Diaz/HaTeX
+527,lhc,199,14,199,7,2012-04-06T15:23:07Z,2020-04-30T02:37:17Z,33036,The LLVM LHC Haskell Optimization System,Haskell,https://github.com/lemmih/lhc
+528,herms,198,43,198,24,2017-06-28T12:46:33Z,2023-10-07T04:30:15Z,373,:stew::fork_and_knife: A command-line manager for delicious kitchen recipes,Haskell,https://github.com/LuxMiranda/herms
+529,keera-hails,198,12,198,9,2012-06-15T12:44:50Z,2022-04-05T08:30:03Z,1447,Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications,Haskell,https://github.com/keera-studios/keera-hails
+530,haskell-src-exts,197,94,197,115,2013-05-04T08:37:51Z,2023-07-22T13:37:19Z,19726,"Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",Haskell,https://github.com/haskell-suite/haskell-src-exts
+531,dejafu,197,19,197,22,2014-12-19T07:21:45Z,2025-03-11T09:31:45Z,2765,Systematic concurrency testing meets Haskell.,Haskell,https://github.com/barrucadu/dejafu
+532,cborg,196,89,196,62,2015-07-06T11:49:59Z,2025-03-26T11:51:43Z,4181,Binary serialisation in the CBOR format,Haskell,https://github.com/well-typed/cborg
+533,snap-server,196,84,196,23,2010-05-22T04:03:40Z,2024-07-04T07:38:13Z,2266,"A fast HTTP server library, which runs Snap web handlers. ",Haskell,https://github.com/snapframework/snap-server
+534,morloc,196,4,196,5,2016-12-02T03:11:38Z,2025-03-26T03:46:06Z,6174,"A typed, polyglot, functional language",Haskell,https://github.com/morloc-project/morloc
+535,dino-rush,195,17,195,0,2018-01-31T02:02:29Z,2022-02-04T01:59:38Z,10512,🌋 Endless runner game,Haskell,https://github.com/jxv/dino-rush
+536,haskell-webdriver,195,72,195,27,2012-03-12T21:17:20Z,2025-03-20T08:04:45Z,1096,A Haskell client for the Selenium WebDriver protocol.,Haskell,https://github.com/haskell-webdriver/haskell-webdriver
+537,learn-you-a-haskell-exercises,195,152,195,8,2012-12-21T21:26:00Z,2019-10-17T23:16:23Z,38,,Haskell,https://github.com/noelmarkham/learn-you-a-haskell-exercises
+538,ff,195,18,195,45,2017-12-29T09:24:15Z,2024-06-10T04:01:32Z,6250,A distributed note taker and task manager.,Haskell,https://github.com/ff-notes/ff
+539,Hydra,195,13,195,42,2019-05-01T17:15:44Z,2024-09-03T11:03:42Z,570,"Hydra is a full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support.",Haskell,https://github.com/graninas/Hydra
+540,PortFusion,194,41,194,10,2012-03-29T13:56:59Z,2016-08-01T06:30:09Z,725,"Haskell-powered cross-platform transport-layer distributed reverse / forward proxy & tunneling solution – currently available for all TCP protocols (RDP, VNC, HTTP(S), SSH, ...).",Haskell,https://github.com/corsis/PortFusion
+541,HerbiePlugin,193,5,193,10,2015-08-26T04:16:04Z,2015-10-06T11:35:10Z,460,GHC plugin that improves Haskell code's numerical stability,Haskell,https://github.com/mikeizbicki/HerbiePlugin
+542,hs-web3,193,68,193,11,2016-10-03T13:56:19Z,2024-10-25T10:43:26Z,1794,Web3 API for Haskell,Haskell,https://github.com/airalab/hs-web3
+543,PolysemyCleanArchitecture,192,16,192,1,2020-02-06T19:52:32Z,2023-12-15T08:39:42Z,1678,Showcasing how the Polysemy library can be used to implement a REST application conforming to the guidelines of the Clean Architecture model.,Haskell,https://github.com/thma/PolysemyCleanArchitecture
+544,tryhaskell,192,40,192,6,2010-02-28T15:05:22Z,2023-06-04T20:14:30Z,103,Try Haskell,Haskell,https://github.com/chrisdone-archive/tryhaskell
+545,dynamic,191,5,191,0,2019-03-31T15:33:14Z,2019-05-29T23:05:25Z,30,Dynamic typing in Haskell,Haskell,https://github.com/chrisdone-archive/dynamic
+546,quad-ci,190,12,190,1,2020-12-23T13:23:10Z,2022-04-01T16:30:43Z,278,A CI server written in Simple Haskell.,Haskell,https://github.com/alpacaaa/quad-ci
+547,cmt,189,9,189,3,2019-02-21T22:38:06Z,2020-10-05T19:04:17Z,1211,Write consistent git commit messages based on a custom template,Haskell,https://github.com/smallhadroncollider/cmt
+548,hie-bios,189,64,189,39,2019-06-14T16:13:34Z,2025-03-25T07:16:43Z,595,Set up a GHC API session for various Haskell Projects,Haskell,https://github.com/haskell/hie-bios
+549,PomPom-Language,189,6,189,0,2021-06-14T01:48:28Z,2022-12-13T17:09:55Z,1827,The cuteness implementation of a dependently typed language.,Haskell,https://github.com/caotic123/PomPom-Language
+550,idris-erlang,188,15,188,1,2014-11-13T20:08:43Z,2017-07-01T20:41:18Z,314,Erlang Backend for Idris Compiler,Haskell,https://github.com/lenary/idris-erlang
+551,higher-order-unification,188,5,188,1,2017-08-05T10:23:05Z,2017-08-06T10:17:19Z,31,A small implementation of higher-order unification,Haskell,https://github.com/jozefg/higher-order-unification
+552,pearls,188,32,188,0,2013-01-29T13:26:29Z,2016-04-01T13:40:53Z,1707,Pearls of Functional Algorithm Design by Richard Bird - Haskell Code,Haskell,https://github.com/derekmcloughlin/pearls
+553,foldilocks,188,12,188,1,2019-04-20T17:47:53Z,2019-04-28T21:09:10Z,74,"Tutorial using ghci to make folds easier. Come for the tutorial, stay for the fold puns.",Haskell,https://github.com/aymannadeem/foldilocks
+554,fgl,188,54,188,17,2015-03-05T06:03:19Z,2024-09-30T06:55:43Z,427,A Functional Graph Library for Haskell,Haskell,https://github.com/haskell/fgl
+555,git-mediate,187,8,187,11,2014-12-01T13:36:08Z,2025-02-06T15:53:04Z,204,Become a conflict resolution hero,Haskell,https://github.com/Peaker/git-mediate
+556,cellularAutomata,187,13,187,1,2016-02-11T14:06:20Z,2019-05-28T10:41:53Z,18418,a collection of cellular automata written in Haskell with Diagrams,Haskell,https://github.com/bollu/cellularAutomata
+557,muesli,187,6,187,2,2013-09-14T18:46:37Z,2024-09-22T01:00:10Z,208,An alternative approach to food,Haskell,https://github.com/l29ah/muesli
+558,alfred-margaret,187,11,187,3,2019-03-05T14:57:31Z,2025-02-05T15:33:13Z,412,Fast Aho-Corasick string searching,Haskell,https://github.com/channable/alfred-margaret
+559,iris,186,22,186,19,2022-05-11T20:21:36Z,2023-11-12T10:23:07Z,20427,🌈 Haskell CLI Framework supporting Command Line Interface Guidelines,Haskell,https://github.com/chshersh/iris
+560,backprop,186,22,186,5,2017-02-22T07:43:46Z,2024-07-05T17:27:38Z,11606,"Heterogeneous automatic differentiation (""backpropagation"") in Haskell",Haskell,https://github.com/mstksg/backprop
+561,refined,186,32,186,6,2015-04-27T17:57:44Z,2024-12-21T01:39:39Z,212,Refinement types with static checking,Haskell,https://github.com/nikita-volkov/refined
+562,Haskell-Typed-Spreadsheet-Library,185,12,185,3,2015-11-09T15:27:43Z,2022-09-05T00:04:41Z,91,Typed and composable spreadsheets,Haskell,https://github.com/Gabriella439/Haskell-Typed-Spreadsheet-Library
+563,elsa,185,22,185,1,2017-03-11T08:02:59Z,2025-03-26T02:36:03Z,93,Elsa is a lambda calculus evaluator ,Haskell,https://github.com/ucsd-progsys/elsa
+564,tinyjit,184,9,184,2,2016-01-02T00:59:31Z,2020-01-19T12:06:10Z,17,Haskell JIT,Haskell,https://github.com/sdiehl/tinyjit
+565,onyx,184,18,184,105,2014-02-03T02:13:39Z,2024-12-04T04:21:17Z,139082,"Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",Haskell,https://github.com/mtolly/onyx
+566,haskell-json,183,29,183,4,2019-11-04T18:10:37Z,2023-03-03T18:37:37Z,49,Source Code for JSON Parser Video,Haskell,https://github.com/tsoding/haskell-json
+567,graphmod,183,30,183,12,2008-09-08T23:08:05Z,2024-07-04T05:43:13Z,549,A utility for displaying the module dependencies of Haskell programs.,Haskell,https://github.com/yav/graphmod
+568,gtk2hs,183,87,183,126,2013-10-15T03:24:39Z,2025-03-20T08:33:25Z,62124,GUI library for Haskell based on GTK+,Haskell,https://github.com/gtk2hs/gtk2hs
+569,lex-pass,182,23,182,0,2009-05-05T09:05:07Z,2014-05-15T16:49:55Z,510,manipulate a php codebase using haskell to transform the abstract-syntax-tree,Haskell,https://github.com/facebookarchive/lex-pass
+570,geordi,182,38,182,2,2010-03-10T22:39:03Z,2022-10-05T22:16:35Z,1979,IRC C++ eval bot,Haskell,https://github.com/Eelis/geordi
+571,floskell,181,24,181,18,2017-06-21T09:08:39Z,2024-07-13T14:56:24Z,2207,Floskell is a flexible Haskell source code pretty printer.,Haskell,https://github.com/ennocramer/floskell
+572,pdf-toolbox,181,26,181,12,2013-02-13T21:35:47Z,2024-05-29T18:41:25Z,582,A collection of tools for processing PDF files in Haskell,Haskell,https://github.com/Yuras/pdf-toolbox
+573,gitlib,181,56,181,21,2012-12-18T10:29:16Z,2025-03-18T16:06:09Z,7061,,Haskell,https://github.com/jwiegley/gitlib
+574,auto,181,11,181,1,2014-06-28T23:40:14Z,2019-06-28T22:08:19Z,3325,"Haskell DSL and platform providing denotational, compositional api for discrete-step, locally stateful, interactive programs, games & automations.  http://hackage.haskell.org/package/auto",Haskell,https://github.com/mstksg/auto
+575,stripe,180,74,180,23,2014-04-25T18:50:35Z,2024-12-14T00:05:41Z,736,:moneybag: Stripe API,Haskell,https://github.com/dmjio/stripe
+576,universum,180,28,180,38,2016-07-25T10:55:02Z,2025-01-16T17:34:12Z,914,:milky_way: Prelude written in @Serokell,Haskell,https://github.com/serokell/universum
+577,hledger-flow,180,24,180,22,2018-08-07T20:23:13Z,2024-04-13T04:56:47Z,1069,An hledger/ledger-cli workflow focusing on automated statement import and classification,Haskell,https://github.com/apauley/hledger-flow
+578,esqueleto,180,49,180,43,2012-09-03T12:18:53Z,2016-11-10T07:29:21Z,801,"Bare bones, type-safe EDSL for SQL queries on persistent backends.",Haskell,https://github.com/prowdsponsor/esqueleto
+579,HTTP,179,59,179,18,2010-10-31T11:33:10Z,2025-01-05T18:05:02Z,600,Haskell HTTP package,Haskell,https://github.com/haskell/HTTP
+580,HVM3,179,17,179,13,2024-11-07T00:01:23Z,2025-03-27T13:54:05Z,508,HVM3,Haskell,https://github.com/HigherOrderCO/HVM3
+581,scion,179,43,179,13,2008-10-09T13:48:59Z,2013-03-15T12:55:28Z,1182,"OLD, DEPRECATED: Use this instead https://github.com/haskell/haskell-ide-engine",Haskell,https://github.com/nominolo/scion
+582,haskell-dangerous-functions,179,14,179,0,2021-03-13T15:29:42Z,2025-02-26T11:42:06Z,85,Documentation about Haskell's dangerous functions and a hlint config file to warn about them,Haskell,https://github.com/NorfairKing/haskell-dangerous-functions
+583,nix-serve-ng,178,17,178,8,2022-07-06T23:42:29Z,2024-12-02T14:12:47Z,71,A drop-in replacement for nix-serve that is faster and more reliable,Haskell,https://github.com/aristanetworks/nix-serve-ng
+584,android-lint-summary,178,12,178,3,2015-05-22T13:14:31Z,2017-12-09T22:27:23Z,851,Prettier display of Android Lint issues,Haskell,https://github.com/passy/android-lint-summary
+585,lobster-challenge,178,58,178,3,2021-09-10T08:21:15Z,2021-11-18T13:59:23Z,327,Simple Plutus contract to help give Charles' stuffed lobster a name,Haskell,https://github.com/input-output-hk/lobster-challenge
+586,shortcut-highlighter,178,2,178,4,2019-03-18T12:34:45Z,2021-04-26T04:12:45Z,27,set of tools and services for highlighting shortcuts from applications and system with RGB keyboard,Haskell,https://github.com/Rasie1/shortcut-highlighter
+587,groundhog,178,39,178,24,2011-06-22T07:37:46Z,2024-07-26T07:40:26Z,4493,"This library maps datatypes to a relational model, in a way similar to what ORM libraries do in OOP. See the tutorial https://www.schoolofhaskell.com/user/lykahb/groundhog for introduction",Haskell,https://github.com/lykahb/groundhog
+588,learn-physics,178,16,178,1,2015-11-07T23:04:41Z,2023-01-12T19:08:55Z,93,"A library of functions for vector calculus, calculation of electric field, electric flux, magnetic field, and other quantities in mechanics and electromagnetic theory.",Haskell,https://github.com/walck/learn-physics
+589,nixos-manager,177,7,177,8,2020-03-12T14:58:18Z,2020-05-02T06:04:27Z,1957,"Manage your NixOS packages and configuration via a simple, intuitive UI",Haskell,https://github.com/pmiddend/nixos-manager
+590,elm-make,176,45,176,29,2014-09-25T18:00:52Z,2018-08-22T20:02:16Z,218,A build tool for Elm projects,Haskell,https://github.com/elm-lang/elm-make
+591,inspection-testing,175,28,175,10,2017-11-04T15:16:10Z,2025-01-01T19:37:47Z,247,Inspection Testing for Haskell,Haskell,https://github.com/nomeata/inspection-testing
+592,godot-haskell,175,17,175,13,2018-02-20T16:57:54Z,2024-07-08T05:14:40Z,5658,Haskell bindings for GdNative,Haskell,https://github.com/SimulaVR/godot-haskell
+593,ditto,174,5,174,0,2015-08-02T05:11:35Z,2018-07-12T13:00:17Z,331,A Super Kawaii Dependently Typed Programming Language,Haskell,https://github.com/ditto/ditto
+594,HaskellSpriteKit,174,8,174,14,2016-08-07T08:18:44Z,2020-12-16T15:54:44Z,4788,Haskell binding to Apple's SpriteKit framework,Haskell,https://github.com/mchakravarty/HaskellSpriteKit
+595,spectacle,174,12,174,8,2021-03-18T17:16:51Z,2023-01-13T17:38:50Z,516,Embedded specification language & model checker in Haskell,Haskell,https://github.com/awakesecurity/spectacle
+596,extensible-effects,174,25,174,5,2013-11-19T16:37:38Z,2021-01-18T19:31:45Z,979,Extensible Effects: An Alternative to Monad Transformers,Haskell,https://github.com/suhailshergill/extensible-effects
+597,nix-deploy,174,10,174,4,2017-11-13T22:40:33Z,2022-06-21T23:14:21Z,43,Deploy software or an entire NixOS system configuration to another NixOS system,Haskell,https://github.com/awakesecurity/nix-deploy
+598,ddc,174,19,174,1,2012-09-24T09:11:06Z,2019-02-06T03:00:24Z,51786,The Disco Discus Compiler,Haskell,https://github.com/discus-lang/ddc
+599,unit-test-example,173,15,173,0,2012-12-05T05:38:51Z,2024-01-31T00:48:41Z,72,Unit test example for Haskell,Haskell,https://github.com/kazu-yamamoto/unit-test-example
+600,propagators,172,25,172,8,2015-09-20T02:08:45Z,2024-04-01T18:39:40Z,169,The Art of the Propagator. See also:,Haskell,https://github.com/ekmett/propagators
+601,compiler,172,1,172,16,2018-12-31T08:05:24Z,2019-05-12T03:36:44Z,781,The compiler for Keli,Haskell,https://github.com/KeliLanguage/compiler
+602,pursuit,172,47,172,76,2014-08-04T04:57:54Z,2024-09-03T21:46:42Z,1364,Website for hosting and searching PureScript API documentation,Haskell,https://github.com/purescript/pursuit
+603,idris-php,172,14,172,1,2015-03-03T22:52:45Z,2017-08-04T12:23:59Z,23,"Yes, really...",Haskell,https://github.com/edwinb/idris-php
+604,codex,172,33,172,16,2014-04-23T22:51:47Z,2021-06-20T17:05:27Z,239,A ctags file generator for cabal/stack project dependencies.,Haskell,https://github.com/aloiscochard/codex
+605,mongodb,172,47,172,31,2014-06-04T20:49:48Z,2024-06-14T16:10:14Z,943,MongoDB driver for Haskell,Haskell,https://github.com/mongodb-haskell/mongodb
+606,ghc-hotswap,172,8,172,2,2017-09-19T20:52:31Z,2018-09-24T20:34:23Z,13,Example code for how we swap compiled code within a running Haskell process.,Haskell,https://github.com/fbsamples/ghc-hotswap
+607,hdevtools,171,41,171,26,2012-07-19T16:21:14Z,2019-08-10T10:38:12Z,47,REPO UNMAINTAINED!!! Try this: https://github.com/hdevtools/hdevtools/,Haskell,https://github.com/bitc/hdevtools
+608,free,171,67,171,46,2011-02-17T19:18:14Z,2025-03-03T10:16:23Z,1072,free monads,Haskell,https://github.com/ekmett/free
+609,Awesome-list-of-Haskell-mentors,171,16,171,0,2018-07-29T14:07:16Z,2022-08-31T07:20:51Z,59,An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.,Haskell,https://github.com/willbasky/Awesome-list-of-Haskell-mentors
+610,blackstar,171,13,171,0,2016-02-19T16:33:39Z,2021-11-09T19:38:05Z,47752,A black hole raytracer written in Haskell,Haskell,https://github.com/flannelhead/blackstar
+611,cxxdraft-htmlgen,171,15,171,6,2015-04-08T16:31:00Z,2025-03-27T16:43:10Z,1201,Generates https://eel.is/c++draft,Haskell,https://github.com/Eelis/cxxdraft-htmlgen
+612,weeder,171,30,171,38,2019-09-10T09:23:38Z,2025-03-04T17:22:51Z,270,A re-implementation of weeder using HIE files,Haskell,https://github.com/ocharles/weeder
+613,registry,170,12,170,0,2018-08-07T09:54:27Z,2025-03-07T09:13:49Z,725,Components as records of functions for Haskell,Haskell,https://github.com/etorreborre/registry
+614,caledon,170,9,170,2,2012-11-16T05:02:35Z,2018-08-07T09:47:20Z,2599,higher order dependently typed logic programing,Haskell,https://github.com/mmirman/caledon
+615,higgledy,170,21,170,5,2019-04-07T21:28:19Z,2024-08-20T15:15:34Z,115,Higher-kinded data via generics,Haskell,https://github.com/i-am-tom/higgledy
+616,finkel,170,2,170,4,2020-01-14T09:28:46Z,2024-11-18T21:51:16Z,22615,Haskell in S-expression,Haskell,https://github.com/finkel-lang/finkel
+617,codec-beam,170,6,170,1,2017-04-29T23:20:33Z,2024-11-19T16:49:23Z,258,Generate Erlang VM byte code from Haskell,Haskell,https://github.com/kofigumbs/codec-beam
+618,elm-repl,170,34,170,55,2013-10-30T14:53:20Z,2018-08-22T20:27:21Z,175,A REPL for Elm,Haskell,https://github.com/elm-lang/elm-repl
+619,cql,169,15,169,44,2018-07-12T20:00:47Z,2023-04-14T09:31:36Z,631,CQL: Categorical Query Language implementation in Haskell,Haskell,https://github.com/statebox/cql
+620,graphql-haskell,169,27,169,6,2015-09-12T10:56:19Z,2019-06-11T04:34:32Z,323,Haskell GraphQL implementation,Haskell,https://github.com/jdnavarro/graphql-haskell
+621,haskellings,169,23,169,9,2020-11-03T21:48:56Z,2023-05-10T03:02:26Z,243,An automated tutorial to teach you about Haskell!,Haskell,https://github.com/MondayMorningHaskell/haskellings
+622,haskell-yesod-realworld-example-app,169,26,169,0,2018-07-11T22:51:16Z,2021-12-09T12:00:22Z,378,Exemplary real world application built with Haskell + Yesod,Haskell,https://github.com/tzemanovic/haskell-yesod-realworld-example-app
+623,legacy-old-hercules,168,16,168,25,2016-10-20T20:56:56Z,2018-10-03T09:33:55Z,217,Abandoned,Haskell,https://github.com/hercules-ci/legacy-old-hercules
+624,estuary,167,26,167,21,2015-12-03T15:12:56Z,2024-11-20T21:38:07Z,19511,Platform for collaboration and learning through live coding,Haskell,https://github.com/dktr0/estuary
+625,holbert,167,7,167,1,2020-09-08T12:57:39Z,2024-11-21T04:43:28Z,11421,A graphical interactive proof assistant designed for education,Haskell,https://github.com/liamoc/holbert
+626,dhc,166,12,166,2,2017-11-01T23:03:53Z,2019-03-04T21:30:47Z,385,Compiles Haskell to WebAssembly,Haskell,https://github.com/dfinity-side-projects/dhc
+627,shentong,166,10,166,1,2014-12-11T04:02:52Z,2018-04-05T20:12:35Z,1040,A Haskell implementation of the Shen programming language.,Haskell,https://github.com/mthom/shentong
+628,foldl,166,52,166,21,2013-08-05T00:22:18Z,2025-01-16T02:57:52Z,324,"Composable, streaming, and efficient left folds",Haskell,https://github.com/Gabriella439/foldl
+629,deli,166,9,166,3,2017-10-12T20:12:14Z,2020-12-16T15:50:07Z,50,,Haskell,https://github.com/github/deli
+630,proofsweeper,166,3,166,1,2017-12-29T01:31:37Z,2024-09-25T22:34:56Z,30,Play Minesweeper by formally proving your moves in Idris,Haskell,https://github.com/A1kmm/proofsweeper
+631,HaskellStarter,165,18,165,2,2014-02-25T03:09:18Z,2014-10-05T16:36:49Z,539,A project that demonstrates getting up and running with Haskell.,Haskell,https://github.com/joshcough/HaskellStarter
+632,AoPL,165,36,165,4,2013-01-29T23:51:47Z,2021-03-05T01:03:38Z,16333,"A book on programming languages, using Haskell",Haskell,https://github.com/w7cook/AoPL
+633,lambdabot,165,70,165,39,2012-03-17T00:15:23Z,2025-01-08T15:44:29Z,15297,"A friendly IRC bot and apprentice coder, written in Haskell.",Haskell,https://github.com/lambdabot/lambdabot
+634,oama,164,13,164,4,2022-06-07T23:38:47Z,2025-03-17T21:44:39Z,253,OAuth credential Manager,Haskell,https://github.com/pdobsan/oama
+635,learn-haskell,164,8,164,0,2016-01-27T22:01:03Z,2016-03-03T00:18:12Z,6642,,Haskell,https://github.com/nushio3/learn-haskell
+636,accelerate-llvm,164,54,164,15,2014-02-21T03:26:03Z,2024-09-14T18:47:42Z,3847,LLVM backend for Accelerate,Haskell,https://github.com/AccelerateHS/accelerate-llvm
+637,styx,164,16,164,9,2016-11-14T19:00:58Z,2021-08-11T09:46:39Z,41,A nix-based Haskell project manager,Haskell,https://github.com/jyp/styx
+638,cradle,164,12,164,2,2010-01-11T08:28:25Z,2020-02-26T23:38:52Z,2527,Let's Build a Compiler (in Haskell),Haskell,https://github.com/g-ford/cradle
+639,yaml,164,77,164,11,2009-07-27T18:52:01Z,2024-08-15T04:28:37Z,717,Support for serialising Haskell to and from Yaml.,Haskell,https://github.com/snoyberg/yaml
+640,servant-elm,164,48,164,10,2015-10-22T20:50:32Z,2024-01-14T23:22:31Z,298,Automatically derive Elm functions to query servant webservices,Haskell,https://github.com/haskell-servant/servant-elm
+641,citeproc,164,19,164,22,2020-09-06T23:09:00Z,2025-03-28T05:08:01Z,1401,CSL citation processing library in Haskell,Haskell,https://github.com/jgm/citeproc
+642,stratosphere,163,19,163,3,2016-03-27T16:06:24Z,2024-12-11T22:54:10Z,18090,Haskell EDSL and type-checker for AWS CloudFormation templates,Haskell,https://github.com/mbj/stratosphere
+643,tiny-games-hs,163,31,163,2,2023-02-07T11:19:15Z,2023-08-31T19:38:00Z,14440,Haskell Tiny Game Jam,Haskell,https://github.com/haskell-game/tiny-games-hs
+644,zero-to-quake-3,163,7,163,4,2018-08-27T16:31:56Z,2020-04-29T01:36:00Z,80,Implementing Quake 3 in Haskell & Vulkan,Haskell,https://github.com/ocharles/zero-to-quake-3
+645,riscv-semantics,163,17,163,11,2017-09-08T00:25:39Z,2023-08-13T00:03:11Z,630,A formal semantics of the RISC-V ISA in Haskell,Haskell,https://github.com/mit-plv/riscv-semantics
+646,hask,162,15,162,1,2014-06-23T13:54:30Z,2021-03-23T04:15:01Z,1066,"Category theory for Haskell with a lens flavor (you need GHC 7.8.3, not 7.8.2 to build this!)",Haskell,https://github.com/ekmett/hask
+647,coda,162,14,162,5,2017-08-20T09:20:14Z,2024-04-10T06:04:55Z,2824,A language experiment -- irc.freenode.net ##coda,Haskell,https://github.com/ekmett/coda
+648,irc-core,162,28,162,15,2015-03-01T01:46:34Z,2025-01-30T20:23:28Z,6388,Haskell IRC library and console client - Join us on libera.chat #glirc,Haskell,https://github.com/glguy/irc-core
+649,generics-sop,162,48,162,40,2014-06-27T20:58:23Z,2025-01-04T21:20:17Z,690,Generic Programming using True Sums of Products,Haskell,https://github.com/well-typed/generics-sop
+650,streaming,162,29,162,37,2017-09-13T01:12:03Z,2024-02-05T20:45:02Z,611,"An optimized general monad transformer for streaming applications, with a simple prelude of functions",Haskell,https://github.com/haskell-streaming/streaming
+651,haskell-game-programming,161,7,161,10,2015-09-23T10:36:40Z,2019-10-22T03:45:09Z,103843,"A central repository of Haskell Game Programming resources, put together by Keera Studios",Haskell,https://github.com/keera-studios/haskell-game-programming
+652,ghc-lib,161,9,161,4,2019-01-09T19:54:31Z,2025-03-21T10:13:29Z,986,"The GHC API, decoupled from GHC versions",Haskell,https://github.com/digital-asset/ghc-lib
+653,validity,160,31,160,4,2016-07-10T13:11:41Z,2025-02-24T20:27:20Z,1514,Validity and validity-based testing,Haskell,https://github.com/NorfairKing/validity
+654,GPipe-Core,160,29,160,20,2012-04-12T19:37:48Z,2023-09-12T19:24:27Z,523,"Core library of new GPipe, encapsulating OpenGl and providing a type safe minimal library",Haskell,https://github.com/tobbebex/GPipe-Core
+655,logger,160,67,160,16,2011-12-22T02:47:40Z,2024-10-31T03:21:11Z,543,A fast logging system for Haskell,Haskell,https://github.com/kazu-yamamoto/logger
+656,scarf,160,9,160,2,2019-02-24T05:19:27Z,2021-06-10T21:27:00Z,679,An environment manager and development tool powered by Nomia.,Haskell,https://github.com/scarf-sh/scarf
+657,language-javascript,160,47,160,24,2010-11-21T19:29:30Z,2023-03-07T01:38:33Z,1137,"Parser for JavaScript, in Haskell",Haskell,https://github.com/erikd/language-javascript
+658,gressgraph,160,22,160,3,2012-05-06T17:02:52Z,2020-06-15T17:20:42Z,52,visualize your iptables firewall,Haskell,https://github.com/jekor/gressgraph
+659,ChessPositionRanking,160,7,160,0,2021-07-19T13:41:33Z,2023-11-21T22:26:16Z,119169,Software suite for ranking chess positions and accurately estimating the number of legal chess positions,Haskell,https://github.com/tromp/ChessPositionRanking
+660,servant-auth,159,72,159,45,2016-09-05T13:35:46Z,2021-10-29T13:04:57Z,456,,Haskell,https://github.com/haskell-servant/servant-auth
+661,curl-runnings,159,13,159,15,2018-02-28T18:04:50Z,2023-06-25T21:43:04Z,218,A declarative test framework for quickly and easily writing integration tests against JSON APIs.,Haskell,https://github.com/aviaviavi/curl-runnings
+662,open-game-engine,159,28,159,9,2019-12-05T19:43:43Z,2025-01-31T14:52:16Z,6553,Haskell implementation of open games,Haskell,https://github.com/CyberCat-Institute/open-game-engine
+663,haskell-tree-sitter,159,51,159,17,2017-01-30T20:39:52Z,2024-09-23T21:51:27Z,1647,Haskell bindings for tree-sitter,Haskell,https://github.com/tree-sitter/haskell-tree-sitter
+664,haskell-exercises,158,49,158,1,2014-09-22T09:31:51Z,2021-08-09T10:30:17Z,98,Haskell exercises with automatic tests,Haskell,https://github.com/opqdonut/haskell-exercises
+665,zephyr,158,16,158,10,2017-08-19T10:47:35Z,2023-04-25T07:29:41Z,417,Tree shaking breeze for PureScript CoreFn AST,Haskell,https://github.com/MaybeJustJames/zephyr
+666,rel8,158,40,158,50,2017-02-13T09:53:51Z,2025-03-11T13:02:41Z,2567,Hey! Hey! Can u rel8?,Haskell,https://github.com/circuithub/rel8
+667,twitter-conduit,158,48,158,1,2011-07-18T17:34:50Z,2021-12-14T17:59:26Z,797,"Twitter API package for Haskell, including enumerator interfaces and Streaming API supports.",Haskell,https://github.com/himura/twitter-conduit
+668,hierarchical-free-monads-the-most-developed-approach-in-haskell,157,9,157,0,2020-05-05T06:31:09Z,2021-07-22T14:02:02Z,1255,"Big article about Hierarchical Free Monads, the most developed approach to build real software in Haskell",Haskell,https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell
+669,tiny-optimising-compiler,157,6,157,0,2017-07-02T09:42:08Z,2019-08-28T15:01:09Z,1237,A tiny *optimising* compiler for an imperative programming language written in haskell,Haskell,https://github.com/bollu/tiny-optimising-compiler
+670,blip,157,6,157,13,2013-03-27T11:08:30Z,2020-07-30T09:29:01Z,483,A bytecode compiler for Python 3,Haskell,https://github.com/bjpop/blip
+671,flatparse,157,13,157,11,2021-03-01T16:35:27Z,2025-01-04T16:37:52Z,459,Fast parsing from bytestrings,Haskell,https://github.com/AndrasKovacs/flatparse
+672,what4,157,13,157,53,2020-02-25T23:38:15Z,2025-03-28T12:24:20Z,6998,Symbolic formula representation and solver interaction library,Haskell,https://github.com/GaloisInc/what4
+673,nix-linter,156,16,156,24,2018-10-02T18:35:00Z,2023-02-27T05:56:07Z,446,Linter for the Nix expression language,Haskell,https://github.com/Synthetica9/nix-linter
+674,glancer,156,12,156,1,2021-01-04T23:33:23Z,2023-08-27T09:09:31Z,3415,Glance over some technical videos,Haskell,https://github.com/rberenguel/glancer
+675,cardano-addresses,156,50,156,8,2020-02-21T09:04:23Z,2025-03-03T05:51:31Z,85091,Addresses and mnemonic manipulation & derivations,Haskell,https://github.com/IntersectMBO/cardano-addresses
+676,mono-traversable,156,67,156,48,2013-09-09T07:38:09Z,2025-03-27T16:20:54Z,1570,"Type classes for mapping, folding, and traversing monomorphic containers",Haskell,https://github.com/snoyberg/mono-traversable
+677,TypedFlow,156,13,156,4,2017-07-31T08:54:31Z,2022-07-01T07:47:29Z,837,Typed frontend to TensorFlow and higher-order deep learning,Haskell,https://github.com/GU-CLASP/TypedFlow
+678,kalyn,156,3,156,20,2020-03-22T00:03:52Z,2022-07-02T21:48:02Z,10042,"⚗️ Self-hosting compiler from a Haskell-like Lisp directly to x86-64, from scratch.",Haskell,https://github.com/radian-software/kalyn
+679,ThreadScope,155,35,155,35,2011-08-26T20:27:13Z,2025-03-27T12:01:46Z,47579,A graphical tool for profiling parallel Haskell programs,Haskell,https://github.com/haskell/ThreadScope
+680,toysolver,155,11,155,3,2011-06-12T02:38:42Z,2025-02-28T14:35:33Z,7831,My sandbox for experimenting with solver algorithms.,Haskell,https://github.com/msakai/toysolver
+681,haskell-opencv,155,44,155,22,2016-05-19T12:55:02Z,2023-09-29T14:27:51Z,45926,Haskell binding to OpenCV-3.x,Haskell,https://github.com/LumiGuide/haskell-opencv
+682,ComonadSheet,155,11,155,4,2013-11-26T13:57:08Z,2021-03-03T05:18:56Z,1177,"A library for expressing ""spreadsheet-like"" computations with absolute and relative references, using fixed-points of n-dimensional comonads.",Haskell,https://github.com/plaidfinch/ComonadSheet
+683,Haskell-OpenGL-Tutorial,154,14,154,0,2013-12-09T21:57:52Z,2024-05-19T15:33:50Z,32268,an attempt to create a concise modern Haskell OpenGL boilerplate with basic IO,Haskell,https://github.com/madjestic/Haskell-OpenGL-Tutorial
+684,grpc-haskell,153,16,153,8,2016-11-16T18:16:07Z,2018-08-31T12:15:37Z,149,gRPC library binding for Haskell.,Haskell,https://github.com/grpc/grpc-haskell
+685,apply-refact,153,29,153,30,2015-06-29T20:42:31Z,2025-01-29T23:41:53Z,587,Refactor Haskell source files,Haskell,https://github.com/mpickering/apply-refact
+686,haskell-wasm,153,24,153,7,2018-01-19T00:06:15Z,2025-01-18T03:19:33Z,1031,Haskell WebAssembly Toolkit,Haskell,https://github.com/SPY/haskell-wasm
+687,dataflow,152,17,152,1,2015-05-08T07:40:58Z,2019-09-04T18:59:35Z,971,Render graphs using a declarative markup.,Haskell,https://github.com/sonyxperiadev/dataflow
+688,arithmoi,152,41,152,19,2015-03-28T03:45:13Z,2025-03-01T16:58:34Z,2464,"Number theory: primes, arithmetic functions, modular computations, special sequences",Haskell,https://github.com/Bodigrim/arithmoi
+689,rattletrap,152,21,152,5,2016-09-28T22:01:59Z,2025-03-17T01:34:13Z,81095,:car: Parse and generate Rocket League replays.,Haskell,https://github.com/tfausak/rattletrap
+690,rfc,152,11,152,0,2016-09-02T10:31:40Z,2024-08-31T07:10:59Z,45528,My slides and compilation of resources.,Haskell,https://github.com/soupi/rfc
+691,elm-beam,152,5,152,0,2018-10-06T18:57:25Z,2018-10-09T02:23:35Z,2914,Exploring Elm on the Erlang VM,Haskell,https://github.com/kofigumbs/elm-beam
+692,hsthrift,152,36,152,7,2020-09-17T16:29:02Z,2025-03-27T23:20:23Z,5098,The Haskell Thrift Compiler. This is an implementation of the Thrift spec that generates code in Haskell. It depends on the fbthrift project for the implementation of the underlying transport.,Haskell,https://github.com/facebookincubator/hsthrift
+693,swift-haskell-tutorial,151,12,151,3,2017-02-09T05:51:48Z,2017-02-26T03:22:47Z,471,Integrating Haskell with Swift Mac Apps,Haskell,https://github.com/nanotech/swift-haskell-tutorial
+694,lorem-markdownum,151,7,151,2,2013-11-11T13:28:36Z,2025-01-20T16:53:14Z,351,A lorem ipsum generator for markdown,Haskell,https://github.com/jaspervdj/lorem-markdownum
+695,envy,151,26,151,6,2015-06-26T02:17:19Z,2024-12-10T03:29:06Z,122,:angry: Environmentally friendly environment variables,Haskell,https://github.com/dmjio/envy
+696,Jikka,151,12,151,36,2019-07-04T08:18:43Z,2021-09-29T17:44:46Z,80840,an automated solver for problems of competitive programming,Haskell,https://github.com/kmyk-jikka/Jikka
+697,awesome-open-science,151,15,151,0,2014-09-15T23:27:17Z,2017-10-31T20:45:51Z,20,"some links to projects/tools related to ""open science"".",Haskell,https://github.com/silky/awesome-open-science
+698,OpenGL,151,27,151,27,2011-04-07T02:08:01Z,2024-07-07T08:51:05Z,2111,Haskell bindings to OpenGL,Haskell,https://github.com/haskell-opengl/OpenGL
+699,AIT,151,15,151,0,2013-03-27T19:27:05Z,2025-03-27T17:28:36Z,499,"Algorithmic Information Theory, using Binary Lambda Calculus",Haskell,https://github.com/tromp/AIT
+700,digestive-functors,150,68,150,48,2010-10-02T12:01:57Z,2025-02-04T02:19:39Z,781,A general way to consume input using applicative functors,Haskell,https://github.com/jaspervdj/digestive-functors
+701,texts,150,33,150,0,2015-02-11T08:48:05Z,2015-02-11T09:08:01Z,346804,,Haskell,https://github.com/Mzk-Levi/texts
+702,hamilton,150,11,150,3,2016-11-22T10:03:48Z,2024-09-08T03:50:54Z,303,Simulate physics on generalized coordinate systems using Hamiltonian Mechanics and automatic differentiation.  Don't throw away your shot.,Haskell,https://github.com/mstksg/hamilton
+703,hode,150,4,150,11,2018-12-07T01:33:48Z,2021-06-03T18:57:11Z,2844,"rslt, take five-ish",Haskell,https://github.com/JeffreyBenjaminBrown/hode
+704,unliftio,150,49,150,27,2017-07-12T15:12:15Z,2025-03-10T08:58:21Z,384,The MonadUnliftIO typeclass for unlifting monads to IO,Haskell,https://github.com/fpco/unliftio
+705,haskellweekly,150,54,150,0,2019-07-12T22:02:44Z,2025-03-27T09:59:45Z,4365,Publishes curated news about the Haskell programming language.,Haskell,https://github.com/haskellweekly/haskellweekly
+706,generative-art,150,7,150,5,2018-10-26T15:14:33Z,2025-01-13T18:14:38Z,10130,"I wanted to make a nicer sticker for Munihac, then things got out of hand.",Haskell,https://github.com/quchen/generative-art
+707,Drasil,150,26,150,389,2014-09-07T13:44:04Z,2025-03-27T14:09:18Z,851126,Generate all the things (focusing on research software),Haskell,https://github.com/JacquesCarette/Drasil
+708,vulkan,149,33,149,26,2016-02-17T21:54:21Z,2024-11-22T09:34:14Z,197282,Haskell bindings for Vulkan,Haskell,https://github.com/expipiplus1/vulkan
+709,json-autotype,149,23,149,13,2014-05-01T07:52:05Z,2023-09-21T00:08:59Z,924,Automatic Haskell type inference from JSON input,Haskell,https://github.com/migamake/json-autotype
+710,static-ls,149,17,149,5,2023-03-27T15:48:59Z,2025-03-12T20:34:39Z,2704,,Haskell,https://github.com/josephsumabat/static-ls
+711,fakedata,149,21,149,7,2019-01-19T20:18:31Z,2024-10-20T06:00:40Z,1123,Haskell Library for producing quality fake data,Haskell,https://github.com/fakedata-haskell/fakedata
+712,cherchord,150,4,150,2,2019-04-12T00:05:42Z,2023-04-05T02:29:53Z,34,🎸 Find chords for any string instrument quicky & easily 🎸,Haskell,https://github.com/DataKinds/cherchord
+713,Copilot,149,12,149,1,2010-09-19T06:14:57Z,2019-03-30T20:08:11Z,1134,A (Haskell DSL) stream language for generating hard real-time C code.,Haskell,https://github.com/leepike/Copilot
+714,cabal-dev,149,24,149,47,2010-12-20T21:11:19Z,2015-01-22T19:09:45Z,496,A wrapper program around cabal and cabal-install that maintains sandboxed build environments.,Haskell,https://github.com/creswick/cabal-dev
+715,regex-genex,148,10,148,4,2011-05-23T06:54:56Z,2015-09-24T22:17:06Z,7201,"Given a list of regexes, generate all possible strings that matches all of them.",Haskell,https://github.com/audreyt/regex-genex
+716,cornelis,148,24,148,22,2022-01-26T01:12:46Z,2025-03-28T11:55:52Z,12671,agda-mode for neovim,Haskell,https://github.com/agda/cornelis
+717,HyperNerd,148,16,148,196,2018-01-28T15:11:12Z,2020-10-19T11:17:32Z,1170, Total Surveillance Automatic Ban Machine for Twitch and Discord,Haskell,https://github.com/tsoding/HyperNerd
+718,dear-imgui.hs,148,30,148,17,2021-01-24T15:25:50Z,2024-10-02T15:07:45Z,4226,"Haskell bindings to Dear ImGui, an immediate mode GUI toolkit",Haskell,https://github.com/haskell-game/dear-imgui.hs
+719,engine.io,148,28,148,2,2014-07-08T07:53:21Z,2020-12-14T17:05:31Z,619,A Haskell server implementation of the Engine.IO and Socket.IO (1.0) protocols,Haskell,https://github.com/ocharles/engine.io
+720,ttyd64,147,10,147,0,2023-08-13T13:27:50Z,2025-03-04T06:06:31Z,49145,PM64 romhack that adds TTYD's gameplay into the original Paper Mario.,Haskell,https://github.com/eldexterr/ttyd64
+721,sprite-lang,147,13,147,4,2020-09-23T00:01:49Z,2024-03-09T07:08:26Z,192,An tutorial-style implementation of liquid/refinement types for a subset of Ocaml/Reason.,Haskell,https://github.com/ranjitjhala/sprite-lang
+722,pandoc-sidenote,147,18,147,6,2016-11-03T07:14:19Z,2024-10-31T06:02:58Z,36,Convert Pandoc Markdown-style footnotes into sidenotes,Haskell,https://github.com/jez/pandoc-sidenote
+723,shade,147,9,147,3,2014-06-13T22:43:24Z,2014-07-06T23:12:08Z,321,"Interactive, client-side web apps in Haskell",Haskell,https://github.com/takeoutweight/shade
+724,fugacious,147,11,147,0,2017-09-26T03:08:01Z,2018-03-08T15:28:18Z,45,An example Haskell web application,Haskell,https://github.com/jaspervdj/fugacious
+725,lambda-ccc,146,18,146,9,2013-05-20T19:44:45Z,2016-02-23T19:35:05Z,1261,Convert lambda expressions to CCC combinators,Haskell,https://github.com/conal/lambda-ccc
+726,hoodle,146,12,146,42,2012-06-11T01:16:37Z,2023-06-26T09:10:11Z,5647,hoodle : A pen notetaking program written in haskell,Haskell,https://github.com/wavewave/hoodle
+727,redo,146,17,146,2,2013-03-31T21:06:43Z,2017-12-26T04:02:49Z,21,djb's redo implementation in Haskell (for Haskell from Scratch video series),Haskell,https://github.com/jekor/redo
+728,zoomhub,146,22,146,28,2013-09-01T05:59:30Z,2025-03-17T02:39:16Z,3912,Share and view high-resolution images effortlessly,Haskell,https://github.com/zoomhub/zoomhub
+729,hw-kafka-client,146,54,146,12,2016-04-02T12:09:01Z,2025-02-03T05:27:34Z,562,"Kafka client for Haskell, including auto-rebalancing consumers",Haskell,https://github.com/haskell-works/hw-kafka-client
+730,dyna,146,20,146,53,2012-10-23T22:06:44Z,2020-06-14T01:04:48Z,1977,Dyna2 compiler and REPL,Haskell,https://github.com/nwf/dyna
+731,language-c-inline,146,15,146,30,2013-02-21T05:56:12Z,2017-07-30T11:33:40Z,248,Inline C & Objective-C in Haskell,Haskell,https://github.com/mchakravarty/language-c-inline
+732,tal,146,13,146,0,2015-10-05T16:48:56Z,2021-09-30T14:02:57Z,65,"An implementation of Typed Assembly Language (Morrisett, Walker, Crary, Glew)",Haskell,https://github.com/sweirich/tal
+733,pointfree,145,21,145,3,2010-12-08T20:31:52Z,2024-10-16T22:56:14Z,99,Maintenance of the pointfree Hackage package.,Haskell,https://github.com/bmillwood/pointfree
+734,GLuaFixer,145,18,145,0,2015-07-18T22:08:35Z,2024-09-29T12:24:13Z,3913,Linter for Garry's mod Lua.,Haskell,https://github.com/FPtje/GLuaFixer
+735,ngless,145,25,145,35,2013-01-08T15:56:55Z,2025-03-19T04:09:32Z,14768,NGLess: NGS with less work,Haskell,https://github.com/ngless-toolkit/ngless
+736,ghc-proofs,145,6,145,1,2017-02-06T21:50:31Z,2018-11-04T09:27:04Z,37,Let GHC prove program equations for you,Haskell,https://github.com/nomeata/ghc-proofs
+737,example-servant-elm,145,16,145,0,2016-05-19T10:17:37Z,2021-09-29T08:41:28Z,47,Example for a web app with a servant backend and an elm frontend,Haskell,https://github.com/haskell-servant/example-servant-elm
+738,liquid-fixpoint,144,62,144,41,2013-02-04T16:53:22Z,2025-03-27T18:17:33Z,6369,Horn Clause Constraint Solving for Liquid Types,Haskell,https://github.com/ucsd-progsys/liquid-fixpoint
+739,haskell-sdl2-examples,144,16,144,1,2014-09-09T12:42:01Z,2023-03-16T07:31:05Z,695,SDL2 tutorial code in Haskell,Haskell,https://github.com/palf/haskell-sdl2-examples
+740,ghc-grin,144,4,144,5,2018-09-18T09:41:31Z,2021-11-09T12:35:32Z,63205,GRIN backend for GHC,Haskell,https://github.com/grin-compiler/ghc-grin
+741,rei,144,5,144,0,2015-07-22T20:52:20Z,2016-12-04T22:37:07Z,47,Process lists easily,Haskell,https://github.com/kerkomen/rei
+742,cubical,144,10,144,0,2013-12-19T15:45:49Z,2015-07-19T18:31:44Z,2917,Implementation of Univalence in Cubical Sets,Haskell,https://github.com/simhu/cubical
+743,pandoc-include-code,144,17,144,16,2017-02-20T05:28:24Z,2023-06-10T13:23:41Z,80,A Pandoc filter for including code from source files,Haskell,https://github.com/owickstrom/pandoc-include-code
+744,ted2srt,143,21,143,0,2013-03-24T10:24:13Z,2021-03-24T08:26:36Z,3644,Download bilingual subtitles of TED talks. https://ted2sub.org now.,Haskell,https://github.com/rnons/ted2srt
+745,fficxx,143,13,143,42,2011-11-12T05:39:10Z,2023-08-30T18:55:32Z,5901,Haskell-C++ Foreign Function Interface Generator,Haskell,https://github.com/wavewave/fficxx
+746,izuna,142,4,142,3,2020-12-02T09:00:19Z,2021-02-10T09:07:09Z,1089,Show Haskell type annotations when doing code review on Github,Haskell,https://github.com/matsumonkie/izuna
+747,Rasterific,142,11,142,9,2013-12-17T18:46:27Z,2021-05-26T21:27:48Z,1453,A drawing engine in Haskell,Haskell,https://github.com/Twinside/Rasterific
+748,Compositional_Deep_Learning,142,8,142,0,2018-02-21T22:56:45Z,2020-05-04T23:19:56Z,114,Deep learning via category theory and functional programming,Haskell,https://github.com/bgavran/Compositional_Deep_Learning
+749,Hypatia,142,5,142,3,2017-06-26T20:38:22Z,2025-02-21T12:30:47Z,402,A ML-family Language Compiled to Lua,Haskell,https://github.com/kindl/Hypatia
+750,algebra-driven-design,142,14,142,6,2020-07-24T19:39:01Z,2023-11-11T22:36:30Z,106463,Source material for Algebra-Driven Design,Haskell,https://github.com/isovector/algebra-driven-design
+751,chips,142,14,142,1,2014-10-22T01:49:23Z,2014-11-11T00:18:11Z,8019,A clone of Chips Challenge in Haskell,Haskell,https://github.com/egonSchiele/chips
+752,octopod,141,7,141,14,2020-12-08T14:11:58Z,2024-09-04T14:53:45Z,63647,Kubernetes self-service portal,Haskell,https://github.com/typeable/octopod
+753,replica,141,15,141,11,2019-06-24T00:04:28Z,2024-11-08T23:59:12Z,248,A remote virtual DOM library for Haskell,Haskell,https://github.com/pkamenarsky/replica
+754,ArkhamHorror,141,47,141,47,2020-03-19T14:22:31Z,2025-03-27T22:41:37Z,3085201,"An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.",Haskell,https://github.com/halogenandtoast/ArkhamHorror
+755,void-space,141,10,141,2,2018-11-01T03:06:58Z,2020-05-12T16:24:32Z,200,"Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me",Haskell,https://github.com/ChrisPenner/void-space
+756,reflex-vty,141,26,141,11,2019-08-04T01:29:27Z,2024-11-11T04:01:43Z,822,Build terminal applications using functional reactive programming (FRP) with Reflex FRP.,Haskell,https://github.com/reflex-frp/reflex-vty
+757,notion-ocr,141,4,141,7,2019-11-08T10:04:22Z,2020-09-14T06:48:25Z,4122,Adding OCR support to Notion,Haskell,https://github.com/yannick-cw/notion-ocr
+758,purebred,141,21,141,46,2017-07-18T04:34:12Z,2025-01-08T04:10:23Z,19272,A terminal based mail user agent based on notmuch,Haskell,https://github.com/purebred-mua/purebred
+759,hulk,141,15,141,1,2011-01-27T09:19:37Z,2017-02-17T14:24:19Z,179,Haskell IRC daemon.,Haskell,https://github.com/chrisdone-archive/hulk
+760,commonmark-hs,140,34,140,35,2018-03-21T05:06:30Z,2025-03-18T05:21:51Z,1386,"Pure Haskell commonmark parsing library, designed to be flexible and extensible",Haskell,https://github.com/jgm/commonmark-hs
+761,BigPixel,140,9,140,1,2013-01-20T13:42:21Z,2014-12-16T04:10:21Z,311,Pixel art for games,Haskell,https://github.com/mchakravarty/BigPixel
+762,markdown-unlit,140,17,140,0,2012-10-12T11:12:21Z,2025-03-20T11:47:35Z,54,Literate Haskell support for Markdown,Haskell,https://github.com/sol/markdown-unlit
+763,dh-core,140,22,140,23,2018-10-15T19:22:54Z,2022-02-01T16:06:53Z,1240,Functional data science,Haskell,https://github.com/DataHaskell/dh-core
+764,repa,140,37,140,2,2013-11-29T04:05:43Z,2025-01-11T21:49:54Z,4200," High performance, regular, shape polymorphic parallel arrays.",Haskell,https://github.com/haskell-repa/repa
+765,visi,140,4,140,2,2011-11-08T18:09:38Z,2013-03-13T18:22:30Z,8864,The Visi Language and iPad IDE,Haskell,https://github.com/visi-lang/visi
+766,klister,139,11,139,97,2019-06-22T16:23:06Z,2025-03-14T16:52:17Z,1165,an implementation of stuck macros,Haskell,https://github.com/gelisam/klister
+767,mighttpd2,139,20,139,6,2011-02-22T04:28:05Z,2024-11-07T02:03:52Z,507,File/CGI web server on Warp,Haskell,https://github.com/kazu-yamamoto/mighttpd2
+768,diagrams-lib,139,62,139,58,2012-07-24T23:03:00Z,2025-03-06T08:15:25Z,4746,Diagrams standard library,Haskell,https://github.com/diagrams/diagrams-lib
+769,gf-core,139,39,139,49,2018-07-26T18:32:19Z,2025-03-27T13:29:52Z,136177,"Grammatical Framework core: compiler, shell & runtimes",Haskell,https://github.com/GrammaticalFramework/gf-core
+770,hfsnotify,139,43,139,18,2012-05-24T18:27:09Z,2025-03-21T10:40:03Z,424,Unified Haskell interface for basic file system notifications,Haskell,https://github.com/haskell-fswatch/hfsnotify
+771,zeromq-haskell,139,21,139,7,2010-01-16T18:01:29Z,2016-05-08T19:14:52Z,489,This repository has been moved to https://gitlab.com/twittner/zeromq-haskell,Haskell,https://github.com/twittner/zeromq-haskell
+772,haskellers,139,20,139,4,2010-10-04T19:22:30Z,2024-01-12T12:53:54Z,996,haskellers.com site,Haskell,https://github.com/commercialhaskell/haskellers
+773,concur-replica,139,20,139,17,2019-06-24T00:04:42Z,2020-10-18T21:45:53Z,85,Server-side VDOM UI framework for Concur,Haskell,https://github.com/pkamenarsky/concur-replica
+774,transient-universe,139,14,139,2,2016-04-05T17:29:01Z,2021-03-06T12:25:34Z,40748,"A Cloud monad based on transient for the creation of  Web and reactive distributed applications that are fully composable, where Web browsers are first class nodes in the cloud ",Haskell,https://github.com/transient-haskell/transient-universe
+775,critbit,138,40,138,6,2013-04-27T20:51:58Z,2022-04-17T16:43:51Z,1450,A Haskell implementation of crit-bit trees.,Haskell,https://github.com/haskell/critbit
+776,msgpack-haskell,138,80,138,21,2011-11-25T08:45:30Z,2023-02-17T18:11:37Z,386,Haskell implementation of MessagePack / msgpack.org[Haskell],Haskell,https://github.com/msgpack/msgpack-haskell
+777,HaRe,138,32,138,26,2011-04-06T08:37:30Z,2017-06-16T15:12:43Z,43619,The Haskell Refactoring Tool,Haskell,https://github.com/RefactoringTools/HaRe
+778,redish,138,5,138,1,2013-02-15T18:33:17Z,2018-08-13T09:53:09Z,16,"A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.",Haskell,https://github.com/honza/redish
+779,vimus,138,17,138,20,2010-11-04T18:43:13Z,2022-07-13T12:28:24Z,1113,"An MPD client with vim-like key bindings, written in Haskell ",Haskell,https://github.com/vimus/vimus
+780,haskellcosm,138,22,138,4,2019-02-10T14:03:31Z,2024-04-08T15:59:53Z,235,"Collecting information about Haskell ecosystem - companies, communities, media, etc.",Haskell,https://github.com/sigrlami/haskellcosm
+781,shelltestrunner,138,10,138,8,2015-03-16T17:04:57Z,2023-09-12T16:16:19Z,1160,"Easy, repeatable testing of CLI programs/commands",Haskell,https://github.com/simonmichael/shelltestrunner
+782,freenode-exodus,138,39,138,0,2021-05-31T06:25:36Z,2022-05-29T18:40:16Z,1034,Projects and channels that have decided to leave Freenode. (Final leave count: 1056),Haskell,https://github.com/siraben/freenode-exodus
+783,frag,138,15,138,2,2017-02-25T05:34:26Z,2020-06-13T05:24:21Z,16349,"Frag is a 3D first person shooting game written in Haskell, by Mun Hon Cheong",Haskell,https://github.com/rainbyte/frag
+784,seonbi,137,7,137,11,2019-09-16T19:43:00Z,2025-03-21T15:23:34Z,96133,SmartyPants for Korean language,Haskell,https://github.com/dahlia/seonbi
+785,shakespeare,137,77,137,32,2010-03-21T07:27:36Z,2024-09-23T19:09:59Z,1655,Haml-like template files that are compile-time checked,Haskell,https://github.com/yesodweb/shakespeare
+786,numerical,137,13,137,15,2014-03-16T05:33:17Z,2024-06-24T13:40:42Z,630,Numerical is the core library for Numerical Haskell,Haskell,https://github.com/wellposed/numerical
+787,mafia,137,20,137,34,2015-09-23T01:19:39Z,2019-12-02T10:13:33Z,733,"Provides protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks.",Haskell,https://github.com/haskell-mafia/mafia
+788,haskell-music,137,18,137,0,2020-05-30T03:52:29Z,2020-10-16T14:05:26Z,4,"Source Code from ""Making Music with Haskell"" video",Haskell,https://github.com/tsoding/haskell-music
+789,uhc,137,21,137,20,2012-04-21T14:05:31Z,2021-08-18T21:20:35Z,75537,,Haskell,https://github.com/UU-ComputerScience/uhc
+790,quantfin,137,11,137,0,2015-02-26T18:30:02Z,2019-04-06T10:30:31Z,128,quant finance in pure haskell,Haskell,https://github.com/boundedvariation/quantfin
+791,discrimination,136,18,136,5,2014-12-17T07:31:01Z,2024-10-20T23:09:59Z,1317,Fast linear time sorting and discrimination for a large class of data types,Haskell,https://github.com/ekmett/discrimination
+792,aws-lambda-haskell,136,13,136,1,2016-05-23T10:40:42Z,2016-08-16T06:57:39Z,197,Running Haskell code on AWS Lambda,Haskell,https://github.com/abailly/aws-lambda-haskell
+793,ghc-vis,136,20,136,9,2014-06-09T16:06:25Z,2024-04-07T08:32:03Z,6112,Visualize live Haskell data structures in GHCi,Haskell,https://github.com/def-/ghc-vis
+794,wc,136,10,136,2,2019-09-08T16:06:04Z,2021-08-20T04:07:00Z,2423,Beating unix `wc` in Haskell,Haskell,https://github.com/ChrisPenner/wc
+795,smallcheck,136,16,136,0,2011-11-17T23:36:20Z,2023-06-04T22:53:00Z,305,Test your Haskell code by exhaustively checking its properties,Haskell,https://github.com/Bodigrim/smallcheck
+796,play-haskell,136,10,136,23,2023-01-26T19:24:23Z,2025-03-24T18:21:36Z,740,Haskell Playground,Haskell,https://github.com/haskell/play-haskell
+797,sqlite-simple,136,46,136,27,2012-08-05T12:19:37Z,2025-03-06T05:23:27Z,359,Mid-level bindings for sqlite,Haskell,https://github.com/nurpax/sqlite-simple
+798,safe-exceptions,135,21,135,4,2016-06-17T14:46:42Z,2023-10-16T06:03:04Z,97,"Safe, consistent, and easy exception handling",Haskell,https://github.com/fpco/safe-exceptions
+799,ajhc,134,27,134,45,2013-02-28T10:36:44Z,2019-06-08T00:53:02Z,15640,A fork of jhc. And also a Haskell compiler.,Haskell,https://github.com/ajhc/ajhc
+800,micro-ci,134,14,134,3,2017-10-07T16:12:27Z,2017-10-09T15:46:03Z,81,A tiny CI server built around GitHub and Nix,Haskell,https://github.com/ocharles/micro-ci
+801,sketches,134,4,134,1,2017-12-06T11:28:53Z,2024-07-04T11:50:33Z,238,A Haskell blog,Haskell,https://github.com/effectfully-ou/sketches
+802,djinn,134,13,134,3,2014-09-07T15:28:11Z,2025-02-21T01:16:29Z,49,Generate Haskell code from a type,Haskell,https://github.com/augustss/djinn
+803,master-plan,134,6,134,2,2017-08-05T01:54:23Z,2018-11-19T22:42:50Z,1151,Project Management for Hackers,Haskell,https://github.com/rodrigosetti/master-plan
+804,haskeleton,134,14,134,0,2014-02-06T03:33:48Z,2017-05-23T16:09:38Z,581,:skull: A Haskell package skeleton.,Haskell,https://github.com/tfausak/haskeleton
+805,xlsx,133,65,133,19,2012-05-07T06:35:31Z,2025-02-08T11:27:01Z,31102,Simple and incomplete Excel file parser/writer,Haskell,https://github.com/qrilka/xlsx
+806,idris-cil,133,11,133,13,2015-07-25T15:21:18Z,2018-10-29T17:57:46Z,390,A Common Intermediate Language backend for Idris 1,Haskell,https://github.com/bamboo/idris-cil
+807,cake-slayer,133,6,133,7,2019-09-20T06:24:00Z,2023-01-11T07:12:15Z,48,🍰🔪 Architecture of Haskell backend applications,Haskell,https://github.com/kowainik/cake-slayer
+808,typed-wire,133,10,133,9,2015-10-29T17:39:01Z,2018-03-02T04:17:04Z,89,Language independent type-safe communication,Haskell,https://github.com/typed-wire/typed-wire
+809,glot-www,132,61,132,9,2015-04-25T11:59:07Z,2024-02-19T17:02:30Z,5677,glot.io website,Haskell,https://github.com/glotcode/glot-www
+810,Lemmachine,132,6,132,0,2010-01-30T22:37:03Z,2010-09-05T04:06:57Z,3195,REST'ful web framework in Agda,Haskell,https://github.com/larrytheliquid/Lemmachine
+811,plutarch-plutus,132,64,132,64,2021-12-03T15:51:07Z,2025-03-28T04:11:01Z,483520,Typed eDSL for writing UPLC  /ˈpluː.tɑːk/,Haskell,https://github.com/Plutonomicon/plutarch-plutus
+812,llvm-general,132,38,132,30,2013-06-17T16:17:03Z,2017-03-03T03:40:12Z,3140,"Rich LLVM bindings for Haskell (with transfer of LLVM IR to and from C++, detailed compilation pass control, etc.)",Haskell,https://github.com/bscarlet/llvm-general
+813,hoauth2,132,55,132,4,2012-04-29T02:19:04Z,2025-03-18T03:37:38Z,800,Haskell oauth2 binding,Haskell,https://github.com/freizl/hoauth2
+814,idris-vimscript,131,5,131,16,2017-11-29T22:20:11Z,2018-01-26T21:40:56Z,89,"Compile Idris to Vimscript, like you always wanted.",Haskell,https://github.com/owickstrom/idris-vimscript
+815,haskelllive,131,11,131,4,2012-07-31T00:13:58Z,2012-08-11T04:07:00Z,117,Source code of the Haskell Live episodes.,Haskell,https://github.com/haskelllive/haskelllive
+816,hasktags,131,33,131,30,2012-08-24T10:17:58Z,2024-09-23T02:57:56Z,493,"Produces ctags ""tags"" and etags ""TAGS"" files for Haskell programs",Haskell,https://github.com/MarcWeber/hasktags
+817,inline-js,131,10,131,8,2017-09-23T10:25:25Z,2024-08-29T11:46:20Z,512,"Call JavaScript from Haskell, and vice versa!",Haskell,https://github.com/tweag/inline-js
+818,Bidirectional,131,12,131,1,2013-04-06T14:26:59Z,2020-08-28T00:38:49Z,15,"Haskell implementation of Dunfield and Krishnaswami's ""Complete and easy bidirectional typechecking for higher-rank polymorphism""",Haskell,https://github.com/ollef/Bidirectional
+819,bake,130,15,130,9,2014-09-23T21:06:37Z,2018-05-13T21:04:42Z,995,UNMAINTAINED: Continuous integration server,Haskell,https://github.com/ndmitchell/bake
+820,regex-applicative,130,12,130,13,2011-06-28T20:37:43Z,2021-12-19T16:53:34Z,161,Regex-based parsing with an applicative interface,Haskell,https://github.com/UnkindPartition/regex-applicative
+821,hdbc,130,30,130,20,2010-04-22T16:13:50Z,2022-02-16T23:34:49Z,439,Haskell Database Connectivity,Haskell,https://github.com/hdbc/hdbc
+822,feedforward,130,10,130,11,2018-02-07T00:10:58Z,2023-05-27T08:04:50Z,1017,,Haskell,https://github.com/yaxu/feedforward
+823,icepeak,130,4,130,11,2017-07-27T15:33:34Z,2025-02-03T16:31:11Z,769,Icepeak is a fast JSON document store with push notification support.,Haskell,https://github.com/channable/icepeak
+824,a-tour-of-go-in-haskell,130,10,130,6,2017-08-25T14:23:45Z,2018-10-15T10:31:20Z,891,"Write ""Concurrency"" section of ""A Tour of Go"" in Haskell",Haskell,https://github.com/syocy/a-tour-of-go-in-haskell
+825,rust-haskell-ffi,130,5,130,0,2015-01-13T21:12:51Z,2015-06-10T20:09:15Z,123,Toy example of calling Rust from Haskell,Haskell,https://github.com/aisamanra/rust-haskell-ffi
+826,camfort,130,15,130,61,2013-04-16T14:10:41Z,2025-01-09T21:48:16Z,16487,Light-weight verification and transformation tools for Fortran,Haskell,https://github.com/camfort/camfort
+827,rhine,129,22,129,116,2016-10-24T08:15:58Z,2025-03-25T15:20:57Z,4326,Haskell Functional Reactive Programming framework with type-level clocks,Haskell,https://github.com/turion/rhine
+828,Botworld,129,9,129,0,2014-04-11T02:10:17Z,2014-06-16T17:57:14Z,1461,A cellular automaton for studying self-modifying agents which are embedded in their environment,Haskell,https://github.com/machine-intelligence/Botworld
+829,Kei,129,3,129,1,2019-08-16T16:37:01Z,2020-06-29T04:42:29Z,3524,A small and expressive dependently typed language,Haskell,https://github.com/caotic123/Kei
+830,unagi-chan,129,15,129,14,2014-07-10T04:03:16Z,2021-12-02T15:46:56Z,526,"A haskell library implementing fast and scalable concurrent queues for x86, with a Chan-like API",Haskell,https://github.com/jberryman/unagi-chan
+831,record-dot-preprocessor,129,20,129,10,2018-05-04T18:10:22Z,2024-01-15T17:56:08Z,326,A preprocessor for a Haskell record syntax using dot,Haskell,https://github.com/ndmitchell/record-dot-preprocessor
+832,cis194-solutions,129,26,129,3,2015-01-06T23:06:35Z,2021-04-28T07:22:53Z,3453,Solutions for CIS 194 - Spring 2013,Haskell,https://github.com/bschwb/cis194-solutions
+833,hsdev,129,23,129,24,2013-04-02T15:21:31Z,2020-11-04T20:12:19Z,2090,Haskell development tool,Haskell,https://github.com/mvoidex/hsdev
+834,extensible,129,21,129,3,2014-12-31T17:28:02Z,2024-12-05T00:57:48Z,1011,"Extensible records, variants, structs, effects, tangles",Haskell,https://github.com/fumieval/extensible
+835,haskell,129,55,129,2,2017-12-21T21:46:45Z,2024-09-07T20:27:20Z,6422,Haskell client for the kubernetes API. A work in progress.,Haskell,https://github.com/kubernetes-client/haskell
+836,steeloverseer,129,15,129,19,2013-04-30T01:07:44Z,2024-11-11T20:48:46Z,499,A file watcher and development tool.,Haskell,https://github.com/schell/steeloverseer
+837,hashtables,129,37,129,19,2011-06-11T15:48:12Z,2025-01-23T03:39:56Z,352,"Mutable hash tables for Haskell, in the ST monad",Haskell,https://github.com/gregorycollins/hashtables
+838,kupo,129,30,129,2,2022-01-17T15:53:45Z,2025-02-15T16:21:10Z,11218,"🐹 Fast, lightweight & configurable chain-index for Cardano.",Haskell,https://github.com/CardanoSolutions/kupo
+839,HUnit,129,19,129,5,2013-03-29T12:03:53Z,2024-08-01T21:34:33Z,163,A unit testing framework for Haskell,Haskell,https://github.com/hspec/HUnit
+840,blog,129,11,129,0,2014-07-24T19:52:57Z,2025-03-02T20:34:18Z,20520,My personal site,Haskell,https://github.com/ruuda/blog
+841,plate,128,5,128,6,2017-03-31T19:14:00Z,2020-01-30T20:45:57Z,45,Algebraic type based schema system,Haskell,https://github.com/seagreen/plate
+842,amqp,128,38,128,9,2011-01-06T17:36:23Z,2024-10-14T20:36:15Z,396,Haskell AMQP client library,Haskell,https://github.com/hreinhardt/amqp
+843,type-of-html,128,4,128,3,2017-08-04T19:10:58Z,2022-07-25T17:53:06Z,479,High performance type safe html generation,Haskell,https://github.com/knupfer/type-of-html
+844,smudge,128,12,128,1,2017-11-02T23:51:04Z,2019-10-02T18:22:38Z,1597,A domain-specific language for state machines.,Haskell,https://github.com/smudgelang/smudge
+845,placewaifu,127,3,127,0,2019-07-15T02:38:40Z,2025-03-21T03:49:32Z,14422,🎀 An incredibly cute placeholder service,Haskell,https://github.com/Xetera/placewaifu
+846,calico,127,1,127,1,2019-07-23T19:16:06Z,2020-08-16T13:21:06Z,676,"cat, but for colors 😼",Haskell,https://github.com/ix/calico
+847,nn,127,5,127,0,2018-04-02T12:44:52Z,2018-05-26T12:07:10Z,14,A tiny neural network 🧠,Haskell,https://github.com/saschagrunert/nn
+848,tomland,127,39,127,40,2018-03-15T23:06:02Z,2024-12-11T22:28:06Z,712,🏝 Bidirectional TOML serialization,Haskell,https://github.com/kowainik/tomland
+849,haskell-challenges,127,30,127,0,2021-01-10T23:29:12Z,2022-12-08T00:37:58Z,48,Code challenges to solve with Haskell,Haskell,https://github.com/effectfully-ou/haskell-challenges
+850,configurator,127,27,127,23,2011-05-27T06:54:50Z,2016-11-18T23:28:25Z,284,"A Haskell library supporting flexible, dynamic file-based configuration.",Haskell,https://github.com/bos/configurator
+851,recursion-drill,126,10,126,1,2013-04-03T07:09:31Z,2024-05-24T04:44:17Z,613,Drill to study recursive programming in Haskell,Haskell,https://github.com/kazu-yamamoto/recursion-drill
+852,fragnix,126,5,126,35,2014-08-17T08:17:41Z,2021-05-12T09:53:38Z,5718,Fragment-based code distribution!,Haskell,https://github.com/fragnix/fragnix
+853,lens-regex-pcre,126,1,126,2,2019-06-09T15:03:49Z,2024-12-11T17:41:36Z,3855,Text lenses using PCRE regexes,Haskell,https://github.com/ChrisPenner/lens-regex-pcre
+854,webviewhs,126,9,126,6,2018-07-15T12:30:22Z,2021-07-06T03:52:03Z,114,🌐 A Haskell binding to the webview library created by Serge Zaitsev.,Haskell,https://github.com/lettier/webviewhs
+855,hfmt,126,14,126,14,2014-12-03T05:36:53Z,2022-11-11T05:46:08Z,131,Format Haskell programs. Inspired by the gofmt utility.,Haskell,https://github.com/danstiner/hfmt
+856,datagraph,126,11,126,0,2016-01-25T17:05:19Z,2016-02-01T18:19:15Z,68,,Haskell,https://github.com/dropbox/datagraph
+857,Paskell,126,6,126,2,2018-07-08T09:23:24Z,2019-11-01T22:14:37Z,443,A Pascal to LLVM compiler in Haskell ,Haskell,https://github.com/sam46/Paskell
+858,mysql-haskell,125,36,125,18,2016-07-21T12:22:03Z,2024-12-18T00:27:49Z,8505, Pure haskell mysql driver,Haskell,https://github.com/winterland1989/mysql-haskell
+859,path,125,44,125,0,2015-05-07T18:14:33Z,2025-01-16T19:27:37Z,409,Typed filepath,Haskell,https://github.com/commercialhaskell/path
+860,type-inference,125,5,125,0,2013-07-23T17:10:41Z,2015-02-21T11:25:36Z,144,Unification and type inference algorithms,Haskell,https://github.com/adamgundry/type-inference
+861,hs-jose,125,45,125,11,2013-06-18T09:14:57Z,2025-02-19T16:57:49Z,1268,Haskell JOSE and JWT library,Haskell,https://github.com/frasertweedale/hs-jose
+862,monad-par,125,37,125,30,2011-02-09T21:15:53Z,2023-11-29T08:16:31Z,2434,,Haskell,https://github.com/simonmar/monad-par
+863,TypOS,125,1,125,2,2021-05-14T15:51:37Z,2023-04-18T16:17:02Z,6558,being an operating system for typechecking processes,Haskell,https://github.com/msp-strath/TypOS
+864,mulang,125,9,125,53,2016-01-24T13:35:15Z,2023-08-24T02:41:58Z,16286,":bamboo: Universal, Multi Language, Multi Paradigm code analyzer",Haskell,https://github.com/mumuki/mulang
+865,Pragmatic-Type-Level-Design,125,9,125,0,2020-10-17T18:17:49Z,2025-02-26T15:27:01Z,49892,"Code and materials for my book ""Pragmatic Type Level Design""",Haskell,https://github.com/graninas/Pragmatic-Type-Level-Design
+866,synquid,124,15,124,1,2020-03-15T18:44:04Z,2022-04-06T00:12:43Z,1561,,Haskell,https://github.com/nadia-polikarpova/synquid
+867,idris-py,124,12,124,4,2015-04-27T09:02:50Z,2017-10-23T15:24:31Z,725,"Python backend for Idris (generates Python source, not bytecode).",Haskell,https://github.com/ziman/idris-py
+868,autodocodec,124,20,124,3,2021-10-20T15:59:23Z,2025-02-24T13:41:06Z,736,self(auto)- documenting encoders and decoders,Haskell,https://github.com/NorfairKing/autodocodec
+869,hgeometry,124,41,124,33,2013-09-05T08:21:16Z,2025-03-21T19:35:40Z,325955,"HGeometry is a library for computing with geometric objects in Haskell. It defines basic geometric types and primitives, and it implements some geometric data structures and algorithms. ",Haskell,https://github.com/noinia/hgeometry
+870,eff,124,2,124,5,2022-04-04T03:09:31Z,2023-08-25T16:05:36Z,269,🚧 a work in progress effect system for Haskell 🚧,Haskell,https://github.com/lexi-lambda/eff
+871,haskell-in-haskell,124,5,124,0,2020-10-15T19:19:44Z,2021-02-07T18:14:28Z,632,"Trying to write an understandable implementation of Haskell, in Haskell",Haskell,https://github.com/cronokirby/haskell-in-haskell
+872,hxt,124,34,124,23,2010-09-27T11:24:32Z,2024-07-17T10:10:54Z,13258,Haskell XML Toolbox,Haskell,https://github.com/UweSchmidt/hxt
+873,neural,124,17,124,8,2016-05-26T19:37:06Z,2020-10-26T13:29:57Z,13728,Neural Nets in native Haskell,Haskell,https://github.com/brunjlar/neural
+874,hatrace,124,24,124,17,2019-02-17T17:27:17Z,2020-07-22T21:37:29Z,710,scriptable strace,Haskell,https://github.com/nh2/hatrace
+875,ghc-justdoit,124,4,124,1,2018-02-02T05:48:51Z,2022-08-01T18:39:53Z,24,A magic typeclass that just does it,Haskell,https://github.com/nomeata/ghc-justdoit
+876,servant-swagger,124,37,124,21,2015-09-22T16:06:06Z,2021-11-17T10:24:28Z,437,Swagger for Servant,Haskell,https://github.com/haskell-servant/servant-swagger
+877,weeder,123,8,123,9,2017-04-05T20:52:58Z,2020-06-11T20:47:10Z,255,Detect dead exports or package imports,Haskell,https://github.com/ndmitchell/weeder
+878,HandsomeSoup,123,20,123,14,2012-04-19T04:56:14Z,2016-03-02T21:50:03Z,80,Easy HTML parsing for Haskell,Haskell,https://github.com/egonSchiele/HandsomeSoup
+879,rock,123,8,123,3,2018-10-31T22:49:10Z,2023-10-14T08:53:20Z,80,Build system,Haskell,https://github.com/ollef/rock
+880,time,123,80,123,13,2014-07-19T21:13:10Z,2024-12-27T16:45:01Z,1115,A time library,Haskell,https://github.com/haskell/time
+881,bound,123,30,123,9,2012-06-16T00:36:20Z,2024-08-02T15:21:41Z,486,Combinators for manipulating locally-nameless generalized de Bruijn terms,Haskell,https://github.com/ekmett/bound
+882,jaspervdj,123,49,123,3,2010-01-04T19:57:09Z,2025-02-11T17:45:58Z,91496,Source code of my personal home page.,Haskell,https://github.com/jaspervdj/jaspervdj
+883,pcf,123,9,123,0,2015-03-16T02:14:12Z,2020-10-26T14:29:19Z,61,A small compiler for PCF,Haskell,https://github.com/jozefg/pcf
+884,web-haskell-graphql-postgres-boilerplate,123,11,123,3,2020-01-06T16:42:51Z,2023-03-29T14:22:35Z,120,Modern webserver in Haskell: Graphql + Postgresql + Authentication + DB migration + Dotenv and more,Haskell,https://github.com/dandoh/web-haskell-graphql-postgres-boilerplate
+885,xeno,123,34,123,10,2016-12-22T12:34:49Z,2023-07-16T07:56:38Z,320,Fast Haskell XML parser ,Haskell,https://github.com/ocramz/xeno
+886,hsenv,122,31,122,19,2011-11-12T14:53:02Z,2013-12-16T18:23:10Z,336,Virtual Haskell Environment builder,Haskell,https://github.com/Paczesiowa/hsenv
+887,category-theory-for-programmers-challenges,122,16,122,0,2017-12-03T15:57:13Z,2024-10-24T19:49:46Z,1156,Challenges from Category Theory for Programmers,Haskell,https://github.com/awalterschulze/category-theory-for-programmers-challenges
+888,jsaddle,122,64,122,36,2012-12-09T15:01:03Z,2024-10-30T10:39:51Z,821,JavaScript interface that works with GHCJS or GHC,Haskell,https://github.com/ghcjs/jsaddle
+889,hypertypes,121,10,121,9,2018-11-22T15:30:10Z,2025-01-12T20:06:02Z,1911,Hypertypes - generic programming for heterogeneous recursive types,Haskell,https://github.com/lamdu/hypertypes
+890,ema,121,9,121,10,2021-04-19T15:09:03Z,2025-02-01T16:41:45Z,1619,Change-aware static site generator for Haskell programmers,Haskell,https://github.com/srid/ema
+891,theseus,121,9,121,3,2018-03-04T03:48:27Z,2019-06-03T23:33:42Z,2062,"theseus, functional programming language with fully reversible computation",Haskell,https://github.com/chessai/theseus
+892,kontiki,121,15,121,6,2013-05-07T16:12:36Z,2022-12-14T21:59:53Z,878,An implementation of the Raft consensus protocol,Haskell,https://github.com/NicolasT/kontiki
+893,fission,122,13,122,73,2019-04-29T00:37:38Z,2024-02-14T22:18:29Z,2089,Fission CLI & server,Haskell,https://github.com/fission-codes/fission
+894,nirum,121,27,121,39,2016-05-10T07:25:53Z,2019-01-30T06:54:37Z,1128, Nirum: IDL compiler and RPC/distributed object framework for microservices,Haskell,https://github.com/nirum-lang/nirum
+895,sydtest,120,26,120,10,2020-11-19T15:54:09Z,2025-03-20T17:57:32Z,1301,A modern testing framework for Haskell with good defaults and advanced testing features.,Haskell,https://github.com/NorfairKing/sydtest
+896,docopt.hs,119,24,119,9,2013-03-10T20:19:12Z,2025-03-06T16:17:07Z,151,A command-line interface description language and parser that will make you smile,Haskell,https://github.com/docopt/docopt.hs
+897,dovetail,119,3,119,10,2021-07-15T01:14:32Z,2022-05-07T04:36:20Z,2384,A PureScript interpreter in Haskell,Haskell,https://github.com/paf31/dovetail
+898,getting-started-with-haskell,119,8,119,1,2014-04-25T21:32:26Z,2018-11-07T19:36:58Z,3364,notes on where to find Haskell tutorials and tips to complete them,Haskell,https://github.com/katychuang/getting-started-with-haskell
+899,rib,119,12,119,12,2019-06-17T18:52:06Z,2022-03-24T18:15:03Z,13605,Haskell static site generator based on Shake (superseded by https://github.com/srid/ema),Haskell,https://github.com/srid/rib
+900,ide-backend,119,17,119,46,2012-11-08T13:53:58Z,2016-01-10T15:30:44Z,3043,"ide-backend drives the GHC API to build, query, and run your code",Haskell,https://github.com/fpco/ide-backend
+901,lambda-diagrams,119,4,119,0,2018-05-30T18:29:11Z,2018-05-30T18:29:45Z,11,Animations of lambda term reduction sequences,Haskell,https://github.com/polux/lambda-diagrams
+902,cpl,119,7,119,1,2010-12-19T13:51:25Z,2024-05-23T03:51:59Z,74,An interpreter of Hagino's Categorical Programming Language (CPL).,Haskell,https://github.com/msakai/cpl
+903,game-in-haskell,119,30,119,7,2014-09-28T07:09:32Z,2018-08-16T13:23:27Z,3511,,Haskell,https://github.com/elisehuard/game-in-haskell
+904,1HAD,118,15,118,0,2014-02-27T12:48:05Z,2014-04-21T19:20:37Z,1122,1 Haskell A Day exercises,Haskell,https://github.com/1HaskellADay/1HAD
+905,update-nix-fetchgit,118,14,118,27,2016-06-25T20:46:50Z,2024-01-25T08:35:02Z,293,A program to automatically update fetchgit values in Nix expressions,Haskell,https://github.com/expipiplus1/update-nix-fetchgit
+906,ghc-whole-program-compiler-project,118,12,118,8,2020-05-27T20:39:16Z,2024-11-14T14:30:59Z,85881,GHC Whole Program Compiler and External STG IR tooling,Haskell,https://github.com/grin-compiler/ghc-whole-program-compiler-project
+907,hocker,118,9,118,6,2017-05-09T23:16:17Z,2024-10-08T16:21:43Z,161,Utilities for interacting with the docker registry and generating nix build instructions,Haskell,https://github.com/awakesecurity/hocker
+908,powerline-hs,117,7,117,7,2016-08-08T12:03:38Z,2024-01-03T08:18:47Z,228,A lightning fast reimplementation of the Powerline prompt generator in Haskell.,Haskell,https://github.com/rdnetto/powerline-hs
+909,mcc,117,13,117,3,2018-06-27T15:53:51Z,2021-05-09T13:19:33Z,780,"MicroC example compiler for Stephen Edward's PLT class, but in Haskell",Haskell,https://github.com/jmorag/mcc
+910,oczor,117,9,117,7,2016-09-20T10:45:11Z,2017-10-29T20:21:49Z,206,"Oczor is a simple statically typed language that compiles to JavaScript, Lua, Ruby and Emacs Lisp",Haskell,https://github.com/ptol/oczor
+911,SitePipe,117,8,117,1,2017-05-06T17:27:39Z,2022-10-25T16:44:25Z,4274,"Yet another static site generator - non-opinionated, value-level.  Less magic == easier to understand",Haskell,https://github.com/ChrisPenner/SitePipe
+912,challenge,117,9,117,0,2019-01-25T18:17:54Z,2022-10-18T20:29:04Z,17603,Strongly-typed System F in Haskell,Haskell,https://github.com/sweirich/challenge
+913,hip,117,18,117,18,2013-10-25T15:47:52Z,2024-01-12T10:34:06Z,71288,Haskell Image Processing Library,Haskell,https://github.com/lehins/hip
+914,elastically-scalable-thread-pools,117,1,117,0,2023-03-08T09:30:33Z,2023-10-17T11:06:49Z,134,An experiment in controlling the size of a thread pool using a PID controller.,Haskell,https://github.com/stevana/elastically-scalable-thread-pools
+915,these,117,49,117,39,2012-02-01T03:04:20Z,2025-01-04T21:30:00Z,400,"An either-or-both data type, with corresponding hybrid error/writer monad transformer.",Haskell,https://github.com/haskellari/these
+916,b-tree,116,7,116,2,2013-08-26T21:01:39Z,2021-12-09T03:36:47Z,101,Haskell on-disk B* tree implementation,Haskell,https://github.com/bgamari/b-tree
+917,open,116,24,116,22,2017-03-16T20:49:01Z,2023-01-10T16:15:29Z,978,DiffusionKinetics open-source monorepo,Haskell,https://github.com/diffusionkinetics/open
+918,mote,116,5,116,7,2015-01-08T00:37:12Z,2015-08-14T17:14:44Z,2103,,Haskell,https://github.com/imeckler/mote
+919,distributed-dataset,116,5,116,19,2018-03-11T06:19:04Z,2020-06-13T05:28:09Z,896,A distributed data processing framework in Haskell.,Haskell,https://github.com/utdemir/distributed-dataset
+920,calamity,116,15,116,3,2018-11-19T01:51:59Z,2024-10-14T22:08:15Z,1467,A library for writing discord bots in haskell,Haskell,https://github.com/simmsb/calamity
+921,pier,115,8,115,40,2017-09-30T16:46:27Z,2020-07-03T04:33:50Z,422,Yet another Haskell build system.,Haskell,https://github.com/judah/pier
+922,basilica,115,11,115,1,2014-08-05T02:01:06Z,2021-02-17T01:06:20Z,112,It's kinda like a forum.,Haskell,https://github.com/ianthehenry/basilica
+923,elm-export,115,47,115,18,2015-11-10T15:39:15Z,2024-01-19T16:09:48Z,139,Create Elm types and JSON decoders from Haskell source.,Haskell,https://github.com/krisajenkins/elm-export
+924,reflex-dom-inbits,115,46,115,1,2017-02-23T09:45:58Z,2023-01-19T09:29:53Z,1123,A tutorial for reflex-dom with small code bits,Haskell,https://github.com/hansroland/reflex-dom-inbits
+925,wisp,115,7,115,2,2013-04-30T17:20:27Z,2013-05-01T20:42:24Z,120,small-but-featureful embeddable lisp interpreter written in haskell.,Haskell,https://github.com/cofinalsubnets/wisp
+926,primitive,115,58,115,54,2013-09-24T13:20:59Z,2025-03-28T14:09:44Z,755,This package provides various primitive memory-related operations.,Haskell,https://github.com/haskell/primitive
+927,Neks,115,11,115,0,2014-11-24T00:07:12Z,2015-09-14T18:43:49Z,432,A dead simple networked key/value store,Haskell,https://github.com/wyager/Neks
+928,HaNS,115,14,115,2,2012-03-29T21:44:54Z,2018-01-16T17:53:33Z,865,The haskell network stack,Haskell,https://github.com/GaloisInc/HaNS
+929,elm2nix,114,17,114,5,2017-12-14T14:31:58Z,2024-09-23T13:59:43Z,117,Convert Elm project into Nix expressions,Haskell,https://github.com/cachix/elm2nix
+930,elerea,114,8,114,5,2010-03-26T13:41:20Z,2016-06-18T19:43:28Z,148,A simple FRP library providing leak-free first-class streams.,Haskell,https://github.com/cobbpg/elerea
+931,tangaroa,114,15,114,0,2014-12-11T22:52:40Z,2016-05-30T08:59:46Z,111,"A toy implementation of the Raft protocol in Haskell, with an experimental BFT variant.",Haskell,https://github.com/chrisnc/tangaroa
+932,crem,114,7,114,19,2023-01-11T11:09:23Z,2024-11-29T08:21:58Z,607,Compositional Representable Executable Machines,Haskell,https://github.com/marcosh/crem
+933,retry,114,36,114,9,2013-03-01T03:00:48Z,2023-04-17T20:18:24Z,225,Retry combinators for monadic actions that may fail,Haskell,https://github.com/Soostone/retry
+934,mmark,114,20,114,14,2017-07-12T12:24:42Z,2025-01-31T15:14:29Z,547,Strict markdown processor for writers,Haskell,https://github.com/mmark-md/mmark
+935,herbalizer,114,9,114,7,2013-03-27T14:38:18Z,2024-07-12T11:23:27Z,77,Convert HAML to ERB,Haskell,https://github.com/danchoi/herbalizer
+936,lambdapi,114,21,114,0,2013-06-08T12:00:31Z,2021-03-08T16:08:08Z,68,Dependently Typed Lambda Calculus in Haskell,Haskell,https://github.com/ilya-klyuchnikov/lambdapi
+937,theHarmonicAlgorithm,113,8,113,7,2018-02-25T17:59:52Z,2024-10-09T16:31:28Z,9910,"The Harmonic Algorithm by Oscar South - A Project Spanning Music Analysis, Functional Programming & Machine Learning",Haskell,https://github.com/OscarSouth/theHarmonicAlgorithm
+938,haskell-amuse-bouche,113,11,113,0,2011-09-29T06:59:58Z,2013-09-27T19:25:01Z,136,A short technical talk about some fun things in Haskell,Haskell,https://github.com/mzero/haskell-amuse-bouche
+939,Kulitta,113,12,113,3,2015-08-04T16:47:47Z,2018-09-26T01:15:29Z,22409,A Haskell-based library for algorithmic and automated composition. This library was the subject of my dissertation at Yale university and is the subject of my ongoing work.,Haskell,https://github.com/donya/Kulitta
+940,slownews,113,11,113,13,2015-09-05T21:50:06Z,2020-10-23T02:25:32Z,1555,🐢 Bringing slow news for the nervous among us,Haskell,https://github.com/srid/slownews
+941,hasql-th,112,8,112,13,2015-12-07T12:15:10Z,2025-01-06T12:21:28Z,440,Template Haskell utilities for Hasql,Haskell,https://github.com/nikita-volkov/hasql-th
+942,row-types,112,12,112,1,2018-01-18T16:51:48Z,2022-07-10T01:47:57Z,477,A Haskell library for open records and variants using closed type families and type literals,Haskell,https://github.com/target/row-types
+943,hnn,112,14,112,0,2012-10-09T23:05:54Z,2017-03-15T19:25:37Z,72,haskell neural network library,Haskell,https://github.com/alpmestan/hnn
+944,aztecs,112,5,112,10,2024-12-20T21:05:09Z,2025-03-18T08:07:50Z,919,A modular game engine and ECS for Haskell,Haskell,https://github.com/aztecs-hs/aztecs
+945,Alonzo-testnet,112,77,112,4,2021-06-03T15:22:48Z,2022-06-29T21:23:50Z,1645,repository for the Alonzo testnet,Haskell,https://github.com/input-output-hk/Alonzo-testnet
+946,pool,112,60,112,16,2011-05-03T03:10:30Z,2022-06-01T11:50:25Z,334,A high-performance striped resource pooling implementation for Haskell,Haskell,https://github.com/bos/pool
+947,deriving-aeson,112,8,112,4,2020-02-26T07:29:42Z,2024-11-23T02:29:14Z,256,Scrap your hand-rolled aeson instances,Haskell,https://github.com/fumieval/deriving-aeson
+948,ansi-terminal,112,28,112,3,2013-12-16T11:32:21Z,2024-12-31T14:25:39Z,388,"ANSI terminal support for Haskell, with Windows compatibility",Haskell,https://github.com/UnkindPartition/ansi-terminal
+949,dimensional,112,18,112,29,2014-02-09T16:56:43Z,2024-10-25T16:07:57Z,768,"Dimensional library variant built on Data Kinds, Closed Type Families, TypeNats (GHC 7.8+).",Haskell,https://github.com/bjornbm/dimensional
+950,Magic,111,22,111,21,2011-11-29T21:45:19Z,2021-05-24T07:36:10Z,612,Haskell implementation of Magic: The Gathering,Haskell,https://github.com/MedeaMelana/Magic
+951,dominion,111,11,111,5,2014-01-08T02:19:36Z,2016-12-08T21:23:21Z,107,A Dominion simulator in Haskell,Haskell,https://github.com/egonSchiele/dominion
+952,hinc,111,3,111,3,2020-08-03T20:10:08Z,2020-08-14T19:55:20Z,1060,Haskell In New Clothes,Haskell,https://github.com/serras/hinc
+953,jsn,111,2,111,2,2017-11-12T16:28:32Z,2021-01-30T17:52:21Z,20,An absolutely simple & terse CLI app to manipulate JSON data,Haskell,https://github.com/michowski/jsn
+954,hssqlppp,111,26,111,8,2010-11-18T17:59:21Z,2021-10-19T19:28:09Z,38460,SQL parser and type checker in Haskell,Haskell,https://github.com/JakeWheat/hssqlppp
+955,ifcxt,111,10,111,1,2015-09-02T21:59:57Z,2017-11-29T00:30:51Z,17,constraint level if statements,Haskell,https://github.com/mikeizbicki/ifcxt
+956,unix,111,93,111,19,2014-04-28T07:33:34Z,2025-01-07T06:21:06Z,929,POSIX functionality,Haskell,https://github.com/haskell/unix
+957,tardis,111,5,111,3,2012-06-18T22:31:36Z,2024-01-22T16:43:17Z,56,,Haskell,https://github.com/DanBurton/tardis
+958,eve,110,9,110,2,2017-03-04T01:03:56Z,2020-12-06T18:48:00Z,397,An extensible event-driven application framework in haskell,Haskell,https://github.com/ChrisPenner/eve
+959,purescript-bridge,111,49,111,18,2016-03-19T15:35:04Z,2024-07-06T07:11:38Z,264,Create PureScript datatypes from Haskell datatypes,Haskell,https://github.com/eskimor/purescript-bridge
+960,android-haskell-activity,110,13,110,2,2013-03-08T23:14:11Z,2013-06-27T10:38:41Z,123,An example of an Android Activity written in Haskell,Haskell,https://github.com/neurocyte/android-haskell-activity
+961,store,110,35,110,45,2016-03-15T06:08:24Z,2024-12-21T17:58:27Z,557,Fast binary serialization in Haskell,Haskell,https://github.com/mgsloan/store
+962,typed-process,110,25,110,19,2016-10-14T09:13:56Z,2024-08-21T09:36:20Z,162,"Alternative API for processes, featuring more type safety",Haskell,https://github.com/fpco/typed-process
+963,binary,110,66,110,52,2011-02-10T21:35:14Z,2025-01-28T16:32:41Z,8409,"Efficient, pure binary serialisation using ByteStrings in Haskell.",Haskell,https://github.com/haskell/binary
+964,pandoc-types,111,67,111,16,2010-11-06T00:00:59Z,2024-04-23T04:47:28Z,425,types for representing structured documents,Haskell,https://github.com/jgm/pandoc-types
+965,hadron,110,10,110,2,2013-04-09T03:24:15Z,2017-10-09T16:30:38Z,465,Construct and run Hadoop MapReduce programs in Haskell,Haskell,https://github.com/Soostone/hadron
+966,roshask,109,17,109,12,2010-11-23T02:05:49Z,2016-11-18T22:54:46Z,688,Haskell client library for the ROS robotics framework.,Haskell,https://github.com/acowley/roshask
+967,switch,109,6,109,1,2021-03-31T18:02:21Z,2023-01-20T15:16:29Z,2125,"A library for interacting with Nintendo Switch controllers, written in Haskell.",Haskell,https://github.com/typedbyte/switch
+968,X11,109,49,109,11,2011-11-18T21:41:37Z,2025-03-22T03:23:02Z,479,A Haskell binding to the X11 graphics library.,Haskell,https://github.com/xmonad/X11
+969,haskell_game,109,9,109,0,2017-01-08T21:30:19Z,2018-04-09T18:13:21Z,212,"Wolfenstein 3D, ray-casting FPS game I make to learn Haskell. No libraries used, rendering is done in terminal.",Haskell,https://github.com/drummyfish/haskell_game
+970,uBlacklistRule,109,10,109,3,2021-04-18T14:02:26Z,2025-03-11T11:49:21Z,553,This rule is for uBlacklist. there is also a rule for uBlock Origin in Firefox for Android.,Haskell,https://github.com/ncaq/uBlacklistRule
+971,luminance,109,5,109,12,2015-07-16T23:53:51Z,2017-03-07T00:47:55Z,491,"Type-safe, type-level and stateless Haskell graphics framework",Haskell,https://github.com/hadronized/luminance
+972,servant-purescript,108,44,108,11,2016-05-05T13:46:58Z,2022-11-21T12:32:09Z,149,"Translate servant API to purescript code, with the help of purescript-bridge.",Haskell,https://github.com/eskimor/servant-purescript
+973,cleff,108,6,108,8,2021-10-05T17:22:20Z,2023-06-13T12:35:03Z,2514,Fast and concise extensible effects,Haskell,https://github.com/re-xyr/cleff
+974,SimpleFP-v2,108,5,108,3,2016-01-05T17:14:34Z,2017-06-02T18:29:53Z,248,A re-do of the SimpleFP repo using de Bruijn index ABTs instead of HOAS,Haskell,https://github.com/BekaValentine/SimpleFP-v2
+975,haskell-lockfree,108,25,108,27,2011-10-28T10:16:12Z,2024-06-20T20:32:50Z,1394,A collection of different packages for CAS based data structures.,Haskell,https://github.com/rrnewton/haskell-lockfree
+976,stackage-server,108,27,108,37,2014-04-09T07:37:17Z,2025-03-18T12:49:06Z,8937,"Server for stable, curated Haskell package sets",Haskell,https://github.com/commercialhaskell/stackage-server
+977,cabal-fmt,108,25,108,10,2018-12-16T20:29:47Z,2025-03-27T21:45:07Z,185,An experiment of formatting .cabal files,Haskell,https://github.com/phadej/cabal-fmt
+978,haze,108,8,108,1,2018-11-12T11:53:08Z,2019-09-07T16:41:09Z,490,"A bittorrent client, for learning purposes",Haskell,https://github.com/cronokirby/haze
+979,clifm,108,11,108,1,2018-03-23T00:28:46Z,2020-09-12T16:51:36Z,440,Command Line Interface File Manager,Haskell,https://github.com/pasqu4le/clifm
+980,ling,107,10,107,29,2015-05-19T08:39:53Z,2023-02-27T16:53:46Z,2420,LINear LaNGuage: Type Theory and Process Calculi for Distributed and High-precision programming,Haskell,https://github.com/np/ling
+981,unison,107,18,107,18,2016-09-27T13:28:48Z,2024-03-05T09:00:58Z,4863,Unison's source code ,Haskell,https://github.com/unison-code/unison
+982,minghc,107,12,107,0,2014-12-03T19:57:19Z,2016-02-17T09:51:01Z,31212,DEPRECATED: Windows installer for GHC including msys,Haskell,https://github.com/fpco/minghc
+983,too-many-cells,107,18,107,9,2019-01-10T17:59:33Z,2024-10-28T14:50:05Z,23354,Cluster single cells and analyze cell clade relationships with colorful visualizations.,Haskell,https://github.com/GregorySchwartz/too-many-cells
+984,blaze-react,107,15,107,18,2014-08-28T13:08:47Z,2016-07-30T16:51:03Z,6501,A blaze-html style ReactJS binding for Haskell using GHCJS,Haskell,https://github.com/meiersi/blaze-react
+985,telegram-bot-simple,107,52,107,9,2017-12-05T11:01:00Z,2024-11-24T18:47:58Z,696,Easy to use library for building Telegram bots in Haskell.,Haskell,https://github.com/fizruk/telegram-bot-simple
+986,agda-language-server,107,16,107,8,2017-08-18T08:42:00Z,2024-12-18T09:40:03Z,399,Language Server for Agda,Haskell,https://github.com/agda/agda-language-server
+987,thank-you-stars,107,2,107,1,2017-09-10T07:36:37Z,2023-02-07T20:55:05Z,63,Give your dependencies stars on GitHub! 🌟,Haskell,https://github.com/y-taka-23/thank-you-stars
+988,miniagda,107,4,107,1,2016-12-16T15:22:00Z,2022-11-21T11:29:14Z,1363,A prototypical dependently typed languages with sized types and variances,Haskell,https://github.com/andreasabel/miniagda
+989,gonimo,107,17,107,8,2017-01-22T10:14:20Z,2021-06-28T09:37:59Z,4201,gonimo application back & front,Haskell,https://github.com/gonimo/gonimo
+990,repline,107,29,107,11,2014-08-22T04:03:21Z,2023-05-25T21:14:39Z,109,Haskeline wrapper for GHCi-like REPL interfaces,Haskell,https://github.com/sdiehl/repline
+991,grid,107,12,107,3,2012-09-04T15:50:49Z,2022-09-03T17:49:16Z,2837,Tools for working with regular grids/graphs/lattices.,Haskell,https://github.com/mhwombat/grid
+992,eventful,106,22,106,10,2017-01-04T15:39:22Z,2021-10-21T17:54:05Z,523,Event Sourcing library for Haskell,Haskell,https://github.com/jdreaver/eventful
+993,mlir-hs,106,14,106,7,2021-06-10T14:33:11Z,2025-02-21T18:19:19Z,19670,Haskell bindings for MLIR,Haskell,https://github.com/google/mlir-hs
+994,cut-the-crap,106,7,106,21,2019-10-21T09:13:31Z,2022-03-24T19:10:26Z,2481,Automated video editing for streamers,Haskell,https://github.com/jappeace/cut-the-crap
+995,mtl-style-example,106,11,106,0,2017-10-26T18:15:47Z,2017-10-29T04:24:20Z,8,A small example of using mtl style to unit test effectful code,Haskell,https://github.com/lexi-lambda/mtl-style-example
+996,tintin,106,18,106,20,2018-05-08T20:15:50Z,2020-01-27T11:00:07Z,183,📚 A softer alternative to Haddock,Haskell,https://github.com/theam/tintin
+997,ghc-nix,106,4,106,5,2019-12-18T21:31:15Z,2022-11-28T10:28:06Z,66,Exploring the options for incremental Haskell builds using Nix,Haskell,https://github.com/matthewbauer/ghc-nix
+998,llvm,105,34,105,26,2011-05-19T18:15:50Z,2020-02-07T17:14:53Z,1290,Haskell bindings to the LLVM compiler infrastructure project.  ,Haskell,https://github.com/bos/llvm
+999,guide,105,10,105,8,2016-02-02T09:35:09Z,2019-11-27T20:44:55Z,3981,A workspace for research teams,Haskell,https://github.com/aelve/guide
+1000,error-message-index,105,72,105,314,2022-06-20T18:43:50Z,2025-03-26T00:08:43Z,1792,A community-driven collection of documentation for Haskell error messages and warnings,Haskell,https://github.com/haskellfoundation/error-message-index
