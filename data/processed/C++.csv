@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,tensorflow,188869,74606,188869,7865,07/11/2015,28/03/2025,1.12 GB,1174267,An Open Source Machine Learning Framework for Everyone,C++,https://github.com/tensorflow/tensorflow
+2,react-native,121288,24565,121288,893,09/01/2015,28/03/2025,890.34 MB,911712,A framework for building native applications using React,C++,https://github.com/facebook/react-native
+3,electron,116123,15933,116123,951,12/04/2013,28/03/2025,162.96 MB,166867,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",C++,https://github.com/electron/electron
+4,terminal,97543,8506,97543,1657,11/08/2017,28/03/2025,148.48 MB,152040,"The new Windows Terminal and the original Windows console host, all in the same place!",C++,https://github.com/microsoft/terminal
+5,godot,95621,22008,95621,15107,04/01/2014,28/03/2025,1.47 GB,1540764,Godot Engine – Multi-platform 2D and 3D game engine,C++,https://github.com/godotengine/godot
+6,bitcoin,82669,36970,82669,686,19/12/2010,28/03/2025,272.41 MB,278951,Bitcoin Core integration/staging tree,C++,https://github.com/bitcoin/bitcoin
+7,opencv,81375,56074,81375,2728,19/07/2012,28/03/2025,531.86 MB,544629,Open Source Computer Vision Library,C++,https://github.com/opencv/opencv
+8,llama.cpp,77309,11232,77309,751,10/03/2023,28/03/2025,99.67 MB,102057,LLM inference in C/C++,C++,https://github.com/ggml-org/llama.cpp
+9,gpt4all,72926,7945,72926,696,27/03/2023,19/03/2025,43.78 MB,44833,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.,C++,https://github.com/nomic-ai/gpt4all
+10,swift,68271,10441,68271,8109,23/10/2015,28/03/2025,1.17 GB,1228472,The Swift Programming Language,C++,https://github.com/swiftlang/swift
+11,protobuf,66980,15642,66980,273,26/08/2014,28/03/2025,180.88 MB,185219,Protocol Buffers - Google's data interchange format,C++,https://github.com/protocolbuffers/protobuf
+12,tesseract,65733,9780,65733,439,12/08/2014,27/03/2025,52.28 MB,53537,Tesseract Open Source OCR Engine (main repository),C++,https://github.com/tesseract-ocr/tesseract
+13,imgui,64142,10709,64142,1101,21/07/2014,26/03/2025,100.75 MB,103163,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,C++,https://github.com/ocornut/imgui
+14,Magisk,51722,13498,51722,41,08/09/2016,28/03/2025,59.32 MB,60740,The Magic Mask for Android,C++,https://github.com/topjohnwu/Magisk
+15,ImHex,47628,2055,47628,233,10/11/2020,11/03/2025,42.59 MB,43614,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",C++,https://github.com/WerWolv/ImHex
+16,x64dbg,45709,2521,45709,596,11/04/2015,24/03/2025,60.37 MB,61817,An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.,C++,https://github.com/x64dbg/x64dbg
+17,json,44931,6918,44931,116,04/07/2013,25/03/2025,203.38 MB,208265,JSON for Modern C++,C++,https://github.com/nlohmann/json
+18,grpc,42751,10713,42751,1055,08/12/2014,28/03/2025,541.48 MB,554480,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",C++,https://github.com/grpc/grpc
+19,CPlusPlusThings,40677,8656,40677,12,14/07/2019,14/06/2024,1.29 MB,1322,C++那些事,C++,https://github.com/Light-City/CPlusPlusThings
+20,ClickHouse,39776,7170,39776,4455,02/06/2016,28/03/2025,1.66 GB,1743269,ClickHouse® is a real-time analytics database management system,C++,https://github.com/ClickHouse/ClickHouse
+21,whisper.cpp,38818,4054,38818,927,25/09/2022,28/03/2025,20.29 MB,20775,Port of OpenAI's Whisper model in C/C++,C++,https://github.com/ggerganov/whisper.cpp
+22,TrafficMonitor,38226,3410,38226,1141,30/07/2017,28/03/2025,16.28 MB,16675,这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。,C++,https://github.com/zhongyang219/TrafficMonitor
+23,leveldb,37362,7964,37362,352,27/08/2014,30/01/2025,1.63 MB,1672,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,C++,https://github.com/google/leveldb
+24,aria2,37171,3675,37171,1108,27/11/2010,03/08/2024,30.76 MB,31500,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",C++,https://github.com/aria2/aria2
+25,ladybird,36519,1534,36519,426,30/05/2024,28/03/2025,352.06 MB,360513,Truly independent web browser,C++,https://github.com/LadybirdBrowser/ladybird
+26,interview,35789,8031,35789,27,09/02/2018,19/03/2024,5.24 MB,5367,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",C++,https://github.com/huihut/interview
+27,googletest,35697,10310,35697,412,28/07/2015,26/03/2025,14.19 MB,14535,GoogleTest - Google Testing and Mocking Framework,C++,https://github.com/google/googletest
+28,caffe,34276,18644,34276,1186,12/09/2013,31/07/2024,74.38 MB,76170,Caffe: a fast open framework for deep learning.,C++,https://github.com/BVLC/caffe
+29,faiss,33978,3820,33978,264,07/02/2017,28/03/2025,230.02 MB,235545,A library for efficient similarity search and clustering of dense vectors.,C++,https://github.com/facebookresearch/faiss
+30,carbon-lang,32784,1491,32784,144,27/04/2020,28/03/2025,50.31 MB,51518,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",C++,https://github.com/carbon-language/carbon-lang
+31,openpose,32158,7927,32158,346,24/04/2017,03/08/2024,84.47 MB,86496,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",C++,https://github.com/CMU-Perceptual-Computing-Lab/openpose
+32,C-Plus-Plus,31512,7337,31512,25,16/07/2016,24/11/2024,126.35 MB,129382,"Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",C++,https://github.com/TheAlgorithms/C-Plus-Plus
+33,serenity,31433,3225,31433,740,02/12/2018,28/03/2025,231.73 MB,237290,The Serenity Operating System 🐞,C++,https://github.com/SerenityOS/serenity
+34,aseprite,31398,6857,31398,1744,19/08/2014,27/03/2025,42.31 MB,43326,"Animated sprite editor & pixel art tool (Windows, macOS, Linux)",C++,https://github.com/aseprite/aseprite
+35,qBittorrent,30458,4141,30458,2457,04/02/2012,28/03/2025,247.11 MB,253044,qBittorrent BitTorrent client,C++,https://github.com/qbittorrent/qBittorrent
+36,calculator,30184,5510,30184,390,28/01/2019,17/03/2025,37.99 MB,38900,Windows Calculator: A simple yet powerful calculator that ships with Windows,C++,https://github.com/microsoft/calculator
+37,phantomjs,29496,5752,29496,14,27/12/2010,26/11/2022,160.85 MB,164709,Scriptable Headless Browser,C++,https://github.com/ariya/phantomjs
+38,rocksdb,29379,6433,29379,1146,30/11/2012,27/03/2025,220.84 MB,226140,"A library that provides an embeddable, persistent key-value store for fast storage.",C++,https://github.com/facebook/rocksdb
+39,folly,29164,5658,29164,365,01/06/2012,27/03/2025,46.12 MB,47222,An open-source C++ library developed and used at Facebook.,C++,https://github.com/facebook/folly
+40,mediapipe,29148,5292,29148,541,13/06/2019,27/03/2025,589.27 MB,603416,"Cross-platform, customizable ML solutions for live and streaming media.",C++,https://github.com/google-ai-edge/mediapipe
+41,duckdb,28077,2187,28077,423,26/06/2018,28/03/2025,329.72 MB,337636,DuckDB is an analytical in-process SQL database management system,C++,https://github.com/duckdb/duckdb
+42,dragonfly,27605,1021,27605,230,11/12/2021,28/03/2025,14.54 MB,14894,A modern replacement for Redis and Memcached,C++,https://github.com/dragonflydb/dragonfly
+43,tdesktop,27246,5448,27246,884,02/05/2014,27/03/2025,238.45 MB,244168,Telegram Desktop messaging app,C++,https://github.com/telegramdesktop/tdesktop
+44,mongo,26946,5640,26946,83,15/01/2009,05/02/2025,1.07 GB,1118007,The MongoDB Database,C++,https://github.com/mongodb/mongo
+45,taichi,26926,2337,26926,868,24/11/2016,08/03/2025,58.46 MB,59863,"Productive, portable, and performant GPU programming in Python.",C++,https://github.com/taichi-dev/taichi
+46,rethinkdb,26856,1852,26856,1351,30/10/2012,15/11/2024,273.36 MB,279921,The open-source database for the realtime web.,C++,https://github.com/rethinkdb/rethinkdb
+47,xgboost,26761,8756,26761,437,06/02/2014,27/03/2025,33.22 MB,34022,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",C++,https://github.com/dmlc/xgboost
+48,srs,26632,5472,26632,246,29/04/2015,24/03/2025,249.13 MB,255112,"SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.",C++,https://github.com/ossrs/srs
+49,emscripten,26350,3375,26350,2241,12/02/2011,27/03/2025,245.76 MB,251654,Emscripten: An LLVM-to-WebAssembly Compiler,C++,https://github.com/emscripten-core/emscripten
+50,cmder,26285,2049,26285,59,09/07/2013,21/03/2025,3.14 MB,3219,Lovely console emulator package for Windows,C++,https://github.com/cmderdev/cmder
+51,DeepSpeech,26136,4028,26136,151,02/06/2016,03/09/2024,49.41 MB,50592,"DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",C++,https://github.com/mozilla/DeepSpeech
+52,flameshot,25844,1652,25844,800,10/05/2017,17/03/2025,22.79 MB,23337,Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:,C++,https://github.com/flameshot-org/flameshot
+53,Proton,25826,1132,25826,4564,13/03/2018,27/03/2025,143.00 MB,146429,Compatibility tool for Steam Play based on Wine and additional components,C++,https://github.com/ValveSoftware/Proton
+54,envoy,25722,4903,25722,1657,08/08/2016,28/03/2025,240.84 MB,246616,Cloud-native high-performance edge/middle/service proxy,C++,https://github.com/envoyproxy/envoy
+55,spdlog,25713,4722,25713,65,01/11/2014,17/03/2025,41.76 MB,42759,Fast C++ logging library.,C++,https://github.com/gabime/spdlog
+56,apollo,25625,9775,25625,1000,04/07/2017,31/12/2024,3.17 GB,3324909,An open autonomous driving platform,C++,https://github.com/ApolloAuto/apollo
+57,modern-cpp-tutorial,24611,3036,24611,20,19/08/2016,17/08/2024,38.41 MB,39333,📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/,C++,https://github.com/changkun/modern-cpp-tutorial
+58,Hyprland,24239,1038,24239,1344,16/03/2022,28/03/2025,68.56 MB,70210,"Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",C++,https://github.com/hyprwm/Hyprland
+59,notepad-plus-plus,24202,4769,24202,2607,28/03/2015,25/03/2025,278.28 MB,284963,Notepad++ official repository,C++,https://github.com/notepad-plus-plus/notepad-plus-plus
+60,solidity,24181,6025,24181,567,17/08/2015,28/03/2025,77.36 MB,79217,"Solidity, the Smart Contract Programming Language",C++,https://github.com/ethereum/solidity
+61,winget-cli,23999,1538,23999,1138,16/07/2019,27/03/2025,40.29 MB,41260,"WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",C++,https://github.com/microsoft/winget-cli
+62,flatbuffers,23994,3324,23994,168,19/05/2014,18/03/2025,20.29 MB,20773,FlatBuffers: Memory Efficient Serialization Library,C++,https://github.com/google/flatbuffers
+63,v8,23943,4061,23943,17,24/09/2014,28/03/2025,1.05 GB,1097901,The official mirror of the V8 Git repository,C++,https://github.com/v8/v8
+64,Sunshine,23913,1135,23913,121,15/12/2021,27/03/2025,52.30 MB,53560,Self-hosted game stream host for Moonlight.,C++,https://github.com/LizardByte/Sunshine
+65,btop,23910,721,23910,415,06/05/2021,20/03/2025,8.88 MB,9097,A monitor of resources,C++,https://github.com/aristocratos/btop
+66,FreeCAD,23682,4457,23682,2927,09/09/2012,28/03/2025,2.07 GB,2173375,"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",C++,https://github.com/FreeCAD/FreeCAD
+67,QtScrcpy,23381,2952,23381,556,23/06/2019,09/03/2025,42.13 MB,43145,Android real-time display control software,C++,https://github.com/barry-ran/QtScrcpy
+68,RedisDesktopManager,23049,3272,23049,63,05/08/2013,10/07/2024,76.75 MB,78590,,C++,https://github.com/RedisInsight/RedisDesktopManager
+69,keepassxc,22731,1537,22731,706,28/02/2016,28/03/2025,70.49 MB,72181,KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.,C++,https://github.com/keepassxreboot/keepassxc
+70,Paddle,22622,5699,22622,1744,15/08/2016,28/03/2025,479.66 MB,491175,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,C++,https://github.com/PaddlePaddle/Paddle
+71,typesense,22548,704,22548,654,18/01/2017,28/03/2025,12.62 MB,12925,"Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",C++,https://github.com/typesense/typesense
+72,osquery,22319,2482,22319,637,29/07/2014,26/03/2025,26.39 MB,27025,"SQL powered operating system instrumentation, monitoring, and analytics.",C++,https://github.com/osquery/osquery
+73,sqlitebrowser,22077,2194,22077,752,04/05/2014,17/03/2025,34.72 MB,35558,"Official home of the DB Browser for SQLite (DB4S) project. Previously known as ""SQLite Database Browser"" and ""Database Browser for SQLite"". Website at: ",C++,https://github.com/sqlitebrowser/sqlitebrowser
+74,llamafile,22061,1156,22061,145,10/09/2023,24/03/2025,23.65 MB,24214,Distribute and run LLMs with a single file.,C++,https://github.com/Mozilla-Ocho/llamafile
+75,tinyrenderer,21557,2053,21557,33,17/01/2015,25/02/2025,62.51 MB,64012,A brief computer graphics / rendering course,C++,https://github.com/ssloy/tinyrenderer
+76,fmt,21543,2607,21543,17,07/12/2012,24/03/2025,16.25 MB,16641,A modern formatting library,C++,https://github.com/fmtlib/fmt
+77,ncnn,21201,4229,21201,1175,30/06/2017,28/03/2025,26.73 MB,27367,ncnn is a high-performance neural network inference framework optimized for the mobile platform,C++,https://github.com/Tencent/ncnn
+78,CnC_Remastered_Collection,20915,5358,20915,0,30/03/2020,16/01/2025,8.25 MB,8446,Command & Conquer: Remastered Collection,C++,https://github.com/electronicarts/CnC_Remastered_Collection
+79,mxnet,20794,6766,20794,2009,30/04/2015,25/10/2023,98.90 MB,101275,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",C++,https://github.com/apache/mxnet
+80,smartknob,20298,1159,20298,65,24/10/2021,19/02/2024,14.76 MB,15114,Haptic input knob with software-defined endstops and virtual detents,C++,https://github.com/scottbez1/smartknob
+81,chromium,20252,7454,20252,121,05/02/2018,28/03/2025,51.36 GB,53859539,The official GitHub mirror of the Chromium source,C++,https://github.com/chromium/chromium
+82,shadPS4,20082,1214,20082,95,24/10/2022,28/03/2025,37.13 MB,38021,"PlayStation 4 emulator for Windows, Linux and macOS written in C++",C++,https://github.com/shadps4-emu/shadPS4
+83,simdjson,19980,1047,19980,141,23/03/2018,27/03/2025,71.08 MB,72787,"Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",C++,https://github.com/simdjson/simdjson
+84,mlx,19960,1142,19960,123,28/11/2023,28/03/2025,49.19 MB,50370,MLX: An array framework for Apple silicon,C++,https://github.com/ml-explore/mlx
+85,Karabiner-Elements,19701,853,19701,1196,11/07/2016,19/02/2025,108.76 MB,111366,Karabiner-Elements is a powerful tool for customizing keyboards on macOS,C++,https://github.com/pqrs-org/Karabiner-Elements
+86,Catch2,19220,3098,19220,445,08/11/2010,18/03/2025,27.41 MB,28064,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",C++,https://github.com/catchorg/Catch2
+87,trojan,19185,3050,19185,88,21/10/2017,21/08/2024,927.00 KB,927,An unidentifiable mechanism that helps you bypass GFW.,C++,https://github.com/trojan-gfw/trojan
+88,xbmc,19143,6358,19143,910,03/01/2011,27/03/2025,1.55 GB,1623924,"Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",C++,https://github.com/xbmc/xbmc
+89,swoole-src,18619,3169,18619,83,21/07/2012,28/03/2025,51.98 MB,53228,🚀 Coroutine-based concurrency library for PHP,C++,https://github.com/swoole/swoole-src
+90,3d-game-shaders-for-beginners,18515,1416,18515,18,12/05/2019,25/06/2023,34.00 MB,34817,"🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",C++,https://github.com/lettier/3d-game-shaders-for-beginners
+91,cocos2d-x,18444,7059,18444,1608,18/11/2010,30/12/2024,1.00 GB,1052475,"Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.",C++,https://github.com/cocos2d/cocos2d-x
+92,hhvm,18331,3036,18331,537,02/01/2010,28/03/2025,775.55 MB,794161,A virtual machine for executing programs written in Hack.,C++,https://github.com/facebook/hhvm
+93,weex,18314,2134,18314,63,11/03/2016,24/12/2024,369.58 MB,378453,A framework for building Mobile cross-platform UI,C++,https://github.com/alibaba/weex
+94,filament,18280,1944,18280,169,03/08/2018,28/03/2025,872.99 MB,893945,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",C++,https://github.com/google/filament
+95,uWebSockets,17801,1794,17801,30,21/03/2016,26/02/2025,4.71 MB,4828,"Simple, secure & standards compliant web server for the most demanding of applications",C++,https://github.com/uNetworking/uWebSockets
+96,MMKV,17799,1925,17799,4,17/09/2018,06/03/2025,46.11 MB,47215,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",C++,https://github.com/Tencent/MMKV
+97,leetcode,17757,4930,17757,54,20/10/2014,17/01/2024,3.09 MB,3164,LeetCode Problems' Solutions ,C++,https://github.com/haoel/leetcode
+98,TinyWebServer,17741,4069,17741,107,29/05/2019,05/07/2024,55.96 MB,57302,:fire: Linux下C++轻量级WebServer服务器,C++,https://github.com/qinguoyi/TinyWebServer
+99,yoga,17559,1461,17559,114,07/04/2014,24/03/2025,25.98 MB,26599,Yoga is an embeddable layout engine targeting web standards.,C++,https://github.com/facebook/yoga
+100,CNTK,17558,4270,17558,840,26/11/2015,11/03/2023,913.30 MB,935217,"Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",C++,https://github.com/microsoft/CNTK
+101,mars,17444,3645,17444,477,12/12/2016,03/12/2024,404.25 MB,413953,Mars is a cross-platform network component  developed by WeChat.,C++,https://github.com/Tencent/mars
+102,libphonenumber,17073,2100,17073,119,03/12/2014,27/03/2025,271.61 MB,278129,"Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",C++,https://github.com/google/libphonenumber
+103,LightGBM,17071,3872,17071,428,05/08/2016,28/03/2025,22.73 MB,23275,"A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",C++,https://github.com/microsoft/LightGBM
+104,BackgroundMusic,17045,697,17045,501,24/02/2016,22/12/2024,2.44 MB,2496,"Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.",C++,https://github.com/kyleneideck/BackgroundMusic
+105,AirSim,16950,4684,16950,698,14/02/2017,22/06/2024,367.63 MB,376458,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",C++,https://github.com/microsoft/AirSim
+106,brpc,16872,3994,16872,441,04/09/2017,26/03/2025,39.00 MB,39937,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",C++,https://github.com/apache/brpc
+107,Qv2ray,16857,3263,16857,51,15/06/2019,03/09/2024,24.96 MB,25558,:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:,C++,https://github.com/Qv2ray/Qv2ray
+108,TranslucentTB,16769,1154,16769,218,10/01/2017,08/03/2025,12.81 MB,13113,A lightweight utility that makes the Windows taskbar translucent/transparent.,C++,https://github.com/TranslucentTB/TranslucentTB
+109,deskflow,16688,3976,16688,183,12/10/2014,28/03/2025,111.39 MB,114059,Share a single keyboard and mouse between multiple computers.,C++,https://github.com/deskflow/deskflow
+110,react-native-windows,16678,1154,16678,713,15/12/2015,28/03/2025,270.90 MB,277402,A framework for building native Windows apps with React.,C++,https://github.com/microsoft/react-native-windows
+111,Marlin,16602,19376,16602,795,13/08/2011,28/03/2025,244.89 MB,250766,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,C++,https://github.com/MarlinFirmware/Marlin
+112,rpcs3,16551,2014,16551,1115,03/11/2012,28/03/2025,135.04 MB,138282,PlayStation 3 emulator and debugger,C++,https://github.com/RPCS3/rpcs3
+113,pybind11,16362,2152,16362,694,05/07/2015,25/03/2025,12.21 MB,12498,Seamless operability between C++11 and Python,C++,https://github.com/pybind/pybind11
+114,cutter,16303,1179,16303,511,25/09/2017,11/03/2025,15.50 MB,15868,Free and Open Source Reverse Engineering Platform powered by rizin,C++,https://github.com/rizinorg/cutter
+115,Arduino,16275,13314,16275,390,27/03/2015,10/03/2025,219.65 MB,224923,ESP8266 core for Arduino,C++,https://github.com/esp8266/Arduino
+116,onnxruntime,16115,3120,16115,3186,10/11/2018,28/03/2025,1.26 GB,1322413,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",C++,https://github.com/microsoft/onnxruntime
+117,WLED,16082,3510,16082,442,20/12/2016,27/03/2025,60.95 MB,62415,Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!,C++,https://github.com/wled/WLED
+118,IoT-For-Beginners,15741,2474,15741,66,03/03/2021,13/02/2025,318.19 MB,325826,"12 Weeks, 24 Lessons, IoT for All!",C++,https://github.com/microsoft/IoT-For-Beginners
+119,abseil-cpp,15661,2738,15661,193,20/09/2017,28/03/2025,18.18 MB,18616,Abseil Common Libraries (C++),C++,https://github.com/abseil/abseil-cpp
+120,Atmosphere,15594,1262,15594,79,18/01/2018,10/01/2025,24.75 MB,25341,Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.,C++,https://github.com/Atmosphere-NX/Atmosphere
+121,bgfx,15576,1979,15576,309,04/04/2012,20/03/2025,286.81 MB,293698,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.",C++,https://github.com/bkaradzic/bgfx
+122,Sourcetrail,15497,1493,15497,354,09/12/2015,13/12/2021,289.95 MB,296908,Sourcetrail - free and open-source interactive source explorer,C++,https://github.com/CoatiSoftware/Sourcetrail
+123,upx,15460,1410,15460,29,31/08/2016,22/03/2025,74.26 MB,76044,UPX - the Ultimate Packer for eXecutables,C++,https://github.com/upx/upx
+124,DOOM,15450,2601,15450,11,31/01/2012,24/05/2024,149.00 KB,149,DOOM Open Source Release,C++,https://github.com/id-Software/DOOM
+125,MaaAssistantArknights,15354,2051,15354,530,09/07/2021,28/03/2025,776.23 MB,794857,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",C++,https://github.com/MaaAssistantArknights/MaaAssistantArknights
+126,USTC-Course,15316,3509,15316,0,09/01/2019,31/03/2024,148.98 MB,152559,:heart:中国科学技术大学课程资源,C++,https://github.com/USTC-Resource/USTC-Course
+127,ZeroTierOne,15227,1774,15227,310,24/04/2013,26/03/2025,157.75 MB,161538,A Smart Ethernet Switch for Earth,C++,https://github.com/zerotier/ZeroTierOne
+128,muduo,15203,5221,15203,77,05/05/2010,28/02/2025,1.75 MB,1792,Event-driven network library for multi-threaded Linux server in C++11,C++,https://github.com/chenshuo/muduo
+129,arrow,15167,3666,15167,4602,17/02/2016,28/03/2025,201.89 MB,206732,Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics,C++,https://github.com/apache/arrow
+130,foundationdb,15026,1344,15026,823,14/12/2017,28/03/2025,180.37 MB,184702,"FoundationDB - the open source, distributed, transactional key-value store",C++,https://github.com/apple/foundationdb
+131,mold,15014,492,15014,185,29/09/2020,26/03/2025,24.30 MB,24888,Mold: A Modern Linker 🦠,C++,https://github.com/rui314/mold
+132,dogecoin,14946,2964,14946,246,06/12/2013,25/03/2025,190.88 MB,195465,very currency,C++,https://github.com/dogecoin/dogecoin
+133,ZLMediaKit,14795,3599,14795,98,01/04/2017,21/03/2025,150.64 MB,154260,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,C++,https://github.com/ZLMediaKit/ZLMediaKit
+134,ceph,14788,6026,14788,762,01/09/2011,28/03/2025,805.37 MB,824701,"Ceph is a distributed object, block, and file storage platform ",C++,https://github.com/ceph/ceph
+135,blender,14652,2194,14652,0,09/10/2019,28/03/2025,1.18 GB,1232620,Official mirror of Blender,C++,https://github.com/blender/blender
+136,nekoray,14642,1323,14642,217,03/05/2022,12/12/2024,2.82 MB,2890,不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box),C++,https://github.com/MatsuriDayo/nekoray
+137,rapidjson,14614,3562,14614,746,04/03/2014,05/02/2025,29.69 MB,30407,A fast JSON parser/generator for C++ with both SAX/DOM style API,C++,https://github.com/Tencent/rapidjson
+138,arduino-esp32,14528,7568,14528,103,06/10/2016,28/03/2025,2.05 GB,2152603,Arduino core for the ESP32,C++,https://github.com/espressif/arduino-esp32
+139,polybar,14454,716,14454,218,19/05/2016,30/10/2024,8.57 MB,8775,A fast and easy-to-use status bar,C++,https://github.com/polybar/polybar
+140,dxvk,14363,930,14363,301,11/10/2017,28/03/2025,20.75 MB,21247,"Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",C++,https://github.com/doitsujin/dxvk
+141,scylladb,14270,1350,14270,3545,24/12/2014,28/03/2025,200.21 MB,205012,"NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",C++,https://github.com/scylladb/scylladb
+142,wkhtmltopdf,14188,1863,14188,1356,07/08/2009,22/11/2022,6.19 MB,6341,Convert HTML to PDF using Webkit (QtWebKit),C++,https://github.com/wkhtmltopdf/wkhtmltopdf
+143,OpenRCT2,14172,1621,14172,1498,01/04/2014,27/03/2025,240.30 MB,246068,An open source re-implementation of RollerCoaster Tycoon 2 🎢,C++,https://github.com/OpenRCT2/OpenRCT2
+144,subconverter,14169,3036,14169,223,31/10/2019,16/01/2025,6.78 MB,6938,Utility to convert between various subscription format,C++,https://github.com/tindy2013/subconverter
+145,Waifu2x-Extension-GUI,14118,927,14118,86,20/01/2020,15/03/2025,303.32 MB,310602,"Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",C++,https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+146,cpp-httplib,13991,2405,13991,27,22/09/2012,25/03/2025,4.00 MB,4097,A C++ header-only HTTP/HTTPS server and client library,C++,https://github.com/yhirose/cpp-httplib
+147,DearPyGui,13955,710,13955,374,28/05/2020,19/03/2025,142.71 MB,146131,Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies,C++,https://github.com/hoffstadt/DearPyGui
+148,nix,13929,1622,13929,3594,08/02/2012,28/03/2025,116.22 MB,119009,"Nix, the purely functional package manager",C++,https://github.com/NixOS/nix
+149,dlib,13903,3416,13903,46,29/01/2014,24/03/2025,48.86 MB,50036,A toolkit for making real world machine learning and data analysis applications in C++,C++,https://github.com/davisking/dlib
+150,arangodb,13745,849,13745,752,26/10/2011,28/03/2025,2.73 GB,2857548,"🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.",C++,https://github.com/arangodb/arangodb
+151,incubator-weex,13716,1805,13716,248,06/01/2017,31/05/2021,276.11 MB,282740,Apache Weex (Incubating),C++,https://github.com/apache/incubator-weex
+152,cosmos,13655,3680,13655,2619,16/09/2017,05/10/2024,82.64 MB,84619,"World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project",C++,https://github.com/OpenGenus/cosmos
+153,annoy,13632,1186,13632,65,01/04/2013,29/07/2024,1.97 MB,2020,Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk,C++,https://github.com/spotify/annoy
+154,workflow,13626,2478,13626,22,29/07/2020,25/03/2025,4.64 MB,4748,C++ Parallel Computing and Asynchronous Networking Framework,C++,https://github.com/sogou/workflow
+155,dolphin,13509,2750,13509,316,22/07/2013,27/03/2025,512.19 MB,524482,"Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",C++,https://github.com/dolphin-emu/dolphin
+156,audacity,13322,2332,13322,1021,26/03/2015,28/03/2025,350.07 MB,358474,Audio Editor                                     ,C++,https://github.com/audacity/audacity
+157,bullet3,13189,2918,13189,362,12/04/2011,29/01/2025,289.49 MB,296433,"Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",C++,https://github.com/bulletphysics/bullet3
+158,watchman,12995,1019,12995,246,29/11/2012,27/03/2025,31.69 MB,32452,"Watches files and records, or triggers actions, when they change. ",C++,https://github.com/facebook/watchman
+159,webview,12966,976,12966,173,19/08/2017,28/03/2025,5.67 MB,5804,Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).,C++,https://github.com/webview/webview
+160,guetzli,12933,973,12933,123,21/10/2016,22/04/2023,490.00 KB,490,Perceptual JPEG encoder,C++,https://github.com/google/guetzli
+161,MuseScore,12877,2795,12877,3400,26/05/2012,28/03/2025,963.58 MB,986707,"MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",C++,https://github.com/musescore/MuseScore
+162,awesome-low-level-design,12877,3135,12877,30,17/11/2023,09/03/2025,1.59 MB,1628,Learn Low Level Design (LLD) and prepare for interviews using free resources.,C++,https://github.com/ashishps1/awesome-low-level-design
+163,mosh,12872,751,12872,199,09/01/2011,17/07/2024,2.66 MB,2727,Mobile Shell,C++,https://github.com/mobile-shell/mosh
+164,transmission,12867,1246,12867,843,05/05/2015,24/03/2025,131.19 MB,134334,Official Transmission BitTorrent client repository,C++,https://github.com/transmission/transmission
+165,BitNet,12850,907,12850,76,05/08/2024,18/02/2025,1.98 MB,2027,Official inference framework for 1-bit LLMs,C++,https://github.com/microsoft/BitNet
+166,video2x,12810,1154,12810,32,24/02/2018,26/03/2025,560.75 MB,574205,"A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",C++,https://github.com/k4yt3x/video2x
+167,pcsx2,12713,1690,12713,581,22/12/2013,27/03/2025,247.29 MB,253224,PCSX2 - The Playstation 2 Emulator,C++,https://github.com/PCSX2/pcsx2
+168,Stockfish,12655,2415,12655,43,18/06/2014,21/03/2025,17.78 MB,18206,A free and strong UCI chess engine,C++,https://github.com/official-stockfish/Stockfish
+169,moonlight-qt,12506,708,12506,448,28/04/2018,27/03/2025,344.07 MB,352327,"GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",C++,https://github.com/moonlight-stream/moonlight-qt
+170,libfacedetection,12450,3046,12450,55,20/01/2015,11/10/2024,120.73 MB,123624,An open source library for face detection in images. The face detection speed can reach 1000FPS. ,C++,https://github.com/ShiqiYu/libfacedetection
+171,xournalpp,12411,874,12411,1124,08/08/2013,25/03/2025,54.78 MB,56095,"Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",C++,https://github.com/xournalpp/xournalpp
+172,drogon,12228,1163,12228,324,27/04/2018,22/03/2025,5.81 MB,5952,Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows,C++,https://github.com/drogonframework/drogon
+173,carla,12226,3943,12226,1162,24/10/2017,28/03/2025,1.97 GB,2068446,Open-source simulator for autonomous driving research.,C++,https://github.com/carla-simulator/carla
+174,ggml,12202,1190,12202,292,18/09/2022,27/03/2025,13.10 MB,13410,Tensor library for machine learning,C++,https://github.com/ggml-org/ggml
+175,vnote,12201,1241,12201,658,05/10/2016,11/02/2025,65.89 MB,67467,A pleasant note-taking platform in native C++.,C++,https://github.com/vnotex/vnote
+176,Open3D,12116,2398,12116,1264,02/12/2016,28/03/2025,592.67 MB,606899,Open3D: A Modern Library for 3D Data Processing,C++,https://github.com/isl-org/Open3D
+177,Gource,12076,731,12076,112,11/09/2009,11/03/2025,4.02 MB,4120,software version control visualization,C++,https://github.com/acaudwell/Gource
+178,zeal,12049,797,12049,189,20/01/2013,06/10/2024,5.69 MB,5824,Offline documentation browser inspired by Dash,C++,https://github.com/zealdocs/zeal
+179,chineseocr_lite,12048,2276,12048,254,27/02/2020,14/08/2023,467.65 MB,478874,"超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",C++,https://github.com/DayBreak-u/chineseocr_lite
+180,capnproto,12046,948,12046,258,29/03/2013,26/03/2025,22.96 MB,23515,Cap'n Proto serialization/RPC system - core tools and C++ library,C++,https://github.com/capnproto/capnproto
+181,wazuh,12043,1792,12043,2562,11/08/2015,28/03/2025,439.08 MB,449617,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,C++,https://github.com/wazuh/wazuh
+182,Hazel,12034,1515,12034,133,20/10/2018,20/04/2024,53.54 MB,54825,Hazel Engine,C++,https://github.com/TheCherno/Hazel
+183,ppsspp,12030,2251,12030,1278,01/11/2012,28/03/2025,318.36 MB,326005,"A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",C++,https://github.com/hrydgard/ppsspp
+184,KeyDB,11862,594,11862,247,01/02/2019,29/05/2024,37.22 MB,38115,A Multithreaded Fork of Redis,C++,https://github.com/Snapchat/KeyDB
+185,MyTinySTL,11860,3299,11860,59,05/08/2016,27/10/2024,2.63 MB,2690,Achieve a tiny STL in C++11,C++,https://github.com/Alinshans/MyTinySTL
+186,ninja,11756,1648,11756,367,06/02/2011,26/03/2025,4.96 MB,5079,a small build system with a focus on speed,C++,https://github.com/ninja-build/ninja
+187,ardupilot,11754,18387,11754,2591,09/01/2013,28/03/2025,436.12 MB,446589,"ArduPlane, ArduCopter, ArduRover, ArduSub source",C++,https://github.com/ArduPilot/ardupilot
+188,or-tools,11742,2193,11742,69,21/02/2015,28/03/2025,1.23 GB,1294899,Google's Operations Research tools:,C++,https://github.com/google/or-tools
+189,shotcut,11667,1171,11667,48,23/04/2012,28/03/2025,98.05 MB,100400,"cross-platform (Qt), open-source (GPLv3) video editor",C++,https://github.com/mltframework/shotcut
+190,tiled,11615,1781,11615,738,27/02/2011,28/03/2025,99.62 MB,102007,Flexible level editor,C++,https://github.com/mapeditor/tiled
+191,LearnOpenGL,11492,2848,11492,158,23/03/2015,06/08/2024,199.88 MB,204676,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,C++,https://github.com/JoeyDeVries/LearnOpenGL
+192,assimp,11477,2988,11477,732,05/05/2010,27/03/2025,292.49 MB,299510,The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. ,C++,https://github.com/assimp/assimp
+193,TensorRT,11386,2171,11386,443,02/05/2019,11/03/2025,133.23 MB,136426,NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.,C++,https://github.com/NVIDIA/TensorRT
+194,FlashMLA,11385,811,11385,41,21/02/2025,01/03/2025,29.00 KB,29,FlashMLA: Efficient MLA decoding kernels,C++,https://github.com/deepseek-ai/FlashMLA
+195,lynx,11275,363,11275,149,04/03/2025,28/03/2025,11.25 MB,11517,Empower the Web community and invite more to build across platforms.,C++,https://github.com/lynx-family/lynx
+196,eos,11274,3659,11274,384,05/04/2017,27/07/2022,303.03 MB,310302,An open source smart contract platform ,C++,https://github.com/EOSIO/eos
+197,luanti,11265,2082,11265,1292,07/08/2011,28/03/2025,119.97 MB,122851,Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation,C++,https://github.com/luanti-org/luanti
+198,mysql-server,11253,4009,11253,1,26/09/2014,22/01/2025,4.37 GB,4582702,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.",C++,https://github.com/mysql/mysql-server
+199,turicreate,11198,1143,11198,523,01/12/2017,01/11/2023,313.20 MB,320718,Turi Create simplifies the development of custom machine learning models.,C++,https://github.com/apple/turicreate
+200,nebula,11193,1219,11193,595,28/08/2018,19/03/2025,67.13 MB,68746,"  A distributed, fast open-source graph database featuring horizontal scalability and high availability",C++,https://github.com/vesoft-inc/nebula
+201,openalpr,11146,2506,11146,521,09/11/2013,11/01/2024,5.61 MB,5744,Automatic License Plate Recognition library,C++,https://github.com/openalpr/openalpr
+202,Cataclysm-DDA,11135,4286,11135,2310,26/09/2012,28/03/2025,9.89 GB,10366137,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.,C++,https://github.com/CleverRaven/Cataclysm-DDA
+203,QGIS,11126,3100,11126,4876,02/05/2011,28/03/2025,4.33 GB,4545121,"QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",C++,https://github.com/qgis/QGIS
+204,sonic-pi,11047,942,11047,278,29/04/2013,22/03/2025,370.74 MB,379638,Code. Music. Live.,C++,https://github.com/sonic-pi-net/sonic-pi
+205,tracy,11043,753,11043,204,17/03/2020,25/03/2025,28.75 MB,29437,Frame profiler,C++,https://github.com/wolfpld/tracy
+206,organicmaps,10851,1081,10851,2871,27/12/2020,13/03/2025,7.31 GB,7660569,Moved to Forgejo https://git.omaps.dev/organicmaps/organicmaps,C++,https://github.com/organicmaps/organicmaps
+207,entt,10809,934,10809,7,27/03/2017,27/03/2025,38.19 MB,39106,Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more,C++,https://github.com/skypjack/entt
+208,z3,10794,1512,10794,146,26/03/2015,27/03/2025,134.27 MB,137496,The Z3 Theorem Prover,C++,https://github.com/Z3Prover/z3
+209,SFML,10784,1792,10784,155,25/03/2011,27/03/2025,107.74 MB,110328,Simple and Fast Multimedia Library,C++,https://github.com/SFML/SFML
+210,concurrentqueue,10780,1757,10780,62,06/11/2014,02/03/2025,4.93 MB,5048,"A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",C++,https://github.com/cameron314/concurrentqueue
+211,sentencepiece,10739,1205,10739,49,07/03/2017,01/03/2025,24.51 MB,25101,Unsupervised text tokenizer for Neural Network-based text generation.,C++,https://github.com/google/sentencepiece
+212,taskflow,10724,1259,10724,23,18/04/2018,28/03/2025,138.70 MB,142029,A General-purpose Task-parallel Programming System using Modern C++,C++,https://github.com/taskflow/taskflow
+213,thrift,10661,4052,10661,47,18/09/2009,26/03/2025,33.68 MB,34491,Apache Thrift,C++,https://github.com/apache/thrift
+214,mactype,10655,443,10655,295,02/04/2015,10/02/2025,1.15 MB,1177,Better font rendering for Windows.,C++,https://github.com/snowie2000/mactype
+215,wslg,10544,320,10544,586,11/03/2021,06/03/2025,1.99 MB,2034,Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios,C++,https://github.com/microsoft/wslg
+216,STL,10490,1537,10490,525,27/08/2019,28/03/2025,30.93 MB,31668,MSVC's implementation of the C++ Standard Library.,C++,https://github.com/microsoft/STL
+217,pcl,10281,4640,10281,582,12/02/2013,24/03/2025,233.23 MB,238831,Point Cloud Library (PCL),C++,https://github.com/PointCloudLibrary/pcl
+218,FileCentipede,10267,639,10267,259,07/03/2022,24/03/2025,646.51 MB,662028,"Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",C++,https://github.com/filecxx/FileCentipede
+219,fprime,10243,1358,10243,303,22/06/2017,26/03/2025,428.39 MB,438671,F´ - A flight software and embedded systems framework,C++,https://github.com/nasa/fprime
+220,OpenArk,10241,955,10241,44,26/04/2019,28/01/2025,19.71 MB,20182,The Next Generation of Anti-Rookit(ARK) tool for Windows.,C++,https://github.com/BlackINT3/OpenArk
+221,ndk-samples,10226,4212,10226,23,16/05/2015,08/01/2025,53.13 MB,54408,Android NDK samples with Android Studio,C++,https://github.com/android/ndk-samples
+222,kakoune,10205,729,10205,884,03/11/2011,25/03/2025,42.14 MB,43153,mawww's experiment for a better code editor,C++,https://github.com/mawww/kakoune
+223,hermes,10197,665,10197,172,22/10/2018,27/03/2025,89.98 MB,92144,A JavaScript engine optimized for running React Native.,C++,https://github.com/facebook/hermes
+224,NanaZip,10163,252,10163,266,30/08/2021,25/03/2025,42.43 MB,43444,The 7-Zip derivative intended for the modern Windows experience,C++,https://github.com/M2Team/NanaZip
+225,redpanda,10148,613,10148,1145,02/11/2020,28/03/2025,109.44 MB,112064,Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!,C++,https://github.com/redpanda-data/redpanda
+226,MNN,10140,1796,10140,57,15/04/2019,28/03/2025,292.71 MB,299733,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",C++,https://github.com/alibaba/MNN
+227,openFrameworks,10107,2562,10107,1090,21/10/2009,28/03/2025,2.11 GB,2213144,openFrameworks is a community-developed cross platform toolkit for creative coding in C++.,C++,https://github.com/openframeworks/openFrameworks
+228,xiaozhi-esp32,10072,1836,10072,107,31/08/2024,27/03/2025,2.90 MB,2968,Build your own AI friend,C++,https://github.com/78/xiaozhi-esp32
+229,libzmq,10053,2393,10053,351,29/07/2009,30/12/2024,23.50 MB,24062,"ZeroMQ core engine in C++, implements ZMTP/3.1",C++,https://github.com/zeromq/libzmq
+230,AutoHotkey,10050,993,10050,19,25/11/2009,22/03/2025,24.78 MB,25373,AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.,C++,https://github.com/AutoHotkey/AutoHotkey
+231,CppTemplateTutorial,10035,1594,10035,17,12/03/2013,20/08/2024,502.00 KB,502,中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中),C++,https://github.com/wuye9036/CppTemplateTutorial
+232,TensorRT-LLM,10006,1265,10006,583,16/08/2023,28/03/2025,1.04 GB,1088235,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,C++,https://github.com/NVIDIA/TensorRT-LLM
+233,Tars,9928,2080,9928,47,18/01/2017,22/02/2024,15.59 MB,15965,"Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.",C++,https://github.com/TarsCloud/Tars
+234,TrinityCore,9912,6113,9912,1594,28/12/2010,28/03/2025,1.27 GB,1327759,"TrinityCore Open Source MMO Framework (master = 11.1.0.59888, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)",C++,https://github.com/TrinityCore/TrinityCore
+235,manticoresearch,9878,550,9878,597,28/06/2017,28/03/2025,69.08 MB,70740,Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon,C++,https://github.com/manticoresoftware/manticoresearch
+236,gcc,9779,4504,9779,49,07/08/2014,28/03/2025,3.60 GB,3773255,,C++,https://github.com/gcc-mirror/gcc
+237,NotepadNext,9741,584,9741,59,27/11/2019,11/03/2025,17.94 MB,18372,"A cross-platform, reimplementation of Notepad++",C++,https://github.com/dail8859/NotepadNext
+238,ORB_SLAM2,9708,4721,9708,803,23/01/2016,15/05/2024,41.43 MB,42427,"Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",C++,https://github.com/raulmur/ORB_SLAM2
+239,skia,9653,1545,9653,34,09/01/2014,28/03/2025,1.13 GB,1189204,"Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.",C++,https://github.com/google/skia
+240,opencv_contrib,9603,5811,9603,617,11/09/2013,28/03/2025,149.68 MB,153272,Repository for OpenCV's extra modules,C++,https://github.com/opencv/opencv_contrib
+241,rr,9600,608,9600,464,25/08/2011,27/03/2025,26.05 MB,26671,Record and Replay Framework,C++,https://github.com/rr-debugger/rr
+242,CLRS,9536,2752,9536,85,03/12/2013,15/10/2023,12.01 MB,12300,:notebook:Solutions to Introduction to Algorithms,C++,https://github.com/gzc/CLRS
+243,renderdoc,9489,1398,9489,59,27/02/2014,24/03/2025,153.28 MB,156963,RenderDoc is a stand-alone graphics debugging tool.,C++,https://github.com/baldurk/renderdoc
+244,CopyQ,9387,463,9387,407,21/10/2009,18/03/2025,38.89 MB,39820,Clipboard manager with advanced features,C++,https://github.com/hluk/CopyQ
+245,benchmark,9363,1667,9363,178,12/12/2013,27/03/2025,2.93 MB,3002,A microbenchmark support library,C++,https://github.com/google/benchmark
+246,robomongo,9335,809,9335,724,07/11/2012,22/09/2022,38.38 MB,39301,Native cross-platform MongoDB management tool,C++,https://github.com/Studio3T/robomongo
+247,monero,9329,3189,9329,699,30/04/2014,26/03/2025,185.79 MB,190254,"Monero: the secure, private, untraceable cryptocurrency",C++,https://github.com/monero-project/monero
+248,hardseed,9260,1815,9260,36,17/07/2014,25/08/2018,36.05 MB,36915,"SEX IS ZERO (0), so, who wanna be the ONE (1), aha?",C++,https://github.com/yangyangwithgnu/hardseed
+249,napajs,9238,336,9238,67,18/07/2017,29/08/2022,12.73 MB,13039,Napa.js: a multi-threaded JavaScript runtime,C++,https://github.com/microsoft/napajs
+250,re2,9207,1150,9207,15,18/08/2014,28/02/2025,10.09 MB,10336,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",C++,https://github.com/google/re2
+251,OrcaSlicer,9172,1110,9172,1074,16/07/2022,28/03/2025,821.20 MB,840913,"G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",C++,https://github.com/SoftFever/OrcaSlicer
+252,PX4-Autopilot,9124,13783,9124,2026,04/08/2012,28/03/2025,484.06 MB,495676,PX4 Autopilot Software,C++,https://github.com/PX4/PX4-Autopilot
+253,esphome,9110,4027,9110,441,06/04/2018,27/03/2025,30.26 MB,30986,ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.,C++,https://github.com/esphome/esphome
+254,Whisper,9094,771,9094,151,07/01/2023,03/08/2024,4.41 MB,4520,High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model,C++,https://github.com/Const-me/Whisper
+255,WasmEdge,9086,806,9086,233,29/11/2019,27/03/2025,24.44 MB,25023,"WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",C++,https://github.com/WasmEdge/WasmEdge
+256,bpftrace,9049,1362,9049,239,31/08/2018,27/03/2025,12.08 MB,12374,High-level tracing language for Linux,C++,https://github.com/bpftrace/bpftrace
+257,nodegui,9021,302,9021,83,14/05/2019,06/02/2025,98.67 MB,101039,A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org,C++,https://github.com/nodegui/nodegui
+258,oceanbase,9011,1716,9011,504,31/05/2021,28/03/2025,626.44 MB,641474,"OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",C++,https://github.com/oceanbase/oceanbase
+259,perspective,9007,1211,9007,107,02/11/2017,25/03/2025,275.92 MB,282542,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",C++,https://github.com/finos/perspective
+260,s3fs-fuse,9007,1038,9007,287,22/11/2013,19/03/2025,5.99 MB,6130,FUSE-based file system backed by Amazon S3,C++,https://github.com/s3fs-fuse/s3fs-fuse
+261,Stacer,9002,613,9002,164,06/11/2016,10/02/2024,7.34 MB,7515,Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web,C++,https://github.com/oguzhaninan/Stacer
+262,anbox,8979,1158,8979,379,22/02/2017,06/02/2024,6.90 MB,7063,Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system ,C++,https://github.com/anbox/anbox
+263,mame,8939,2121,8939,665,11/11/2013,28/03/2025,1.66 GB,1735711,MAME,C++,https://github.com/mamedev/mame
+264,devilution,8867,924,8867,43,02/04/2018,14/03/2025,20.01 MB,20486,Diablo devolved - magic behind the 1996 computer game,C++,https://github.com/diasurgical/devilution
+265,OpenCC,8826,1004,8826,225,15/07/2010,26/03/2025,8.55 MB,8757,Conversion between Traditional and Simplified Chinese,C++,https://github.com/BYVoid/OpenCC
+266,engine-sim,8825,792,8825,135,18/12/2021,17/06/2024,5.83 MB,5966,Combustion engine simulator that generates realistic audio.,C++,https://github.com/ange-yaghi/engine-sim
+267,cudf,8825,942,8825,1089,07/05/2017,27/03/2025,155.78 MB,159516,cuDF - GPU DataFrame Library ,C++,https://github.com/rapidsai/cudf
+268,ConEmu,8753,585,8753,1048,26/11/2011,21/03/2024,95.54 MB,97832,"Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more",C++,https://github.com/Maximus5/ConEmu
+269,git-crypt,8751,489,8751,136,19/12/2012,03/09/2024,341.00 KB,341,Transparent file encryption in git,C++,https://github.com/AGWA/git-crypt
+270,kbd-audio,8718,599,8718,12,27/08/2018,15/01/2023,12.73 MB,13031,🎤⌨️ Acoustic keyboard eavesdropping,C++,https://github.com/ggerganov/kbd-audio
+271,ModSecurity,8668,1640,8668,245,02/02/2011,23/03/2025,74.77 MB,76564,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",C++,https://github.com/owasp-modsecurity/ModSecurity
+272,xenia,8620,1169,8620,297,10/01/2013,06/08/2024,47.83 MB,48980,Xbox 360 Emulator Research Project,C++,https://github.com/xenia-project/xenia
+273,gperftools,8618,1509,8618,117,28/01/2014,07/03/2025,7.55 MB,7728,Main gperftools repository,C++,https://github.com/gperftools/gperftools
+274,seastar,8608,1588,8608,533,18/08/2014,28/03/2025,17.69 MB,18114,High performance server-side application framework,C++,https://github.com/scylladb/seastar
+275,DevilutionX,8576,848,8576,405,02/08/2018,27/03/2025,87.18 MB,89277,Diablo build for modern operating systems,C++,https://github.com/diasurgical/DevilutionX
+276,GameNetworkingSockets,8573,648,8573,54,21/03/2018,30/09/2024,15.61 MB,15982,Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.,C++,https://github.com/ValveSoftware/GameNetworkingSockets
+277,EASTL,8568,973,8568,106,15/12/2015,09/09/2024,4.54 MB,4649,EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.,C++,https://github.com/electronicarts/EASTL
+278,source-sdk-2013,8559,2544,8559,649,26/06/2013,25/03/2025,671.86 MB,687980,The 2013 edition of the Source SDK,C++,https://github.com/ValveSoftware/source-sdk-2013
+279,lmms,8556,1045,8556,1175,09/01/2014,27/03/2025,94.93 MB,97212,Cross-platform music production software,C++,https://github.com/LMMS/lmms
+280,vowpal_wabbit,8542,1929,8542,137,31/07/2009,17/10/2024,160.85 MB,164710,"Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  ",C++,https://github.com/VowpalWabbit/vowpal_wabbit
+281,lnav,8528,343,8528,248,14/09/2009,28/03/2025,44.09 MB,45144,Log file navigator,C++,https://github.com/tstack/lnav
+282,cocos-engine,8514,1987,8514,771,05/12/2015,28/03/2025,349.49 MB,357882,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",C++,https://github.com/cocos/cocos-engine
+283,node-sass,8500,1328,8500,187,24/04/2012,24/07/2024,24.92 MB,25523,:rainbow: Node.js bindings to libsass,C++,https://github.com/sass/node-sass
+284,stellarium,8476,875,8476,378,13/04/2014,28/03/2025,5.01 GB,5253024,"Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.",C++,https://github.com/Stellarium/stellarium
+285,libco,8471,2107,8471,132,12/10/2016,07/03/2024,191.00 KB,191,libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.,C++,https://github.com/Tencent/libco
+286,olive,8457,573,8457,148,25/12/2017,05/12/2024,29.89 MB,30609,Free open-source non-linear video editor,C++,https://github.com/olive-editor/olive
+287,cp-algorithms,8426,1718,8426,82,24/07/2014,27/03/2025,24.01 MB,24591,Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru),C++,https://github.com/cp-algorithms/cp-algorithms
+288,uWebSockets.js,8392,598,8392,36,27/07/2018,25/11/2024,1.26 GB,1321351,μWebSockets for Node.js back-ends :metal:,C++,https://github.com/uNetworking/uWebSockets.js
+289,colmap,8386,1604,8386,1005,16/08/2014,28/03/2025,70.46 MB,72154,COLMAP - Structure-from-Motion and Multi-View Stereo,C++,https://github.com/colmap/colmap
+290,3FS,8382,813,8382,79,27/02/2025,27/03/2025,5.72 MB,5862, A high-performance distributed file system designed to address the challenges of AI training and inference workloads. ,C++,https://github.com/deepseek-ai/3FS
+291,jsoncpp,8380,2674,8380,138,06/07/2014,18/03/2025,2.80 MB,2865,A C++ library for interacting with JSON.,C++,https://github.com/open-source-parsers/jsoncpp
+292,piper,8321,625,8321,393,10/01/2023,03/03/2025,213.29 MB,218406,"A fast, local neural text to speech system",C++,https://github.com/rhasspy/piper
+293,catboost,8317,1212,8317,604,18/07/2017,28/03/2025,1.70 GB,1778326,"A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",C++,https://github.com/catboost/catboost
+294,Cpp_Primer_Practice,8226,2001,8226,31,15/09/2017,12/09/2024,3.03 MB,3100,搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。,C++,https://github.com/applenob/Cpp_Primer_Practice
+295,Hippy,8222,968,8222,11,15/11/2019,26/03/2025,666.97 MB,682980,Hippy is designed to easily build cross-platform dynamic apps. 👏,C++,https://github.com/Tencent/Hippy
+296,ThreadPool,8217,2291,8217,56,05/10/2012,20/07/2024,309.00 KB,309,A simple C++11 Thread Pool implementation,C++,https://github.com/progschj/ThreadPool
+297,MVision,8216,2794,8216,19,24/09/2017,09/07/2024,904.21 MB,925912,机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶,C++,https://github.com/Ewenwan/MVision
+298,ssdb,8204,1399,8204,399,11/01/2013,20/08/2022,4.19 MB,4288,"SSDB - A fast NoSQL database, an alternative to Redis",C++,https://github.com/ideawu/ssdb
+299,proxygen,8195,1516,8195,22,03/10/2014,27/03/2025,24.65 MB,25241,A collection of C++ HTTP libraries including an easy to use HTTP server.,C++,https://github.com/facebook/proxygen
+300,jetson-inference,8190,3030,8190,390,30/07/2016,16/10/2024,151.99 MB,155634,Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.,C++,https://github.com/dusty-nv/jetson-inference
+301,Cpp-Primer,8183,2986,8183,199,09/05/2014,06/06/2024,1.62 MB,1654,C++ Primer 5 answers,C++,https://github.com/Mooophy/Cpp-Primer
+302,multipass,8172,672,8172,535,13/12/2017,28/03/2025,34.90 MB,35736,Multipass orchestrates virtual Ubuntu instances,C++,https://github.com/canonical/multipass
+303,PowerInfer,8169,428,8169,110,15/12/2023,19/02/2025,11.40 MB,11670,High-speed Large Language Model Serving for Local Deployment,C++,https://github.com/SJTU-IPADS/PowerInfer
+304,retdec,8167,963,8167,433,12/12/2017,25/09/2024,31.73 MB,32495,RetDec is a retargetable machine-code decompiler based on LLVM.,C++,https://github.com/avast/retdec
+305,oatpp,8147,1328,8147,291,13/03/2018,15/03/2025,4.32 MB,4428,🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.,C++,https://github.com/oatpp/oatpp
+306,o3de,8144,2264,8144,3540,05/04/2021,27/03/2025,211.15 MB,216213,"Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",C++,https://github.com/o3de/o3de
+307,waifu2x-caffe,8136,835,8136,91,28/05/2015,19/06/2024,306.71 MB,314072,waifu2xのCaffe版,C++,https://github.com/lltcggie/waifu2x-caffe
+308,cpprestsdk,8117,1670,8117,870,21/08/2014,23/11/2024,10.83 MB,11087,The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.,C++,https://github.com/microsoft/cpprestsdk
+309,duckstation,8116,728,8116,77,09/09/2019,28/03/2025,108.89 MB,111501,Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64,C++,https://github.com/stenzek/duckstation
+310,AI4Animation,8062,1070,8062,34,26/07/2017,23/07/2024,5.13 GB,5382195,Bringing Characters to Life with Computer Brains in Unity,C++,https://github.com/sebastianstarke/AI4Animation
+311,openvino,8052,2504,8052,552,15/10/2018,28/03/2025,860.31 MB,880956,OpenVINO™ is an open source toolkit for optimizing and deploying AI inference,C++,https://github.com/openvinotoolkit/openvino
+312,PrusaSlicer,8045,2002,8045,4948,01/03/2016,11/03/2025,372.20 MB,381130,"G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",C++,https://github.com/prusa3d/PrusaSlicer
+313,async-profiler,8030,895,8030,38,23/04/2016,27/03/2025,6.19 MB,6341,Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events,C++,https://github.com/async-profiler/async-profiler
+314,FTXUI,7988,467,7988,76,27/01/2019,28/03/2025,22.01 MB,22541,:computer: C++ Functional Terminal User Interface. :heart:,C++,https://github.com/ArthurSonzogni/FTXUI
+315,shadowsocks-qt5,7981,2325,7981,75,04/04/2014,02/11/2019,6.47 MB,6624,A cross-platform shadowsocks GUI client,C++,https://github.com/shadowsocks/shadowsocks-qt5
+316,krita,7974,627,7974,0,09/10/2015,28/03/2025,5.91 GB,6197130,Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.,C++,https://github.com/KDE/krita
+317,sysdig,7957,732,7957,117,15/01/2014,07/03/2025,176.37 MB,180603,Linux system exploration and troubleshooting tool with first class support for containers,C++,https://github.com/draios/sysdig
+318,WebServer,7952,2127,7952,108,02/02/2018,27/09/2023,2.47 MB,2526,A C++ High Performance Web Server,C++,https://github.com/linyacool/WebServer
+319,librealsense,7861,4847,7861,405,17/11/2015,27/03/2025,261.10 MB,267369,Intel® RealSense™ SDK,C++,https://github.com/IntelRealSense/librealsense
+320,Cemu,7861,657,7861,306,22/08/2022,19/03/2025,27.05 MB,27700,Cemu - Wii U emulator,C++,https://github.com/cemu-project/Cemu
+321,LAVFilters,7860,800,7860,100,25/05/2013,26/03/2025,61.02 MB,62480,LAV Filters - Open-Source DirectShow Media Splitter and Decoders,C++,https://github.com/Nevcairiel/LAVFilters
+322,connectedhomeip,7804,2142,7804,2079,03/03/2020,28/03/2025,673.45 MB,689608,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",C++,https://github.com/project-chip/connectedhomeip
+323,tachyon,7775,235,7775,19,27/06/2023,29/11/2024,26.28 MB,26912,Modular ZK(Zero Knowledge) backend accelerated by GPU,C++,https://github.com/kroma-network/tachyon
+324,FrameworkBenchmarks,7762,1979,7762,146,22/03/2013,27/03/2025,305.36 MB,312688,Source for the TechEmpower Framework Benchmarks project,C++,https://github.com/TechEmpower/FrameworkBenchmarks
+325,falco,7733,921,7733,56,19/01/2016,28/03/2025,20.67 MB,21171,Cloud Native Runtime Security,C++,https://github.com/falcosecurity/falco
+326,neutralinojs,7685,402,7685,129,23/06/2018,28/03/2025,106.38 MB,108931,Portable and lightweight cross-platform desktop application development framework,C++,https://github.com/neutralinojs/neutralinojs
+327,liteide,7662,972,7662,405,19/11/2012,02/08/2024,17.30 MB,17716,"LiteIDE is a simple, open source, cross-platform Go IDE. ",C++,https://github.com/visualfc/liteide
+328,BetterNCM,7650,372,7650,66,03/04/2022,12/10/2024,3.18 MB,3252,NCM 软件插件管理器,C++,https://github.com/std-microblock/BetterNCM
+329,JoltPhysics,7644,504,7644,6,12/08/2021,22/03/2025,26.90 MB,27541,A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.,C++,https://github.com/jrouwe/JoltPhysics
+330,oneflow,7640,834,7640,600,11/02/2017,27/03/2025,84.61 MB,86636,"OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.",C++,https://github.com/Oneflow-Inc/oneflow
+331,openscad,7602,1272,7602,972,03/11/2010,27/03/2025,76.08 MB,77903,OpenSCAD - The Programmers Solid 3D CAD Modeller  ,C++,https://github.com/openscad/openscad
+332,node.bcrypt.js,7596,532,7596,51,15/04/2010,19/03/2025,769.00 KB,769,bcrypt for NodeJs,C++,https://github.com/kelektiv/node.bcrypt.js
+333,conky,7571,627,7571,95,26/12/2012,17/03/2025,22.96 MB,23512,"Light-weight system monitor for X, Wayland, and other things, too",C++,https://github.com/brndnmtthws/conky
+334,crow,7570,891,7570,212,29/03/2014,06/06/2024,875.00 KB,875,Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask),C++,https://github.com/ipkn/crow
+335,udp2raw,7567,1187,7567,277,04/08/2017,10/06/2024,3.86 MB,3951,"A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)",C++,https://github.com/wangyu-/udp2raw
+336,Squirrel.Windows,7552,1035,7552,416,28/07/2014,24/07/2024,82.68 MB,84664,An installation and update framework for Windows desktop apps,C++,https://github.com/Squirrel/Squirrel.Windows
+337,engine,7543,6013,7543,1,16/07/2015,25/02/2025,656.16 MB,671912,The Flutter engine,C++,https://github.com/flutter/engine
+338,Xposed,7525,1475,7525,158,25/03/2012,08/06/2020,205.00 KB,205,The native part of the Xposed framework (mainly the modified app_process binary).,C++,https://github.com/rovo89/Xposed
+339,td,7525,1560,7525,88,31/12/2017,13/03/2025,61.52 MB,62999,Cross-platform library for building Telegram clients,C++,https://github.com/tdlib/td
+340,GuiLite,7492,811,7492,17,15/09/2017,22/12/2023,78.90 MB,80794,✔️The smallest header-only GUI library(4 KLOC) for all platforms,C++,https://github.com/idea4good/GuiLite
+341,Waybar,7488,766,7488,1003,08/08/2018,28/03/2025,4.63 MB,4742,Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:,C++,https://github.com/Alexays/Waybar
+342,RTranslator,7473,585,7473,16,30/03/2020,23/03/2025,26.56 MB,27198,Open source real-time translation app for Android that runs locally,C++,https://github.com/niedev/RTranslator
+343,albert,7457,314,7457,19,25/07/2014,28/03/2025,26.67 MB,27308,A fast and flexible keyboard launcher,C++,https://github.com/albertlauncher/albert
+344,miniblink49,7388,1122,7388,340,27/09/2016,12/02/2025,280.90 MB,287646,"a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef",C++,https://github.com/weolar/miniblink49
+345,cartographer,7334,2275,7334,233,02/08/2016,05/01/2024,5.80 MB,5937,Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.,C++,https://github.com/cartographer-project/cartographer
+346,websocketpp,7289,2016,7289,468,08/09/2011,21/08/2024,8.42 MB,8624,C++ websocket client/server library,C++,https://github.com/zaphoyd/websocketpp
+347,tensorrtx,7270,1811,7270,1,25/11/2019,06/12/2024,2.15 MB,2197,Implementation of popular deep learning networks with TensorRT network definition API,C++,https://github.com/wang-xinyu/tensorrtx
+348,glog,7248,2078,7248,49,23/02/2015,22/03/2025,5.00 MB,5116,C++ implementation of the Google logging module,C++,https://github.com/google/glog
+349,mamba,7246,386,7246,426,05/03/2019,27/03/2025,10.87 MB,11128,The Fast Cross-Platform Package Manager,C++,https://github.com/mamba-org/mamba
+350,ESP32Marauder,7204,773,7204,241,13/09/2019,27/03/2025,454.50 MB,465412,A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32,C++,https://github.com/justcallmekoko/ESP32Marauder
+351,wabt,7193,733,7193,174,14/09/2015,27/03/2025,24.86 MB,25461,The WebAssembly Binary Toolkit,C++,https://github.com/WebAssembly/wabt
+352,cutlass,7188,1182,7188,286,30/11/2017,21/03/2025,48.67 MB,49833,CUDA Templates for Linear Algebra Subroutines,C++,https://github.com/NVIDIA/cutlass
+353,winmerge,7127,839,7127,407,11/11/2014,27/03/2025,491.35 MB,503143,"WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",C++,https://github.com/WinMerge/winmerge
+354,flutter-desktop-embedding,7107,605,7107,3,14/02/2018,03/04/2024,2.73 MB,2794,Experimental plugins for Flutter for Desktop,C++,https://github.com/google/flutter-desktop-embedding
+355,Floorp,7104,201,7104,122,12/12/2021,28/03/2025,4.64 GB,4866727,"All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊",C++,https://github.com/Floorp-Projects/Floorp
+356,easyeffects,7073,283,7073,249,20/03/2017,28/03/2025,86.22 MB,88286,"Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",C++,https://github.com/wwmm/easyeffects
+357,slambook,7072,3294,7072,203,27/06/2016,22/03/2024,184.87 MB,189302,,C++,https://github.com/gaoxiang12/slambook
+358,notepad--,7061,277,7061,322,15/06/2022,11/02/2025,23.28 MB,23835,一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。,C++,https://github.com/cxasm/notepad--
+359,Paddle-Lite,7056,1620,7056,59,20/09/2017,19/01/2025,321.99 MB,329713,PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）,C++,https://github.com/PaddlePaddle/Paddle-Lite
+360,ORB_SLAM3,7052,2686,7052,545,18/07/2020,24/07/2024,178.98 MB,183277,"ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",C++,https://github.com/UZ-SLAMLab/ORB_SLAM3
+361,N64Recomp,7045,400,7045,35,16/11/2022,27/02/2025,993.00 KB,993,Tool to statically recompile N64 games into native executables,C++,https://github.com/N64Recomp/N64Recomp
+362,JUCE,7012,1798,7012,414,31/03/2012,28/03/2025,264.03 MB,270362,"JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",C++,https://github.com/juce-framework/JUCE
+363,design_patterns,6987,1806,6987,48,02/10/2014,05/06/2024,5.00 MB,5122,图说设计模式,C++,https://github.com/me115/design_patterns
+364,AndFix,6987,1598,6987,242,15/09/2015,17/11/2020,15.52 MB,15890,AndFix is a library that offer hot-fix for Android App.,C++,https://github.com/alibaba/AndFix
+365,azerothcore-wotlk,6956,2786,6956,2016,26/06/2016,28/03/2025,1.05 GB,1098577,Complete Open Source and Modular solution for MMO,C++,https://github.com/azerothcore/azerothcore-wotlk
+366,AI-on-the-edge-device,6952,724,6952,114,28/07/2020,26/03/2025,160.36 MB,164206,"Easy to use device for connecting ""old"" measuring units (water, power, gas, ...) to the digital world",C++,https://github.com/jomjol/AI-on-the-edge-device
+367,hybridclr,6949,692,6949,0,04/07/2022,24/03/2025,11.06 MB,11329,"HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.",C++,https://github.com/focus-creative-games/hybridclr
+368,naiveproxy,6935,903,6935,8,27/01/2018,08/03/2025,334.12 MB,342139,Make a fortune quietly,C++,https://github.com/klzgrad/naiveproxy
+369,ArduinoJson,6878,1136,6878,17,10/01/2014,17/03/2025,6.26 MB,6413,📟 JSON library for Arduino and embedded C++. Simple and efficient.,C++,https://github.com/bblanchon/ArduinoJson
+370,react-native-mmkv,6846,270,6846,48,24/02/2021,24/03/2025,34.78 MB,35618,⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!,C++,https://github.com/mrousavy/react-native-mmkv
+371,recastnavigation,6846,1661,6846,99,15/09/2013,18/03/2025,25.80 MB,26422,Industry-standard navigation-mesh toolset for games,C++,https://github.com/recastnavigation/recastnavigation
+372,amnezia-client,6818,442,6818,293,22/11/2020,27/03/2025,382.75 MB,391931,Amnezia VPN Client (Desktop+Mobile),C++,https://github.com/amnezia-vpn/amnezia-client
+373,cpr,6808,968,6808,77,31/03/2015,24/03/2025,1.88 MB,1926,"C++ Requests: Curl for People, a spiritual port of Python Requests.",C++,https://github.com/libcpr/cpr
+374,OpenTTD,6797,964,6797,304,06/04/2018,28/03/2025,545.46 MB,558556,OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe,C++,https://github.com/OpenTTD/OpenTTD
+375,WiFiManager,6792,2014,6792,637,03/06/2015,05/02/2025,1.58 MB,1617,ESP8266 WiFi Connection manager with web captive portal,C++,https://github.com/tzapu/WiFiManager
+376,FastLED,6779,1688,6779,333,10/11/2013,28/03/2025,73.23 MB,74991,"The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github ""issues"" just for tracking library bugs / enhancements. ",C++,https://github.com/FastLED/FastLED
+377,Relativty,6753,356,6753,29,03/12/2017,21/07/2024,173.05 MB,177204,An open source VR headset with SteamVR supports for $200,C++,https://github.com/relativty/Relativty
+378,mumble,6749,1158,6749,461,26/02/2011,27/03/2025,118.35 MB,121195,"Mumble is an open-source, low-latency, high quality voice chat software.",C++,https://github.com/mumble-voip/mumble
+379,zeek,6742,1242,6742,186,06/07/2012,28/03/2025,180.20 MB,184529,Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.,C++,https://github.com/zeek/zeek
+380,tenacity-legacy,6722,252,6722,143,04/07/2021,29/06/2022,242.46 MB,248282," THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.",C++,https://github.com/tenacityteam/tenacity-legacy
+381,WeChatRobot,6721,2325,6721,1,21/07/2019,04/05/2024,34.55 MB,35375,微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK,C++,https://github.com/TonyChen56/WeChatRobot
+382,360Controller,6709,523,6709,313,27/09/2013,15/11/2022,5.38 MB,5509,TattieBogle Xbox 360 Driver (with improvements),C++,https://github.com/360Controller/360Controller
+383,osrm-backend,6699,3517,6699,432,22/09/2011,28/03/2025,48.05 MB,49199,Open Source Routing Machine - C++ backend,C++,https://github.com/Project-OSRM/osrm-backend
+384,draco,6681,986,6681,144,05/12/2016,10/03/2025,220.24 MB,225526,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.,C++,https://github.com/google/draco
+385,WechatExporter,6650,583,6650,108,19/10/2020,26/02/2025,4.43 MB,4537,Wechat Chat History Exporter 微信聊天记录导出备份程序,C++,https://github.com/BlueMatthew/WechatExporter
+386,microsoft-ui-xaml,6621,715,6621,1882,26/07/2018,19/03/2025,271.53 MB,278047,WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.,C++,https://github.com/microsoft/microsoft-ui-xaml
+387,workerd,6592,353,6592,327,15/09/2022,28/03/2025,19.02 MB,19477,The JavaScript / Wasm runtime that powers Cloudflare Workers,C++,https://github.com/cloudflare/workerd
+388,PrismLauncher,6569,743,6569,656,17/10/2022,27/03/2025,34.29 MB,35118,A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC),C++,https://github.com/PrismLauncher/PrismLauncher
+389,mediasoup,6542,1155,6542,47,12/12/2014,28/03/2025,166.76 MB,170765,Cutting Edge WebRTC Video Conferencing,C++,https://github.com/versatica/mediasoup
+390,snapcast,6518,468,6518,92,02/01/2015,02/03/2025,23.49 MB,24052,Synchronous multiroom audio player,C++,https://github.com/badaix/snapcast
+391,OpenUSD,6470,1272,6470,904,06/05/2016,27/03/2025,224.47 MB,229858,Universal Scene Description,C++,https://github.com/PixarAnimationStudios/OpenUSD
+392,QWidgetDemo,6445,1699,6445,8,04/10/2019,13/03/2025,168.83 MB,172883,Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！公众号：Qt实战/Qt入门和进阶/Qt教程,C++,https://github.com/feiyangqingyun/QWidgetDemo
+393,interpret,6437,743,6437,107,03/05/2019,27/03/2025,15.44 MB,15810,Fit interpretable models. Explain blackbox machine learning. ,C++,https://github.com/interpretml/interpret
+394,wxWidgets,6433,1807,6433,2244,18/05/2011,27/03/2025,415.38 MB,425346,Cross-Platform C++ GUI Library,C++,https://github.com/wxWidgets/wxWidgets
+395,endless-sky,6426,1090,6426,977,14/03/2015,26/03/2025,528.60 MB,541290,"Space exploration, trading, and combat game.",C++,https://github.com/endless-sky/endless-sky
+396,wav2letter,6417,1011,6417,108,20/11/2017,23/11/2024,6.35 MB,6503,Facebook AI Research's Automatic Speech Recognition Toolkit ,C++,https://github.com/flashlight/wav2letter
+397,EasyPR,6383,2507,6383,86,19/09/2014,04/06/2024,190.46 MB,195032,"(CGCSTCD'2017) An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations.  CGCSTCD = China Graduate Contest on Smart-city Technology and Creative Design",C++,https://github.com/liuruoze/EasyPR
+398,PlayIntegrityFix,6369,396,6369,74,05/10/2023,19/03/2025,18.96 MB,19418,Fix Play Integrity (and SafetyNet) verdicts.,C++,https://github.com/chiteroman/PlayIntegrityFix
+399,GSL,6360,744,6360,10,19/08/2015,27/03/2025,1.73 MB,1769,Guidelines Support Library,C++,https://github.com/microsoft/GSL
+400,introduce_c-cpp_manual,6359,800,6359,3,06/12/2021,20/05/2024,3.88 MB,3968,一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。,C++,https://github.com/0voice/introduce_c-cpp_manual
+401,gemma.cpp,6316,533,6316,21,13/02/2024,26/03/2025,1.91 MB,1955,"lightweight, standalone C++ inference engine for Google's Gemma models.",C++,https://github.com/google/gemma.cpp
+402,love,6311,458,6311,89,25/05/2019,23/03/2025,95.22 MB,97504,LÖVE is an awesome 2D game framework for Lua.,C++,https://github.com/love2d/love
+403,safetynet-fix,6310,340,6310,54,13/01/2021,22/06/2023,1.94 MB,1985,Google SafetyNet attestation workarounds for Magisk,C++,https://github.com/kdrag0n/safetynet-fix
+404,snappy,6299,988,6299,50,03/03/2014,26/03/2025,2.78 MB,2849,A fast compressor/decompressor,C++,https://github.com/google/snappy
+405,DirectX-Graphics-Samples,6274,2069,6274,93,03/06/2015,30/01/2025,626.55 MB,641591,This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.,C++,https://github.com/microsoft/DirectX-Graphics-Samples
+406,ggwave,6258,349,6258,49,29/11/2020,20/03/2025,19.72 MB,20194,Tiny data-over-sound library,C++,https://github.com/ggerganov/ggwave
+407,serving,6255,2200,6255,113,26/01/2016,19/03/2025,19.64 MB,20107,"A flexible, high-performance serving system for machine learning models",C++,https://github.com/tensorflow/serving
+408,openvr,6251,1286,6251,1042,20/04/2015,18/06/2024,497.46 MB,509401,OpenVR SDK,C++,https://github.com/ValveSoftware/openvr
+409,30dayMakeCppServer,6243,791,6243,59,30/11/2021,26/03/2025,579.00 KB,579,30天自制C++服务器，包含教程和源代码,C++,https://github.com/yuesong-feng/30dayMakeCppServer
+410,al-khaser,6222,1191,6222,40,12/11/2015,12/01/2025,2.54 MB,2596,"Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. ",C++,https://github.com/ayoubfaouzi/al-khaser
+411,proxysql,6207,1003,6207,1145,01/12/2014,27/03/2025,469.46 MB,480732,High-performance MySQL proxy with a GPL license.,C++,https://github.com/sysown/proxysql
+412,Sigil,6193,590,6193,3,15/09/2013,27/03/2025,212.22 MB,217312,Sigil is a multi-platform EPUB ebook editor,C++,https://github.com/Sigil-Ebook/Sigil
+413,AppImageLauncher,6172,277,6172,159,18/03/2018,13/02/2025,1.89 MB,1939,"Helper application for Linux distributions serving as a kind of ""entry point"" for running and integrating AppImages",C++,https://github.com/TheAssassin/AppImageLauncher
+414,NonEuclidean,6162,583,6162,43,14/08/2018,14/11/2023,965.00 KB,965,A Non-Euclidean Rendering Engine for 3D scenes.,C++,https://github.com/HackerPoet/NonEuclidean
+415,LunaTranslator,6154,727,6154,7,28/09/2022,28/03/2025,14.80 MB,15156,"Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard",C++,https://github.com/HIllya51/LunaTranslator
+416,doctest,6152,656,6152,208,05/08/2014,01/12/2024,6.44 MB,6596,The fastest feature-rich C++11/14/17/20/23 single-header testing framework,C++,https://github.com/doctest/doctest
+417,WickedEngine,6141,645,6141,26,20/06/2015,28/03/2025,838.50 MB,858626,3D engine with modern graphics,C++,https://github.com/turanszkij/WickedEngine
+418,Piccolo,6128,1866,6128,81,20/03/2022,30/09/2024,157.36 MB,161133,Piccolo (formerly Pilot) – mini game engine for games104,C++,https://github.com/BoomingTech/Piccolo
+419,goldendict,6122,739,6122,600,08/06/2011,11/12/2024,72.07 MB,73795,"A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.",C++,https://github.com/goldendict/goldendict
+420,meshoptimizer,6120,524,6120,8,09/09/2016,27/03/2025,4.87 MB,4982,Mesh optimization library that makes meshes smaller and faster to render,C++,https://github.com/zeux/meshoptimizer
+421,FasterTransformer,6096,900,6096,289,02/04/2021,27/03/2024,67.33 MB,68951,"Transformer related optimization, including BERT, GPT",C++,https://github.com/NVIDIA/FasterTransformer
+422,firebase-ios-sdk,6095,1560,6095,410,22/04/2017,28/03/2025,81.55 MB,83504,Firebase SDK for Apple App Development,C++,https://github.com/firebase/firebase-ios-sdk
+423,baekjoon,6092,1184,6092,6,04/08/2019,27/03/2025,22.97 MB,23524,코딩테스트 대비 문제집(Baekjoon Online Judge),C++,https://github.com/tony9402/baekjoon
+424,CnC_Red_Alert,6083,1163,6083,0,22/08/2024,27/02/2025,4.53 MB,4635,Command and Conquer: Red Alert,C++,https://github.com/electronicarts/CnC_Red_Alert
+425,cppcheck,6078,1480,6078,156,04/03/2009,28/03/2025,164.30 MB,168245,static analysis of C/C++ code,C++,https://github.com/danmar/cppcheck
+426,redex,6069,668,6069,72,24/03/2016,27/03/2025,55.43 MB,56761,A bytecode optimizer for Android apps,C++,https://github.com/facebook/redex
+427,oneTBB,6039,1073,6039,189,07/09/2016,27/03/2025,52.22 MB,53475,oneAPI Threading Building Blocks (oneTBB),C++,https://github.com/uxlfoundation/oneTBB
+428,Halide,6015,1078,6015,1055,31/07/2012,22/03/2025,173.19 MB,177344,"a language for fast, portable data-parallel computation",C++,https://github.com/halide/Halide
+429,algorithms_and_data_structures,5995,1334,5995,169,06/08/2014,06/02/2024,768.00 KB,768,180+ Algorithm & Data Structure Problems using C++,C++,https://github.com/mandliya/algorithms_and_data_structures
+430,ethminer,5988,2286,5988,326,22/04/2017,01/11/2023,54.00 MB,55295,"Ethereum miner with OpenCL, CUDA and stratum support",C++,https://github.com/ethereum-mining/ethminer
+431,pikiwidb,5982,1164,5982,50,03/11/2014,27/03/2025,106.44 MB,108994,Pikiwidb is a Redis-Compatible database developed by Qihoo's infrastructure team.,C++,https://github.com/OpenAtomFoundation/pikiwidb
+432,better-sqlite3,5969,412,5969,98,07/09/2016,17/03/2025,122.44 MB,125382,The fastest and simplest library for SQLite3 in Node.js.,C++,https://github.com/WiseLibs/better-sqlite3
+433,server,5950,1777,5950,250,15/05/2014,28/03/2025,1.42 GB,1484168,"MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",C++,https://github.com/MariaDB/server
+434,swig,5931,1260,5931,499,30/12/2012,28/03/2025,72.59 MB,74332,SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.,C++,https://github.com/swig/swig
+435,LeetCode,5926,1308,5926,5,01/03/2017,17/03/2025,9.16 MB,9376,This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.,C++,https://github.com/wisdompeak/LeetCode
+436,BlackDex,5918,1261,5918,68,21/05/2021,09/11/2023,13.08 MB,13393,"BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.",C++,https://github.com/CodingGay/BlackDex
+437,doxygen,5917,1297,5917,1953,19/05/2013,25/03/2025,75.98 MB,77804,Official doxygen git repository,C++,https://github.com/doxygen/doxygen
+438,openMVG,5914,1689,5914,293,08/02/2013,20/03/2025,30.65 MB,31385,open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.,C++,https://github.com/openMVG/openMVG
+439,pixie,5908,457,5908,328,27/02/2020,28/03/2025,116.77 MB,119569,Instant Kubernetes-Native Application Observability,C++,https://github.com/pixie-io/pixie
+440,tiny-dnn,5903,1385,5903,297,17/12/2012,17/04/2022,24.96 MB,25554,"header only, dependency-free deep learning framework in C++14",C++,https://github.com/tiny-dnn/tiny-dnn
+441,HyperLPR,5875,2035,5875,105,24/09/2017,28/02/2025,373.33 MB,382295,High Performance Chinese License Plate Recognition Framework.,C++,https://github.com/szad670401/HyperLPR
+442,wesnoth,5842,1066,5842,1387,14/04/2013,27/03/2025,4.44 GB,4653352,"An open source, turn-based strategy game with a high fantasy theme.",C++,https://github.com/wesnoth/wesnoth
+443,XenonRecomp,5826,365,5826,73,07/09/2024,21/03/2025,9.18 MB,9399,A tool for recompiling Xbox 360 games to native executables.,C++,https://github.com/hedge-dev/XenonRecomp
+444,slambook2,5809,2069,5809,203,19/08/2018,27/12/2024,25.11 MB,25709,edition 2 of the slambook,C++,https://github.com/gaoxiang12/slambook2
+445,duilib,5808,1974,5808,61,27/12/2013,23/12/2024,22.44 MB,22982,,C++,https://github.com/duilib/duilib
+446,WeChatFerry,5807,1187,5807,41,20/09/2022,24/03/2025,19.98 MB,20463,微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.,C++,https://github.com/lich0821/WeChatFerry
+447,QuantLib,5805,1875,5805,50,17/12/2015,28/03/2025,78.96 MB,80857,The QuantLib C++ library,C++,https://github.com/lballabio/QuantLib
+448,supercollider,5713,768,5713,975,04/05/2012,24/03/2025,163.51 MB,167438,"An audio server, programming language, and IDE for sound synthesis and algorithmic composition.",C++,https://github.com/supercollider/supercollider
+449,cppfront,5696,258,5696,178,15/09/2021,03/03/2025,16.38 MB,16768,A personal experimental C++ Syntax 2 -> Syntax 1 compiler,C++,https://github.com/hsutter/cppfront
+450,cvxpy,5696,1087,5696,257,01/07/2013,27/03/2025,207.74 MB,212727,A Python-embedded modeling language for convex optimization problems.,C++,https://github.com/cvxpy/cvxpy
+451,openh264,5676,1817,5676,258,27/10/2013,27/03/2025,125.24 MB,128241,Open Source H.264 Codec ,C++,https://github.com/cisco/openh264
+452,LibreSprite,5607,342,5607,48,31/08/2016,27/03/2025,36.65 MB,37530,Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite,C++,https://github.com/LibreSprite/LibreSprite
+453,thorium,5580,174,5580,231,18/10/2021,13/03/2025,320.66 MB,328352,"Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.",C++,https://github.com/Alex313031/thorium
+454,openmw,5580,954,5580,1,23/08/2009,27/03/2025,97.50 MB,99836,OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/,C++,https://github.com/OpenMW/openmw
+455,tigervnc,5569,1001,5569,176,25/06/2014,28/03/2025,25.04 MB,25645,"High performance, multi-platform VNC client and server",C++,https://github.com/TigerVNC/tigervnc
+456,Detours,5542,1036,5542,95,19/10/2016,09/10/2024,496.00 KB,496,Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.,C++,https://github.com/microsoft/Detours
+457,ledger,5499,511,5499,757,12/05/2008,15/03/2025,19.37 MB,19834,Double-entry accounting system with a command-line reporting interface,C++,https://github.com/ledger/ledger
+458,1earn,5461,1242,5461,2,30/03/2019,06/06/2024,61.83 MB,63309,"ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",C++,https://github.com/ffffffff0x/1earn
+459,cpp_new_features,5458,1151,5458,12,09/07/2021,08/06/2022,3.24 MB,3315,2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等,C++,https://github.com/0voice/cpp_new_features
+460,Notepad3,5454,343,5454,126,13/11/2015,27/03/2025,200.33 MB,205137,Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:,C++,https://github.com/rizonesoft/Notepad3
+461,noise-suppression-for-voice,5453,244,5453,89,21/01/2018,18/05/2024,30.60 MB,31330,Noise suppression plugin based on Xiph's RNNoise,C++,https://github.com/werman/noise-suppression-for-voice
+462,libtorrent,5445,1023,5445,238,03/06/2015,23/03/2025,106.06 MB,108605,an efficient feature complete C++ bittorrent implementation,C++,https://github.com/arvidn/libtorrent
+463,leela-zero,5444,1013,5444,373,24/10/2017,02/05/2024,3.71 MB,3802,"Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.",C++,https://github.com/leela-zero/leela-zero
+464,pedalboard,5436,283,5436,91,06/07/2021,26/11/2024,26.09 MB,26717,🎛 🔊 A Python library for audio.,C++,https://github.com/spotify/pedalboard
+465,edge,5430,638,5430,15,20/02/2013,14/11/2024,24.77 MB,25368,"Run .NET and Node.js code in-process on Windows, MacOS, and Linux",C++,https://github.com/tjanczuk/edge
+466,input-leap,5429,242,5429,716,03/11/2021,03/03/2025,78.40 MB,80277,Open-source KVM software,C++,https://github.com/input-leap/input-leap
+467,sherpa-onnx,5411,611,5411,293,01/09/2022,27/03/2025,8.87 MB,9079,"Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages",C++,https://github.com/k2-fsa/sherpa-onnx
+468,instant-meshes,5398,614,5398,84,14/09/2015,03/01/2022,2.96 MB,3026,Interactive field-aligned mesh generator,C++,https://github.com/wjakob/instant-meshes
+469,Cinder,5398,960,5398,390,21/04/2010,06/02/2025,417.24 MB,427252,"Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.",C++,https://github.com/cinder/Cinder
+470,Cplusplus-Concurrency-In-Practice,5388,1499,5388,20,31/08/2013,29/12/2022,1.37 MB,1398,A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》,C++,https://github.com/forhappy/Cplusplus-Concurrency-In-Practice
+471,yaml-cpp,5376,1923,5376,341,30/03/2015,13/03/2025,4.53 MB,4643,A YAML parser and emitter in C++,C++,https://github.com/jbeder/yaml-cpp
+472,gnuradio,5376,1955,5376,535,21/12/2011,26/03/2025,69.00 MB,70655,GNU Radio – the Free and Open Software Radio Ecosystem,C++,https://github.com/gnuradio/gnuradio
+473,Bear,5362,327,5362,49,30/10/2012,26/03/2025,2.17 MB,2218,Bear is a tool that generates a compilation database for clang tooling.,C++,https://github.com/rizsotto/Bear
+474,LANDrop,5355,439,5355,174,12/01/2021,14/08/2024,676.00 KB,676,Drop any files to any devices on your LAN.,C++,https://github.com/LANDrop/LANDrop
+475,flashlight,5352,503,5352,122,11/12/2018,28/03/2025,15.95 MB,16335,A C++ standalone library for machine learning,C++,https://github.com/flashlight/flashlight
+476,CodingInterviewChinese2,5349,2165,5349,70,21/11/2016,13/06/2023,773.00 KB,773,《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码,C++,https://github.com/zhedahht/CodingInterviewChinese2
+477,Z0FCourse_ReverseEngineering,5340,523,5340,2,03/06/2019,01/08/2024,24.80 MB,25399,Reverse engineering focusing on x64 Windows.,C++,https://github.com/0xZ0F/Z0FCourse_ReverseEngineering
+478,redot-engine,5335,241,5335,90,13/10/2017,09/03/2025,1.43 GB,1504202,Redot Engine – Multi-platform 2D and 3D game engine,C++,https://github.com/Redot-Engine/redot-engine
+479,DALI,5334,630,5334,250,01/06/2018,25/03/2025,403.47 MB,413150,A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.,C++,https://github.com/NVIDIA/DALI
+480,Serial-Studio,5332,832,5332,45,18/10/2020,04/03/2025,129.71 MB,132824,Data visualization software for embedded devices and projects,C++,https://github.com/Serial-Studio/Serial-Studio
+481,algorithms,5321,1522,5321,104,09/04/2013,01/08/2024,2.21 MB,2268,Algorithms & Data structures in C++.,C++,https://github.com/xtaci/algorithms
+482,noMeiryoUI,5318,173,5318,37,25/12/2016,25/03/2025,1.39 MB,1420,No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.,C++,https://github.com/Tatsu-syo/noMeiryoUI
+483,mlpack,5308,1654,5308,19,17/12/2014,17/03/2025,267.36 MB,273776,"mlpack: a fast, header-only C++ machine learning library",C++,https://github.com/mlpack/mlpack
+484,mesos,5301,1676,5301,12,17/07/2013,23/08/2024,412.06 MB,421954,Apache Mesos,C++,https://github.com/apache/mesos
+485,MusicPlayer2,5296,416,5296,493,09/08/2017,18/03/2025,48.41 MB,49573,这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。,C++,https://github.com/zhongyang219/MusicPlayer2
+486,cgal,5291,1445,5291,632,01/10/2014,24/03/2025,677.21 MB,693459,"The public CGAL repository, see the README below",C++,https://github.com/CGAL/cgal
+487,magic_enum,5276,468,5276,22,30/03/2019,01/03/2025,716.00 KB,716,"Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",C++,https://github.com/Neargye/magic_enum
+488,tinyxml2,5260,1864,5260,114,25/02/2012,15/03/2025,3.49 MB,3575,"TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.",C++,https://github.com/leethomason/tinyxml2
+489,VINS-Mono,5245,2129,5245,286,20/05/2017,14/08/2024,94.41 MB,96678,A Robust and Versatile Monocular Visual-Inertial State Estimator,C++,https://github.com/HKUST-Aerial-Robotics/VINS-Mono
+490,pywin32,5225,817,5225,391,24/10/2017,23/03/2025,49.27 MB,50448,Python for Windows (pywin32) Extensions,C++,https://github.com/mhammond/pywin32
+491,mixxx,5219,1366,5219,2428,17/05/2013,28/03/2025,558.90 MB,572318,Mixxx is Free DJ software that gives you everything you need to perform live mixes.,C++,https://github.com/mixxxdj/mixxx
+492,libpag,5215,468,5215,177,22/09/2020,26/03/2025,195.37 MB,200060,The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.,C++,https://github.com/Tencent/libpag
+493,asio,5201,1265,5201,984,15/02/2011,04/03/2025,27.86 MB,28532,Asio C++ Library,C++,https://github.com/chriskohlhoff/asio
+494,gdal,5195,2635,5195,525,09/10/2012,28/03/2025,399.28 MB,408862,GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.,C++,https://github.com/OSGeo/gdal
+495,fswatch,5192,333,5192,69,25/06/2009,15/02/2025,15.04 MB,15396,"A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.",C++,https://github.com/emcrisostomo/fswatch
+496,implot,5187,569,5187,139,21/04/2020,19/03/2025,1.57 MB,1607,Immediate Mode Plotting,C++,https://github.com/epezent/implot
+497,tinyraytracer,5143,337,5143,16,20/01/2019,07/07/2023,155.13 MB,158857,A brief computer graphics / rendering course,C++,https://github.com/ssloy/tinyraytracer
+498,clip,5142,384,5142,7,16/09/2011,11/06/2020,36.38 MB,37257,Create charts from the command line,C++,https://github.com/asmuth/clip
+499,cuberite,5132,647,5132,573,26/07/2013,17/01/2025,91.54 MB,93733,"A lightweight, fast and extensible game server for Minecraft",C++,https://github.com/cuberite/cuberite
+500,alien,5117,163,5117,30,19/10/2020,28/03/2025,471.46 MB,482774,ALIEN is a CUDA-powered artificial life simulation program.,C++,https://github.com/chrxh/alien
+501,IncludeOS,5111,378,5111,86,07/07/2014,22/11/2024,51.55 MB,52785,"A minimal, resource efficient unikernel for cloud services",C++,https://github.com/includeos/IncludeOS
+502,libcimbar,5106,355,5106,28,09/04/2020,16/03/2025,11.36 MB,11635,Optimized implementation for color-icon-matrix barcodes,C++,https://github.com/sz3/libcimbar
+503,Clipboard,5088,155,5088,15,20/11/2022,22/02/2025,69.81 MB,71487,"😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager",C++,https://github.com/Slackadays/Clipboard
+504,cpp-cheat-sheet,5080,1466,5080,3,05/02/2016,05/08/2023,9.69 MB,9925,"C++ Syntax, Data Structures, and Algorithms Cheat Sheet",C++,https://github.com/gibsjose/cpp-cheat-sheet
+505,weasel,5068,578,5068,170,20/03/2012,26/03/2025,18.09 MB,18528,【小狼毫】Rime for Windows,C++,https://github.com/rime/weasel
+506,DOOM-3-BFG,5065,1378,5065,2,26/11/2012,21/08/2024,11.99 MB,12273,Doom 3 BFG Edition,C++,https://github.com/id-Software/DOOM-3-BFG
+507,arcore-android-sdk,5059,1237,5059,398,21/08/2017,27/02/2025,45.73 MB,46826,ARCore SDK for Android Studio,C++,https://github.com/google-ar/arcore-android-sdk
+508,cryptopp,5055,1537,5055,59,03/06/2015,01/08/2024,27.77 MB,28432,free C++ class library of cryptographic schemes,C++,https://github.com/weidai11/cryptopp
+509,meshlab,5054,835,5054,199,07/11/2016,20/03/2025,292.71 MB,299734,The open source mesh processing system,C++,https://github.com/cnr-isti-vclab/meshlab
+510,The-Forge,5028,529,5028,9,03/10/2017,21/03/2025,2.36 GB,2476990,"The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2",C++,https://github.com/ConfettiFX/The-Forge
+511,passenger,5026,548,5026,233,27/03/2008,27/03/2025,54.64 MB,55956,"A fast and robust web server and application server for Ruby, Python and Node.js",C++,https://github.com/phusion/passenger
+512,blitzar,5022,153,5022,3,12/06/2023,28/03/2025,4.64 MB,4748,Zero-knowledge proof acceleration with GPUs for C++ and Rust,C++,https://github.com/spaceandtimelabs/blitzar
+513,react-native-fs,5010,998,5010,622,08/05/2015,18/03/2024,4.01 MB,4105,Native filesystem access for react-native,C++,https://github.com/itinance/react-native-fs
+514,lepton,5009,352,5009,27,13/07/2016,04/03/2024,53.15 MB,54427,Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.,C++,https://github.com/dropbox/lepton
+515,mace,5007,822,5007,62,27/06/2018,17/06/2024,31.07 MB,31811,MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.,C++,https://github.com/XiaoMi/mace
+516,zcash,5000,2080,5000,1091,22/11/2014,07/01/2025,111.29 MB,113957,Zcash - Internet Money,C++,https://github.com/zcash/zcash
+517,Blackbone,4998,1369,4998,110,25/12/2013,26/01/2024,8.08 MB,8269,Windows memory hacking library,C++,https://github.com/DarthTon/Blackbone
+518,R3nzSkin,4998,790,4998,57,24/09/2021,18/08/2024,632.00 KB,632,Skin changer for League of Legends (LOL),C++,https://github.com/R3nzTheCodeGOD/R3nzSkin
+519,opencv4nodejs,4994,831,4994,300,20/08/2017,18/04/2023,35.91 MB,36776,Nodejs bindings to OpenCV 3 and OpenCV 4,C++,https://github.com/justadudewhohacks/opencv4nodejs
+520,Riru,4981,578,4981,1,20/08/2018,24/12/2023,1.28 MB,1315,Inject into zygote process,C++,https://github.com/RikkaApps/Riru
+521,pbrt-v3,4975,1205,4975,57,15/06/2015,03/09/2023,5.59 MB,5729,"Source code for pbrt, the renderer described in the third edition of ""Physically Based Rendering: From Theory To Implementation"", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.",C++,https://github.com/mmp/pbrt-v3
+522,CSPostgraduate-408,4969,714,4969,0,30/07/2020,07/01/2023,1.49 GB,1564497,💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源,C++,https://github.com/CodePanda66/CSPostgraduate-408
+523,bloaty,4963,352,4963,97,07/11/2016,01/10/2024,4.54 MB,4653,Bloaty: a size profiler for binaries,C++,https://github.com/google/bloaty
+524,thrust,4957,756,4957,8,06/03/2012,08/02/2024,17.39 MB,17809,[ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl,C++,https://github.com/NVIDIA/thrust
+525,SimpleNES,4931,1118,4931,5,01/06/2016,05/01/2025,223.00 KB,223,An NES emulator in C++,C++,https://github.com/amhndu/SimpleNES
+526,QOwnNotes,4928,428,4928,154,02/12/2014,28/03/2025,697.28 MB,714016,QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.,C++,https://github.com/pbek/QOwnNotes
+527,hyperscan,4926,732,4926,187,21/09/2015,03/05/2024,6.79 MB,6958,High-performance regular expression matching library,C++,https://github.com/intel/hyperscan
+528,magnum,4922,448,4922,77,19/12/2010,27/03/2025,63.13 MB,64641,Lightweight and modular C++11 graphics middleware for games and data visualization,C++,https://github.com/mosra/magnum
+529,glslViewer,4894,357,4894,62,25/11/2014,01/01/2025,206.81 MB,211776,Console-based GLSL Sandbox for 2D/3D shaders,C++,https://github.com/patriciogonzalezvivo/glslViewer
+530,wondertrader,4893,949,4893,18,30/03/2020,20/02/2025,288.20 MB,295117,WonderTrader——量化研发交易一站式框架,C++,https://github.com/wondertrader/wondertrader
+531,SPTAG,4884,584,4884,134,12/09/2018,17/02/2025,25.22 MB,25825,"A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",C++,https://github.com/microsoft/SPTAG
+532,GASDocumentation,4882,873,4882,36,10/08/2019,06/04/2024,121.23 MB,124135,My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.,C++,https://github.com/tranek/GASDocumentation
+533,Natron,4867,348,4867,257,10/01/2018,23/03/2025,149.66 MB,153252,Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.,C++,https://github.com/NatronGitHub/Natron
+534,vcmi,4866,516,4866,665,06/04/2014,27/03/2025,79.17 MB,81073,Open-source engine for Heroes of Might and Magic III,C++,https://github.com/vcmi/vcmi
+535,CodingInterviews,4852,1128,4852,10,08/04/2016,20/02/2021,975.00 KB,975,剑指Offer——名企面试官精讲典型编程题,C++,https://github.com/gatieme/CodingInterviews
+536,LeetCode-Solutions,4847,1595,4847,41,11/10/2018,25/03/2025,25.22 MB,25830,🏋️ Python / Modern C++ Solutions of All 3496 LeetCode Problems (Weekly Update),C++,https://github.com/kamyu104/LeetCode-Solutions
+537,UDPspeeder,4828,838,4828,171,08/08/2017,16/06/2024,6.16 MB,6310,"A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)",C++,https://github.com/wangyu-/UDPspeeder
+538,LibreCAD,4823,1057,4823,510,10/04/2011,28/03/2025,110.91 MB,113573,"LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.",C++,https://github.com/LibreCAD/LibreCAD
+539,rippled,4821,1507,4821,420,07/11/2011,27/03/2025,1.29 GB,1355054,Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++,C++,https://github.com/XRPLF/rippled
+540,qTox,4814,1077,4814,610,24/06/2014,16/02/2025,46.82 MB,47942,"qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.",C++,https://github.com/qTox/qTox
+541,liquidfun,4802,644,4802,67,26/11/2013,26/04/2023,23.24 MB,23797,2D physics engine for games,C++,https://github.com/google/liquidfun
+542,MegEngine,4786,545,4786,170,18/03/2020,24/10/2024,30.75 MB,31488,MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架,C++,https://github.com/MegEngine/MegEngine
+543,duix.ai,4786,718,4786,40,16/05/2024,18/03/2025,335.47 MB,343519,,C++,https://github.com/GuijiAI/duix.ai
+544,taskwarrior,4771,333,4771,414,03/02/2018,24/03/2025,36.75 MB,37637,Taskwarrior - Command line Task Management,C++,https://github.com/GothenburgBitFactory/taskwarrior
+545,OpenMower,4769,293,4769,22,26/01/2022,03/03/2025,83.62 MB,85628,"Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",C++,https://github.com/ClemensElflein/OpenMower
+546,anyRTC-RTMP-OpenSource,4763,1620,4763,74,26/08/2016,12/06/2024,168.39 MB,172428,"RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码",C++,https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource
+547,The-Powder-Toy,4751,796,4751,41,25/07/2010,27/03/2025,38.98 MB,39918,"Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.",C++,https://github.com/The-Powder-Toy/The-Powder-Toy
+548,valhalla,4746,717,4746,816,19/01/2016,26/03/2025,117.22 MB,120034,Open Source Routing Engine for OpenStreetMap,C++,https://github.com/valhalla/valhalla
+549,defold,4743,342,4743,1115,13/05/2012,28/03/2025,2.05 GB,2146800,"Defold is a completely free to use game engine for development of desktop, mobile and web games.",C++,https://github.com/defold/defold
+550,nanogui,4740,617,4740,115,01/02/2015,28/04/2023,4.69 MB,4801,Minimalistic GUI library for OpenGL,C++,https://github.com/wjakob/nanogui
+551,nghttp2,4735,893,4735,259,16/07/2013,23/03/2025,37.37 MB,38271,nghttp2 - HTTP/2 C Library and tools,C++,https://github.com/nghttp2/nghttp2
+552,AliSQL,4721,840,4721,49,27/07/2016,02/04/2024,407.24 MB,417016,AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.,C++,https://github.com/alibaba/AliSQL
+553,LIEF,4720,644,4720,57,16/03/2017,15/03/2025,88.33 MB,90447,"LIEF - Library to Instrument Executable Formats (C++, Python, Rust)",C++,https://github.com/lief-project/LIEF
+554,libigl,4709,1153,4709,138,21/02/2014,18/03/2025,12.92 MB,13233,Simple MPL-2.0-licensed C++ geometry processing library.,C++,https://github.com/libigl/libigl
+555,panda3d,4708,814,4708,343,30/09/2013,27/02/2025,163.34 MB,167260,"Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU",C++,https://github.com/panda3d/panda3d
+556,opentoonz,4707,540,4707,707,18/03/2016,26/03/2025,118.90 MB,121758,OpenToonz - An open-source full-featured 2D animation creation software,C++,https://github.com/opentoonz/opentoonz
+557,PlotJuggler,4698,656,4698,173,01/03/2016,03/03/2025,56.04 MB,57389,The Time Series Visualization Tool that you deserve.,C++,https://github.com/facontidavide/PlotJuggler
+558,NanoKVM,4680,131,4680,210,03/07/2024,28/03/2025,6.69 MB,6849,"Affordable, Multifunctional, Nano RISC-V IP-KVM",C++,https://github.com/sipeed/NanoKVM
+559,Shell,4679,158,4679,165,29/08/2021,23/03/2025,4.57 MB,4680,Powerful context menu manager for Windows File Explorer,C++,https://github.com/moudey/Shell
+560,Arduino-IRremote,4671,1781,4671,0,23/01/2010,23/03/2025,10.16 MB,10405,Infrared remote library for Arduino: send and receive infrared signals with multiple protocols,C++,https://github.com/Arduino-IRremote/Arduino-IRremote
+561,stk-code,4666,1082,4666,481,15/01/2014,28/03/2025,364.71 MB,373458,The code base of supertuxkart,C++,https://github.com/supertuxkart/stk-code
+562,arrayfire,4659,540,4659,298,28/10/2014,27/03/2025,18.90 MB,19354,ArrayFire: a general purpose GPU library.,C++,https://github.com/arrayfire/arrayfire
+563,CyberEngineTweaks,4657,291,4657,32,12/12/2020,05/03/2025,98.38 MB,100745,"Cyberpunk 2077 tweaks, hacks and scripting framework",C++,https://github.com/maximegmd/CyberEngineTweaks
+564,kalibr,4640,1432,4640,111,29/05/2014,30/03/2024,3.49 MB,3575,The Kalibr visual-inertial calibration toolbox,C++,https://github.com/ethz-asl/kalibr
+565,dlssg-to-fsr3,4638,176,4638,369,15/12/2023,16/03/2025,184.86 MB,189294,Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).,C++,https://github.com/Nukem9/dlssg-to-fsr3
+566,SeetaFaceEngine,4623,1772,4623,123,13/09/2016,04/04/2020,113.52 MB,116242,,C++,https://github.com/seetaface/SeetaFaceEngine
+567,mergerfs,4614,187,4614,50,24/03/2014,28/03/2025,25.60 MB,26219,a featureful union filesystem,C++,https://github.com/trapexit/mergerfs
+568,tcmalloc,4612,500,4612,55,23/08/2019,27/03/2025,7.26 MB,7430,,C++,https://github.com/google/tcmalloc
+569,hnswlib,4609,692,4609,254,06/07/2017,11/08/2024,566.00 KB,566,Header-only C++/python library for fast approximate nearest neighbors,C++,https://github.com/nmslib/hnswlib
+570,Vulkan-Samples,4596,691,4596,64,29/10/2019,25/03/2025,65.89 MB,67473,One stop solution for all Vulkan samples,C++,https://github.com/KhronosGroup/Vulkan-Samples
+571,omim,4592,1142,4592,1004,20/09/2015,05/10/2022,4.91 GB,5148685,🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android,C++,https://github.com/mapsme/omim
+572,plaidml,4586,397,4586,265,15/08/2017,23/07/2023,154.94 MB,158660,PlaidML is a framework for making deep learning work everywhere.,C++,https://github.com/plaidml/plaidml
+573,gameplay,4585,1314,4585,6,13/10/2011,25/02/2025,207.50 MB,212480,"Open-source, cross-platform, C++ game engine for creating 2D/3D games.",C++,https://github.com/gameplay3d/gameplay
+574,spine-runtimes,4584,2951,4584,111,19/02/2013,27/03/2025,474.57 MB,485958,2D skeletal animation runtimes for Spine.,C++,https://github.com/EsotericSoftware/spine-runtimes
+575,urho3d,4584,998,4584,72,02/10/2013,25/01/2023,167.64 MB,171666,Game engine,C++,https://github.com/urho3d/urho3d
+576,doom3.gpl,4571,1720,4571,3,22/11/2011,17/05/2022,8.96 MB,9178,Doom 3 GPL source release,C++,https://github.com/TTimo/doom3.gpl
+577,handy,4569,1330,4569,22,02/08/2014,19/08/2023,363.00 KB,363,🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework,C++,https://github.com/yedf2/handy
+578,cuml,4569,564,4569,972,11/10/2018,26/03/2025,156.04 MB,159783,cuML - RAPIDS Machine Learning Library,C++,https://github.com/rapidsai/cuml
+579,matplotlib-cpp,4561,1166,4561,225,08/10/2014,21/11/2023,861.00 KB,861,Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib,C++,https://github.com/lava/matplotlib-cpp
+580,SDRPlusPlus,4542,612,4542,91,10/06/2020,12/03/2025,22.83 MB,23376,Cross-Platform SDR Software,C++,https://github.com/AlexandreRouma/SDRPlusPlus
+581,keepassx,4521,617,4521,75,16/03/2013,13/08/2024,4.30 MB,4407,KeePassX is a cross platform port of the windows application “Keepass Password Safe”.,C++,https://github.com/keepassx/keepassx
+582,highway,4492,336,4492,55,06/09/2019,26/03/2025,28.57 MB,29257,"Performance-portable, length-agnostic SIMD with runtime dispatch",C++,https://github.com/google/highway
+583,beast,4491,650,4491,104,16/06/2013,26/03/2025,14.14 MB,14484,HTTP and WebSocket built on Boost.Asio in C++11,C++,https://github.com/boostorg/beast
+584,harfbuzz,4487,652,4487,82,14/07/2012,28/03/2025,102.93 MB,105405,HarfBuzz text shaping engine,C++,https://github.com/harfbuzz/harfbuzz
+585,SHADERed,4486,287,4486,110,22/09/2018,22/09/2023,247.94 MB,253892,"Lightweight, cross-platform & full-featured shader IDE",C++,https://github.com/dfranx/SHADERed
+586,TNN,4481,769,4481,312,29/05/2020,25/03/2025,57.77 MB,59155,"TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework. ",C++,https://github.com/Tencent/TNN
+587,matplotplusplus,4480,347,4480,68,29/08/2020,17/02/2025,39.08 MB,40020,Matplot++: A C++ Graphics Library for Data Visualization 📊🗾,C++,https://github.com/alandefreitas/matplotplusplus
+588,ghostwriter,4475,318,4475,22,22/08/2015,28/03/2025,32.54 MB,33316,Text editor for Markdown,C++,https://github.com/KDE/ghostwriter
+589,firmware,4472,1138,4472,150,01/02/2020,28/03/2025,107.55 MB,110131,"This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.",C++,https://github.com/meshtastic/firmware
+590,SuperWeChatPC,4470,1043,4470,55,14/05/2017,27/02/2020,4.60 MB,4707,超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK,C++,https://github.com/anhkgg/SuperWeChatPC
+591,open_spiel,4455,975,4455,36,22/07/2019,28/03/2025,29.99 MB,30714,OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.,C++,https://github.com/google-deepmind/open_spiel
+592,Tengine,4453,971,4453,244,30/12/2017,06/03/2025,18.29 MB,18730,"Tengine is a lite, high performance, modular inference engine for embedded device ",C++,https://github.com/OAID/Tengine
+593,mindspore,4443,728,4443,189,11/02/2020,29/07/2024,849.22 MB,869597,"MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.",C++,https://github.com/mindspore-ai/mindspore
+594,reshade,4443,574,4443,6,15/06/2016,27/03/2025,23.64 MB,24211,A generic post-processing injector for games and video software.,C++,https://github.com/crosire/reshade
+595,sol2,4432,545,4432,258,07/01/2016,07/03/2025,25.54 MB,26148,"Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:",C++,https://github.com/ThePhD/sol2
+596,Launcher,4424,893,4424,305,08/09/2013,08/02/2025,15.40 MB,15772,A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once,C++,https://github.com/MultiMC/Launcher
+597,Librum,4418,143,4418,39,02/02/2022,29/07/2024,29.32 MB,30025,The Librum client application,C++,https://github.com/Librum-Reader/Librum
+598,ServerStatus,4404,936,4404,20,26/06/2018,18/12/2024,1.78 MB,1819,云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/,C++,https://github.com/cppla/ServerStatus
+599,auto-unlocker,4404,536,4404,86,15/10/2019,21/08/2024,676.00 KB,676,Unlocker for VMWare macOS,C++,https://github.com/paolo-projects/auto-unlocker
+600,amazon-dsstne,4402,728,4402,45,24/03/2016,02/03/2020,31.60 MB,32355,Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models ,C++,https://github.com/amazon-archives/amazon-dsstne
+601,mapbox-gl-native,4392,1323,4392,312,27/01/2014,27/07/2023,363.48 MB,372203,"Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL",C++,https://github.com/mapbox/mapbox-gl-native
+602,cxxopts,4382,599,4382,90,03/10/2014,20/03/2025,992.00 KB,992,Lightweight C++ command line option parser,C++,https://github.com/jarro2783/cxxopts
+603,node-opencv,4381,855,4381,127,14/01/2012,09/07/2024,10.06 MB,10305,OpenCV Bindings for node.js,C++,https://github.com/peterbraden/node-opencv
+604,musikcube,4376,300,4376,150,18/03/2015,14/07/2024,71.37 MB,73078,"a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++",C++,https://github.com/clangen/musikcube
+605,incubator-pagespeed-ngx,4361,361,4361,354,23/06/2012,21/04/2023,78.87 MB,80764,Automatic PageSpeed optimization module for Nginx,C++,https://github.com/apache/incubator-pagespeed-ngx
+606,rtorrent,4359,426,4359,454,03/10/2011,28/03/2025,4.70 MB,4808,rTorrent BitTorrent client,C++,https://github.com/rakshasa/rtorrent
+607,cereal,4359,786,4359,329,25/06/2013,20/01/2025,18.04 MB,18472,A C++11 library for serialization,C++,https://github.com/USCiLab/cereal
+608,sylar,4357,1001,4357,24,18/05/2019,08/12/2023,1.03 MB,1053,"C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)",C++,https://github.com/sylar-yin/sylar
+609,luau,4345,415,4345,228,14/09/2018,25/03/2025,16.63 MB,17033,"A fast, small, safe, gradually typed embeddable scripting language derived from Lua",C++,https://github.com/luau-lang/luau
+610,design-patterns-cpp,4345,959,4345,4,04/09/2016,12/05/2024,67.00 KB,67,C++ Design Patterns,C++,https://github.com/JakubVojvoda/design-patterns-cpp
+611,libsass,4342,467,4342,156,31/01/2012,27/01/2024,12.35 MB,12648,A C/C++ implementation of a Sass compiler,C++,https://github.com/sass/libsass
+612,blinker-library,4337,237,4337,5,22/03/2018,25/03/2025,4.68 MB,4791,"An IoT Solution,Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32.",C++,https://github.com/blinker-iot/blinker-library
+613,FluidX3D,4326,374,4326,25,04/08/2022,26/03/2025,21.55 MB,22065,"The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.",C++,https://github.com/ProjectPhysX/FluidX3D
+614,bustub,4321,1862,4321,49,10/09/2019,10/03/2025,9.59 MB,9819,The BusTub Relational Database Management System (Educational),C++,https://github.com/cmu-db/bustub
+615,hotspot,4317,260,4317,61,20/12/2016,22/03/2025,9.17 MB,9387,The Linux perf GUI for performance analysis.,C++,https://github.com/KDAB/hotspot
+616,Waterfox,4288,358,4288,676,13/10/2014,25/03/2025,5.20 GB,5451622,The official Waterfox 💧 source code repository,C++,https://github.com/BrowserWorks/Waterfox
+617,ammo.js,4287,568,4287,176,28/05/2011,16/01/2024,43.67 MB,44719,Direct port of the Bullet physics engine to JavaScript using Emscripten,C++,https://github.com/kripken/ammo.js
+618,orbit,4271,354,4271,0,21/09/2017,31/01/2025,153.06 MB,156729,C/C++ Performance Profiler,C++,https://github.com/google/orbit
+619,include-what-you-use,4262,388,4262,259,15/06/2015,23/03/2025,4.90 MB,5013,A tool for use with clang to analyze #includes in C and C++ source files,C++,https://github.com/include-what-you-use/include-what-you-use
+620,flutter-webrtc,4247,1183,4247,609,07/03/2018,24/03/2025,481.15 MB,492695,WebRTC plugin for Flutter Mobile/Desktop/Web,C++,https://github.com/flutter-webrtc/flutter-webrtc
+621,Vita3K,4247,427,4247,352,26/01/2018,03/03/2025,77.09 MB,78945,Experimental PlayStation Vita emulator,C++,https://github.com/Vita3K/Vita3K
+622,cppinsights,4236,250,4236,20,29/04/2018,19/03/2025,3.02 MB,3095,C++ Insights - See your source code with the eyes of a compiler,C++,https://github.com/andreasfertig/cppinsights
+623,BespokeSynth,4223,249,4223,325,14/08/2016,21/03/2025,53.45 MB,54731,Software modular synth,C++,https://github.com/BespokeSynth/BespokeSynth
+624,fritzing-app,4219,860,4219,510,25/08/2014,11/10/2024,160.47 MB,164326,Fritzing desktop application,C++,https://github.com/fritzing/fritzing-app
+625,range-v3,4214,453,4214,284,11/11/2013,23/03/2025,33.61 MB,34412,"Range library for C++14/17/20, basis for C++20's std::ranges",C++,https://github.com/ericniebler/range-v3
+626,LxRunOffline,4205,250,4205,23,08/01/2017,02/02/2022,1017.00 KB,1017,A full-featured utility for managing Windows Subsystem for Linux (WSL),C++,https://github.com/DDoSolitary/LxRunOffline
+627,Dobby,4196,888,4196,84,03/08/2017,26/01/2025,3.40 MB,3486,"a lightweight, multi-platform, multi-architecture hook framework.",C++,https://github.com/jmpews/Dobby
+628,pugixml,4192,748,4192,23,06/07/2012,03/03/2025,7.13 MB,7299,"Light-weight, simple and fast XML parser for C++ with XPath support",C++,https://github.com/zeux/pugixml
+629,msdfgen,4187,438,4187,2,24/04/2016,09/03/2025,2.47 MB,2531,Multi-channel signed distance field generator,C++,https://github.com/Chlumsky/msdfgen
+630,ydb,4175,621,4175,2294,07/02/2022,28/03/2025,1.11 GB,1159783,YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions,C++,https://github.com/ydb-platform/ydb
+631,ogre,4169,992,4169,140,29/11/2015,22/03/2025,433.92 MB,444334,"scene-oriented, flexible 3D engine (C++, Python, C#, Java)",C++,https://github.com/OGRECave/ogre
+632,Rack,4143,447,4143,307,14/11/2016,27/03/2025,19.25 MB,19716,The virtual Eurorack studio,C++,https://github.com/VCVRack/Rack
+633,ardour,4140,708,4140,25,13/03/2013,28/03/2025,285.94 MB,292798,Mirror of Ardour Source Code,C++,https://github.com/Ardour/ardour
+634,asmjit,4095,521,4095,15,28/01/2014,18/03/2025,8.77 MB,8985,Low-latency machine code generation,C++,https://github.com/asmjit/asmjit
+635,clink,4087,156,4087,3,12/09/2020,27/03/2025,59.68 MB,61117,Bash's powerful command line editing in cmd.exe,C++,https://github.com/chrisant996/clink
+636,braft,4080,896,4080,184,07/02/2018,25/10/2024,4.64 MB,4751,"An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.",C++,https://github.com/baidu/braft
+637,xmr-stak,4076,1783,4076,549,03/10/2017,20/06/2024,5.28 MB,5411,Free Monero RandomX Miner and unified CryptoNight miner,C++,https://github.com/fireice-uk/xmr-stak
+638,coost,4073,568,4073,43,10/11/2019,04/09/2024,3.19 MB,3263,A tiny boost library in C++11.,C++,https://github.com/idealvin/coost
+639,caesium-image-compressor,4073,234,4073,42,04/01/2016,24/03/2025,2.80 MB,2869,"Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.",C++,https://github.com/Lymphatus/caesium-image-compressor
+640,QtAV,4071,1516,4071,526,29/10/2012,09/05/2023,14.68 MB,15029,A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk,C++,https://github.com/wang-bin/QtAV
+641,NoahGameFrame,4054,1104,4054,25,16/05/2014,25/02/2023,29.46 MB,30166,"A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.",C++,https://github.com/ketoo/NoahGameFrame
+642,Bilibili-plus,4050,1037,4050,1,17/02/2021,08/05/2024,261.95 MB,268233,课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB,C++,https://github.com/ZachL1/Bilibili-plus
+643,ceres-solver,4029,1061,4029,78,06/01/2014,19/02/2025,32.14 MB,32916,A large scale non-linear optimization library,C++,https://github.com/ceres-solver/ceres-solver
+644,onnx-simplifier,4022,394,4022,168,01/04/2019,03/09/2024,430.00 KB,430,Simplify your onnx model,C++,https://github.com/daquexian/onnx-simplifier
+645,obs-websocket,4022,717,4022,121,09/10/2016,21/03/2025,3.79 MB,3883,Remote-control of OBS Studio through WebSocket,C++,https://github.com/obsproject/obs-websocket
+646,readerwriterqueue,4019,683,4019,19,07/02/2013,09/07/2024,227.00 KB,227,"A fast single-producer, single-consumer lock-free queue for C++",C++,https://github.com/cameron314/readerwriterqueue
+647,opentrack,4010,478,4010,480,29/04/2013,23/03/2025,243.37 MB,249212,"Head tracking software for MS Windows, Linux, and Apple OSX",C++,https://github.com/opentrack/opentrack
+648,StreamFX-Public,4007,3182,4007,0,28/06/2017,13/12/2024,17.37 MB,17786,"StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.",C++,https://github.com/Vhonowslend/StreamFX-Public
+649,i2cdevlib,4005,7495,4005,265,26/07/2011,16/12/2024,2.09 MB,2142,I2C device library collection for AVR/Arduino or other C++-based MCUs,C++,https://github.com/jrowberg/i2cdevlib
+650,lite.ai.toolkit,3994,737,3994,1,22/03/2021,25/03/2025,458.46 MB,469468,"🛠 A lite C++ AI toolkit: contains 100+ Awesome AI models, support MNN, NCNN, TNN, ONNXRuntime and TensorRT. 🎉🎉",C++,https://github.com/xlite-dev/lite.ai.toolkit
+651,aleth,3973,2170,3973,340,26/12/2013,05/03/2024,56.70 MB,58058,"Aleth – Ethereum C++ client, tools and libraries",C++,https://github.com/ethereum/aleth
+652,nlp_paper_study,3969,656,3969,1,18/05/2019,18/08/2023,877.88 MB,898947,该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记,C++,https://github.com/km1994/nlp_paper_study
+653,cplusplus-_Implementation_Of_Introduction_to_Algorithms,3967,1045,3967,7,26/03/2016,14/03/2024,3.07 MB,3139,《算法导论》第三版中算法的C++实现,C++,https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms
+654,WindowsAppSDK,3957,346,3957,485,15/04/2020,28/03/2025,175.64 MB,179857,"The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",C++,https://github.com/microsoft/WindowsAppSDK
+655,notes,3956,349,3956,126,25/12/2015,21/02/2025,14.91 MB,15263,Fast and beautiful note-taking app written in C++. Write down your thoughts.,C++,https://github.com/nuttyartist/notes
+656,KasmVNC,3952,339,3952,95,13/09/2020,24/03/2025,4.76 MB,4879,"Modern VNC Server and client, web based and secure",C++,https://github.com/kasmtech/KasmVNC
+657,stable-diffusion.cpp,3951,359,3951,268,13/08/2023,09/03/2025,21.76 MB,22286,Stable Diffusion and Flux in pure C/C++,C++,https://github.com/leejet/stable-diffusion.cpp
+658,StarSpace,3950,528,3950,56,28/06/2017,04/12/2022,3.04 MB,3115,"Learning embeddings for classification, retrieval and ranking.",C++,https://github.com/facebookresearch/StarSpace
+659,hip,3947,551,3947,58,07/01/2016,27/03/2025,21.96 MB,22484,HIP: C++ Heterogeneous-Compute Interface for Portability,C++,https://github.com/ROCm/hip
+660,tiny-cuda-nn,3942,486,3942,239,16/04/2021,27/01/2025,19.52 MB,19991,Lightning fast C++/CUDA neural network framework,C++,https://github.com/NVlabs/tiny-cuda-nn
+661,course,3941,551,3941,21,10/12/2021,18/10/2024,439.94 MB,450497,高性能并行编程与优化 - 课件,C++,https://github.com/parallel101/course
+662,ExpressLRS,3939,1048,3939,53,01/10/2018,28/03/2025,317.80 MB,325425,ESP32/ESP8285-based High-Performance Radio Link for RC applications,C++,https://github.com/ExpressLRS/ExpressLRS
+663,olcPixelGameEngine,3932,914,3932,134,02/09/2018,04/03/2025,9.79 MB,10023,"The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",C++,https://github.com/OneLoneCoder/olcPixelGameEngine
+664,ESPAsyncWebServer,3927,1258,3927,287,19/12/2015,20/01/2025,5.32 MB,5444,Async Web Server for ESP8266 and ESP32,C++,https://github.com/me-no-dev/ESPAsyncWebServer
+665,scribe,3922,791,3922,51,02/04/2009,27/08/2020,2.21 MB,2265,Scribe is a server for aggregating log data streamed in real time from a large number of servers.,C++,https://github.com/facebookarchive/scribe
+666,backward-cpp,3922,499,3922,114,17/02/2013,07/02/2025,742.00 KB,742,A beautiful stack trace pretty printer for C++,C++,https://github.com/bombela/backward-cpp
+667,lac,3919,595,3919,158,02/07/2018,25/05/2021,65.14 MB,66706,百度NLP：分词，词性标注，命名实体识别，词重要性,C++,https://github.com/baidu/lac
+668,btfs,3917,145,3917,18,26/07/2015,20/08/2024,192.00 KB,192,A bittorrent filesystem based on FUSE.,C++,https://github.com/johang/btfs
+669,imgui-node-editor,3911,575,3911,105,10/12/2017,21/07/2024,13.25 MB,13566,Node Editor built using Dear ImGui,C++,https://github.com/thedmd/imgui-node-editor
+670,obs-multi-rtmp,3907,525,3907,159,26/03/2020,18/03/2025,1.20 MB,1231,OBS複数サイト同時配信プラグイン,C++,https://github.com/sorayuki/obs-multi-rtmp
+671,Clementine,3906,691,3906,2401,06/12/2013,26/03/2025,204.21 MB,209115,:tangerine: Clementine Music Player,C++,https://github.com/clementine-player/Clementine
+672,blynk-library,3902,1401,3902,15,24/03/2015,06/01/2025,9.81 MB,10045,"Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.",C++,https://github.com/blynkkk/blynk-library
+673,pubsubclient,3901,1488,3901,561,02/02/2009,14/08/2024,313.00 KB,313,A client library for the Arduino Ethernet Shield that provides support for MQTT.,C++,https://github.com/knolleary/pubsubclient
+674,CnC_Generals_Zero_Hour,3898,1253,3898,0,22/08/2024,27/02/2025,9.30 MB,9519,Command and Conquer: Generals - Zero Hour,C++,https://github.com/electronicarts/CnC_Generals_Zero_Hour
+675,ricochet,3897,413,3897,179,07/07/2010,30/12/2021,2.85 MB,2922,Anonymous peer-to-peer instant messaging,C++,https://github.com/ricochet-im/ricochet
+676,halflife,3885,646,3885,2074,14/02/2013,02/10/2024,12.04 MB,12329,Half-Life 1 engine based games,C++,https://github.com/ValveSoftware/halflife
+677,OpenCat,3883,472,3883,5,03/01/2021,27/02/2025,55.68 MB,57014,"An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. ",C++,https://github.com/PetoiCamp/OpenCat
+678,rpi-rgb-led-matrix,3883,1234,3883,599,16/02/2013,28/02/2025,22.49 MB,23031,"Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO",C++,https://github.com/hzeller/rpi-rgb-led-matrix
+679,win-capture-audio,3879,207,3879,139,12/08/2021,30/01/2024,164.00 KB,164,"An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",C++,https://github.com/bozbez/win-capture-audio
+680,azahar,3877,193,3877,245,04/03/2024,28/03/2025,61.81 MB,63295,An open-source 3DS emulator project based on Citra.,C++,https://github.com/azahar-emu/azahar
+681,UABE,3866,489,3866,211,06/09/2015,31/12/2023,1.29 MB,1318,Asset Bundle Extractor,C++,https://github.com/SeriousCache/UABE
+682,ccls,3863,265,3863,189,31/03/2018,22/03/2025,4.66 MB,4774,"C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting",C++,https://github.com/MaskRay/ccls
+683,FluentUI,3862,528,3862,200,24/02/2023,16/03/2025,28.96 MB,29650,FluentUI for QML,C++,https://github.com/zhuzichu520/FluentUI
+684,KataGo,3859,589,3859,420,26/02/2019,25/03/2025,73.74 MB,75513,GTP engine and self-play learning in Go,C++,https://github.com/lightvector/KataGo
+685,qpdf,3858,299,3858,139,03/06/2012,25/03/2025,40.44 MB,41414,qpdf: A content-preserving PDF document transformer,C++,https://github.com/qpdf/qpdf
+686,flamingo,3854,1449,3854,17,25/05/2017,22/07/2024,37.11 MB,38002,flamingo 一款高性能轻量级开源即时通讯软件,C++,https://github.com/balloonwj/flamingo
+687,lyra,3854,358,3854,85,19/03/2021,20/08/2024,19.86 MB,20340,A Very Low-Bitrate Codec for Speech Compression,C++,https://github.com/google/lyra
+688,gpu.cpp,3850,186,3850,9,30/05/2024,11/03/2025,6.33 MB,6487,A lightweight library for portable low-level GPU computation using WebGPU. ,C++,https://github.com/AnswerDotAI/gpu.cpp
+689,ActionRoguelike,3848,696,3848,4,07/09/2020,25/03/2025,990.05 MB,1013816,Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University,C++,https://github.com/tomlooman/ActionRoguelike
+690,easyloggingpp,3847,941,3847,302,23/09/2012,17/04/2024,29.81 MB,30526,"C++ logging library. It is powerful, supports asynchronous low latency, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.",C++,https://github.com/abumq/easyloggingpp
+691,diff-pdf,3844,230,3844,16,28/10/2009,26/11/2024,461.00 KB,461,A simple tool for visually comparing two PDF files,C++,https://github.com/vslavik/diff-pdf
+692,pdns,3837,914,3837,936,26/04/2013,28/03/2025,93.50 MB,95742,"PowerDNS Authoritative, PowerDNS Recursor, dnsdist",C++,https://github.com/PowerDNS/pdns
+693,turbopilot,3823,127,3823,18,09/04/2023,30/09/2023,2.60 MB,2667,Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU,C++,https://github.com/ravenscroftj/turbopilot
+694,wiliwili,3817,171,3817,52,17/01/2021,27/03/2025,26.83 MB,27477,第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上,C++,https://github.com/xfangfang/wiliwili
+695,cling,3812,290,3812,142,07/01/2016,07/03/2025,19.12 MB,19575,The cling C++ interpreter,C++,https://github.com/root-project/cling
+696,Karabiner-archived,3811,306,3811,112,17/04/2011,01/03/2020,21.11 MB,21614,Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.,C++,https://github.com/pqrs-org/Karabiner-archived
+697,UnleashedRecomp,3808,164,3808,182,30/09/2024,28/03/2025,1.87 MB,1916,An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.,C++,https://github.com/hedge-dev/UnleashedRecomp
+698,touchegg,3807,173,3807,32,16/03/2015,01/12/2024,118.84 MB,121692,Linux multi-touch gesture recognizer,C++,https://github.com/JoseExposito/touchegg
+699,oclint,3807,493,3807,15,14/12/2012,29/11/2024,1.79 MB,1837,"A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C",C++,https://github.com/oclint/oclint
+700,kvrocks,3798,516,3798,166,15/08/2019,27/03/2025,11.67 MB,11947,Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.,C++,https://github.com/apache/kvrocks
+701,oboe,3797,583,3797,136,02/10/2017,27/03/2025,87.95 MB,90062,Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.,C++,https://github.com/google/oboe
+702,lux,3793,91,3793,8,27/07/2018,14/07/2021,168.45 MB,172497,LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage),C++,https://github.com/LUX-Core/lux
+703,slang,3785,272,3785,372,09/06/2017,26/03/2025,55.52 MB,56848,Making it easier to work with shaders,C++,https://github.com/shader-slang/slang
+704,CloudCompare,3775,1070,3775,250,06/11/2012,28/03/2025,85.39 MB,87443,CloudCompare main repository,C++,https://github.com/CloudCompare/CloudCompare
+705,OCAuxiliaryTools,3775,347,3775,64,04/08/2020,14/10/2024,117.64 MB,120462,Cross-platform GUI management tools for OpenCore（OCAT）,C++,https://github.com/ic005k/OCAuxiliaryTools
+706,stairspeedtest-reborn,3773,641,3773,61,01/08/2019,08/06/2023,33.29 MB,34094,Proxy performance batch tester based on Shadowsocks(R) and V2Ray,C++,https://github.com/tindy2013/stairspeedtest-reborn
+707,NumCpp,3771,573,3771,14,07/02/2018,09/02/2025,119.29 MB,122150,C++ implementation of the Python Numpy library,C++,https://github.com/dpilger26/NumCpp
+708,motion,3769,550,3769,2,14/06/2014,14/03/2025,11.58 MB,11855,"Motion, a software motion detector.     Home page:  https://motion-project.github.io/",C++,https://github.com/Motion-Project/motion
+709,VINS-Fusion,3765,1451,3765,202,10/01/2019,23/05/2024,80.75 MB,82687,An optimization-based multi-sensor state estimator,C++,https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
+710,WebServer,3760,752,3760,67,15/06/2020,02/12/2023,56.50 MB,57857,C++  Linux WebServer服务器,C++,https://github.com/markparticle/WebServer
+711,mapnik,3752,825,3752,713,11/10/2011,02/03/2025,171.86 MB,175988,Mapnik is an open source toolkit for developing mapping applications,C++,https://github.com/mapnik/mapnik
+712,oneDNN,3751,1035,3751,125,09/05/2016,28/03/2025,172.59 MB,176734,oneAPI Deep Neural Network Library (oneDNN),C++,https://github.com/uxlfoundation/oneDNN
+713,LIO-SAM,3751,1329,3751,148,01/07/2020,14/02/2025,128.10 MB,131174,LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping,C++,https://github.com/TixiaoShan/LIO-SAM
+714,fivem,3737,2241,3737,518,16/01/2017,27/03/2025,384.66 MB,393890,"The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.",C++,https://github.com/citizenfx/fivem
+715,FLIF,3732,231,3732,138,07/09/2015,09/01/2024,20.04 MB,20519,Free Lossless Image Format,C++,https://github.com/FLIF-hub/FLIF
+716,Crow,3727,423,3727,95,10/08/2018,09/03/2025,92.11 MB,94324,A Fast and Easy to use microframework for the web.,C++,https://github.com/CrowCpp/Crow
+717,SEAL,3726,725,3726,121,09/11/2018,11/07/2024,4.79 MB,4902,Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.,C++,https://github.com/microsoft/SEAL
+718,OpenMQTTGateway,3726,825,3726,59,17/09/2016,28/03/2025,3.44 GB,3608415,"MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility & LoRa.",C++,https://github.com/1technophile/OpenMQTTGateway
+719,notepad4,3723,237,3723,161,25/01/2017,17/03/2025,25.88 MB,26498,"Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.",C++,https://github.com/zufuliu/notepad4
+720,yosys,3722,925,3722,575,05/01/2013,28/03/2025,29.82 MB,30539,Yosys Open SYnthesis Suite,C++,https://github.com/YosysHQ/yosys
+721,CTranslate2,3707,340,3707,219,23/09/2019,20/03/2025,14.40 MB,14743,Fast inference engine for Transformer models,C++,https://github.com/OpenNMT/CTranslate2
+722,SpaceCadetPinball,3693,227,3693,57,29/01/2021,21/08/2024,5.39 MB,5518,Decompilation of 3D Pinball for Windows – Space Cadet,C++,https://github.com/k4zmu2a/SpaceCadetPinball
+723,cef,3689,486,3689,213,02/04/2017,28/03/2025,40.58 MB,41550,Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.,C++,https://github.com/chromiumembedded/cef
+724,miniob,3686,1291,3686,49,12/10/2021,27/03/2025,42.45 MB,43468,MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.,C++,https://github.com/oceanbase/miniob
+725,halley,3680,167,3680,46,28/09/2015,24/03/2025,33.45 MB,34248,A lightweight game engine written in modern C++,C++,https://github.com/amzeratul/halley
+726,velox,3677,1218,3677,1067,23/07/2021,28/03/2025,135.72 MB,138977,A composable and fully extensible C++ execution engine library for data management systems.,C++,https://github.com/facebookincubator/velox
+727,spring,3671,854,3671,2,22/12/2008,31/03/2024,158.21 MB,162004,A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/,C++,https://github.com/spring/spring
+728,Triton,3667,544,3667,35,25/01/2015,06/03/2025,58.44 MB,59840,"Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.",C++,https://github.com/JonathanSalwan/Triton
+729,evpp,3664,950,3664,143,03/03/2017,10/04/2024,30.80 MB,31543,A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.,C++,https://github.com/Qihoo360/evpp
+730,Revive,3645,331,3645,606,11/04/2016,18/02/2024,3.30 MB,3376,"Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions.",C++,https://github.com/LibreVR/Revive
+731,QtExamples,3643,802,3643,0,16/08/2019,01/01/2025,1.62 MB,1655,Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt Creator；此为系列文章教程,C++,https://github.com/XMuli/QtExamples
+732,jellyfin-media-player,3641,354,3641,389,04/04/2021,20/03/2025,4.32 MB,4419,Jellyfin Desktop Client,C++,https://github.com/jellyfin/jellyfin-media-player
+733,angle,3638,635,3638,2,26/08/2014,28/03/2025,175.44 MB,179646,"A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.",C++,https://github.com/google/angle
+734,librime,3630,583,3630,120,20/03/2012,28/03/2025,16.49 MB,16888,"Rime Input Method Engine, the core library",C++,https://github.com/rime/librime
+735,srsRAN_4G,3627,1179,3627,308,06/12/2013,06/02/2025,62.30 MB,63792,Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g,C++,https://github.com/srsran/srsRAN_4G
+736,ScyllaHide,3619,443,3619,52,27/01/2016,04/06/2024,6.62 MB,6775,Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide,C++,https://github.com/x64dbg/ScyllaHide
+737,fuzzing,3614,439,3614,21,16/04/2019,24/10/2024,1.32 MB,1350,"Tutorials, examples, discussions, research proposals, and other resources related to fuzzing",C++,https://github.com/google/fuzzing
+738,openthread,3613,1096,3613,117,08/04/2016,28/03/2025,113.84 MB,116575,OpenThread released by Google is an open-source implementation of the Thread networking protocol,C++,https://github.com/openthread/openthread
+739,audio-router,3611,421,3611,145,31/05/2016,16/08/2021,429.00 KB,429,Routes audio from programs to different audio devices.,C++,https://github.com/audiorouterdev/audio-router
+740,OpenHashTab,3611,152,3611,66,22/11/2019,20/03/2025,1.42 MB,1458,📝 File hashing and checking shell extension,C++,https://github.com/namazso/OpenHashTab
+741,kdenlive,3609,291,3609,0,18/09/2015,28/03/2025,2.46 GB,2584156,"Free and open source video editor, based on MLT Framework and KDE Frameworks",C++,https://github.com/KDE/kdenlive
+742,REFramework,3608,401,3608,359,31/01/2019,25/03/2025,50.45 MB,51662,"Scripting platform, modding framework and VR support for all RE Engine games",C++,https://github.com/praydog/REFramework
+743,nerd,3606,127,3606,17,14/01/2017,25/01/2023,167.75 MB,171778,🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.,C++,https://github.com/NerdLang/nerd
+744,nccl,3605,886,3605,791,14/11/2015,24/03/2025,3.77 MB,3856,Optimized primitives for collective multi-GPU communication,C++,https://github.com/NVIDIA/nccl
+745,pycdc,3604,689,3604,194,18/09/2011,13/10/2024,903.00 KB,903,C++ python bytecode disassembler and decompiler,C++,https://github.com/zrax/pycdc
+746,melonDS,3603,575,3603,836,16/05/2016,09/03/2025,12.52 MB,12820,"DS emulator, sorta",C++,https://github.com/melonDS-emu/melonDS
+747,verona,3602,167,3602,13,14/09/2019,27/03/2025,3.70 MB,3793,Research programming language for concurrent ownership,C++,https://github.com/microsoft/verona
+748,projectm,3595,387,3595,33,12/08/2013,26/03/2025,216.22 MB,221412,projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.,C++,https://github.com/projectM-visualizer/projectm
+749,logiops,3587,273,3587,243,09/07/2019,28/09/2024,831.00 KB,831,An unofficial userspace driver for HID++ Logitech devices,C++,https://github.com/PixlOne/logiops
+750,qgroundcontrol,3586,3900,3586,1000,13/10/2011,28/03/2025,505.11 MB,517232,"Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",C++,https://github.com/mavlink/qgroundcontrol
+751,domoticz,3582,1132,3582,109,15/08/2015,28/03/2025,395.57 MB,405068,Open source Home Automation System,C++,https://github.com/domoticz/domoticz
+752,LumixEngine,3581,406,3581,41,21/11/2013,28/12/2024,227.30 MB,232751,3D C++ Game Engine - yet another open source game engine,C++,https://github.com/nem0/LumixEngine
+753,cherrytree,3563,477,3563,1034,22/03/2015,23/03/2025,75.99 MB,77811,cherrytree,C++,https://github.com/giuspen/cherrytree
+754,node-fibers,3559,225,3559,29,22/01/2011,30/04/2024,327.00 KB,327,Fiber/coroutine support for v8 and node.,C++,https://github.com/laverdet/node-fibers
+755,fully-homomorphic-encryption,3559,258,3559,4,05/05/2021,04/09/2024,1.95 MB,1994,An FHE compiler for C++,C++,https://github.com/google/fully-homomorphic-encryption
+756,CLI11,3557,365,3557,87,25/01/2017,20/03/2025,3.79 MB,3885,CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.,C++,https://github.com/CLIUtils/CLI11
+757,DistroAV,3557,375,3557,55,22/10/2016,20/03/2025,7.33 MB,7508,DistroAV (formerly OBS-NDI): NDI integration for OBS Studio,C++,https://github.com/DistroAV/DistroAV
+758,AmnesiaTheDarkDescent,3549,376,3549,18,15/09/2020,12/10/2020,34.29 MB,35115,,C++,https://github.com/FrictionalGames/AmnesiaTheDarkDescent
+759,openMVS,3543,924,3543,342,18/05/2015,13/03/2025,4.26 MB,4361,open Multi-View Stereo reconstruction library,C++,https://github.com/cdcseacave/openMVS
+760,cppcoro,3541,479,3541,110,20/03/2017,09/01/2024,852.00 KB,852,A library of C++ coroutine abstractions for the coroutines TS,C++,https://github.com/lewissbaker/cppcoro
+761,kungfu,3535,1140,3535,9,15/11/2017,02/05/2024,170.18 MB,174268,Kungfu Trader,C++,https://github.com/kungfu-origin/kungfu
+762,ton,3529,1180,3529,169,07/09/2019,28/03/2025,30.35 MB,31082,Main TON monorepo,C++,https://github.com/ton-blockchain/ton
+763,heaptrack,3527,217,3527,4,18/09/2015,11/03/2025,12.91 MB,13217,A heap memory profiler for Linux,C++,https://github.com/KDE/heaptrack
+764,yue,3523,157,3523,13,07/08/2016,24/01/2025,13.59 MB,13920,A library for creating native cross-platform GUI apps,C++,https://github.com/yue/yue
+765,drake,3520,1293,3520,741,26/01/2014,28/03/2025,426.04 MB,436268,Model-based design and verification for robotics.,C++,https://github.com/RobotLocomotion/drake
+766,nano-node,3514,799,3514,317,01/05/2014,26/03/2025,38.30 MB,39218,Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ,C++,https://github.com/nanocurrency/nano-node
+767,webots,3509,1786,3509,220,05/11/2018,27/03/2025,4.12 GB,4316257,Webots Robot Simulator,C++,https://github.com/cyberbotics/webots
+768,compile-time-regular-expressions,3500,191,3500,103,25/06/2016,25/02/2025,2.70 MB,2764,Compile Time Regular Expression in C++,C++,https://github.com/hanickadot/compile-time-regular-expressions
+769,CodeHelp-DSA-Busted-Series,3499,2442,3499,333,08/12/2021,16/08/2024,274.00 KB,274,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,C++,https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+770,Krypto-trading-bot,3494,829,3494,62,13/06/2017,15/12/2024,12.95 MB,13257,Self-hosted crypto trading bot (automated high frequency market making) written in C++,C++,https://github.com/ctubio/Krypto-trading-bot
+771,zopfli,3492,331,3492,118,09/03/2015,10/08/2024,603.00 KB,603,"Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.",C++,https://github.com/google/zopfli
+772,minigo,3489,561,3489,77,29/01/2018,04/03/2021,9.72 MB,9958,An open-source implementation of the AlphaGoZero algorithm,C++,https://github.com/tensorflow/minigo
+773,AppleALC,3488,1024,3488,5,07/03/2016,04/03/2025,22.55 MB,23087,Native macOS HD audio for not officially supported codecs,C++,https://github.com/acidanthera/AppleALC
+774,fastnetmon,3484,568,3484,56,18/10/2013,28/03/2025,32.63 MB,33412,Very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support,C++,https://github.com/pavel-odintsov/fastnetmon
+775,UEVR,3484,178,3484,146,01/09/2022,10/03/2025,4.81 MB,4928,Universal Unreal Engine VR Mod (4.8 - 5.4),C++,https://github.com/praydog/UEVR
+776,armortools,3483,358,3483,245,06/02/2017,26/03/2025,171.16 MB,175271,3D Content Creation Tools,C++,https://github.com/armory3d/armortools
+777,fr_public,3482,351,3482,23,11/04/2012,28/07/2019,46.07 MB,47174,Farbrausch demo tools 2001-2011,C++,https://github.com/farbrausch/fr_public
+778,visualboyadvance-m,3476,324,3476,279,10/06/2015,25/03/2025,60.83 MB,62289,The continuing development of the legendary VBA gameboy advance emulator.,C++,https://github.com/visualboyadvance-m/visualboyadvance-m
+779,xtensor,3475,403,3475,419,30/10/2016,27/03/2025,11.68 MB,11960,C++ tensors with broadcasting and lazy computing,C++,https://github.com/xtensor-stack/xtensor
+780,tinyobjloader,3471,613,3471,22,15/08/2012,29/01/2025,3.66 MB,3748,Tiny but powerful single file wavefront obj loader,C++,https://github.com/tinyobjloader/tinyobjloader
+781,nmslib,3461,459,3461,96,10/07/2013,21/09/2024,96.88 MB,99207,Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.,C++,https://github.com/nmslib/nmslib
+782,LeetCode,3461,980,3461,5,15/10/2014,19/10/2023,392.00 KB,392,:pencil2: LeetCode solutions in C++ 11 and Python3,C++,https://github.com/pezy/LeetCode
+783,Data-Structres,3456,510,3456,3,08/05/2019,23/08/2022,6.49 MB,6646,浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解,C++,https://github.com/callmePicacho/Data-Structres
+784,fastllm,3445,351,3445,238,13/05/2023,28/03/2025,23.91 MB,24487,"纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行",C++,https://github.com/ztxz16/fastllm
+785,Osiris,3445,972,3445,210,28/09/2018,27/03/2025,123.70 MB,126673,Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.,C++,https://github.com/danielkrupinski/Osiris
+786,appjs,3432,353,3432,164,28/03/2012,01/05/2016,4.94 MB,5055,(Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS,C++,https://github.com/appjs/appjs
+787,ViGEmBus,3432,318,3432,9,28/01/2018,02/11/2023,1.37 MB,1407,Windows kernel-mode driver emulating well-known USB game controllers.,C++,https://github.com/nefarius/ViGEmBus
+788,dynet,3425,704,3425,239,08/02/2015,01/12/2023,12.57 MB,12873,DyNet: The Dynamic Neural Network Toolkit,C++,https://github.com/clab/dynet
+789,TWiLightMenu,3424,206,3424,203,06/05/2017,15/03/2025,347.85 MB,356203,DSi Menu replacement for DS/DSi/3DS/2DS,C++,https://github.com/DS-Homebrew/TWiLightMenu
+790,telegram-bot-api,3422,630,3422,36,04/11/2020,12/02/2025,538.00 KB,538,Telegram Bot API server ,C++,https://github.com/tdlib/telegram-bot-api
+791,Slic3r,3421,1307,3421,1161,01/09/2011,18/06/2024,163.54 MB,167468,Open Source toolpath generator for 3D printers,C++,https://github.com/slic3r/Slic3r
+792,GraphScope,3418,452,3418,437,28/10/2020,28/03/2025,725.98 MB,743404,🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统,C++,https://github.com/alibaba/GraphScope
+793,robotstxt,3410,237,3410,16,11/06/2019,02/08/2024,125.00 KB,125,The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).,C++,https://github.com/google/robotstxt
+794,lmctfy,3409,238,3409,9,16/09/2013,29/06/2015,5.11 MB,5234,"lmctfy is the open source version of Google’s container stack, which provides Linux application containers.",C++,https://github.com/google/lmctfy
+795,i2pd,3408,431,3408,126,01/09/2013,27/03/2025,15.85 MB,16228, 🛡 I2P: End-to-End encrypted and anonymous Internet,C++,https://github.com/PurpleI2P/i2pd
+796,infinity,3407,324,3407,95,18/07/2022,11/03/2025,59.52 MB,60947,"The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text",C++,https://github.com/infiniflow/infinity
+797,singa,3404,1264,3404,51,02/04/2015,26/03/2025,47.89 MB,49039,a distributed deep learning platform,C++,https://github.com/apache/singa
+798,PAT,3394,809,3394,53,06/01/2016,17/07/2024,1.04 MB,1069,🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～,C++,https://github.com/liuchuo/PAT
+799,ImGuizmo,3388,934,3388,118,16/08/2016,26/03/2025,4.15 MB,4247,Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui,C++,https://github.com/CedricGuillemet/ImGuizmo
+800,ELF,3388,567,3388,44,26/04/2018,21/06/2019,6.27 MB,6423,ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation,C++,https://github.com/pytorch/ELF
+801,ckb-next,3370,286,3370,276,20/01/2018,25/03/2025,8.03 MB,8218,RGB Driver for Linux,C++,https://github.com/ckb-next/ckb-next
+802,phxpaxos,3366,862,3366,74,13/05/2016,04/12/2023,1.45 MB,1482,The Paxos library implemented in C++ that has been used in the WeChat production environment.,C++,https://github.com/Tencent/phxpaxos
+803,solvespace,3365,507,3365,293,26/03/2015,27/03/2025,22.46 MB,22998,Parametric 2d/3d CAD,C++,https://github.com/solvespace/solvespace
+804,ESPEasy,3357,2224,3357,413,08/09/2015,26/03/2025,490.81 MB,502587,Easy MultiSensor device based on ESP8266/ESP32,C++,https://github.com/letscontrolit/ESPEasy
+805,elements,3351,254,3351,44,27/03/2016,27/10/2024,40.46 MB,41426,Elements C++ GUI library,C++,https://github.com/cycfi/elements
+806,Torque3D,3350,1196,3350,373,18/09/2012,03/04/2022,199.20 MB,203983,MIT Licensed Open Source version of Torque 3D from GarageGames,C++,https://github.com/GarageGames/Torque3D
+807,cpp-cheatsheet,3349,716,3349,20,18/08/2016,15/12/2023,45.00 KB,45,Modern C++ Cheatsheet,C++,https://github.com/mortennobel/cpp-cheatsheet
+808,warzone2100,3338,549,3338,464,16/11/2010,26/03/2025,685.49 MB,701941,"Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+",C++,https://github.com/Warzone2100/warzone2100
+809,OpenSceneGraph,3335,1434,3335,167,01/03/2010,09/08/2024,72.22 MB,73957,OpenSceneGraph git repository,C++,https://github.com/openscenegraph/OpenSceneGraph
+810,hyperion.ng,3329,400,3329,56,15/06/2016,20/03/2025,37.12 MB,38014,The successor to Hyperion aka Hyperion Next Generation,C++,https://github.com/hyperion-project/hyperion.ng
+811,VulkanTutorial,3328,539,3328,70,03/03/2015,26/02/2025,110.13 MB,112776,Tutorial for the Vulkan graphics and compute API,C++,https://github.com/Overv/VulkanTutorial
+812,nethogs,3324,293,3324,97,27/10/2013,26/03/2025,1.59 MB,1624,Linux 'net top' tool,C++,https://github.com/raboof/nethogs
+813,CppPrimer,3310,1435,3310,42,02/07/2014,30/07/2023,1.29 MB,1325,:books: Solutions for C++ Primer 5th exercises.,C++,https://github.com/pezy/CppPrimer
+814,,3307,512,3307,70,20/07/2013,03/03/2025,2.16 MB,2216,Native Abstractions for Node.js,C++,https://github.com/nodejs/nan
+815,Riskfolio-Lib,3306,547,3306,1,02/03/2020,25/03/2025,160.33 MB,164173,Portfolio Optimization and Quantitative Strategic Asset Allocation in Python,C++,https://github.com/dcajasn/Riskfolio-Lib
+816,EpicSurvivalGame,3303,1182,3303,17,20/03/2015,11/03/2024,1.52 GB,1589505,Third-person Survival Game for Unreal Engine (Sample Project),C++,https://github.com/tomlooman/EpicSurvivalGame
+817,pistache,3300,714,3300,212,12/08/2015,16/03/2025,7.61 MB,7790,A high-performance REST toolkit written in C++,C++,https://github.com/pistacheio/pistache
+818,f3d,3299,267,3299,211,17/02/2020,27/03/2025,437.55 MB,448047,Fast and minimalist 3D viewer.,C++,https://github.com/f3d-app/f3d
+819,WhateverGreen,3297,616,3297,2,26/07/2017,07/01/2025,4.55 MB,4659,Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs,C++,https://github.com/acidanthera/WhateverGreen
+820,PhysX,3287,813,3287,327,05/12/2018,05/09/2023,783.79 MB,802597,NVIDIA PhysX SDK,C++,https://github.com/NVIDIAGameWorks/PhysX
+821,Vulkan-Hpp,3285,320,3285,21,16/06/2016,26/03/2025,72.05 MB,73784,Open-Source Vulkan C++ API,C++,https://github.com/KhronosGroup/Vulkan-Hpp
+822,AtomicGameEngine,3281,575,3281,395,24/01/2015,17/03/2024,111.02 MB,113686,"The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript",C++,https://github.com/AtomicGameEngine/AtomicGameEngine
+823,mcrouter,3278,541,3278,112,24/01/2014,24/03/2025,32.73 MB,33519,Mcrouter is a memcached protocol router for scaling memcached deployments.,C++,https://github.com/facebook/mcrouter
+824,rttr,3273,451,3273,145,15/12/2015,25/04/2024,6.49 MB,6648,C++ Reflection Library,C++,https://github.com/rttrorg/rttr
+825,PacVim,3273,194,3273,21,22/11/2014,23/03/2024,3.20 MB,3272,,C++,https://github.com/jmoon018/PacVim
+826,glow,3272,700,3272,434,29/09/2017,11/05/2024,76.00 MB,77819,Compiler for Neural Network hardware accelerators,C++,https://github.com/pytorch/glow
+827,ggpo,3269,376,3269,28,03/10/2019,26/06/2024,494.00 KB,494,"Good Game, Peace Out Rollback Network SDK",C++,https://github.com/pond3r/ggpo
+828,biosim4,3267,468,3267,41,18/09/2021,12/11/2024,114.00 KB,114,Biological evolution simulator,C++,https://github.com/davidrmiller/biosim4
+829,KOOM,3265,432,3265,66,06/08/2020,16/04/2024,30.32 MB,31052,KOOM is an OOM killer on mobile platform by Kwai.,C++,https://github.com/KwaiAppTeam/KOOM
+830,input-overlay,3263,261,3263,26,11/08/2017,24/03/2025,72.54 MB,74285,"Show keyboard, gamepad and mouse input on stream",C++,https://github.com/univrsal/input-overlay
+831,lightseq,3262,330,3262,179,06/12/2019,16/05/2023,12.20 MB,12496,LightSeq: A High Performance Library for Sequence Processing and Generation,C++,https://github.com/bytedance/lightseq
+832,BehaviorTree.CPP,3261,705,3261,65,16/10/2018,25/02/2025,6.02 MB,6163,Behavior Trees Library in C++. Batteries included.,C++,https://github.com/BehaviorTree/BehaviorTree.CPP
+833,pe-sieve,3259,446,3259,12,22/08/2017,16/03/2025,134.33 MB,137556,"Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).",C++,https://github.com/hasherezade/pe-sieve
+834,srt,3245,878,3245,335,06/04/2017,21/03/2025,16.81 MB,17213,"Secure, Reliable, Transport",C++,https://github.com/Haivision/srt
+835,nodeeditor,3245,854,3245,92,09/04/2016,17/11/2024,2.67 MB,2734,Qt Node Editor. Dataflow programming framework,C++,https://github.com/paceholder/nodeeditor
+836,inotify-tools,3245,395,3245,31,22/11/2009,16/02/2025,430.00 KB,430,  inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.,C++,https://github.com/inotify-tools/inotify-tools
+837,libgo,3244,760,3244,120,24/12/2015,03/07/2023,7.20 MB,7376,Go-style concurrency in C++11,C++,https://github.com/yyzybb537/libgo
+838,actor-framework,3244,553,3244,59,04/03/2011,27/03/2025,42.10 MB,43112,An Open Source Implementation of the Actor Model in C++,C++,https://github.com/actor-framework/actor-framework
+839,GW-BASIC,3243,489,3243,0,07/02/2020,22/05/2020,334.00 KB,334,The original source code of Microsoft GW-BASIC from 1983,C++,https://github.com/microsoft/GW-BASIC
+840,Cpp-0-1-Resource,3243,1161,3243,6,24/09/2019,01/10/2020,221.09 MB,226401,C++ 匠心之作 从0到1入门资料,C++,https://github.com/AnkerLeng/Cpp-0-1-Resource
+841,qt-material-widgets,3236,704,3236,30,18/03/2016,23/02/2024,4.86 MB,4975,:art: Qt widgets-based implementation of the Material Design specification.,C++,https://github.com/laserpants/qt-material-widgets
+842,gqrx,3232,555,3232,237,28/10/2010,24/03/2025,8.52 MB,8725,Software defined radio receiver powered by GNU Radio and Qt.,C++,https://github.com/gqrx-sdr/gqrx
+843,date,3232,699,3232,163,18/07/2015,21/03/2025,3.34 MB,3421,A date and time library based on the C++11/14/17 <chrono> header,C++,https://github.com/HowardHinnant/date
+844,imtui,3231,137,3231,18,08/12/2019,04/05/2024,431.00 KB,431,ImTui: Immediate Mode Text-based User Interface C++ Library,C++,https://github.com/ggerganov/imtui
+845,pgmodeler,3231,395,3231,224,23/08/2012,27/03/2025,47.37 MB,48504,Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!,C++,https://github.com/pgmodeler/pgmodeler
+846,DirectXShaderCompiler,3228,734,3228,545,07/12/2016,27/03/2025,69.15 MB,70812,This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.,C++,https://github.com/microsoft/DirectXShaderCompiler
+847,obs-backgroundremoval,3223,221,3223,15,15/04/2021,09/10/2024,86.52 MB,88594,"An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.",C++,https://github.com/locaal-ai/obs-backgroundremoval
+848,windhawk,3216,90,3216,83,15/01/2022,02/10/2024,4.89 MB,5010,The customization marketplace for Windows programs: https://windhawk.net/,C++,https://github.com/ramensoftware/windhawk
+849,glslang,3214,866,3214,378,25/06/2015,27/03/2025,76.46 MB,78294,"Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.",C++,https://github.com/KhronosGroup/glslang
+850,perfetto,3207,397,3207,69,10/12/2019,28/03/2025,147.38 MB,150915,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",C++,https://github.com/google/perfetto
+851,SourceCodeSyntaxHighlight,3204,76,3204,57,20/10/2019,30/01/2025,61.28 MB,62749,Quick Look extension for highlight source code files on macOS 10.15 and later.,C++,https://github.com/sbarex/SourceCodeSyntaxHighlight
+852,webrtc-streamer,3203,630,3203,95,04/12/2014,22/03/2025,7.75 MB,7934,"WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture",C++,https://github.com/mpromonet/webrtc-streamer
+853,desktop,3202,816,3202,900,27/09/2017,28/03/2025,470.16 MB,481445,💻 Desktop sync client for Nextcloud,C++,https://github.com/nextcloud/desktop
+854,Adafruit_NeoPixel,3200,1290,3200,122,12/12/2012,06/03/2025,893.00 KB,893,"Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)",C++,https://github.com/adafruit/Adafruit_NeoPixel
+855,snowboy,3193,1022,3193,324,10/05/2016,13/10/2021,55.23 MB,56558,Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy,C++,https://github.com/Kitt-AI/snowboy
+856,helio-sequencer,3191,114,3191,89,20/04/2017,24/03/2025,51.11 MB,52339,Libre music sequencer for desktop and mobile platforms,C++,https://github.com/helio-fm/helio-sequencer
+857,g2o,3190,1117,3190,14,12/01/2012,27/03/2025,10.46 MB,10714,g2o: A General Framework for Graph Optimization,C++,https://github.com/RainerKuemmerle/g2o
+858,newsboat,3190,219,3190,381,17/09/2017,27/03/2025,19.40 MB,19868,An RSS/Atom feed reader for text terminals,C++,https://github.com/newsboat/newsboat
+859,HElib,3186,766,3186,181,05/04/2013,01/08/2024,12.93 MB,13243,"HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.",C++,https://github.com/homenc/HElib
+860,GodotSteam,3181,209,3181,2,29/04/2016,27/03/2025,488.23 MB,499949,"An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.",C++,https://github.com/GodotSteam/GodotSteam
+861,cpp-game-engine-book,3179,391,3179,2,09/03/2021,19/04/2024,532.28 MB,545052,从零编写游戏引擎教程 Writing a game engine tutorial from scratch,C++,https://github.com/ThisisGame/cpp-game-engine-book
+862,botnets,3176,747,3176,5,02/09/2018,04/09/2022,296.18 MB,303292,"This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY",C++,https://github.com/maestron/botnets
+863,RawTherapee,3172,338,3172,989,11/08/2015,23/03/2025,190.66 MB,195232,A powerful cross-platform raw photo processing program,C++,https://github.com/RawTherapee/RawTherapee
+864,beringei,3171,295,3171,13,11/10/2016,11/07/2018,915.00 KB,915,"Beringei is a high performance, in-memory storage engine for time series data.",C++,https://github.com/facebookarchive/beringei
+865,NanoLog,3165,357,3165,37,19/08/2016,04/03/2024,1.08 MB,1111,Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.,C++,https://github.com/PlatformLab/NanoLog
+866,xeus-cling,3162,307,3162,179,20/04/2017,02/05/2024,10.61 MB,10863,Jupyter kernel for the C++ programming language,C++,https://github.com/jupyter-xeus/xeus-cling
+867,nsjail,3162,281,3162,35,14/05/2015,23/03/2025,1.42 MB,1455,"A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.",C++,https://github.com/google/nsjail
+868,xray-16,3154,469,3154,217,05/09/2014,27/03/2025,386.67 MB,395955,"Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)",C++,https://github.com/OpenXRay/xray-16
+869,sdrangel,3153,463,3153,83,30/08/2015,09/03/2025,182.96 MB,187348,"SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube",C++,https://github.com/f4exb/sdrangel
+870,cefpython,3140,475,3140,221,28/08/2015,18/02/2025,6.75 MB,6908,Python bindings for the Chromium Embedded Framework (CEF),C++,https://github.com/cztomczak/cefpython
+871,FastDeploy,3139,477,3139,289,27/06/2022,24/02/2025,38.51 MB,39433,"⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.",C++,https://github.com/PaddlePaddle/FastDeploy
+872,indicators,3131,242,3131,38,03/12/2019,25/01/2025,34.52 MB,35346,Activity Indicators for Modern C++,C++,https://github.com/p-ranav/indicators
+873,ODrive,3129,1569,3129,17,25/04/2016,02/10/2024,50.79 MB,52014,High performance motor control,C++,https://github.com/odriverobotics/ODrive
+874,FAST_LIO,3129,1051,3129,6,12/10/2020,15/01/2025,126.75 MB,129787,A computationally efficient and robust LiDAR-inertial odometry (LIO) package,C++,https://github.com/hku-mars/FAST_LIO
+875,EternalTerminal,3127,178,3127,89,19/11/2016,19/03/2025,44.92 MB,45994,Re-Connectable secure remote shell,C++,https://github.com/MisterTea/EternalTerminal
+876,llvm-tutor,3126,401,3126,10,25/03/2019,05/03/2025,597.00 KB,597,A collection of out-of-tree LLVM passes for teaching and learning,C++,https://github.com/banach-space/llvm-tutor
+877,RmlUi,3125,335,3125,48,15/06/2018,22/03/2025,19.51 MB,19981,RmlUi - The HTML/CSS User Interface library evolved,C++,https://github.com/mikke89/RmlUi
+878,licode,3121,1011,3121,302,28/11/2012,13/03/2025,26.16 MB,26787,Open Source Communication Provider based on WebRTC and Cloud technologies,C++,https://github.com/lynckia/licode
+879,AliceVision,3114,832,3114,42,30/12/2014,26/03/2025,55.00 MB,56316,Photogrammetric Computer Vision Framework,C++,https://github.com/alicevision/AliceVision
+880,IRremoteESP8266,3112,844,3112,85,07/06/2015,07/01/2025,25.89 MB,26516,Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/,C++,https://github.com/crankyoldgit/IRremoteESP8266
+881,code-library,3112,823,3112,4,18/11/2018,11/01/2025,3.52 MB,3604,"Templates, algorithms and data structures implemented and collected for programming contests.",C++,https://github.com/ShahjalalShohag/code-library
+882,dbg-macro,3104,259,3104,10,19/06/2019,01/03/2025,178.00 KB,178,A dbg(…) macro for C++,C++,https://github.com/sharkdp/dbg-macro
+883,RxCpp,3103,400,3103,100,04/09/2013,30/07/2024,61.62 MB,63094,Reactive Extensions for C++,C++,https://github.com/ReactiveX/RxCpp
+884,OpenRGB,3101,213,3101,7,27/05/2019,28/03/2025,54.90 MB,56222,"Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.",C++,https://github.com/CalcProgrammer1/OpenRGB
+885,perforator,3099,138,3099,15,29/01/2025,28/03/2025,160.12 MB,163963,Perforator is a cluster-wide continuous profiling tool designed for large data centers,C++,https://github.com/yandex/perforator
+886,seer,3093,97,3093,30,01/09/2021,27/03/2025,17.77 MB,18196,Seer - a gui frontend to gdb,C++,https://github.com/epasveer/seer
+887,xlearn,3089,518,3089,195,10/06/2017,28/08/2023,10.92 MB,11184,"High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.",C++,https://github.com/aksnzhy/xlearn
+888,dumpDex,3083,622,3083,38,20/03/2018,15/05/2020,240.00 KB,240,"💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。",C++,https://github.com/WrBug/dumpDex
+889,Serious-Engine,3079,373,3079,19,11/03/2016,31/10/2020,91.51 MB,93702,An open source version of a game engine developed by Croteam for the classic Serious Sam games.,C++,https://github.com/Croteam-official/Serious-Engine
+890,NDK_OpenGLES_3_0,3077,850,3077,12,15/07/2019,21/03/2025,387.65 MB,396951,Android OpenGL ES 3.0 从入门到精通系统性学习教程 ( OpenGL ES 3.X Systematic Learning Tutorials),C++,https://github.com/githubhaohao/NDK_OpenGLES_3_0
+891,fibjs,3075,299,3075,35,07/05/2014,20/03/2025,132.00 MB,135170,JavaScript on Fiber (built on Chrome's V8 JavaScript engine),C++,https://github.com/fibjs/fibjs
+892,iree,3073,678,3073,1330,12/09/2019,28/03/2025,209.72 MB,214751,A retargetable MLIR-based machine learning compiler and runtime toolkit.,C++,https://github.com/iree-org/iree
+893,kurento-media-server,3070,694,3070,2,05/09/2013,25/01/2023,4.37 MB,4470,[ARCHIVED] Contents migrated to monorepo: https://github.com/Kurento/kurento,C++,https://github.com/Kurento/kurento-media-server
+894,wangle,3068,541,3068,44,11/12/2014,27/03/2025,8.73 MB,8943,"Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.",C++,https://github.com/facebook/wangle
+895,tinytetris,3067,606,3067,26,30/03/2019,09/07/2024,630.00 KB,630,80x23 terminal tetris!,C++,https://github.com/taylorconor/tinytetris
+896,node-packer,3064,199,3064,100,10/10/2016,07/01/2023,159.51 MB,163340,Packing your Node.js application into a single executable.,C++,https://github.com/pmq20/node-packer
+897,xla,3053,529,3053,3417,09/08/2022,28/03/2025,246.58 MB,252500,"A machine learning compiler for GPUs, CPUs, and ML accelerators",C++,https://github.com/openxla/xla
+898,pbrt-v4,3053,496,3053,75,28/07/2017,22/03/2025,14.11 MB,14448,"Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the ""Physically Based Rendering: From Theory to Implementation"" book.",C++,https://github.com/mmp/pbrt-v4
+899,HoRNDIS,3049,335,3049,96,12/11/2012,05/02/2023,168.00 KB,168,Android USB tethering driver for Mac OS X,C++,https://github.com/jwise/HoRNDIS
+900,onnx-tensorrt,3048,546,3048,180,30/04/2018,07/03/2025,2.56 MB,2623,ONNX-TensorRT: TensorRT backend for ONNX,C++,https://github.com/onnx/onnx-tensorrt
+901,rtabmap,3048,807,3048,505,11/08/2014,24/03/2025,63.77 MB,65305,RTAB-Map library and standalone application,C++,https://github.com/introlab/rtabmap
+902,igl,3042,180,3042,5,07/07/2023,28/03/2025,18.07 MB,18507,"Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).",C++,https://github.com/facebook/igl
+903,wallet-core,3042,1694,3042,44,14/02/2019,28/03/2025,32.97 MB,33758,"Cross-platform, cross-blockchain wallet library.",C++,https://github.com/trustwallet/wallet-core
+904,clang,3040,1653,3040,0,28/01/2012,23/04/2020,217.91 MB,223137,Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project,C++,https://github.com/llvm-mirror/clang
+905,shogun,3039,1035,3039,427,01/04/2011,19/12/2023,72.72 MB,74465,Shōgun,C++,https://github.com/shogun-toolbox/shogun
+906,service-fabric,3039,399,3039,831,08/03/2018,10/03/2025,62.09 MB,63580,"Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.",C++,https://github.com/microsoft/service-fabric
+907,EAST,3037,1047,3037,264,31/07/2017,22/11/2022,2.00 MB,2049,A tensorflow implementation of EAST text detector,C++,https://github.com/argman/EAST
+908,FreeReflection,3032,551,3032,4,07/06/2018,14/10/2024,218.00 KB,218,A library that lets you use reflection without any restriction above Android P,C++,https://github.com/tiann/FreeReflection
+909,osxcross,3031,334,3031,132,10/11/2013,07/02/2025,28.84 MB,29528,"Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)",C++,https://github.com/tpoechtrager/osxcross
+910,DynamicAPK,3031,875,3031,60,19/10/2015,13/07/2023,7.71 MB,7898,Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复),C++,https://github.com/CtripMobile/DynamicAPK
+911,dust3d,3028,225,3028,17,15/12/2016,23/02/2025,147.99 MB,151540,"Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.",C++,https://github.com/huxingyi/dust3d
+912,rathena,3028,2410,3028,502,17/07/2013,27/03/2025,318.54 MB,326181,rAthena is an open-source cross-platform MMORPG server.,C++,https://github.com/rathena/rathena
+913,texstudio,3027,361,3027,463,28/11/2017,27/03/2025,277.27 MB,283921,TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.,C++,https://github.com/texstudio-org/texstudio
+914,essentia,3021,555,3021,413,03/06/2013,29/01/2025,305.88 MB,313217,"C++ library for audio and music analysis, description and synthesis, including Python bindings",C++,https://github.com/MTG/essentia
+915,Tendis,3017,332,3017,143,16/12/2020,18/03/2025,82.38 MB,84357,Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. ,C++,https://github.com/Tencent/Tendis
+916,espurna,3016,638,3016,299,24/01/2018,19/03/2025,214.73 MB,219883,Home automation firmware for ESP8266-based devices,C++,https://github.com/xoseperez/espurna
+917,icu,3009,778,3009,80,08/01/2016,28/03/2025,3.05 GB,3197752,The home of the ICU project source code.,C++,https://github.com/unicode-org/icu
+918,core,3007,667,3007,0,31/10/2013,28/03/2025,5.70 GB,5973723,"Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead",C++,https://github.com/LibreOffice/core
+919,ChaiScript,2999,338,2999,128,06/01/2011,20/02/2025,6.29 MB,6439,Embedded Scripting Language Designed for C++,C++,https://github.com/ChaiScript/ChaiScript
+920,iverilog,2995,546,2995,163,12/05/2008,13/03/2025,29.76 MB,30471,Icarus Verilog,C++,https://github.com/steveicarus/iverilog
+921,tomahawk,2992,367,2992,181,15/10/2010,08/09/2020,120.65 MB,123550,"Tomahawk, the multi-source music player",C++,https://github.com/tomahawk-player/tomahawk
+922,apkstudio,2992,532,2992,28,09/09/2014,06/10/2023,12.79 MB,13100,"Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.",C++,https://github.com/vaibhavpandeyvpz/apkstudio
+923,navigation2,2988,1399,2988,126,29/05/2018,28/03/2025,109.07 MB,111691,ROS 2 Navigation Framework and System,C++,https://github.com/ros-navigation/navigation2
+924,pyodbc,2985,567,2985,65,03/10/2008,07/12/2024,1.47 MB,1503,Python ODBC bridge,C++,https://github.com/mkleehammer/pyodbc
+925,pyflame,2985,241,2985,35,09/08/2016,03/12/2019,377.00 KB,377,🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.,C++,https://github.com/uber-archive/pyflame
+926,cdc-file-transfer,2979,87,2979,21,03/11/2022,03/09/2024,24.35 MB,24939,Tools for synching and streaming files from Windows to Linux,C++,https://github.com/google/cdc-file-transfer
+927,SKRoot-linuxKernelRoot,2979,746,2979,44,03/09/2021,17/10/2024,15.90 MB,16283,新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。,C++,https://github.com/abcz316/SKRoot-linuxKernelRoot
+928,heavydb,2975,451,2975,291,07/05/2017,04/09/2024,444.60 MB,455270,HeavyDB (formerly OmniSciDB),C++,https://github.com/heavyai/heavydb
+929,argparse,2972,268,2972,59,30/03/2019,26/01/2025,976.00 KB,976,Argument Parser for Modern C++,C++,https://github.com/p-ranav/argparse
+930,chatglm.cpp,2972,333,2972,159,23/05/2023,31/07/2024,2.21 MB,2267,C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V),C++,https://github.com/li-plus/chatglm.cpp
+931,PhysX,2964,418,2964,40,04/10/2022,25/03/2025,136.84 MB,140121,NVIDIA PhysX SDK,C++,https://github.com/NVIDIA-Omniverse/PhysX
+932,dexed,2963,252,2963,80,06/12/2013,23/02/2025,62.33 MB,63830,DX7 FM multi plaform/multi format plugin,C++,https://github.com/asb2m10/dexed
+933,pe-bear,2960,182,2960,16,18/09/2022,08/03/2025,1.43 MB,1465,Portable Executable reversing tool with a friendly GUI ,C++,https://github.com/hasherezade/pe-bear
+934,vtm,2957,72,2957,23,19/09/2019,09/03/2025,22.19 MB,22724,Text-based desktop environment,C++,https://github.com/directvt/vtm
+935,conceal,2956,428,2956,29,25/01/2014,22/01/2019,42.96 MB,43992,Conceal provides easy Android APIs for performing fast encryption and authentication of data.,C++,https://github.com/facebookarchive/conceal
+936,OpenSubdiv,2949,571,2949,61,24/04/2012,05/12/2024,67.17 MB,68783,An Open-Source subdivision surface library.,C++,https://github.com/PixarAnimationStudios/OpenSubdiv
+937,pcm,2945,481,2945,56,31/10/2016,27/03/2025,5.63 MB,5769,Intel® Performance Counter Monitor (Intel® PCM),C++,https://github.com/intel/pcm
+938,gflags,2941,844,2941,48,20/04/2013,13/12/2024,1.54 MB,1581,The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:,C++,https://github.com/gflags/gflags
+939,Mooncake,2941,188,2941,53,25/06/2024,27/03/2025,40.13 MB,41091,"Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",C++,https://github.com/kvcache-ai/Mooncake
+940,ComputeLibrary,2937,790,2937,12,10/03/2017,21/03/2025,853.31 MB,873791,The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.,C++,https://github.com/ARM-software/ComputeLibrary
+941,MITIE,2937,538,2937,18,01/04/2014,04/01/2025,10.70 MB,10959,MITIE: library and tools for information extraction,C++,https://github.com/mit-nlp/MITIE
+942,strawberry,2936,216,2936,44,29/12/2014,28/03/2025,57.11 MB,58476,:strawberry: Strawberry Music Player,C++,https://github.com/strawberrymusicplayer/strawberry
+943,webscalesql-5.6,2935,355,2935,9,26/10/2013,02/06/2016,293.47 MB,300518,"WebScaleSQL, Version 5.6, based upon the MySQL-5.6 community releases.",C++,https://github.com/facebookarchive/webscalesql-5.6
+944,perf-ninja,2931,266,2931,11,20/07/2021,24/03/2025,53.47 MB,54753,This is an online course where you can learn and master the skill of low-level performance analysis and tuning.,C++,https://github.com/dendibakh/perf-ninja
+945,ikos,2931,203,2931,43,17/10/2017,14/03/2025,5.16 MB,5283,Static analyzer for C/C++ based on the theory of Abstract Interpretation.,C++,https://github.com/NASA-SW-VnV/ikos
+946,kdeconnect-kde,2921,200,2921,0,18/09/2015,28/03/2025,22.26 MB,22796,Multi-platform app that allows your devices to communicate,C++,https://github.com/KDE/kdeconnect-kde
+947,goxel,2916,237,2916,102,05/10/2015,22/03/2025,52.94 MB,54208,Goxel: Free and Open Source 3D Voxel Editor ,C++,https://github.com/guillaumechereau/goxel
+948,Algojammer,2914,109,2914,10,30/09/2018,19/06/2019,13.46 MB,13781,An experimental code editor for writing algorithms,C++,https://github.com/ChrisKnott/Algojammer
+949,Descent3,2913,264,2913,38,16/04/2024,25/03/2025,33.31 MB,34112,Descent 3 by Outrage Entertainment,C++,https://github.com/DescentDevelopers/Descent3
+950,uncrustify,2906,570,2906,330,17/10/2009,18/03/2025,28.80 MB,29493,Code beautifier,C++,https://github.com/uncrustify/uncrustify
+951,jakt,2906,241,2906,52,05/05/2022,01/01/2025,13.10 MB,13410,The Jakt Programming Language,C++,https://github.com/SerenityOS/jakt
+952,botan,2903,587,2903,234,06/03/2013,28/03/2025,105.79 MB,108332,Cryptography Toolkit,C++,https://github.com/randombit/botan
+953,parallel-hashmap,2900,275,2900,9,02/03/2019,09/02/2025,3.19 MB,3271,"A family of header-only, very fast and memory-friendly hashmap and btree containers.",C++,https://github.com/greg7mdp/parallel-hashmap
+954,wdt,2899,389,2899,79,24/07/2014,24/01/2025,2.10 MB,2153,Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.,C++,https://github.com/facebook/wdt
+955,euler,2898,557,2898,220,10/01/2019,19/08/2023,2.55 MB,2607,A distributed graph deep learning framework.,C++,https://github.com/alibaba/euler
+956,jfx,2897,505,2897,34,06/05/2019,27/03/2025,345.95 MB,354254,JavaFX mainline development,C++,https://github.com/openjdk/jfx
+957,hardware-effects,2894,161,2894,11,10/11/2018,29/02/2024,106.00 KB,106,Demonstration of various hardware effects.,C++,https://github.com/Kobzol/hardware-effects
+958,PhoenixGo,2892,573,2892,23,09/05/2018,11/03/2019,225.00 KB,225,Go AI program which implements the AlphaGo Zero paper,C++,https://github.com/Tencent/PhoenixGo
+959,libjxl,2888,283,2888,402,19/02/2021,28/03/2025,36.31 MB,37183,JPEG XL image format reference implementation,C++,https://github.com/libjxl/libjxl
+960,djinni,2884,489,2884,77,08/09/2014,26/03/2020,3.77 MB,3865,A tool for generating cross-language type declarations and interface bindings.,C++,https://github.com/dropbox/djinni
+961,furnace,2881,225,2881,20,13/05/2021,28/03/2025,160.14 MB,163988,a multi-system chiptune tracker compatible with DefleMask modules,C++,https://github.com/tildearrow/furnace
+962,openvdb,2876,687,2876,208,12/04/2013,28/03/2025,119.76 MB,122636,OpenVDB - Sparse volume data structure and tools,C++,https://github.com/AcademySoftwareFoundation/openvdb
+963,fheroes2,2874,391,2874,547,30/08/2019,28/03/2025,129.85 MB,132966,fheroes2 is a recreation of Heroes of Might and Magic II game engine.,C++,https://github.com/ihhub/fheroes2
+964,godot_voxel,2871,261,2871,191,01/05/2016,27/03/2025,74.92 MB,76720,Voxel module for Godot Engine,C++,https://github.com/Zylann/godot_voxel
+965,kactl,2867,793,2867,67,28/05/2017,31/01/2025,13.60 MB,13926,KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp),C++,https://github.com/kth-competitive-programming/kactl
+966,openbr,2867,789,2867,67,20/12/2012,27/03/2025,48.26 MB,49420,"Open Source Biometrics, Face Recognition",C++,https://github.com/biometrics/openbr
+967,rfid,2866,1467,2866,19,09/09/2012,17/02/2025,2.42 MB,2480,Arduino RFID Library for MFRC522,C++,https://github.com/miguelbalboa/rfid
+968,webgl-noise,2864,306,2864,3,22/02/2011,15/11/2024,624.00 KB,624,Procedural Noise Shader Routines compatible with WebGL,C++,https://github.com/ashima/webgl-noise
+969,EPIJudge,2860,1897,2860,80,21/12/2017,16/08/2024,89.26 MB,91405,EPI Judge - Preview Release,C++,https://github.com/adnanaziz/EPIJudge
+970,yocto-gl,2860,208,2860,14,14/04/2016,21/02/2024,305.51 MB,312839,Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics,C++,https://github.com/xelatihy/yocto-gl
+971,habitat-sim,2859,455,2859,229,04/02/2019,21/03/2025,106.70 MB,109262,"A flexible, high-performance 3D simulator for Embodied AI research.",C++,https://github.com/facebookresearch/habitat-sim
+972,bfs,2857,553,2857,119,13/11/2014,03/12/2018,11.66 MB,11938,The Baidu File System.,C++,https://github.com/baidu/bfs
+973,cpp-learning,2856,448,2856,0,02/04/2021,16/12/2024,8.96 MB,9176,,C++,https://github.com/chengxumiaodaren/cpp-learning
+974,openrasp,2847,613,2847,61,10/08/2017,05/06/2024,293.91 MB,300965,🔥Open source RASP solution,C++,https://github.com/baidu/openrasp
+975,Cpp_Primer_Answers,2846,793,2846,57,01/12/2015,16/03/2024,352.00 KB,352,《C++ Primer》第五版中文版习题答案,C++,https://github.com/huangmingchuan/Cpp_Primer_Answers
+976,PcapPlusPlus,2837,689,2837,50,07/10/2014,28/03/2025,90.93 MB,93108,"PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF_XDP and PF_RING.",C++,https://github.com/seladb/PcapPlusPlus
+977,DataStructures-Algorithms,2834,994,2834,35,01/10/2017,16/03/2024,173.00 KB,173,The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!,C++,https://github.com/rachitiitr/DataStructures-Algorithms
+978,Falcor,2831,516,2831,46,25/07/2017,07/01/2025,27.44 MB,28099,Real-Time Rendering Framework,C++,https://github.com/NVIDIAGameWorks/Falcor
+979,self-driving-car,2828,1390,2828,12,25/12/2016,28/03/2023,152.66 MB,156320,Udacity Self-Driving Car Engineer Nanodegree projects.,C++,https://github.com/ndrplz/self-driving-car
+980,re3,2827,464,2827,30,20/02/2021,20/08/2024,46.81 MB,47937,,C++,https://github.com/halpz/re3
+981,tippecanoe,2825,431,2825,214,26/09/2014,02/04/2024,31.66 MB,32423,Build vector tilesets from large collections of GeoJSON features.,C++,https://github.com/mapbox/tippecanoe
+982,root,2819,1328,2819,746,27/06/2013,28/03/2025,1.09 GB,1139400,"The official repository for ROOT: analyzing, storing and visualizing big data, scientifically",C++,https://github.com/root-project/root
+983,gtsam,2818,811,2818,115,27/03/2017,27/03/2025,77.39 MB,79250,"GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.",C++,https://github.com/borglab/gtsam
+984,UnrealEnginePython,2811,756,2811,367,07/08/2016,22/06/2022,97.38 MB,99718,Embed Python in Unreal Engine 4,C++,https://github.com/20tab/UnrealEnginePython
+985,KuiperInfer,2809,318,2809,9,21/11/2022,26/10/2024,317.39 MB,325009,校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step,C++,https://github.com/zjhellofss/KuiperInfer
+986,asm-dom,2808,90,2808,126,25/02/2017,03/03/2023,52.13 MB,53378,A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications),C++,https://github.com/mbasso/asm-dom
+987,snort3,2804,586,2804,63,11/12/2014,14/03/2025,85.16 MB,87205,Snort++,C++,https://github.com/snort3/snort3
+988,VTK,2804,1222,2804,0,27/04/2010,28/03/2025,316.54 MB,324133,Mirror of Visualization Toolkit repository,C++,https://github.com/Kitware/VTK
+989,Cheetah-Software,2803,957,2803,60,17/06/2019,18/10/2023,4.16 MB,4264,,C++,https://github.com/mit-biomimetics/Cheetah-Software
+990,spek,2802,270,2802,131,16/07/2011,28/07/2024,9.52 MB,9753,Acoustic spectrum analyser,C++,https://github.com/alexkay/spek
+991,Ripes,2799,286,2799,74,27/10/2017,02/03/2025,44.78 MB,45858,A graphical processor simulator and assembly editor for the RISC-V ISA,C++,https://github.com/mortbopet/Ripes
+992,antimicrox,2797,159,2797,118,25/08/2020,06/03/2025,32.37 MB,33147,Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.,C++,https://github.com/AntiMicroX/antimicrox
+993,Ender3V2S1,2796,381,2796,20,22/01/2022,11/01/2025,100.80 MB,103222,This is optimized firmware for Ender3 V2/S1 3D printers.,C++,https://github.com/mriscoc/Ender3V2S1
+994,snes9x,2793,474,2793,184,25/09/2010,25/02/2025,19.31 MB,19769,Snes9x - Portable Super Nintendo Entertainment System (TM) emulator,C++,https://github.com/snes9xgit/snes9x
+995,yabridge,2793,67,2793,81,03/02/2020,02/03/2025,8.85 MB,9067,"A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux",C++,https://github.com/robbert-vdh/yabridge
+996,basis_universal,2792,279,2792,123,30/04/2019,22/03/2025,249.70 MB,255688,Basis Universal GPU Texture Codec,C++,https://github.com/BinomialLLC/basis_universal
+997,ugrep,2792,116,2792,4,29/04/2019,10/03/2025,142.14 MB,145548,"🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more",C++,https://github.com/Genivia/ugrep
+998,verilator,2790,644,2790,348,13/06/2019,28/03/2025,58.84 MB,60253,Verilator open-source SystemVerilog simulator and lint system,C++,https://github.com/verilator/verilator
+999,terra,2784,206,2784,124,24/09/2012,06/01/2025,7.32 MB,7492,Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.,C++,https://github.com/terralang/terra
+1000,edb-debugger,2783,330,2783,83,29/03/2015,16/08/2024,9.88 MB,10116,edb is a cross-platform AArch32/x86/x86-64 debugger.,C++,https://github.com/eteran/edb-debugger

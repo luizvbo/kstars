@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,gradle,17440,4880,17440,3119,09/09/2009,28/03/2025,598.94 MB,613313,"Adaptable, fast automation for all",Groovy,https://github.com/gradle/gradle
+2,devops-resources,8888,2222,8888,17,07/01/2019,12/07/2024,1.78 MB,1822,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",Groovy,https://github.com/bregman-arie/devops-resources
+3,rundeck,5724,935,5724,755,03/09/2010,27/03/2025,210.57 MB,215619,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,https://github.com/rundeck/rundeck
+4,pipeline-examples,4254,3535,4254,15,24/11/2015,31/08/2023,127.00 KB,127,"A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin",Groovy,https://github.com/jenkinsci/pipeline-examples
+5,gradle_plugin_android_aspectjx,3954,576,3954,153,25/04/2016,15/09/2021,16.60 MB,16998,"A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.",Groovy,https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
+6,fat-aar-android,3198,653,3198,162,19/12/2018,25/07/2024,7.07 MB,7241,A gradle plugin that merge dependencies into the final aar file works with AGP 3.+,Groovy,https://github.com/kezong/fat-aar-android
+7,nextflow,2890,675,2890,526,27/03/2013,28/03/2025,58.73 MB,60143,A DSL for data-driven computational pipelines,Groovy,https://github.com/nextflow-io/nextflow
+8,SmartThingsPublic,2594,89398,2594,2514,04/08/2015,18/07/2023,20.57 MB,21066,SmartThings open-source DeviceType Handlers and SmartApps code,Groovy,https://github.com/SmartThingsCommunity/SmartThingsPublic
+9,asgard,2229,402,2229,100,21/05/2012,10/04/2023,25.97 MB,26590,[Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases,Groovy,https://github.com/Netflix/asgard
+10,job-dsl-plugin,1910,829,1910,15,25/07/2012,24/03/2025,18.95 MB,19401,A Groovy DSL for Jenkins Jobs - Sweeeeet!,Groovy,https://github.com/jenkinsci/job-dsl-plugin
+11,bintray-release,1852,209,1852,0,16/10/2014,11/02/2022,676.00 KB,676,A helper for releasing from gradle up to bintray,Groovy,https://github.com/novoda/bintray-release
+12,protobuf-gradle-plugin,1790,276,1790,85,13/04/2015,28/01/2025,1.32 MB,1349,Protobuf Plugin for Gradle,Groovy,https://github.com/google/protobuf-gradle-plugin
+13,JenkinsPipelineUnit,1554,398,1554,106,25/01/2017,18/03/2025,1.27 MB,1300,Framework for unit testing Jenkins pipelines ,Groovy,https://github.com/jenkinsci/JenkinsPipelineUnit
+14,docker-nexus3,1490,573,1490,12,05/04/2016,18/03/2025,477.00 KB,477,Dockerized version of Nexus Repo Manager 3,Groovy,https://github.com/sonatype/docker-nexus3
+15,sdk-manager-plugin,1409,133,1409,44,29/03/2014,07/10/2016,453.00 KB,453,DEPRECATED Gradle plugin which downloads and manages your Android SDK.,Groovy,https://github.com/JakeWharton/sdk-manager-plugin
+16,gradle-packer-plugin,1363,283,1363,2,09/12/2014,23/01/2019,223.00 KB,223,Android渠道打包工具,Groovy,https://github.com/mcxiaoke/gradle-packer-plugin
+17,gradle-bintray-plugin,1278,198,1278,165,27/05/2013,15/01/2021,14.31 MB,14650,,Groovy,https://github.com/bintray/gradle-bintray-plugin
+18,build-time-tracker-plugin,1214,67,1214,21,29/07/2014,28/05/2019,856.00 KB,856,Gradle plugin to continuously track and report your build times,Groovy,https://github.com/passy/build-time-tracker-plugin
+19,groovy-geb,1155,236,1155,5,03/08/2010,18/03/2025,9.90 MB,10134,Apache Geb: Very Groovy Browser Automation,Groovy,https://github.com/apache/groovy-geb
+20,AndroidJunkCode,1153,258,1153,17,11/06/2020,30/09/2024,453.00 KB,453,Android马甲包生成垃圾代码插件,Groovy,https://github.com/qq549631030/AndroidJunkCode
+21,AutoRegister,1124,166,1124,12,23/09/2017,14/03/2023,230.00 KB,230,基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC,Groovy,https://github.com/luckybilly/AutoRegister
+22,android-maven-gradle-plugin,1084,136,1084,30,21/10/2013,18/05/2020,647.00 KB,647,Abandoned. This is now supported by the android build plugin: https://developer.android.com/studio/build/maven-publish-plugin,Groovy,https://github.com/dcendents/android-maven-gradle-plugin
+23,okcoin-leeks-reaper,1008,508,1008,9,23/01/2017,08/02/2017,427.00 KB,427,OKCoin韭菜收割机,Groovy,https://github.com/richox/okcoin-leeks-reaper
+24,buildstep,907,271,907,11,02/01/2013,11/06/2018,2.83 MB,2896,Buildstep uses Docker and Buildpacks to build applications like Heroku,Groovy,https://github.com/progrium/buildstep
+25,jenkins-scripts,900,559,900,6,14/12/2011,02/12/2024,171.00 KB,171,"Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins",Groovy,https://github.com/jenkinsci/jenkins-scripts
+26,docker-registry-ui,893,148,893,37,16/06/2014,17/01/2023,41.62 MB,42624,A web frontend/UI for easy private/local Docker Registry integration,Groovy,https://github.com/atcol/docker-registry-ui
+27,gradle-task-tree,872,57,872,5,17/09/2015,08/03/2025,391.00 KB,391,Gradle plugin that adds a 'taskTree' task that prints task dependency tree,Groovy,https://github.com/dorongold/gradle-task-tree
+28,gradle-release,871,221,871,136,14/12/2012,23/12/2024,1.12 MB,1151,gradle-release is a plugin for providing a Maven-like release process for projects using Gradle,Groovy,https://github.com/researchgate/gradle-release
+29,gradle-node-plugin,865,209,865,188,24/11/2013,25/03/2021,902.00 KB,902,Gradle plugin for integrating NodeJS in your build. :rocket:,Groovy,https://github.com/srs/gradle-node-plugin
+30,gradle-test-logger-plugin,859,38,859,33,26/07/2017,16/12/2024,7.79 MB,7979,A Gradle plugin for printing beautiful logs on the console while running tests,Groovy,https://github.com/radarsh/gradle-test-logger-plugin
+31,groovy-android-gradle-plugin,848,116,848,5,06/06/2014,23/03/2020,590.00 KB,590,A Gradle plugin to support the Groovy language for building Android apps,Groovy,https://github.com/groovy/groovy-android-gradle-plugin
+32,ansible-role-jenkins,842,753,842,11,01/03/2014,30/01/2025,246.00 KB,246,Ansible Role - Jenkins CI,Groovy,https://github.com/geerlingguy/ansible-role-jenkins
+33,docker-ci-tool-stack,818,599,818,9,04/07/2015,13/12/2020,4.78 MB,4897,"Docker Infrastructure via docker-compose (Jenkins, SonarQube, Nexus, GitLab, Selenium Grid)",Groovy,https://github.com/marcelbirkner/docker-ci-tool-stack
+34,img-optimizer-gradle-plugin,790,101,790,0,27/06/2016,21/02/2022,2.05 MB,2096,一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。,Groovy,https://github.com/chenenyu/img-optimizer-gradle-plugin
+35,spock-example,785,514,785,8,28/02/2012,23/03/2025,795.00 KB,795,Spock example specifications along with ready-to-go Gradle and Maven builds,Groovy,https://github.com/spockframework/spock-example
+36,okreplay,784,71,784,23,28/02/2017,29/08/2022,61.68 MB,63162,📼 Record and replay OkHttp network interaction in your tests.,Groovy,https://github.com/airbnb/okreplay
+37,gradle-lint-plugin,778,89,778,114,21/12/2015,25/02/2025,2.62 MB,2680,A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. ,Groovy,https://github.com/nebula-plugins/gradle-lint-plugin
+38,gogradle,773,93,773,95,28/11/2016,11/10/2021,10.53 MB,10780,A Gradle Plugin Providing Full Support for Go,Groovy,https://github.com/gogradle/gogradle
+39,docToolchain,767,237,767,251,05/07/2016,24/03/2025,34.92 MB,35759,"a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation",Groovy,https://github.com/docToolchain/docToolchain
+40,AppJoint,766,119,766,15,14/11/2017,20/08/2019,83.68 MB,85686,🔧 Cross module Android development made easy!,Groovy,https://github.com/PrototypeZ/AppJoint
+41,gradle-docker,750,162,750,120,17/09/2015,28/03/2025,1.73 MB,1768,a Gradle plugin for orchestrating docker builds and pushes.,Groovy,https://github.com/palantir/gradle-docker
+42,plugins,731,13,731,0,19/12/2020,26/03/2025,3.27 MB,3348,A set of Gradle plugins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集,Groovy,https://github.com/ihub-pub/plugins
+43,thymeleaf-layout-dialect,726,112,726,12,27/05/2012,02/02/2025,3.12 MB,3195,A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse,Groovy,https://github.com/ultraq/thymeleaf-layout-dialect
+44,awesome-groovy,723,103,723,2,11/07/2014,26/10/2024,101.00 KB,101,"A curated list of awesome groovy libraries, frameworks and resources",Groovy,https://github.com/kdabir/awesome-groovy
+45,Tinker_imitator,721,105,721,6,11/07/2016,07/02/2017,16.37 MB,16762,(UNMAINTAINED)微信热更新方案实践,Groovy,https://github.com/zzz40500/Tinker_imitator
+46,openboxes,708,439,708,254,28/09/2012,28/03/2025,97.37 MB,99704,OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.,Groovy,https://github.com/openboxes/openboxes
+47,hibeaver,706,90,706,15,02/08/2016,27/12/2022,906.00 KB,906,"HiBeaver is a gradle plugin for java byte code manipulation and AOP design by modifying project byte code during build of the package, or modifying byte code within Jar independently.",Groovy,https://github.com/hydraxman/hibeaver
+48,lint-cleaner-plugin,702,107,702,11,20/08/2014,04/02/2019,252.00 KB,252,A Gradle Plugin that removes unused resources in Android projects.,Groovy,https://github.com/marcoRS/lint-cleaner-plugin
+49,jenkins-scripts,690,416,690,24,06/01/2016,10/02/2025,2.01 MB,2054,,Groovy,https://github.com/cloudbees/jenkins-scripts
+50,Mess,689,110,689,11,11/06/2016,01/10/2020,126.00 KB,126,"a gradle plugin for minifying activities, services, receivers, providers and custom view",Groovy,https://github.com/eleme/Mess
+51,jmh-gradle-plugin,685,87,685,84,14/06/2014,28/02/2025,1.00 MB,1028,Integrates the JMH benchmarking framework with Gradle,Groovy,https://github.com/melix/jmh-gradle-plugin
+52,gretty,654,172,654,234,13/06/2013,28/12/2023,4.44 MB,4545,Advanced gradle plugin for running web-apps on jetty and tomcat.,Groovy,https://github.com/akhikhl/gretty
+53,gradle-docker,647,140,647,84,13/10/2013,20/08/2020,488.00 KB,488,A Gradle plugin to build Docker images from the build script.,Groovy,https://github.com/Transmode/gradle-docker
+54,awesome-kubernetes,634,130,634,2,06/12/2018,07/10/2024,71.05 MB,72760,A curated list of awesome references collected since 2018.,Groovy,https://github.com/nubenetes/awesome-kubernetes
+55,bigtop,632,521,632,207,04/08/2011,25/03/2025,49.11 MB,50292,"Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components.",Groovy,https://github.com/apache/bigtop
+56,gradle-node-plugin,632,117,632,86,03/12/2018,12/11/2024,4.28 MB,4382,Gradle plugin for integrating NodeJS in your build. :rocket:,Groovy,https://github.com/node-gradle/gradle-node-plugin
+57,lazybones,616,100,616,53,25/04/2013,13/10/2020,3.44 MB,3519,A simple project creation tool that uses packaged project templates.,Groovy,https://github.com/pledbrook/lazybones
+58,DevOps,610,77,610,0,02/12/2021,09/07/2024,87.00 KB,87,"DevOps. Make the project development and release simpler, easier and more efficient.",Groovy,https://github.com/dqzboy/DevOps
+59,dict_uk,580,73,580,32,27/10/2015,22/03/2025,111.91 MB,114593,Project to generate POS tag dictionary for Ukrainian language,Groovy,https://github.com/brown-uk/dict_uk
+60,axion-release-plugin,576,160,576,83,16/09/2014,24/03/2025,2.76 MB,2829,Gradle release & version management plugin.,Groovy,https://github.com/allegro/axion-release-plugin
+61,jacoco-android-gradle-plugin,562,110,562,42,31/08/2015,06/03/2023,345.00 KB,345,Gradle plugin that creates JaCoCo test reports for Android unit tests,Groovy,https://github.com/arturdm/jacoco-android-gradle-plugin
+62,gradle-git,559,89,559,0,25/01/2012,05/10/2018,3.44 MB,3519,Git plugin for Gradle,Groovy,https://github.com/ajoberstar/gradle-git
+63,pipeline-model-definition-plugin,559,251,559,16,26/08/2016,26/03/2025,4.93 MB,5046,,Groovy,https://github.com/jenkinsci/pipeline-model-definition-plugin
+64,SmartThings,547,1497,547,1,20/01/2016,19/08/2022,6.01 MB,6151,,Groovy,https://github.com/krlaframboise/SmartThings
+65,docker-registry-web,541,134,541,47,03/09/2015,08/02/2022,1.58 MB,1623,Web UI for private docker registry v2,Groovy,https://github.com/mkuchin/docker-registry-web
+66,font-mfizz,538,110,538,56,11/07/2013,11/05/2021,4.49 MB,4599,Font Mfizz - Vector Icons for Technology and Software Geeks,Groovy,https://github.com/fizzed/font-mfizz
+67,gradle-tomcat-plugin,529,122,529,28,30/11/2010,12/10/2023,1.70 MB,1745,Gradle plugin supporting deployment of your web application to an embedded Tomcat web container,Groovy,https://github.com/bmuschko/gradle-tomcat-plugin
+68,gradle-jooq-plugin,524,80,524,1,17/06/2014,14/03/2025,2.04 MB,2090,Gradle plugin that integrates jOOQ. ,Groovy,https://github.com/etiennestuder/gradle-jooq-plugin
+69,glu,518,96,518,75,07/08/2010,08/03/2016,25.89 MB,26513,Deployment Automation Platform,Groovy,https://github.com/pongasoft/glu
+70,grgit,517,93,517,0,21/08/2013,05/10/2024,1.75 MB,1795,The Groovy way to use Git.,Groovy,https://github.com/ajoberstar/grgit
+71,android-cache-fix-gradle-plugin,499,51,499,5,02/11/2017,28/03/2025,3.00 MB,3072,Gradle plugin that fixes Android build caching problems.,Groovy,https://github.com/gradle/android-cache-fix-gradle-plugin
+72,betamax,469,131,469,16,15/08/2011,28/05/2017,61.17 MB,62636,Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby.,Groovy,https://github.com/betamaxteam/betamax
+73,GradlePluginDevelop,464,32,464,1,11/10/2017,20/01/2019,19.85 MB,20323,💍Gradle 执行流程、什么叫DSL、领域专用语言、Gradle常见用法、Gradle高级插件用法、Gradle对Android优化、结合Javassist使用给上一层楼以及Gradle开发中的遇到的问题,Groovy,https://github.com/UCodeUStory/GradlePluginDevelop
+74,gradle-xcodePlugin,462,127,462,25,23/08/2012,11/10/2024,6.55 MB,6707,"gradle plugin for building Xcode Projects for iOS, watchOS, macOS or tvOS",Groovy,https://github.com/openbakery/gradle-xcodePlugin
+75,skills-service,454,102,454,169,24/02/2020,27/03/2025,557.44 MB,570821,SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.,Groovy,https://github.com/NationalSecurityAgency/skills-service
+76,jenkins-script-console-scripts,452,217,452,0,01/11/2015,19/10/2024,228.00 KB,228,A repository of one-off script console scripts for Jenkins.,Groovy,https://github.com/samrocketman/jenkins-script-console-scripts
+77,grails,449,72,449,0,25/03/2009,11/02/2010,329.53 MB,337442,A powerful web application framework based on the Groovy language,Groovy,https://github.com/grails/grails
+78,job-dsl-gradle-example,448,326,448,14,06/02/2014,21/04/2022,322.00 KB,322,An example Job DSL project that uses Gradle for building and testing.,Groovy,https://github.com/sheehan/job-dsl-gradle-example
+79,clouddriver,442,1038,442,12,16/06/2015,24/03/2025,46.74 MB,47857,read and write operations across cloud providers,Groovy,https://github.com/spinnaker/clouddriver
+80,fabric8-pipeline-library,436,209,436,64,08/07/2016,09/04/2024,1.34 MB,1375,Fabric8 Pipeline for Jenkins,Groovy,https://github.com/fabric8io/fabric8-pipeline-library
+81,drawable-optimizer,435,44,435,4,12/03/2016,19/05/2016,1.26 MB,1290,Gradle plugin to optimize png files and reduce resultant apk size within an Android project.,Groovy,https://github.com/fabiomsr/drawable-optimizer
+82,robolectric-gradle-plugin,420,63,420,0,12/02/2014,08/07/2015,1.43 MB,1465,Gradle plugin for Robolectric. ,Groovy,https://github.com/robolectric/robolectric-gradle-plugin
+83,gradle-license-plugin,419,67,419,27,21/12/2016,24/03/2025,1.89 MB,1932,Gradle plugin that provides a task to generate a HTML license report of your project.,Groovy,https://github.com/jaredsburrows/gradle-license-plugin
+84,gradle-docker-compose-plugin,416,98,416,28,11/01/2016,25/02/2025,1.05 MB,1079,Simplifies usage of Docker Compose for integration testing in Gradle environment.,Groovy,https://github.com/avast/gradle-docker-compose-plugin
+85,license-gradle-plugin,416,112,416,91,16/09/2010,26/08/2023,569.00 KB,569,Manage your license(s),Groovy,https://github.com/hierynomus/license-gradle-plugin
+86,gradle-android-plugin,405,96,405,0,02/04/2010,21/10/2013,1.59 MB,1631,Android plugin for the Gradle build system.,Groovy,https://github.com/jvoegele/gradle-android-plugin
+87,templates,403,1406,403,2,06/12/2017,10/10/2023,54.00 KB,54,"Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)",Groovy,https://github.com/embeddedartistry/templates
+88,gradle-static-analysis-plugin,403,27,403,0,09/11/2016,11/02/2022,1.62 MB,1661,Easy setup of static analysis tools for Android and Java projects.,Groovy,https://github.com/novoda/gradle-static-analysis-plugin
+89,badass-jlink-plugin,402,26,402,28,17/06/2018,10/03/2025,37.85 MB,38762,Create a custom runtime image of your modular application,Groovy,https://github.com/beryx/badass-jlink-plugin
+90,groovy-wslite,401,116,401,41,16/02/2011,04/03/2024,905.00 KB,905,Lightweight SOAP and REST webservice clients for Groovy,Groovy,https://github.com/jwagenleitner/groovy-wslite
+91,gradle-android-junit-jacoco-plugin,399,74,399,24,08/10/2015,03/01/2024,542.00 KB,542,Gradle plugin that generates JaCoCo reports from an Android Gradle Project,Groovy,https://github.com/vanniktech/gradle-android-junit-jacoco-plugin
+92,gradle-git-version,396,76,396,54,17/09/2015,26/03/2025,1.54 MB,1578,a Gradle plugin that uses `git describe` to produce a version string.,Groovy,https://github.com/palantir/gradle-git-version
+93,nest-manager,393,2176,393,83,14/03/2016,22/08/2021,108.89 MB,111503,NST Manager (SmartThings),Groovy,https://github.com/tonesto7/nest-manager
+94,android-gradle-study,390,57,390,1,26/12/2018,23/11/2019,208.00 KB,208,深入理解Android Gradle,Groovy,https://github.com/JeremyLiao/android-gradle-study
+95,Android-Gradle-Examples,387,194,387,0,25/10/2012,28/10/2014,584.00 KB,584,,Groovy,https://github.com/Goddchen/Android-Gradle-Examples
+96,calces-gradle-plugin,383,47,383,0,08/06/2018,03/02/2021,553.00 KB,553,Android构建工具集：包含快速实现组件化构建脚本，快速实现屏幕最小宽度适配脚本,Groovy,https://github.com/tangpj/calces-gradle-plugin
+97,gradle-unused-resources-remover-plugin,378,30,378,19,28/04/2018,20/06/2018,428.00 KB,428,Gradle Plugin that removes unused resources in Android projects.,Groovy,https://github.com/konifar/gradle-unused-resources-remover-plugin
+98,artifactory-user-plugins,375,471,375,26,14/10/2011,27/03/2025,23.75 MB,24324,Sample Artifactory User Plugins,Groovy,https://github.com/jfrog/artifactory-user-plugins
+99,dependency-check-gradle,370,95,370,34,27/11/2015,24/03/2025,1.02 MB,1041,"The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor dependent libraries for known, published vulnerabilities.",Groovy,https://github.com/dependency-check/dependency-check-gradle
+100,gradle-ospackage-plugin,370,128,370,88,22/11/2013,25/03/2025,2.56 MB,2620,"Gradle plugin for constructing linux packages, specifically RPM and DEBs.",Groovy,https://github.com/nebula-plugins/gradle-ospackage-plugin
+101,smartthings-mqtt-bridge,370,239,370,108,26/01/2016,20/06/2021,102.00 KB,102,Bridge between SmartThings and MQTT,Groovy,https://github.com/stjohnjohnson/smartthings-mqtt-bridge
+102,sshoogr,356,54,356,30,10/04/2013,22/03/2023,2.05 MB,2097,A Groovy-based DSL for working with remote SSH servers.,Groovy,https://github.com/sshoogr/sshoogr
+103,gradle-android-command-plugin,356,37,356,0,06/05/2014,11/02/2022,878.00 KB,878,Handy commands for testing Android on CI,Groovy,https://github.com/novoda/gradle-android-command-plugin
+104,java-bullshifier,355,27,355,4,17/11/2016,28/12/2022,295.00 KB,295,An open source project by OverOps. Generate massive random Java applications with a command line tool,Groovy,https://github.com/takipi/java-bullshifier
+105,spoon-gradle-plugin,354,79,354,31,23/09/2013,28/11/2019,210.00 KB,210,Gradle plugin for Spoon.,Groovy,https://github.com/stanfy/spoon-gradle-plugin
+106,cheatsheet-jenkins-groovy-A4,346,306,346,1,19/04/2018,04/07/2020,1.53 MB,1565,:book: Groovy CheatSheet For Jenkins Usage In A4,Groovy,https://github.com/dennyzhang/cheatsheet-jenkins-groovy-A4
+107,fataar-gradle-plugin,345,43,345,20,27/03/2018,17/12/2019,128.00 KB,128,Gradle plugin to help embed dependencies in generated AAR artifact,Groovy,https://github.com/Mobbeel/fataar-gradle-plugin
+108,Gradle-License-Report,344,98,344,81,11/05/2015,15/08/2024,940.00 KB,940,A plugin for generating reports about the licenses of third party software using Gradle,Groovy,https://github.com/jk1/Gradle-License-Report
+109,android-unit-test,343,35,343,0,30/09/2013,14/04/2015,1.13 MB,1161,Gradle plugin to add unit testing to android plugin. Prepared for Robolectric.,Groovy,https://github.com/JCAndKSolutions/android-unit-test
+110,gradle-android-scala-plugin,342,64,342,38,05/02/2014,14/10/2017,3.52 MB,3607,gradle-android-scala-plugin adds scala language support to official gradle android plugin,Groovy,https://github.com/saturday06/gradle-android-scala-plugin
+111,repose,339,103,339,13,01/07/2011,11/04/2024,141.39 MB,144785,"The powerful, programmable, API Middleware Platform",Groovy,https://github.com/rackerlabs/repose
+112,gradle-git-properties,336,56,336,45,12/09/2015,07/03/2025,485.00 KB,485,Gradle plugin for `git.properties` file generation,Groovy,https://github.com/n0mer/gradle-git-properties
+113,jenkins-bootstrap-shared,329,126,329,4,05/08/2017,25/01/2025,482.00 KB,482,"Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.",Groovy,https://github.com/samrocketman/jenkins-bootstrap-shared
+114,android-maven-publish,327,38,327,2,18/07/2017,30/01/2023,419.00 KB,419,Modification of the standard Maven Publish plugin to be compatible with android-library projects (aar).,Groovy,https://github.com/wupdigital/android-maven-publish
+115,gradle-ssh-plugin,321,59,321,51,30/10/2012,25/02/2025,1.67 MB,1705,Gradle SSH Plugin,Groovy,https://github.com/int128/gradle-ssh-plugin
+116,holidays-calendar,318,24,318,4,09/11/2016,05/11/2024,256.00 KB,256,Производственный календарь json,Groovy,https://github.com/d10xa/holidays-calendar
+117,gradle-launch4j,316,43,316,9,18/05/2015,30/01/2025,1.12 MB,1150,A gradle-plugin to create windows executables with launch4j,Groovy,https://github.com/TheBoegl/gradle-launch4j
+118,gradle-templates,315,100,315,4,14/12/2012,09/08/2021,205.00 KB,205,A gradle project templates plugin,Groovy,https://github.com/townsfolk/gradle-templates
+119,CodeNarc,315,134,315,58,29/07/2012,09/03/2025,13.08 MB,13391,CodeNarc source,Groovy,https://github.com/CodeNarc/CodeNarc
+120,fat-aar-plugin,311,51,311,9,06/02/2017,21/10/2020,712.00 KB,712,[DEPRECATED]A gradle plugin that helps to output fat aar from android library,Groovy,https://github.com/vigidroid/fat-aar-plugin
+121,gradle-dependency-analyze,309,46,309,10,27/02/2015,26/03/2025,1.79 MB,1832,Dependency analysis plugin for gradle,Groovy,https://github.com/gradle-dependency-analyze/gradle-dependency-analyze
+122,gradle-swagger-generator-plugin,308,67,308,41,02/10/2016,23/11/2024,8.58 MB,8791,"Gradle plugin for OpenAPI YAML validation, code generation and API document publishing",Groovy,https://github.com/int128/gradle-swagger-generator-plugin
+123,okcheck,307,30,307,3,28/02/2018,27/09/2021,639.00 KB,639,"Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use",Groovy,https://github.com/lingochamp/okcheck
+124,SmartThings,307,539,307,55,11/02/2016,18/04/2024,5.87 MB,6011,Samsung SmartThings SmartApps and Device Handlers,Groovy,https://github.com/codersaur/SmartThings
+125,pipeline-library,299,141,299,13,11/08/2016,24/03/2025,1.38 MB,1411,Collection of custom steps and variables for our Jenkins instance(s),Groovy,https://github.com/jenkins-infra/pipeline-library
+126,p2rank,297,36,297,13,25/09/2016,26/03/2025,690.96 MB,707545,P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning.,Groovy,https://github.com/rdk/p2rank
+127,nexus3-oss,296,206,296,31,03/12/2017,19/07/2024,917.00 KB,917,Ansible role to install and provision sonatype nexus3-oss,Groovy,https://github.com/ansible-ThoTeam/nexus3-oss
+128,gradle-dependency-lock-plugin,295,44,295,26,29/01/2014,25/02/2025,2.37 MB,2431,A plugin to allow people using dynamic dependency versions to lock them to specific versions.,Groovy,https://github.com/nebula-plugins/gradle-dependency-lock-plugin
+129,gradle-apt-plugin,293,30,293,0,04/05/2015,27/01/2020,784.00 KB,784,[OBSOLETE] Gradle plugin making it easier/safer to use Java annotation processors,Groovy,https://github.com/tbroyer/gradle-apt-plugin
+130,gradle-nexus-plugin,291,48,291,0,10/06/2012,21/03/2021,477.00 KB,477,Gradle plugin for configuring and uploading artifacts to Sonatype Nexus,Groovy,https://github.com/bmuschko/gradle-nexus-plugin
+131,asciidoctor-gradle-plugin,290,126,290,116,12/02/2013,13/01/2025,12.96 MB,13268,A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.,Groovy,https://github.com/asciidoctor/asciidoctor-gradle-plugin
+132,moqui-framework,289,205,289,74,23/01/2016,15/03/2025,10.76 MB,11014,"Use Moqui Framework to build enterprise applications based on Java. It includes tools for databases (relational, graph, document), local and web services, web and other UI with screens and forms, security, file/resource access, scripts, templates, l10n, caching, logging, search, rules, workflow, multi-instance, and integration.",Groovy,https://github.com/moqui/moqui-framework
+133,apache-groovy-course,288,433,288,5,27/01/2016,08/09/2018,210.00 KB,210,Apache Groovy Course,Groovy,https://github.com/danvega/apache-groovy-course
+134,ansible-jenkins,282,170,282,11,05/03/2013,30/09/2020,75.00 KB,75,Ansible playbook: Jenkins,Groovy,https://github.com/ICTO/ansible-jenkins
+135,json-avro-converter,280,101,280,30,05/02/2016,15/07/2024,348.00 KB,348,JSON to Avro conversion tool designed to make migration to Avro easier.,Groovy,https://github.com/allegro/json-avro-converter
+136,gradle-android-git-version,277,29,277,14,11/01/2016,30/10/2020,185.00 KB,185,A gradle plugin to calculate Android-friendly version names and codes from git tags,Groovy,https://github.com/gladed/gradle-android-git-version
+137,jenkins-pipeline-library,274,177,274,9,08/07/2015,12/10/2017,704.00 KB,704,a collection of reusable jenkins pipelines and pipeline functions,Groovy,https://github.com/fabric8io/jenkins-pipeline-library
+138,spock-reports,274,68,274,18,23/07/2013,24/02/2024,1.34 MB,1373,This project creates a global extension to Spock to create test reports.,Groovy,https://github.com/renatoathaydes/spock-reports
+139,graphql-java-extended-scalars,273,62,273,11,01/10/2018,03/03/2025,323.00 KB,323,A library of extended scalars for graphql-java,Groovy,https://github.com/graphql-java/graphql-java-extended-scalars
+140,NuwaGradle,273,72,273,7,11/11/2015,31/03/2016,71.00 KB,71,gradle plugin wrote for Nuwa,Groovy,https://github.com/jasonross/NuwaGradle
+141,java-testing-with-spock,270,137,270,1,08/12/2014,25/12/2020,398.00 KB,398,"Code samples from the book ""Java testing with Spock""",Groovy,https://github.com/kkapelon/java-testing-with-spock
+142,Blade,267,22,267,6,28/11/2015,06/12/2018,1.01 MB,1031,Android library for boilerplate destruction,Groovy,https://github.com/FrantisekGazo/Blade
+143,jervis,267,45,267,23,22/11/2014,30/11/2024,2.65 MB,2709,Self service Jenkins job generation using Jenkins Job DSL plugin groovy scripts. Reads .jervis.yml and generates a job in Jenkins.,Groovy,https://github.com/samrocketman/jervis
+144,android-check,266,67,266,21,24/11/2014,28/05/2018,274.00 KB,274,"Static code analysis plugin for Android project. (Checkstyle, PMD)",Groovy,https://github.com/noveogroup/android-check
+145,groovykoans,261,145,261,11,08/09/2012,11/02/2022,915.00 KB,915,"A collection of small exercises in the form of unit tests, designed to get Java developers up to speed on Groovy",Groovy,https://github.com/nadavc/groovykoans
+146,grails-spring-security,260,227,260,101,22/03/2010,20/03/2025,73.01 MB,74765,Grails Spring Security Plugins,Groovy,https://github.com/apache/grails-spring-security
+147,gradle-cargo-plugin,260,61,260,19,27/05/2011,20/02/2022,1.52 MB,1554,Gradle plugin that provides deployment capabilities to local and remote containers via Cargo,Groovy,https://github.com/bmuschko/gradle-cargo-plugin
+148,AucFrameTemplate,255,55,255,1,13/07/2019,08/05/2020,145.00 KB,145,AucFrame,Groovy,https://github.com/Blankj/AucFrameTemplate
+149,SwissKnife,254,24,254,4,21/08/2014,25/11/2015,15.90 MB,16286,A multi-purpose library containing view injection and threading for Android using annotations,Groovy,https://github.com/jmartinesp/SwissKnife
+150,ComponentCornerstone,253,25,253,3,16/07/2019,18/10/2024,10.77 MB,11030,":ant::ant:   一种全新的android组件化方案，无需下沉公用代码，无需采用路由等硬编码方式分发sdk，独立维护组件暴露的SDK/IMPL，打破官方模块循环且支持组件间互相调用SDK，支持集成组件调试/组件独立运行。A brand new android componentization solution, no need to sink public code, no need to use hard coding to distribute sdk, independent maintenance component exposed SDK / IMPL, break the official module loop and support the call between components The SDK supports integrated component debugging/components to run independently.",Groovy,https://github.com/DSAppTeam/ComponentCornerstone
+151,coveralls-gradle-plugin,253,54,253,14,24/09/2013,07/03/2023,376.00 KB,376,👨‍🔧 gradle plugin for coveralls,Groovy,https://github.com/kt3k/coveralls-gradle-plugin
+152,my-bloody-jenkins,251,72,251,10,09/09/2017,13/10/2024,13.38 MB,13698,Self Configured Jenkins Docker image based on Jenkins-LTS,Groovy,https://github.com/odavid/my-bloody-jenkins
+153,Xiaomi,250,1827,250,16,07/02/2017,24/04/2022,36.00 KB,36,my Xiaomi Device Handlers for Smartthings,Groovy,https://github.com/a4refillpad/Xiaomi
+154,iceScrum,249,72,249,12,27/11/2010,17/05/2022,49.15 MB,50328,"iceScrum is a web application for using Scrum while keeping the spirit of a collaborative workspace. It also offers virtual boards with post-its for sprint backlog, product backlog and others.",Groovy,https://github.com/icescrum/iceScrum
+155,GPars,247,58,247,21,22/09/2011,16/12/2023,34.40 MB,35229,The GPars concurrency and parallelism framework for the JVM,Groovy,https://github.com/GPars/GPars
+156,okky,245,84,245,72,27/01/2015,11/10/2020,21.50 MB,22018,okky.kr,Groovy,https://github.com/okjsp/okky
+157,test-retry-gradle-plugin,242,51,242,23,27/11/2019,28/03/2025,6.37 MB,6521,Gradle plugin to retry tests that have failed to mitigate test flakiness.,Groovy,https://github.com/gradle/test-retry-gradle-plugin
+158,gradle-idea-ext-plugin,237,41,237,59,14/08/2017,29/01/2025,431.00 KB,431,Plugin to store IJ settings in gradle script,Groovy,https://github.com/JetBrains/gradle-idea-ext-plugin
+159,frontlinesms2,236,59,236,6,12/04/2012,31/10/2017,36.84 MB,37729,FrontlineSMS is desktop/cloud based software created to lower barriers to positive social change using mobile technology,Groovy,https://github.com/frontlinesms/frontlinesms2
+160,gradle-appengine-plugin,236,60,236,46,30/09/2013,28/04/2018,882.00 KB,882,"Gradle plugin that provides tasks for uploading, running and managing Google App Engine projects",Groovy,https://github.com/GoogleCloudPlatform/gradle-appengine-plugin
+161,CheckResourceConflict,235,34,235,4,07/11/2019,28/11/2019,808.00 KB,808,Android 自动检测资源冲突的gradle 插件(An Android Gradle Plugin For Checking Conflict Resources),Groovy,https://github.com/hust201010701/CheckResourceConflict
+162,bpipe,235,58,235,158,20/10/2014,06/02/2025,54.15 MB,55451,Bpipe - a tool for running and managing bioinformatics pipelines,Groovy,https://github.com/ssadedin/bpipe
+163,Supersymmetry,231,99,231,112,17/10/2021,24/03/2025,120.58 MB,123474,Repository for the Supersymmetry Minecraft Modpack,Groovy,https://github.com/SymmetricDevs/Supersymmetry
+164,Gradle-Repo,230,22,230,9,03/07/2018,11/03/2021,498.00 KB,498,统一管理Git多仓库及模块依赖 / Manage multiple Git repositories and dependencies between modules.,Groovy,https://github.com/EastWoodYang/Gradle-Repo
+165,scripts,230,138,230,0,29/11/2013,15/03/2025,924.00 KB,924,Groovy Scripts for FileBot,Groovy,https://github.com/filebot/scripts
+166,jenkinsfile-examples,230,302,230,0,20/09/2018,19/09/2024,243.00 KB,243,Executable examples of Jenkinsfiles.,Groovy,https://github.com/hoto/jenkinsfile-examples
+167,dgate,229,62,229,7,12/11/2016,09/12/2021,222.00 KB,222,an API Gateway based on Vert.x,Groovy,https://github.com/DTeam-Top/dgate
+168,gradle-witness,228,60,228,24,30/05/2014,19/04/2019,227.00 KB,227,A gradle plugin that enables static verification for remote dependencies.,Groovy,https://github.com/signalapp/gradle-witness
+169,gradle-pitest-plugin,227,60,227,55,16/07/2012,26/01/2025,1.82 MB,1861,Gradle plugin for PIT Mutation Testing,Groovy,https://github.com/szpak/gradle-pitest-plugin
+170,nebula-release-plugin,226,57,226,59,11/11/2014,17/03/2025,1.66 MB,1700,Release opinions based around gradle-git,Groovy,https://github.com/nebula-plugins/nebula-release-plugin
+171,grails-data-mapping,226,200,226,364,25/09/2013,19/03/2025,380.03 MB,389155,GORM - Groovy Object Mapping,Groovy,https://github.com/apache/grails-data-mapping
+172,RoboAspectJ,223,21,223,4,14/03/2016,06/12/2016,40.00 KB,40,A gradle plugin that enables AOP in android.,Groovy,https://github.com/meituan/RoboAspectJ
+173,CoRE,222,659,222,29,11/05/2016,02/12/2019,1.14 MB,1172,CoRE - Community's own Rule Engine,Groovy,https://github.com/ady624/CoRE
+174,gitops-playground,222,48,222,0,14/10/2020,28/03/2025,20.98 MB,21486,Creates a complete GitOps-based operational stack on your Kubernetes clusters,Groovy,https://github.com/cloudogu/gitops-playground
+175,gaelyk,221,38,221,36,17/07/2009,02/06/2019,243.57 MB,249419,A lightweight Groovy toolkit for Google App Engine Java,Groovy,https://github.com/gaelyk/gaelyk
+176,grooscript,221,19,221,6,27/08/2012,01/08/2022,2.96 MB,3027,Converts your Groovy code to Javascript,Groovy,https://github.com/chiquitinxx/grooscript
+177,mi_connector,220,596,220,26,08/03/2018,05/07/2022,15.18 MB,15541,"Connector for Xiaomi Devices with Smartthings, Hubitat",Groovy,https://github.com/fison67/mi_connector
+178,MicroModule,220,50,220,3,04/08/2017,20/09/2021,889.00 KB,889,Rebuild multiple complete module structures within the module.,Groovy,https://github.com/EastWoodYang/MicroModule
+179,gradle-one-jar,218,41,218,19,16/05/2012,10/05/2024,485.00 KB,485,"The gradle-one-jar project is a Gradle plugin that uses One-JAR, a specialised Class-Loader written by Simon Tuffs (http://one-jar.sourceforge.net/), for building self-contained executable jars that include all dependencies.",Groovy,https://github.com/rholder/gradle-one-jar
+180,platform,214,89,214,0,29/04/2014,06/11/2019,2.39 MB,2452,The lean and modular platform for modern applications,Groovy,https://github.com/spring-attic/platform
+181,jenkins-pipeline-library,211,103,211,1,29/11/2017,25/09/2024,1.11 MB,1134,wcm.io Jenkins Pipeline Library for CI/CD,Groovy,https://github.com/wcm-io-devops/jenkins-pipeline-library
+182,tradukisto,210,93,210,39,30/03/2015,27/01/2025,863.00 KB,863,A Java i18n library created to convert numbers to their word representations.,Groovy,https://github.com/allegro/tradukisto
+183,lock-manager,208,660,208,81,20/09/2016,03/12/2022,524.00 KB,524,Lock Manager,Groovy,https://github.com/ethayer/lock-manager
+184,android-native-dependencies,205,27,205,10,25/05/2014,14/08/2017,955.00 KB,955,Gradle plugin for resolving and downloading Android native dependencies (.so),Groovy,https://github.com/AghilasMessara/android-native-dependencies
+185,micro-infra-spring,201,49,201,53,05/08/2014,21/02/2020,3.11 MB,3188,Repository containing default microservice infrastructure set up using Spring configuration,Groovy,https://github.com/4finance/micro-infra-spring
+186,grails-doc,201,540,201,27,10/02/2010,20/03/2025,573.71 MB,587476,Documentation Project For The Grails Web Application Framework,Groovy,https://github.com/apache/grails-doc
+187,versioning,201,39,201,20,05/01/2015,10/03/2024,841.00 KB,841,Gradle plug-in to generate version information from the SCM branch (Git or Svn),Groovy,https://github.com/nemerosa/versioning
+188,geb-example-gradle,201,192,201,0,22/12/2010,13/02/2023,419.00 KB,419,An example project for using Geb in a Gradle build (Spock and JUnit 4),Groovy,https://github.com/geb/geb-example-gradle
+189,wolox-ci,200,52,200,6,25/01/2018,11/12/2020,56.00 KB,56,,Groovy,https://github.com/Wolox/wolox-ci
+190,GroovyInAction,200,78,200,1,04/06/2015,06/02/2023,2.83 MB,2900,"Source code of the book Groovy in Action, 2nd edition",Groovy,https://github.com/Dierk/GroovyInAction
+191,groovyfx,199,50,199,22,26/11/2011,05/03/2021,18.27 MB,18705,A library for writing JavaFX 8 applications in the Groovy language.,Groovy,https://github.com/groovyfx-project/groovyfx
+192,module-dependency-graph,198,11,198,4,12/10/2019,02/06/2023,395.00 KB,395,This plugin adds a new task (graphModules) to your project which will create an image with the graph of your module dependency tree,Groovy,https://github.com/savvasdalkitsis/module-dependency-graph
+193,smartthings,192,302,192,0,04/07/2014,03/10/2022,321.00 KB,321,My SmartThings Projects,Groovy,https://github.com/statusbits/smartthings
+194,gradle-properties-plugin,193,29,193,11,04/07/2012,08/10/2023,670.00 KB,670,Gradle plugin to simplify loading project properties from external environment specific files,Groovy,https://github.com/stevesaliman/gradle-properties-plugin
+195,AppInit,193,21,193,3,26/03/2020,10/12/2024,7.74 MB,7925,AppInit 是一款 Android 应用初始化框架，基于组件化的设计思路，功能灵活，使用简单。,Groovy,https://github.com/bingoogolapple/AppInit
+196,muwire,193,26,193,53,02/07/2018,01/01/2025,7.57 MB,7747,MuWire file sharing client for I2P,Groovy,https://github.com/zlatinb/muwire
+197,Gank4Android,191,38,191,1,29/09/2015,16/07/2016,18.08 MB,18519,Deprecated  使用Groovy开发的Gank.IO的Android客户端,Groovy,https://github.com/zzhoujay/Gank4Android
+198,google-java-format-gradle-plugin,191,35,191,21,03/11/2015,03/07/2024,491.00 KB,491,,Groovy,https://github.com/sherter/google-java-format-gradle-plugin
+199,jenkins-build-per-branch,190,182,190,36,19/01/2012,26/07/2017,477.00 KB,477,,Groovy,https://github.com/entagen/jenkins-build-per-branch
+200,jenkins-pipeline-scripts,190,126,190,0,13/04/2016,21/02/2019,77.00 KB,77,,Groovy,https://github.com/docker-archive/jenkins-pipeline-scripts
+201,jenkins-spock,188,77,188,49,10/09/2018,28/06/2024,299.00 KB,299,Unit-test Jenkins pipeline code with Spock,Groovy,https://github.com/ExpediaGroup/jenkins-spock
+202,cabolabs-ehrserver,187,110,187,172,11/03/2013,13/03/2023,117.98 MB,120814,"Open platform to manage and share standardized clinical data, designed by @ppazos at CaboLabs Health Informatics.",Groovy,https://github.com/ppazos/cabolabs-ehrserver
+203,fabric8-jenkinsfile-library,185,67,185,8,01/11/2016,13/02/2019,437.00 KB,437,This repository contains a library of reusable Jenkinsfiles that you can use on your projects. Its reused by the fabric8 console to associate Jenkinsfiles to projects,Groovy,https://github.com/fabric8io/fabric8-jenkinsfile-library
+204,spotbugs-gradle-plugin,185,69,185,56,25/10/2017,25/03/2025,4.46 MB,4566,,Groovy,https://github.com/spotbugs/spotbugs-gradle-plugin
+205,gradle-lombok,184,21,184,3,18/08/2015,22/12/2021,428.00 KB,428,Gradle plugin for Lombok support,Groovy,https://github.com/franzbecker/gradle-lombok
+206,gmongo,182,44,182,5,20/06/2010,29/04/2016,12.20 MB,12493,A Groovy wrapper to the mongodb Java driver,Groovy,https://github.com/poiati/gmongo
+207,gradle-hockeyapp-plugin,181,67,181,14,22/09/2013,28/03/2018,652.00 KB,652,A Gradle plugin for uploading iOS and Android Apps to HockeyApp.,Groovy,https://github.com/x2on/gradle-hockeyapp-plugin
+208,jenkins-lib,179,72,179,40,20/04/2020,19/03/2025,916.00 KB,916,Jenkins shared library для 1С:Предприятие 8,Groovy,https://github.com/firstBitMarksistskaya/jenkins-lib
+209,Making-Java-Groovy,179,85,179,2,19/11/2011,17/10/2024,21.99 MB,22517,"Source code for Manning book ""Making Java Groovy""",Groovy,https://github.com/kousen/Making-Java-Groovy
+210,AnalysisApp,178,23,178,6,16/08/2016,16/06/2024,86.00 KB,86,一个快速分析某个app使用哪些sdk的小工具,Groovy,https://github.com/fengzhizi715/AnalysisApp
+211,gradle-fatjar-plugin,178,23,178,8,15/04/2012,27/07/2015,394.00 KB,394,Gradle FatJAR Plugin,Groovy,https://github.com/musketyr/gradle-fatjar-plugin
+212,jenkins-configuration,178,51,178,7,30/05/2017,16/12/2023,483.00 KB,483,A collection of utilities for configuring a Jenkins instance and its plugins,Groovy,https://github.com/edx/jenkins-configuration
+213,gradle-buildconfig-plugin,174,20,174,19,08/08/2015,20/12/2021,227.00 KB,227,A BuildConfig plugin for Gradle java projects,Groovy,https://github.com/mfuerstenau/gradle-buildconfig-plugin
+214,gradle-nexus-staging-plugin,173,26,173,18,26/02/2015,22/10/2022,636.00 KB,636,Automatize releasing Gradle projects to Maven Central.,Groovy,https://github.com/Codearte/gradle-nexus-staging-plugin
+215,HubitatPublic,173,102,173,7,16/02/2018,25/03/2025,184.00 KB,184,,Groovy,https://github.com/hubitat/HubitatPublic
+216,ClassPlugin,172,23,172,2,15/08/2017,30/01/2023,246.00 KB,246,A flexible class replacement plugin for gradle,Groovy,https://github.com/dinuscxj/ClassPlugin
+217,lgtmin,171,28,171,26,03/05/2013,14/06/2021,15.46 MB,15834,Say 'Looks good to me' with pictures,Groovy,https://github.com/rahulsom/lgtmin
+218,jenkinsfiles,171,152,171,0,20/04/2016,23/04/2016,17.00 KB,17,Examples collected for Jenkins files from www,Groovy,https://github.com/dalalv/jenkinsfiles
+219,demo-jenkins-config-as-code,171,69,171,7,13/07/2017,15/12/2022,131.00 KB,131,Demo of Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts,Groovy,https://github.com/oleg-nenashev/demo-jenkins-config-as-code
+220,gaiden,169,13,169,10,27/09/2013,16/12/2022,2.87 MB,2942,Gaiden is a tool that makes it easy to create documentation with Markdown.,Groovy,https://github.com/kobo/gaiden
+221,android-build-filter-gradle-plugin,169,10,169,2,25/04/2018,26/04/2018,361.00 KB,361,一个小众需求下移除 Android 构建中 Jar 包、AAR 包、构建冗余 class 文件的 Gradle 插件。,Groovy,https://github.com/yanbober/android-build-filter-gradle-plugin
+222,genymotion-gradle-plugin,167,47,167,4,23/01/2015,19/01/2024,2.12 MB,2173,"A plugin that allows you to control, simply, all your Genymotion devices from your Gradle scripts",Groovy,https://github.com/Genymobile/genymotion-gradle-plugin
+223,badass-runtime-plugin,167,22,167,51,17/11/2018,20/07/2024,27.51 MB,28173,Create a custom runtime image of your non-modular application,Groovy,https://github.com/beryx/badass-runtime-plugin
+224,useful-jenkins-groovy-init-scripts,166,38,166,2,17/03/2015,30/08/2019,10.00 KB,10,A repo of useful groovy init scripts for working with jenkins hooks..,Groovy,https://github.com/imranity/useful-jenkins-groovy-init-scripts
+225,EasyPrivacy,166,27,166,2,25/10/2021,30/08/2022,2.14 MB,2192,一个帮助开发者快速解决整改问题的 Gradle 插件，来提 Feature！,Groovy,https://github.com/pengxurui/EasyPrivacy
+226,idea-gradle-dependencies-formatter,165,7,165,7,02/09/2015,02/05/2024,1.37 MB,1402,Gradle dependencies formatter for IntelliJ IDEA,Groovy,https://github.com/platan/idea-gradle-dependencies-formatter
+227,openthesaurus,163,27,163,8,24/09/2012,16/03/2025,9.27 MB,9490,web-based thesaurus search and management,Groovy,https://github.com/danielnaber/openthesaurus
+228,jenkinslibrary,163,329,163,2,09/01/2020,17/10/2021,156.00 KB,156,Jenkins共享库,Groovy,https://github.com/zeyangli/jenkinslibrary
+229,lemarios,162,89,162,3,09/03/2012,09/02/2024,2.08 MB,2132,Lemarios y listas de palabras del español,Groovy,https://github.com/olea/lemarios
+230,gradle-gatling-plugin,162,45,162,0,08/12/2015,29/09/2020,328.00 KB,328,Gatling Plugin for Gradle,Groovy,https://github.com/lkishalmi/gradle-gatling-plugin
+231,github-api-global-lib,161,530,161,10,15/12/2016,13/10/2023,178.00 KB,178,,Groovy,https://github.com/darinpope/github-api-global-lib
+232,mpl,160,97,160,14,05/04/2018,07/11/2024,119.00 KB,119,[IT-36925] Jenkins Shared Modular Pipeline Library,Groovy,https://github.com/griddynamics/mpl
+233,jgitver-maven-plugin,159,41,159,41,27/04/2016,25/09/2023,686.00 KB,686,maven core extension to automatically define versions using jgitver & git tags,Groovy,https://github.com/jgitver/jgitver-maven-plugin
+234,maven-tiles,159,33,159,28,02/08/2014,16/03/2025,1.33 MB,1366,Injecting maven configurations by composition rather than inheritance,Groovy,https://github.com/repaint-io/maven-tiles
+235,grain,159,30,159,7,11/10/2013,14/03/2024,6.27 MB,6422,"Grain is a lightweight and powerful static website generator with custom themes to help create static, SEO-friendly websites or a blog in no time.",Groovy,https://github.com/sysgears/grain
+236,RxGroovy,158,25,158,5,19/08/2014,08/01/2020,235.00 KB,235,RxJava bindings for Groovy,Groovy,https://github.com/ReactiveX/RxGroovy
+237,grails-website,157,174,157,10,14/02/2011,09/12/2020,33.44 MB,34246,Grails Web Site,Groovy,https://github.com/grails-samples/grails-website
+238,wire-gradle-plugin,154,23,154,5,07/05/2015,29/04/2019,70.00 KB,70,A Gradle plugin for generating Java code for your protocol buffer definitions with Wire.,Groovy,https://github.com/square/wire-gradle-plugin
+239,adop-jenkins,153,129,153,21,01/02/2016,30/01/2019,125.00 KB,125,,Groovy,https://github.com/Accenture/adop-jenkins
+240,gradle-plugin-git-dependencies,153,24,153,12,01/01/2013,25/03/2014,814.00 KB,814,A Gradle Plugin to manage git repository dependencies,Groovy,https://github.com/bat-cha/gradle-plugin-git-dependencies
+241,wuff,153,51,153,68,20/04/2014,19/03/2024,5.16 MB,5281,Gradle plugin for automating assembly of OSGi/Eclipse bundles and applications,Groovy,https://github.com/akhikhl/wuff
+242,hubitat-packagemanager,152,56,152,20,05/04/2020,11/06/2022,1.01 MB,1034,,Groovy,https://github.com/dcmeglio/hubitat-packagemanager
+243,gson-plugin,151,14,151,2,15/11/2018,13/05/2019,152.00 KB,152,辅助 Gson 库的 gradle 插件，防止 Json 数据解析类型异常。,Groovy,https://github.com/LianjiaTech/gson-plugin
+244,parrot,150,13,150,1,06/04/2016,11/04/2016,90.00 KB,90,Automatically translate all your string resources to multiple languages,Groovy,https://github.com/carlospaulino/parrot
+245,twitter-bootstrap-scaffolding,150,91,150,23,15/11/2011,07/09/2015,457.00 KB,457,Twitter Bootstrap powered Grails scaffolding templates,Groovy,https://github.com/robfletcher/twitter-bootstrap-scaffolding
+246,Mis,150,25,150,0,08/06/2018,15/07/2021,430.00 KB,430,模块接口服务，如何在一个模块内维护其对外暴露的接口（包括打包发布），而不是把接口和接口实现分离到两个不同的模块？,Groovy,https://github.com/EastWoodYang/Mis
+247,artifactory-scripts,150,161,150,22,17/07/2014,28/02/2023,406.00 KB,406,"Scripts for Artifactory (Usually, for REST API), community driven.",Groovy,https://github.com/jfrog/artifactory-scripts
+248,nf-tower,149,54,149,114,15/04/2019,30/01/2025,10.86 MB,11124,Nextflow Tower system,Groovy,https://github.com/seqeralabs/nf-tower
+249,zerotocloud,148,45,148,6,14/07/2014,16/11/2018,18.34 MB,18782,Scripts and instructions for Zero To Cloud With NetflixOSS,Groovy,https://github.com/Netflix-Skunkworks/zerotocloud
+250,pipelineUnit,147,65,147,12,09/03/2017,04/04/2019,140.00 KB,140,Unit testing of Jenkins pipeline code with Spock,Groovy,https://github.com/macg33zr/pipelineUnit
+251,igor,146,663,146,12,06/10/2014,22/03/2025,2.95 MB,3024,Integration with Jenkins and Git for Spinnaker,Groovy,https://github.com/spinnaker/igor
+252,gradle-plugins,145,42,145,0,20/11/2014,28/04/2021,513.00 KB,513,A collection of Gradle plugins,Groovy,https://github.com/ewerk/gradle-plugins
+253,JenkinsAsCodeReference,143,107,143,25,20/11/2015,23/08/2018,592.00 KB,592,This repository is intended for the reference Jenkins configuration as code as well as JobDSL library,Groovy,https://github.com/Praqma/JenkinsAsCodeReference
+254,Tayra,143,29,143,5,26/10/2012,18/04/2017,12.76 MB,13068,Incremental backup tool for MongoDB,Groovy,https://github.com/EqualExperts/Tayra
+255,cdeasy,142,46,142,3,01/07/2015,22/06/2017,394.00 KB,394,Continuous Delivery made Easy ;),Groovy,https://github.com/camiloribeiro/cdeasy
+256,grails-gradle-plugin-archived,141,40,141,36,10/02/2010,26/09/2015,1.34 MB,1377,,Groovy,https://github.com/grails/grails-gradle-plugin-archived
+257,device-type.myecobee,141,268,141,0,09/04/2014,31/01/2023,4.33 MB,4437,SmartThings-ecobee integration,Groovy,https://github.com/yracine/device-type.myecobee
+258,gradle-extra-configurations-plugin,140,18,140,7,27/01/2014,25/02/2025,1.16 MB,1186,Gradle plugin introducing a provided dependency configuration and marking a dependency as optional.,Groovy,https://github.com/nebula-plugins/gradle-extra-configurations-plugin
+259,idea-cli-inspector,139,13,139,3,04/12/2015,19/07/2021,186.00 KB,186,"A little command-line tool to integrate the awesome IntelliJ IDEA code inspections in your continuous integration (CI) process using Jenkins, Bamboo, et. al.",Groovy,https://github.com/bentolor/idea-cli-inspector
+260,kordamp-gradle-plugins,139,25,139,31,01/10/2018,07/01/2025,22.08 MB,22611,A collection of Gradle plugins,Groovy,https://github.com/kordamp/kordamp-gradle-plugins
+261,AARLinkSources,139,9,139,2,30/09/2014,09/05/2016,166.00 KB,166,Attach sources for .aar dependencies in AndroidStudio.,Groovy,https://github.com/xujiaao/AARLinkSources
+262,groovycsv,139,32,139,4,02/07/2010,31/01/2022,226.00 KB,226,A simple CSV parsing library for groovy,Groovy,https://github.com/xlson/groovycsv
+263,OmniJ,138,76,138,33,03/06/2014,20/02/2024,18.16 MB,18594,"OmniLayer for Java, JVM, and Android",Groovy,https://github.com/OmniLayer/OmniJ
+264,j2objc-gradle,138,43,138,57,02/02/2015,18/06/2018,1.28 MB,1314,"This plugin is no longer actively maintained. J2ObjC Gradle Plugin: enables Java source to be part of an iOS application's build so you can write an app's non-UI code (such as application logic and data models) in Java, which is then shared by Android apps (natively Java) and iOS apps (using J2ObjC), all as part of your usual Android Gradle build.",Groovy,https://github.com/j2objc-contrib/j2objc-gradle
+265,fat-aar,137,29,137,12,17/07/2019,06/09/2019,83.00 KB,83,A plugin to merge dependencies(aar/jar) into aar file,Groovy,https://github.com/cpdroid/fat-aar
+266,gradle-plugins,137,55,137,2,16/10/2011,15/01/2024,1.57 MB,1610,"Gradle plugins for use in building and publishing open-source Spring projects, e.g. Spring Framework, Spring Integration",Groovy,https://github.com/spring-attic/gradle-plugins
+267,vdjdb-db,135,26,135,70,06/01/2016,11/03/2025,17.47 MB,17893,🗂️ [vdjdb.cdr3.net is up and running] Git-based TCR database storage & management. Submissions welcome!,Groovy,https://github.com/antigenomics/vdjdb-db
+268,vdjtools,134,41,134,83,06/06/2014,23/05/2024,32.32 MB,33099,[REPLACED by https://github.com/antigenomics/mirpy] Post-analysis of immune repertoire sequencing data,Groovy,https://github.com/mikessh/vdjtools
+269,android-appversion-gradle-plugin,134,19,134,3,11/11/2014,16/10/2015,175.00 KB,175,Add extra information to output file name. Add build number to the application version. ,Groovy,https://github.com/hamsterksu/android-appversion-gradle-plugin
+270,icon-version,133,28,133,5,11/11/2014,12/08/2018,7.64 MB,7823,Android gradle plugin that adds version and flavor name to all app icons.,Groovy,https://github.com/akonior/icon-version
+271,thymeleaf-extras-eclipse-plugin,133,30,133,41,16/01/2013,22/10/2023,46.82 MB,47944,Thymeleaf integration plugin for the Eclipse IDE,Groovy,https://github.com/thymeleaf/thymeleaf-extras-eclipse-plugin
+272,gradle-quality-plugin,133,11,133,3,19/11/2015,31/01/2025,4.15 MB,4245,Gradle quality plugin for Java and Groovy,Groovy,https://github.com/xvik/gradle-quality-plugin
+273,jenkins-dsl,132,30,132,0,12/01/2017,20/05/2020,509.00 KB,509,"Jenkins DSLs for my Jenkins instance, keeps forks up to date, mirrors repositories to private git, builds all Dockerfiles and more.",Groovy,https://github.com/jessfraz/jenkins-dsl
+274,Apollo,131,85,131,240,10/10/2013,17/03/2025,180.63 MB,184961,Genome annotation editor with a Java Server backend and a Javascript client that runs in a web browser as a JBrowse plugin.,Groovy,https://github.com/GMOD/Apollo
+275,GradleFx,131,61,131,58,01/06/2011,18/10/2022,1.73 MB,1771,Gradle plugin for building Flex projects.,Groovy,https://github.com/GradleFx/GradleFx
+276,findbugs-android,131,9,131,7,24/07/2016,17/04/2023,266.00 KB,266,Gradle plugin that creates FindBugs reports for android projects,Groovy,https://github.com/ChaitanyaPramod/findbugs-android
+277,icloud-caldav-urls,131,37,131,4,06/01/2012,18/05/2023,29.59 MB,30303,iCloud calendar URLs,Groovy,https://github.com/muhlba91/icloud-caldav-urls
+278,gradle-visteg,130,25,130,11,01/12/2014,09/03/2021,154.00 KB,154,Exports task execution graph as .dot file,Groovy,https://github.com/mmalohlava/gradle-visteg
+279,jenkins-devops-libs,130,55,130,0,18/12/2017,20/03/2025,594.00 KB,594,Collection of Jenkins Pipeline shared libraries for common DevOps software.,Groovy,https://github.com/mschuchard/jenkins-devops-libs
+280,frame-gradle-plugin,128,6,128,12,24/01/2016,22/07/2016,12.85 MB,13163,A gradle plugin to automate framing android screenshots with devices frames in multiple languages and with multiple screen sizes.,Groovy,https://github.com/chemouna/frame-gradle-plugin
+281,OpenSpeedMonitor,127,25,127,43,30/10/2014,02/07/2021,23.69 MB,24259,Open Source Web Performance Monitoring. Made by iteratec.,Groovy,https://github.com/iteratec/OpenSpeedMonitor
+282,gradle-spoon-plugin,127,27,127,34,02/11/2017,24/03/2025,975.00 KB,975,Gradle plugin that provides a task to run Android instrumentation tests via Spoon.,Groovy,https://github.com/jaredsburrows/gradle-spoon-plugin
+283,maven2gradle,126,46,126,0,02/05/2010,18/12/2013,336.00 KB,336,Maven2 to Gradle build converter,Groovy,https://github.com/jbaruch/maven2gradle
+284,infer-plugin,126,15,126,6,03/05/2016,28/03/2019,121.00 KB,121,Gradle plugin that allows easy integration with the infer static analyzer. ,Groovy,https://github.com/uber-archive/infer-plugin
+285,gradle-eclipse-aar-plugin,126,27,126,8,08/02/2015,09/07/2017,515.00 KB,515,Gradle plugin to use Android AAR libraries on Eclipse.,Groovy,https://github.com/ksoichiro/gradle-eclipse-aar-plugin
+286,nomadfiles,125,10,125,4,19/01/2017,08/03/2018,18.00 KB,18,A collection of Nomad job files for deploying applications to a cluster,Groovy,https://github.com/jrasell/nomadfiles
+287,stapi,125,15,125,8,07/10/2016,22/09/2024,10.80 MB,11056,"STAPI, a Star Trek API",Groovy,https://github.com/cezarykluczynski/stapi
+288,grabbit,125,63,125,89,27/02/2015,19/05/2020,4.42 MB,4526,Grabbit - Fast Content Sync tool for AEM/CQ,Groovy,https://github.com/TWCable/grabbit
+289,jenkins-automation,125,80,125,3,02/07/2015,11/03/2024,1.31 MB,1341,Helpers for automating Jenkins via Groovy code—primarily job builders and utilities.,Groovy,https://github.com/cfpb/jenkins-automation
+290,Android-strings-xml-csv-converter,124,32,124,10,09/05/2015,25/10/2017,6.26 MB,6410,Convert Android translatable strings.xml into csv and back ,Groovy,https://github.com/LiewJunTung/Android-strings-xml-csv-converter
+291,gradle-jenkins-plugin,123,42,123,33,21/12/2012,24/08/2019,411.00 KB,411,Gradle plugin to programmatically configure Jenkins jobs.,Groovy,https://github.com/ghale/gradle-jenkins-plugin
+292,code-history-mining,121,9,121,8,23/02/2013,03/01/2018,81.98 MB,83946,IntelliJ plugin for analysis and visualisation of project code history,Groovy,https://github.com/dkandalov/code-history-mining
+293,gradle-use-latest-versions-plugin,121,31,121,18,10/03/2018,16/03/2023,315.00 KB,315,,Groovy,https://github.com/patrikerdes/gradle-use-latest-versions-plugin
+294,querydsl-entityql,121,16,121,5,18/12/2019,21/01/2022,752.00 KB,752,QueryDSL EntityQL - Native Query builder for JPA,Groovy,https://github.com/eXsio/querydsl-entityql
+295,jira-scripts,120,54,120,1,19/04/2017,27/07/2022,1.51 MB,1542,,Groovy,https://github.com/mailru/jira-scripts
+296,gradle-vaadin-plugin,120,58,120,18,19/10/2012,10/03/2021,2.57 MB,2629,A Gradle plugin for building Vaadin applications,Groovy,https://github.com/johndevs/gradle-vaadin-plugin
+297,gradle-cobertura-plugin,120,51,120,37,17/07/2012,21/05/2022,1.45 MB,1480,Gradle Cobertura Plugin,Groovy,https://github.com/stevesaliman/gradle-cobertura-plugin
+298,Hubitat,119,66,119,1,18/02/2018,17/03/2025,3.70 MB,3792,Hubitat Elevation Apps and Drivers,Groovy,https://github.com/ogiewon/Hubitat
+299,library-analysis,119,24,119,3,21/05/2016,23/07/2019,1.66 MB,1697,Library Analysis Gradle Plugin,Groovy,https://github.com/znyang/library-analysis
+300,maven-profiler,118,20,118,23,14/07/2013,10/07/2024,337.00 KB,337,Log Maven mojos execution time,Groovy,https://github.com/jcgay/maven-profiler
+301,linkedin-gradle-plugin-for-apache-hadoop,117,76,117,16,23/07/2015,11/05/2023,1.71 MB,1748,,Groovy,https://github.com/linkedin/linkedin-gradle-plugin-for-apache-hadoop
+302,gr8confagenda,117,31,117,2,04/06/2014,16/03/2016,503.00 KB,503,Source code for the GR8Conf Agenda Android application,Groovy,https://github.com/melix/gr8confagenda
+303,groovy-ssh,117,26,117,27,14/07/2014,18/03/2025,2.39 MB,2452,SSH automation tool based on Groovy DSL,Groovy,https://github.com/int128/groovy-ssh
+304,gradle-watch-plugin,117,20,117,19,11/12/2013,06/07/2018,617.00 KB,617,Gradle Watch Plugin,Groovy,https://github.com/bluepapa32/gradle-watch-plugin
+305,HotFix,116,29,116,4,04/05/2016,10/02/2017,2.16 MB,2213,Android热补丁修复框架，自动生成带签名的补丁包,Groovy,https://github.com/aitsuki/HotFix
+306,smartthings,116,193,116,15,25/02/2016,12/09/2022,5.20 MB,5324,"SmartThings home automation services, apps and devices",Groovy,https://github.com/redloro/smartthings
+307,docker-client,116,28,116,26,06/05/2014,26/03/2025,4.21 MB,4307,A Docker client for Java written in Kotlin and Groovy,Groovy,https://github.com/gesellix/docker-client
+308,ansible-nexus3-oss,114,94,114,16,31/08/2016,14/04/2020,104.00 KB,104,Ansible role to provision Nexus Repository Manager 3.x for RedHat/CentOS,Groovy,https://github.com/savoirfairelinux/ansible-nexus3-oss
+309,ResPkgRemaker,114,33,114,4,05/06/2017,25/05/2018,188.00 KB,188,"a gradle plugin which can change your res packageId by simple config without modify aapt, very useful for plugin-framework and multi dynamic resource",Groovy,https://github.com/seiginonakama/ResPkgRemaker
+310,gradle-robojava-plugin,113,6,113,0,17/12/2014,27/01/2015,319.00 KB,319,Gradle plugin to integrate Robolectric tests into Android Studio,Groovy,https://github.com/kageiit/gradle-robojava-plugin
+311,JacocoEverywhere,113,7,113,8,11/12/2015,18/12/2017,166.00 KB,166,[Deprecated] Gradle plugin which allows to generate Jacoco coverage report for both integration & unit tests,Groovy,https://github.com/paveldudka/JacocoEverywhere
+312,extra-java-module-info,113,7,113,6,22/04/2020,24/03/2025,766.00 KB,766,A Gradle 6.8+ plugin to use legacy Java libraries as Java Modules in a modular Java project,Groovy,https://github.com/gradlex-org/extra-java-module-info
+313,corpus,113,14,113,4,17/07/2016,25/03/2025,115.59 MB,118363,Браунський корпус української мови,Groovy,https://github.com/brown-uk/corpus
+314,jira-trigger-plugin,113,60,113,0,16/01/2016,26/06/2023,1.12 MB,1143,Triggers a build when a certain condition is matched in JIRA,Groovy,https://github.com/jenkinsci/jira-trigger-plugin
+315,PlayServicesStrip-plugin,112,2,112,2,23/10/2014,09/11/2014,169.00 KB,169,DEPRECATED - Use play-services 6.x instead. Gradle plugin to strip your google play services,Groovy,https://github.com/castorflex/PlayServicesStrip-plugin
+316,infrastructor,112,19,112,1,01/05/2017,27/12/2021,986.00 KB,986,Infrastructor is a server provisioning tool written in Groovy,Groovy,https://github.com/infrastructor/infrastructor
+317,ImgCompressPlugin,112,14,112,2,23/01/2019,03/11/2021,5.66 MB,5794,"一款Android端自动化图片压缩的gradle插件,一键扫描项目中的资源目录并进行批量图片压缩,提供3种压缩方式,支持有损及无损压缩.同时会记录已压缩的文件,适合个人及团队协同使用.",Groovy,https://github.com/KingKingDu/ImgCompressPlugin
+318,gradle-plugin-example,112,26,112,2,09/06/2016,05/11/2017,111.00 KB,111,An example of how to build and test a gradle plugin.,Groovy,https://github.com/jonathanhood/gradle-plugin-example
+319,iotdb-smartthings,112,44,112,10,01/02/2014,09/05/2018,319.00 KB,319,Demonstration of how to write APIs that communicate with SmartThings,Groovy,https://github.com/dpjanes/iotdb-smartthings
+320,device-type.nest,111,275,111,9,14/08/2013,30/07/2018,329.00 KB,329,Device Type for Nest Thermostat,Groovy,https://github.com/smartthings-users/device-type.nest
+321,handlebars-spring-boot-starter,111,26,111,5,01/04/2015,03/03/2025,403.00 KB,403,Spring Boot auto-configuration for Handlebars,Groovy,https://github.com/allegro/handlebars-spring-boot-starter
+322,echo-speaks,111,176,111,18,31/08/2018,18/01/2025,50.37 MB,51580,"Integrate your Amazon Echo devices into your Hubitat environment to create virtual Echo Devices. These virtual devices will allow you to speak text, make announcements, control media playback including volume, and many other Alexa features.",Groovy,https://github.com/tonesto7/echo-speaks
+323,gradle-build-properties-plugin,110,13,110,0,09/11/2016,11/02/2022,448.00 KB,448,Keep your secrets secret. External build properties support for your Gradle scripts. ,Groovy,https://github.com/novoda/gradle-build-properties-plugin
+324,example-books,110,66,110,5,03/12/2013,13/03/2024,551.00 KB,551,An example Groovy & Gradle based Ratpack app,Groovy,https://github.com/ratpack/example-books
+325,Generic-Video-Camera,110,481,110,0,23/04/2016,08/08/2019,7.00 KB,7,Generic Video Camera Live Streaming Video in SmartThings Tile View,Groovy,https://github.com/pstuart/Generic-Video-Camera
+326,jenkins-configuration-as-code-sandbox,110,58,110,1,10/08/2018,07/01/2022,81.00 KB,81,"Jenkins Configuration as Code, JCasC, Job DSL, Pipeline, Shared library",Groovy,https://github.com/tomasbjerre/jenkins-configuration-as-code-sandbox
+327,Ecobee-Suite,109,153,109,16,04/02/2018,29/02/2024,8.12 MB,8319,Ecobee Suite is for integrating Ecobee thermostats & sensors with the Hubitat home automation platform,Groovy,https://github.com/SANdood/Ecobee-Suite
+328,android-gradle-localization-plugin,109,20,109,8,22/06/2014,16/11/2023,1.04 MB,1067,Gradle plugin for generating localized string resources,Groovy,https://github.com/koral--/android-gradle-localization-plugin
+329,android-scripts,109,15,109,1,10/03/2014,23/11/2017,22.00 KB,22,helper scripts to setup adb wifi connection and switch developer tools,Groovy,https://github.com/dhelleberg/android-scripts
+330,plugin-gradle,108,25,108,0,04/05/2021,05/02/2025,404.00 KB,404,Ballerina Gradle plugin,Groovy,https://github.com/ballerina-platform/plugin-gradle
+331,oi-janky-groovy,108,64,108,0,09/09/2016,20/03/2025,547.00 KB,547,Jenkins Pipeline and Job DSL scripts for Official Images Jenkins jobs,Groovy,https://github.com/docker-library/oi-janky-groovy
+332,api-server,107,44,107,6,22/08/2013,17/10/2017,2.23 MB,2279,Open-source FHIR Server to support patient- and clinician-facing apps,Groovy,https://github.com/smart-on-fhir/api-server
+333,github-release-gradle-plugin,106,26,106,13,30/07/2017,31/01/2024,499.00 KB,499,A Gradle Plugin to send Releases to Github,Groovy,https://github.com/BreadMoirai/github-release-gradle-plugin
+334,AndAOP,106,17,106,0,04/04/2017,30/08/2018,135.00 KB,135,a gradle plugin project for android AOP,Groovy,https://github.com/luckybilly/AndAOP
+335,GradleGitDependenciesPlugin,106,15,106,10,27/05/2015,30/11/2021,128.00 KB,128,Gradle plugin to add external git repos as project dependencies,Groovy,https://github.com/alexvasilkov/GradleGitDependenciesPlugin
+336,build-parameters,105,5,105,19,17/01/2022,28/03/2025,840.00 KB,840,Compile-safe access to parameters supplied to a Gradle build,Groovy,https://github.com/gradlex-org/build-parameters
+337,mybatis-generator-plugin,105,21,105,0,05/02/2016,05/04/2023,214.00 KB,214,Mybatis Gradle Generator Plugin,Groovy,https://github.com/kimicla/mybatis-generator-plugin
+338,psync,105,8,105,0,14/07/2015,18/05/2017,97.00 KB,97,A gradle plugin for android projects to generate Java representations of xml preferences.,Groovy,https://github.com/Flipboard/psync
+339,Hubitat,104,49,104,12,22/03/2018,19/11/2024,1.73 MB,1776,Location for Inovelli Hubitat Drivers and Apps,Groovy,https://github.com/InovelliUSA/Hubitat
+340,build-flow-plugin,103,99,103,4,03/04/2012,04/08/2016,1.00 MB,1026,A plugin to manage job orchestration,Groovy,https://github.com/jenkinsci/build-flow-plugin
+341,pipeline-library,103,84,103,0,27/02/2017,02/05/2017,13.00 KB,13,Jenkins shared library for use with pipeline-as-code,Groovy,https://github.com/politie/pipeline-library
+342,GradleAndroidSignPlugin,103,9,103,1,13/02/2014,27/05/2015,314.00 KB,314,,Groovy,https://github.com/alexvasilkov/GradleAndroidSignPlugin
+343,gradle-msbuild-plugin,102,57,102,12,01/11/2012,25/09/2024,5.47 MB,5605,"Gradle plugin for msbuild execution, supports C# project files for now",Groovy,https://github.com/Itiviti/gradle-msbuild-plugin
+344,DLNA-PLAYER,101,267,101,15,13/02/2015,13/10/2018,313.00 KB,313,Generic DLNA Player to Smartthings,Groovy,https://github.com/SmartThingsUle/DLNA-PLAYER
+345,DEPRECATED-TP-Link-SmartThings,101,190,101,0,27/10/2018,26/12/2020,21.59 MB,22106,SmartThings TP-Link (Kasa) Repository,Groovy,https://github.com/DaveGut/DEPRECATED-TP-Link-SmartThings
+346,manifestreplace-plugin,101,11,101,1,18/10/2014,27/10/2014,163.00 KB,163,Gradle plugin to add more placeholders to your manifest.xml.,Groovy,https://github.com/castorflex/manifestreplace-plugin
+347,gradle-config,100,9,100,3,23/11/2015,20/12/2017,113.00 KB,113,Gradle plugin to add multi-variants yaml settings to Android.,Groovy,https://github.com/tmiyamon/gradle-config
+348,Automaton,100,21,100,13,30/09/2013,05/12/2017,7.48 MB,7662,Simple framework which allows the testing of Swing and JavaFX2 applications.,Groovy,https://github.com/renatoathaydes/Automaton
+349,jcdevhandlers,100,189,100,4,17/02/2016,03/06/2021,1.52 MB,1557,My SmartThings stuff!,Groovy,https://github.com/jsconstantelos/jcdevhandlers
+350,gradle-jacoco-coverage,100,25,100,5,11/06/2015,21/02/2017,132.00 KB,132,,Groovy,https://github.com/palantir/gradle-jacoco-coverage
+351,groovyserv,100,10,100,12,03/03/2010,08/08/2022,8.07 MB,8261,Groovy's startup acceralator.,Groovy,https://github.com/kobo/groovyserv
+352,nebula-publishing-plugin,100,22,100,6,10/01/2014,20/03/2025,2.01 MB,2063,Publishing related plugins,Groovy,https://github.com/nebula-plugins/nebula-publishing-plugin
+353,groovy-parser,100,11,100,8,14/08/2016,18/01/2025,84.45 MB,86474,Yet another new parser for Groovy programming language(project code: Parrot),Groovy,https://github.com/daniellansun/groovy-parser
+354,graffiti,99,10,99,3,14/10/2010,13/06/2014,6.47 MB,6628,Graffiti is a micro web framework for Groovy inspired by Sinatra,Groovy,https://github.com/webdevwilson/graffiti
+355,bazam,99,16,99,22,01/05/2018,29/10/2022,1.61 MB,1653,A read extraction and realignment tool for next generation sequencing data,Groovy,https://github.com/ssadedin/bazam
+356,gradle-trust-all,99,27,99,7,02/06/2015,02/06/2015,100.00 KB,100,A gradle plugin to disable SSL certificate validation,Groovy,https://github.com/arteme/gradle-trust-all
+357,pipeline-library,99,91,99,4,14/03/2017,07/03/2025,2.60 MB,2658,,Groovy,https://github.com/Mirantis/pipeline-library
+358,jenkins-groovy-scripts,99,57,99,0,09/09/2016,22/08/2024,32.00 KB,32,,Groovy,https://github.com/tkrzeminski/jenkins-groovy-scripts
+359,accurest,98,21,98,5,06/12/2014,08/12/2017,2.18 MB,2230,Accurest - Consumer Driven Contracts verifier for Java. Moved to:,Groovy,https://github.com/Codearte/accurest
+360,gradle-macappbundle,98,33,98,10,18/05/2015,27/02/2024,248.00 KB,248,A Gradle Plugin to create a Mac OSX .app application and dmg based on the project.,Groovy,https://github.com/crotwell/gradle-macappbundle
+361,android-raspberry-pi,98,6,98,12,10/04/2023,09/01/2025,2.06 MB,2107,,Groovy,https://github.com/tesla-android/android-raspberry-pi
+362,swagger-gradle-plugin,97,52,97,37,27/01/2016,02/09/2023,1.12 MB,1150,JAX-RS & SpringMVC supported gradle build plugin to generate Swagger documentation,Groovy,https://github.com/gigaSproule/swagger-gradle-plugin
+363,jenkins-pipeline-examples,97,126,97,1,01/06/2017,26/07/2022,22.00 KB,22,Example declarative pipelines for Jenkins,Groovy,https://github.com/cvitter/jenkins-pipeline-examples
+364,bintray-publish,97,9,97,0,09/09/2020,24/05/2021,97.00 KB,97,Super easy way to publish your Android and Java artifacts to bintray.,Groovy,https://github.com/panpf/bintray-publish
+365,WebpConvert_Gradle_Plugin,96,20,96,2,21/01/2016,22/01/2016,11.00 KB,11,,Groovy,https://github.com/meili/WebpConvert_Gradle_Plugin
+366,embedded-consul,95,29,95,20,12/06/2016,07/10/2022,336.00 KB,336,Embedded Consul provides easy way to run Consul in integration tests. ,Groovy,https://github.com/pszymczyk/embedded-consul
+367,jruby-gradle-plugin,94,38,94,76,08/08/2014,16/08/2023,2.05 MB,2097,A Gradle plugin for working with JRuby projects for fun and profit. Mostly profit.,Groovy,https://github.com/jruby-gradle/jruby-gradle-plugin
+368,nebula-project-plugin,94,19,94,15,10/01/2014,25/02/2025,1.31 MB,1340,Healthy defaults for a standard Gradle project,Groovy,https://github.com/nebula-plugins/nebula-project-plugin
+369,MixinGradle,94,61,94,11,04/12/2015,23/07/2024,232.00 KB,232,Gradle plugin that adds the Mixin technology capability to your project.,Groovy,https://github.com/SpongePowered/MixinGradle
+370,document-builder,94,25,94,22,02/01/2015,06/05/2016,2.00 MB,2043,Groovy Document Builder,Groovy,https://github.com/craigburke/document-builder
+371,distiller-nf,93,25,93,67,25/04/2017,05/12/2024,1.37 MB,1399,A modular Hi-C mapping pipeline,Groovy,https://github.com/open2c/distiller-nf
+372,testfairy-gradle-plugin,93,36,93,10,08/01/2014,20/12/2021,503.00 KB,503,TestFairy plugin for Gradle / Android Studio (and supported IDEs),Groovy,https://github.com/testfairy/testfairy-gradle-plugin
+373,grails-spring-websocket,93,28,93,2,18/11/2013,12/03/2025,638.00 KB,638,,Groovy,https://github.com/zyro23/grails-spring-websocket
+374,BytecodeFixer,93,11,93,1,16/11/2017,19/01/2019,153.00 KB,153,BytecodeFixer can fix third platform jar file that has some bugs by javassist in Android,Groovy,https://github.com/llew2011/BytecodeFixer
+375,gradle-aspectj,93,67,93,0,27/09/2013,08/11/2017,87.00 KB,87,Gradle AspectJ plugin,Groovy,https://github.com/semestry/gradle-aspectj
+376,SmartThings_MyQ,93,1141,93,4,21/12/2014,13/01/2023,92.00 KB,92,Integrate SmartThings with MyQ,Groovy,https://github.com/copy-ninja/SmartThings_MyQ
+377,spock-genesis,92,15,92,11,27/05/2014,29/11/2018,377.00 KB,377,Mostly lazy data generators for property based testing using the Spock test framework,Groovy,https://github.com/Bijnagte/spock-genesis
+378,elasticsearch-river-csv,91,45,91,4,05/01/2013,17/04/2017,109.00 KB,109,CSV river for ElasticSearch,Groovy,https://github.com/AgileWorksOrg/elasticsearch-river-csv
+379,soa-model,91,73,91,48,19/11/2012,06/02/2025,21.99 MB,22515,"Toolkit and Java API for WSDL, WADL and XML Schema.",Groovy,https://github.com/membrane/soa-model
+380,jenny,91,8,91,6,30/01/2018,14/12/2022,188.00 KB,188,Command line Jenkinsfile runner written in groovy. Does not need a Jenkins installation to run the Jenkinsfile.,Groovy,https://github.com/bmustiata/jenny
+381,rosco,91,645,91,9,05/01/2015,20/02/2025,1.92 MB,1965,A bakery for deployable images,Groovy,https://github.com/spinnaker/rosco
+382,gretty,91,16,91,5,23/11/2010,13/10/2011,1.67 MB,1709,Gretty is simple framework for networking,Groovy,https://github.com/mbteswedenab/gretty
+383,gradle-util-plugins,90,9,90,6,22/07/2017,28/05/2019,61.00 KB,61,"Fix for windows gradle long classpath issue. Fixes JavaExec tasks that error out with message ""CreateProcess error=206, The filename or extension is too long""",Groovy,https://github.com/viswaramamoorthy/gradle-util-plugins
+384,ApiInspect,90,9,90,0,25/12/2018,09/01/2019,182.00 KB,182,An api compatibility inspect gradle plugin.（一个Api兼容性检测的Gradle插件）,Groovy,https://github.com/Sunzxyong/ApiInspect
+385,gradle-semantic-release-plugin,89,11,89,16,19/07/2015,18/05/2021,450.00 KB,450,Gradle implementation of semantic release (https://github.com/semantic-release/semantic-release),Groovy,https://github.com/tschulte/gradle-semantic-release-plugin
+386,client-dependencies-gradle,89,18,89,19,29/01/2016,07/03/2018,458.00 KB,458,"Install client dependencies from NPM, Bower or Git",Groovy,https://github.com/craigburke/client-dependencies-gradle
+387,imperative-when,89,50,89,3,07/02/2018,21/02/2020,6.00 KB,6,Use when statement in imperative pipeline inkl. Blue Ocean shows skipped stages,Groovy,https://github.com/comquent/imperative-when
+388,github-dependency-graph-gradle-plugin,89,15,89,8,03/12/2021,03/03/2025,2.48 MB,2540,Gradle Plugin for Extracting Dependency Information to send to GitHub,Groovy,https://github.com/gradle/github-dependency-graph-gradle-plugin
+389,sdp-libraries,89,97,89,15,10/12/2018,19/01/2024,5.15 MB,5269,The Solutions Delivery Platform Pipeline Libraries for the Jenkins Templating Engine,Groovy,https://github.com/boozallen/sdp-libraries
+390,android-proguard-rules,88,25,88,0,16/09/2016,17/10/2016,23.00 KB,23,Set of Proguard rules that need to be configured for some frequently used libraries,Groovy,https://github.com/mukeshsolanki/android-proguard-rules
+391,pipeline-library-demo,88,324,88,0,11/08/2017,11/09/2022,11.00 KB,11,Demonstration of using a shared library in Jenkins,Groovy,https://github.com/tutorialworks/pipeline-library-demo
+392,ScriptRunner-Scripts,88,61,88,4,22/06/2018,30/05/2024,100.00 KB,100,Groovy scripts to make your life easier when working on Atlassian tools,Groovy,https://github.com/sparxsys/ScriptRunner-Scripts
+393,job-dsl-playground,88,33,88,4,16/02/2014,26/03/2025,1.44 MB,1475,An app for debugging Groovy scripts using the Jenkins Job DSL,Groovy,https://github.com/sheehan/job-dsl-playground
+394,okta-jwt-verifier-java,87,41,87,7,18/07/2017,21/03/2025,1.95 MB,1995,okta-jwt-verifier-java,Groovy,https://github.com/okta/okta-jwt-verifier-java
+395,DLink-Camera-Manager,87,361,87,8,24/04/2016,28/06/2020,82.00 KB,82,D-Link Camera Manager Connect App,Groovy,https://github.com/blebson/DLink-Camera-Manager
+396,snyk-cicd-integration-examples,87,153,87,9,17/12/2018,02/12/2024,13.11 MB,13423,Examples of integrating the Snyk CLI into a CI/CD system,Groovy,https://github.com/snyk-labs/snyk-cicd-integration-examples
+397,ButterMess,87,11,87,0,02/07/2016,15/08/2016,95.00 KB,95,,Groovy,https://github.com/peacepassion/ButterMess
+398,gradle-offline-dependencies-plugin,87,28,87,16,17/04/2016,11/04/2019,6.19 MB,6339,Store project dependencies alongside your code for reproducible offline builds,Groovy,https://github.com/mdietrichstein/gradle-offline-dependencies-plugin
+399,gradle-deploygate-plugin,87,24,87,7,24/06/2013,24/03/2025,1.41 MB,1440,DeployGate plugin for the Gradle build system.,Groovy,https://github.com/DeployGate/gradle-deploygate-plugin
+400,tasmota-connect,86,168,86,8,21/02/2020,27/08/2022,110.00 KB,110,Add your Tasmota devices as SmartThings devices,Groovy,https://github.com/hongtat/tasmota-connect
+401,gradle-semantic-build-versioning,86,32,86,19,09/02/2016,10/06/2021,388.00 KB,388,Gradle plugin to generate version-numbers and tags using semantic versioning,Groovy,https://github.com/vivin/gradle-semantic-build-versioning
+402,gradle-proguard-plugin,86,7,86,0,30/01/2015,26/02/2015,249.00 KB,249,The gradle plugin to add proguard snippets to your proguard setting file quickly.,Groovy,https://github.com/hotchemi/gradle-proguard-plugin
+403,groovy-liquibase,85,66,85,1,30/10/2010,23/11/2015,1.65 MB,1687,Yet Another Groovy DSL for Liquibase,Groovy,https://github.com/tlberglund/groovy-liquibase
+404,SmartThings,85,166,85,12,08/03/2015,07/10/2020,17.69 MB,18116,A repository for my SmartThings apps and items related to them,Groovy,https://github.com/MichaelStruck/SmartThings
+405,boot-microservice,85,37,85,24,27/03/2014,08/04/2018,872.00 KB,872,Common classes for microservices set up on Spring Boot.,Groovy,https://github.com/4finance/boot-microservice
+406,cicon-plantuml-sprites,85,23,85,0,04/11/2017,27/05/2023,219.00 KB,219,PlantUML sprites generated from Cloudinsight icons (https://github.com/cloudinsight/cicon),Groovy,https://github.com/plantuml-stdlib/cicon-plantuml-sprites
+407,dotnet-ci,84,137,84,25,06/02/2015,14/05/2019,177.18 MB,181437,Repository containing scripting for the dotnet-ci Jenkins instance.,Groovy,https://github.com/dotnet/dotnet-ci
+408,dexpatcher-gradle,85,18,85,15,03/06/2015,27/06/2020,781.00 KB,781,Modify Android applications at source-level in Android Studio,Groovy,https://github.com/DexPatcher/dexpatcher-gradle
+409,jenkins-docker,84,96,84,12,24/04/2015,13/04/2017,279.24 MB,285945,docker file for a jenkins docker image,Groovy,https://github.com/fabric8io/jenkins-docker
+410,gradle-android-apk-size-plugin,84,14,84,1,14/11/2015,25/11/2018,1.90 MB,1944,Gradle plugin that generates CSV files with apk size per output and variant of an apk,Groovy,https://github.com/vanniktech/gradle-android-apk-size-plugin
+411,swagger2raml,84,8,84,7,21/05/2014,15/01/2015,8.99 MB,9202,A utility to generate RAML documentation from Swagger JSON,Groovy,https://github.com/8x8Cloud/swagger2raml
+412,PeaPod,83,22,83,0,30/05/2018,05/07/2021,897.00 KB,897,A plugin that replaces external module dependencies with project dependencies.,Groovy,https://github.com/JackyAndroid/PeaPod
+413,project_template,83,243,83,6,25/03/2018,24/10/2023,70.00 KB,70,Typical repo for new devops project,Groovy,https://github.com/ksemaev/project_template
+414,pgyer,83,15,83,6,09/04/2015,27/03/2020,65.00 KB,65,gradle plugin for pugongying upload,Groovy,https://github.com/dodocat/pgyer
+415,gstorm,82,13,82,28,25/03/2012,28/03/2022,431.00 KB,431,A simple ORM for databases and CSV files. Intended to be used in groovy scripts and small projects,Groovy,https://github.com/kdabir/gstorm
+416,ms-lifecycle,82,67,82,0,22/08/2015,19/07/2018,45.14 MB,46225,,Groovy,https://github.com/vfarcic/ms-lifecycle
+417,bnd-platform,82,28,82,5,16/02/2014,28/03/2025,6.31 MB,6462,"Build OSGi bundles and Eclipse Update Sites from existing JARs, e.g. from Maven repositories (Plugin for Gradle)",Groovy,https://github.com/stempler/bnd-platform
+418,LncPipe,82,51,82,6,20/10/2017,22/10/2022,5.92 MB,6060,A Nextflow-based pipeline for comprehensive analyses of long non-coding RNAs from RNA-seq datasets,Groovy,https://github.com/likelet/LncPipe
+419,jenkins-pipeline-libraries,81,39,81,0,23/06/2016,19/07/2017,163.00 KB,163,Useful Jenkins Pipeline Libraries to use for whatever.,Groovy,https://github.com/buildit/jenkins-pipeline-libraries
+420,Code,81,116,81,3,04/02/2015,08/12/2016,74.00 KB,74,"DEPRECATED A collection of code examples from the SmartThings team, and the community",Groovy,https://github.com/SmartThingsCommunity/Code
+421,LG-Connector,80,177,80,12,08/10/2018,29/04/2021,1.19 MB,1223, Connector for LG Devices with SmartThings,Groovy,https://github.com/fison67/LG-Connector
+422,gradle-docker-plugin,80,17,80,11,08/04/2014,26/03/2025,1.90 MB,1946,Gradle Docker plugin,Groovy,https://github.com/gesellix/gradle-docker-plugin
+423,groovy-website,80,140,80,0,21/06/2014,10/12/2018,10.21 MB,10452,The previous source repo for the Groovy language website,Groovy,https://github.com/groovy/groovy-website
+424,jenkins-shared-library,80,23,80,0,14/02/2022,28/03/2025,3.51 MB,3594,"One For All DevOps, Powerful, flexible and easy-to-use, multi-terminal CI/CD shared library pipeline（ 强大灵活易用的多端CI/CD共享库流水线 ）",Groovy,https://github.com/DreamPWJ/jenkins-shared-library
+425,jenkins-docker-examples,79,90,79,3,27/12/2016,08/09/2017,101.00 KB,101,Selection of examples on how to use Jenkins with docker,Groovy,https://github.com/Ticketfly/jenkins-docker-examples
+426,cpi-groovy-examples,79,56,79,4,20/09/2020,19/12/2023,42.00 KB,42,Groovy Script Examples for SAP Cloud Integration (CPI),Groovy,https://github.com/pizug/cpi-groovy-examples
+427,grails-postgresql-extensions,79,62,79,31,08/07/2013,10/04/2023,1.92 MB,1966,"Grails plugin to use postgresql native elements such as arrays, hstores,...",Groovy,https://github.com/kaleidos/grails-postgresql-extensions
+428,youdebug,79,15,79,4,03/11/2009,11/04/2024,469.00 KB,469,Non-interactive Java debugger with Groovy,Groovy,https://github.com/kohsuke/youdebug
+429,grails-asset-pipeline,79,64,79,30,30/04/2013,17/01/2025,48.89 MB,50061,Grails Asset Pipeline,Groovy,https://github.com/bertramdev/grails-asset-pipeline
+430,grails-console,78,41,78,17,17/01/2012,02/03/2023,3.23 MB,3309,A web-based Groovy console for interactive runtime application management and debugging,Groovy,https://github.com/sheehan/grails-console
+431,gradle-capsule-plugin,78,28,78,14,30/08/2014,11/05/2023,164.00 KB,164,"A Gradle plugin for Capsule, the packaging and deployment tool for JVM apps.",Groovy,https://github.com/danthegoodman/gradle-capsule-plugin
+432,Versionberg,78,10,78,1,12/09/2016,03/10/2019,134.00 KB,134,Gradle plugin for versioning your library/application on every git commit,Groovy,https://github.com/rockerhieu/Versionberg
+433,grails-quartz,77,93,77,28,24/05/2012,10/03/2025,12.32 MB,12619,This project provides integration of the Quartz scheduling framework into the Grails Framework,Groovy,https://github.com/apache/grails-quartz
+434,ProperDroid,76,7,76,1,17/02/2016,07/11/2019,151.00 KB,151,ProperDroid is a gradle plugin and an Android library that simplifies the way that config different variant on your project.,Groovy,https://github.com/JcMinarro/ProperDroid
+435,gradle-github-plugin,76,9,76,7,28/01/2015,09/08/2021,83.00 KB,83,:truck: Gradle plugin for Github releases,Groovy,https://github.com/riiid/gradle-github-plugin
+436,experience-manager-65.en,76,116,76,68,10/12/2019,28/03/2025,1.26 GB,1326175,This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.,Groovy,https://github.com/AdobeDocs/experience-manager-65.en
+437,PopCommerce,76,71,76,6,09/10/2011,17/08/2024,1.00 MB,1025,"POP Commerce is an eCommerce and ERP application suite for retail and wholesale organizations. POP Commerce is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens.",Groovy,https://github.com/moqui/PopCommerce
+438,smartthings-ps,76,101,76,0,06/07/2014,02/02/2017,104.00 KB,104,My spot to hack SmartThings SmartApps and Smart DeviceType Handlers,Groovy,https://github.com/pstuart/smartthings-ps
+439,grails-redis,76,45,76,21,06/06/2011,11/03/2025,1.51 MB,1551,Base redis plugin for Grails,Groovy,https://github.com/apache/grails-redis
+440,smartthings-govee-led-lights,76,56,76,12,09/11/2020,04/10/2022,42.00 KB,42,Samsung SmartThings integration for Govee LED Light Strips,Groovy,https://github.com/uncdubdiver/smartthings-govee-led-lights
+441,ces-build-lib,76,50,76,19,23/02/2017,28/03/2025,1.41 MB,1446,"Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others",Groovy,https://github.com/cloudogu/ces-build-lib
+442,jarjar-gradle,76,11,76,2,23/03/2014,02/01/2018,942.00 KB,942,,Groovy,https://github.com/vRallev/jarjar-gradle
+443,build-test-data,75,41,75,11,28/02/2013,08/01/2025,2.68 MB,2741,Enables the easy creation of test data by automatic inspection of constraints. Any properties that are required have their constraints examined and a value is automatically provided for them.,Groovy,https://github.com/longwa/build-test-data
+444,ods-jenkins-shared-library,75,57,75,122,27/07/2018,28/03/2025,22.18 MB,22717,"Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration",Groovy,https://github.com/opendevstack/ods-jenkins-shared-library
+445,gradle-plugins,74,15,74,14,21/11/2009,24/06/2012,23.53 MB,24096,Plugins for Gradle,Groovy,https://github.com/RobertFischer/gradle-plugins
+446,gradle-clover-plugin,74,49,74,14,18/09/2011,18/09/2024,2.13 MB,2180,Gradle plugin for generating a code coverage report using Clover,Groovy,https://github.com/bmuschko/gradle-clover-plugin
+447,debug-badge,74,6,74,1,06/02/2017,12/08/2018,652.00 KB,652,"Add badge(version code, version name, etc) for your DEBUG APK.",Groovy,https://github.com/yuebinyun/debug-badge
+448,hands-on-jenkins,74,627,74,37,18/12/2017,05/12/2023,20.36 MB,20851,"Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing",Groovy,https://github.com/cirulls/hands-on-jenkins
+449,decentralize-your-internet,74,11,74,3,05/12/2024,25/02/2025,22.89 MB,23438,,Groovy,https://github.com/hackerbande-nbg/decentralize-your-internet
+450,Jenkins,74,46,74,0,17/01/2022,06/02/2025,1017.00 KB,1017,"Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay",Groovy,https://github.com/HariSekhon/Jenkins
+451,predix-rmd-ref-app,74,97,74,1,01/10/2015,13/03/2019,3.65 MB,3734,predix-rmd,Groovy,https://github.com/PredixDev/predix-rmd-ref-app
+452,vscode-groovy-lint,74,19,74,7,23/02/2020,27/03/2025,19.05 MB,19507,"VSCode extension to lint , correct and format groovy and Jenkinsfile ",Groovy,https://github.com/nvuillam/vscode-groovy-lint
+453,Daffodil,74,3,74,0,17/06/2017,03/08/2017,139.00 KB,139,Annotation-triggered method call logging library.,Groovy,https://github.com/saymagic/Daffodil
+454,xiaomi-hubitat,74,46,74,6,23/02/2018,24/03/2020,1.54 MB,1580,veeceeoh's Xiaomi device drivers for the Hubitat Elevation Hub ,Groovy,https://github.com/veeceeoh/xiaomi-hubitat
+455,gradle-mdicons,73,5,73,8,26/12/2014,26/04/2016,574.00 KB,574,A gradle plugin for Android to handle material design icons Google published.,Groovy,https://github.com/tmiyamon/gradle-mdicons
+456,asap,73,19,73,9,06/08/2017,05/12/2023,13.92 MB,14252,"A scalable bacterial genome assembly, annotation and analysis pipeline",Groovy,https://github.com/oschwengers/asap
+457,nlp_uk,73,14,73,2,11/01/2016,26/03/2025,1.52 MB,1560,This is a project to demonstrate NLP API from LanguageTool for Ukrainian language.,Groovy,https://github.com/brown-uk/nlp_uk
+458,gradle-scalatest,73,35,73,20,18/08/2013,10/02/2025,321.00 KB,321,A plugin to enable the use of scalatest in a gradle Scala project.,Groovy,https://github.com/maiflai/gradle-scalatest
+459,jenkins-templating-engine,73,82,73,5,10/12/2018,18/10/2023,88.81 MB,90938,The Jenkins Templating Engine is a Jenkins plugin powering Booz Allen's Solutions Delivery Platform,Groovy,https://github.com/boozallen/jenkins-templating-engine
+460,jooq-plugin,73,30,73,16,30/05/2019,12/04/2024,240.00 KB,240,Plugin for generating jOOQ classes using dockerized databases,Groovy,https://github.com/revolut-engineering/jooq-plugin
+461,androidNativeBundle,73,14,73,8,29/09/2018,12/11/2024,209.00 KB,209,a gradle plugin that support publish c/c++ headers to 'aar' and depend those 'aar',Groovy,https://github.com/howardpang/androidNativeBundle
+462,grailstwitter,73,69,73,2,14/02/2011,03/03/2017,1.19 MB,1223,Grails Twitter Sample Application,Groovy,https://github.com/grails-samples/grailstwitter
+463,htmlSanityCheck,72,50,72,72,08/05/2014,17/03/2025,12.51 MB,12809,"Standalone (batch- and command-line) and Gradle-plugin html sanity checker - detects missing images, dead links and cross-references, duplicate link targets (anchors) and the like. ",Groovy,https://github.com/aim42/htmlSanityCheck
+464,uptodate-gradle-plugin,72,11,72,18,28/03/2014,03/12/2019,335.00 KB,335,Gradle plugin that tells you what libs have new versions on the specified Maven repository,Groovy,https://github.com/4finance/uptodate-gradle-plugin
+465,markdown-gradle-plugin,72,50,72,9,05/03/2013,01/01/2022,472.00 KB,472,Markdown/HTML plugin for gradle,Groovy,https://github.com/kordamp/markdown-gradle-plugin
+466,google-sdm-api,72,22,72,6,01/10/2020,01/03/2025,164.00 KB,164,,Groovy,https://github.com/dkilgore90/google-sdm-api
+467,graina,72,42,72,1,25/08/2008,04/10/2010,12.30 MB,12593,Chapter source code and example application for Grails in Action,Groovy,https://github.com/pledbrook/graina
+468,open-service-broker,71,25,71,16,24/11/2016,28/10/2024,5.94 MB,6082,"Open Service Broker is an implementation of the ""Open Service Broker API"" based on Spring Boot & Groovy. It enables platforms such as Cloud Foundry & Kubernetes to provision and manage services.",Groovy,https://github.com/swisscom/open-service-broker
+469,AdvancedGroovy,71,34,71,0,27/06/2013,18/11/2017,160.00 KB,160,Examples for my NFJS Advanced Groovy: Tips and Tricks talk,Groovy,https://github.com/kousen/AdvancedGroovy
+470,graphql-orchestrator-java,71,31,71,14,11/06/2021,29/01/2025,2.62 MB,2678,GraphQL Orchestrator stitches the schemas from multiple micro-services and orchestrates the graphql queries to these services accurately at runtime,Groovy,https://github.com/graph-quilt/graphql-orchestrator-java
+471,jenkins-pipeline-shared-library-example,71,34,71,7,26/08/2017,17/06/2020,283.00 KB,283,Basic template example of a Jenkins Pipelines Shared Library that is tested using https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin,Groovy,https://github.com/mkobit/jenkins-pipeline-shared-library-example
+472,nebula-dependency-recommender-plugin,71,30,71,19,16/11/2014,08/03/2025,1.51 MB,1542,Leave off version numbers in your dependencies section and have versions recommended by several possible sources.,Groovy,https://github.com/nebula-plugins/nebula-dependency-recommender-plugin
+473,testingarchitecture,71,11,71,1,02/08/2014,08/10/2014,364.00 KB,364,Skeleton for an Android project with Espresso + JUnit + Robolectric tests,Groovy,https://github.com/malmstein/testingarchitecture
+474,gradle-use-python-plugin,71,19,71,1,11/12/2017,25/03/2025,2.57 MB,2632,Use python modules in gradle build,Groovy,https://github.com/xvik/gradle-use-python-plugin
+475,growerp,70,31,70,0,14/08/2022,24/03/2025,267.53 MB,273954,"GrowERP Flutter ERP for Android, IOS,Web,Linux and Windows using Moqui.org, Apache OFBiz ",Groovy,https://github.com/growerp/growerp
+476,groovy-common-extensions,70,14,70,6,06/11/2012,12/07/2022,347.00 KB,347,,Groovy,https://github.com/timyates/groovy-common-extensions
+477,platzi-scripts,70,327,70,1,12/11/2018,26/08/2023,19.00 KB,19,Collection of platzi scripts for classes,Groovy,https://github.com/elbuo8/platzi-scripts
+478,HubitatActive,70,96,70,3,20/04/2020,10/03/2025,17.94 MB,18373,Hubitat Environment Developments,Groovy,https://github.com/DaveGut/HubitatActive
+479,nifi-api-deploy,70,38,70,18,09/03/2016,23/01/2017,145.00 KB,145,Demonstrates NiFi template deployment and configuration via a REST API,Groovy,https://github.com/aperepel/nifi-api-deploy
+480,checkerframework-gradle-plugin,69,16,69,22,18/12/2018,04/03/2025,258.81 MB,265018,Gradle plugin to use the Checker Framework for Java,Groovy,https://github.com/kelloggm/checkerframework-gradle-plugin
+481,android-soexcluder,69,13,69,3,14/03/2016,12/04/2019,1.25 MB,1275,This plugin will help you exclude so files by flavor or buildType,Groovy,https://github.com/Jween/android-soexcluder
+482,Cytomine-core,69,32,69,72,01/02/2014,24/02/2023,251.27 MB,257304,Cytomine-Core is the main web server implementing the Cytomine API,Groovy,https://github.com/cytomine/Cytomine-core
+483,groovy_koans,68,30,68,15,23/06/2010,17/02/2014,159.00 KB,159,A set of Koans to teach the Groovy language,Groovy,https://github.com/cjudd/groovy_koans
+484,groovy.tmbundle,68,31,68,10,09/06/2009,15/03/2022,2.53 MB,2595,TextMate support for Groovy,Groovy,https://github.com/textmate/groovy.tmbundle
+485,static-analysis-plugin,68,4,68,2,18/04/2020,06/09/2021,1.22 MB,1250,Easy and consistent setup of static analysis tools for Android and Java projects.,Groovy,https://github.com/GradleUp/static-analysis-plugin
+486,facebook-api-android-aar,68,12,68,1,27/07/2013,24/11/2014,10.70 MB,10954,Facebook Android SDK library built with gradle in aar format for usage with android gradle build system,Groovy,https://github.com/mente/facebook-api-android-aar
+487,gilbarbara-plantuml-sprites,68,22,68,4,04/02/2020,17/08/2024,18.05 MB,18487,PlantUML sprites generated from https://github.com/gilbarbara/logos,Groovy,https://github.com/plantuml-stdlib/gilbarbara-plantuml-sprites
+488,spring-cloud-contract-oa3,67,43,67,18,26/07/2018,24/04/2022,185.00 KB,185,Spring Cloud Contract Open API 3.0,Groovy,https://github.com/springframeworkguru/spring-cloud-contract-oa3
+489,jenkins-as-code,67,22,67,2,18/01/2019,04/01/2020,73.00 KB,73,Jenkins-as-Code approach,Groovy,https://github.com/devtail/jenkins-as-code
+490,initiator,67,14,67,1,26/07/2018,29/07/2018,239.00 KB,239,Android应用初始化工具,Groovy,https://github.com/ren93/initiator
+491,glisten,67,26,67,17,15/08/2013,10/04/2023,48.32 MB,49482,Ease of use Groovy library for building JVM applications with Amazon Simple Workflow (SWF),Groovy,https://github.com/Netflix/glisten
+492,functionalgroovy,67,6,67,23,16/01/2013,23/08/2015,1.92 MB,1961,Functional programming in Groovy,Groovy,https://github.com/mperry/functionalgroovy
+493,jenkins-pipeline,66,102,66,1,02/10/2016,05/06/2019,71.00 KB,71,,Groovy,https://github.com/lachie83/jenkins-pipeline
+494,PatchPluginForZeus,66,11,66,0,08/08/2016,18/08/2016,152.00 KB,152,ZeusPlugin插件框架热修复gradle插件源码,Groovy,https://github.com/iReaderAndroid/PatchPluginForZeus
+495,terraform-pipeline,66,52,66,103,03/09/2019,17/10/2023,2.79 MB,2855,"A reusable pipeline library to apply terraform configuration serially across multiple environments, using Jenkins and a Jenkinsfile.",Groovy,https://github.com/manheim/terraform-pipeline
+496,IKEA-Tradfri,65,152,65,0,18/03/2017,05/04/2023,599.00 KB,599,IKEA Trådfri device type handler for SmartThings,Groovy,https://github.com/edvaldeysteinsson/IKEA-Tradfri
+497,Hubitat,65,51,65,0,24/11/2019,14/12/2020,624.00 KB,624,Apps and Drivers for Hubitat Elevation,Groovy,https://github.com/markus-li/Hubitat
+498,grails-rest-client-builder,65,32,65,33,06/03/2012,18/06/2018,903.00 KB,903,REST client plugin that uses Spring's RestTemplate,Groovy,https://github.com/grails-plugins/grails-rest-client-builder
+499,cloud-s4-sdk-pipeline,65,25,65,0,21/08/2017,12/08/2021,2.54 MB,2597,"The Cloud SDK pipeline uses the Cloud SDK continuous delivery server for building, checking, and deploying extension applications. Projects based on the SAP Cloud SDK archetype will automatically use this pipeline.",Groovy,https://github.com/SAP-archive/cloud-s4-sdk-pipeline
+500,course-jenkins-getting-started,65,385,65,5,27/08/2020,13/10/2023,57.00 KB,57,Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course,Groovy,https://github.com/g0t4/course-jenkins-getting-started
+501,gradle-android-appiconoverlay,65,11,65,2,15/02/2014,25/11/2017,73.00 KB,73,Plugin for Android Gradle to automatically overlay the app icon with the current git commit SHA1.,Groovy,https://github.com/splatte/gradle-android-appiconoverlay
+502,AppMethodTracking,65,8,65,2,10/04/2017,04/08/2017,400.00 KB,400,A gradle plugin tracking android application method ,Groovy,https://github.com/CoXier/AppMethodTracking
+503,issues,65,26,65,723,16/06/2016,05/03/2025,714.00 KB,714,Gravitee.io - API Platform - Issues,Groovy,https://github.com/gravitee-io/issues
+504,lazybones-aem-templates,65,28,65,13,26/08/2014,20/02/2020,244.00 KB,244,🚨[DEPRECATED] Lazybones templates for Adobe Experience Manager🚨,Groovy,https://github.com/Adobe-Consulting-Services/lazybones-aem-templates
+505,OneSignal-Gradle-Plugin,64,17,64,13,19/10/2017,27/10/2022,624.00 KB,624,Use with OneSignal-Android-SDK to help integrate it into your Android Studio or Gradle project. https://onesignal.com,Groovy,https://github.com/OneSignal/OneSignal-Gradle-Plugin
+506,gradle-gae-plugin,64,17,64,0,13/03/2011,30/10/2013,587.00 KB,587,"Gradle plugin that provides tasks for uploading, running and managing Google App Engine projects",Groovy,https://github.com/bmuschko/gradle-gae-plugin
+507,android-multi-channel-tool,64,20,64,3,31/03/2015,31/03/2015,308.00 KB,308,基于Gradle的易用、快速、稳定的多渠道打包工具。,Groovy,https://github.com/promeG/android-multi-channel-tool
+508,react-native-gradle-plugin,64,8,64,3,11/01/2019,20/12/2022,94.00 KB,94,A gradle plugin for React Native Android that simplifies and standardises build configurations (such as dependency versioning) for Projects & React Native modules.,Groovy,https://github.com/invertase/react-native-gradle-plugin
+509,grails-spock-examples,64,26,64,0,09/12/2012,12/01/2015,2.12 MB,2173,Grails project with tests based on Spock.,Groovy,https://github.com/pschneider-manzell/grails-spock-examples
+510,datagrip-poco-generator,64,25,64,2,20/05/2016,09/05/2022,15.00 KB,15,"An extension for IntelliJ-based IDEs (DataGrip, Rider, etc.) to generate POCO (C#) classes from a database",Groovy,https://github.com/olsh/datagrip-poco-generator
+511,st-community-installer,64,248,64,3,03/02/2018,19/07/2020,1.14 MB,1171,Community Created - SmartThings Installer,Groovy,https://github.com/tonesto7/st-community-installer
+512,cargo-ndk-android-gradle,64,8,64,12,17/11/2019,08/07/2024,171.00 KB,171,Cargo NDK for Android projects,Groovy,https://github.com/willir/cargo-ndk-android-gradle
+513,micronaut-profiles,64,43,64,26,12/04/2018,17/07/2020,1.29 MB,1316,Repository for the profiles (project templates for the CLI) used to create Micronaut applications,Groovy,https://github.com/micronaut-projects/micronaut-profiles
+514,IoTBench-test-suite,64,20,64,0,22/02/2018,22/11/2019,1.48 MB,1513,A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps,Groovy,https://github.com/IoTBench/IoTBench-test-suite
+515,EasyDependency,64,18,64,1,15/05/2018,16/05/2018,62.00 KB,62,一个gradle插件，提供对上传构件到maven仓库的逻辑的封装，提供动态处理源码依赖和远程构件依赖的实现,Groovy,https://github.com/easilycoder/EasyDependency
+516,gradle-izpack-plugin,64,7,64,3,28/06/2011,29/04/2021,332.00 KB,332,Gradle plugin that provides support for packaging applications for the Java platform via IzPack.,Groovy,https://github.com/bmuschko/gradle-izpack-plugin
+517,jsonassert,63,9,63,6,14/02/2016,12/09/2024,536.00 KB,536,Simple library to provide fluent interface for JSON assertions,Groovy,https://github.com/marcingrzejszczak/jsonassert
+518,gradle-plugindev-plugin,63,12,63,0,29/08/2014,29/11/2023,933.00 KB,933,"Gradle plugin that facilitates the bundling and publishing of Gradle plugins as expected by the Gradle Plugin Portal, JCenter, and MavenCentral.",Groovy,https://github.com/etiennestuder/gradle-plugindev-plugin
+519,groovy-vfs,63,10,63,31,12/06/2013,20/08/2024,1.84 MB,1882,A DSL for Groovy on top of Apache VFS2,Groovy,https://github.com/ysb33r/groovy-vfs
+520,nexus3-config-as-code,63,17,63,5,25/04/2018,18/10/2020,64.00 KB,64,Configuration as code automation for Nexus Repository Manager v3.,Groovy,https://github.com/samrocketman/nexus3-config-as-code
+521,pronto-agile,63,25,63,1,11/04/2009,21/10/2019,3.41 MB,3491,open source agile project management,Groovy,https://github.com/bluesoft/pronto-agile
+522,geoclimate,63,16,63,45,25/02/2019,04/03/2025,969.60 MB,992870,Geospatial processing toolbox for environmental and climate studies ,Groovy,https://github.com/orbisgis/geoclimate
+523,gradle-processors,63,23,63,19,17/08/2015,03/06/2024,501.00 KB,501,Gradle plugin for integrating Java annotation processors,Groovy,https://github.com/palantir/gradle-processors
+524,assetfilegenerator,63,3,63,0,06/11/2015,05/12/2023,250.00 KB,250,Asset File Generator Plugin for Android,Groovy,https://github.com/guicamest/assetfilegenerator
+525,grails-cucumber,63,35,63,11,28/07/2011,12/07/2015,6.09 MB,6240,a Cucumber plugin for Grails,Groovy,https://github.com/hauner/grails-cucumber
+526,AndroidSigning,63,11,63,1,24/12/2014,09/03/2017,59.00 KB,59,Config keyStore and key in a xml and sign your apk easily.,Groovy,https://github.com/dodocat/AndroidSigning
+527,Speedup,63,4,63,1,21/10/2017,06/08/2018,207.00 KB,207,多组件打包编译加速，专为项目下library过多所设计。,Groovy,https://github.com/JumeiRdGroup/Speedup
+528,ecoCode,63,48,63,16,11/03/2021,17/01/2024,3.56 MB,3647,Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin,Groovy,https://github.com/cnumr/ecoCode
+529,PojavOptimize,62,8,62,6,17/02/2022,19/04/2022,44.11 MB,45172,"A collection of mods to improve the performance of PojavLauncher, based off of Fabulously Optimized.",Groovy,https://github.com/PojavLauncherTeam/PojavOptimize
+530,Global-Repository-for-Mainframe-Developers,62,29,62,1,12/11/2020,31/10/2022,12.86 MB,13172,"This hierarchy of repositories serves to help mainframe developers in their daily work and contains various source codes, examples of commands and utilities with accompanying readme files.",Groovy,https://github.com/IBA-mainframe-dev/Global-Repository-for-Mainframe-Developers
+531,Robfuscate,62,4,62,2,25/03/2019,18/09/2019,429.00 KB,429,Obfuscate the int index of R.id/R.string/R.layout… in the classes.dex of Android project,Groovy,https://github.com/heruoxin/Robfuscate
+532,gradle-spawn-plugin,62,29,62,18,24/03/2014,04/07/2019,118.00 KB,118,Gradle plugin for spawning and killing command line processes.,Groovy,https://github.com/marc0der/gradle-spawn-plugin
+533,android_backup_project,62,15,62,3,08/12/2019,12/01/2025,33.21 MB,34004,,Groovy,https://github.com/AndDiSa/android_backup_project
+534,ecoCode-android,62,19,62,15,27/11/2022,03/02/2025,9.52 MB,9749,Reduce the environmental footprint of your Java-based Android apps with SonarQube,Groovy,https://github.com/green-code-initiative/ecoCode-android
+535,gradle-maven-settings-plugin,61,27,61,19,18/10/2014,15/05/2023,140.00 KB,140,Gradle Maven settings plugin,Groovy,https://github.com/mark-vieira/gradle-maven-settings-plugin
+536,consuming-collector,61,15,61,0,06/05/2018,06/05/2018,61.00 KB,61,,Groovy,https://github.com/cxyxlxdm/consuming-collector
+537,groovy-spring-boot-restdocs-example,61,27,61,0,18/01/2016,23/05/2020,341.00 KB,341,"An example of spring rest docs using groovy, spring boot, and spock.",Groovy,https://github.com/jlstrater/groovy-spring-boot-restdocs-example
+538,smartthings-alarmcom,61,130,61,21,22/02/2017,02/09/2022,64.00 KB,64,SmartThings Integration with alarm.com,Groovy,https://github.com/schwark/smartthings-alarmcom
+539,grails-quartz,61,21,61,17,24/10/2008,16/08/2013,7.12 MB,7293,This project provides integration of the Quartz scheduling framework into the Grails Framework,Groovy,https://github.com/nebolsin/grails-quartz
+540,DSCAlarm,61,64,61,1,17/01/2016,20/09/2020,1.62 MB,1657,,Groovy,https://github.com/LXXero/DSCAlarm
+541,SmartThings-PS,61,194,61,6,15/12/2018,11/07/2021,675.00 KB,675,My SmartThings,Groovy,https://github.com/paulsheldon/SmartThings-PS
+542,gradle-fir-plugin,61,11,61,1,28/05/2015,22/09/2020,204.00 KB,204,a gradle plugin for uploader apk to fir.im,Groovy,https://github.com/sangmingming/gradle-fir-plugin
+543,elasticsearch-grails-plugin,61,137,61,30,10/11/2010,28/05/2015,1.83 MB,1877,ElasticSearch grails plugin,Groovy,https://github.com/mstein/elasticsearch-grails-plugin
+544,google-home-hubitat-community,60,23,60,1,24/02/2020,12/04/2024,310.00 KB,310,"A community-maintained, full-featured, and highly configurable integration between Hubitat Elevation and Google Home.",Groovy,https://github.com/mbudnek/google-home-hubitat-community
+545,grails-resources,60,51,60,10,04/03/2011,31/03/2021,4.16 MB,4255,Resources framework for Grails 2.0,Groovy,https://github.com/grails-plugins/grails-resources
+546,Hubitat,60,21,60,1,01/01/2019,10/03/2025,696.00 KB,696,Hubitat Apps and Drivers,Groovy,https://github.com/Botched1/Hubitat
+547,gradle-compass,60,36,60,36,09/05/2013,10/01/2020,321.00 KB,321,A SASS / Compass plugin for Gradle,Groovy,https://github.com/robfletcher/gradle-compass
+548,adop-platform-management,60,60,60,21,01/02/2016,27/11/2018,114.00 KB,114,,Groovy,https://github.com/Accenture/adop-platform-management
+549,jenkins-pipeline-global-library-chefci,60,33,60,1,28/05/2016,29/11/2018,156.00 KB,156,"Jenkins Pipeline's ""Workflow Global Libs"" for Chef CI",Groovy,https://github.com/TYPO3-infrastructure/jenkins-pipeline-global-library-chefci
+550,klokwrk-project,60,11,60,0,08/05/2020,09/06/2024,20.27 MB,20754,Showcase and blueprint for implementing elaborated distributed systems on JVM. It should also serve as a playground for incubating reusable libraries useful on its own.,Groovy,https://github.com/croz-ltd/klokwrk-project
+551,parcl,60,15,60,8,31/12/2014,03/11/2021,579.00 KB,579,"Gradle plugin for bundling your Java application for distribution on Windows, Mac and Linux",Groovy,https://github.com/mini2Dx/parcl
+552,grails-aws-sdk,59,40,59,3,08/06/2012,28/07/2023,4.40 MB,4502,Amazon Web Services SDK Grails Plugin,Groovy,https://github.com/agorapulse/grails-aws-sdk
+553,jenkins-groovy,59,5,59,0,26/01/2018,26/01/2018,1.20 MB,1225,jenkins As Code With Groovy，基于job粒度的版本控制、一键迁移、一键回复,Groovy,https://github.com/Aaron1989/jenkins-groovy
+554,hubitat,59,39,59,11,31/03/2018,28/01/2023,203.00 KB,203,Hubitat apps and drivers,Groovy,https://github.com/jason0x43/hubitat
+555,sqsd,59,8,59,6,18/11/2014,23/06/2016,32.00 KB,32,"A simple alternative to the Amazon SQS Daemon  (""sqsd"") used on AWS Beanstalk worker tier instances.",Groovy,https://github.com/mozart-analytics/sqsd
+556,CIYOU,59,27,59,1,01/02/2018,28/04/2018,23.35 MB,23912,翻转课堂模式的小学网络教学平台，基于Groovy，使用Spring Boot + Mybatis 框架、Shiro安全框架，并使用Druid为数据库连接池，Redis为项目缓存。,Groovy,https://github.com/cckevincyh/CIYOU
+557,weceem-plugin,59,47,59,3,28/09/2011,27/09/2021,18.91 MB,19360,Grails Weceem CMS Plugin,Groovy,https://github.com/OpusCapita/weceem-plugin
+558,geb-example-grails,59,63,59,0,09/04/2011,01/08/2017,1.34 MB,1376,,Groovy,https://github.com/geb/geb-example-grails
+559,SmartThingsPersonal,58,105,58,2,21/08/2014,19/12/2021,323.00 KB,323,All my code made public for the STs community!,Groovy,https://github.com/tslagle13/SmartThingsPersonal
+560,plugin-veridex,58,9,58,1,05/06/2019,06/06/2019,7.92 MB,8112,android 私有api调用检测,Groovy,https://github.com/lizhangqu/plugin-veridex
+561,fedora-coreos-pipeline,58,55,58,30,14/10/2018,27/03/2025,1.54 MB,1579,Build pipeline for Fedora CoreOS,Groovy,https://github.com/coreos/fedora-coreos-pipeline
+562,adop-cartridge-java,58,61,58,22,05/02/2016,29/02/2024,101.00 KB,101,,Groovy,https://github.com/Accenture/adop-cartridge-java
+563,Groovy-Goodness-Notebook,58,19,58,0,29/11/2010,20/12/2010,1.18 MB,1209,Sources for Groovy Goodness Notebook,Groovy,https://github.com/mrhaki/Groovy-Goodness-Notebook
+564,swift-android-gradle,58,23,58,2,06/01/2016,25/07/2017,50.00 KB,50,Gradle plugin for building Swift code for Android,Groovy,https://github.com/SwiftAndroid/swift-android-gradle
+565,AndroidComplexBuild,58,12,58,0,09/07/2013,09/10/2014,165.00 KB,165,Based on StackOverflow Question http://stackoverflow.com/questions/17536652/gradle-and-multi-project-structure,Groovy,https://github.com/ethankhall/AndroidComplexBuild
+566,easyrelease,58,8,58,4,26/06/2014,03/11/2015,439.00 KB,439,Gradle plugin for Android projects that helps with signing release APKs,Groovy,https://github.com/inloop/easyrelease
+567,excel-export,58,33,58,30,31/12/2012,24/10/2023,213.00 KB,213,excel-export grails plugin,Groovy,https://github.com/TouK/excel-export
+568,pkl-jvm-examples,58,10,58,3,19/01/2024,15/01/2025,142.00 KB,142,Examples for using Pkl within JVM applications,Groovy,https://github.com/apple/pkl-jvm-examples
+569,you-dont-know-jenkins-init,58,14,58,2,04/08/2017,05/08/2017,8.00 KB,8,,Groovy,https://github.com/AnalogJ/you-dont-know-jenkins-init
+570,gradle-android-javafmt-plugin,58,8,58,1,28/02/2017,28/08/2018,127.00 KB,127,Augomagically format Java files (deprecated),Groovy,https://github.com/f2prateek/gradle-android-javafmt-plugin
+571,cafelito,58,35,58,1,07/03/2014,17/02/2023,2.10 MB,2151,Web application demoed at conferences.  See history for how it builds up,Groovy,https://github.com/trishagee/cafelito
+572,jaeger-openshift,57,36,57,9,09/05/2017,04/03/2019,700.00 KB,700,Support for deploying Jaeger into OpenShift,Groovy,https://github.com/jaegertracing/jaeger-openshift
+573,jenkins-shared-library,57,54,57,0,19/10/2018,29/09/2020,66.00 KB,66,Jenkins Shared Library for demonstration purposes.,Groovy,https://github.com/hoto/jenkins-shared-library
+574,DroidSmall,57,12,57,4,12/07/2016,07/05/2017,14.43 MB,14779,该项目是 Small 插件化调研和学习的示例应用，希望对你有帮助。,Groovy,https://github.com/sunfusheng/DroidSmall
+575,grails-spring-security-oauth2-provider,57,58,57,0,13/09/2011,17/10/2018,3.32 MB,3399,Grails Spring Security OAuth2 Provider Plugin,Groovy,https://github.com/bluesliverx/grails-spring-security-oauth2-provider
+576,HiveMind,57,48,57,7,19/11/2012,15/08/2024,2.30 MB,2360,"HiveMind is a project management and ERP application for services organizations. It features project/task management, request tracking, time tracking, expenses, invoices/payments, general ledger, and content management (wiki). HiveMind is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens.",Groovy,https://github.com/moqui/HiveMind
+577,nebula-kotlin-plugin,57,12,57,2,31/05/2016,09/06/2021,797.00 KB,797,"Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted",Groovy,https://github.com/nebula-plugins/nebula-kotlin-plugin
+578,metis,57,11,57,2,01/07/2017,23/07/2017,210.00 KB,210,spi for android,Groovy,https://github.com/yangxlei/metis
+579,getl,57,10,57,0,02/03/2015,08/01/2024,237.73 MB,243431,"A tool for developing and testing ETL and ELT processes for automating the capture, delivery and processing of information in data warehouses on the MicroFocus Vertica platform.",Groovy,https://github.com/ascrus/getl
+580,grails-views,57,44,57,131,26/08/2015,19/03/2025,37.99 MB,38903,View Technologies for Grails,Groovy,https://github.com/apache/grails-views
+581,app-tiny-R-gradle-plugin,57,8,57,0,08/05/2018,09/05/2018,138.00 KB,138,一个有效优化 apk 应用 Field 个数、包大小的构建(Hook)工具。,Groovy,https://github.com/yanbober/app-tiny-R-gradle-plugin
+582,spring-integration-dsl-groovy,56,40,56,2,08/05/2012,08/07/2022,1.10 MB,1130,Groovy DSL for Spring Integration,Groovy,https://github.com/spring-attic/spring-integration-dsl-groovy
+583,swagger2markup-gradle-plugin,56,15,56,6,05/05/2015,16/06/2020,793.00 KB,793,A Swagger2Markup Gradle Plugin.,Groovy,https://github.com/Swagger2Markup/swagger2markup-gradle-plugin
+584,gradle_cobertura,56,17,56,15,15/11/2010,01/11/2012,1.41 MB,1439,Gradle Cobertura Plugin,Groovy,https://github.com/valkolovos/gradle_cobertura
+585,FatJar,56,8,56,1,29/12/2017,07/01/2018,237.00 KB,237,a gradle plugin to pack modules and jars into a single jar,Groovy,https://github.com/bboylin/FatJar
+586,jenkins-library,55,37,55,1,06/10/2018,04/11/2024,2.73 MB,2796,Shared Library for Jenkine Pipeline,Groovy,https://github.com/Statemood/jenkins-library
+587,AndroidGradlePluginCompat,55,11,55,3,13/12/2017,01/04/2018,169.00 KB,169,android gradle plugin兼容库,Groovy,https://github.com/lizhangqu/AndroidGradlePluginCompat
+588,smartthings,55,100,55,4,28/12/2016,22/05/2021,98.00 KB,98,"This is a collection of device handlers, SmartApps and other things relating to the Samsung SmartThings platform.",Groovy,https://github.com/project802/smartthings
+589,vim-java,55,3,55,1,21/07/2013,14/01/2014,532.00 KB,532,Skeleton of Vim for Java development + Gradle,Groovy,https://github.com/bpdp/vim-java
+590,spock-subjects-collaborators-extension,55,9,55,2,30/05/2014,23/08/2023,412.00 KB,412,Spock subjects-collaborators extension,Groovy,https://github.com/marcingrzejszczak/spock-subjects-collaborators-extension
+591,neon,55,15,55,2,30/01/2014,10/01/2020,45.53 MB,46621,,Groovy,https://github.com/NextCenturyCorporation/neon
+592,bee,55,8,55,12,15/06/2011,26/02/2025,1.57 MB,1603,database changes manager,Groovy,https://github.com/bluesoft/bee
+593,pipeline-library,54,44,54,0,25/10/2017,14/11/2023,194.00 KB,194,A repository of Jenkins pipeline files we can reference from elsewhere,Groovy,https://github.com/redhat-cop/pipeline-library
+594,ci-samples,54,169,54,7,02/02/2018,22/03/2024,2.37 MB,2423,Sample configurations for various CI systems.,Groovy,https://github.com/katalon-studio-samples/ci-samples
+595,IntroGroovy,54,41,54,1,24/07/2012,28/03/2025,996.00 KB,996,"Intro Groovy source, based on Appendix A of Making Java Groovy",Groovy,https://github.com/kousen/IntroGroovy
+596,gradle-release-plugin,54,14,54,13,09/03/2011,09/10/2013,444.00 KB,444,Gradle plugin for automated release management.,Groovy,https://github.com/stianh/gradle-release-plugin
+597,gradle-python-envs,54,25,54,8,14/04/2016,21/08/2024,200.00 KB,200,Gradle plugin that automates Python environments creation,Groovy,https://github.com/JetBrains/gradle-python-envs
+598,jfr-report-tool,54,11,54,0,25/09/2015,29/04/2018,168.00 KB,168,Tool for creating reports from Java Flight Recorder dumps,Groovy,https://github.com/lhotari/jfr-report-tool
+599,jenkins-shared-libraries,54,120,54,0,11/08/2017,09/12/2018,106.00 KB,106,,Groovy,https://github.com/vfarcic/jenkins-shared-libraries
+600,SmartThings,54,155,54,6,05/03/2017,20/03/2018,180.00 KB,180,SmartThings Platform Device Type Handlers and SmartApps,Groovy,https://github.com/tomasaxerot/SmartThings
+601,gradle-animalsniffer-plugin,54,9,54,2,20/12/2015,25/03/2025,2.17 MB,2218,Gradle AnimalSniffer plugin,Groovy,https://github.com/xvik/gradle-animalsniffer-plugin
+602,measurementor,54,33,54,5,30/08/2014,05/08/2015,5.69 MB,5829,The code from Agile Metrics In Action; A system to collect data & display metrics for application lifecycle intelligence.,Groovy,https://github.com/cwhd/measurementor
+603,ActionBarSherlock-Gradle-Sample,54,14,54,1,28/07/2013,28/07/2013,42.00 KB,42,[DEPRECATED] A tiny sample project that uses ActionBarSherlock via Gradle,Groovy,https://github.com/JakeWharton/ActionBarSherlock-Gradle-Sample
+604,smartthings-rest-api,54,21,54,1,25/02/2017,28/05/2020,10.00 KB,10,SmartThings REST API,Groovy,https://github.com/bradymholt/smartthings-rest-api
+605,SmartThingsInovelli,54,103,54,7,02/05/2018,26/07/2022,425.00 KB,425,Location for Inovelli SmartThings Device Handlers and SmartApps ,Groovy,https://github.com/InovelliUSA/SmartThingsInovelli
+606,osgi-run,54,13,54,10,09/07/2014,13/02/2022,660.00 KB,660,Osgi-Run - A Gradle plugin to make the development of modular applications using OSGi completely painless,Groovy,https://github.com/renatoathaydes/osgi-run
+607,LookingGlass,53,26,53,3,25/03/2014,02/11/2016,42.70 MB,43723,Browser independent HTML Element browser.,Groovy,https://github.com/dmolchanenko/LookingGlass
+608,proguard-please,53,5,53,1,14/08/2014,04/09/2014,212.00 KB,212,A Gradle plugin for Android application projects that ensures ProGuard will be configured properly for all compile dependencies.,Groovy,https://github.com/chalup/proguard-please
+609,data,53,22,53,0,24/02/2016,12/03/2025,603.00 KB,603,FileBot Data Files,Groovy,https://github.com/filebot/data
+610,glide,53,10,53,13,21/11/2012,31/01/2019,1.27 MB,1298,Create awesome apps on Google App Engine in a snap,Groovy,https://github.com/kdabir/glide
+611,KuKuHarmony,53,106,53,3,28/03/2017,17/09/2024,99.00 KB,99,SmartApp allowing you to control each 'Device' in Logitech Harmony Hub using Harmony-API,Groovy,https://github.com/turlvo/KuKuHarmony
+612,gradle-jenkins-jobdsl-plugin,53,8,53,17,01/06/2017,18/09/2019,582.00 KB,582,A plugin for Gradle to manage Jenkins Job DSL projects.,Groovy,https://github.com/heremaps/gradle-jenkins-jobdsl-plugin
+613,Filesutra,53,12,53,8,25/06/2015,11/10/2022,737.00 KB,737,"Filesutra is an easy way to implement imports and uploads from all popular cloud storage. Supports google drive, onedrive, box, dropbox.",Groovy,https://github.com/vishesh04/Filesutra
+614,librisxl,53,11,53,19,02/04/2012,28/03/2025,86.15 MB,88214,Libris XL,Groovy,https://github.com/libris/librisxl
+615,weceem-app,53,29,53,2,28/09/2011,07/09/2018,3.00 MB,3070,Weceem CMS Standalone Application,Groovy,https://github.com/OpusCapita/weceem-app
+616,gradle-console-reporter,53,15,53,8,27/12/2015,12/08/2021,299.00 KB,299,Gradle plugin to report various kinds of summaries to console.,Groovy,https://github.com/ksoichiro/gradle-console-reporter
+617,xmake-gradle,53,7,53,5,03/04/2020,20/12/2024,261.00 KB,261,A gradle plugin that integrates xmake seamlessly,Groovy,https://github.com/xmake-io/xmake-gradle
+618,propdeps-plugin,52,9,52,9,31/07/2014,04/04/2022,3.10 MB,3172,"New ""provided"" and ""optiona;",Groovy,https://github.com/spring-attic/propdeps-plugin
+619,migmap,52,19,52,28,24/05/2014,29/10/2024,14.90 MB,15260,HTS-compatible wrapper for IgBlast V-(D)-J mapping tool,Groovy,https://github.com/mikessh/migmap
+620,Hubitat,52,61,52,4,03/05/2018,28/12/2020,2.77 MB,2840,,Groovy,https://github.com/erocm123/Hubitat
+621,licenser,52,18,52,14,19/05/2015,15/05/2024,325.00 KB,325,A simple license header manager for Gradle,Groovy,https://github.com/CadixDev/licenser
+622,gradle-release-plugin,52,24,52,9,23/10/2012,29/12/2016,233.00 KB,233,A modern release plugin for gradle,Groovy,https://github.com/ari/gradle-release-plugin
+623,jenkins-shared-library-example,52,22,52,1,03/01/2019,13/03/2019,10.00 KB,10,Example for a Jenkins shared library with unit tests,Groovy,https://github.com/kuper-adrian/jenkins-shared-library-example
+624,restful-api,52,27,52,15,04/11/2013,03/10/2019,2.30 MB,2352,Grails plugin to facilitate exposing non-trivial RESTful APIs,Groovy,https://github.com/restfulapi/restful-api
+625,jmeter-gradle-plugin,52,47,52,43,09/07/2015,25/11/2020,326.00 KB,326,Gradle plugin to run JMeter tests,Groovy,https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin
+626,Gant,52,22,52,2,18/03/2012,27/08/2018,12.17 MB,12459,The Gant Mainline,Groovy,https://github.com/Gant/Gant
+627,GradleMongoPlugin,52,27,52,8,09/02/2014,05/07/2024,463.00 KB,463,Gradle plugin for running a managed instance of Mongo.,Groovy,https://github.com/sourcemuse/GradleMongoPlugin
+628,maven-plugins,52,62,52,18,01/02/2011,26/09/2023,3.34 MB,3417,Maven plugins,Groovy,https://github.com/evgeny-goldin/maven-plugins
+629,camunda-prometheus-process-engine-plugin,52,23,52,21,26/09/2018,20/04/2021,8.62 MB,8827,"Monitor your KPIs!!!  Camunda BPM Process Engine Plugin providing Prometheus Monitoring, Metric classes for various BPMN use, Grafana Annotations, and HTTPServer data export: Used to generate Prometheus metrics anywhere in the Engine, including BPMN, CMN, and DMN engines and instances.",Groovy,https://github.com/StephenOTT/camunda-prometheus-process-engine-plugin
+630,selenium-docker-allure,52,56,52,7,12/07/2017,06/07/2022,772.00 KB,772,Running Selenium tests with py.test testing convention with docker support,Groovy,https://github.com/eliranshani/selenium-docker-allure
+631,LicenseChecker,51,0,51,0,11/03/2017,27/03/2017,465.00 KB,465,Gradle plugin to check that all Open Source Libraries in a project have been attributed,Groovy,https://github.com/wbonnefond/LicenseChecker
+632,core-api,51,11,51,11,09/07/2014,10/04/2024,52.35 MB,53611,Old Corea-milestone centralized backend now obsolete as everything is decentralized.,Groovy,https://github.com/streamr-dev/core-api
+633,gradle-liquibase-plugin,51,90,51,1,21/07/2011,23/03/2018,598.00 KB,598,A Gradle plugin for Liquibase,Groovy,https://github.com/tlberglund/gradle-liquibase-plugin
+634,gradle-build-timer-plugin,51,3,51,0,14/01/2015,27/09/2017,118.00 KB,118,A Gradle plugin which reports timings of a project build and individual project tasks,Groovy,https://github.com/eleventigers/gradle-build-timer-plugin
+635,hueMotionSensor,51,180,51,5,07/09/2018,05/04/2020,84.00 KB,84,Hue motion sensor (SmartThings),Groovy,https://github.com/bogdanalexe90/hueMotionSensor
+636,openj9-docs,51,74,51,17,07/12/2017,24/03/2025,943.75 MB,966405,"Source repository for the Eclipse OpenJ9 user documentation, which should be viewed [online]https://www.eclipse.org/openj9/docs/",Groovy,https://github.com/eclipse-openj9/openj9-docs
+637,ClassPlaceholder,51,18,51,0,31/08/2018,12/09/2018,243.00 KB,243,dynamic replace java and class value,Groovy,https://github.com/xinshengfan/ClassPlaceholder
+638,jenkins-library,51,39,51,13,09/10/2018,07/01/2022,2.98 MB,3056,Jenkins Pipeline Library,Groovy,https://github.com/zowe/jenkins-library
+639,report-of-build-tools-for-java-and-golang,51,11,51,1,29/12/2016,01/11/2018,172.00 KB,172,,Groovy,https://github.com/blindpirate/report-of-build-tools-for-java-and-golang
+640,Android-ThinApk,51,9,51,1,09/01/2019,17/05/2019,168.00 KB,168,Android APK瘦身插件,Groovy,https://github.com/houjinyun/Android-ThinApk
+641,soapUIGroovyScripts,51,59,51,1,25/12/2014,03/01/2024,141.00 KB,141,Groovy scripts that helps to do some tasks in SoapUI tool,Groovy,https://github.com/nmrao/soapUIGroovyScripts
+642,FreePlaneGTD,51,18,51,12,02/10/2014,08/05/2023,12.35 MB,12650,Fork of Freeplane GTD with extensions,Groovy,https://github.com/gpapp/FreePlaneGTD
+643,grails-vaadin-plugin,51,29,51,0,09/01/2012,09/03/2018,5.18 MB,5303,Plugin for integration of Grails and Vaadin.,Groovy,https://github.com/ondrej-kvasnovsky/grails-vaadin-plugin
+644,AutoInject,50,20,50,0,15/06/2018,19/06/2020,219.00 KB,219,Android 通用的组件自动注册、自动初始化解决方案,Groovy,https://github.com/EastWoodYang/AutoInject
+645,grails-audit-logging-plugin,50,61,50,25,21/01/2012,24/12/2024,79.24 MB,81146,The Grails Audit Logging Plugin,Groovy,https://github.com/grails-plugins/grails-audit-logging-plugin
+646,jenkins-std-lib,50,4,50,17,04/06/2020,25/03/2025,593.00 KB,593,Bringing the Zen of Python to Jenkins.,Groovy,https://github.com/DontShaveTheYak/jenkins-std-lib
+647,SmartThings---Devices,50,174,50,5,14/10/2015,16/08/2017,71.00 KB,71,For deviceTypes to be used with SmartThings,Groovy,https://github.com/sticks18/SmartThings---Devices
+648,liquibase-neo4j,50,11,50,17,28/10/2020,25/03/2025,1.12 MB,1147,Neo4j extension for Liquibase,Groovy,https://github.com/liquibase/liquibase-neo4j
+649,aos-cd-jobs,50,145,50,5,11/01/2017,27/03/2025,23.71 MB,24274,,Groovy,https://github.com/openshift-eng/aos-cd-jobs
+650,grails-jaxrs,50,48,50,0,09/07/2010,03/04/2016,8.46 MB,8667,JAX-RS Plugin for Grails,Groovy,https://github.com/krasserm/grails-jaxrs
+651,soapui-groovy-examples,50,61,50,2,30/11/2012,16/04/2021,86.00 KB,86,This is a collection of soapUI projects and Groovy Scripts used to demonstrate the Groovy scripting capabilities in soapUI,Groovy,https://github.com/SmartBear/soapui-groovy-examples
+652,Smartthings,50,399,50,3,17/12/2019,16/08/2022,191.00 KB,191,Custom DTHs for Smartthings,Groovy,https://github.com/iquix/Smartthings
+653,gradle-jaxb-plugin,50,44,50,34,08/12/2012,24/02/2022,1.07 MB,1091,Gradle plugin to ease projects that use xsds and the ant jaxb task,Groovy,https://github.com/scubacabra/gradle-jaxb-plugin
+654,DSLsFromBeginnerToExpert,50,11,50,0,20/10/2011,15/07/2024,15.53 MB,15900,,Groovy,https://github.com/paulk-asert/DSLsFromBeginnerToExpert
+655,bigtop,50,14,50,1,10/06/2011,04/07/2011,10.24 MB,10486,"Bigtop is a project for the development of packaging and tests of the Apache Hadoop ecosystem.  The primary goal of Bigtop is to build a community around the packaging and interoperability testing of Hadoop-related projects. This includes testing at various levels (packaging, platform, runtime, upgrade, etc...) developed by a community with a focus on the system as a whole, rather than individual projects.",Groovy,https://github.com/cloudera/bigtop
+656,AutoVersion,50,10,50,1,30/05/2016,08/08/2016,128.00 KB,128,Generate versionCode and versionName for android app based on git commit count automatically,Groovy,https://github.com/nillith/AutoVersion
+657,dropwizard-template-config,50,14,50,0,07/02/2015,16/12/2023,102.00 KB,102,Dropwizard bundle that enables you to write your config.yaml as a Freemarker template.,Groovy,https://github.com/tkrille/dropwizard-template-config
+658,jenkins-pipeline-shared-library-template,50,39,50,1,17/07/2017,23/03/2018,67.00 KB,67,Project template for developing shared Jenkins pipeline libraries.,Groovy,https://github.com/Diabol/jenkins-pipeline-shared-library-template
+659,smartthings,49,126,49,11,06/08/2014,10/03/2019,105.00 KB,105,My smartthings projects,Groovy,https://github.com/st-swanny/smartthings
+660,SmartThings-Home-Assistant-Connect,49,37,49,2,16/10/2017,14/02/2021,17.00 KB,17,Connect your Home Assistant devices to SmartThings.,Groovy,https://github.com/gurase/SmartThings-Home-Assistant-Connect
+661,SmartThings-webhook,49,12,49,1,06/12/2014,06/10/2020,10.00 KB,10,An installable groovy SmartApp that provides event-based webhook functionality for SmartThings.,Groovy,https://github.com/harperreed/SmartThings-webhook
+662,gql,49,5,49,3,01/04/2017,05/11/2024,2.97 MB,3040,Groovy GraphQL library,Groovy,https://github.com/grooviter/gql
+663,dockerPreparePlugin,49,8,49,5,07/09/2017,12/07/2021,280.00 KB,280,Gradle plugin to generate docker layer-friendly directory for spring boot applications,Groovy,https://github.com/gclayburg/dockerPreparePlugin
+664,gradle-info-plugin,49,20,49,17,03/02/2014,25/02/2025,1.59 MB,1624,Plugin to gather information about the environment,Groovy,https://github.com/nebula-plugins/gradle-info-plugin
+665,AndroidResourceTools,49,14,49,5,08/10/2018,08/07/2019,117.00 KB,117,Android resource rename plugin. ,Groovy,https://github.com/zhaoyubetter/AndroidResourceTools
+666,griffoninaction,49,5,49,0,09/05/2011,11/04/2013,10.59 MB,10846,Griffon in Action source code,Groovy,https://github.com/aalmiray/griffoninaction
+667,MethodTimeCost,49,3,49,0,03/07/2017,12/08/2020,172.00 KB,172,A gradle plugin to show time costs of methods on main-thread for Android.,Groovy,https://github.com/xiaobo0113/MethodTimeCost
+668,osso,49,11,49,5,11/08/2016,30/06/2017,97.00 KB,97,,Groovy,https://github.com/osso-project/osso
+669,mod-shell,49,11,49,7,12/01/2013,03/07/2020,647.00 KB,647,The module mod-shell provides an interactive shell for Vert.x,Groovy,https://github.com/crashub/mod-shell
+670,cdh-package,48,55,48,7,21/06/2012,12/04/2022,12.49 MB,12792,,Groovy,https://github.com/cloudera/cdh-package
+671,gradle-teamcity-plugin,48,15,48,13,14/05/2015,12/03/2025,2.92 MB,2993,Gradle plugin for developing TeamCity plugins,Groovy,https://github.com/rodm/gradle-teamcity-plugin
+672,tcgone-engine-contrib,48,31,48,1,19/07/2019,25/03/2025,33.46 MB,34267,TCG ONE (Pokemon TCG Simulator) card implementation repository,Groovy,https://github.com/axpendix/tcgone-engine-contrib
+673,Nutty-SmartThings,48,164,48,0,16/09/2016,19/11/2020,64.00 KB,64,Collection of apps for the SmartThings platform.,Groovy,https://github.com/nuttytree/Nutty-SmartThings
+674,ci.gradle,48,52,48,53,14/04/2014,26/03/2025,3.82 MB,3915,Gradle plugins for managing Liberty profile servers #devops,Groovy,https://github.com/OpenLiberty/ci.gradle
+675,lightningj,48,11,48,6,13/01/2018,20/02/2024,105.39 MB,107921,Core implementation of the lightningj API implementations.,Groovy,https://github.com/lightningj-org/lightningj
+676,gradle-vagrant-plugin,48,11,48,6,15/09/2013,21/03/2021,624.00 KB,624,Gradle plugin for managing Vagrant boxes.,Groovy,https://github.com/bmuschko/gradle-vagrant-plugin
+677,groovy-bytecode-ast,48,9,48,1,14/01/2011,06/07/2016,120.00 KB,120,A Groovy AST transformation which allows writing the body of a method as bytecode instructions.,Groovy,https://github.com/melix/groovy-bytecode-ast
+678,nebula-test,48,17,48,22,10/01/2014,25/02/2025,1.51 MB,1551,Test harness for Gradle plugins,Groovy,https://github.com/nebula-plugins/nebula-test
+679,thrift-gradle-plugin,48,21,48,11,21/08/2014,14/02/2023,210.00 KB,210,A gradle plugin for compiling Thrift IDL files using Thrift compiler,Groovy,https://github.com/jruyi/thrift-gradle-plugin
+680,jenkins-startup-scripts,48,19,48,4,22/03/2018,26/11/2018,1.44 MB,1473,,Groovy,https://github.com/buildit/jenkins-startup-scripts
+681,hubitatpackagemanager,47,9,47,3,29/06/2021,14/04/2024,893.00 KB,893,,Groovy,https://github.com/HubitatCommunity/hubitatpackagemanager
+682,tsa-server,47,5,47,0,12/12/2015,17/10/2017,10.00 KB,10,portable Time Stamp Server (over HTTP),Groovy,https://github.com/corpus-solutions/tsa-server
+683,jenkinsci-unstashParam-library,47,47,47,3,01/10/2019,09/03/2022,5.00 KB,5,,Groovy,https://github.com/janvrany/jenkinsci-unstashParam-library
+684,CodeAnalysis,47,16,47,0,10/02/2017,02/01/2019,405.00 KB,405,Android静态代码分析,Groovy,https://github.com/LiushuiXiaoxia/CodeAnalysis
+685,jmzSmartThings,47,208,47,4,30/06/2016,12/07/2020,1.72 MB,1760,,Groovy,https://github.com/flyjmz/jmzSmartThings
+686,rest-gradle-plugin,47,16,47,14,25/02/2013,26/10/2016,184.00 KB,184,A Gradle plugin that provides a REST request task infrastructure ,Groovy,https://github.com/noamt/rest-gradle-plugin
+687,grails-json-rest-api,47,19,47,5,28/02/2011,03/01/2023,86.00 KB,86,JSON RESTful API for GORM,Groovy,https://github.com/padcom/grails-json-rest-api
+688,spock-workshop,47,3,47,0,07/05/2013,18/05/2013,352.00 KB,352,,Shell,https://github.com/yamkazu/spock-workshop
+689,jgitflow-gradle-plugin,47,44,47,14,09/07/2015,06/04/2019,214.00 KB,214,A Gradle Plugin which adds tasks to support the Gitflow Workflow.,Groovy,https://github.com/RobWin/jgitflow-gradle-plugin
+690,AppInit,47,81,47,0,23/01/2019,23/01/2019,7.00 KB,7,AppInit 是一款 Android 应用初始化框架，基于组件化的设计思路，功能灵活，使用简单。,Groovy,https://github.com/henryhong111/AppInit
+691,spreadsheet-builder,47,23,47,7,08/10/2015,03/05/2019,2.04 MB,2086,Spreadsheet Builder,Groovy,https://github.com/MetadataConsulting/spreadsheet-builder
+692,helium,47,8,47,28,21/09/2013,30/10/2019,2.01 MB,2062,"DSL for REST API specification, verification, and code generation.",Groovy,https://github.com/stanfy/helium
+693,bangali,47,50,47,14,19/10/2017,25/12/2020,9.27 MB,9491,bangali's random code stuff for smartthings,Groovy,https://github.com/adey/bangali
+694,arc42-generator,47,13,47,4,18/08/2016,16/03/2025,1.02 MB,1044,a gradle build to generate all derived templates from arc42-master,Groovy,https://github.com/arc42/arc42-generator
+695,gradle-syntastic-plugin,47,3,47,6,21/06/2015,22/08/2023,274.00 KB,274,A Gradle plugin for integrating your Java project with Vim and Syntastic.,Groovy,https://github.com/Scuilion/gradle-syntastic-plugin
+696,grails-howtos,47,12,47,1,11/01/2012,08/10/2013,654.00 KB,654,The source and build for a set of Grails HOWTO documents,Groovy,https://github.com/grails/grails-howtos
+697,gradle-bundle-plugin,47,22,47,10,19/05/2014,14/05/2021,257.00 KB,257,,Groovy,https://github.com/TomDmitriev/gradle-bundle-plugin
+698,cloudify-recipes,47,67,47,1,13/02/2012,09/03/2016,32.18 MB,32955,Application and service recipes for Cloudify,Groovy,https://github.com/CloudifySource/cloudify-recipes
+699,gradle-calabash-android-plugin,46,29,46,15,22/10/2013,25/02/2016,318.00 KB,318,Gradle Plugin for Calabash,Groovy,https://github.com/Pedlar/gradle-calabash-android-plugin
+700,jenkins-workflow,46,18,46,0,10/08/2016,22/05/2018,21.00 KB,21,contains handy groovy workflow-libs scripts,Groovy,https://github.com/funkwerk/jenkins-workflow
+701,Hubitat,46,30,46,0,06/02/2018,09/01/2022,1.94 MB,1983,Hubitat Stuff,Groovy,https://github.com/stephack/Hubitat
+702,groovy-excel-builder,46,14,46,7,15/09/2016,13/04/2020,618.00 KB,618,A Groovy DSL for Building Excel Files,Groovy,https://github.com/jameskleeh/groovy-excel-builder
+703,geoscript-groovy,46,22,46,13,03/03/2010,19/04/2024,207.95 MB,212941,A Groovy implementation of  GeoScript.,Groovy,https://github.com/geoscript/geoscript-groovy
+704,fonts,46,6,46,1,03/04/2017,04/01/2018,405.00 KB,405,Define the fonts of your Android project directly from the build.gradle ,Groovy,https://github.com/florent37/fonts
+705,smarthings-apps,46,119,46,6,17/01/2014,16/01/2018,38.00 KB,38,Files for SmartThings Apps,Groovy,https://github.com/twack/smarthings-apps
+706,BuglyBetaUploader,46,10,46,1,08/07/2016,17/07/2024,587.00 KB,587,A grade plugin to upload apk file to Beta.,Groovy,https://github.com/BuglyDevTeam/BuglyBetaUploader
+707,smartthings-devices,46,106,46,1,29/01/2014,16/11/2015,336.00 KB,336,Device Files,Groovy,https://github.com/twack/smartthings-devices
+708,CompressPng,46,4,46,2,04/07/2022,31/08/2022,345.00 KB,345,,Groovy,https://github.com/renxh4/CompressPng
+709,gradle-resolution-rules-plugin,46,16,46,13,13/10/2015,25/02/2025,1.71 MB,1751,Gradle plugin for providing reusable dependency resolution rules.,Groovy,https://github.com/nebula-plugins/gradle-resolution-rules-plugin
+710,POET-pipeline-library,46,31,46,1,22/07/2019,05/12/2019,157.00 KB,157,POET pipeline framework automation code.,Groovy,https://github.com/tmobile/POET-pipeline-library
+711,smartthings,46,69,46,1,28/08/2014,27/06/2021,3.31 MB,3390,A collection of smart apps for smartthings,Groovy,https://github.com/sidjohn1/smartthings
+712,ChangeResourceDemo,46,13,46,0,25/05/2018,28/02/2020,124.00 KB,124,多渠道修改图片的gradle插件,Groovy,https://github.com/mrqatom/ChangeResourceDemo
+713,KOF-CeilingFan,46,211,46,7,18/04/2017,08/04/2021,723.00 KB,723,Zigbee Ceiling Fan/light Controller by Home Depot (King of Fans),Groovy,https://github.com/dcoffing/KOF-CeilingFan
+714,jbake-gradle-plugin,46,21,46,11,28/01/2014,24/02/2023,820.00 KB,820,A Gradle plugin for JBake,Groovy,https://github.com/jbake-org/jbake-gradle-plugin
+715,android-power-assert-plugin,46,1,46,2,05/05/2014,16/11/2016,1.32 MB,1356,Power Assert for Android,Groovy,https://github.com/gfx/android-power-assert-plugin
+716,grails-shiro,45,62,45,4,12/11/2010,26/05/2020,1.45 MB,1481,Grails Plugin for the Apache Shiro security framework,Groovy,https://github.com/pledbrook/grails-shiro
+717,cleanup-scripts,45,25,45,1,20/01/2019,25/02/2025,361.00 KB,361,"Scripts for cleanup Atlassian Jira (Groovy, Python)",Groovy,https://github.com/gonchik/cleanup-scripts
+718,awsobjectmapper,45,37,45,0,14/08/2014,10/12/2024,231.00 KB,231,Serializing / deserializing library for AWS objects,Groovy,https://github.com/Netflix/awsobjectmapper
+719,google-calendar-grails,45,25,45,0,11/02/2012,31/03/2015,675.00 KB,675,,Groovy,https://github.com/craigburke/google-calendar-grails
+720,InfluxDB-Logger,45,41,45,0,24/10/2018,13/03/2025,165.00 KB,165,,Groovy,https://github.com/HubitatCommunity/InfluxDB-Logger
+721,smartthings,45,32,45,6,14/07/2014,15/08/2016,81.00 KB,81,"This is a repository of all of my custom SmartThings programs, which include both Device Types and SmartApps.",Groovy,https://github.com/nicholaswilde/smartthings
+722,har2JMeter,45,31,45,2,08/03/2013,25/11/2019,11.09 MB,11360,Simple Java/Groovy based command line tool  to convert a HAR file into a JMeter test scripts.,Groovy,https://github.com/Seitenbau/har2JMeter
+723,dbb-zappbuild,45,145,45,74,25/02/2020,18/12/2024,791.00 KB,791,zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) APIs.,Groovy,https://github.com/IBM/dbb-zappbuild
+724,semver-git,45,15,45,12,08/04/2015,01/02/2023,184.00 KB,184,"Gradle plugin that combines git tags and semantic versioning, and sets the gradle version property accordingly. ",Groovy,https://github.com/Nasdaq/semver-git
+725,Getty,45,12,45,0,03/07/2016,27/04/2017,25.00 KB,25,基于Groovy的NIO框架，仅供学习Java NIO使用。,Groovy,https://github.com/x-hansong/Getty
+726,java-ordered-properties,45,25,45,0,04/10/2014,13/03/2025,727.00 KB,727,Alternative to the JDK class java.util.Properties.,Groovy,https://github.com/etiennestuder/java-ordered-properties
+727,ivypot-gradle-plugin,45,14,45,7,11/05/2015,23/04/2020,418.00 KB,418,Ivypot is a Gradle plugin to help managing a local off-line repository for builds in restricted environments,Groovy,https://github.com/ysb33r/ivypot-gradle-plugin
+728,android-gradle-mulchannel-plugin,45,11,45,5,02/02/2015,25/01/2016,12.61 MB,12916,Gradle plugin for generating multiple channel apks,Groovy,https://github.com/ihrthk/android-gradle-mulchannel-plugin
+729,smartthings-dsc-alarm,44,40,44,3,29/03/2014,30/07/2014,395.00 KB,395,Smartthings code for DSC (or generic) alarm panels via REST API,Groovy,https://github.com/kholloway/smartthings-dsc-alarm
+730,gradle-release-plugin,44,9,44,8,12/12/2014,14/12/2021,170.00 KB,170,Gradle plugin providing very minimal release version numbering (Git-specific),Groovy,https://github.com/netzwerg/gradle-release-plugin
+731,jenkins-global-library-simple,44,7,44,1,24/12/2018,23/05/2020,4.00 KB,4,"I couldn't find a simple example of Jenkins global shared libraries, so I made one",Groovy,https://github.com/ChrisCooney/jenkins-global-library-simple
+732,muddler,44,11,44,13,22/03/2019,23/08/2024,132.00 KB,132,A build tool for Mudlet package developers,Groovy,https://github.com/demonnic/muddler
+733,grails-gson,44,34,44,17,27/06/2012,22/08/2013,1.04 MB,1067,Provides alternate JSON (de)serialization for Grails using Google's Gson library,Groovy,https://github.com/robfletcher/grails-gson
+734,force-meta-backup,44,22,44,8,28/01/2013,19/02/2025,250.59 MB,256608,A tool to help download Salesforce.com Metadata,Groovy,https://github.com/alan-morey/force-meta-backup
+735,grails-mail,44,85,44,3,27/07/2010,24/03/2025,2.83 MB,2893,The Grails Mail Plugin,Groovy,https://github.com/grails-plugins/grails-mail
+736,ops,44,61,44,1,24/04/2020,11/05/2020,100.00 KB,100,,Groovy,https://github.com/ronwxy/ops
+737,jks,44,19,44,1,03/05/2016,19/01/2018,26.00 KB,26,Jenkins Docker image,Groovy,https://github.com/thbkrkr/jks
+738,gversion-plugin,44,9,44,3,06/04/2018,08/03/2025,232.00 KB,232,Gradle plugin for autogenerating version info from gradle and git,Groovy,https://github.com/lessthanoptimal/gversion-plugin
+739,jenkins-os,43,20,43,1,11/11/2016,28/02/2020,509.00 KB,509,Groovy pipeline jobs that build and test Container Linux with Jenkins,Groovy,https://github.com/coreos/jenkins-os
+740,Zuul,43,32,43,40,13/07/2012,06/07/2022,1.42 MB,1454,Keymaster and Gatekeeper - Application Configuration Management,Groovy,https://github.com/Confluex/Zuul
+741,grails-samples,43,20,43,1,11/02/2010,14/02/2011,66.56 MB,68158,THIS IS DEAD CODE AND HAS BEEN MOVED TO https://github.com/grails-samples/,Groovy,https://github.com/grails/grails-samples
+742,ScriptRunner,43,21,43,0,13/10/2017,16/01/2025,450.00 KB,450,Scripts for JIRA/Confluence,Groovy,https://github.com/totallytot/ScriptRunner
+743,android-multithread,43,20,43,0,06/09/2013,17/05/2014,1.42 MB,1449,android lib - multithread,Groovy,https://github.com/snowdream/android-multithread
+744,wiremock-groovy,43,6,43,3,17/02/2015,28/04/2023,127.00 KB,127,groovy bindings for wiremock,Groovy,https://github.com/tomjankes/wiremock-groovy
+745,BigTalker2,43,166,43,10,06/02/2018,08/08/2019,629.00 KB,629,SmartThings SmartApp - Big Talker is a SmartApp for SmartThings that can make your house talk depending on various triggered events.,Groovy,https://github.com/rayzurbock/BigTalker2
+746,notes-import,43,6,43,3,08/10/2018,09/03/2024,184.00 KB,184,Parses Apple notes SQLite databases,Groovy,https://github.com/ChrLipp/notes-import
+747,docker-jenkins,43,29,43,1,27/04/2017,10/02/2019,68.00 KB,68,Customized image with docker and selected plugin pre-backed. This image makes use of docker secrets and runs in a swarm cluster ,Groovy,https://github.com/shazChaudhry/docker-jenkins
+748,SmartThings-Alexa,43,137,43,6,01/09/2018,10/12/2018,42.00 KB,42,,Groovy,https://github.com/bjpierron/SmartThings-Alexa
+749,jenkins-shared-library,43,4,43,0,20/02/2023,22/01/2025,421.00 KB,421,Jenkins Pipeline Extending with Shared Libraries ,Groovy,https://github.com/daluobai-devops/jenkins-shared-library
+750,Savior,43,13,43,1,23/09/2016,23/09/2016,145.00 KB,145,基于Instant run思想的HotFix实现,Groovy,https://github.com/HalfStackDeveloper/Savior
+751,gradle-buildscan-recipes,42,2,42,7,14/10/2016,01/02/2018,145.00 KB,145,A Gradle plugin for Build Scans,Groovy,https://github.com/melix/gradle-buildscan-recipes
+752,gradle-js,42,6,42,5,22/06/2016,29/06/2016,76.00 KB,76,JavaScript Builds for Gradle. You're Welcome.,Groovy,https://github.com/danveloper/gradle-js
+753,coin-exchange-frontend,42,38,42,4,24/11/2016,14/05/2019,5.46 MB,5596,"Coin Exchange front-end code. Coin Exchange is a high performance exchange system specialized for Crypto currency trading with different general purpose uses such as independent deposit and withdrawal channels for Bitcoin and Litecoin, and also a standalone exchange for different asset classes.",Groovy,https://github.com/coin-worx/coin-exchange-frontend
+754,Brainduck,42,1,42,31,17/08/2014,08/08/2024,1.22 MB,1246,"Brainfuck Interpreter in Java/Groovy, with a Groovy DSL",Groovy,https://github.com/Zomis/Brainduck
+755,ST_MyQ,42,67,42,7,20/05/2014,14/10/2014,581.00 KB,581,MyQ Integration for Smart Things,Groovy,https://github.com/adamheinmiller/ST_MyQ
+756,NeacyPlugin,42,8,42,1,15/11/2017,20/07/2018,561.00 KB,561,Gradle plugin for router or method  cost ..,Groovy,https://github.com/Neacy/NeacyPlugin
+757,pipeline-sharedlib-testharness,42,18,42,2,07/07/2017,08/07/2024,116.00 KB,116,JenkinsPipelineUnit test harness for a Jenkins Shared Library,Groovy,https://github.com/stchar/pipeline-sharedlib-testharness
+758,Aeon-HEM-v2,42,121,42,5,30/07/2014,02/02/2018,61.00 KB,61,"My version of the ST device driver for the Aeon HEM, exended to support the V2 version, with more displays",Groovy,https://github.com/SANdood/Aeon-HEM-v2
+759,gradle-groovysh-plugin,42,10,42,3,04/05/2014,12/07/2022,482.00 KB,482,gradle plugin allowing to start a command-line shell,Groovy,https://github.com/tkruse/gradle-groovysh-plugin
+760,jenkins-jenkinsfile-include,42,23,42,0,09/05/2017,09/05/2017,2.00 KB,2,An example of a Jenkins pipeline that includes steps from another file.,Groovy,https://github.com/ksuther/jenkins-jenkinsfile-include
+761,grails-solr-plugin,42,40,42,5,08/01/2010,04/07/2011,63.68 MB,65212,Provides search capabilities for Grails domain model and more using the excellent Solr  open source search server through the SolrJ library.,Groovy,https://github.com/mbrevoort/grails-solr-plugin
+762,jenkins-k8sagent-lib,42,34,42,2,07/10/2019,28/09/2023,153.00 KB,153,Jenkins Shared Library to get dynamic agent from Kubernetes cloud,Groovy,https://github.com/liejuntao001/jenkins-k8sagent-lib
+763,fxtest-jenkins-pipeline,42,20,42,0,13/02/2017,08/04/2019,80.00 KB,80,DEPRECATED,Groovy,https://github.com/mozilla/fxtest-jenkins-pipeline
+764,grails-executor,41,15,41,1,23/08/2010,20/09/2016,94.00 KB,94,concurrency plugin for grails to allow one to use the ExecutorService,Groovy,https://github.com/basejump/grails-executor
+765,jenkins-bootstrap-slack,41,9,41,0,30/05/2015,18/10/2020,150.00 KB,150,Bootstrap a Jenkins instance configured for Jenkins slack plugin testing.,Groovy,https://github.com/samrocketman/jenkins-bootstrap-slack
+766,nf-boost,41,0,41,5,23/03/2024,19/03/2025,203.00 KB,203,Experimental features for Nextflow,Groovy,https://github.com/bentsherman/nf-boost
+767,homelab,41,0,41,0,15/02/2023,31/01/2025,136.28 MB,139550,homelab,Groovy,https://github.com/AleixoLucas42/homelab
+768,MacroGroovy,41,2,41,0,05/12/2013,15/04/2014,340.00 KB,340,,Groovy,https://github.com/bsideup/MacroGroovy
+769,antlr4-gradle-plugin,41,13,41,5,21/05/2014,18/03/2021,69.00 KB,69,Antlr4 plugin for Gradle,Groovy,https://github.com/melix/antlr4-gradle-plugin
+770,STAmbientWeather,41,79,41,1,15/08/2018,11/03/2025,20.43 MB,20924,Hubitat Integration for Ambient Weather Station,Groovy,https://github.com/KurtSanders/STAmbientWeather
+771,image2cssConverter,41,9,41,3,06/12/2011,20/06/2017,1.27 MB,1298,"Convert images (jpg, gif, png) to base64 encoded CSS classes",Groovy,https://github.com/mhuckaby/image2cssConverter
+772,pipeline-developer,41,21,41,3,15/06/2017,05/07/2018,13.00 KB,13,Local development for jenkins pipelines,Groovy,https://github.com/liatrio/pipeline-developer
+773,hubitat,41,47,41,12,08/01/2020,16/02/2022,2.19 MB,2242,My Hubitat Stuff,Groovy,https://github.com/djdizzyd/hubitat
+774,parseApp,41,8,41,0,03/08/2017,17/11/2017,9.74 MB,9972,分析app的技术,Groovy,https://github.com/pighead4u/parseApp
+775,ebook-continuous-delivery-with-kubernetes-and-jenkins,41,103,41,0,26/10/2017,18/03/2022,1004.00 KB,1004,"Continuous Delivery for Java Apps: Build a CD Pipeline Step by Step Using Kubernetes, Docker, Vagrant, Jenkins, Spring, Maven and Artifactory",Groovy,https://github.com/jorgeacetozi/ebook-continuous-delivery-with-kubernetes-and-jenkins
+776,micronaut-testing-best-practices,41,12,41,0,21/06/2020,10/07/2020,163.00 KB,163,,Groovy,https://github.com/ilopmar/micronaut-testing-best-practices
+777,migec,41,19,41,28,14/04/2014,29/03/2024,101.10 MB,103529,A RepSeq processing swiss-knife,Groovy,https://github.com/mikessh/migec
+778,grails-aws,41,27,41,10,13/01/2011,03/02/2025,4.15 MB,4248,Grails plugin for Amazon Web Services,Groovy,https://github.com/grails-aws/grails-aws
+779,cdkbook,41,14,41,6,24/12/2018,11/03/2025,11.35 MB,11622,Groovy Cheminformatics with the Chemistry Development Kit,Groovy,https://github.com/cdk/cdkbook
+780,r-ci-samples,41,4,41,4,14/12/2019,24/03/2025,2.22 MB,2271,Sample CI&metadata files from popular R package repos,Groovy,https://github.com/MichaelChirico/r-ci-samples
+781,plantuml-gradle-plugin,40,10,40,10,01/05/2020,17/11/2023,459.00 KB,459,Gradle plugin to build PlantUML diagrams from code (for living and up-to-date documentation),Groovy,https://github.com/RoRoche/plantuml-gradle-plugin
+782,jmeter-gradle-plugin,40,28,40,30,12/10/2011,12/02/2016,703.00 KB,703,,Groovy,https://github.com/kulya/jmeter-gradle-plugin
+783,ansible-jenkins,40,40,40,1,02/09/2020,13/03/2025,876.00 KB,876,,Groovy,https://github.com/darinpope/ansible-jenkins
+784,jenkins-pipeline-1C-to-sonar,40,33,40,0,31/08/2019,06/01/2021,87.00 KB,87,Конвейер проверки качества кода 1C,Groovy,https://github.com/Stepa86/jenkins-pipeline-1C-to-sonar
+785,jenkins-shared-library,40,160,40,0,18/05/2019,15/11/2024,88.00 KB,88,A Jenkins shared library code examples with Jenkinfiles,Groovy,https://github.com/techiescamp/jenkins-shared-library
+786,gradle-plugin-protobuf,40,24,40,7,10/09/2011,23/03/2015,556.00 KB,556,Protobuf Plugin for Gradle has moved to,Groovy,https://github.com/aantono/gradle-plugin-protobuf
+787,HappyNewMoonWithReport,40,6,40,2,25/07/2017,28/07/2022,2.12 MB,2170,Happy New Moon with Report is an open-source implementation of WebAssembly written entirely in Java. It is typically used to run or test Web Assembly Modules (*.wasm) in Java.,Groovy,https://github.com/fishjd/HappyNewMoonWithReport
+788,lazybones-angular-grails,40,9,40,4,23/09/2014,30/08/2015,2.60 MB,2658,Lazybones template for an AngularJs/Grails application,Groovy,https://github.com/craigburke/lazybones-angular-grails
+789,Iris-Smart-Plug,40,199,40,3,04/12/2015,17/12/2018,21.00 KB,21,,Groovy,https://github.com/blebson/Iris-Smart-Plug
+790,gradle-androidannotations-plugin,40,10,40,6,27/12/2011,18/06/2012,787.00 KB,787,AndroidAnnotations plugin for Gradle,Groovy,https://github.com/ealden/gradle-androidannotations-plugin
+791,gradle-mkdocs-plugin,40,6,40,1,20/12/2017,31/01/2025,2.70 MB,2768,Mkdocs documentation generation and publishing plugin,Groovy,https://github.com/xvik/gradle-mkdocs-plugin
+792,sdp-pipeline-framework,40,14,40,0,18/09/2018,01/03/2019,2.20 MB,2254,The Solutions Delivery Platform runtime pipeline framework,Groovy,https://github.com/boozallen/sdp-pipeline-framework
+793,android-gradle-groovy-app-template,40,4,40,0,31/12/2015,16/06/2019,187.00 KB,187,Gradle + Android Studio + Robolectric + Espresso + RoboSpock + JaCoCo,Groovy,https://github.com/jaredsburrows/android-gradle-groovy-app-template
+794,gradle-processes,40,18,40,8,02/12/2013,30/07/2018,200.00 KB,200,Gradle Processes Plugin - Create and manage forked processes,Groovy,https://github.com/johnrengelman/gradle-processes
+795,GradleDemo,40,15,40,0,18/02/2016,26/02/2016,100.00 KB,100,Gradle插件开发极简教程,Groovy,https://github.com/damonliuchn/GradleDemo
+796,lifxcode,40,21,40,6,15/12/2018,25/10/2021,717.00 KB,717,,Groovy,https://github.com/robheyes/lifxcode
+797,bamboo-plan-dsl-plugin,40,16,40,34,25/08/2016,30/04/2021,1.75 MB,1787,Configuration as code with a Groovy-based DSL or YAML for Atlassian Bamboo.,Groovy,https://github.com/mibexsoftware/bamboo-plan-dsl-plugin
+798,AndroidPionner,39,2,39,1,29/03/2019,03/06/2024,4.19 MB,4287,为android工程编译提供常用功能的gradle插件，旨在把一些常用自动化的脚本收集在一起。,Groovy,https://github.com/galaxybruce/AndroidPionner
+799,onec-cicd,39,13,39,0,09/06/2019,16/06/2019,15.00 KB,15,:sunglasses: CI-стенд для 1С:Предприятие 8.3.,Groovy,https://github.com/jugatsu/onec-cicd
+800,griffon_sample_apps,39,10,39,0,11/12/2009,29/03/2014,41.07 MB,42058,A collection of Griffon applications used for demostration purposes,Groovy,https://github.com/aalmiray/griffon_sample_apps
+801,SmartThings,39,67,39,1,12/01/2016,19/06/2018,1.37 MB,1404,,Groovy,https://github.com/fuzzysb/SmartThings
+802,GrabVer,39,11,39,5,21/05/2017,01/08/2024,164.00 KB,164,"Gradle Automatic Build Versioning Plugin - An easy Gradle plugin that follows semver.org rules to automatically generate the Patch version, Build number and Code version, while Major, Minor and Pre-Release suffix remain under our control.",Groovy,https://github.com/davideas/GrabVer
+803,Modpack-Vintage,39,6,39,22,12/09/2022,24/03/2025,2.60 GB,2723358,An innovative modpack that contains GregTech and TerraFirmaCraft on 1.12.x.,Groovy,https://github.com/TerraFirmaGreg-Team/Modpack-Vintage
+804,gradle-checksum,39,13,39,2,12/08/2017,14/02/2022,224.00 KB,224,A Gradle plugin for creating checksums for files in your build.,Groovy,https://github.com/gradle/gradle-checksum
+805,android-checkstyle-plugin,39,2,39,0,13/02/2015,05/09/2017,219.00 KB,219,Configures the checkstyle plugin for Android projects,Groovy,https://github.com/f2prateek/android-checkstyle-plugin
+806,GradleCustomPlugin,39,19,39,0,19/01/2016,19/01/2016,153.00 KB,153,自定义Gradle插件,Groovy,https://github.com/mickyliu945/GradleCustomPlugin
+807,Jenkins-Pipeline-Utils,39,20,39,0,24/07/2018,10/05/2021,27.00 KB,27,Global Jenkins Pipeline Library with common utilities.,Groovy,https://github.com/eBay/Jenkins-Pipeline-Utils
+808,springboot-aws-lambda,39,37,39,0,20/03/2017,02/02/2018,25.00 KB,25,,Groovy,https://github.com/bytekast/springboot-aws-lambda
+809,docker-grails,39,6,39,0,17/10/2014,11/11/2015,251.00 KB,251,Grails in Docker Container,Groovy,https://github.com/onesysadmin/docker-grails
+810,grails-spring-security-facebook,39,35,39,24,17/10/2011,30/04/2017,395.00 KB,395,Facebook Authentication plugin for Grails,Groovy,https://github.com/splix/grails-spring-security-facebook
+811,groovy-data-science,39,11,39,0,06/06/2019,20/02/2025,13.65 MB,13981,Some Data Science examples using Groovy,Groovy,https://github.com/paulk-asert/groovy-data-science
+812,Project-CBT,39,5,39,2,27/07/2023,05/01/2024,705.00 MB,721921,"Project CBT - The go-to modpack if you want to destroy your sanity, with cringe and bullshit torture",Groovy,https://github.com/Ministry-of-CBT/Project-CBT
+813,selenium-automation-bundle,39,15,39,2,30/03/2018,28/05/2019,4.53 MB,4639,Selenium Automation Bundle is an extendable and adaptable solution that simplifies automated testing to help focus on writing tests with Selenide and TestNG using the best test design patterns.,Groovy,https://github.com/sysgears/selenium-automation-bundle
+814,pmsencoder,39,20,39,0,05/01/2010,02/11/2015,22.22 MB,22755,Web video plugin for PS3 Media Server,Groovy,https://github.com/chocolateboy/pmsencoder
+815,james-jenkins,39,30,39,6,10/07/2015,29/06/2021,19.74 MB,20215,Immutable Jenkins CI for Apache James ,Groovy,https://github.com/linagora/james-jenkins
+816,configuration-as-code-jenkins-k8s,39,39,39,1,19/04/2020,29/04/2022,2.15 MB,2205,"Demo resources for the Configuration as Code of Jenkins (for Kubernetes) talk on the 21st of April, for the Jenkins Online Meetup group",Groovy,https://github.com/figaw/configuration-as-code-jenkins-k8s
+817,static-code-analysis-plugin,39,12,39,7,30/10/2015,06/08/2020,1.26 MB,1289,"A plugin to simplify Static Code Analysis on Gradle. Not restricted to, but specially useful, in Android projects, by making sure all analysis can access the SDK classes.",Groovy,https://github.com/Monits/static-code-analysis-plugin
+818,GitDetective,39,0,39,26,09/07/2018,11/09/2023,211.08 MB,216144,Find the use and users of open-source code,Groovy,https://github.com/BFergerson/GitDetective
+819,seed-plugin,38,11,38,7,27/05/2015,21/12/2021,5.79 MB,5928,Seed Jenkins plug-in,Groovy,https://github.com/jenkinsci/seed-plugin
+820,gradle-git-repo,38,4,38,3,22/12/2014,24/11/2015,274.00 KB,274,Gradle plugin to better support using git repositories as a (private) maven repo.,Groovy,https://github.com/rharter/gradle-git-repo
+821,gradle-jetty-eclipse-plugin,38,10,38,7,17/09/2013,03/12/2015,245.00 KB,245,Gradle Jetty Plugin for Eclipse Jetty,Groovy,https://github.com/Khoulaiz/gradle-jetty-eclipse-plugin
+822,droidmate,38,26,38,0,14/12/2015,03/04/2020,35.45 MB,36297,DroidMate is an automated GUI execution generator for Android apps.,Groovy,https://github.com/konrad-jamrozik/droidmate
+823,grails-cxf,38,46,38,11,16/01/2010,19/06/2021,32.16 MB,32934,CXF Plugin for the Grails web framework,Groovy,https://github.com/Grails-Plugin-Consortium/grails-cxf
+824,jenkins-init-scripts,38,10,38,4,21/09/2016,15/10/2018,24.00 KB,24,Jenkins Groovy Initialization Mixin Scripts,Groovy,https://github.com/visualphoenix/jenkins-init-scripts
+825,grails-profile-repository,38,30,38,5,07/01/2015,05/02/2025,838.00 KB,838,The Grails 3 profile repository - contains metadata for Grails profiles,Groovy,https://github.com/grails/grails-profile-repository
+826,jenkins-job-dsl,38,21,38,29,13/05/2016,10/01/2025,3.22 MB,3295,DSL scripts for edx Jenkins instances,Groovy,https://github.com/edx/jenkins-job-dsl
+827,vdjmatch,38,7,38,7,16/11/2014,12/11/2018,5.51 MB,5641,⚙️ Matching T-cell repertoire against a database of TCR antigen specificities,Groovy,https://github.com/antigenomics/vdjmatch
+828,smartthings,38,106,38,3,03/07/2015,22/02/2018,963.00 KB,963,My Smartthings,Groovy,https://github.com/CyrilPeponnet/smartthings
+829,spring-boot-container-demo,38,15,38,2,29/04/2015,29/04/2015,116.00 KB,116,,Groovy,https://github.com/saturnism/spring-boot-container-demo
+830,gradle-spoon-plugin,38,6,38,4,23/09/2013,07/02/2017,288.00 KB,288,A Gradle plugin for running Android instrumentation tests with Spoon.,Groovy,https://github.com/x2on/gradle-spoon-plugin
+831,scalroid,38,4,38,1,20/10/2022,08/02/2024,111.00 KB,111,"A scala-kotlin-java joint compilation plugin built on Gradle, for native Android.",Groovy,https://github.com/chenakam/scalroid
+832,TracePoint,38,13,38,1,22/10/2019,24/01/2021,268.00 KB,268,android 全埋点数据采集gradle插件（字节码插桩，支持androidx）,Groovy,https://github.com/harvie1208/TracePoint
+833,Gradle-Dependencies-Check,38,10,38,0,09/05/2019,28/03/2023,113.00 KB,113,梳理并检查项目中多个module的gradle依赖配置是否存在冲突,Groovy,https://github.com/AndroidAppFactory/Gradle-Dependencies-Check
+834,gradle-debian-plugin,38,14,38,10,08/09/2013,26/03/2025,2.83 MB,2898,Gradle plugin to create Debian packages,Groovy,https://github.com/gesellix/gradle-debian-plugin
+835,tsaap-notes,38,19,38,37,19/06/2013,28/12/2018,9.96 MB,10204,Active learning tool for learners and teachers,Groovy,https://github.com/TSaaP/tsaap-notes
+836,grails-quartz2,38,11,38,0,15/12/2011,14/10/2019,255.00 KB,255,Uses the new Quartz 2.1 framework from quartz-scheduler.org. The goal is to keep it as simple as possible while making it friendly for Groovy/Grails.,Groovy,https://github.com/9ci/grails-quartz2
+837,gradle-pom-plugin,38,4,38,0,20/11/2015,31/01/2025,605.00 KB,605,Gradle POM plugin,Groovy,https://github.com/xvik/gradle-pom-plugin
+838,jenkins-dsl-pipelines,38,10,38,4,09/08/2022,25/10/2022,49.00 KB,49,Sample repo demonstrating use of Jenkins DSL Pipelines via IntelliJ that will support code completion and validation,Groovy,https://github.com/jaydubb12/jenkins-dsl-pipelines
+839,gradle-rpm-plugin,38,19,38,16,26/05/2011,03/11/2013,522.00 KB,522,Gradle plugin for constructing RPM packages.,Groovy,https://github.com/TrigonicSolutions/gradle-rpm-plugin
+840,syndesis-quickstarts,38,27,38,2,03/10/2018,21/07/2021,15.19 MB,15557,Quickstarts,Groovy,https://github.com/syndesisio/syndesis-quickstarts
+841,jenkins-shared-library,37,31,37,5,26/04/2020,15/02/2023,59.00 KB,59,My personal Jenkins Shared Library ,Groovy,https://github.com/colinbut/jenkins-shared-library
+842,provisioning-gradle-plugin,37,5,37,0,10/12/2013,13/06/2014,367.00 KB,367,Gradle Plugin for Driving Server Provisioning Through Configuration,Groovy,https://github.com/danveloper/provisioning-gradle-plugin
+843,Test-Code,37,18,37,0,31/12/2018,03/10/2024,2.57 MB,2629,Test Code,Groovy,https://github.com/DaveGut/Test-Code
+844,glossary,37,18,37,39,03/06/2016,03/03/2025,13.97 MB,14307,An extensive glossary of software architecture (and development) terminology.  Explains the terms used and referenced in the iSAQB foundation and advanced level curricula.,Groovy,https://github.com/isaqb-org/glossary
+845,graph-databases-testsuite,37,9,37,22,03/05/2017,10/02/2022,235.12 MB,240767,"Docker Images, installation scripts, and testing & benchmarking suite for Graph Databases",Groovy,https://github.com/kuzeko/graph-databases-testsuite
+846,gradle-aws-s3-sync,37,23,37,13,07/06/2012,29/03/2019,226.00 KB,226,The gradle task for synchronizing a local directory with a AWS S3 bucket.,Groovy,https://github.com/literalice/gradle-aws-s3-sync
+847,grules,37,10,37,0,04/07/2012,13/11/2016,40.37 MB,41342,Grules - rule engine for data preprocessing,Groovy,https://github.com/zhaber/grules
+848,jenkins-build-per-gitflow-branch,37,42,37,3,13/12/2014,18/02/2021,257.00 KB,257,Jenkins Build Per Git Flow Branch,Groovy,https://github.com/neoteric-eu/jenkins-build-per-gitflow-branch
+849,elasticsearch-groovy,37,18,37,0,16/01/2014,10/09/2019,504.00 KB,504,Elasticsearch Groovy client,Groovy,https://github.com/elastic/elasticsearch-groovy
+850,grails-cors,37,22,37,13,28/09/2012,02/03/2022,504.00 KB,504,Grails plugin to add Cross-Origin Resource Sharing (CORS) headers,Groovy,https://github.com/davidtinker/grails-cors
+851,gradle-build-info-plugin,37,6,37,3,14/12/2015,02/01/2017,109.00 KB,109,Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.,Groovy,https://github.com/ksoichiro/gradle-build-info-plugin
+852,jenkins-scripts,37,17,37,1,04/10/2017,08/10/2017,7.00 KB,7,Useful groovy scripts for configuring Jenkins via Ansible,Groovy,https://github.com/peterjenkins1/jenkins-scripts
+853,groovy-website,37,65,37,5,20/11/2018,19/03/2025,113.37 MB,116094,Apache Groovy content to generate sites,Groovy,https://github.com/apache/groovy-website
+854,vanessa-usher,37,18,37,2,11/08/2021,05/02/2025,612.00 KB,612,,Groovy,https://github.com/silverbulleters/vanessa-usher
+855,CurseMaven-OLD,37,4,37,0,17/06/2019,05/07/2020,186.00 KB,186,Gradle plugin to allow easy access to curseforge files,Groovy,https://github.com/Wyn-Price/CurseMaven-OLD
+856,cloudpipelines-jenkins,37,13,37,0,10/08/2018,19/04/2022,31.46 MB,32215,https://cloud.spring.io/cloudpipelines-jenkins/,Groovy,https://github.com/spring-attic/cloudpipelines-jenkins
+857,groovy-events-listener-plugin,37,34,37,3,18/09/2015,27/03/2025,481.00 KB,481,"A Jenkins plugin, which executes groovy code when an event occurs.",Groovy,https://github.com/jenkinsci/groovy-events-listener-plugin
+858,Hubitat-Drivers,37,19,37,8,18/06/2020,02/02/2025,1.29 MB,1317,Device Handlers To Use Shelly Products With Hubitat,Groovy,https://github.com/ShellyUSA/Hubitat-Drivers
+859,micronaut-v1-workshop,36,23,36,4,26/05/2018,25/07/2018,479.00 KB,479,Introductory workshop about Micronaut,Groovy,https://github.com/alvarosanchez/micronaut-v1-workshop
+860,dockhand-jenkins,36,9,36,5,09/01/2019,19/12/2024,568.00 KB,568,"Upstream Jenkins Shared Library to Build, Promote, and Deploy Docker images",Groovy,https://github.com/boxboat/dockhand-jenkins
+861,JenkinsUE4,36,8,36,0,27/07/2018,06/03/2025,283.00 KB,283,Setup instructions and pipeline for using Jenking with Unreal Engine 4(Github&P4 support),Groovy,https://github.com/gpageot/JenkinsUE4
+862,arquillian-gradle-plugin,36,6,36,10,14/11/2012,18/05/2021,171.00 KB,171,Gradle Plugin for handling Container control and deployment lifecycle,Groovy,https://github.com/arquillian/arquillian-gradle-plugin
+863,asciidoctorj-screenshot,36,7,36,4,24/02/2016,21/01/2019,20.16 MB,20639,A set of AsciidoctorJ extensions for adding automated screenshots to an AsciiDoc document.,Groovy,https://github.com/asciidoctor/asciidoctorj-screenshot
+864,tf_pipeline,36,14,36,0,16/08/2016,22/08/2016,17.00 KB,17,"Jenkins Pipeline jobs for Terraform with remote state locking, pull request integration and chat notifications",Groovy,https://github.com/benwtr/tf_pipeline
+865,Leikr,36,5,36,0,15/12/2018,13/11/2022,178.65 MB,182938,Leikr Game System. Make Games in Groovy,Groovy,https://github.com/Torbuntu/Leikr
+866,ethercluster,36,13,36,1,19/02/2019,23/12/2019,272.00 KB,272,Kubernetes Cluster Designs and Specifications for Ethereum-based Networks,Groovy,https://github.com/ForkWatch/ethercluster
+867,slides,36,9,36,0,04/02/2017,13/07/2020,352.17 MB,360626,Presentations and other resources. ,Groovy,https://github.com/alopresto/slides
+868,wave,36,5,36,64,25/01/2022,27/03/2025,32.29 MB,33070,On-demand containers provisioning service,Groovy,https://github.com/seqeralabs/wave
+869,gradle-protobuf-plugin,36,14,36,3,15/06/2013,09/11/2015,386.00 KB,386,Gradle plugin for Google Protocol Buffers,Groovy,https://github.com/andrewkroh/gradle-protobuf-plugin
+870,jdeps-gradle-plugin,36,10,36,3,17/05/2017,31/01/2023,326.00 KB,326,Run JDeps on a Gradle build,Groovy,https://github.com/kordamp/jdeps-gradle-plugin
+871,Neddick,36,5,36,0,09/07/2010,15/03/2023,34.33 MB,35153,Neddick: Open Source Information Discovery Platform,Groovy,https://github.com/fogbeam/Neddick
+872,ds-gradle-vaadin,36,13,36,15,27/02/2018,24/11/2020,922.00 KB,922,Gradle plugin for building Vaadin Flow 10/11/12/13/14/15 apps,Groovy,https://github.com/devsoap/ds-gradle-vaadin
+873,webdriver-binaries-gradle-plugin,36,13,36,5,26/09/2017,08/08/2023,540.00 KB,540,A Gradle plugin that downloads and caches WebDriver binaries specific to the OS the build runs on,Groovy,https://github.com/erdi/webdriver-binaries-gradle-plugin
+874,nexus-scripts,36,14,36,3,29/08/2017,06/01/2021,15.00 KB,15,Sonatype nexus 3 groovy scripts to list and delete assets,Groovy,https://github.com/hlavki/nexus-scripts
+875,librecores-ci-jenkins-server,36,8,36,43,09/09/2016,02/08/2021,183.00 KB,183,LibreCores Continuous Integration,Groovy,https://github.com/librecores/librecores-ci-jenkins-server
+876,android-comm-config-plugin,36,15,36,1,22/08/2019,15/10/2019,143.00 KB,143,Android组件化开发过程中，通过插件来强制使用某些规范，以及提供一些便利性的配置等。,Groovy,https://github.com/houjinyun/android-comm-config-plugin
+877,grails3-oauth2-api,35,17,35,6,11/05/2015,13/05/2015,184.00 KB,184,Grails 3 Demo API with OAuth 2,Groovy,https://github.com/bobbywarner/grails3-oauth2-api
+878,grails-lesscss-resources,35,27,35,23,06/03/2011,26/08/2014,519.00 KB,519,Grails plugin for using the LESS CSS framework in conjunction with the grails-resource plugin family,Groovy,https://github.com/paulfairless/grails-lesscss-resources
+879,goodtimes,35,1,35,0,07/01/2017,28/01/2020,242.00 KB,242,Java 8 Date/Time API enhancements for Groovy,Groovy,https://github.com/bdkosher/goodtimes
+880,Diciembre-PomodoroKata,35,30,35,2,01/12/2011,09/04/2012,191.00 KB,191,Kata del mes de Diciembre del 2011: PomodoroKata,Groovy,https://github.com/12meses12katas/Diciembre-PomodoroKata
+881,everything-as-code,35,8,35,1,14/08/2016,06/12/2018,4.05 MB,4143,Everything-as-code. A polyglot experiment.,Groovy,https://github.com/lreimer/everything-as-code
+882,grails-constraints,35,11,35,9,23/10/2009,06/07/2012,531.00 KB,531,Custom constraints plugin for Grails applications,Groovy,https://github.com/geofflane/grails-constraints
+883,Hubitat-iPhone-Presence-Sensor,35,12,35,5,22/01/2019,27/08/2020,30.00 KB,30,A virtual presence sensor for Hubitat that checks if an iPhone/Android is on the WiFi network.,Groovy,https://github.com/joelwetzel/Hubitat-iPhone-Presence-Sensor
+884,jenkins_shared_lib,35,944,35,0,18/03/2023,28/05/2023,6.00 KB,6,,Groovy,https://github.com/vikash-kumar01/jenkins_shared_lib
+885,grand-unified-divisibility-rule,35,0,35,0,01/11/2021,15/12/2021,232.00 KB,232,One divisibility rule for all numbers,Groovy,https://github.com/lemiorhan/grand-unified-divisibility-rule
+886,maven-plugin-development,35,8,35,9,22/03/2020,28/03/2025,1.05 MB,1073,Gradle plugin for building Apache Maven plugins,Groovy,https://github.com/gradlex-org/maven-plugin-development
+887,docker-jenkins-bootstrap,35,4,35,0,05/05/2017,17/05/2018,221.00 KB,221,"Bootstrapping Jenkins with Terraform, Ansible, Docker Compose, and Groovy init scripts",Groovy,https://github.com/unguiculus/docker-jenkins-bootstrap
+888,Hubitat,35,19,35,0,02/11/2018,25/02/2025,888.00 KB,888,Various custom apps and drivers for the Hubitat platform,Groovy,https://github.com/RMoRobert/Hubitat
+889,opa2vec,35,11,35,3,25/03/2018,26/09/2020,17.59 MB,18017,Turning Ontologies Plus Annotation Properties into Vectors,Groovy,https://github.com/bio-ontology-research-group/opa2vec
+890,easy-jenkins,35,9,35,28,11/01/2016,24/08/2020,2.86 MB,2927,Easily deploy a Jenkins CI/CD infrastructure via docker-compose,Groovy,https://github.com/gmacario/easy-jenkins
+891,AwesomeLint,35,19,35,3,13/04/2019,22/05/2019,143.00 KB,143,一个好用的支持git提交时增量检查的lint插件,Groovy,https://github.com/lsc1993/AwesomeLint
+892,spock-dbunit,35,9,35,4,14/06/2012,05/07/2024,116.00 KB,116,Dbunit extension for spock avoiding a separate xml file,Groovy,https://github.com/janbols/spock-dbunit
+893,gradle-plugin-starter,35,7,35,2,18/12/2013,14/05/2021,247.00 KB,247,Gradle plugin template project,Groovy,https://github.com/int128/gradle-plugin-starter
+894,android-tutorial-CardFlipAnimation,35,8,35,0,02/09/2013,04/09/2013,208.00 KB,208,,Groovy,https://github.com/balesz/android-tutorial-CardFlipAnimation
+895,ccr-syncer,35,34,35,30,17/03/2023,28/03/2025,8.57 MB,8778,,Groovy,https://github.com/selectdb/ccr-syncer
+896,kubernetes_example,35,61,35,0,01/02/2018,12/06/2019,831.00 KB,831,5-Step Kubernetes CI/CD Process using Artifactory & Helm,Groovy,https://github.com/jfrogtraining/kubernetes_example
+897,Study,34,7,34,0,23/04/2018,12/03/2025,147.10 MB,150626,学习笔记,Groovy,https://github.com/Jonny023/Study
+898,SmartThings-VirtualThermostat-WithDTH,34,115,34,3,31/12/2017,27/12/2020,80.00 KB,80,Virtual Thermostat Device with Device Type Hander to create a proper thermostat device (Works With Google Home and Alexa),Groovy,https://github.com/eliotstocker/SmartThings-VirtualThermostat-WithDTH
+899,SmallKat_V2,34,12,34,1,26/10/2017,21/05/2022,6.95 MB,7119,,Groovy,https://github.com/OperationSmallKat/SmallKat_V2
+900,gradle-jaxb-plugin,34,23,34,19,29/01/2016,16/03/2023,1009.00 KB,1009,Gradle plugin to ease projects that use xsds and the ant jaxb task,Groovy,https://github.com/rackerlabs/gradle-jaxb-plugin
+901,Freeplane-Jumper,34,4,34,13,04/06/2020,05/01/2024,26.58 MB,27215,A search box for Freeplane with on-the-fly filtering and full keyboard control. Quick navigation in your maps!,Groovy,https://github.com/lilive/Freeplane-Jumper
+902,gradle-plugins,34,4,34,3,29/04/2012,24/06/2015,234.00 KB,234,Gradle plugins,Groovy,https://github.com/rodionmoiseev/gradle-plugins
+903,asciidoc2confluence,34,9,34,10,26/04/2015,21/06/2021,27.00 KB,27,a groovy script to export an HTML file generated by asciidoc to several confluence pages,Groovy,https://github.com/rdmueller/asciidoc2confluence
+904,GR8-US-2012,34,12,34,0,31/07/2012,22/08/2012,115.48 MB,118251,Slides and materials from GR8 US presentations,Groovy,https://github.com/sjurgemeyer/GR8-US-2012
+905,spock-retry,34,15,34,2,12/10/2013,01/02/2022,51.00 KB,51,Spock extension to allow test features and specifications to be retried before failed,Groovy,https://github.com/anotherchrisberry/spock-retry
+906,AndroidAOP,34,12,34,0,09/03/2018,09/03/2018,1.28 MB,1307,first commit,Groovy,https://github.com/weixinjie/AndroidAOP
+907,spring-build-gradle,34,18,34,4,12/11/2010,04/04/2022,79.00 KB,79,*Deprecated* Shared Gradle sources for automating Spring Project builds,Groovy,https://github.com/spring-attic/spring-build-gradle
+908,smartapp-circadian-daylight,34,51,34,1,30/03/2015,28/03/2016,64.00 KB,64,Use your SmartThings Hub to sync your color changing lights with natural daylight hues,Groovy,https://github.com/KristopherKubicki/smartapp-circadian-daylight
+909,Griddle,34,3,34,2,09/02/2015,17/02/2015,432.00 KB,432,,Groovy,https://github.com/Rightpoint/Griddle
+910,python-joern,34,21,34,6,07/12/2013,13/11/2018,162.00 KB,162,A python interface to joern (deprecated).,Groovy,https://github.com/fabsx00/python-joern
+911,hubitat,34,30,34,1,08/10/2018,16/01/2024,706.00 KB,706,Devices and Apps for Hubitat,Groovy,https://github.com/adamkempenich/hubitat
+912,angular-template-asset-pipeline,33,10,33,1,23/05/2014,01/11/2016,1.39 MB,1428,AngularJs Template module for the Asset Pipeline,Groovy,https://github.com/craigburke/angular-template-asset-pipeline
+913,Hands-on-with-Jenkins-CI-CD-Pipelines-in-Kubernetes,33,46,33,0,18/01/2019,12/03/2019,2.31 MB,2365,Code base for Devops Playground Meetup: Hands-on with Jenkins CI/CD Pipelines in Kubernetes,Groovy,https://github.com/DevOpsPlayground/Hands-on-with-Jenkins-CI-CD-Pipelines-in-Kubernetes
+914,javacard-gradle-plugin,33,15,33,11,13/08/2017,06/11/2018,149.00 KB,149,:key: Gradle plugin for JavaCard development,Groovy,https://github.com/bertrandmartel/javacard-gradle-plugin
+915,HA-Connector,33,160,33,7,13/02/2018,19/01/2022,439.00 KB,439,"Connector for Home-assistant with Smartthings, Hubitat",Groovy,https://github.com/fison67/HA-Connector
+916,jmeter-allure-reporting,33,9,33,1,25/09/2021,07/09/2024,83.27 MB,85269,Make JMeter report in Allure format,Groovy,https://github.com/nonealexq/jmeter-allure-reporting
+917,jaxb-gradle-plugin,33,16,33,22,24/05/2016,28/11/2024,1.06 MB,1081,Gradle JAXB code generation plugin,Groovy,https://github.com/IntershopCommunicationsAG/jaxb-gradle-plugin
+918,gradle-svntools-plugin,33,17,33,6,28/12/2014,22/08/2020,326.00 KB,326,Gradle plugin that provides various SVN-related tasks,Groovy,https://github.com/martoe/gradle-svntools-plugin
+919,GH-Connector,33,124,33,1,20/09/2018,03/03/2021,2.35 MB,2410,Connector for Google Home Devices with SmartThings,Groovy,https://github.com/fison67/GH-Connector
+920,stats-gradle-plugin,33,7,33,6,17/07/2014,18/11/2018,288.00 KB,288,A Gradle plugin for counting lines of code in the same fashion as the griffon stats command.,Groovy,https://github.com/aalmiray/stats-gradle-plugin
+921,aws-cicd-shared-lib,33,10,33,0,30/08/2019,27/10/2022,44.00 KB,44,This repository contains set of common functions that are used to drive the AWS Pipeline,Groovy,https://github.com/wso2/aws-cicd-shared-lib
+922,smartthings,33,52,33,1,12/02/2015,10/01/2018,128.00 KB,128,SmartThings Projects,Groovy,https://github.com/bkeifer/smartthings
+923,STOrbitBhyveController,33,56,33,0,24/02/2019,03/11/2020,5.23 MB,5360,Hubitat/SmartThings Integration for Orbit™ Bhyve Timers,Groovy,https://github.com/KurtSanders/STOrbitBhyveController
+924,Gradle-Goodness,33,8,33,0,27/11/2009,17/10/2014,459.00 KB,459,Samples from the Gradle Goodness blog series.,Groovy,https://github.com/mrhaki/Gradle-Goodness
+925,GroovySparql,33,7,33,1,27/06/2011,04/01/2016,394.00 KB,394,Groovy Sparql - an easy to use Groovy API for interacting with SPARQL endpoints and RDF data,Groovy,https://github.com/AlBaker/GroovySparql
+926,gradle-appstore-deploy-plugin,33,4,33,1,16/02/2015,15/12/2023,100.00 KB,100,Gradle Plugin for upload Android apps and related info to application stores,Groovy,https://github.com/minakov/gradle-appstore-deploy-plugin
+927,grails-rabbitmq,33,28,33,9,14/05/2010,21/04/2016,857.00 KB,857,Grails RabbitMQ Plugin,Groovy,https://github.com/grails-plugins/grails-rabbitmq
+928,iceScrum-core,33,23,33,0,21/02/2011,28/02/2022,5.68 MB,5819,Core plugin (LGPL) for iceScrum (domain / services / webcomponents),Groovy,https://github.com/icescrum/iceScrum-core
+929,tc-anywhere,33,7,33,0,11/03/2021,10/05/2021,174.00 KB,174,可以在任何方法内添加try catch 操作,Groovy,https://github.com/ooftf/tc-anywhere
+930,spock-spring-boot-example,33,25,33,3,12/12/2016,30/06/2020,191.00 KB,191,An example of testing Spring Boot application with Spock framework,Groovy,https://github.com/int128/spock-spring-boot-example
+931,job-dsl-sample,33,19,33,2,05/05/2017,14/04/2022,67.00 KB,67,Jenkins Job DSL Sample Project,Groovy,https://github.com/unguiculus/job-dsl-sample
+932,jenkins-job-builders,33,25,33,3,24/04/2015,09/10/2024,711.00 KB,711,"Automated Jenkins job and view configuration, via the Jenkins Job DSL Plugin",Groovy,https://github.com/hmrc/jenkins-job-builders
+933,BooungThings,32,248,32,8,17/03/2018,29/08/2022,312.00 KB,312,SmartThings ,Groovy,https://github.com/WooBooung/BooungThings
+934,pipeline,32,7,32,10,16/06/2012,28/06/2021,444.00 KB,444,Continuous Delivery,Groovy,https://github.com/pipelinecd/pipeline
+935,gradle-javacard,32,10,32,4,30/07/2014,26/10/2018,120.00 KB,120,,Groovy,https://github.com/fidesmo/gradle-javacard
+936,gradle-react-plugin,32,6,32,5,09/11/2014,21/03/2018,187.00 KB,187,A simple plugin to use the react-tools to transform jsx to javascript using gradle.,Groovy,https://github.com/ehirsch/gradle-react-plugin
+937,gradle-java-flavours,32,14,32,2,21/12/2016,14/09/2017,71.00 KB,71,Android style flavours in a java project,Groovy,https://github.com/uklance/gradle-java-flavours
+938,jenkins-json-build,32,16,32,1,14/08/2020,06/09/2020,8.46 MB,8660,"This project relies on the Jenkins Shared Libraries mechanism and uses JSON configuration files to drive the build process, so that developers do not have to write a large number of Jenkins build scripts and abstract and reuse the execution process of Jenkins build scripts in many projects. The class library is very suitable for managing the large number of construction projects and the construction of various work scenarios. It can rely on one or several construction templates to cooperate with the json construction configuration file in each project to realize a unified management and flexible software project construction management plan .",Groovy,https://github.com/sunweisheng/jenkins-json-build
+939,RuntimeDependenceChecker,32,9,32,1,08/07/2018,10/07/2018,717.00 KB,717,Android依赖库版本冲突检测插件,Groovy,https://github.com/yangtianrui95/RuntimeDependenceChecker
+940,grails-multi-tenant-single-db,32,25,32,22,08/10/2010,12/11/2021,1.62 MB,1658,Multi Tenant implementation for single database environments - Use grails-filtering and grails-hibernate-hijacker,Groovy,https://github.com/multi-tenant/grails-multi-tenant-single-db
+941,socialmediabot,32,3,32,1,18/07/2016,17/01/2019,19.00 KB,19,AI Bot that posts to social media regularly,Groovy,https://github.com/ganeshkrishnan1/socialmediabot
+942,hubitat-bond,32,20,32,14,09/08/2019,22/05/2022,102.00 KB,102,BOND Home Integration for Hubitat,Groovy,https://github.com/dcmeglio/hubitat-bond
+943,gradle-natives,32,4,32,4,15/03/2014,23/10/2017,1.99 MB,2035,Gradle plugin to aid in managing native libraries associated with Java-based projects.,Groovy,https://github.com/cjstehno/gradle-natives
+944,gradle-cpp-plugin,32,6,32,17,04/09/2015,21/08/2017,682.00 KB,682,Gradle C/C++ plugin with CMake interaction,Groovy,https://github.com/Tocea/gradle-cpp-plugin
+945,gitops-build-lib,32,13,32,9,28/01/2021,14/10/2024,576.00 KB,576,Jenkins pipeline shared library for automating deployments via GitOps,Groovy,https://github.com/cloudogu/gitops-build-lib
+946,grails-multi-tenant-core,32,19,32,8,28/09/2010,11/09/2011,7.92 MB,8108,,Groovy,https://github.com/multi-tenant/grails-multi-tenant-core
+947,mantle,32,29,32,1,17/03/2011,23/01/2016,7.45 MB,7629,"This is the old Mantle Business Artifacts repository which has been split into one repository per component. See mantle-udm, mantle-usl, mantle-edi, mantle-oagis, mantle-ubpl, and AuthorizeDotNet",Groovy,https://github.com/moqui/mantle
+948,Freeplane_MarkdownHelper,31,2,31,1,12/03/2021,19/10/2023,32.09 MB,32863,Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate the information in a mindmap into a Markdown document. You obtain a good looking document retaining the flexibility that offers Freeplane and mindmapping. You can easy reorder and insert new ideas as usual.,Groovy,https://github.com/EdoFro/Freeplane_MarkdownHelper
+949,ConfigDroid,31,2,31,2,10/06/2017,21/06/2017,81.00 KB,81,Gradle plugin to generate config classes for your Android projects,Groovy,https://github.com/mb-14/ConfigDroid
+950,linter-rules-for-nextflow,31,2,31,4,21/02/2024,26/03/2025,198.00 KB,198,Linter rules for Nextflow DSL scripts,Groovy,https://github.com/awslabs/linter-rules-for-nextflow
+951,Tado,31,127,31,4,19/12/2016,04/11/2020,1.04 MB,1062,Tado (Connect) SmartThings Integration Repo,Groovy,https://github.com/fuzzysb/Tado
+952,gradle-http-plugin,31,8,31,6,11/10/2017,04/08/2021,546.00 KB,546,Gradle plugin providing support for using HttpBuilder-NG to make HTTP requests as Gradle Tasks.,Groovy,https://github.com/http-builder-ng/gradle-http-plugin
+953,javafx-gradle,31,14,31,0,31/10/2013,31/10/2013,16.68 MB,17080,Gradle JavaFX Plugin,Groovy,https://github.com/shemnon/javafx-gradle
+954,streaming-graph-partitioning,31,5,31,11,30/04/2017,10/12/2021,413.27 MB,423190,Experimental Setup for Performance Analysis of Streaming Algorithms,Groovy,https://github.com/anilpacaci/streaming-graph-partitioning
+955,multiproject-git-gradle,31,12,31,7,07/06/2013,26/02/2019,650.00 KB,650,"Gradle script for multi-project git-based setup, configuration and build",Groovy,https://github.com/akhikhl/multiproject-git-gradle
+956,st_foscam_universal,31,99,31,2,26/07/2014,02/01/2019,157.00 KB,157,,Groovy,https://github.com/skp19/st_foscam_universal
+957,declarative-pipeline,31,14,31,2,20/05/2018,02/09/2023,737.00 KB,737,jenkinsfile pipeline library,Groovy,https://github.com/JavatarPro/declarative-pipeline
+958,rendering,31,45,31,33,18/06/2010,14/11/2023,15.79 MB,16169,"Provides rendering of GSPs as PDFs, JPEGs, GIFs and PNGs",Groovy,https://github.com/gpc/rendering
+959,Awesome-Screenshots,31,0,31,1,02/01/2016,14/05/2016,543.00 KB,543,gradle plugin to transform boring screenshots to awesome ones - DEPRECATED,Groovy,https://github.com/sdoward/Awesome-Screenshots
+960,gradle-scala-multiversion-plugin,31,14,31,4,06/02/2017,25/10/2024,250.00 KB,250,Gradle plugin to build a project against multiple versions of Scala,Groovy,https://github.com/ADTRAN/gradle-scala-multiversion-plugin
+961,gradle-versioneye-plugin,31,5,31,3,18/04/2014,22/10/2018,241.00 KB,241,Plugin for Gradle to update your project's dependencies status on www.versioneye.com,Groovy,https://github.com/stempler/gradle-versioneye-plugin
+962,does-alibaba-follow-their-own-guidelines,31,0,31,1,12/03/2019,17/03/2019,77.00 KB,77,,Groovy,https://github.com/blindpirate/does-alibaba-follow-their-own-guidelines
+963,jenkins-ephemeral-cicd,31,7,31,0,10/02/2017,17/01/2018,29.04 MB,29737,Jenkins Docker files to support ephemeral build slaves over NGINX reverse proxy with HTTPS.,Groovy,https://github.com/danieleagle/jenkins-ephemeral-cicd
+964,gradle-s3-plugin,31,24,31,4,24/06/2014,24/09/2021,92.00 KB,92,S3 File Upload and Download plugin,Groovy,https://github.com/skhatri/gradle-s3-plugin
+965,jenkins-as-code-starter-project,31,40,31,0,10/11/2015,08/10/2020,72.00 KB,72,A neat little project that uses our jenkins utils and helps you  to get started and start testing your scripts,Groovy,https://github.com/cfpb/jenkins-as-code-starter-project
+966,jenkins-shared-library-example,31,35,31,1,26/11/2017,25/03/2018,6.25 MB,6400,,Groovy,https://github.com/aleksei-bulgak/jenkins-shared-library-example
+967,mantle-usl,31,60,31,21,24/01/2016,05/11/2024,6.88 MB,7042,Mantle Universal Service Library,Groovy,https://github.com/moqui/mantle-usl
+968,VSphere2Metrics,30,2,30,3,04/06/2015,18/04/2018,2.99 MB,3063,VMware vSphere Performance Metrics Integration with Graphite & InfluxDB,Groovy,https://github.com/syepes/VSphere2Metrics
+969,grails-routing,30,31,30,12,28/05/2011,01/11/2021,181.00 KB,181,,Groovy,https://github.com/padcom/grails-routing
+970,easyb-core,30,7,30,3,29/10/2010,01/08/2014,9.60 MB,9830,easyb-core library,Groovy,https://github.com/easyb/easyb-core
+971,smartthings,30,59,30,0,23/11/2015,24/06/2018,285.00 KB,285,,Groovy,https://github.com/adampv/smartthings
+972,jenkins-pipeline-shared-lib-sample,30,66,30,0,17/09/2017,11/09/2019,6.00 KB,6,,Groovy,https://github.com/AndreyVMarkelov/jenkins-pipeline-shared-lib-sample
+973,Repo,30,6,30,0,05/11/2019,27/07/2021,68.00 KB,68,一个基于shell + gradle开发的效率工具，用来优化模块化/组件化分仓后带来的编译和调试痛点，提升开发效率,Groovy,https://github.com/Ryan-Shz/Repo
+974,cpi-dashboard,30,14,30,1,19/08/2019,24/11/2020,16.79 MB,17194,The Dashboard for SAP CPI is an IFlow-based monitoring tool for SAP CPI.,Groovy,https://github.com/codebude/cpi-dashboard
+975,ASMStudy,30,10,30,0,05/06/2019,24/06/2019,179.00 KB,179,个人的字节码插桩学习工程，也能作为模板参照使用,Groovy,https://github.com/FamliarMan/ASMStudy
+976,external-config,30,22,30,5,09/03/2016,20/11/2024,533.00 KB,533,Grails 3 plugin to handle multiple config files like Grails 2.x did,Groovy,https://github.com/sbglasius/external-config
+977,gexcelapi,30,7,30,4,01/12/2009,06/01/2017,271.00 KB,271,GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.,Groovy,https://github.com/nobeans/gexcelapi
+978,jsoncodegen,30,10,30,7,12/06/2017,23/02/2023,11.39 MB,11659,Groovy based generation tasks from JSON schema,Groovy,https://github.com/schlothauer-wauer/jsoncodegen
+979,GDuplicate-Finder,30,7,30,12,17/05/2012,26/03/2025,50.92 MB,52145,GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!,Groovy,https://github.com/guicamest/GDuplicate-Finder
+980,Hubitat,30,17,30,3,04/09/2021,13/03/2025,10.50 MB,10747,Hubitat Elevation drivers and apps,Groovy,https://github.com/kkossev/Hubitat
+981,nexus-platform-plugin,30,54,30,0,30/03/2017,24/05/2024,1.52 MB,1560,Nexus Platform Plugin for Jenkins,Groovy,https://github.com/jenkinsci/nexus-platform-plugin
+982,grails-facebook-sdk,30,13,30,4,02/01/2012,18/01/2023,4.79 MB,4909,Facebook SDK Grails Plugin,Groovy,https://github.com/agorapulse/grails-facebook-sdk
+983,learning-groovy,30,18,30,0,10/03/2015,16/06/2019,316.00 KB,316,"Git repo for the book ""Learning Groovy""",Groovy,https://github.com/adamldavis/learning-groovy
+984,android-gradle-plugin-transform-patch,30,3,30,0,27/06/2019,12/08/2019,101.00 KB,101,android gradle plugin transform patch,Groovy,https://github.com/lizhangqu/android-gradle-plugin-transform-patch
+985,gormish,29,3,29,0,18/07/2012,07/06/2013,149.00 KB,149,Using GORM outside of Grails (Grails v2.1.0),Groovy,https://github.com/danveloper/gormish
+986,fluentd-boot,29,30,29,1,11/01/2016,11/01/2016,57.00 KB,57,Redirect spring boot logs to elastic search via fluentd,Groovy,https://github.com/geowarin/fluentd-boot
+987,schema-gen,29,7,29,6,07/12/2017,25/02/2021,425.00 KB,425,"XML Schema code generator outputting Swift, Kotlin and Java",Groovy,https://github.com/reaster/schema-gen
+988,nf-prov,29,13,29,12,19/12/2022,21/03/2025,220.00 KB,220,,Groovy,https://github.com/nextflow-io/nf-prov
+989,gradle-android-buildconstants-plugin,29,1,29,1,13/02/2016,29/07/2016,102.00 KB,102,A Gradle plugin for Android which generates both Java and XML constants as part of the build process.,Groovy,https://github.com/jenzz/gradle-android-buildconstants-plugin
+990,Android-GradlePlugin-Demo,29,13,29,1,09/02/2017,09/02/2017,104.00 KB,104,Android Studio 自定义 Gradle Plugin,Groovy,https://github.com/goodbranch/Android-GradlePlugin-Demo
+991,dynamic-rule,29,9,29,2,26/04/2018,28/04/2019,146.00 KB,146,基于groovy的动态规则调用,Groovy,https://github.com/411241940/dynamic-rule
+992,slack-notifier-jenkins-sl,29,31,29,0,06/07/2017,11/12/2020,15.00 KB,15,Shared library for Jenkins Pipeline to send slack notifications well formatted,Groovy,https://github.com/Gradiant/slack-notifier-jenkins-sl
+993,beerstrap,29,10,29,8,24/12/2013,30/09/2022,9.66 MB,9896,Startup project designed to ease and accelerate software development. Ideal for startups and web developers who want to rapid-prototype and develop products within weeks.,Groovy,https://github.com/raulgomis/beerstrap
+994,symtabfileuploader,29,11,29,9,29/07/2015,28/04/2018,953.00 KB,953,plugin for uploading the symbol table file,Groovy,https://github.com/JalenChen/symtabfileuploader
+995,gatling-gradle-plugin,29,17,29,0,06/07/2020,24/03/2025,449.00 KB,449,Gatling Plugin for Gradle,Groovy,https://github.com/gatling/gatling-gradle-plugin
+996,gswg-v2,29,19,29,6,20/01/2010,07/02/2010,1.03 MB,1059,"Getting Started with Grails, 2nd Edition",Groovy,https://github.com/scottdavis99/gswg-v2
+997,gradle-fpm-plugin,29,7,29,3,07/11/2012,09/01/2020,773.00 KB,773,a gradle plugin to create linux package (deb/rpm) using fpm,Groovy,https://github.com/kenshoo/gradle-fpm-plugin
+998,swaggydoc,29,25,29,26,10/09/2014,05/10/2017,2.58 MB,2645,Swagger Documentation for Grails Controllers Plugin,Groovy,https://github.com/rahulsom/swaggydoc
+999,emoji-convertor,29,9,29,0,29/05/2014,30/05/2014,3.99 MB,4088,convert emoji to cn,Groovy,https://github.com/quxionglie/emoji-convertor
+1000,gradle-external-build,29,7,29,4,08/12/2016,20/05/2019,91.00 KB,91,"A Gradle plugin for seamlessly integrating with other build tools, including GNU make, CMake, qmake, and more.",Groovy,https://github.com/awrichar/gradle-external-build

@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,anoma,27321,3798,27321,186,02/02/2021,27/03/2025,74.85 MB,76649,Reference implementation of Anoma,Elixir,https://github.com/anoma/anoma
+2,elixir,25030,3425,25030,29,09/01/2011,28/03/2025,63.75 MB,65276,"Elixir is a dynamic, functional language for building scalable and maintainable applications",Elixir,https://github.com/elixir-lang/elixir
+3,analytics,21895,1169,21895,51,04/12/2018,27/03/2025,344.47 MB,352742,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",Elixir,https://github.com/plausible/analytics
+4,phoenix,21878,2925,21878,26,20/01/2014,28/03/2025,21.18 MB,21686,Peace of mind from prototype to production,Elixir,https://github.com/phoenixframework/phoenix
+5,awesome-elixir,12827,1184,12827,1,01/07/2014,13/02/2025,2.65 MB,2718,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",Elixir,https://github.com/h4cc/awesome-elixir
+6,electric,7962,213,7962,161,01/06/2022,27/03/2025,118.25 MB,121084,Real-time sync for Postgres.,Elixir,https://github.com/electric-sql/electric
+7,firezone,7114,297,7114,374,22/04/2020,28/03/2025,174.22 MB,178398,Enterprise-ready zero-trust access platform built on WireGuard®.,Elixir,https://github.com/firezone/firezone
+8,realtime,6992,335,6992,55,23/09/2019,28/03/2025,7.98 MB,8168,"Broadcast, Presence, and Postgres Changes via WebSockets",Elixir,https://github.com/supabase/realtime
+9,teslamate,6529,785,6529,55,31/03/2019,28/03/2025,82.03 MB,83998,A self-hosted data logger for your Tesla  🚘,Elixir,https://github.com/teslamate-org/teslamate
+10,phoenix_live_view,6422,965,6422,73,12/09/2018,26/03/2025,16.08 MB,16467,"Rich, real-time user experiences with server-rendered HTML",Elixir,https://github.com/phoenixframework/phoenix_live_view
+11,ecto,6280,1435,6280,14,12/06/2013,28/03/2025,15.63 MB,16003,A toolkit for data mapping and language integrated query.,Elixir,https://github.com/elixir-ecto/ecto
+12,papercups,5804,532,5804,171,15/07/2020,15/02/2024,4.70 MB,4816,Open-source live customer chat,Elixir,https://github.com/papercups-io/papercups
+13,livebook,5240,454,5240,25,07/01/2021,27/03/2025,116.10 MB,118882,Automate code & data workflows with interactive Elixir notebooks,Elixir,https://github.com/livebook-dev/livebook
+14,credo,4987,427,4987,23,27/09/2015,18/03/2025,5.23 MB,5351,A static code analysis tool for the Elixir language with a focus on code consistency and teaching.,Elixir,https://github.com/rrrene/credo
+15,elixir_style_guide,4388,298,4388,8,24/09/2013,10/05/2024,214.00 KB,214,A community driven style guide for Elixir,Elixir,https://github.com/christopheradams/elixir_style_guide
+16,absinthe,4312,531,4312,71,17/10/2015,17/03/2025,4.22 MB,4317,The GraphQL toolkit for Elixir,Elixir,https://github.com/absinthe-graphql/absinthe
+17,blockscout,3892,2633,3892,411,12/01/2018,28/03/2025,197.48 MB,202221,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. ,Elixir,https://github.com/blockscout/blockscout
+18,oban,3486,327,3486,5,25/02/2019,26/03/2025,2.93 MB,3004,"💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL",Elixir,https://github.com/oban-bg/oban
+19,guardian,3470,382,3470,1,16/06/2015,25/03/2025,1.21 MB,1241,Elixir Authentication,Elixir,https://github.com/ueberauth/guardian
+20,30-days-of-elixir,3043,430,3043,0,10/12/2013,13/04/2022,149.00 KB,149,A walk through the Elixir language in 30 exercises.,Elixir,https://github.com/seven1m/30-days-of-elixir
+21,magnetissimo,3028,188,3028,9,22/07/2016,19/01/2024,8.77 MB,8977,"Web application that indexes all popular torrent sites, and saves it to the local database.",Elixir,https://github.com/sergiotapia/magnetissimo
+22,distillery,2969,398,2969,56,15/07/2016,04/08/2024,1.56 MB,1598,Simplify deployments in Elixir with OTP releases!,Elixir,https://github.com/bitwalker/distillery
+23,plug,2909,592,2909,9,15/11/2013,20/03/2025,2.80 MB,2871,Compose web applications with functions,Elixir,https://github.com/elixir-plug/plug
+24,pinchflat,2813,60,2813,54,19/01/2024,17/03/2025,14.47 MB,14814,Your next YouTube media manager,Elixir,https://github.com/kieraneglin/pinchflat
+25,nx,2734,202,2734,17,29/10/2020,20/03/2025,6.82 MB,6988,Multi-dimensional arrays (tensors) and numerical definitions for Elixir,Elixir,https://github.com/elixir-nx/nx
+26,changelog.com,2726,246,2726,8,28/12/2015,28/03/2025,65.60 MB,67173,Changelog makes world-class developer pods. This is our open source platform.,Elixir,https://github.com/thechangelog/changelog.com
+27,broadway,2502,164,2502,3,05/11/2018,18/03/2025,696.00 KB,696,Concurrent and multi-stage data ingestion and data processing with Elixir,Elixir,https://github.com/dashbitco/broadway
+28,asciinema-server,2352,268,2352,14,09/03/2011,07/03/2025,14.08 MB,14413,Platform for hosting and sharing terminal session recordings,Elixir,https://github.com/asciinema/asciinema-server
+29,quantum-core,2351,147,2351,9,27/04/2015,11/03/2025,955.00 KB,955,:watch: Cron-like job scheduler for Elixir,Elixir,https://github.com/quantum-elixir/quantum-core
+30,nerves,2323,195,2323,29,23/01/2016,17/03/2025,7.35 MB,7525,Craft and deploy bulletproof embedded software in Elixir,Elixir,https://github.com/nerves-project/nerves
+31,elixir-koans,2306,611,2306,30,16/12/2015,16/07/2024,459.00 KB,459,Elixir learning exercises,Elixir,https://github.com/elixirkoans/elixir-koans
+32,httpoison,2242,338,2242,37,11/09/2013,28/03/2025,463.00 KB,463,Yet Another HTTP client for Elixir powered by hackney,Elixir,https://github.com/edgurgel/httpoison
+33,surface,2101,150,2101,31,17/07/2019,14/02/2025,2.72 MB,2786,A server-side rendering component library for Phoenix,Elixir,https://github.com/surface-ui/surface
+34,floki,2093,156,2093,20,02/11/2014,22/03/2025,1.59 MB,1626,Floki is a simple HTML parser that enables search for nodes using CSS selectors.,Elixir,https://github.com/philss/floki
+35,phoenix_live_dashboard,2068,192,2068,14,27/11/2019,21/02/2025,4.33 MB,4435,"Realtime dashboard with metrics, request logging, plus storage, OS and VM insights",Elixir,https://github.com/phoenixframework/phoenix_live_dashboard
+36,poison,2032,217,2032,39,06/04/2014,12/08/2024,2.32 MB,2376,"An incredibly fast, pure Elixir JSON library",Elixir,https://github.com/devinus/poison
+37,tesla,2031,350,2031,26,16/03/2015,12/03/2025,2.21 MB,2264,"The flexible HTTP client library for Elixir, with support for middleware and multiple adapters.",Elixir,https://github.com/elixir-tesla/tesla
+38,libcluster,2030,192,2030,21,30/09/2016,09/01/2025,217.00 KB,217,Automatic cluster formation/healing for Elixir applications,Elixir,https://github.com/bitwalker/libcluster
+39,scenic,2009,131,2009,26,01/05/2018,03/03/2025,3.10 MB,3175,Core Scenic library,Elixir,https://github.com/ScenicFramework/scenic
+40,ex_machina,1983,147,1983,0,14/09/2015,11/03/2025,462.00 KB,462,Create test data for Elixir applications,Elixir,https://github.com/beam-community/ex_machina
+41,bamboo,1931,334,1931,2,03/11/2015,24/03/2025,899.00 KB,899,"Testable, composable, and adapter based Elixir email library for devs that love piping.",Elixir,https://github.com/beam-community/bamboo
+42,commanded,1902,248,1902,51,25/03/2016,26/02/2025,2.47 MB,2528,Use Commanded to build Elixir CQRS/ES applications,Elixir,https://github.com/commanded/commanded
+43,supavisor,1875,64,1875,51,12/01/2023,25/03/2025,4.08 MB,4178,"A cloud-native, multi-tenant Postgres connection pooler.",Elixir,https://github.com/supabase/supavisor
+44,manifold,1790,71,1790,2,15/02/2017,11/04/2023,87.00 KB,87,Fast batch message passing between nodes for Erlang/Elixir.,Elixir,https://github.com/discord/manifold
+45,ash,1773,251,1773,115,03/10/2019,27/03/2025,23.62 MB,24189,"A declarative, extensible framework for building Elixir applications.",Elixir,https://github.com/ash-project/ash
+46,bandit,1770,89,1770,1,10/11/2019,26/03/2025,15.42 MB,15794,Bandit is a pure Elixir HTTP server for Plug & WebSock applications,Elixir,https://github.com/mtrudel/bandit
+47,timex,1767,385,1767,65,27/07/2014,23/12/2024,2.55 MB,2611,A complete date/time library for Elixir projects.,Elixir,https://github.com/bitwalker/timex
+48,dialyxir,1728,142,1728,63,28/05/2013,18/11/2024,672.00 KB,672,Mix tasks to simplify use of Dialyzer in Elixir projects.,Elixir,https://github.com/jeremyjh/dialyxir
+49,sobelow,1720,101,1720,39,12/05/2017,20/08/2024,1.36 MB,1395,Security-focused static analysis for the Phoenix Framework,Elixir,https://github.com/nccgroup/sobelow
+50,wallaby,1717,199,1717,45,26/02/2016,12/02/2025,1.23 MB,1255,Concurrent browser tests for your Elixir web apps.,Elixir,https://github.com/elixir-wallaby/wallaby
+51,ueberauth,1662,121,1662,28,13/10/2014,25/03/2025,227.00 KB,227,An Elixir Authentication System for Plug-based Web Applications,Elixir,https://github.com/ueberauth/ueberauth
+52,learn-elixir,1653,109,1653,129,01/12/2016,07/10/2024,5.17 MB,5297,":droplet: Learn the Elixir programming language to build functional, fast, scalable and maintainable web applications!",Elixir,https://github.com/dwyl/learn-elixir
+53,cachex,1647,109,1647,5,15/02/2016,26/03/2025,1.76 MB,1803,"A powerful caching library for Elixir with support for transactions, fallbacks and expirations",Elixir,https://github.com/whitfin/cachex
+54,jason,1644,172,1644,19,04/06/2017,10/09/2024,3.62 MB,3710,A blazing fast JSON parser and generator in pure Elixir.,Elixir,https://github.com/michalmuskala/jason
+55,elixir-companies,1636,374,1636,3,11/06/2015,26/03/2025,1.77 MB,1814,A list of companies currently using Elixir in production.,Elixir,https://github.com/beam-community/elixir-companies
+56,pow,1631,158,1631,67,07/05/2018,28/01/2025,2.20 MB,2249,"Robust, modular, and extendable user authentication system",Elixir,https://github.com/pow-auth/pow
+57,keila,1629,96,1629,68,01/01/2021,14/03/2025,8.09 MB,8286,Open Source Newsletter Tool.,Elixir,https://github.com/pentacent/keila
+58,desktop,1621,54,1621,7,01/03/2021,15/02/2025,184.00 KB,184,"Building Local-First apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView & Elixir!",Elixir,https://github.com/elixir-desktop/desktop
+59,sorted_set_nif,1620,96,1620,12,26/11/2018,20/04/2022,67.00 KB,67,Elixir SortedSet backed by a Rust-based NIF,Elixir,https://github.com/discord/sorted_set_nif
+60,axon,1587,109,1587,22,25/01/2021,28/02/2025,137.95 MB,141256,Nx-powered Neural Networks,Elixir,https://github.com/elixir-nx/axon
+61,elixir-ls,1583,209,1583,61,25/03/2018,28/03/2025,8.22 MB,8419,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",Elixir,https://github.com/elixir-lsp/elixir-ls
+62,flow,1583,89,1583,1,18/01/2017,25/02/2025,359.00 KB,359,Computational parallel flows on top of GenStage,Elixir,https://github.com/dashbitco/flow
+63,elixirscript,1565,67,1565,19,01/02/2015,20/08/2019,3.70 MB,3793,Converts Elixir to JavaScript,Elixir,https://github.com/elixirscript/elixirscript
+64,gen_stage,1538,192,1538,2,26/08/2015,09/02/2025,1.35 MB,1383,Producer and consumer actors with back-pressure for Elixir,Elixir,https://github.com/elixir-lang/gen_stage
+65,bors-ng,1520,177,1520,181,29/12/2016,04/04/2024,4.83 MB,4942,👁 A merge bot for GitHub Pull Requests,Elixir,https://github.com/bors-ng/bors-ng
+66,exq,1509,182,1509,29,31/07/2013,19/03/2025,3.00 MB,3076,Job processing library for Elixir  - compatible with Resque / Sidekiq,Elixir,https://github.com/akira/exq
+67,ex_doc,1508,336,1508,15,06/03/2012,21/03/2025,14.68 MB,15034,ExDoc produces HTML and EPUB documentation for Elixir projects,Elixir,https://github.com/elixir-lang/ex_doc
+68,swoosh,1489,232,1489,18,04/03/2016,27/03/2025,1.98 MB,2028,"Compose, deliver and test your emails easily in Elixir",Elixir,https://github.com/swoosh/swoosh
+69,Elixir-Code-Smells,1480,52,1480,2,15/02/2022,12/09/2024,4.66 MB,4775,Catalog of Elixir-specific code smells,Elixir,https://github.com/lucasvegi/Elixir-Code-Smells
+70,bumblebee,1473,109,1473,29,03/05/2022,17/03/2025,6.73 MB,6894,Pre-trained Neural Network models in Axon (+ 🤗 Models integration),Elixir,https://github.com/elixir-nx/bumblebee
+71,benchee,1442,67,1442,26,22/05/2016,12/01/2025,1.69 MB,1728,Easy and extensible benchmarking in Elixir providing you with lots of statistics!,Elixir,https://github.com/bencheeorg/benchee
+72,grpc,1427,219,1427,51,20/07/2016,21/03/2025,3.64 MB,3727,An Elixir implementation of gRPC,Elixir,https://github.com/elixir-grpc/grpc
+73,live_svelte,1426,58,1426,20,21/02/2023,27/03/2025,19.48 MB,19952,Svelte inside Phoenix LiveView with seamless end-to-end reactivity,Elixir,https://github.com/woutdp/live_svelte
+74,mint,1393,115,1393,6,25/10/2017,10/03/2025,1.08 MB,1102,Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2 🌱,Elixir,https://github.com/elixir-mint/mint
+75,standard-webhooks,1390,37,1390,41,27/08/2023,05/03/2025,538.00 KB,538,The Standard Webhooks specification,Elixir,https://github.com/standard-webhooks/standard-webhooks
+76,kaffy,1382,167,1382,67,07/05/2020,23/02/2025,14.49 MB,14833,Powerfully simple admin package for phoenix applications,Elixir,https://github.com/aesmail/kaffy
+77,accent,1377,106,1377,40,20/03/2018,25/03/2025,12.55 MB,12848,The first developer-oriented translation tool. True asynchronous flow between translators and your team.,Elixir,https://github.com/mirego/accent
+78,hound,1375,145,1375,85,15/12/2013,09/07/2024,474.00 KB,474,Elixir library for writing integration tests and browser automation,Elixir,https://github.com/HashNuke/hound
+79,mox,1357,76,1357,5,25/09/2017,10/03/2025,149.00 KB,149,Mocks and explicit contracts in Elixir,Elixir,https://github.com/dashbitco/mox
+80,membrane_core,1349,40,1349,48,26/01/2017,25/03/2025,4.99 MB,5113,"The core of Membrane Framework, multimedia processing framework written in Elixir",Elixir,https://github.com/membraneframework/membrane_core
+81,horde,1341,107,1341,33,08/05/2018,17/10/2024,612.00 KB,612,Horde is a distributed Supervisor and Registry backed by DeltaCrdt,Elixir,https://github.com/derekkraan/horde
+82,uneebee,1341,84,1341,0,10/09/2023,30/01/2025,4.85 MB,4963,Platform for creating interactive courses.,Elixir,https://github.com/zoonk/uneebee
+83,live_beats,1331,173,1331,15,05/11/2021,20/06/2024,538.00 KB,538,,Elixir,https://github.com/fly-apps/live_beats
+84,maru,1321,86,1321,18,31/12/2014,13/09/2019,609.00 KB,609,Elixir RESTful Framework ,Elixir,https://github.com/elixir-maru/maru
+85,comeonin,1308,65,1308,2,19/12/2014,03/02/2025,520.00 KB,520,Password hashing specification for the Elixir programming language,Elixir,https://github.com/riverrun/comeonin
+86,ex_aws,1308,537,1308,71,15/09/2014,21/03/2025,2.02 MB,2071,"A flexible, easy to use set of clients AWS APIs for Elixir",Elixir,https://github.com/ex-aws/ex_aws
+87,finch,1308,123,1308,29,23/10/2019,27/03/2025,906.00 KB,906,"Elixir HTTP client, focused on performance",Elixir,https://github.com/sneako/finch
+88,fast-elixir,1285,41,1285,8,01/04/2017,08/11/2023,1.10 MB,1123,:dash: Writing Fast Elixir :heart_eyes: -- Collect Common Elixir idioms.,Elixir,https://github.com/devonestes/fast-elixir
+89,midarr-server,1280,39,1280,9,02/02/2022,28/03/2025,589.02 MB,603156,"🔥Midarr, the minimal lightweight media server.",Elixir,https://github.com/midarrlabs/midarr-server
+90,nebulex,1280,74,1280,9,14/02/2017,23/03/2025,983.00 KB,983,In-memory and distributed caching toolkit for Elixir.,Elixir,https://github.com/cabol/nebulex
+91,coherence,1265,223,1265,75,04/07/2016,20/08/2024,1.08 MB,1106,"Coherence is a full featured, configurable authentication system for Phoenix",Elixir,https://github.com/smpallen99/coherence
+92,swarm,1221,103,1221,45,25/07/2016,22/06/2022,522.00 KB,522,"Easy clustering, registration, and distribution of worker processes for Erlang/Elixir",Elixir,https://github.com/bitwalker/swarm
+93,witchcraft,1206,60,1206,24,06/10/2015,28/08/2023,6.57 MB,6732,Monads and other dark magic for Elixir,Elixir,https://github.com/witchcrafters/witchcraft
+94,ex_admin,1202,272,1202,132,28/05/2015,03/02/2020,16.44 MB,16831,ExAdmin is an auto administration package for Elixir and the Phoenix Framework,Elixir,https://github.com/smpallen99/ex_admin
+95,tv,1193,76,1193,14,29/02/2024,18/12/2024,10.70 MB,10960,Open source Twitch for developers,Elixir,https://github.com/algora-io/tv
+96,explorer,1182,130,1182,28,23/07/2021,18/03/2025,3.59 MB,3674,Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir,Elixir,https://github.com/elixir-explorer/explorer
+97,req,1177,129,1177,57,28/03/2021,28/03/2025,1.00 MB,1029,Req is a batteries-included HTTP client for Elixir.,Elixir,https://github.com/wojtekmach/req
+98,arc,1167,210,1167,83,05/06/2015,12/07/2024,266.00 KB,266,:paperclip: Flexible file upload and attachment library for Elixir,Elixir,https://github.com/stavro/arc
+99,fastglobal,1158,85,1158,13,15/02/2017,09/03/2023,8.00 KB,8,Fast no copy globals for Elixir & Erlang.,Elixir,https://github.com/discord/fastglobal
+100,elixir-boilerplate,1148,84,1148,16,18/03/2019,24/06/2024,1.52 MB,1559,⚗ The stable base upon which we build our Elixir projects at Mirego.,Elixir,https://github.com/mirego/elixir-boilerplate
+101,postgrex,1145,278,1145,5,08/09/2013,04/03/2025,2.14 MB,2195,PostgreSQL driver for Elixir,Elixir,https://github.com/elixir-ecto/postgrex
+102,torch,1142,80,1142,12,23/06/2016,24/03/2025,3.69 MB,3781,A rapid admin generator for Elixir & Phoenix,Elixir,https://github.com/mojotech/torch
+103,policr-mini,1127,108,1127,7,07/06/2020,01/07/2024,2.71 MB,2778,专注于验证的 Telegram 机器人,Elixir,https://github.com/Hentioe/policr-mini
+104,beacon,1123,109,1123,57,21/12/2021,25/03/2025,9.01 MB,9226,"Open-source Content Management System (CMS) built with Phoenix LiveView. Faster render times to boost SEO performance, even for the most content-heavy pages.",Elixir,https://github.com/BeaconCMS/beacon
+105,ElixirCode,1122,355,1122,6,27/10/2016,03/10/2019,183.00 KB,183,Reference Repo for an Elixir course on Udemy.com,Elixir,https://github.com/StephenGrider/ElixirCode
+106,redix,1116,125,1116,2,11/08/2015,22/01/2025,881.00 KB,881,"Fast, pipelined, resilient Redis driver for Elixir. 🛍",Elixir,https://github.com/whatyouhide/redix
+107,fun_with_flags,1111,83,1111,6,30/01/2017,24/03/2025,905.00 KB,905,Feature Flags/Toggles for Elixir,Elixir,https://github.com/tompave/fun_with_flags
+108,faker,1110,218,1110,53,08/04/2014,24/03/2025,1.21 MB,1244,Faker is a pure Elixir library for generating fake data.,Elixir,https://github.com/elixirs/faker
+109,00,1110,59,1110,8,23/04/2024,22/10/2024,14.10 MB,14436,A markdown email micro service for the people!,Elixir,https://github.com/technomancy-dev/00
+110,farmbot_os,1105,272,1105,23,12/01/2014,01/09/2024,81.02 MB,82965,The operating system and all related software that runs on FarmBot's Raspberry Pi.,Elixir,https://github.com/FarmBot/farmbot_os
+111,dynamo,1105,146,1105,18,07/01/2012,12/04/2017,2.59 MB,2653,"Run, Dynamo, Run!",Elixir,https://github.com/dynamo/dynamo
+112,eventstore,1101,151,1101,22,22/02/2016,06/03/2025,1.70 MB,1738,Event store using PostgreSQL for persistence,Elixir,https://github.com/commanded/eventstore
+113,hexpm,1094,285,1094,22,28/01/2014,20/02/2025,16.88 MB,17281,API server and website for Hex,Elixir,https://github.com/hexpm/hexpm
+114,curriculum,1077,261,1077,2,04/02/2022,10/10/2024,24.04 MB,24615,,Elixir,https://github.com/DockYard-Academy/curriculum
+115,sequin,1076,40,1076,54,26/06/2024,28/03/2025,45.91 MB,47013,"Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more",Elixir,https://github.com/sequinstream/sequin
+116,poxa,1074,98,1074,13,31/05/2013,30/06/2024,745.00 KB,745,Pusher server implementation compatible with Pusher client libraries.,Elixir,https://github.com/edgurgel/poxa
+117,lanyard,1070,157,1070,12,10/03/2021,27/02/2025,412.00 KB,412,🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds,Elixir,https://github.com/Phineas/lanyard
+118,stickerbaker,1064,142,1064,3,23/02/2024,14/05/2024,13.82 MB,14156,Let's bake some (AI) stickers!,Elixir,https://github.com/cbh123/stickerbaker
+119,flame,1053,49,1053,23,30/10/2023,18/02/2025,228.00 KB,228,Fleeting Lambda Application for Modular Execution: auto scale parts of your existing app with a single function call,Elixir,https://github.com/phoenixframework/flame
+120,free4chat,1042,139,1042,13,31/10/2021,20/02/2025,1.19 MB,1214,"free4.chat is a real-time audio chat service.  It is designed by the local first and privacy first principle, and is very easy to use.",Elixir,https://github.com/i365dev/free4chat
+121,elixir-google-api,1035,463,1035,111,25/08/2017,27/03/2025,69.93 MB,71604,Elixir client libraries for accessing Google APIs.,Elixir,https://github.com/googleapis/elixir-google-api
+122,crawly,1016,117,1016,8,09/03/2019,09/09/2024,2.87 MB,2940,"Crawly, a high-level web crawling & scraping framework for Elixir. ",Elixir,https://github.com/elixir-crawly/crawly
+123,stripity-stripe,1012,358,1012,4,02/10/2015,17/10/2024,4.87 MB,4990,An Elixir Library for Stripe,Elixir,https://github.com/beam-community/stripity-stripe
+124,hex,997,189,997,17,23/12/2013,23/01/2025,3.87 MB,3967,Package manager for the Erlang ecosystem.,Elixir,https://github.com/hexpm/hex
+125,bypass,979,116,979,28,16/09/2015,18/10/2024,6.51 MB,6671,Bypass provides a quick way to create a custom plug that can be put in place instead of an actual HTTP server to return prebaked responses to client requests.,Elixir,https://github.com/PSPDFKit-labs/bypass
+126,firestorm,973,85,973,38,24/12/2016,30/09/2023,26.29 MB,26916,"An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.",Elixir,https://github.com/firestormforum/firestorm
+127,elixir-in-action,971,202,971,10,23/11/2014,17/06/2024,308.00 KB,308,Code samples for Elixir in Action book,Elixir,https://github.com/sasa1977/elixir-in-action
+128,petal_components,967,101,967,22,13/10/2021,27/03/2025,1.72 MB,1765,Phoenix + Live View HEEX Components ,Elixir,https://github.com/petalframework/petal_components
+129,kitto,958,57,958,12,11/05/2016,06/12/2020,440.00 KB,440,Kitto is a framework for interactive dashboards written in Elixir,Elixir,https://github.com/kittoframework/kitto
+130,zigler,956,50,956,86,01/10/2019,23/03/2025,1.84 MB,1887,zig nifs in elixir,Elixir,https://github.com/E-xyza/zigler
+131,crawler,950,90,950,0,08/08/2016,19/06/2024,394.00 KB,394,A high performance web crawler / scraper in Elixir.,Elixir,https://github.com/fredwu/crawler
+132,porcelain,950,45,950,31,01/08/2013,23/03/2021,198.00 KB,198,Work with external processes like a boss,Elixir,https://github.com/alco/porcelain
+133,sage,945,43,945,21,09/09/2017,11/04/2024,393.00 KB,393,"A dependency-free tool to run distributed transactions in Elixir, inspired by Sagas pattern.",Elixir,https://github.com/Nebo15/sage
+134,mix-test.watch,943,76,943,15,22/04/2015,10/05/2024,138.00 KB,138,🎠   Because TDD is awesome,Elixir,https://github.com/lpil/mix-test.watch
+135,wobserver,930,83,930,9,06/02/2017,06/06/2020,293.00 KB,293,"Web based metrics, monitoring, and observer",Elixir,https://github.com/shinyscorpion/wobserver
+136,lexical,930,83,930,57,22/02/2023,18/02/2025,3.15 MB,3222,Lexical is a next-generation elixir language server,Elixir,https://github.com/lexical-lsp/lexical
+137,semaphore,921,30,921,44,21/01/2025,28/03/2025,47.29 MB,48424,Semaphore is an open source CI/CD platform. Self-host Semaphore on your own servers or on a cloud provider.,Elixir,https://github.com/semaphoreio/semaphore
+138,exrm,921,110,921,0,11/03/2014,06/04/2018,3.86 MB,3956,Automatically generate a release for your Elixir project!,Elixir,https://github.com/bitwalker/exrm
+139,con_cache,920,73,920,4,29/03/2013,30/01/2025,347.00 KB,347,ets based key/value cache with row level isolated writes and ttl support,Elixir,https://github.com/sasa1977/con_cache
+140,cog,917,71,917,58,08/01/2016,08/09/2021,4.58 MB,4691,Bringing the power of the command line to chat,Elixir,https://github.com/operable/cog
+141,boundary,898,24,898,8,11/08/2019,04/10/2024,635.00 KB,635,Manage and restrain cross-module dependencies in Elixir projects,Elixir,https://github.com/sasa1977/boundary
+142,stream_data,897,67,897,13,10/05/2017,28/03/2025,495.00 KB,495,Data generation and property-based testing for Elixir. 🔮,Elixir,https://github.com/whatyouhide/stream_data
+143,elixir-phoenix-realworld-example-app,896,140,896,14,15/11/2017,05/08/2022,293.00 KB,293,Exemplary real world application built with Elixir + Phoenix,Elixir,https://github.com/gothinkster/elixir-phoenix-realworld-example-app
+144,earmark,885,141,885,24,05/07/2014,19/12/2024,1.95 MB,1994,Markdown parser for Elixir,Elixir,https://github.com/pragdave/earmark
+145,drab,879,43,879,32,01/11/2016,05/01/2023,2.57 MB,2632,Remote controlled frontend framework for Phoenix.,Elixir,https://github.com/grych/drab
+146,thousand_island,878,54,878,0,07/11/2019,21/03/2025,26.53 MB,27162,Thousand Island is a pure Elixir socket server,Elixir,https://github.com/mtrudel/thousand_island
+147,logflare,866,51,866,23,10/01/2019,27/03/2025,40.24 MB,41207,"Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.",Elixir,https://github.com/Logflare/logflare
+148,graphql,857,45,857,13,24/08/2015,13/08/2023,640.00 KB,640,GraphQL Elixir,Elixir,https://github.com/graphql-elixir/graphql
+149,protobuf,853,145,853,14,23/02/2017,19/02/2025,1.26 MB,1286,A pure Elixir implementation of Google Protobuf.,Elixir,https://github.com/elixir-protobuf/protobuf
+150,lifelong-learning,852,114,852,0,19/10/2013,10/02/2025,19.15 MB,19606,✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product,Elixir,https://github.com/daryllxd/lifelong-learning
+151,elixir-ls,850,50,850,1,06/06/2017,16/04/2020,1.11 MB,1133,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the JSON-based ""Language Server Protocol"" standard and provides debugger support via VS Code's debugger protocol.",Elixir,https://github.com/JakeBecker/elixir-ls
+152,excoveralls,844,180,844,70,04/09/2013,26/01/2025,6.73 MB,6895,Coverage report tool for Elixir with coveralls.io integration.,Elixir,https://github.com/parroty/excoveralls
+153,money,837,139,837,11,26/08/2015,10/03/2025,311.00 KB,311,"Elixir library for working with Money safer, easier, and fun... Is an interpretation of the Fowler's Money pattern in fun.prog.",Elixir,https://github.com/elixirmoney/money
+154,nimble_parsec,836,51,836,4,01/03/2018,04/02/2025,359.00 KB,359,A simple and fast library for text-based parser combinators,Elixir,https://github.com/dashbitco/nimble_parsec
+155,elixometer,827,67,827,11,13/08/2015,10/07/2023,311.00 KB,311,A light Elixir wrapper around exometer.,Elixir,https://github.com/pinterest/elixometer
+156,langchain,822,103,822,41,12/07/2023,27/03/2025,1.19 MB,1221,Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.,Elixir,https://github.com/brainlid/langchain
+157,hammer,822,43,822,2,01/06/2017,10/03/2025,279.00 KB,279,An Elixir rate-limiter with pluggable backends,Elixir,https://github.com/ExHammer/hammer
+158,ephemeral2,817,49,817,3,15/03/2015,17/11/2017,369.00 KB,369,"Ephemeral P2P over websockets, Phoenix/Elixir.",Elixir,https://github.com/losvedir/ephemeral2
+159,salad_ui,811,55,811,16,25/05/2024,27/03/2025,578.00 KB,578,Phoenix Liveview component library inspired by shadcn UI,Elixir,https://github.com/bluzky/salad_ui
+160,espec,808,63,808,10,17/03/2015,26/02/2025,1.34 MB,1372,Elixir Behaviour Driven Development,Elixir,https://github.com/antonmi/espec
+161,phoenix-chat-example,796,97,796,1,11/01/2018,10/03/2025,920.00 KB,920,"💬 The Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.7 [Latest] 🚀",Elixir,https://github.com/dwyl/phoenix-chat-example
+162,live_view_native,791,26,791,9,06/11/2022,24/03/2025,9.16 MB,9377,A framework for building native applications with Phoenix LiveView,Elixir,https://github.com/liveview-native/live_view_native
+163,nimble_csv,790,53,790,2,19/07/2016,20/03/2025,3.81 MB,3897,A simple and fast CSV parsing and dumping library for Elixir,Elixir,https://github.com/dashbitco/nimble_csv
+164,joken,787,102,787,10,16/09/2014,01/12/2024,751.00 KB,751,Elixir JWT library,Elixir,https://github.com/joken-elixir/joken
+165,paginator,784,95,784,31,27/05/2017,07/03/2025,281.00 KB,281,Cursor-based pagination for Elixir Ecto,Elixir,https://github.com/duffelhq/paginator
+166,ratatouille,773,40,773,21,13/01/2019,20/03/2023,2.75 MB,2812,A TUI (terminal UI) kit for Elixir,Elixir,https://github.com/ndreynolds/ratatouille
+167,05AB1E,772,48,772,43,21/12/2015,06/11/2024,3.58 MB,3667,A concise stack-based golfing language,Elixir,https://github.com/Adriandmen/05AB1E
+168,memento,771,26,771,5,26/07/2018,14/01/2025,266.00 KB,266,Simple + Powerful interface to the Mnesia Distributed Database 💾,Elixir,https://github.com/sheharyarn/memento
+169,phoenix_storybook,771,68,771,18,18/07/2022,25/03/2025,4.47 MB,4576,A pluggable storybook for your Phoenix components.,Elixir,https://github.com/phenixdigital/phoenix_storybook
+170,waffle,770,78,770,29,25/08/2019,09/12/2024,448.00 KB,448,Flexible file upload and attachment library for Elixir,Elixir,https://github.com/elixir-waffle/waffle
+171,phx_gen_auth,769,54,769,0,24/03/2020,21/08/2021,510.00 KB,510,An authentication system generator for Phoenix 1.5 applications.,Elixir,https://github.com/aaronrenner/phx_gen_auth
+172,open_api_spex,768,197,768,81,16/09/2017,07/03/2025,1.15 MB,1178,Open API Specifications for Elixir Plug applications,Elixir,https://github.com/open-api-spex/open_api_spex
+173,bodyguard,765,48,765,1,26/08/2016,24/05/2024,238.00 KB,238,Simple authorization conventions for Phoenix apps,Elixir,https://github.com/schrockwell/bodyguard
+174,acme_bank,764,103,764,2,28/05/2016,15/09/2019,1.68 MB,1716,An example ☂ project,Elixir,https://github.com/wojtekmach/acme_bank
+175,oauth2,758,138,758,1,07/06/2014,25/07/2024,320.00 KB,320,An Elixir OAuth 2.0 Client Library,Elixir,https://github.com/ueberauth/oauth2
+176,semaphore,750,48,750,4,15/02/2017,07/06/2024,13.00 KB,13,Fast semaphore using ETS.,Elixir,https://github.com/discord/semaphore
+177,mix_install_examples,748,56,748,0,31/05/2021,19/03/2025,85.00 KB,85,A collection of simple Elixir scripts that are using Mix.install/2.,Elixir,https://github.com/wojtekmach/mix_install_examples
+178,typed_struct,747,36,747,14,31/05/2018,06/12/2023,253.00 KB,253,An Elixir library for defining structs with a type without writing boilerplate code.,Elixir,https://github.com/ejpcmac/typed_struct
+179,exvcr,736,135,736,54,30/09/2013,20/03/2025,653.00 KB,653,"HTTP request/response recording library for elixir, inspired by VCR.",Elixir,https://github.com/parroty/exvcr
+180,next-ls,732,39,732,68,16/07/2022,17/03/2025,14.51 MB,14859,The language server for Elixir that just works. Ready for early adopters!,Elixir,https://github.com/elixir-tools/next-ls
+181,flop,730,38,730,28,18/10/2019,22/03/2025,1.61 MB,1644,"Filtering, ordering and pagination for Ecto",Elixir,https://github.com/woylie/flop
+182,verk,727,62,727,12,31/08/2015,14/09/2021,474.00 KB,474,A job processing system that just verks! 🧛‍,Elixir,https://github.com/edgurgel/verk
+183,contex,726,58,726,30,15/01/2020,15/08/2024,471.00 KB,471,Charting and graphing library for Elixir,Elixir,https://github.com/mindok/contex
+184,httpotion,725,100,725,7,24/08/2012,02/08/2022,221.00 KB,221,[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please),Elixir,https://github.com/valpackett/httpotion
+185,honeydew,721,57,721,16,31/10/2014,10/01/2024,1.42 MB,1449,Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈,Elixir,https://github.com/koudelka/honeydew
+186,elixir-styler,714,36,714,7,30/03/2023,17/03/2025,488.00 KB,488,An @elixir-lang code-style enforcer that will just FIFY instead of complaining,Elixir,https://github.com/adobe/elixir-styler
+187,phoenix-showdown,706,70,706,11,27/07/2014,13/01/2017,1.24 MB,1274,:horse_racing: benchmark Sinatra-like web frameworks,Elixir,https://github.com/mroth/phoenix-showdown
+188,phoenix_swagger,704,183,704,43,04/09/2015,29/10/2024,4.48 MB,4592,Swagger integration to Phoenix framework,Elixir,https://github.com/xerions/phoenix_swagger
+189,event_bus,704,42,704,7,23/07/2017,10/04/2023,425.00 KB,425,":surfer: Traceable, extendable and minimalist **event bus** implementation for Elixir with built-in **event store** and **event watcher** based on ETS.",Elixir,https://github.com/otobus/event_bus
+190,amnesia,701,67,701,28,07/04/2013,07/09/2022,239.00 KB,239,Mnesia wrapper for Elixir.,Elixir,https://github.com/meh/amnesia
+191,phoenix_pubsub,693,127,693,14,10/11/2015,05/03/2025,415.00 KB,415,Distributed PubSub and Presence platform for the Phoenix Framework,Elixir,https://github.com/phoenixframework/phoenix_pubsub
+192,elixir-socket,691,117,691,32,05/05/2013,22/02/2023,276.00 KB,276,Socket wrapping for Elixir.,Elixir,https://github.com/meh/elixir-socket
+193,norm,689,29,689,20,26/03/2019,28/03/2025,366.00 KB,366,Data specification and generation,Elixir,https://github.com/elixir-toniq/norm
+194,amqp,688,125,688,1,26/07/2014,06/11/2024,409.00 KB,409,Idiomatic Elixir client for RabbitMQ,Elixir,https://github.com/pma/amqp
+195,exactor,683,23,683,4,17/01/2013,04/02/2020,231.00 KB,231,Helpers for simpler implementation of GenServer based processes,Elixir,https://github.com/sasa1977/exactor
+196,instructor_ex,682,72,682,27,19/12/2023,09/02/2025,1.31 MB,1345,Structured outputs for LLMs in Elixir,Elixir,https://github.com/thmsmlr/instructor_ex
+197,Elixir-Slack,676,182,676,18,28/12/2014,26/06/2024,835.00 KB,835,Slack real time messaging and web API client in Elixir,Elixir,https://github.com/BlakeWilliams/Elixir-Slack
+198,que,675,34,675,13,28/12/2016,24/02/2024,166.00 KB,166,Simple Job Processing in Elixir with Mnesia :zap:,Elixir,https://github.com/sheharyarn/que
+199,mock,673,83,673,22,09/06/2013,16/12/2024,3.23 MB,3303,Mocking library for Elixir language,Elixir,https://github.com/jjh42/mock
+200,ex_venture,664,76,664,8,12/07/2017,14/02/2023,23.67 MB,24239,Text based MMORPG engine written in Elixir,Elixir,https://github.com/oestrich/ex_venture
+201,pigeon,663,150,663,42,06/09/2015,31/01/2025,684.00 KB,684,iOS and Android push notifications for Elixir,Elixir,https://github.com/codedge-llc/pigeon
+202,backpex,656,45,656,37,06/12/2023,28/03/2025,11.23 MB,11499, Backpex is a highly customizable administration panel for Phoenix LiveView applications.,Elixir,https://github.com/naymspace/backpex
+203,nostrum,656,131,656,22,26/08/2016,21/03/2025,113.34 MB,116057,Elixir Discord Library,Elixir,https://github.com/Kraigie/nostrum
+204,hedwig,654,73,654,15,31/03/2014,03/09/2022,378.00 KB,378,An Adapter-based Bot Framework for Elixir Applications,Elixir,https://github.com/hedwig-im/hedwig
+205,geo,653,92,653,11,06/03/2014,11/02/2025,472.00 KB,472,A collection of GIS functions for Elixir,Elixir,https://github.com/felt/geo
+206,learn-phoenix,651,45,651,67,01/12/2016,31/10/2024,823.00 KB,823,":fire: Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket:",Elixir,https://github.com/dwyl/learn-phoenix
+207,alchemist.vim,650,38,650,0,22/03/2016,01/09/2023,392.00 KB,392,Elixir Integration Into Vim,Elixir,https://github.com/slashmili/alchemist.vim
+208,thesis-phoenix,648,62,648,35,01/03/2016,09/03/2021,3.92 MB,4016,"A lightweight, bolt-on, intuitive content editing system for Elixir/Phoenix websites. Star this repo and follow along with our progress!",Elixir,https://github.com/infinitered/thesis-phoenix
+209,emoji,647,59,647,3,08/09/2023,28/03/2024,628.00 KB,628,Make emojis for slack using AI,Elixir,https://github.com/cbh123/emoji
+210,sentry-elixir,646,198,646,13,13/08/2014,21/03/2025,18.32 MB,18756,The official Elixir SDK for Sentry (sentry.io),Elixir,https://github.com/getsentry/sentry-elixir
+211,addict,643,99,643,28,18/01/2015,04/10/2019,345.00 KB,345,User management lib for Phoenix Framework,Elixir,https://github.com/trenpixster/addict
+212,prom_ex,643,109,643,45,12/01/2020,31/10/2024,4.64 MB,4752,An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards,Elixir,https://github.com/akoutmos/prom_ex
+213,ja_serializer,639,147,639,17,14/06/2015,31/07/2024,517.00 KB,517,JSONAPI.org Serialization in Elixir.,Elixir,https://github.com/vt-elixir/ja_serializer
+214,bonfire-app,638,46,638,255,07/11/2020,28/03/2025,99.36 MB,101747,Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.,Elixir,https://github.com/bonfire-networks/bonfire-app
+215,elixir,631,404,631,9,28/02/2014,28/03/2025,4.16 MB,4257,Exercism exercises in Elixir.,Elixir,https://github.com/exercism/elixir
+216,design-patterns-in-elixir,630,49,630,0,25/09/2015,27/09/2022,32.00 KB,32,Common design patterns applied in Elixir,Elixir,https://github.com/joshnuss/design-patterns-in-elixir
+217,awesome-phoenix,612,34,612,5,19/03/2017,27/02/2023,24.00 KB,24,:fire: Collection of awesome open-source apps made with Phoenix Framework,Elixir,https://github.com/droptheplot/awesome-phoenix
+218,ecto_sql,608,318,608,7,03/10/2018,28/03/2025,2.04 MB,2087,SQL-based adapters for Ecto and database migrations,Elixir,https://github.com/elixir-ecto/ecto_sql
+219,wasmex,607,36,607,13,15/01/2020,28/03/2025,19.17 MB,19625,Execute WebAssembly from Elixir,Elixir,https://github.com/tessi/wasmex
+220,moebius,606,43,606,3,12/10/2015,23/10/2024,497.00 KB,497,A functional query tool for Elixir,Elixir,https://github.com/robconery/moebius
+221,OK,604,20,604,4,20/10/2015,13/01/2020,122.00 KB,122,"Elegant error/exception handling in Elixir, with result monads.",Elixir,https://github.com/CrowdHailer/OK
+222,vex,603,60,603,18,17/09/2014,29/01/2024,344.00 KB,344,Data Validation for Elixir,Elixir,https://github.com/CargoSense/vex
+223,hologram,600,11,600,12,23/07/2020,28/03/2025,9.35 MB,9570,Full stack isomorphic Elixir web framework,Elixir,https://github.com/bartblast/hologram
+224,kafka_ex,600,162,600,34,03/01/2015,14/01/2025,2.44 MB,2501,Kafka client library for Elixir,Elixir,https://github.com/kafkaex/kafka_ex
+225,cloak,596,54,596,9,16/09/2015,06/04/2024,422.00 KB,422,Elixir encryption library designed for Ecto,Elixir,https://github.com/danielberkompas/cloak
+226,vapor,594,37,594,13,27/05/2018,10/04/2023,307.00 KB,307,Runtime configuration system for Elixir,Elixir,https://github.com/elixir-toniq/vapor
+227,reactive-interaction-gateway,593,68,593,55,20/10/2017,06/11/2023,18.91 MB,19359,"Create low-latency, interactive user experiences for stateless microservices.",Elixir,https://github.com/Accenture/reactive-interaction-gateway
+228,cubdb,590,28,590,13,16/06/2019,02/10/2024,11.61 MB,11888,Elixir embedded key/value database,Elixir,https://github.com/lucaong/cubdb
+229,money,581,52,581,2,24/06/2016,27/03/2025,1.17 MB,1202,Elixir implementation of Money with Currency ,Elixir,https://github.com/kipcole9/money
+230,scrivener_ecto,581,126,581,5,01/04/2016,14/11/2024,162.00 KB,162,Paginate your Ecto queries with Scrivener,Elixir,https://github.com/mojotech/scrivener_ecto
+231,paper_trail,579,94,579,8,19/06/2016,30/08/2024,1.96 MB,2006,Track and record all the changes in your database with Ecto. Revert back to anytime in history.,Elixir,https://github.com/izelnakri/paper_trail
+232,remote_retro,579,65,579,56,11/12/2016,27/03/2025,24.88 MB,25481,"Free, world-class retrospectives",Elixir,https://github.com/stride-nyc/remote_retro
+233,hammox,577,29,577,20,29/06/2019,30/11/2023,341.00 KB,341,🏝 automated contract testing via type checking for Elixir functions and mocks,Elixir,https://github.com/msz/hammox
+234,elixir-secure-coding,576,134,576,31,14/06/2022,10/07/2024,280.00 KB,280,An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir,Elixir,https://github.com/podium/elixir-secure-coding
+235,aws-elixir,575,136,575,13,08/02/2018,28/03/2025,26.11 MB,26736,AWS clients for Elixir,Elixir,https://github.com/aws-beam/aws-elixir
+236,mogrify,574,64,574,9,30/09/2014,30/05/2023,264.00 KB,264,Image processing in Elixir (ImageMagick command line wrapper),Elixir,https://github.com/elixir-mogrify/mogrify
+237,mongodb,573,154,573,20,28/10/2014,16/12/2023,4.89 MB,5004,MongoDB driver for Elixir,Elixir,https://github.com/elixir-mongo/mongodb
+238,ecto_enum,564,130,564,23,07/07/2015,28/05/2024,177.00 KB,177,Ecto extension to support enums in models,Elixir,https://github.com/gjaldon/ecto_enum
+239,scrivener,556,61,556,1,06/02/2015,30/06/2021,166.00 KB,166,Pagination for the Elixir ecosystem,Elixir,https://github.com/mojotech/scrivener
+240,libgraph,548,75,548,31,03/06/2017,20/08/2024,1.32 MB,1353,A graph data structure library for Elixir projects,Elixir,https://github.com/bitwalker/libgraph
+241,machinery,543,54,543,12,15/11/2016,03/05/2024,534.00 KB,534,Elixir State machine thin layer for structs,Elixir,https://github.com/joaomdmoura/machinery
+242,websockex,543,107,543,45,21/02/2017,08/07/2024,357.00 KB,357,An Elixir Websocket Client,Elixir,https://github.com/Azolo/websockex
+243,phoenix_live_view_example,539,186,539,31,12/11/2018,16/01/2023,2.43 MB,2485,,Elixir,https://github.com/chrismccord/phoenix_live_view_example
+244,Claper,536,67,536,9,22/07/2022,23/03/2025,19.56 MB,20025,The ultimate tool to interact with your audience,Elixir,https://github.com/ClaperCo/Claper
+245,plexus,535,157,535,5,22/05/2020,08/01/2025,2.91 MB,2978,Remove the fear of Android app compatibility on de-Googled devices.,Elixir,https://github.com/techlore/plexus
+246,ex_hash_ring,530,26,530,0,20/02/2017,19/10/2022,106.00 KB,106,A fast consistent hash ring implementation in Elixir.,Elixir,https://github.com/discord/ex_hash_ring
+247,corsica,528,38,528,0,23/02/2015,22/12/2024,260.00 KB,260,Elixir library for dealing with CORS requests. 🏖,Elixir,https://github.com/whatyouhide/corsica
+248,avia,527,113,527,46,10/02/2018,28/08/2023,4.07 MB,4167,open source e-commerce framework,Elixir,https://github.com/aviacommerce/avia
+249,phoenix-battleship,527,54,527,7,21/04/2016,01/10/2020,239.00 KB,239,"The Good Old game, built with Elixir, Phoenix, React and Redux",Elixir,https://github.com/bigardone/phoenix-battleship
+250,elixir-type_check,526,25,526,18,22/06/2020,27/01/2025,1.56 MB,1601,TypeCheck: Fast and flexible runtime type-checking for your Elixir projects.,Elixir,https://github.com/Qqwy/elixir-type_check
+251,phoenix_ecto,523,124,523,0,06/03/2015,06/03/2025,280.00 KB,280,Phoenix and Ecto integration with support for concurrent acceptance testing,Elixir,https://github.com/phoenixframework/phoenix_ecto
+252,nimble_options,523,40,523,3,19/02/2020,22/12/2024,193.00 KB,193,A tiny library for validating and documenting high-level options,Elixir,https://github.com/dashbitco/nimble_options
+253,delta_crdt_ex,522,37,522,8,04/05/2018,28/05/2024,266.00 KB,266,Use DeltaCrdt to build distributed applications in Elixir,Elixir,https://github.com/derekkraan/delta_crdt_ex
+254,etudes-for-elixir,517,157,517,18,03/06/2013,17/02/2022,3.10 MB,3170,Companion exercises for Introducing Elixir,Elixir,https://github.com/oreillymedia/etudes-for-elixir
+255,constable,516,57,516,27,04/02/2015,08/10/2021,4.45 MB,4553,Better company announcements,Elixir,https://github.com/thoughtbot/constable
+256,benchfella,514,22,514,20,10/07/2014,18/06/2023,143.00 KB,143,Microbenchmarking tool for Elixir,Elixir,https://github.com/alco/benchfella
+257,csv,508,94,508,7,27/02/2015,02/01/2025,420.00 KB,420,CSV Decoding and Encoding for Elixir,Elixir,https://github.com/beatrichartz/csv
+258,react-phoenix,505,39,505,2,17/04/2017,13/12/2024,394.00 KB,394,Make rendering React.js components in Phoenix easy,Elixir,https://github.com/geolessel/react-phoenix
+259,error-tracker,502,25,502,7,22/05/2024,28/03/2025,4.18 MB,4284,🐛 An Elixir-based built-in error reporting and tracking solution,Elixir,https://github.com/elixir-error-tracker/error-tracker
+260,git.limo,500,43,500,5,20/10/2017,23/11/2023,5.54 MB,5677,A Git source code management tool powered by Elixir with easy installation & high extensibility.,Elixir,https://github.com/redrabbit/git.limo
+261,jsonapi,499,76,499,2,21/06/2015,17/03/2025,491.00 KB,491,JSON:API Serializer and Query Handler for Elixir,Elixir,https://github.com/beam-community/jsonapi
+262,canary,498,10,498,56,21/06/2024,07/11/2024,5.20 MB,5321,Algolia alternative for technical docs,Elixir,https://github.com/fastrepl/canary
+263,tilex,498,113,498,5,18/11/2016,17/03/2025,3.32 MB,3401,Today I Learned,Elixir,https://github.com/hashrocket/tilex
+264,gatling,496,17,496,17,17/06/2016,25/02/2017,387.00 KB,387,Deployment tool for Phoenix apps,Elixir,https://github.com/hashrocket/gatling
+265,rethinkdb-elixir,495,64,495,20,20/04/2015,27/11/2018,402.00 KB,402,Rethinkdb client in pure elixir (JSON protocol),Elixir,https://github.com/hamiltop/rethinkdb-elixir
+266,nimble_publisher,494,31,494,0,12/06/2020,26/03/2025,40.00 KB,40,A minimal filesystem-based publishing engine with Markdown support and code highlighting,Elixir,https://github.com/dashbitco/nimble_publisher
+267,dataloader,492,99,492,11,08/10/2017,19/12/2024,2.73 MB,2792,DataLoader for Elixir,Elixir,https://github.com/absinthe-graphql/dataloader
+268,temple,491,19,491,6,10/05/2019,04/03/2025,560.00 KB,560,An HTML DSL for Elixir and Phoenix,Elixir,https://github.com/mhanberg/temple
+269,tailwind,489,66,489,9,20/12/2021,04/03/2025,147.00 KB,147,An installer for tailwind,Elixir,https://github.com/phoenixframework/tailwind
+270,gringotts,488,53,488,38,19/12/2017,30/01/2024,971.00 KB,971,A complete payment library for Elixir and Phoenix Framework,Elixir,https://github.com/aviabird/gringotts
+271,triplex,486,50,486,21,29/06/2017,09/07/2024,152.00 KB,152,Database multitenancy for Elixir applications!,Elixir,https://github.com/ateliware/triplex
+272,exprotobuf,486,69,486,21,06/05/2014,04/07/2024,182.00 KB,182,Protocol Buffers in Elixir made easy!,Elixir,https://github.com/bitwalker/exprotobuf
+273,matrex,483,30,483,5,13/04/2018,03/08/2020,36.07 MB,36939,A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.,Elixir,https://github.com/versilov/matrex
+274,glimesh.tv,478,79,478,78,23/07/2020,11/07/2023,42.71 MB,43735,"Glimesh is a next generation live streaming platform built by the community, for the community.",Elixir,https://github.com/Glimesh/glimesh.tv
+275,gettext,478,90,478,7,09/03/2015,22/12/2024,1.05 MB,1079,Internationalization and localization support for Elixir.,Elixir,https://github.com/elixir-gettext/gettext
+276,site_encrypt,478,33,478,18,22/05/2018,30/06/2024,488.00 KB,488,Integrated certification via Let's encrypt for Elixir-powered sites ,Elixir,https://github.com/sasa1977/site_encrypt
+277,canary,474,51,474,6,22/04/2015,12/02/2025,261.00 KB,261,:hatching_chick: Elixir authorization and resource-loading library for Plug applications.,Elixir,https://github.com/cpjk/canary
+278,tai,471,78,471,14,28/07/2017,07/12/2024,5.97 MB,6109,"A composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine",Elixir,https://github.com/fremantle-industries/tai
+279,dogma,471,52,471,1,18/06/2015,27/05/2019,657.00 KB,657,:closed_lock_with_key: A code style linter for Elixir,Elixir,https://github.com/lpil/dogma
+280,mimic,470,36,470,9,13/11/2016,28/03/2025,633.00 KB,633,A mocking library for Elixir,Elixir,https://github.com/edgurgel/mimic
+281,assent,469,50,469,3,24/09/2019,06/03/2025,774.00 KB,774,Multi-provider framework in Elixir,Elixir,https://github.com/pow-auth/assent
+282,decimal,469,103,469,2,16/11/2013,11/02/2025,480.00 KB,480,Arbitrary precision decimal arithmetic,Elixir,https://github.com/ericmj/decimal
+283,calendar,467,35,467,6,05/10/2014,05/01/2024,836.00 KB,836,date-time and time zone handling in Elixir,Elixir,https://github.com/lau/calendar
+284,mishka_chelekom,461,8,461,22,03/07/2024,28/03/2025,24.54 MB,25129,Mishka Chelekom is a fully featured components and UI kit library for Phoenix & Phoenix LiveView,Elixir,https://github.com/mishka-group/mishka_chelekom
+285,cldr,460,36,460,2,22/05/2016,26/03/2025,902.52 MB,924179,Elixir implementation of CLDR/ICU,Elixir,https://github.com/elixir-cldr/cldr
+286,owl,457,13,457,0,15/12/2021,09/02/2025,271.00 KB,271,A toolkit for writing command-line user interfaces.,Elixir,https://github.com/fuelen/owl
+287,elixir-mail,456,67,456,10,09/02/2016,24/03/2025,1.00 MB,1029,Build composable mail messages,Elixir,https://github.com/DockYard/elixir-mail
+288,ex_rated,455,49,455,4,17/08/2014,30/03/2023,141.00 KB,141,"ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.",Elixir,https://github.com/grempe/ex_rated
+289,canada,452,29,452,2,24/08/2014,21/04/2021,26.00 KB,26,Easy permission definitions in Elixir apps!,Elixir,https://github.com/jarednorman/canada
+290,reticulum,452,185,452,83,28/09/2017,25/02/2025,17.60 MB,18025,Phoenix web server for Hubs,Elixir,https://github.com/Hubs-Foundation/reticulum
+291,scholar,451,45,451,14,19/02/2022,17/01/2025,2.54 MB,2597,Traditional machine learning on top of Nx,Elixir,https://github.com/elixir-nx/scholar
+292,tentacat,451,155,451,20,14/06/2013,20/12/2024,692.00 KB,692,Simple Elixir wrapper for the GitHub API,Elixir,https://github.com/edgurgel/tentacat
+293,ElixirRetry,450,32,450,8,18/05/2014,02/03/2025,142.00 KB,142,"Simple Elixir macros for linear retry, exponential backoff and wait with composable delays",Elixir,https://github.com/safwank/ElixirRetry
+294,flop_phoenix,449,46,449,17,14/06/2020,22/03/2025,1.44 MB,1472,"Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop",Elixir,https://github.com/woylie/flop_phoenix
+295,hits,444,62,444,31,20/08/2015,08/03/2025,1.03 MB,1058,:chart_with_upwards_trend: General purpose hits (page views) counter ,Elixir,https://github.com/dwyl/hits
+296,rihanna,444,48,444,14,18/03/2018,10/05/2023,366.00 KB,366,Rihanna is a high performance postgres-backed job queue for Elixir,Elixir,https://github.com/samsondav/rihanna
+297,chromic_pdf,444,40,444,13,04/02/2020,04/03/2025,4.26 MB,4367,Convenient HTML to PDF/A rendering library for Elixir based on Chrome & Ghostscript,Elixir,https://github.com/bitcrowd/chromic_pdf
+298,gradient,440,13,440,41,18/10/2021,14/07/2023,883.00 KB,883,Gradient is a static typechecker for Elixir,Elixir,https://github.com/esl/gradient
+299,exfmt,434,20,434,0,24/01/2017,20/07/2019,350.00 KB,350,🌸 An opinionated Elixir source code formatter,Elixir,https://github.com/lpil/exfmt
+300,sugar,433,26,433,9,15/01/2014,31/05/2019,262.00 KB,262,Modular web framework for Elixir,Elixir,https://github.com/sugar-framework/sugar
+301,raft,430,29,430,8,04/02/2018,13/10/2019,188.00 KB,188,An Elixir implementation of the raft consensus protocol,Elixir,https://github.com/elixir-toniq/raft
+302,plug_attack,430,21,430,7,12/11/2016,11/01/2024,76.00 KB,76,A plug building toolkit for blocking and throttling abusive requests,Elixir,https://github.com/michalmuskala/plug_attack
+303,transit-lang-cmp,429,27,429,26,01/10/2022,20/11/2023,175.00 KB,175,Programming language comparison by reimplementing the same transit data app,Elixir,https://github.com/losvedir/transit-lang-cmp
+304,tirexs,429,93,429,30,14/02/2013,10/01/2022,663.00 KB,663,An Elixir flavored HTTP client and DSL library for Elasticsearch,Elixir,https://github.com/Zatvobor/tirexs
+305,phoenix_html,426,226,426,4,03/05/2015,13/03/2025,903.00 KB,903,Building blocks for working with HTML in Phoenix,Elixir,https://github.com/phoenixframework/phoenix_html
+306,nimble_totp,424,16,424,0,12/06/2020,07/11/2024,45.00 KB,45,A tiny Elixir library for time-based one time passwords (TOTP),Elixir,https://github.com/dashbitco/nimble_totp
+307,elasticsearch-elixir,421,73,421,21,31/10/2017,17/10/2023,286.00 KB,286,No-nonsense Elasticsearch library for Elixir,Elixir,https://github.com/danielberkompas/elasticsearch-elixir
+308,trot,420,29,420,15,13/05/2015,09/09/2019,122.00 KB,122,An Elixir web micro-framework.,Elixir,https://github.com/hexedpackets/trot
+309,flowex,420,15,420,2,26/12/2016,18/11/2021,398.00 KB,398,Flow-Based Programming framework for Elixir,Elixir,https://github.com/antonmi/flowex
+310,niex,419,15,419,2,18/12/2020,06/02/2021,2.76 MB,2824,Niex is an interactive Elixir code notebook built with Phoenix LiveView.,Elixir,https://github.com/jonklein/niex
+311,terraform,417,13,417,2,08/08/2016,25/02/2021,20.00 KB,20,A simple plug for incrementally transforming an API into Phoenix. Check out the blog post:,Elixir,https://github.com/poteto/terraform
+312,xandra,416,58,416,7,19/05/2016,22/01/2025,1.01 MB,1037,"Fast, simple, and robust Cassandra/ScyllaDB driver for Elixir.",Elixir,https://github.com/whatyouhide/xandra
+313,ex_webrtc,413,18,413,9,12/09/2023,19/03/2025,24.63 MB,25223,An Elixir implementation of the W3C WebRTC API,Elixir,https://github.com/elixir-webrtc/ex_webrtc
+314,prometheus.ex,413,68,413,16,16/05/2016,20/03/2025,221.00 KB,221,Prometheus.io Elixir client,Elixir,https://github.com/prometheus-erl/prometheus.ex
+315,todo_trek,412,70,412,10,29/03/2023,03/07/2024,372.00 KB,372,,Elixir,https://github.com/chrismccord/todo_trek
+316,extwitter,409,127,409,22,05/03/2014,25/12/2024,589.00 KB,589,Twitter client library for elixir. ,Elixir,https://github.com/parroty/extwitter
+317,ex_debug_toolbar,408,11,408,6,05/05/2017,09/06/2024,8.10 MB,8292,A debug web toolbar for Phoenix projects to display all sorts of information about request,Elixir,https://github.com/kagux/ex_debug_toolbar
+318,phauxth,407,21,407,5,10/04/2017,20/01/2022,2.32 MB,2372,"Not actively maintained - Authentication library for Phoenix, and other Plug-based, web applications",Elixir,https://github.com/riverrun/phauxth
+319,cors_plug,407,75,407,10,06/10/2014,11/11/2023,214.00 KB,214,An Elixir Plug to add CORS.,Elixir,https://github.com/mschae/cors_plug
+320,image,407,47,407,2,10/04/2022,14/03/2025,60.50 MB,61955,Image processing for Elixir,Elixir,https://github.com/elixir-image/image
+321,atom-elixir,406,27,406,40,12/02/2016,02/07/2017,1.93 MB,1980,An Atom package for Elixir,Elixir,https://github.com/msaraiva/atom-elixir
+322,programming_elixir,405,69,405,2,30/08/2014,18/03/2018,207.00 KB,207,Elixir的入门（语言层面）知识,Elixir,https://github.com/straightdave/programming_elixir
+323,kino,405,67,405,7,31/05/2021,05/03/2025,6.43 MB,6584,Client-driven interactive widgets for Livebook,Elixir,https://github.com/livebook-dev/kino
+324,raxx,404,29,404,8,11/06/2016,05/11/2020,840.00 KB,840,"Interface for HTTP webservers, frameworks and clients",Elixir,https://github.com/CrowdHailer/raxx
+325,coincoin,404,54,404,5,21/06/2017,15/02/2018,13.85 MB,14178,Blockchain based cryptocurrency proof-of-concept built with Elixir. Feedback welcome,Elixir,https://github.com/robinmonjo/coincoin
+326,peerage,399,20,399,4,23/10/2016,19/01/2020,42.00 KB,42,"Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others.",Elixir,https://github.com/mrluc/peerage
+327,elixir-style-guide,399,21,399,0,11/12/2015,01/09/2017,23.00 KB,23,"Style Guide for the Elixir language, implemented by Credo",Elixir,https://github.com/rrrene/elixir-style-guide
+328,phoenix-liveview-counter-tutorial,399,41,399,4,05/06/2019,24/03/2025,1.12 MB,1150,🤯  beginners tutorial building a real time counter in Phoenix 1.7.14 + LiveView 1.0 ⚡️ Learn the fundamentals from first principals so you can make something amazing! 🚀,Elixir,https://github.com/dwyl/phoenix-liveview-counter-tutorial
+329,bootleg,397,24,397,19,02/02/2017,18/11/2020,15.70 MB,16075,Simple deployment and server automation for Elixir.,Elixir,https://github.com/labzero/bootleg
+330,bonny,396,27,396,23,11/12/2018,11/03/2025,1.25 MB,1278,The Elixir based Kubernetes Development Framework,Elixir,https://github.com/coryodaniel/bonny
+331,decorator,393,23,393,13,20/10/2016,09/02/2024,86.00 KB,86,Function decorators for Elixir,Elixir,https://github.com/arjan/decorator
+332,obelisk,392,34,392,30,01/07/2014,21/08/2022,139.00 KB,139,Static Site Generator written in Elixir.,Elixir,https://github.com/BennyHallett/obelisk
+333,simple_bayes,392,25,392,1,14/07/2016,25/09/2017,100.00 KB,100,A Naive Bayes machine learning implementation in Elixir.,Elixir,https://github.com/fredwu/simple_bayes
+334,nerves_examples,391,114,391,5,20/12/2015,26/03/2025,3.17 MB,3248,Small example programs using Nerves,Elixir,https://github.com/nerves-project/nerves_examples
+335,bloom,390,18,390,6,28/04/2024,02/01/2025,4.43 MB,4539,The opinionated extension to Phoenix core_components,Elixir,https://github.com/chrisgreg/bloom
+336,neodgm,386,19,386,5,21/02/2017,03/05/2024,658.00 KB,658,Modern TrueType font based on an old-but-good Korean bitmap font.,Elixir,https://github.com/neodgm/neodgm
+337,ecto_psql_extras,386,32,386,0,03/08/2020,16/02/2025,974.00 KB,974,"Ecto PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.",Elixir,https://github.com/pawurb/ecto_psql_extras
+338,cortex,384,17,384,10,14/04/2017,14/09/2022,93.00 KB,93,The intelligent coding assistant for Elixir,Elixir,https://github.com/urbint/cortex
+339,ethereumex,383,73,383,1,03/06/2017,17/03/2025,385.00 KB,385,Elixir JSON-RPC client for the Ethereum blockchain,Elixir,https://github.com/mana-ethereum/ethereumex
+340,propcheck,382,43,382,18,16/07/2015,13/06/2024,850.00 KB,850,Property based Testing for Elixir (based upon PropEr),Elixir,https://github.com/alfert/propcheck
+341,shlinked,380,43,380,30,29/11/2020,22/04/2024,555.86 MB,569198,An open-source satirical social network. shlinkedin.com,Elixir,https://github.com/cbh123/shlinked
+342,etso,379,36,379,9,25/04/2019,02/04/2024,145.00 KB,145,Ecto 3 adapter allowing use of Ecto schemas held in ETS tables,Elixir,https://github.com/evadne/etso
+343,inflex,378,58,378,7,09/12/2013,12/04/2024,114.00 KB,114,An Inflector library for Elixir,Elixir,https://github.com/nurugger07/inflex
+344,conform,377,67,377,15,11/05/2014,20/11/2019,58.54 MB,59946,"Easy, powerful, and extendable configuration tooling for releases.",Elixir,https://github.com/bitwalker/conform
+345,polymorphic_embed,377,69,377,16,28/05/2020,10/03/2025,336.00 KB,336,Polymorphic embeds in Ecto,Elixir,https://github.com/mathieuprog/polymorphic_embed
+346,mongodb_ecto,375,127,375,22,25/05/2015,12/03/2025,602.00 KB,602,MongoDB adapter for Ecto,Elixir,https://github.com/elixir-mongo/mongodb_ecto
+347,reaxt,374,37,374,10,02/01/2015,05/11/2024,374.00 KB,374,Use React template into your Elixir application for server rendering,Elixir,https://github.com/kbrw/reaxt
+348,slime,374,56,374,6,01/08/2015,08/06/2024,302.00 KB,302,"Minimalistic HTML templates for Elixir, inspired by Slim.",Elixir,https://github.com/slime-lang/slime
+349,the-little-elixir-otp-guidebook-code,372,71,372,10,11/02/2015,25/02/2020,12.49 MB,12788,Code examples for The Little Elixir & OTP Guidebook,Elixir,https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code
+350,ex_json_schema,372,97,372,15,23/05/2015,11/02/2025,382.00 KB,382,An Elixir JSON Schema validator,Elixir,https://github.com/jonasschmidt/ex_json_schema
+351,weber,371,33,371,10,07/09/2013,20/05/2016,1.03 MB,1052,[WiP] Web framework for Elixir inspired by Rails [#WeberMVC at freenode],Elixir,https://github.com/elixir-web/weber
+352,ex_audit,369,111,369,22,18/10/2017,08/12/2023,141.00 KB,141,Ecto auditing library that transparently tracks changes and can revert them.,Elixir,https://github.com/ZennerIoT/ex_audit
+353,guardian_db,369,87,369,2,31/08/2015,13/11/2023,213.00 KB,213,Guardian DB integration for tracking tokens and ensuring logout cannot be replayed.,Elixir,https://github.com/ueberauth/guardian_db
+354,bureaucrat,368,74,368,8,10/08/2015,12/03/2025,426.00 KB,426,Generate Phoenix API documentation from tests,Elixir,https://github.com/api-hogs/bureaucrat
+355,params,368,50,368,7,24/01/2016,27/02/2025,103.00 KB,103,"Easy parameters validation/casting with Ecto.Schema, akin to Rails' strong parameters.",Elixir,https://github.com/vic/params
+356,live-debugger,368,9,368,33,04/12/2024,28/03/2025,2.18 MB,2232,Tool for debugging LiveView applications.,Elixir,https://github.com/software-mansion/live-debugger
+357,component,366,18,366,6,28/04/2018,02/10/2022,1.07 MB,1097,Experiment in moving towards higher-level Elixir components,Elixir,https://github.com/pragdave/component
+358,opus,365,21,365,4,05/03/2018,03/08/2024,228.00 KB,228,A framework for pluggable business logic components,Elixir,https://github.com/zorbash/opus
+359,evision,365,22,365,10,15/11/2021,19/01/2025,5.50 MB,5628,Evision: An OpenCV-Erlang/Elixir binding,Elixir,https://github.com/cocoa-xu/evision
+360,PhoenixAnalytics,365,18,365,11,16/08/2024,14/03/2025,1.78 MB,1820,📊 Plug and play analytics for Phoenix applications.,Elixir,https://github.com/lalabuy948/PhoenixAnalytics
+361,sweet_xml,365,61,365,28,24/07/2014,07/01/2025,357.00 KB,357,,Elixir,https://github.com/kbrw/sweet_xml
+362,nadia,365,78,365,21,15/08/2015,29/03/2023,277.00 KB,277,Telegram Bot API Wrapper written in Elixir,Elixir,https://github.com/zhyu/nadia
+363,delta-elixir,364,13,364,0,23/07/2021,28/11/2024,117.00 KB,117,"Elixir implementation of Delta, the JSON format for describing rich-text content and their changes",Elixir,https://github.com/slab/delta-elixir
+364,docker-pleroma,363,82,363,21,25/08/2018,10/03/2025,33.00 KB,33,Docker image for the Pleroma federated social network,Elixir,https://github.com/angristan/docker-pleroma
+365,functional-programming,362,22,362,0,31/03/2016,13/06/2020,128.00 KB,128,Organize material to teach functional programming using Elixir,Elixir,https://github.com/kblake/functional-programming
+366,elixir-uuid,362,83,362,22,06/06/2014,26/07/2024,92.00 KB,92,UUID generator and utilities for Elixir,Elixir,https://github.com/zyro/elixir-uuid
+367,tictac,361,29,361,1,20/03/2021,01/11/2021,1.57 MB,1606,"Demonstration of building a clustered, distributed, multi-player, turn-based game server written in Elixir.",Elixir,https://github.com/fly-apps/tictac
+368,fsm,361,22,361,0,22/08/2013,04/02/2020,24.00 KB,24,Finite State Machine data structure,Elixir,https://github.com/sasa1977/fsm
+369,conduit,357,68,357,17,05/06/2017,07/03/2021,268.00 KB,268,RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix,Elixir,https://github.com/slashdotdash/conduit
+370,redis,357,63,357,7,14/07/2013,30/01/2024,195.00 KB,195,Redis commands for Elixir,Elixir,https://github.com/artemeff/redis
+371,nimble_pool,354,21,354,0,11/10/2019,25/03/2024,102.00 KB,102,A tiny resource-pool implementation for Elixir,Elixir,https://github.com/dashbitco/nimble_pool
+372,rauversion-phx,353,19,353,11,14/06/2022,09/01/2024,19.17 MB,19629,Self hosted music industries built on Elixir Phoenix,Elixir,https://github.com/rauversion/rauversion-phx
+373,a-little-elixir-goes-a-long-way,350,8,350,0,01/06/2015,14/01/2016,63.00 KB,63,The Little Schemer in Elixir.,Elixir,https://github.com/jwhiteman/a-little-elixir-goes-a-long-way
+374,pathex,349,17,349,2,22/04/2020,29/07/2024,295.00 KB,295,Fastest tool to access data in Elixir,Elixir,https://github.com/hissssst/pathex
+375,mix_audit,348,14,348,1,03/03/2020,13/03/2025,1.73 MB,1776,🕵️‍♀️ MixAudit provides a mix deps.audit task to scan a project Mix dependencies for known Elixir security vulnerabilities,Elixir,https://github.com/mirego/mix_audit
+376,phoenix-diff,346,20,346,26,08/10/2016,28/03/2025,9.05 MB,9264,See the changes needed when upgrading an Elixir Phoenix application,Elixir,https://github.com/phoenix-diff/phoenix-diff
+377,mojito,345,34,345,4,05/03/2018,20/05/2022,2.18 MB,2237,"An easy-to-use Elixir HTTP client, built on the low-level Mint library.",Elixir,https://github.com/appcues/mojito
+378,elixir-pdf-generator,341,74,341,28,26/09/2014,15/04/2023,302.00 KB,302,Create PDFs with wkhtmltopdf or puppeteer/chromium from Elixir.,Elixir,https://github.com/gutschilla/elixir-pdf-generator
+379,ex_twilio,341,150,341,27,27/03/2015,28/04/2024,454.00 KB,454,Twilio API client for Elixir,Elixir,https://github.com/danielberkompas/ex_twilio
+380,doggo,340,11,340,9,27/09/2022,24/03/2025,4.71 MB,4824,Headless UI components for Phoenix,Elixir,https://github.com/woylie/doggo
+381,openai.ex,339,75,339,14,03/04/2021,06/08/2024,119.00 KB,119,community-maintained OpenAI API Wrapper written in Elixir.,Elixir,https://github.com/mgallo/openai.ex
+382,spandex,338,53,338,20,18/06/2017,16/10/2023,448.00 KB,448,A platform agnostic tracing library,Elixir,https://github.com/spandex-project/spandex
+383,algae,338,19,338,21,22/11/2015,22/10/2022,691.00 KB,691,Bootstrapped algebraic data types for Elixir,Elixir,https://github.com/witchcrafters/algae
+384,toniq,337,25,337,19,26/06/2015,12/09/2018,316.00 KB,316,Simple and reliable background job processing library for Elixir.,Elixir,https://github.com/joakimk/toniq
+385,progress_bar,336,20,336,4,19/09/2015,03/08/2023,115.00 KB,115,Command-line progress bars and spinners for Elixir.,Elixir,https://github.com/henrik/progress_bar
+386,pow_assent,335,51,335,28,27/07/2018,14/07/2024,846.00 KB,846,Multi-provider authentication for your Pow enabled app,Elixir,https://github.com/pow-auth/pow_assent
+387,jido,335,15,335,0,16/12/2024,27/03/2025,1.18 MB,1205,"🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",Elixir,https://github.com/agentjido/jido
+388,bytepack_archive,334,66,334,0,03/12/2020,03/12/2020,909.00 KB,909,Archive of bytepack.io,Elixir,https://github.com/dashbitco/bytepack_archive
+389,mix_docker,333,52,333,15,04/10/2016,07/06/2018,59.00 KB,59,Put your Elixir app production release inside minimal docker image,Elixir,https://github.com/Recruitee/mix_docker
+390,annon.api,332,27,332,37,12/09/2016,14/10/2019,3.76 MB,3852,Configurable API gateway that acts as a reverse proxy with a plugin system.,Elixir,https://github.com/Nebo15/annon.api
+391,mobilizon,331,26,331,2,01/11/2018,17/03/2025,55.65 MB,56986,"Gather, organize and mobilize yourselves with a convivial, ethical, and emancipating tool.",Elixir,https://github.com/framasoft/mobilizon
+392,neuron,330,36,330,5,28/05/2017,22/02/2023,178.00 KB,178,A GraphQL client for Elixir,Elixir,https://github.com/uesteibar/neuron
+393,Lynx,330,8,330,7,18/02/2023,23/03/2025,37.41 MB,38306,"🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.",Elixir,https://github.com/Clivern/Lynx
+394,inertia-phoenix,330,17,330,4,25/06/2023,28/02/2025,213.00 KB,213,The Phoenix adapter for Inertia.js.,Elixir,https://github.com/inertiajs/inertia-phoenix
+395,elixir-scrape,329,43,329,6,29/06/2015,25/07/2020,948.00 KB,948,"Scrape any website, article or RSS/Atom Feed with ease!",Elixir,https://github.com/Anonyfox/elixir-scrape
+396,elixir-pipes,325,26,325,5,09/12/2013,09/09/2018,26.00 KB,26,Macros for more flexible composition with the Elixir Pipe operator,Elixir,https://github.com/batate/elixir-pipes
+397,ewallet,324,74,324,116,09/01/2018,16/06/2021,45.54 MB,46631,eWallet Backend for the OmiseGO SDKs.,Elixir,https://github.com/omgnetwork/ewallet
+398,k8s,323,47,323,17,11/01/2019,10/03/2025,1.86 MB,1901,Kubernetes API Client for Elixir,Elixir,https://github.com/coryodaniel/k8s
+399,nectarcommerce,323,53,323,10,01/02/2016,09/02/2017,4.56 MB,4672,Quest for customizable E-commerce - the Elixir way,Elixir,https://github.com/vinsol/nectarcommerce
+400,db_connection,323,115,323,1,25/11/2015,17/03/2025,937.00 KB,937,Database connection behaviour,Elixir,https://github.com/elixir-ecto/db_connection
+401,phoenix_live_reload,322,90,322,8,24/03/2015,27/08/2024,162.00 KB,162,Provides live-reload functionality for Phoenix,Elixir,https://github.com/phoenixframework/phoenix_live_reload
+402,Serum,321,28,321,15,31/07/2016,04/05/2024,1.71 MB,1747,Static website generator for Elixir fans,Elixir,https://github.com/Dalgona/Serum
+403,quark,320,15,320,8,31/12/2015,22/06/2022,307.00 KB,307,Common combinators for Elixir,Elixir,https://github.com/witchcrafters/quark
+404,oop,319,22,319,0,06/02/2016,22/06/2021,151.00 KB,151,OOP in Elixir!,Elixir,https://github.com/wojtekmach/oop
+405,instruments,318,36,318,0,08/11/2017,11/02/2025,105.00 KB,105,Simple and Fast metrics for Elixir,Elixir,https://github.com/discord/instruments
+406,ex_check,317,11,317,5,17/07/2019,21/07/2024,295.00 KB,295,One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism.,Elixir,https://github.com/karolsluszniak/ex_check
+407,meeseeks,317,25,317,4,17/02/2017,10/08/2023,357.00 KB,357,An Elixir library for parsing and extracting data from HTML and XML with CSS or XPath selectors.,Elixir,https://github.com/mischov/meeseeks
+408,opencov,317,41,317,12,21/10/2015,01/07/2022,660.00 KB,660,Open source code coverage history webapp,Elixir,https://github.com/danhper/opencov
+409,textdb,316,16,316,18,18/07/2020,06/01/2023,700.00 KB,700,"The whole shaboodle for textdb, a simple data sharing service",Elixir,https://github.com/bontaq/textdb
+410,excheck,316,26,316,9,11/11/2013,24/09/2018,88.00 KB,88,Property-based testing library for Elixir (QuickCheck style).,Elixir,https://github.com/parroty/excheck
+411,vutuv,315,38,315,47,27/04/2016,06/01/2023,5.24 MB,5368,"vutuv is a business network. Think of it as a fast, secure and less annoying open-source alternative for LinkedIn or XING.",Elixir,https://github.com/vutuv/vutuv
+412,tortoise,314,56,314,36,22/04/2018,17/04/2024,844.00 KB,844,A MQTT Client written in Elixir,Elixir,https://github.com/gausby/tortoise
+413,elixir_sense,314,41,314,9,25/03/2018,22/03/2025,3.14 MB,3218,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",Elixir,https://github.com/elixir-lsp/elixir_sense
+414,ecto_sqlite3,313,48,313,11,17/03/2021,19/03/2025,2.87 MB,2937, An Ecto SQLite3 adapter.,Elixir,https://github.com/elixir-sqlite/ecto_sqlite3
+415,spawn,313,13,313,26,13/05/2022,27/03/2025,360.46 MB,369110,Spawn - Actor Mesh,Elixir,https://github.com/eigr/spawn
+416,phoenix_slime,311,66,311,14,04/08/2015,29/11/2023,97.00 KB,97,Phoenix Template Engine for Slime,Elixir,https://github.com/slime-lang/phoenix_slime
+417,absinthe_phoenix,310,83,310,25,12/05/2016,03/10/2024,162.00 KB,162,,Elixir,https://github.com/absinthe-graphql/absinthe_phoenix
+418,gen_state_machine,310,29,310,4,31/05/2016,16/06/2024,99.00 KB,99,An idiomatic Elixir wrapper for gen_statem in OTP 19 (and above).,Elixir,https://github.com/ericentin/gen_state_machine
+419,MonadEx,310,12,310,1,02/03/2015,27/10/2021,41.00 KB,41,Upgrade your pipelines with monads.,Elixir,https://github.com/rob-brown/MonadEx
+420,tzdata,310,76,310,26,26/02/2015,06/03/2025,3.92 MB,4018,tzdata for Elixir. Born from the Calendar library.,Elixir,https://github.com/lau/tzdata
+421,logger_file_backend,309,128,309,16,08/08/2014,09/08/2024,74.00 KB,74,,Elixir,https://github.com/onkel-dirtus/logger_file_backend
+422,listudy,309,47,309,54,26/06/2020,09/06/2024,4.10 MB,4197,Listudy - chess training server,Elixir,https://github.com/ArneVogel/listudy
+423,geo_postgis,308,73,308,15,15/07/2017,05/02/2025,240.00 KB,240,Postrex Extension for PostGIS,Elixir,https://github.com/felt/geo_postgis
+424,Ace,307,26,307,16,03/08/2015,20/04/2021,705.00 KB,705,"HTTP web server and client, supports http1 and http2",Elixir,https://github.com/CrowdHailer/Ace
+425,riffed,307,37,307,11,08/10/2015,17/06/2020,189.00 KB,189,Provides idiomatic Elixir bindings for Apache Thrift,Elixir,https://github.com/pinterest/riffed
+426,recode,306,17,306,11,01/11/2021,21/01/2025,661.00 KB,661,A linter with autocorrection and a refactoring tool.,Elixir,https://github.com/hrzndhrn/recode
+427,walex,305,17,305,7,06/12/2021,19/02/2025,585.00 KB,585,Postgres change events (CDC) in Elixir,Elixir,https://github.com/cpursley/walex
+428,scribe,305,12,305,3,13/08/2016,11/01/2025,98.00 KB,98,Pretty-print tables of Elixir structs and maps.,Elixir,https://github.com/codedge-llc/scribe
+429,nerves_livebook,304,43,304,18,14/04/2021,24/03/2025,4.42 MB,4524,Develop on embedded devices with Livebook and Nerves,Elixir,https://github.com/nerves-livebook/nerves_livebook
+430,confex,304,33,304,6,05/09/2016,17/05/2024,170.00 KB,170,Useful helper to read and use application configuration from environment variables.,Elixir,https://github.com/Nebo15/confex
+431,goth,304,116,304,13,20/01/2016,20/12/2024,309.00 KB,309,Elixir package for Oauth authentication via Google Cloud APIs,Elixir,https://github.com/peburrows/goth
+432,live_vue,304,18,304,5,07/05/2024,18/03/2025,320.00 KB,320,End-to-end reactivity for Phoenix LiveView and Vue,Elixir,https://github.com/Valian/live_vue
+433,teex,300,7,300,3,29/08/2020,14/12/2020,113.00 KB,113,"Use Elixir like a scripting language, across your system",Elixir,https://github.com/doawoo/teex
+434,reverse_proxy_plug,300,68,300,17,01/08/2018,27/09/2024,438.00 KB,438,"🔛 an Elixir reverse proxy Plug with HTTP/2, chunked transfer and path proxying support",Elixir,https://github.com/tallarium/reverse_proxy_plug
+435,elixlsx,300,121,300,39,24/11/2015,07/08/2024,251.00 KB,251,An Elixir XLSX writer,Elixir,https://github.com/xou/elixlsx
+436,phoenix_guardian,298,70,298,20,19/06/2015,20/09/2017,169.00 KB,169,A demo application showing usage of guardian and ueberauth,Elixir,https://github.com/hassox/phoenix_guardian
+437,briefly,295,33,295,3,03/09/2015,19/01/2024,108.00 KB,108,"Simple, robust temporary file support for Elixir.",Elixir,https://github.com/CargoSense/briefly
+438,rabbitmq-message-deduplication,295,35,295,10,22/02/2018,15/12/2024,247.00 KB,247,RabbitMQ Plugin for filtering message duplicates,Elixir,https://github.com/noxdafox/rabbitmq-message-deduplication
+439,exceptional,294,10,294,9,28/08/2016,28/07/2023,326.00 KB,326,Helpers for Elixir exceptions,Elixir,https://github.com/expede/exceptional
+440,quotes,294,79,294,20,30/09/2019,24/02/2025,820.00 KB,820,💬  a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡 ,Elixir,https://github.com/dwyl/quotes
+441,elixir-samples,293,40,293,7,24/08/2017,14/02/2023,122.00 KB,122,A collection of samples on using Elixir with Google Cloud Platform. ,Elixir,https://github.com/GoogleCloudPlatform/elixir-samples
+442,erlangelist,292,35,292,14,30/08/2015,08/02/2024,3.07 MB,3144,Source code of The Erlangelist blog,Elixir,https://github.com/sasa1977/erlangelist
+443,ex_top,291,8,291,2,13/10/2015,14/05/2018,37.00 KB,37,ExTop is an interactive monitor for the Erlang VM written in Elixir.,Elixir,https://github.com/utkarshkukreti/ex_top
+444,msgpax,291,36,291,8,08/09/2013,25/08/2023,191.00 KB,191,High-performance and comprehensive MessagePack implementation for Elixir / msgpack.org[Elixir],Elixir,https://github.com/lexmag/msgpax
+445,saxy,290,41,290,21,27/12/2017,22/10/2024,1.66 MB,1697,Fast SAX parser and encoder for XML in Elixir,Elixir,https://github.com/qcam/saxy
+446,socializer,290,43,290,11,15/04/2019,27/02/2023,2.60 MB,2662,A basic social media application to demonstrate Elixir + Phoenix + GraphQL + React + Apollo,Elixir,https://github.com/schneidmaster/socializer
+447,techschool.dev,290,28,290,4,30/11/2023,01/02/2025,1.69 MB,1730,TechSchool is a curated list of free programming courses from YouTube,Elixir,https://github.com/danielbergholz/techschool.dev
+448,appsignal-elixir,289,82,289,17,22/07/2016,26/03/2025,4.01 MB,4111,🟪 AppSignal for Elixir package,Elixir,https://github.com/appsignal/appsignal-elixir
+449,exconstructor,288,20,288,7,19/01/2016,06/12/2024,71.00 KB,71,An Elixir library for generating struct constructors that handle external data with ease.,Elixir,https://github.com/appcues/exconstructor
+450,alloy_ci,288,10,288,44,23/03/2017,09/12/2022,4.59 MB,4701,"Continuous Integration, Deployment, and Delivery coordinator, written in Elixir.",Elixir,https://github.com/AlloyCI/alloy_ci
+451,og-image,286,19,286,0,27/04/2024,14/11/2024,803.00 KB,803,"An open graph image generator, by SavvyCal ✨",Elixir,https://github.com/svycal/og-image
+452,elixirstatus-web,284,44,284,26,21/06/2015,03/09/2020,1.17 MB,1200,Community site for Elixir project/blog post/version updates,Elixir,https://github.com/rrrene/elixirstatus-web
+453,reaxive,284,8,284,3,16/08/2014,26/01/2020,285.00 KB,285,Reactive Extensions for Elixir,Elixir,https://github.com/alfert/reaxive
+454,elixium_core,283,36,283,11,26/01/2018,02/09/2021,515.00 KB,515,A privacy-preserving decentralized application network,Elixir,https://github.com/alexdovzhanyn/elixium_core
+455,hashids-elixir,283,14,283,2,30/06/2014,13/03/2024,73.00 KB,73,Stringify your ids,Elixir,https://github.com/alco/hashids-elixir
+456,elixir_express,282,46,282,0,04/04/2014,20/07/2016,59.00 KB,59,,Elixir,https://github.com/chrismccord/elixir_express
+457,phoenix-ecto-encryption-example,282,20,282,8,24/01/2018,09/03/2025,542.00 KB,542,🔐 A detailed example for how to encrypt data in an Elixir (Phoenix v1.7) App before inserting into a database using Ecto Types,Elixir,https://github.com/dwyl/phoenix-ecto-encryption-example
+458,statix,280,85,280,17,13/05/2015,10/06/2024,67.00 KB,67,Fast and reliable Elixir client for StatsD-compatible servers,Elixir,https://github.com/lexmag/statix
+459,protox,280,19,280,1,16/02/2017,20/03/2025,1.88 MB,1927,"A reasonably fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers (aka protobuf)",Elixir,https://github.com/ahamez/protox
+460,apex,279,19,279,5,18/01/2014,02/11/2023,93.00 KB,93,Awesome printing for Elixir,Elixir,https://github.com/BjRo/apex
+461,beaker,279,19,279,8,02/06/2015,08/01/2022,1.43 MB,1468,A mirror for https://git.sr.ht/~hwrd/beaker,Elixir,https://github.com/hahuang65/beaker
+462,ecto_job,278,35,278,6,13/08/2017,24/12/2021,220.00 KB,220,"Transactional job queue with Ecto, PostgreSQL and GenStage",Elixir,https://github.com/mbuhot/ecto_job
+463,myxql,278,67,278,3,27/08/2018,22/10/2024,707.00 KB,707,MySQL 5.5+ driver for Elixir,Elixir,https://github.com/elixir-ecto/myxql
+464,typed_ecto_schema,277,18,277,11,18/07/2019,06/08/2024,86.00 KB,86,A library to define Ecto schemas with typespecs without all the boilerplate code.,Elixir,https://github.com/bamorim/typed_ecto_schema
+465,elixir-auth-google,277,42,277,6,18/11/2019,09/03/2025,2.04 MB,2087,"👤Minimalist Google OAuth Authentication for Elixir Apps. Tested, Documented & Maintained. Setup in 5 mins. 🚀",Elixir,https://github.com/dwyl/elixir-auth-google
+466,html_sanitize_ex,277,65,277,5,05/07/2015,19/08/2024,293.00 KB,293,HTML sanitizer for Elixir,Elixir,https://github.com/rrrene/html_sanitize_ex
+467,phoenix_swoosh,276,31,276,2,19/03/2016,28/03/2025,455.00 KB,455,Swoosh <3 Phoenix,Elixir,https://github.com/swoosh/phoenix_swoosh
+468,mana,276,47,276,40,10/04/2018,11/08/2024,4.06 MB,4156,Ethereum full node implementation written in Elixir.,Elixir,https://github.com/mana-ethereum/mana
+469,live_admin,276,31,276,0,04/01/2022,25/11/2024,3.50 MB,3588,"Low-config admin UI for Phoenix apps, built on LiveView",Elixir,https://github.com/tfwright/live_admin
+470,parent,274,21,274,1,08/04/2018,04/10/2024,661.00 KB,661,Custom parenting of processes in Elixir,Elixir,https://github.com/sasa1977/parent
+471,elm-hipster-stack,273,23,273,0,10/04/2016,16/02/2018,26.61 MB,27246,"Simple project using Elm, Phoenix, GraphQL and PostgreSQL",Elixir,https://github.com/carleryd/elm-hipster-stack
+472,esbuild,272,40,272,1,16/07/2021,10/02/2025,109.00 KB,109,An installer for esbuild,Elixir,https://github.com/phoenixframework/esbuild
+473,drops,272,7,272,17,04/09/2023,21/03/2025,411.00 KB,411,"🛠️ Tools for working with data effectively - data contracts using types, schemas, domain validation rules, type-safe casting, and more.",Elixir,https://github.com/solnic/drops
+474,learn-elasticsearch,271,22,271,14,07/09/2014,22/12/2020,1.15 MB,1179,:mag: Learn how to use ElasticSearch to power a great search experience for your project/product/website.,Elixir,https://github.com/dwyl/learn-elasticsearch
+475,file_system,270,58,270,5,30/10/2014,05/01/2025,9.85 MB,10082,Filesystem monitor for elixir,Elixir,https://github.com/falood/file_system
+476,firenest,269,14,269,3,04/11/2016,28/01/2019,205.00 KB,205,,Elixir,https://github.com/phoenixframework/firenest
+477,opq,268,8,268,0,09/08/2017,29/09/2023,95.00 KB,95,"Elixir queue! A simple, in-memory queue with worker pooling and rate limiting in Elixir.",Elixir,https://github.com/fredwu/opq
+478,rackla,268,26,268,0,15/04/2015,25/09/2016,266.00 KB,266,Open Source API Gateway in Elixir,Elixir,https://github.com/AntonFagerberg/rackla
+479,open_owl,268,2,268,1,22/03/2023,24/03/2023,48.00 KB,48,Download user lists including user permissions from various SaaS applications without the need for a public API,Elixir,https://github.com/AccessOwl/open_owl
+480,readability,268,59,268,7,15/04/2016,14/11/2024,705.00 KB,705,Readability is Elixir library for extracting and curating articles.,Elixir,https://github.com/keepcosmos/readability
+481,quixir,268,11,268,6,27/07/2016,27/03/2019,68.00 KB,68,Property-based testing for Elixir,Elixir,https://github.com/pragdave/quixir
+482,let_me,266,7,266,2,07/07/2022,26/03/2025,396.00 KB,396,Authorization library for Elixir,Elixir,https://github.com/woylie/let_me
+483,connection,265,23,265,1,10/05/2015,26/04/2024,79.00 KB,79,Connection behaviour for connection processes,Elixir,https://github.com/elixir-ecto/connection
+484,vscode-elixir,264,50,264,57,25/11/2015,11/01/2023,1.91 MB,1951,This plugin is no longer maintained!,Elixir,https://github.com/timmhirsens/vscode-elixir
+485,ex_phone_number,264,62,264,8,09/03/2016,13/12/2024,1.06 MB,1083,Elixir port of libphonenumber,Elixir,https://github.com/ex-phone-number/ex_phone_number
+486,webbkoll,264,27,264,9,25/06/2016,18/11/2022,9.08 MB,9296,An online tool that checks how a website is doing with regards to privacy,Elixir,https://github.com/andersju/webbkoll
+487,mariaex,263,84,263,57,08/12/2014,09/12/2021,529.00 KB,529,Pure Elixir database driver for MariaDB / MySQL,Elixir,https://github.com/xerions/mariaex
+488,absinthe_plug,262,169,262,20,30/12/2015,04/03/2025,510.00 KB,510,"Plug support for Absinthe, the GraphQL toolkit for Elixir",Elixir,https://github.com/absinthe-graphql/absinthe_plug
+489,bolt_sips,261,48,261,4,27/08/2016,18/11/2023,1.24 MB,1269,Neo4j driver for Elixir,Elixir,https://github.com/florinpatrascu/bolt_sips
+490,phoenix_live_react,261,43,261,1,17/09/2019,22/11/2024,350.00 KB,350,Render React.js components in Phoenix LiveView views,Elixir,https://github.com/fidr/phoenix_live_react
+491,bob,261,61,261,4,21/06/2014,13/02/2025,622.00 KB,622,The Builder,Elixir,https://github.com/hexpm/bob
+492,igniter,261,35,261,28,28/05/2024,28/03/2025,1.61 MB,1648,A code generation and project patching framework.,Elixir,https://github.com/ash-project/igniter
+493,remote_ip,260,32,260,2,16/10/2016,10/06/2024,293.00 KB,293,A plug to rewrite the Plug.Conn's remote_ip based on forwarding headers.,Elixir,https://github.com/ajvondrak/remote_ip
+494,Orb,259,4,259,22,23/04/2023,25/03/2025,773.00 KB,773,Write WebAssembly with Elixir,Elixir,https://github.com/RoyalIcing/Orb
+495,SchedEx,258,18,258,0,12/01/2018,02/01/2025,171.00 KB,171,Simple scheduling for Elixir,Elixir,https://github.com/SchedEx/SchedEx
+496,table_rex,258,28,258,2,03/12/2015,16/02/2025,704.00 KB,704,An Elixir app which generates text-based tables for display,Elixir,https://github.com/djm/table_rex
+497,chroxy,258,26,258,8,01/05/2018,20/01/2021,340.00 KB,340,Headless Chrome as a Service,Elixir,https://github.com/holsee/chroxy
+498,exchat,257,36,257,11,29/08/2015,28/08/2018,272.00 KB,272,"(Not maintaining) A Slack-like app by Elixir, Phoenix & React(redux)",Elixir,https://github.com/tony612/exchat
+499,elixir_agent,257,101,257,7,15/08/2018,05/03/2025,1.53 MB,1566,New Relic's Open Source Elixir Agent,Elixir,https://github.com/newrelic/elixir_agent
+500,liveview-svelte-pwa,256,24,256,0,24/12/2023,26/09/2024,3.72 MB,3805,Local-First LiveView Svelte ToDo App,Elixir,https://github.com/thisistonydang/liveview-svelte-pwa
+501,elixir-mongodb-driver,256,66,256,4,08/04/2019,11/02/2025,5.37 MB,5496,MongoDB driver for Elixir,Elixir,https://github.com/zookzook/elixir-mongodb-driver
+502,app-servers,256,27,256,2,16/12/2015,26/12/2020,42.36 MB,43378,"App Servers benchmarked for: Ruby, Python, JavaScript, Dart, Elixir, Java, Crystal, Nim, GO, Rust",Elixir,https://github.com/costajob/app-servers
+503,rexbug,255,15,255,8,31/10/2017,23/07/2023,304.00 KB,304,A thin Elixir wrapper for the redbug Erlang tracing debugger.,Elixir,https://github.com/nietaki/rexbug
+504,refactorex,255,3,255,0,06/04/2024,15/02/2025,14.40 MB,14746,A VS Code extension for fast and reliable Elixir code refactoring.,Elixir,https://github.com/gp-pereira/refactorex
+505,arc_ecto,254,151,254,39,18/06/2015,21/09/2023,78.00 KB,78,An integration with Arc and Ecto.,Elixir,https://github.com/stavro/arc_ecto
+506,still,254,10,254,12,30/07/2020,18/05/2023,152.99 MB,156663,A composable Elixir static site generator,Elixir,https://github.com/still-ex/still
+507,excellent_migrations,254,31,254,21,29/08/2019,10/08/2024,104.00 KB,104,An Elixir tool for checking safety of database migrations.,Elixir,https://github.com/Artur-Sulej/excellent_migrations
+508,logger_json,253,100,253,10,14/03/2017,21/11/2024,428.00 KB,428,"JSON logger formatter with support for Google Cloud, DataDog and other for Elixir.",Elixir,https://github.com/Nebo15/logger_json
+509,stripcode,253,8,253,5,15/01/2021,17/01/2021,162.00 KB,162,Competitive Online Game for Programmers,Elixir,https://github.com/benawad/stripcode
+510,elastix,253,73,253,9,09/07/2015,28/02/2025,228.00 KB,228,A simple Elasticsearch REST client written in Elixir.,Elixir,https://github.com/werbitzky/elastix
+511,plug_cowboy,253,49,253,2,18/10/2018,14/03/2025,393.00 KB,393,Plug adapter for the Cowboy web server,Elixir,https://github.com/elixir-plug/plug_cowboy
+512,discovery,251,19,251,7,20/06/2014,15/07/2017,573.00 KB,573,An OTP application for auto-discovering services with Consul,Elixir,https://github.com/undeadlabs/discovery
+513,cainophile,251,20,251,5,11/07/2019,28/02/2024,27.00 KB,27,,Elixir,https://github.com/cainophile/cainophile
+514,elixir-koans,249,61,249,2,22/10/2013,22/03/2016,54.00 KB,54,Small exercises to discover elixir by testing,Elixir,https://github.com/dojo-toulouse/elixir-koans
+515,focus,248,10,248,1,12/02/2017,21/10/2021,128.00 KB,128,Lightweight Elixir lenses,Elixir,https://github.com/smpoulsen/focus
+516,nerves_hub_web,247,76,247,92,31/01/2018,28/03/2025,9.24 MB,9465,Manage firmware updates for Nerves devices,Elixir,https://github.com/nerves-hub/nerves_hub_web
+517,astarte,247,53,247,138,30/03/2018,28/03/2025,9.91 MB,10152,Core Astarte Repository,Elixir,https://github.com/astarte-platform/astarte
+518,desktop-example-app,247,32,247,2,11/02/2021,28/02/2025,4.19 MB,4292,Elixir Sample App using the Desktop library with LiveView to create a desktop app,Elixir,https://github.com/elixir-desktop/desktop-example-app
+519,Elixir,246,67,246,6,28/10/2019,24/06/2024,53.00 KB,53,,Elixir,https://github.com/TheAlgorithms/Elixir
+520,ecto_mnesia,245,41,245,31,22/10/2016,21/07/2020,321.00 KB,321,Ecto adapter for Mnesia Erlang term database.,Elixir,https://github.com/Nebo15/ecto_mnesia
+521,rollbax,242,52,242,8,04/08/2015,01/08/2024,161.00 KB,161,Exception tracking and logging from Elixir to Rollbar,Elixir,https://github.com/ForzaElixir/rollbax
+522,gutenex,242,38,242,11,28/09/2014,09/11/2018,924.00 KB,924,Native PDF generation for Elixir,Elixir,https://github.com/tyre/gutenex
+523,flame_on,241,20,241,3,10/02/2022,26/03/2025,4.37 MB,4475,Flame Graph LiveView Component and LiveDashboard plugin,Elixir,https://github.com/DockYard/flame_on
+524,arbor,240,26,240,14,07/11/2016,27/08/2022,54.00 KB,54,Ecto elixir adjacency list and tree traversal. Supports Ecto versions 2 and 3.,Elixir,https://github.com/coryodaniel/arbor
+525,phoenix_test,239,32,239,20,09/01/2024,28/03/2025,1.31 MB,1342,PhoenixTest provides a unified way of writing feature tests -- regardless of whether you're testing LiveView pages or static (non-LiveView) pages.,Elixir,https://github.com/germsvel/phoenix_test
+526,demo_system,239,90,239,7,22/10/2017,03/12/2024,734.00 KB,734,,Elixir,https://github.com/sasa1977/demo_system
+527,broadway_kafka,239,53,239,5,05/07/2019,28/03/2025,181.00 KB,181,A Broadway connector for Kafka,Elixir,https://github.com/dashbitco/broadway_kafka
+528,ci,238,13,238,3,27/10/2020,31/10/2023,169.00 KB,169,CI/CD toolkit as a library,Elixir,https://github.com/sasa1977/ci
+529,argon2_elixir,238,36,238,3,19/10/2016,05/02/2025,158.00 KB,158,Elixir wrapper for the Argon2 password hashing algorithm,Elixir,https://github.com/riverrun/argon2_elixir
+530,phoenix_playground,238,22,238,9,28/03/2024,24/03/2025,666.00 KB,666,Phoenix Playground makes it easy to create single-file Phoenix applications.,Elixir,https://github.com/phoenix-playground/phoenix_playground
+531,phoenix_gen_socket_client,237,48,237,7,06/04/2016,25/08/2022,227.00 KB,227,Socket client behaviour for phoenix channels,Elixir,https://github.com/J0/phoenix_gen_socket_client
+532,code-corps-api,236,86,236,139,16/07/2016,08/02/2019,3.18 MB,3259,Elixir/Phoenix API for Code Corps.,Elixir,https://github.com/code-corps/code-corps-api
+533,shorter_maps,236,11,236,7,08/06/2016,28/06/2024,51.00 KB,51,"Elixir ~M sigil for map shorthand. `~M{id, name} ~> %{id: id, name: name}`",Elixir,https://github.com/meyercm/shorter_maps
+534,trans,235,17,235,3,19/05/2016,07/07/2024,267.00 KB,267,Embedded translations for Ecto,Elixir,https://github.com/crbelaus/trans
+535,exzeitable,234,29,234,9,03/10/2019,28/03/2025,4.54 MB,4654,"Dynamically updating, searchable, sortable datatables with Phoenix LiveView",Elixir,https://github.com/alanvardy/exzeitable
+536,elixir-nodejs,233,34,233,7,01/08/2018,17/03/2025,151.00 KB,151,An Elixir API for calling Node.js functions,Elixir,https://github.com/revelrylabs/elixir-nodejs
+537,ECSx,233,12,233,13,15/06/2022,25/01/2025,241.00 KB,241,An Entity-Component-System framework for Elixir,Elixir,https://github.com/ecsx-framework/ECSx
+538,dotenv_elixir,232,27,232,8,03/12/2013,10/06/2021,60.00 KB,60,A port of dotenv to Elixir,Elixir,https://github.com/avdi/dotenv_elixir
+539,ecto_watch,232,11,232,4,05/06/2024,18/02/2025,134.00 KB,134,EctoWatch allows you to easily get notifications about database changes directly from PostgreSQL.,Elixir,https://github.com/cheerfulstoic/ecto_watch
+540,muontrap,231,20,231,3,25/02/2018,18/03/2025,244.00 KB,244,Keep your ports contained,Elixir,https://github.com/fhunleth/muontrap
+541,kerosene,231,39,231,20,08/03/2016,19/04/2024,80.00 KB,80,Pagination for Ecto and Pheonix.,Elixir,https://github.com/elixirdrops/kerosene
+542,telemetry_ui,231,5,231,0,08/08/2022,04/01/2025,1.10 MB,1124,Telemetry based metrics UI. Take your telemetry metrics and display them in a web page.,Elixir,https://github.com/mirego/telemetry_ui
+543,ffmpex,230,41,230,4,27/07/2016,30/06/2024,1.30 MB,1330,Elixir wrapper for FFmpeg command line interface,Elixir,https://github.com/talklittle/ffmpex
+544,broadway_dashboard,230,17,230,2,26/04/2021,12/02/2025,722.00 KB,722,Keep track of your Broadway pipelines from Phoenix LiveDashboard,Elixir,https://github.com/dashbitco/broadway_dashboard
+545,philomena,230,55,230,50,17/08/2019,19/03/2025,6.32 MB,6467,Next-generation imageboard,Elixir,https://github.com/derpibooru/philomena
+546,recase,229,19,229,9,08/07/2017,07/03/2025,297.00 KB,297,:recycle: Convert strings to any case.,Elixir,https://github.com/wemake-services/recase
+547,live_toast,229,28,229,8,07/03/2024,28/03/2025,301.00 KB,301,A beautiful drop-in replacement for the Phoenix Flash system.,Elixir,https://github.com/srcrip/live_toast
+548,nanoid,228,11,228,1,02/01/2018,13/02/2025,70.00 KB,70,"Elixir port of NanoID, a secure and URL-friendly unique ID generator. https://hex.pm/packages/nanoid",Elixir,https://github.com/railsmechanic/nanoid
+549,white-bread,228,37,228,17,02/03/2015,04/11/2020,390.00 KB,390,🍞 Story BDD tool for elixir using gherkin,Elixir,https://github.com/meadery/white-bread
+550,number,227,37,227,8,09/06/2015,14/08/2024,162.00 KB,162,ActionView::Helpers::NumberHelper for Elixir,Elixir,https://github.com/danielberkompas/number
+551,local-cluster,227,31,227,4,06/10/2018,01/09/2024,56.00 KB,56,Easy local cluster creation for Elixir to aid in unit testing,Elixir,https://github.com/whitfin/local-cluster
+552,ecto_erd,226,15,226,5,22/08/2021,11/03/2025,83.11 MB,85102,A mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.,Elixir,https://github.com/fuelen/ecto_erd
+553,live_select,226,49,226,19,18/06/2022,23/02/2025,8.39 MB,8593,Dynamic (multi)selection field for LiveView,Elixir,https://github.com/maxmarcon/live_select
+554,wasmcloud-otp,226,48,226,4,28/05/2021,12/10/2024,418.87 MB,428927,"wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model",Elixir,https://github.com/wasmCloud/wasmcloud-otp
+555,fika,226,13,226,13,31/08/2020,10/05/2021,258.00 KB,258,A statically typed functional programming language for the web.,Elixir,https://github.com/fika-lang/fika
+556,instream,226,41,226,18,10/02/2015,06/06/2024,1.85 MB,1892,InfluxDB driver for Elixir,Elixir,https://github.com/mneudert/instream
+557,aligned_layer,225,377,225,224,16/04/2024,27/03/2025,241.38 MB,247176,Aligned is a verification layer for zero-knowledge proofs using EigenLayer. Our mission is to accelerate the adoption of zero-knowledge and validity proofs on Ethereum.,Elixir,https://github.com/yetanotherco/aligned_layer
+558,nats.ex,225,38,225,24,15/03/2017,09/01/2025,415.00 KB,415,"Elixir client for NATS, the cloud native messaging system. https://nats.io",Elixir,https://github.com/nats-io/nats.ex
+559,solid,224,43,224,9,25/08/2016,28/03/2025,430.00 KB,430,Liquid template engine in Elixir,Elixir,https://github.com/edgurgel/solid
+560,loom,224,14,224,5,17/11/2014,30/05/2017,60.00 KB,60,A CRDT library with δ-CRDT support.,Elixir,https://github.com/asonge/loom
+561,elixir-raknet,224,6,224,2,13/01/2021,15/10/2023,57.00 KB,57,"An Elixir client for the core of the RakNet networking protocol, useful for games and other latency-sensitive applications that typically rely on UDP",Elixir,https://github.com/X-Plane/elixir-raknet
+562,membrane_demo,224,32,224,2,29/10/2018,28/03/2025,31.16 MB,31910,Examples of using the Membrane Framework,Elixir,https://github.com/membraneframework/membrane_demo
+563,antikythera,223,19,223,4,16/04/2018,26/03/2025,1.98 MB,2024,Elixir framework to build your own in-house PaaS,Elixir,https://github.com/access-company/antikythera
+564,ueberauth_example,223,74,223,9,15/11/2015,21/11/2023,1.07 MB,1095,Example Phoenix application using Überauth for authentication,Elixir,https://github.com/ueberauth/ueberauth_example
+565,cocktail,223,30,223,15,10/08/2017,15/05/2024,532.00 KB,532,Elixir date recurrence library based on iCalendar events,Elixir,https://github.com/peek-travel/cocktail
+566,docker-phoenix-example,222,33,222,1,15/04/2021,28/03/2025,1.56 MB,1599,A production ready example Phoenix app that's using Docker and Docker Compose.,Elixir,https://github.com/nickjj/docker-phoenix-example
+567,libring,222,27,222,4,29/09/2016,17/09/2024,107.00 KB,107,A fast consistent hash ring implementation in Elixir,Elixir,https://github.com/bitwalker/libring
+568,formex,221,21,221,5,15/01/2017,05/05/2019,753.00 KB,753,A better form library for Phoenix,Elixir,https://github.com/jakub-zawislak/formex
+569,telemetry_metrics,221,35,221,3,19/10/2018,27/01/2025,188.00 KB,188,Collect and aggregate Telemetry events over time,Elixir,https://github.com/beam-telemetry/telemetry_metrics
+570,coderplanets_server,220,21,220,31,20/11/2017,24/10/2022,428.93 MB,439220,"coderplanets.com API(GraphQL) server,   build with elixir, phoenix, absinthe",Elixir,https://github.com/coderplanets/coderplanets_server
+571,mix_unused,220,13,220,9,04/01/2019,26/12/2023,150.00 KB,150,Find unused functions in your project,Elixir,https://github.com/hauleth/mix_unused
+572,ex-shop,219,24,219,2,21/09/2016,04/10/2016,1.04 MB,1068,Digital goods shop & blog created using Elixir (Phoenix framework),Elixir,https://github.com/bharani91/ex-shop
+573,docker-web-framework-examples,219,34,219,0,14/06/2018,28/05/2021,189.00 KB,189,Example apps that demonstate how to use Docker with your favorite web frameworks.,Elixir,https://github.com/nickjj/docker-web-framework-examples
+574,phoenix_integration,219,27,219,7,19/07/2016,11/01/2024,380.00 KB,380,Lightweight server side integration test tools for Phoenix,Elixir,https://github.com/boydm/phoenix_integration
+575,telegram,218,28,218,0,12/09/2017,06/01/2025,1.47 MB,1506,Telegram library for the Elixir language,Elixir,https://github.com/visciang/telegram
+576,eqrcode,218,30,218,1,03/06/2018,21/02/2025,284.00 KB,284,Simple QRCode Generator in Elixir,Elixir,https://github.com/SiliconJungles/eqrcode
+577,elixir-json,218,39,218,0,11/07/2013,01/01/2021,40.46 MB,41432,Native JSON library for Elixir,Elixir,https://github.com/cblage/elixir-json
+578,exop,217,15,217,0,26/08/2016,26/10/2023,265.00 KB,265,Elixir library that provides macros which allow you to encapsulate business logic and validate incoming parameters with predefined contract.,Elixir,https://github.com/implicitly-awesome/exop
+579,yolo_elixir,217,11,217,2,06/12/2024,31/12/2024,6.09 MB,6235,A library for object detection and seamless YOLO model integration in Elixir,Elixir,https://github.com/poeticoding/yolo_elixir
+580,cowboy-elixir-example,217,23,217,2,31/08/2014,07/09/2018,104.00 KB,104,Examples of using Cowboy with Elixir,Elixir,https://github.com/IdahoEv/cowboy-elixir-example
+581,aja,217,6,217,0,18/10/2020,15/01/2025,1.98 MB,2026,"Extension of the Elixir standard library focused on data stuctures, data manipulation and performance",Elixir,https://github.com/sabiwara/aja
+582,elixir-datastructures,216,19,216,2,05/06/2013,27/03/2017,131.00 KB,131,Datastructures for Elixir.,Elixir,https://github.com/meh/elixir-datastructures
+583,ets,216,14,216,0,03/11/2018,16/06/2022,131.00 KB,131,":ets, the Elixir way",Elixir,https://github.com/TheFirstAvenger/ets
+584,moon,216,18,216,28,17/09/2020,10/03/2025,33.53 MB,34331,Moon Design System for Elixir,Elixir,https://github.com/coingaming/moon
+585,backoffice,216,15,216,20,25/03/2021,09/10/2022,1.46 MB,1496,Admin tool built with the PETAL stack,Elixir,https://github.com/edisonywh/backoffice
+586,dns_cluster,216,12,216,3,12/07/2023,04/03/2025,24.00 KB,24,Simple DNS clustering for distributed Elixir nodes,Elixir,https://github.com/phoenixframework/dns_cluster
+587,tune,216,16,216,25,26/06/2020,28/12/2022,6.89 MB,7055,A streamlined Spotify client and browser with a focus on performance and integrations.,Elixir,https://github.com/fully-forged/tune
+588,xlsxir,215,92,215,27,07/03/2016,14/08/2024,1.70 MB,1736,Xlsx parser for the Elixir language.,Elixir,https://github.com/jsonkenl/xlsxir
+589,ex_cli,215,16,215,3,05/05/2016,27/04/2019,76.00 KB,76,User friendly CLI apps for Elixir,Elixir,https://github.com/danhper/ex_cli
+590,atlas,215,18,215,7,14/07/2013,18/08/2015,855.00 KB,855,Object Relational Mapper for Elixir,Elixir,https://github.com/chrismccord/atlas
+591,phoenix_client,215,55,215,8,21/07/2015,11/03/2021,152.00 KB,152,Elixir Phoenix Client for Channels,Elixir,https://github.com/mobileoverlord/phoenix_client
+592,libcluster_postgres,215,11,215,2,24/11/2023,31/01/2024,811.00 KB,811,Postgres strategy for libcluster,Elixir,https://github.com/supabase/libcluster_postgres
+593,elixir-thrift,215,44,215,32,08/10/2015,10/07/2023,1.05 MB,1079,A Pure Elixir Thrift Implementation,Elixir,https://github.com/pinterest/elixir-thrift
+594,advent-of-code-elixir-starter,214,35,214,0,29/11/2018,03/12/2024,40.00 KB,40,Template project for Advent of Code in Elixir.,Elixir,https://github.com/mhanberg/advent-of-code-elixir-starter
+595,haystack,214,4,214,5,02/03/2023,07/01/2025,93.00 KB,93,"Simple, extendable full-text search engine written in Elixir",Elixir,https://github.com/elixir-haystack/haystack
+596,elixir-omg,214,57,214,101,02/03/2018,25/11/2023,14.73 MB,15083,OMG-Network repository of Watcher and Watcher Info,Elixir,https://github.com/omgnetwork/elixir-omg
+597,power_assert_ex,214,6,214,1,30/09/2015,04/01/2023,269.00 KB,269,Power Assert in Elixir. Shows evaluation results each expression.,Elixir,https://github.com/ma2gedev/power_assert_ex
+598,timber-elixir,214,29,214,32,28/09/2016,17/06/2020,852.00 KB,852,🌲 Great Elixir logging made easy,Elixir,https://github.com/vectordotdev/timber-elixir
+599,elixir-node,213,38,213,47,07/09/2017,12/12/2018,4.98 MB,5095,Elixir full node implementation of the aeternity specification,Elixir,https://github.com/aeternity/elixir-node
+600,caster,213,13,213,0,25/03/2017,20/07/2017,922.00 KB,922,Videocasts browser,Elixir,https://github.com/patrickdavey/caster
+601,observer_live,213,14,213,12,30/03/2019,03/01/2023,1.37 MB,1407,A port of observer_cli using LiveView,Elixir,https://github.com/zorbash/observer_live
+602,transport-site,212,31,212,156,31/08/2017,28/03/2025,98.87 MB,101247,"Rendre disponible, valoriser et améliorer les données transports",Elixir,https://github.com/etalab/transport-site
+603,rummage_ecto,212,38,212,7,12/02/2017,08/07/2022,3.73 MB,3815,"Search, Sort and Pagination for ecto queries",Elixir,https://github.com/annkissam/rummage_ecto
+604,makeup,211,33,211,5,01/08/2017,14/02/2025,255.00 KB,255,Syntax highlighter for Elixir inspired by Pygments,Elixir,https://github.com/elixir-makeup/makeup
+605,mix_phx_gen_auth_demo,211,16,211,1,17/03/2020,03/08/2020,215.00 KB,215,Example repository for mix phx.gen.auth,Elixir,https://github.com/dashbitco/mix_phx_gen_auth_demo
+606,tableau,210,11,210,2,30/06/2021,27/03/2025,339.00 KB,339,Static Site Generator,Elixir,https://github.com/elixir-tools/tableau
+607,inch_ex,209,71,209,55,26/08/2014,02/02/2022,197.00 KB,197,Provides a Mix task that gives you hints where to improve your inline docs.,Elixir,https://github.com/rrrene/inch_ex
+608,rambo,209,22,209,10,30/08/2019,11/08/2024,51.00 KB,51,Run your command. Send input. Get output.,Elixir,https://github.com/jayjun/rambo
+609,tucan,208,4,208,1,27/12/2022,22/03/2025,2.25 MB,2305,An Elixir plotting library on top of VegaLite,Elixir,https://github.com/pnezis/tucan
+610,fishjam,208,18,208,5,21/12/2022,20/06/2024,7.29 MB,7470,"General purpose media server. Supports WebRTC, HLS, RTSP, SIP",Elixir,https://github.com/fishjam-dev/fishjam
+611,statuspal,208,19,208,24,01/12/2017,08/12/2022,1.56 MB,1598,Statuspal lets you communicate your web apps/services status 📡,Elixir,https://github.com/statuspal/statuspal
+612,Domo,207,11,207,0,26/05/2020,29/12/2024,904.00 KB,904,A library to validate values of nested structs with their type spec t() and associated precondition functions,Elixir,https://github.com/IvanRublev/Domo
+613,logster,206,28,206,7,31/03/2016,19/01/2025,221.00 KB,221,"Easily parsable single line, plain text and JSON logger for Plug and Phoenix applications",Elixir,https://github.com/navinpeiris/logster
+614,openmaize,206,30,206,0,14/03/2015,19/01/2022,1012.00 KB,1012,No longer maintained - was an Authentication library for Plug-based applications in Elixir,Elixir,https://github.com/riverrun/openmaize
+615,cloak_ecto,206,34,206,11,16/12/2018,24/03/2025,173.00 KB,173,Encrypted fields for Ecto,Elixir,https://github.com/danielberkompas/cloak_ecto
+616,thistle_tea,205,14,205,26,05/06/2024,27/03/2025,381.00 KB,381,vanilla private server,Elixir,https://github.com/pikdum/thistle_tea
+617,ALF,205,6,205,0,08/11/2021,25/05/2024,5.22 MB,5341,Flow-based Application Layer Framework,Elixir,https://github.com/antonmi/ALF
+618,mailman,204,73,204,20,29/03/2014,22/01/2024,302.00 KB,302,Mailman provides a clean way of defining mailers in your Elixir applications,Elixir,https://github.com/mailman-elixir/mailman
+619,phoenix-todo-list-tutorial,203,14,203,1,10/06/2015,24/03/2025,12.54 MB,12840,✅ Complete beginners tutorial building a todo list from scratch in Phoenix 1.7 (latest),Elixir,https://github.com/dwyl/phoenix-todo-list-tutorial
+620,phoenix_profiler,203,6,203,7,30/09/2021,12/07/2023,504.00 KB,504,Web Profiler and Debug Toolbar for Phoenix Framework,Elixir,https://github.com/mcrumm/phoenix_profiler
+621,task_bunny,202,30,202,15,01/02/2017,09/11/2021,307.00 KB,307,TaskBunny is a background processing application written in Elixir and uses RabbitMQ as a messaging backend,Elixir,https://github.com/shinyscorpion/task_bunny
+622,toml-elixir,202,26,202,10,29/07/2018,14/08/2024,202.00 KB,202,"An implementation of TOML for Elixir projects, compliant with the latest specification",Elixir,https://github.com/bitwalker/toml-elixir
+623,patch,201,14,201,9,21/04/2020,27/12/2024,291.00 KB,291,Ergonomic Mocking for Elixir,Elixir,https://github.com/ihumanable/patch
+624,amrita,200,28,200,30,30/05/2013,07/07/2017,1.39 MB,1427,"A polite, well mannered and thoroughly upstanding testing framework for Elixir",Elixir,https://github.com/josephwilk/amrita
+625,gen_retry,199,13,199,5,11/06/2016,03/03/2023,45.00 KB,45,"Utilities for retrying Elixir functions, with configurable delay and backoff.",Elixir,https://github.com/appcues/gen_retry
+626,combine,199,19,199,6,23/07/2015,02/11/2023,249.00 KB,249,A parser combinator library for Elixir projects,Elixir,https://github.com/bitwalker/combine
+627,filtrex,198,26,198,9,23/12/2015,25/07/2024,240.00 KB,240,A library for performing and validating complex filters from a client (e.g. smart filters),Elixir,https://github.com/rcdilorenzo/filtrex
+628,carbonite,198,14,198,1,31/08/2021,28/01/2025,313.00 KB,313,Audit trails for Elixir/PostgreSQL based on triggers,Elixir,https://github.com/bitcrowd/carbonite
+629,ex2ms,198,27,198,0,29/06/2013,13/06/2024,67.00 KB,67,":ets.fun2ms for Elixir, translate functions to match specifications",Elixir,https://github.com/ericmj/ex2ms
+630,programming-machine-learning-livebooks,198,18,198,2,05/12/2022,02/06/2023,13.22 MB,13542,Programming Machine Learning - Elixir Livebooks ,Elixir,https://github.com/nickgnd/programming-machine-learning-livebooks
+631,wax,197,20,197,8,05/01/2019,17/02/2025,416.00 KB,416,WebAuthn for Elixir,Elixir,https://github.com/tanguilp/wax
+632,mdex,197,16,197,6,11/09/2023,28/03/2025,3.48 MB,3567,"A fast and extensible Markdown parser and formatter for Elixir that converts Markdown to HTML, XML, or back to Markdown. Built on top of comrak, a port of GitHub's CommonMark implementation.",Elixir,https://github.com/leandrocp/mdex
+633,riak-elixir-client,197,55,197,11,21/09/2013,30/09/2020,6.11 MB,6257,A Riak client written in Elixir.,Elixir,https://github.com/drewkerrigan/riak-elixir-client
+634,calendlex,196,28,196,1,30/09/2021,18/02/2022,356.00 KB,356,Simple Calendly clone with Phoenix LiveView,Elixir,https://github.com/bigardone/calendlex
+635,ex_oauth2_provider,196,69,196,17,20/02/2017,16/08/2024,558.00 KB,558,Making OAuth 2 provider and authentication with http bearer as simple as possible for Elixir and Phoenix apps,Elixir,https://github.com/danschultzer/ex_oauth2_provider
+636,blacksmith,196,11,196,5,24/11/2014,10/01/2023,55.00 KB,55,Data generation framework for Elixir,Elixir,https://github.com/batate/blacksmith
+637,calliope,196,38,196,21,24/09/2013,05/09/2024,171.00 KB,171,An elixir haml parser,Elixir,https://github.com/nurugger07/calliope
+638,placid,195,7,195,3,07/09/2014,25/01/2017,174.00 KB,174,A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir,Elixir,https://github.com/slogsdon/placid
+639,memoize,195,12,195,3,29/06/2017,22/12/2023,92.00 KB,92,A method caching macro for elixir using CAS on ETS.,Elixir,https://github.com/melpon/memoize
+640,mailgun,195,95,195,21,01/10/2014,22/10/2022,52.00 KB,52,Elixir Mailgun Client,Elixir,https://github.com/chrismccord/mailgun
+641,elixir-china,195,57,195,14,21/09/2014,29/07/2018,547.00 KB,547,这个项目因为时间原因已经暂停维护,Elixir,https://github.com/SocialfiPanda/elixir-china
+642,broadway_rabbitmq,193,45,193,3,14/03/2019,13/11/2024,214.00 KB,214,A Broadway producer for RabbitMQ,Elixir,https://github.com/dashbitco/broadway_rabbitmq
+643,zen_monitor,193,11,193,0,10/12/2018,12/07/2023,99.00 KB,99,Efficient Process.monitor replacement,Elixir,https://github.com/discord/zen_monitor
+644,alchemist-server,192,12,192,7,18/08/2015,02/11/2017,67.00 KB,67,Editor/IDE independent background server to inform about Elixir mix projects,Elixir,https://github.com/tonini/alchemist-server
+645,mini_repo,192,34,192,2,01/07/2019,14/01/2021,54.00 KB,54,MiniRepo allows self-hosting of Hex packages.,Elixir,https://github.com/wojtekmach/mini_repo
+646,lens,192,11,192,0,17/10/2016,29/06/2022,163.00 KB,163,A utility for working with nested data structures.,Elixir,https://github.com/obrok/lens
+647,vega_lite,192,21,192,0,20/05/2021,14/11/2024,130.00 KB,130,Elixir bindings for Vega-Lite ,Elixir,https://github.com/livebook-dev/vega_lite
+648,kanta,192,17,192,5,28/09/2022,28/03/2025,2.40 MB,2461,User-friendly translations manager for Elixir/Phoenix projects.,Elixir,https://github.com/curiosum-dev/kanta
+649,elixir_make,192,46,192,0,14/05/2016,28/01/2025,173.00 KB,173,A Make compiler for Mix,Elixir,https://github.com/elixir-lang/elixir_make
+650,ex_elasticlunr,191,9,191,5,31/10/2021,06/07/2024,440.00 KB,440,"Elasticlunr is a small, full-text search library for use in the Elixir environment. It indexes JSON documents and provides a friendly search interface to retrieve documents.",Elixir,https://github.com/heywhy/ex_elasticlunr
+651,geolix,191,18,191,4,13/10/2013,29/08/2023,800.00 KB,800,IP information lookup provider,Elixir,https://github.com/elixir-geolix/geolix
+652,short_url,191,29,191,8,29/01/2018,10/12/2022,337.00 KB,337,🔗 short url app elixir Phoenix,Elixir,https://github.com/imfycc/short_url
+653,elixir_sense,191,11,191,14,06/07/2016,19/05/2020,227.00 KB,227,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",Elixir,https://github.com/msaraiva/elixir_sense
+654,ex_gram,190,28,190,18,07/01/2017,27/12/2024,584.00 KB,584,Telegram Bot API low level API and framework,Elixir,https://github.com/rockneurotiko/ex_gram
+655,littlechat,190,21,190,23,05/06/2020,06/01/2023,1.87 MB,1912,"A peer-to-peer video chat application made using Phoenix, LiveView, and WebRTC. Want to know how it's made? Read the blog post: https://littlelines.com/blog/2020/07/06/building-a-video-chat-app-in-phoenix-liveview",Elixir,https://github.com/littlelines/littlechat
+656,gearbox,190,11,190,4,16/09/2019,22/09/2024,40.00 KB,40,"⚙️ Gearbox is a functional state machine with an easy-to-use API, inspired by both Fsm and Machinery",Elixir,https://github.com/edisonywh/gearbox
+657,webauthn_components,190,12,190,17,27/07/2022,28/09/2024,139.00 KB,139,WebauthnComponents allows Phoenix developers to quickly add passwordless authentication to LiveView applications.,Elixir,https://github.com/liveshowy/webauthn_components
+658,phoenix-and-elm,190,25,190,2,15/08/2016,29/05/2017,187.00 KB,187,"Example application using Elixir, Phoenix and Elm",Elixir,https://github.com/bigardone/phoenix-and-elm
+659,AlchemyVM,189,5,189,10,13/12/2018,03/04/2019,553.00 KB,553,WebAssembly Virtual Machine Built In Elixir,Elixir,https://github.com/alexdovzhanyn/AlchemyVM
+660,beaver,189,9,189,6,20/04/2022,26/03/2025,1.49 MB,1523,MLIR Toolkit in Elixir and Zig.,Elixir,https://github.com/beaver-lodge/beaver
+661,operately,189,34,189,157,28/02/2023,28/03/2025,19.02 MB,19477,The open source startup operating system.,Elixir,https://github.com/operately/operately
+662,moba,189,15,189,3,15/02/2019,04/12/2024,28.88 MB,29577,A turn-based browser RPG built with Phoenix LiveView,Elixir,https://github.com/pedromtavares/moba
+663,heex_formatter,189,8,189,0,19/01/2022,02/03/2022,470.00 KB,470,Formatter for Phoenix Live View templates.,Elixir,https://github.com/feliperenan/heex_formatter
+664,rustler_precompiled,189,29,189,12,31/01/2022,11/03/2025,7.16 MB,7331,Use precompiled NIFs from trusted sources in your Elixir code,Elixir,https://github.com/philss/rustler_precompiled
+665,Numerix,189,17,189,3,27/04/2016,30/05/2021,144.00 KB,144,"A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning",Elixir,https://github.com/safwank/Numerix
+666,vix,188,20,188,6,07/11/2020,11/01/2025,1.13 MB,1154,Elixir extension for libvips,Elixir,https://github.com/akash-akya/vix
+667,captain-fact-api,188,25,188,29,22/08/2018,22/03/2025,4.26 MB,4362,🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io,Elixir,https://github.com/CaptainFact/captain-fact-api
+668,pelemay,187,13,187,41,29/08/2019,15/02/2021,420.00 KB,420,"Pelemay is a native compiler for Elixir, which generates SIMD instructions. It has a plan to generate for GPU code.",Elixir,https://github.com/zeam-vm/pelemay
+669,elixir_poolboy_example,187,18,187,1,08/05/2015,06/06/2017,16.00 KB,16,An example and brief explanation on how to use Poolboy to manage and pool workers in Elixir,Elixir,https://github.com/thestonefox/elixir_poolboy_example
+670,glific,186,75,186,59,01/06/2020,28/03/2025,17.65 MB,18074,The Main application that provides the core interface via the glific APIs,Elixir,https://github.com/glific/glific
+671,doctor,184,15,184,12,27/09/2018,30/10/2024,138.00 KB,138,Ensure that your Elixir project documentation is healthy,Elixir,https://github.com/akoutmos/doctor
+672,optimus,184,14,184,2,22/11/2016,19/06/2023,316.00 KB,316,Command line arguments parser for Elixir,Elixir,https://github.com/funbox/optimus
+673,mix_gleam,184,20,184,6,29/05/2020,12/02/2024,65.00 KB,65,⚗️ Build Gleam code with mix,Elixir,https://github.com/gleam-lang/mix_gleam
+674,policy_wonk,183,13,183,1,27/07/2016,13/12/2018,160.00 KB,160,Elixir authorization and resource loading in Plug form for Phoenix,Elixir,https://github.com/boydm/policy_wonk
+675,honeybadger-elixir,183,56,183,21,11/06/2015,27/03/2025,987.00 KB,987,Elixir client for Honeybadger.,Elixir,https://github.com/honeybadger-io/honeybadger-elixir
+676,export,182,28,182,6,24/03/2016,01/10/2021,98.00 KB,98,Erlport wrapper for Elixir,Elixir,https://github.com/fazibear/export
+677,absinthe_relay,182,89,182,25,31/12/2015,14/01/2025,416.00 KB,416,Absinthe support for the Relay framework,Elixir,https://github.com/absinthe-graphql/absinthe_relay
+678,kandesk,182,22,182,2,01/09/2020,26/01/2022,1.80 MB,1842,Simple Kanban application written in elixir using phoenix liveview,Elixir,https://github.com/seb3s/kandesk
+679,ex_aws_s3,182,152,182,20,17/10/2017,07/03/2025,409.00 KB,409,,Elixir,https://github.com/ex-aws/ex_aws_s3
+680,linguist,181,23,181,6,23/06/2014,26/03/2025,207.00 KB,207,Elixir Internationalization library,Elixir,https://github.com/change/linguist
+681,gen_rmq,181,45,181,16,14/03/2018,25/05/2023,326.00 KB,326,Elixir AMQP consumer and publisher behaviours,Elixir,https://github.com/meltwater/gen_rmq
+682,xml_builder,181,42,181,1,16/07/2014,27/03/2025,130.00 KB,130,Elixir library for generating XML,Elixir,https://github.com/joshnuss/xml_builder
+683,elixir-runtime,181,14,181,8,24/08/2017,01/05/2024,264.00 KB,264,The community-supported runtime for Elixir on Google App Engine.,Elixir,https://github.com/GoogleCloudPlatform/elixir-runtime
+684,exprof,180,11,180,1,12/10/2013,17/12/2020,42.00 KB,42,A simple code profiler for Elixir using eprof.,Elixir,https://github.com/parroty/exprof
+685,commerce_billing,180,24,180,1,10/07/2014,16/11/2016,67.00 KB,67,A payment processing library for Elixir,Elixir,https://github.com/joshnuss/commerce_billing
+686,kalevala,179,10,179,8,06/02/2020,08/07/2024,1.40 MB,1437,A world builder's toolkit in Elixir,Elixir,https://github.com/oestrich/kalevala
+687,new-relixir,179,49,179,0,24/12/2015,12/10/2023,117.00 KB,117,New Relic tracking for Phoenix and Plug applications.,Elixir,https://github.com/TheRealReal/new-relixir
+688,serverless-redis-http,179,16,179,7,28/04/2022,23/07/2024,76.00 KB,76,HTTP-based Redis pooler. Access Redis from serverless without overloading connection limits!,Elixir,https://github.com/hiett/serverless-redis-http
+689,phoenix_pubsub_redis,179,68,179,10,21/05/2015,15/02/2025,108.00 KB,108,The Redis PubSub adapter for the Phoenix framework,Elixir,https://github.com/phoenixframework/phoenix_pubsub_redis
+690,seat_saver,179,18,179,0,22/09/2015,01/04/2016,149.00 KB,149,Phoenix and Elm combined!,Elixir,https://github.com/CultivateHQ/seat_saver
+691,sprint-poker,178,22,178,0,31/07/2015,22/08/2017,645.00 KB,645,Online estimation tool for Agile teams.,Elixir,https://github.com/elpassion/sprint-poker
+692,premailex,177,20,177,3,01/10/2017,20/01/2025,211.00 KB,211,Preflight for your HTML emails - inline styling and plain text.,Elixir,https://github.com/danschultzer/premailex
+693,apartmentex,177,29,177,9,04/10/2015,04/08/2021,403.00 KB,403,SaaS support for Phoenix + Ecto,Elixir,https://github.com/Dania02525/apartmentex
+694,tempo,177,5,177,4,01/01/2021,19/09/2024,4.67 MB,4779,Date/Time library for Elixir based upon intervals not instants,Elixir,https://github.com/kipcole9/tempo
+695,expat,176,5,176,2,11/01/2017,14/08/2018,72.00 KB,72,"Reusable, composable patterns across Elixir libraries",Elixir,https://github.com/vic/expat
+696,opentelemetry-erlang-contrib,176,133,176,114,19/04/2021,27/03/2025,961.00 KB,961,OpenTelemetry instrumentation for Erlang & Elixir,Elixir,https://github.com/open-telemetry/opentelemetry-erlang-contrib
+697,lightning,175,47,175,442,01/02/2022,28/03/2025,327.97 MB,335837,OpenFn/Lightning ⚡️ is the newest version of the OpenFn DPG and provides a web UI to visually manage complex workflow automation projects.,Elixir,https://github.com/OpenFn/lightning
+698,immortal,175,7,175,1,16/04/2015,13/02/2021,29.00 KB,29,Helper modules for OTP applications,Elixir,https://github.com/danielberkompas/immortal
+699,exgboost,175,8,175,7,17/04/2023,08/06/2024,401.00 KB,401,Elixir bindings to the XGBoost C API (https://xgboost.readthedocs.io/en/stable/c.html) using Native Implemented Functions (NIFs),Elixir,https://github.com/acalejos/exgboost
+700,banchan,174,30,174,105,20/06/2021,22/04/2024,26.66 MB,27296,The Co-Operative Commissions Platform,Elixir,https://github.com/BanchanArt/banchan
+701,redex,174,9,174,1,15/03/2019,27/04/2021,113.00 KB,113,Cloud-native Redis server implemented in Elixir,Elixir,https://github.com/coosto/redex
+702,Orion,174,4,174,4,31/10/2021,28/03/2025,1.01 MB,1033,Distributed Dynamic Profiling for the BEAM,Elixir,https://github.com/LivewareProblems/Orion
+703,yaml-elixir,174,34,174,0,29/07/2015,27/06/2024,271.00 KB,271,Yaml parser for Elixir based on native Erlang implementation,Elixir,https://github.com/KamilLelonek/yaml-elixir
+704,elixir-on-docker,173,10,173,17,29/10/2017,11/10/2019,83.00 KB,83,Quickly get started developing clustered Elixir applications for cloud environments.,Elixir,https://github.com/CrowdHailer/elixir-on-docker
+705,phoenix-toggl,173,17,173,3,24/02/2016,24/09/2016,168.00 KB,168,"Toggl tribute done with Elixir, Phoenix Framework, React and Redux.",Elixir,https://github.com/bigardone/phoenix-toggl
+706,regulator,171,8,171,0,07/05/2020,29/11/2023,79.00 KB,79,Adaptive concurrency limits for elixir,Elixir,https://github.com/elixir-toniq/regulator
+707,fsmx,171,19,171,5,24/06/2020,08/09/2023,67.00 KB,67,"A Finite-state machine implementation in Elixir, with opt-in Ecto friendliness",Elixir,https://github.com/subvisual/fsmx
+708,inquisitor,170,13,170,2,03/02/2016,04/07/2020,50.00 KB,50,Composable query builder for Ecto,Elixir,https://github.com/DockYard/inquisitor
+709,Elixir-Refactorings,169,3,169,4,03/02/2023,06/02/2025,1.42 MB,1452,Catalog of Elixir Refactorings,Elixir,https://github.com/lucasvegi/Elixir-Refactorings
+710,ueberauth_google,169,84,169,9,17/11/2015,22/02/2024,103.00 KB,103,Google OAuth2 Strategy for Überauth.,Elixir,https://github.com/ueberauth/ueberauth_google
+711,sync,169,7,169,0,08/08/2024,30/08/2024,10.56 MB,10812,An Elixir/Phoenix node that runs PostgreSQL Replication to automatically synchronize data to clients,Elixir,https://github.com/josevalim/sync
+712,pgvector-elixir,169,5,169,0,04/08/2022,07/03/2025,105.00 KB,105,pgvector support for Elixir,Elixir,https://github.com/pgvector/pgvector-elixir
+713,slipstream,168,19,168,1,22/01/2021,04/02/2025,484.00 KB,484,A slick WebSocket client for Phoenix Channels,Elixir,https://github.com/NFIBrokerage/slipstream
+714,boombox,168,4,168,13,30/01/2024,28/03/2025,14.24 MB,14581,Boombox is a simple streaming tool built on top of Membrane,Elixir,https://github.com/membraneframework/boombox
+715,exsync,167,27,167,1,03/11/2014,14/07/2024,82.00 KB,82,Yet another elixir reloader.,Elixir,https://github.com/falood/exsync
+716,realworld,167,24,167,0,06/02/2023,30/08/2024,285.00 KB,285,A fullstack Phoenix LiveView application with backend built with Ash Framework,Elixir,https://github.com/team-alembic/realworld
+717,ecto_fixtures,167,14,167,15,24/08/2015,10/04/2020,153.00 KB,153,Fixtures for Elixir apps,Elixir,https://github.com/DockYard/ecto_fixtures
+718,ortex,167,17,167,5,10/05/2023,19/11/2024,114.00 KB,114,ONNX Runtime bindings for Elixir,Elixir,https://github.com/elixir-nx/ortex
+719,surface_catalogue,167,27,167,15,11/12/2020,24/09/2024,1.96 MB,2012,An initial prototype of the Surface Catalogue,Elixir,https://github.com/surface-ui/surface_catalogue
+720,elixir_git_hooks,166,17,166,2,20/04/2018,07/03/2025,292.00 KB,292,🪝 Add git hooks to Elixir projects,Elixir,https://github.com/qgadrian/elixir_git_hooks
+721,veil,166,15,166,3,10/02/2018,16/02/2020,67.00 KB,67,Simple passwordless authentication for your Phoenix apps,Elixir,https://github.com/zanderxyz/veil
+722,automata,165,13,165,22,04/02/2020,19/05/2021,17.40 MB,17819,A comprehensive autonomous decentralized systems framework for AI control architects.,Elixir,https://github.com/upstarter/automata
+723,castore,164,20,164,0,15/11/2018,25/02/2025,436.00 KB,436,Up-to-date certificate store for Elixir. 🔐,Elixir,https://github.com/elixir-mint/castore
+724,timex_ecto,164,69,164,11,25/06/2015,24/12/2021,106.00 KB,106,An adapter for using Timex DateTimes with Ecto,Elixir,https://github.com/bitwalker/timex_ecto
+725,talon,164,9,164,47,16/05/2017,09/11/2018,6.73 MB,6892,An app builder framework for Phoenix,Elixir,https://github.com/talonframework/talon
+726,strobe-hub,164,12,164,10,14/02/2017,06/12/2022,13.76 MB,14088,The server for the strobe audio system,Elixir,https://github.com/strobe-audio/strobe-hub
+727,basic_auth,164,27,164,4,11/08/2015,29/05/2020,143.00 KB,143,Elixir Plug to easily add HTTP basic authentication to an app,Elixir,https://github.com/paulanthonywilson/basic_auth
+728,scidata,163,12,163,3,16/04/2021,11/08/2023,88.00 KB,88,Download and normalize datasets related to science,Elixir,https://github.com/elixir-nx/scidata
+729,ecto_dbg,163,3,163,1,24/01/2023,24/10/2024,450.00 KB,450,A utility to format and output Ecto queries,Elixir,https://github.com/akoutmos/ecto_dbg
+730,exile,163,12,163,2,09/05/2020,04/01/2025,1.03 MB,1052,"Alternative to ports for running external programs. It provides back-pressure, non-blocking io, and solves port related issues",Elixir,https://github.com/akash-akya/exile
+731,phoenix_token_auth,163,37,163,14,11/03/2015,16/08/2016,144.00 KB,144,Token authentication solution for Phoenix. Useful for APIs for e.g. single page apps.,Elixir,https://github.com/manukall/phoenix_token_auth
+732,chartkick-ex,162,24,162,4,03/10/2015,27/07/2024,90.00 KB,90,Create beautiful Javascript charts with minimal code,Elixir,https://github.com/buren/chartkick-ex
+733,plexy,161,4,161,7,07/11/2016,15/08/2024,129.00 KB,129,A toolkit for building excellent APIs with Elixir,Elixir,https://github.com/heroku/plexy
+734,boruta-server,161,8,161,3,13/10/2022,27/03/2025,5.34 MB,5465,OpenID certified lightweight Identity and Access Management server,Elixir,https://github.com/malach-it/boruta-server
+735,dbg,161,10,161,4,12/04/2014,24/01/2018,52.00 KB,52,Tracing for Elixir,Elixir,https://github.com/fishcakez/dbg
+736,slugger,160,28,160,6,25/01/2015,04/10/2021,62.00 KB,62,A Slugger for elixir.,Elixir,https://github.com/h4cc/slugger
+737,pyscrapex,160,26,160,1,15/03/2016,16/03/2016,9.00 KB,9,,Elixir,https://github.com/piotrklibert/pyscrapex
+738,passport,160,37,160,7,24/04/2015,31/05/2017,152.00 KB,152,Provides authentication for phoenix application,Elixir,https://github.com/shankardevy/passport
+739,topo,160,25,160,2,25/04/2016,25/01/2025,4.24 MB,4338,A Geometry library for Elixir that calculates spatial relationships between two geometries,Elixir,https://github.com/pkinney/topo
+740,sshex,160,26,160,3,11/02/2015,04/10/2024,70.00 KB,70,"Simple SSH helpers for Elixir. SSH is useful, but we all love SSHEx !",Elixir,https://github.com/rubencaro/sshex
+741,mipha,160,23,160,12,29/06/2018,27/07/2021,1.02 MB,1049,Proj Elixir Forum build with phoenix 1.5.,Elixir,https://github.com/zven21/mipha
+742,Dayron,159,20,159,16,13/04/2016,10/10/2017,158.00 KB,158,"A repository `similar` to Ecto.Repo that maps to an underlying http client, sending requests to an external rest api instead of a database",Elixir,https://github.com/inaka/Dayron
+743,packmatic,159,14,159,9,27/08/2019,25/02/2024,158.00 KB,158,Zipping on the fly — Generate downloadable Zip streams by aggregating File or URL Sources,Elixir,https://github.com/evadne/packmatic
+744,petal_boilerplate,158,22,158,3,23/10/2021,27/03/2025,406.00 KB,406,Phoenix + Tailwind + Petal Components Boilerplate,Elixir,https://github.com/petalframework/petal_boilerplate
+745,grapevine,158,20,158,17,27/06/2018,14/09/2023,3.50 MB,3579,The MUD Chat Network,Elixir,https://github.com/oestrich/grapevine
+746,katbin,158,26,158,19,27/05/2020,17/03/2025,842.00 KB,842,"Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.",Elixir,https://github.com/SphericalKat/katbin
+747,incident,158,5,158,4,10/05/2019,17/04/2023,762.00 KB,762,Event Sourcing and CQRS library in Elixir,Elixir,https://github.com/pedroassumpcao/incident
+748,main_proxy,157,33,157,6,08/12/2018,23/02/2025,78.00 KB,78,,Elixir,https://github.com/Main-Proxy/main_proxy
+749,live_react,157,13,157,9,24/06/2024,17/03/2025,225.00 KB,225,✨ React inside Phoenix LiveView with seamless end-to-end reactivity,Elixir,https://github.com/mrdotb/live_react
+750,decompile,157,14,157,5,06/12/2017,04/02/2023,12.00 KB,12,,Elixir,https://github.com/michalmuskala/decompile
+751,phoenix_haml,157,42,157,10,03/08/2014,18/12/2019,48.00 KB,48,Phoenix Template Engine for Haml,Elixir,https://github.com/chrismccord/phoenix_haml
+752,elixir-debian,157,0,157,0,28/01/2020,19/05/2021,34.16 MB,34982,Debian packaging of Elixir,Elixir,https://github.com/norbusan/elixir-debian
+753,school_house,157,49,157,9,02/02/2021,19/01/2025,11.49 MB,11761,The new era of Elixir School now powered by @phoenixframework,Elixir,https://github.com/elixirschool/school_house
+754,openai_ex,157,21,157,2,08/04/2023,26/03/2025,807.00 KB,807,Community maintained Elixir library for OpenAI API,Elixir,https://github.com/cyberchitta/openai_ex
+755,mex,156,1,156,0,25/09/2015,02/02/2016,268.00 KB,268,"Readable, side-by-side macro-expansion display for Elixir's interactive shell.",Elixir,https://github.com/mrluc/mex
+756,async_with,156,4,156,2,17/08/2017,10/04/2023,157.00 KB,157,"The asynchronous version of Elixir's ""with"", resolving the dependency graph and executing the clauses in the most performant way possible!",Elixir,https://github.com/fertapric/async_with
+757,tty2048,156,20,156,0,25/05/2014,16/06/2016,103.00 KB,103,Terminal-based 2048 game written in Elixir,Elixir,https://github.com/lexmag/tty2048
+758,kaffe,156,62,156,31,17/10/2016,22/10/2024,195.00 KB,195,"An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.",Elixir,https://github.com/spreedly/kaffe
+759,potion_shop,156,29,156,4,18/03/2023,15/04/2024,245.00 KB,245,A vulnerable Elixir and Phoenix application for learning web security ,Elixir,https://github.com/securityelixir/potion_shop
+760,ex_crypto,156,51,156,11,23/10/2015,26/06/2024,192.00 KB,192,Wrapper around the Erlang crypto module for Elixir.,Elixir,https://github.com/ntrepid8/ex_crypto
+761,pika,156,12,156,6,11/04/2022,23/07/2024,177.00 KB,177,"🆔 The friendly, pragmatic and functional ID system",Elixir,https://github.com/Phineas/pika
+762,deque,155,18,155,4,15/02/2017,31/05/2023,12.00 KB,12,Fast bounded deque using two rotating lists.,Elixir,https://github.com/discord/deque
+763,tz,155,11,155,2,15/02/2020,09/09/2024,439.00 KB,439,Time zone support for Elixir,Elixir,https://github.com/mathieuprog/tz
+764,exq_ui,155,75,155,14,20/12/2015,03/03/2025,3.06 MB,3136,"UI Dashboard for Exq, a job processing library for Elixir.  Exq UI provides the UI dashboard to display stats on job processing.",Elixir,https://github.com/akira/exq_ui
+765,exirc,155,37,155,8,05/12/2013,28/07/2024,283.00 KB,283,IRC client adapter for Elixir projects,Elixir,https://github.com/bitwalker/exirc
+766,countries,154,64,154,12,01/02/2015,10/08/2024,2.43 MB,2490,Collection of Country Information for Elixir.,Elixir,https://github.com/SebastianSzturo/countries
+767,sshkit.ex,154,14,154,13,26/01/2017,11/01/2023,330.00 KB,330,"An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.",Elixir,https://github.com/bitcrowd/sshkit.ex
+768,tower,153,5,153,4,04/06/2024,25/03/2025,410.00 KB,410,🏰 Vendor-Agnostic Error Tracking and Reporting in Elixir,Elixir,https://github.com/mimiquate/tower
+769,geocalc,153,21,153,1,06/10/2015,14/10/2022,229.00 KB,229,Geographic calculations for Elixir,Elixir,https://github.com/yltsrc/geocalc
+770,elixir_cli_spinners,153,13,153,0,10/02/2017,26/05/2021,250.00 KB,250,Spinnig Animations for Command Line Applications ,Elixir,https://github.com/blackode/elixir_cli_spinners
+771,ecto_dev_logger,153,18,153,1,06/04/2022,13/11/2024,636.00 KB,636,An alternative logger for Ecto queries,Elixir,https://github.com/fuelen/ecto_dev_logger
+772,stemmer,152,10,152,0,18/07/2016,14/01/2024,204.00 KB,204,An English (Porter2) stemming implementation in Elixir.,Elixir,https://github.com/fredwu/stemmer
+773,execjs,152,22,152,7,01/11/2013,13/08/2018,49.00 KB,49,Run JavaScript code from Elixir,Elixir,https://github.com/devinus/execjs
+774,alchemy,152,34,152,26,04/02/2017,01/05/2023,581.00 KB,581,A discord library for Elixir,Elixir,https://github.com/cronokirby/alchemy
+775,exw3,152,45,152,27,03/04/2018,21/11/2023,549.00 KB,549,High level Ethereum RPC Client for Elixir,Elixir,https://github.com/hswick/exw3
+776,exjsx,151,37,151,4,29/05/2013,16/01/2019,146.00 KB,146,json for elixir,Elixir,https://github.com/talentdeficit/exjsx
+777,ecto_autoslug_field,151,15,151,2,20/07/2016,07/03/2025,297.00 KB,297,Automatically create slugs for Ecto schemas.,Elixir,https://github.com/wemake-services/ecto_autoslug_field
+778,peach,151,14,151,0,16/03/2016,28/09/2018,889.00 KB,889,An experimental ecommerce thing for Elixir,Elixir,https://github.com/robconery/peach
+779,dune,151,5,151,1,19/09/2021,21/12/2024,130.00 KB,130,A sandbox for Elixir to safely evaluate untrusted code from user input,Elixir,https://github.com/functional-rewire/dune
+780,oauth2_example,150,37,150,1,13/11/2014,20/11/2018,104.00 KB,104,Authenticate with GitHub via OAuth2,Elixir,https://github.com/scrogson/oauth2_example
+781,rummage_phoenix,150,37,150,10,16/02/2017,08/07/2022,2.58 MB,2643,"Full Phoenix Support for Rummage. It can be used for searching, sorting and paginating collections in phoenix.",Elixir,https://github.com/annkissam/rummage_phoenix
+782,telegex,149,15,149,6,19/06/2020,05/11/2024,689.00 KB,689,Telegram bot framework and API client written in Elixir,Elixir,https://github.com/telegex/telegex
+783,genex,149,13,149,2,03/08/2019,24/02/2024,7.00 MB,7165,Genetic Algorithms in Elixir!,Elixir,https://github.com/seanmor5/genex
+784,playwright-elixir,149,27,149,29,03/05/2021,16/12/2024,44.44 MB,45509,An Elixir library for Playwright web automation,Elixir,https://github.com/mechanical-orchard/playwright-elixir
+785,ash_postgres,149,91,149,29,07/10/2019,28/03/2025,2.99 MB,3066,The PostgreSQL data layer for Ash Framework,Elixir,https://github.com/ash-project/ash_postgres
+786,remix,149,29,149,14,17/12/2014,21/08/2018,15.00 KB,15,Automatic recompilation of mix code on file change.,Elixir,https://github.com/AgilionApps/remix
+787,faker-elixir,148,6,148,0,15/08/2016,22/05/2022,229.00 KB,229,[unmaintained] FakerElixir generates fake data for you. ,Elixir,https://github.com/GesJeremie/faker-elixir
+788,aino,148,0,148,0,29/08/2021,22/08/2024,125.00 KB,125,An HTTP framework built on top of elli,Elixir,https://github.com/oestrich/aino
+789,calecto,148,21,148,5,02/03/2015,27/01/2021,154.00 KB,154,Adapter for the Calendar library in Ecto,Elixir,https://github.com/lau/calecto
+790,ultimate-elixir-ci,148,11,148,3,12/03/2022,27/01/2025,57.00 KB,57,A sample Elixir project with a robust GitHub Actions CI,Elixir,https://github.com/felt/ultimate-elixir-ci
+791,cabbage,147,34,147,18,28/12/2016,14/03/2025,233.00 KB,233,Story BDD tool for executing elixir in ExUnit,Elixir,https://github.com/cabbage-ex/cabbage
+792,elixir-telegram-bot-boilerplate,147,18,147,3,18/11/2016,06/07/2021,38.00 KB,38,A boilerplate for making telegram bots with Elixir and Nadia,Elixir,https://github.com/lubien/elixir-telegram-bot-boilerplate
+793,external_service,147,12,147,5,02/08/2017,04/01/2024,110.00 KB,110,Elixir library for safely using any external service or API using automatic retry with rate limiting and circuit breakers.,Elixir,https://github.com/jvoegele/external_service
+794,elixir-tensor,147,10,147,7,03/07/2016,22/11/2022,124.00 KB,124,"The Tensor library adds support for Vectors, Matrixes and higher-dimension Tensors to Elixir.",Elixir,https://github.com/Qqwy/elixir-tensor
+795,elixir-reverse-proxy,147,34,147,11,09/08/2015,03/08/2017,39.00 KB,39,"A Plug based, reverse proxy server written in Elixir.",Elixir,https://github.com/slogsdon/elixir-reverse-proxy
+796,spotify_ex,147,41,147,2,01/12/2015,25/07/2023,337.00 KB,337,Elixir wrapper for the Spotify Web API,Elixir,https://github.com/jsncmgs1/spotify_ex
+797,spark,147,29,147,12,12/08/2022,27/03/2025,1.44 MB,1477,Tooling for building DSLs in Elixir,Elixir,https://github.com/ash-project/spark
+798,elixir_poster,146,7,146,2,30/01/2017,27/02/2017,14.00 KB,14,,Elixir,https://github.com/pcorey/elixir_poster
+799,sh,146,9,146,2,22/02/2014,27/06/2024,21.00 KB,21,Run programs as functions in Elixir,Elixir,https://github.com/devinus/sh
+800,quenya,146,14,146,1,26/11/2020,17/12/2020,6.47 MB,6628,Quenya is a framework to build high-quality REST API applications based on extended OpenAPI spec,Elixir,https://github.com/tyrchen/quenya
+801,assertions,145,32,145,10,30/11/2018,24/10/2024,97.00 KB,97,Helpful assertions for ExUnit,Elixir,https://github.com/devonestes/assertions
+802,ex_platform,144,18,144,5,14/05/2021,26/03/2025,4.34 MB,4447,A battery-included 🔋 Phoenix boilerplate,Elixir,https://github.com/alex-min/ex_platform
+803,json_web_token_ex,144,50,144,11,27/07/2015,06/10/2021,62.00 KB,62,"An Elixir implementation of the JSON Web Token (JWT) Standard, RFC 7519",Elixir,https://github.com/garyf/json_web_token_ex
+804,langchain_demo,144,17,144,2,05/10/2023,16/02/2025,878.00 KB,878,Demo web project using the Elixir LangChain library,Elixir,https://github.com/brainlid/langchain_demo
+805,workflows,144,5,144,2,29/03/2021,19/04/2021,107.00 KB,107,,Elixir,https://github.com/supabase/workflows
+806,ayesql,144,14,144,5,15/09/2018,08/11/2024,146.00 KB,146,Library for using raw SQL in Elixir,Elixir,https://github.com/alexdesousa/ayesql
+807,ecto-ulid,142,36,142,5,04/06/2018,17/12/2022,17.00 KB,17,Ecto ULID,Elixir,https://github.com/TheRealReal/ecto-ulid
+808,rclex,142,13,142,19,03/12/2019,16/03/2025,9.12 MB,9343,Rclex: ROS 2 Client Library for Elixir,Elixir,https://github.com/rclex/rclex
+809,phoenix-liveview-chat-example,141,15,141,8,19/11/2021,10/03/2025,487.00 KB,487,"💬 Step-by-step tutorial creates a Chat App using Phoenix LiveView including Presence, Authentication and Style with Tailwind CSS",Elixir,https://github.com/dwyl/phoenix-liveview-chat-example
+810,remodel,141,17,141,4,17/02/2015,03/04/2019,13.00 KB,13,":necktie: An Elixir presenter package used to transform map structures.  ""ActiveModel::Serializer for Elixir""",Elixir,https://github.com/stavro/remodel
+811,skooma,141,14,141,9,09/12/2017,03/10/2022,43.00 KB,43,Elixir data validation library,Elixir,https://github.com/bobfp/skooma
+812,membrane_rtc_engine,140,14,140,1,01/07/2021,19/09/2024,101.60 MB,104039,Customizable Real-time Communication Engine/SFU library focused on WebRTC.,Elixir,https://github.com/fishjam-dev/membrane_rtc_engine
+813,adoptoposs,140,13,140,11,07/11/2019,24/03/2025,3.14 MB,3216,Finding co-maintainers for your open source software project.,Elixir,https://github.com/adoptoposs/adoptoposs
+814,writing_an_interpreter_in_elixir,140,11,140,0,23/01/2017,02/02/2023,53.00 KB,53,Elixir implementation of an interpreter for the Monkey programming language,Elixir,https://github.com/fabrik42/writing_an_interpreter_in_elixir
+815,registry,140,9,140,0,24/10/2016,05/11/2016,55.00 KB,55,"A local, decentralized and scalable key-value process storage - merged into Elixir v1.4",Elixir,https://github.com/elixir-lang/registry
+816,caes005-introduction-to-functional-programming,140,14,140,1,09/07/2019,14/03/2025,4.29 MB,4389,CAES005 - Introdução à Programação Funcional,Elixir,https://github.com/adolfont/caes005-introduction-to-functional-programming
+817,elixir-statistics,140,31,140,1,15/10/2013,05/01/2024,215.00 KB,215,Statistical functions and distributions for Elixir,Elixir,https://github.com/msharp/elixir-statistics
+818,kazan,139,35,139,18,30/12/2016,17/03/2023,844.00 KB,844,Kubernetes API client for Elixir,Elixir,https://github.com/obmarg/kazan
+819,labels,139,8,139,29,06/10/2016,24/03/2025,557.00 KB,557,🏷 Sync GitHub Labels from any Source to Target Repositories for Consistency across all your projects!,Elixir,https://github.com/dwyl/labels
+820,git_ops,139,24,139,15,04/10/2018,06/03/2025,227.00 KB,227,A tool for version and changelog management in Elixir via conventional commits.,Elixir,https://github.com/zachdaniel/git_ops
+821,espec_phoenix,138,33,138,8,26/04/2015,26/05/2022,410.00 KB,410,ESpec for Phoenix web framework.,Elixir,https://github.com/antonmi/espec_phoenix
+822,bamboo_smtp,138,104,138,12,01/05/2016,31/01/2024,307.00 KB,307,An SMTP adapter for Bamboo.,Elixir,https://github.com/fewlinesco/bamboo_smtp
+823,soap,138,77,138,19,21/12/2017,26/03/2025,1.79 MB,1829,SOAP client for Elixir programming language,Elixir,https://github.com/elixir-soap/soap
+824,neurlang,138,24,138,0,25/04/2013,25/01/2015,237.00 KB,237,Neural Network library in Elixir / Erlang ,Elixir,https://github.com/tleyden/neurlang
+825,facebook.ex,137,63,137,5,13/02/2014,18/01/2022,459.00 KB,459,Facebook Graph API Wrapper written in Elixir,Elixir,https://github.com/mweibel/facebook.ex
+826,phx_component_helpers,137,8,137,0,24/03/2021,28/08/2024,114.00 KB,114,"Extensible Phoenix liveview components, without boilerplate",Elixir,https://github.com/cblavier/phx_component_helpers
+827,auth,137,8,137,53,18/04/2015,24/03/2025,1.35 MB,1381,"🚪 🔐 UX-focussed Turnkey Authentication Solution for Web Apps/APIs (Documented, Tested & Maintained)",Elixir,https://github.com/dwyl/auth
+828,type_class,137,16,137,8,05/10/2016,16/06/2022,264.00 KB,264,(Semi-)principled type classes for Elixir,Elixir,https://github.com/witchcrafters/type_class
+829,distsys_training,137,50,137,0,19/02/2019,28/11/2019,12.08 MB,12371,Distributed Systems Training with Elixir,Elixir,https://github.com/keathley/distsys_training
+830,soul_of_erlang_and_elixir,136,11,136,1,03/12/2024,04/12/2024,73.00 KB,73,,Elixir,https://github.com/sasa1977/soul_of_erlang_and_elixir
+831,chaperon,136,19,136,4,21/02/2017,09/05/2024,578.00 KB,578,HTTP Service Performance & Load Testing Framework,Elixir,https://github.com/polleverywhere/chaperon
+832,boltun,135,13,135,2,17/01/2015,03/07/2018,18.00 KB,18,Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution,Elixir,https://github.com/bitgamma/boltun
+833,shouldi,135,15,135,5,27/10/2014,11/07/2016,73.00 KB,73,"Elixir testing libraries with nested contexts, superior readability, and ease of use",Elixir,https://github.com/batate/shouldi
+834,mozilla-hubs-installation-detailed,135,54,135,0,09/02/2022,01/09/2024,64.06 MB,65598,"Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc",Elixir,https://github.com/albirrkarim/mozilla-hubs-installation-detailed
+835,fun_with_flags_ui,135,30,135,7,15/04/2017,24/03/2025,3.07 MB,3142,Web dashboard for the FunWithFlags Elixir package,Elixir,https://github.com/tompave/fun_with_flags_ui
+836,McEx,135,13,135,2,31/07/2015,06/06/2016,4.82 MB,4934,Minecraft server written in Elixir,Elixir,https://github.com/McEx/McEx
+837,TimeTravel,135,0,135,6,06/12/2022,26/12/2022,53.00 KB,53,Phoenix LiveView TimeTravel Debugger,Elixir,https://github.com/JohnnyCurran/TimeTravel
+838,supabase-ex,135,6,135,6,03/09/2023,05/03/2025,2.09 MB,2142,A complete Toolkit to interact with Supabase APIs from Elixir,Elixir,https://github.com/supabase-community/supabase-ex
+839,elixir-wasm,134,3,134,0,13/06/2017,22/02/2019,400.00 KB,400,Encoding the WASM binary format.,Elixir,https://github.com/jamen/elixir-wasm
+840,hush,134,3,134,1,15/07/2020,26/12/2024,187.00 KB,187,Hush is a runtime configuration loader for Elixir applications,Elixir,https://github.com/gordalina/hush
+841,deployex,134,2,134,3,06/05/2024,27/03/2025,34.62 MB,35455,The ideal project to supervise your Elixir/Erlang/Gleam application,Elixir,https://github.com/thiagoesteves/deployex
+842,persistent_ets,134,8,134,2,02/03/2017,10/08/2021,51.00 KB,51,,Elixir,https://github.com/michalmuskala/persistent_ets
+843,ash_admin,134,53,134,7,16/03/2021,27/03/2025,3.28 MB,3355,"A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.",Elixir,https://github.com/ash-project/ash_admin
+844,twirp-elixir,134,26,134,17,29/10/2019,30/03/2023,333.00 KB,333,Elixir implementation of the twirp RPC framework,Elixir,https://github.com/keathley/twirp-elixir
+845,mnesiac,133,21,133,8,18/07/2018,08/06/2023,134.00 KB,134,Mnesia autoclustering made easy!,Elixir,https://github.com/beardedeagle/mnesiac
+846,phoenix_seo,133,9,133,0,25/09/2022,31/12/2024,3.42 MB,3504,SEO for Phoenix Apps,Elixir,https://github.com/dbernheisel/phoenix_seo
+847,Jsonrs,133,29,133,3,26/10/2019,20/12/2024,128.00 KB,128,Rust powered JSON library for Elixir,Elixir,https://github.com/benhaney/Jsonrs
+848,elixir-run,132,0,132,1,04/07/2021,05/07/2021,80.53 MB,82467,Erlang/OTP + Elixir + IEx + Mix in a single executable for Linux/macOS/Windows. Just run Elixir!,Elixir,https://github.com/wojtekmach/elixir-run
+849,samly,132,96,132,16,29/08/2017,26/02/2024,142.00 KB,142,Elixir Plug library to enable SAML 2.0 SP SSO in Phoenix/Plug applications.,Elixir,https://github.com/handnot2/samly
+850,plug_logger_json,132,32,132,5,31/05/2016,05/05/2021,89.00 KB,89,Elixir Plug that formats http request logs as json,Elixir,https://github.com/bleacherreport/plug_logger_json
+851,tanx,132,27,132,1,10/05/2016,05/04/2019,1.20 MB,1227,Tank game created by the Programming Elixir study group,Elixir,https://github.com/ElixirSeattle/tanx
+852,analytics-elixir,132,47,132,5,16/09/2015,18/04/2024,158.00 KB,158,Segment.com library for Elixir,Elixir,https://github.com/stueccles/analytics-elixir
+853,extreme,132,31,132,2,21/07/2015,15/11/2024,471.00 KB,471,Elixir Adapter for EventStore,Elixir,https://github.com/exponentially/extreme
+854,ex_unit_notifier,132,18,132,7,24/03/2016,13/08/2024,322.00 KB,322,Desktop notifications for ExUnit,Elixir,https://github.com/navinpeiris/ex_unit_notifier
+855,sveltex,131,12,131,2,23/01/2020,04/08/2021,24.00 KB,24,Elixir Phoenix + Svelte = ❤️,Elixir,https://github.com/virkillz/sveltex
+856,elixir-map_diff,131,11,131,3,17/12/2016,31/03/2023,48.00 KB,48,"Calculates the difference between two (nested) maps,  and returns a map representing the patch of changes.",Elixir,https://github.com/Qqwy/elixir-map_diff
+857,absinthe_ecto,131,36,131,5,17/11/2016,24/05/2019,30.00 KB,30,DEPRECATED: Use dataloader,Elixir,https://github.com/absinthe-graphql/absinthe_ecto
+858,mjml_nif,131,17,131,1,19/07/2020,24/03/2025,399.00 KB,399,Elixir NIF bindings for the MJML Rust implementation (mrml),Elixir,https://github.com/adoptoposs/mjml_nif
+859,croma,131,14,131,1,29/07/2015,09/02/2025,342.00 KB,342,Elixir macro utilities to make type-based programming easier,Elixir,https://github.com/skirino/croma
+860,mint_web_socket,131,14,131,1,07/05/2021,26/01/2025,4.02 MB,4117,HTTP/1 and HTTP/2 WebSocket support for Mint 🌱,Elixir,https://github.com/elixir-mint/mint_web_socket
+861,phoenix-react-redux-template,131,14,131,3,29/01/2016,23/03/2016,61.00 KB,61,"Application template for SPAs with Phoenix, React and Redux",Elixir,https://github.com/bigardone/phoenix-react-redux-template
+862,radiator,130,14,130,28,13/02/2019,26/03/2025,5.54 MB,5671,Podcast Hosting & Publishing | The spark ✨ that lights the fire 🔥,Elixir,https://github.com/podlove/radiator
+863,ua_inspector,130,24,130,8,19/12/2013,21/03/2025,1.87 MB,1917,User agent parser library,Elixir,https://github.com/elixir-inspector/ua_inspector
+864,mix_deploy,130,14,130,2,19/01/2019,11/07/2024,303.00 KB,303,"Library of mix tasks to deploy an Elixir release to servers (cloud instance or bare metal, automated deploy)",Elixir,https://github.com/cogini/mix_deploy
+865,anubis,130,5,130,3,17/09/2014,12/02/2018,17.00 KB,17,Command Line application framework for Elixir,Elixir,https://github.com/BennyHallett/anubis
+866,nova,130,11,130,3,25/08/2015,09/10/2015,425.00 KB,425,"An attempt to port/rebuild Spree, an open source e-commerce solution, with Elixir and Phoenix.",Elixir,https://github.com/andreapavoni/nova
+867,conduit,129,17,129,6,23/10/2016,07/12/2024,405.00 KB,405,"A message queue framework, with support for middleware and multiple adapters.",Elixir,https://github.com/conduitframework/conduit
+868,mazes,129,13,129,0,22/08/2020,31/08/2024,377.00 KB,377,A maze generator made with PhoenixLiveView.,Elixir,https://github.com/angelikatyborska/mazes
+869,pavlov,128,7,128,10,27/11/2014,04/02/2016,106.00 KB,106,A BDD framework for your Elixir projects,Elixir,https://github.com/sproutapp/pavlov
+870,artificery,128,18,128,5,21/03/2018,31/05/2021,1.12 MB,1142,A toolkit for creating terminal user interfaces in Elixir,Elixir,https://github.com/bitwalker/artificery
+871,states_language,128,10,128,1,04/12/2019,05/01/2025,198.00 KB,198,Declaratively design state machines that compile to Elixir based :gen_statem processes with the StatesLanguage JSON specification,Elixir,https://github.com/entropealabs/states_language
+872,tracer,127,5,127,1,21/08/2017,08/05/2019,187.00 KB,187,Elixir Tracing Framework,Elixir,https://github.com/gabiz/tracer
+873,geocoder,127,60,127,4,20/08/2015,01/03/2025,353.00 KB,353,An Elixir Geocoder/Reverse Geocoder,Elixir,https://github.com/CyrusNuevoDia/geocoder
+874,dispatch,127,5,127,1,29/08/2016,04/12/2020,57.00 KB,57,A distributed service registry built on top of phoenix_pubsub.,Elixir,https://github.com/VoiceLayer/dispatch
+875,scientist,126,8,126,3,08/04/2016,11/11/2023,50.00 KB,50,"An elixir library for refactoring code, a port of GitHub's scientist",Elixir,https://github.com/cwbriones/scientist
+876,aws-lambda-elixir-runtime,126,33,126,13,03/12/2018,04/08/2023,1.19 MB,1218,Example implementation of a custom runtime for running Elixir on AWS Lambda.,Elixir,https://github.com/aws-samples/aws-lambda-elixir-runtime
+877,crutches,126,33,126,4,26/06/2015,09/08/2018,330.00 KB,330,Some Elixir support,Elixir,https://github.com/mykewould/crutches
+878,scrivener_html,125,210,125,22,18/08/2015,06/06/2024,188.00 KB,188,HTML view helpers for Scrivener,Elixir,https://github.com/mgwidmann/scrivener_html
+879,liv,125,6,125,0,24/03/2021,09/05/2024,965.00 KB,965,Web mail of your own,Elixir,https://github.com/derek-zhou/liv
+880,introducing-elixir,125,30,125,9,03/05/2013,30/10/2024,419.00 KB,419,Example code from Introducing Elixir.,Elixir,https://github.com/simonstl/introducing-elixir
+881,open-api-generator,125,18,125,11,03/09/2022,28/03/2025,1.77 MB,1814,Open API code generator for Elixir,Elixir,https://github.com/aj-foster/open-api-generator
+882,livescript,125,0,125,1,24/07/2024,11/12/2024,630.00 KB,630,"1 part Phoenix Livereload, 1 part Livebook. All for .exs scripts",Elixir,https://github.com/thmsmlr/livescript
+883,plug_graphql,125,7,125,5,19/11/2015,08/01/2021,106.00 KB,106,Plug (Phoenix) integration for GraphQL Elixir ,Elixir,https://github.com/graphql-elixir/plug_graphql
+884,polo,124,4,124,1,28/04/2024,19/09/2024,387.00 KB,387,REST client for browsers.,Elixir,https://github.com/mssantos/polo
+885,elixir-security-advisories,124,3,124,0,09/08/2022,20/02/2025,84.00 KB,84,🛡 Public database of Elixir security advisories pulled from GitHub Advisory Database,Elixir,https://github.com/mirego/elixir-security-advisories
+886,slugify,124,10,124,4,22/06/2017,31/10/2021,619.00 KB,619,An Elixir library to convert strings in any language into slugs,Elixir,https://github.com/jayjun/slugify
+887,1app5stacks,123,36,123,20,27/10/2024,15/11/2024,516.00 KB,516,Theo built the same app 5 times because he's dumb,Elixir,https://github.com/t3dotgg/1app5stacks
+888,perhap,123,7,123,3,27/05/2017,04/11/2019,108.00 KB,108,Perhap is an purely functional event store and service framework inspired by domain driven design and reactive architectures.,Elixir,https://github.com/Perhap/perhap
+889,relax,122,13,122,0,29/11/2014,14/05/2016,99.00 KB,99,Simple Elixir implementation of a jsonapi.org server.,Elixir,https://github.com/AgilionApps/relax
+890,live_elements,122,6,122,2,04/03/2023,16/02/2025,98.00 KB,98,A library to make custom elements and LiveView so happy together,Elixir,https://github.com/launchscout/live_elements
+891,tailwind_formatter,122,13,122,14,24/07/2022,12/01/2025,333.00 KB,333,Sorts tailwind classes within elixir projects,Elixir,https://github.com/100phlecs/tailwind_formatter
+892,bling,122,11,122,7,24/05/2023,03/08/2024,208.00 KB,208,💰 Add recurring stripe subscriptions to phoenix applications,Elixir,https://github.com/ozziexsh/bling
+893,x509,121,32,121,16,26/06/2018,29/10/2024,322.00 KB,322,"Elixir package for working with X.509 certificates, Certificate Signing Requests (CSRs), Certificate Revocation Lists (CRLs) and RSA/ECC key pairs",Elixir,https://github.com/voltone/x509
+894,Exonerate,121,4,121,29,09/09/2019,11/03/2024,1.63 MB,1674,JSONSchema -> Elixir code generator,Elixir,https://github.com/E-xyza/Exonerate
+895,ash_phoenix,121,68,121,8,21/10/2020,27/03/2025,1.22 MB,1246,Utilities for integrating Ash and Phoenix,Elixir,https://github.com/ash-project/ash_phoenix
+896,highlander,121,10,121,1,23/04/2020,12/04/2024,18.00 KB,18,There can only be one (process in your cluster)!,Elixir,https://github.com/derekkraan/highlander
+897,github_ecto,121,12,121,1,08/02/2016,30/03/2017,96.00 KB,96,Ecto adapter for GitHub API,Elixir,https://github.com/wojtekmach/github_ecto
+898,timescale,121,11,121,9,19/08/2022,22/07/2023,95.00 KB,95,TimescaleDB made easy with Ecto,Elixir,https://github.com/davydog187/timescale
+899,geoip,121,19,121,7,03/09/2016,01/11/2023,311.00 KB,311,"Elixir library to find geo location information given an IP address, hostname or Plug.Conn",Elixir,https://github.com/navinpeiris/geoip
+900,eth,121,48,121,18,01/09/2017,17/10/2023,408.00 KB,408,Ethereum utilities for Elixir,Elixir,https://github.com/izelnakri/eth
+901,mix_generator,121,14,121,4,10/04/2017,03/09/2022,97.00 KB,97,Project generator for mix (an alternative to mix new),Elixir,https://github.com/pragdave/mix_generator
+902,elixir-microservice-architecture,121,11,121,0,28/06/2017,03/11/2018,129.00 KB,129,"A sketch of a microservice architecture in Elixir, using clustered VMs, docker-compose, Redis, HAProxy",Elixir,https://github.com/mattvonrocketstein/elixir-microservice-architecture
+903,testcontainers-elixir,121,18,121,12,10/10/2023,17/03/2025,930.00 KB,930,"Testcontainers is an Elixir library that supports ExUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",Elixir,https://github.com/testcontainers/testcontainers-elixir
+904,paasaa,120,12,120,5,31/08/2016,10/03/2025,959.00 KB,959,🔤 Natural language detection for Elixir without AI,Elixir,https://github.com/minibikini/paasaa
+905,scenic_new,120,31,120,6,27/08/2018,30/11/2024,394.00 KB,394,mix scenic.new task for Scenic apps,Elixir,https://github.com/ScenicFramework/scenic_new
+906,sqlitex,120,34,120,5,25/01/2015,18/03/2021,259.00 KB,259,An Elixir wrapper around esqlite. Allows access to sqlite3 databases.,Elixir,https://github.com/elixir-sqlite/sqlitex
+907,elixir-webdriver,120,32,120,9,12/07/2013,03/03/2020,13.96 MB,14294,WebDriver client for Elixir.,Elixir,https://github.com/stuart/elixir-webdriver
+908,doorman,120,12,120,2,11/06/2016,11/04/2022,62.00 KB,62,"Tools to make Plug, and Phoenix authentication simple and flexible.",Elixir,https://github.com/BlakeWilliams/doorman
+909,exsamples,120,8,120,2,16/10/2015,21/10/2022,32.00 KB,32,"Initializes lists of maps, structs or keyword lists using tabular data in Elixir",Elixir,https://github.com/msaraiva/exsamples
+910,heroicons_elixir,120,30,120,2,03/03/2021,04/03/2025,1.84 MB,1882,Phoenix components for Heroicons! 🛡️,Elixir,https://github.com/mveytsman/heroicons_elixir
+911,yummy-phoenix-graphql,120,21,120,0,29/08/2017,14/10/2018,976.00 KB,976,"Cooking recipe sharing app built with Phoenix, React, GraphQL and Kubernetes",Elixir,https://github.com/MatthieuSegret/yummy-phoenix-graphql
+912,workbench,120,21,120,27,28/12/2019,06/03/2023,12.54 MB,12841,From Idea to Execution - Manage your trading operation across a distributed cluster,Elixir,https://github.com/fremantle-industries/workbench
+913,exdgraph,120,10,120,6,22/02/2018,22/10/2020,4.06 MB,4156,gRPC based Elixir Dgraph client. Under development.,Elixir,https://github.com/ospaarmann/exdgraph
+914,ash_authentication,119,74,119,29,27/09/2022,27/03/2025,2.18 MB,2237,The Ash Authentication framework,Elixir,https://github.com/team-alembic/ash_authentication
+915,sqlite_ecto2,119,32,119,7,24/12/2016,18/03/2021,698.00 KB,698,Sqlite3 adapter for Ecto 2.2.x,Elixir,https://github.com/elixir-sqlite/sqlite_ecto2
+916,ElixrGettingStartedChinese,119,18,119,0,05/08/2016,26/10/2017,61.00 KB,61,Elixir官网的入门教程中文翻译 Elixir Getting Started Chinese Version,Elixir,https://github.com/Ljzn/ElixrGettingStartedChinese
+917,exrun,119,6,119,2,30/06/2014,07/07/2022,50.00 KB,50,Runtime and debugging tools for elixir,Elixir,https://github.com/liveforeverx/exrun
+918,waffle_ecto,119,37,119,15,25/08/2019,21/03/2025,141.00 KB,141,Waffle.Ecto provides an integration with Waffle and Ecto,Elixir,https://github.com/elixir-waffle/waffle_ecto
+919,mango,119,24,119,0,24/06/2017,17/06/2021,848.00 KB,848,Ecommerce site that you will build while learning Mastering Phoenix Framework,Elixir,https://github.com/shankardevy/mango
+920,live_data,118,2,118,15,08/05/2021,27/04/2024,310.00 KB,310,,Elixir,https://github.com/hansihe/live_data
+921,MongooseICE,118,15,118,7,19/01/2017,02/09/2019,263.00 KB,263,STUN/TURN server written in Elixir,Elixir,https://github.com/esl/MongooseICE
+922,ecto_soft_delete,118,29,118,17,30/09/2016,07/03/2025,148.00 KB,148,Soft Deletion for Ecto,Elixir,https://github.com/revelrylabs/ecto_soft_delete
+923,imagineer,118,16,118,7,13/10/2014,09/11/2018,987.00 KB,987,Image processing in Elixir,Elixir,https://github.com/tyre/imagineer
+924,sql_dust,118,14,118,9,28/01/2016,21/09/2021,189.00 KB,189,Easy. Simple. Powerful. Generate (complex) SQL queries using magical Elixir SQL dust.,Elixir,https://github.com/bettyblocks/sql_dust
+925,maestro,117,4,117,6,12/10/2017,22/07/2021,173.00 KB,173,an event store + cqrs,Elixir,https://github.com/elixir-toniq/maestro
+926,pardall_markdown,117,8,117,18,30/08/2021,03/05/2024,1.72 MB,1759,"Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding. Written in Elixir.",Elixir,https://github.com/alfredbaudisch/pardall_markdown
+927,tds,117,78,117,13,02/02/2015,10/03/2025,1.24 MB,1268,TDS Driver for Elixir,Elixir,https://github.com/elixir-ecto/tds
+928,elixir-dns,116,38,116,19,30/01/2016,20/05/2023,94.00 KB,94,DNS library for Elixir,Elixir,https://github.com/tungd/elixir-dns
+929,elixir_react_render,116,13,116,5,03/05/2018,02/08/2021,128.00 KB,128,React SSR Framework for Elixir,Elixir,https://github.com/revelrylabs/elixir_react_render
+930,bunt,116,18,116,1,05/11/2015,06/12/2023,292.00 KB,292,256 color ANSI coloring in Elixir CLIs,Elixir,https://github.com/rrrene/bunt
+931,finitomata,116,9,116,5,29/03/2022,20/01/2025,994.00 KB,994,FSM implementation generated from Mermaid/PlantUML textual representation,Elixir,https://github.com/am-kantox/finitomata
+932,fast_rss,116,20,116,4,20/02/2020,06/07/2024,3.17 MB,3246,"Fast Elixir RSS feed parser, a NIF wrapper around the Rust RSS crate",Elixir,https://github.com/avencera/fast_rss
+933,exzmq,116,23,116,2,25/03/2014,15/10/2017,90.00 KB,90,ZeroMQ for Elixir,Elixir,https://github.com/zeromq/exzmq
+934,vox,116,4,116,19,10/08/2023,17/09/2023,108.00 KB,108,The static site builder for Elixir lovers,Elixir,https://github.com/geolessel/vox
+935,evm,116,19,116,0,02/08/2017,25/08/2018,311.00 KB,311,"Ethereum's Virtual Machine, in all its glory",Elixir,https://github.com/exthereum/evm
+936,rdf-ex,116,8,116,0,24/06/2017,21/03/2025,2.16 MB,2213,An implementation of RDF for Elixir,Elixir,https://github.com/rdf-elixir/rdf-ex
+937,mneme,115,6,115,26,19/01/2023,16/02/2025,12.79 MB,13099,Snapshot testing for Elixir,Elixir,https://github.com/zachallaun/mneme
+938,permit,115,0,115,7,26/06/2022,20/03/2025,283.00 KB,283,"An uniform authorization library for Elixir. Supports Plug and Phoenix LiveView, aims for much more.",Elixir,https://github.com/curiosum-dev/permit
+939,bitfeed,115,28,115,15,02/12/2021,09/06/2024,37.24 MB,38130,,Elixir,https://github.com/bitfeed-project/bitfeed
+940,tarams,115,12,115,3,07/07/2020,27/02/2024,111.00 KB,111,Cast and validate external data and request parameters for Elixir and Phoenix,Elixir,https://github.com/bluzky/tarams
+941,nx_signal,115,7,115,1,02/06/2022,05/03/2025,1.52 MB,1554,DSP with Elixir Nx,Elixir,https://github.com/elixir-nx/nx_signal
+942,absinthe_error_payload,115,26,115,14,29/04/2019,23/09/2024,103.00 KB,103,Bridges the gap between Ecto and Absinthe for mutation payload,Elixir,https://github.com/mirego/absinthe_error_payload
+943,hulaaki,114,22,114,0,15/03/2015,21/06/2020,249.00 KB,249,DEPRECATED : An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).,Elixir,https://github.com/suvash/hulaaki
+944,rethinkdb_ecto,114,18,114,4,02/02/2016,09/08/2018,112.00 KB,112,RethinkDB adapter for Ecto.,Elixir,https://github.com/almightycouch/rethinkdb_ecto
+945,eml,114,14,114,4,04/01/2014,01/03/2024,315.00 KB,315,Library for writing and manipulating (html) markup in Elixir.,Elixir,https://github.com/zambal/eml
+946,api,114,21,114,30,16/01/2019,28/03/2025,28.36 MB,29042,V3 MBTA API,Elixir,https://github.com/mbta/api
+947,neural_network_elixir,114,22,114,1,20/02/2016,11/02/2020,269.00 KB,269,Neural network written in Elixir,Elixir,https://github.com/kblake/neural_network_elixir
+948,apollo-tracing-elixir,114,8,114,3,01/08/2017,30/08/2020,35.00 KB,35,Apollo Tracing middleware for Absinthe,Elixir,https://github.com/sikanhe/apollo-tracing-elixir
+949,ex_state,113,4,113,0,11/03/2020,27/05/2020,131.00 KB,131,Database-backed state machines and statecharts for Elixir,Elixir,https://github.com/8thlight/ex_state
+950,alice,113,19,113,22,05/02/2016,15/09/2021,8.87 MB,9078,A Slack bot framework for Elixir; down the rabbit hole!,Elixir,https://github.com/alice-bot/alice
+951,deep_merge,113,5,113,1,20/10/2016,10/12/2023,88.00 KB,88,"Deep (recursive) merge for maps, keywords and others in Elixir",Elixir,https://github.com/PragTob/deep_merge
+952,recaptcha,113,58,113,12,26/08/2015,02/02/2023,65.00 KB,65,A simple reCaptcha 2 library for Elixir applications.,Elixir,https://github.com/samueljseay/recaptcha
+953,ja_resource,113,33,113,11,04/01/2016,24/01/2020,117.00 KB,117,A behaviour to reduce boilerplate code in your JSON-API compliant Phoenix controllers without sacrificing flexibility.,Elixir,https://github.com/vt-elixir/ja_resource
+954,phoenix-webrtc,113,11,113,2,14/09/2015,28/10/2015,172.00 KB,172,Enable video chat in a Phoenix application,Elixir,https://github.com/chadbrading-zz/phoenix-webrtc
+955,betterdev.link,113,13,113,9,03/06/2017,04/03/2025,2.36 MB,2414,Links to improve programing skill,Elixir,https://github.com/yeo/betterdev.link
+956,ecto_rut,113,3,113,1,24/09/2016,16/08/2018,79.00 KB,79,Ecto Model shortcuts to make your life easier! :tada:,Elixir,https://github.com/sheharyarn/ecto_rut
+957,codepagex,113,21,113,2,05/08/2015,22/05/2024,3.21 MB,3288,Elixir string encoding conversion - like iconv but pure Elixir,Elixir,https://github.com/tallakt/codepagex
+958,pxblog,112,9,112,1,05/10/2015,02/06/2017,2.60 MB,2663,Phoenix Blog Engine from my tutorial,Elixir,https://github.com/Diamond/pxblog
+959,bloomex,112,8,112,0,19/10/2014,08/06/2021,90.00 KB,90,:hibiscus: A pure Elixir implementation of Scalable Bloom Filters,Elixir,https://github.com/gmcabrita/bloomex
+960,flame_k8s_backend,112,7,112,1,09/12/2023,06/03/2025,170.00 KB,170,A FLAME Backend for Kubernetes. ,Elixir,https://github.com/mruoss/flame_k8s_backend
+961,ravenx,111,8,111,4,11/11/2016,17/02/2018,114.00 KB,114,Notification dispatch library for Elixir applications,Elixir,https://github.com/acutario/ravenx
+962,elixir-hl7,111,23,111,16,22/05/2018,14/02/2025,782.00 KB,782,An Elixir library for working with HL7 v2.x healthcare data ,Elixir,https://github.com/HCA-Healthcare/elixir-hl7
+963,junit-formatter,111,34,111,2,16/02/2015,02/04/2024,169.00 KB,169,A JUnit XML report exporter for Elixir's ExUnit,Elixir,https://github.com/victorolinasc/junit-formatter
+964,gen_lsp,111,10,111,5,08/07/2022,04/01/2025,634.00 KB,634,A behaviour for creating language servers. ,Elixir,https://github.com/elixir-tools/gen_lsp
+965,ecto_morph,110,8,110,2,11/04/2019,09/06/2023,146.00 KB,146, morph your Ecto capabilities into the s t r a t o s p h e r e !,Elixir,https://github.com/Adzz/ecto_morph
+966,maxwell,110,17,110,8,22/03/2016,19/12/2023,341.00 KB,341,Maxwell is an HTTP client which support for middleware and multiple adapters.,Elixir,https://github.com/zhongwencool/maxwell
+967,phx_tailwind_generators,110,5,110,2,16/01/2021,15/10/2021,14.60 MB,14953,Scaffold Generator which uses TailwindCSS.,Elixir,https://github.com/wintermeyer/phx_tailwind_generators
+968,destructure,110,5,110,0,31/10/2016,31/08/2022,21.00 KB,21,Javascript-style destructuring for Elixir,Elixir,https://github.com/danielberkompas/destructure
+969,mavis,110,4,110,21,22/08/2020,20/04/2024,1.38 MB,1408,opinionated typing library for elixir,Elixir,https://github.com/ityonemo/mavis
+970,lazyasdf,110,5,110,4,21/02/2023,25/07/2023,44.00 KB,44,Experimental TUI for asdf: a project to learn the art of the TUI.,Elixir,https://github.com/mhanberg/lazyasdf
+971,toolshed,110,17,110,13,02/10/2018,04/03/2025,280.00 KB,280,A toolshed of IEx helpers,Elixir,https://github.com/elixir-toolshed/toolshed
+972,oban_web,110,13,110,1,14/05/2019,26/03/2025,6.30 MB,6451,🧭 Oban Web live dashboard,Elixir,https://github.com/oban-bg/oban_web
+973,elixir-ksuid,110,6,110,1,08/06/2017,27/02/2024,17.00 KB,17,K-Sortable Globally Unique IDs for elixir,Elixir,https://github.com/girishramnani/elixir-ksuid
+974,mentat,110,10,110,0,04/04/2020,16/02/2024,63.00 KB,63,super simple caching with ttls,Elixir,https://github.com/elixir-toniq/mentat
+975,flint,110,4,110,6,25/06/2024,15/01/2025,147.00 KB,147,"Declarative Ecto embedded schemas for data validation, coercion, and manipulation.",Elixir,https://github.com/acalejos/flint
+976,nabo,109,15,109,0,31/05/2017,11/02/2021,206.00 KB,206,Nabo (納博) - dead simple blog engine,Elixir,https://github.com/qcam/nabo
+977,knigge,109,12,109,9,05/07/2019,16/04/2024,336.00 KB,336,An opinionated way of dealing with behaviours,Elixir,https://github.com/alexocode/knigge
+978,lambda_ethereum_consensus,109,37,109,129,10/07/2023,28/03/2025,9.00 MB,9218,"Elixir implementation of an Ethereum consensus client, which offers high reliance & fault tolerance",Elixir,https://github.com/lambdaclass/lambda_ethereum_consensus
+979,peri,109,6,109,3,13/06/2024,20/03/2025,178.00 KB,178,Elixir library for declarative data description and validation,Elixir,https://github.com/zoedsoupe/peri
+980,imgup,109,20,109,34,03/03/2014,01/02/2025,36.12 MB,36991,🌅 Effortless image uploads to AWS S3 with automatic resizing including REST API.,Elixir,https://github.com/dwyl/imgup
+981,vintage_net,109,21,109,20,30/05/2018,19/03/2025,1.32 MB,1353,Network configuration and management for Nerves devices,Elixir,https://github.com/nerves-networking/vintage_net
+982,MongoosePush,109,24,109,4,09/02/2017,10/05/2024,2.34 MB,2392,MongoosePush is a simple Elixir RESTful service allowing to send push notification via FCM and/or APNS.,Elixir,https://github.com/esl/MongoosePush
+983,singleton,108,21,108,5,30/10/2016,20/06/2024,60.00 KB,60,"Global, supervised singleton processes for Elixir",Elixir,https://github.com/arjan/singleton
+984,xlsx_reader,108,19,108,4,13/11/2019,03/03/2025,459.00 KB,459,A production-ready XLSX file reader for Elixir.,Elixir,https://github.com/xavier/xlsx_reader
+985,live_upload_example,108,16,108,0,07/11/2020,10/07/2023,329.00 KB,329,Demonstrating file uploads with Phoenix LiveView,Elixir,https://github.com/mcrumm/live_upload_example
+986,api-v2,108,12,108,0,04/04/2017,04/04/2017,659.00 KB,659,,Elixir,https://github.com/usecanvas/api-v2
+987,ex_cva,108,5,108,3,19/11/2022,17/12/2024,555.00 KB,555,Class Variance Authority for Elixir,Elixir,https://github.com/benvp/ex_cva
+988,flippant,107,5,107,1,17/05/2016,10/03/2025,288.00 KB,288,:traffic_light: Feature flipping for the Elixir world,Elixir,https://github.com/sorentwo/flippant
+989,ecto_shorts,107,19,107,4,10/06/2019,17/10/2024,146.00 KB,146,Shortcuts for ecto,Elixir,https://github.com/MikaAK/ecto_shorts
+990,ecto_query_library,107,17,107,3,04/10/2015,03/12/2019,265.00 KB,265,,Elixir,https://github.com/parkerl/ecto_query_library
+991,vaultex,107,37,107,6,13/07/2016,02/08/2024,1.37 MB,1400,HashiCorp Vault client for Elixir.,Elixir,https://github.com/findmypast/vaultex
+992,learn-elixir-the-hard-way,107,11,107,0,02/04/2018,19/05/2018,1.95 MB,1992,"Repository with source code for ""Learn Elixir The Hard Way"" workshop.",Elixir,https://github.com/WhiteRookPL/learn-elixir-the-hard-way
+993,beam_file,107,8,107,0,28/05/2020,02/01/2025,4.31 MB,4415,BeamFile - A peek into the BEAM file,Elixir,https://github.com/hrzndhrn/beam_file
+994,pushex,107,4,107,2,25/11/2018,31/12/2024,297.00 KB,297,Phoenix-based websocket push implementation,Elixir,https://github.com/pushex-project/pushex
+995,emlx,107,3,107,6,18/11/2024,18/02/2025,187.00 KB,187,MLX Backend for Nx,Elixir,https://github.com/elixir-nx/emlx
+996,phoenix_ui,107,5,107,7,03/07/2022,13/12/2024,433.00 KB,433,Beautifully designed components that you can copy and paste into your Phoenix Framework apps. Made with Tailwind CSS. Open source.,Elixir,https://github.com/keatz55/phoenix_ui
+997,boom,106,13,106,7,18/12/2018,25/10/2024,301.00 KB,301,Exception notification for plug based applications https://hex.pm/packages/boom_notifier,Elixir,https://github.com/wyeworks/boom
+998,formulator,106,14,106,1,02/08/2016,12/10/2021,627.00 KB,627,A form library for Phoenix,Elixir,https://github.com/beam-community/formulator
+999,phoenix-in-action,106,26,106,3,16/11/2017,03/01/2019,601.00 KB,601,Code snippets and examples from the book Phoenix in Action from Manning and Geoffrey Lessel,Elixir,https://github.com/PhoenixInAction/phoenix-in-action
+1000,phone,106,37,106,5,26/03/2016,29/12/2024,618.00 KB,618,Elixir phone number parser for numbers in international standard.,Elixir,https://github.com/fcevado/phone
