@@ -1,0 +1,11 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,kong,40460,4892,40460,127,17/11/2014,26/03/2025,92.53 MB,94749,🦍 The Cloud-Native API Gateway and AI Gateway.,Lua,https://github.com/Kong/kong
+2,waifu2x,27811,2705,27811,156,17/05/2015,04/05/2023,692.88 MB,709513,Image Super-Resolution for Anime-Style Art,Lua,https://github.com/nagadomi/waifu2x
+3,NvChad,25825,2179,25825,3,07/03/2021,13/01/2025,1.93 MB,1981,"Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",Lua,https://github.com/NvChad/NvChad
+4,kickstart.nvim,23240,30810,23240,12,24/06/2022,24/03/2025,750.00 KB,750,A launch point for your personal nvim configuration,Lua,https://github.com/nvim-lua/kickstart.nvim
+5,LazyVim,19810,1398,19810,67,30/12/2022,01/03/2025,4.86 MB,4973,Neovim config for the lazy,Lua,https://github.com/LazyVim/LazyVim
+6,koreader,19058,1348,19058,871,24/03/2013,28/03/2025,65.52 MB,67093,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",Lua,https://github.com/koreader/koreader
+7,LunarVim,18729,1510,18729,44,16/08/2018,13/07/2024,13.90 MB,14231,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,Lua,https://github.com/LunarVim/LunarVim
+8,neural-style,18314,2695,18314,317,01/09/2015,23/02/2018,47.06 MB,48191,Torch implementation of neural style algorithm,Lua,https://github.com/jcjohnson/neural-style
+9,telescope.nvim,17143,863,17143,420,15/07/2020,19/03/2025,4.40 MB,4503,"Find, Filter, Preview, Pick. All lua, all the time.",Lua,https://github.com/nvim-telescope/telescope.nvim
+10,lazy.nvim,16778,410,16778,34,20/11/2022,25/02/2025,3.42 MB,3507,💤 A modern plugin manager for Neovim,Lua,https://github.com/folke/lazy.nvim
