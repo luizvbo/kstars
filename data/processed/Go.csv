@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,awesome-go,140692,12176,140692,123,06/07/2014,28/03/2025,10.36 MB,10607,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go
+2,ollama,135138,11206,135138,1686,26/06/2023,28/03/2025,40.68 MB,41661,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",Go,https://github.com/ollama/ollama
+3,go,126786,17920,126786,9476,19/08/2014,28/03/2025,382.02 MB,391185,The Go programming language,Go,https://github.com/golang/go
+4,kubernetes,114040,40253,114040,2516,06/06/2014,28/03/2025,1.30 GB,1363143,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes
+5,frp,91966,13838,91966,68,21/12/2015,07/03/2025,29.65 MB,30359,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp
+6,gin,81119,8147,81119,858,16/06/2014,25/03/2025,3.59 MB,3674,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",Go,https://github.com/gin-gonic/gin
+7,hugo,79087,7706,79087,485,04/07/2013,28/03/2025,126.98 MB,130024,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo
+8,moby,69472,18715,69472,3550,18/01/2013,27/03/2025,223.98 MB,229353,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,Go,https://github.com/moby/moby
+9,fzf,68977,2483,68977,278,23/10/2013,28/03/2025,7.00 MB,7168,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf
+10,syncthing,68959,4455,68959,395,26/11/2013,28/03/2025,119.49 MB,122353,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing
+11,caddy,62517,4209,62517,169,13/01/2015,25/03/2025,18.72 MB,19172,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,Go,https://github.com/caddyserver/caddy
+12,act,58775,1488,58775,222,02/01/2019,26/03/2025,9.91 MB,10152,Run your GitHub Actions locally 🚀,Go,https://github.com/nektos/act
+13,lazygit,58122,1993,58122,819,19/05/2018,27/03/2025,144.94 MB,148421,simple terminal UI for git commands,Go,https://github.com/jesseduffield/lazygit
+14,prometheus,57916,9467,57916,675,24/11/2012,28/03/2025,248.34 MB,254302,The Prometheus monitoring system and time series database.,Go,https://github.com/prometheus/prometheus
+15,traefik,53855,5273,53855,634,13/09/2015,28/03/2025,136.05 MB,139312,The Cloud Native Application Proxy,Go,https://github.com/traefik/traefik
+16,mkcert,52822,2771,52822,151,25/06/2018,13/08/2024,1.76 MB,1799,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,Go,https://github.com/FiloSottile/mkcert
+17,minio,51150,5740,51150,46,14/01/2015,23/03/2025,130.85 MB,133991,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",Go,https://github.com/minio/minio
+18,dive,50049,1858,50049,161,13/05/2018,24/03/2025,6.63 MB,6792,A tool for exploring each layer in a docker image,Go,https://github.com/wagoodman/dive
+19,rclone,49555,4415,49555,1117,16/03/2014,26/03/2025,197.91 MB,202659,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",Go,https://github.com/rclone/rclone
+20,etcd,48878,9987,48878,425,06/07/2013,28/03/2025,86.76 MB,88842,Distributed reliable key-value store for the most critical data of a distributed system,Go,https://github.com/etcd-io/etcd
+21,go-ethereum,48656,20714,48656,323,26/12/2013,28/03/2025,215.16 MB,220323,Go implementation of the Ethereum protocol,Go,https://github.com/ethereum/go-ethereum
+22,gitea,47792,5713,47792,2755,01/11/2016,28/03/2025,294.78 MB,301852,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",Go,https://github.com/go-gitea/gitea
+23,alist,47325,6087,47325,455,23/12/2020,27/03/2025,5.37 MB,5494,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",Go,https://github.com/AlistGo/alist
+24,v2ray-core,45867,8936,45867,8,04/09/2015,21/01/2025,53.84 MB,55130,A platform for building proxies to bypass network restrictions.,Go,https://github.com/v2ray/v2ray-core
+25,gogs,45796,5000,45796,954,12/02/2014,05/03/2025,198.37 MB,203127,Gogs is a painless self-hosted Git service,Go,https://github.com/gogs/gogs
+26,pocketbase,44899,2188,44899,19,05/07/2022,26/03/2025,93.11 MB,95348,Open Source realtime backend in 1 file,Go,https://github.com/pocketbase/pocketbase
+27,terraform,44857,9780,44857,1992,13/03/2014,28/03/2025,330.51 MB,338445,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",Go,https://github.com/hashicorp/terraform
+28,build-web-application-with-golang,43477,10621,43477,133,02/08/2012,12/05/2024,37.40 MB,38293,A golang ebook intro how to build a web with golang,Go,https://github.com/astaxie/build-web-application-with-golang
+29,lazydocker,43190,1366,43190,197,18/05/2019,22/12/2024,28.06 MB,28730,The lazier way to manage everything docker,Go,https://github.com/jesseduffield/lazydocker
+30,nvm-windows,40270,3484,40270,86,20/09/2014,08/01/2025,32.52 MB,33301,A node.js version management utility for Windows. Ironically written in Go.,Go,https://github.com/coreybutler/nvm-windows
+31,cobra,39913,2909,39913,304,03/09/2013,11/03/2025,1.98 MB,2026,A Commander for modern Go CLI interactions,Go,https://github.com/spf13/cobra
+32,esbuild,38750,1191,38750,525,14/06/2016,27/03/2025,19.42 MB,19884,An extremely fast bundler for the web,Go,https://github.com/evanw/esbuild
+33,cli,38692,6368,38692,779,03/10/2019,27/03/2025,43.41 MB,44447,GitHub’s official command line tool,Go,https://github.com/cli/cli
+34,memos,38543,2757,38543,27,08/12/2021,28/03/2025,34.33 MB,35159,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",Go,https://github.com/usememos/memos
+35,tidb,38168,5897,38168,4888,06/09/2015,28/03/2025,523.08 MB,535634,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",Go,https://github.com/pingcap/tidb
+36,gorm,37847,3989,37847,437,25/10/2013,11/03/2025,4.51 MB,4614,"The fantastic ORM library for Golang, aims to be developer friendly",Go,https://github.com/go-gorm/gorm
+37,photoprism,36824,2039,36824,439,27/01/2018,28/03/2025,259.67 MB,265900,AI-Powered Photos App for the Decentralized Web 🌈💎✨,Go,https://github.com/photoprism/photoprism
+38,istio,36638,7894,36638,524,18/11/2016,28/03/2025,272.56 MB,279103,"Connect, secure, control, and observe services.",Go,https://github.com/istio/istio
+39,fiber,35629,1736,35629,108,16/01/2020,26/03/2025,222.88 MB,228232,⚡️ Express inspired web framework written in Go,Go,https://github.com/gofiber/fiber
+40,compose,35070,5354,35070,88,09/12/2013,28/03/2025,25.96 MB,26583,Define and run multi-container applications with Docker,Go,https://github.com/docker/compose
+41,the-way-to-go_ZH_CN,34819,8606,34819,46,24/03/2013,14/08/2024,12.31 MB,12602,《The Way to Go》中文译本，中文正式名《Go 入门指南》,Go,https://github.com/unknwon/the-way-to-go_ZH_CN
+42,milvus,33663,3119,33663,815,16/09/2019,28/03/2025,218.56 MB,223809,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",Go,https://github.com/milvus-io/milvus
+43,LeetCode-Go,33424,5766,33424,20,18/07/2017,11/12/2024,18.86 MB,19315,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",Go,https://github.com/halfrost/LeetCode-Go
+44,harness,32552,2834,32552,70,07/02/2014,28/03/2025,51.00 MB,52227,"Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",Go,https://github.com/harness/harness
+45,vault,32079,4314,32079,1356,25/02/2015,28/03/2025,309.30 MB,316723,"A tool for secrets management, encryption as a service, and privileged access management",Go,https://github.com/hashicorp/vault
+46,beego,31959,5630,31959,15,29/02/2012,28/03/2025,11.62 MB,11901,"beego is an open-source, high-performance web framework for the Go programming language.",Go,https://github.com/beego/beego
+47,nps,31564,5726,31564,514,04/11/2018,30/05/2024,8.95 MB,9168,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",Go,https://github.com/ehang-io/nps
+48,LocalAI,31274,2371,31274,438,18/03/2023,28/03/2025,13.84 MB,14173,":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",Go,https://github.com/mudler/LocalAI
+49,v2ray-core,30742,4775,30742,51,15/04/2019,27/03/2025,66.72 MB,68318,A platform for building proxies to bypass network restrictions.,Go,https://github.com/v2fly/v2ray-core
+50,echo,30734,2260,30734,88,01/03/2015,12/02/2025,6.14 MB,6287,"High performance, minimalist Go web framework",Go,https://github.com/labstack/echo
+51,cockroach,30674,3875,30674,7031,06/02/2014,28/03/2025,2.87 GB,3012907,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",Go,https://github.com/cockroachdb/cockroach
+52,go-zero,30606,4068,30606,332,07/08/2020,27/03/2025,21.00 MB,21508,A cloud-native Go microservices framework with cli tool for productivity.,Go,https://github.com/zeromicro/go-zero
+53,bubbletea,30332,874,30332,113,10/01/2020,28/03/2025,5.25 MB,5375,A powerful little TUI framework 🏗,Go,https://github.com/charmbracelet/bubbletea
+54,fabric,30284,3127,30284,190,03/01/2024,26/03/2025,176.08 MB,180308,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,Go,https://github.com/danielmiessler/fabric
+55,minikube,30130,4953,30130,607,15/04/2016,24/03/2025,232.75 MB,238337,Run Kubernetes locally,Go,https://github.com/kubernetes/minikube
+56,k9s,29154,1836,29154,651,25/01/2019,25/03/2025,64.54 MB,66086,🐶 Kubernetes CLI To Manage Your Clusters In Style!,Go,https://github.com/derailed/k9s
+57,k3s,29143,2403,29143,117,31/05/2018,27/03/2025,569.59 MB,583265,Lightweight Kubernetes,Go,https://github.com/k3s-io/k3s
+58,CasaOS,29131,1578,29131,629,26/09/2021,08/03/2025,178.33 MB,182613,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",Go,https://github.com/IceWhaleTech/CasaOS
+59,croc,29025,1149,29025,1,17/10/2017,28/03/2025,24.41 MB,25000,Easily and securely send things from one computer to another :crocodile: :package:,Go,https://github.com/schollz/croc
+60,lux,28933,3090,28933,517,24/02/2018,13/03/2025,2.49 MB,2549,👾 Fast and simple video download library and CLI tool written in Go,Go,https://github.com/iawia002/lux
+61,consul,28832,4458,28832,1294,04/11/2013,27/03/2025,490.00 MB,501763,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",Go,https://github.com/hashicorp/consul
+62,filebrowser,28362,3203,28362,110,11/09/2015,25/03/2025,19.92 MB,20401,📂 Web File Browser,Go,https://github.com/filebrowser/filebrowser
+63,viper,28147,2040,28147,510,02/04/2014,27/03/2025,1.56 MB,1601,Go configuration with fangs,Go,https://github.com/spf13/viper
+64,restic,28031,1588,28031,410,27/04/2014,27/03/2025,67.57 MB,69194,"Fast, secure, efficient backup program",Go,https://github.com/restic/restic
+65,Xray-core,27779,4191,27779,29,09/11/2020,28/03/2025,6.13 MB,6278,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.",Go,https://github.com/XTLS/Xray-core
+66,AdGuardHome,27663,1960,27663,1092,06/07/2016,28/03/2025,21.87 MB,22395,Network-wide ads & trackers blocking DNS server,Go,https://github.com/AdguardTeam/AdGuardHome
+67,helm,27660,7194,27660,797,06/10/2015,25/03/2025,22.39 MB,22929,The Kubernetes Package Manager,Go,https://github.com/helm/helm
+68,wails,27463,1328,27463,309,15/12/2018,28/03/2025,176.56 MB,180797,Create beautiful applications using Go,Go,https://github.com/wailsapp/wails
+69,k6,27173,1331,27173,724,21/03/2016,27/03/2025,64.89 MB,66452,"A modern load testing tool, using Go and JavaScript - https://k6.io",Go,https://github.com/grafana/k6
+70,kit,26921,2458,26921,56,03/02/2015,19/07/2024,7.22 MB,7390,A standard library for microservices.,Go,https://github.com/go-kit/kit
+71,headscale,26319,1424,26319,128,21/06/2020,28/03/2025,13.18 MB,13495,"An open source, self-hosted implementation of the Tailscale control server",Go,https://github.com/juanfont/headscale
+72,1Panel,26290,2331,26290,643,19/07/2022,28/03/2025,81.08 MB,83021,"🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.",Go,https://github.com/1Panel-dev/1Panel
+73,go-patterns,26073,2254,26073,65,14/12/2015,14/05/2024,927.00 KB,927,"Curated list of Go design patterns, recipes and idioms",Go,https://github.com/tmrts/go-patterns
+74,fyne,26065,1425,26065,706,04/02/2018,28/03/2025,111.62 MB,114297,Cross platform GUI toolkit in Go inspired by Material Design,Go,https://github.com/fyne-io/fyne
+75,podman,25987,2570,25987,783,01/11/2017,28/03/2025,151.78 MB,155423,Podman: A tool for managing OCI containers and pods.,Go,https://github.com/containers/podman
+76,micro,25854,1203,25854,945,11/03/2016,28/03/2025,13.26 MB,13576,A modern and intuitive terminal-based text editor,Go,https://github.com/zyedidia/micro
+77,faas,25523,1959,25523,34,22/12/2016,11/03/2025,29.28 MB,29986,OpenFaaS - Serverless Functions Made Simple,Go,https://github.com/openfaas/faas
+78,iris,25432,2475,25432,134,30/01/2016,26/03/2025,17.40 MB,17815,"The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:",Go,https://github.com/kataras/iris
+79,Wox,25278,2370,25278,155,19/12/2013,28/03/2025,154.07 MB,157763,A cross-platform launcher that simply works,Go,https://github.com/Wox-launcher/Wox
+80,docker_practice,25271,5776,25271,9,05/09/2014,26/12/2024,11.62 MB,11901,"Learn and understand Docker&Container technologies, with real DevOps practice!",Go,https://github.com/yeasy/docker_practice
+81,harbor,25210,4833,25210,677,28/01/2016,28/03/2025,232.31 MB,237884,"An open source trusted cloud native registry project that stores, signs, and scans content.",Go,https://github.com/goharbor/harbor
+82,trivy,25181,2465,25181,205,11/04/2019,28/03/2025,879.76 MB,900876,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",Go,https://github.com/aquasecurity/trivy
+83,nsq,25179,2911,25179,70,12/05/2012,27/01/2025,13.90 MB,14231,A realtime distributed messaging platform,Go,https://github.com/nsqio/nsq
+84,logrus,25124,2272,25124,83,16/10/2013,18/11/2024,995.00 KB,995,"Structured, pluggable logging for Go.",Go,https://github.com/sirupsen/logrus
+85,loki,25070,3617,25070,2026,16/04/2018,28/03/2025,355.30 MB,363832,"Like Prometheus, but for logs.",Go,https://github.com/grafana/loki
+86,opentofu,24797,965,24797,291,16/08/2023,28/03/2025,271.39 MB,277907,OpenTofu lets you declaratively manage your cloud infrastructure.,Go,https://github.com/opentofu/opentofu
+87,dapr,24579,1941,24579,439,19/06/2019,27/03/2025,123.58 MB,126541,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",Go,https://github.com/dapr/dapr
+88,testify,24317,1626,24317,385,16/10/2012,24/03/2025,1.80 MB,1843,A toolkit with common assertions and mocks that plays nicely with the standard library,Go,https://github.com/stretchr/testify
+89,ngrok,24298,4279,24298,0,20/03/2013,26/04/2024,673.00 KB,673,Unified ingress for developers,Go,https://github.com/inconshreveable/ngrok
+90,vegeta,24098,1384,24098,91,13/08/2013,28/10/2024,2.00 MB,2045,HTTP load testing tool and library. It's over 9000!,Go,https://github.com/tsenart/vegeta
+91,seaweedfs,23990,2369,23990,543,14/07/2014,27/03/2025,70.28 MB,71966,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",Go,https://github.com/seaweedfs/seaweedfs
+92,rancher,23966,3025,23966,3027,07/11/2014,28/03/2025,158.38 MB,162183,Complete container management platform,Go,https://github.com/rancher/rancher
+93,kratos,23959,4053,23959,127,10/01/2019,24/03/2025,9.43 MB,9659,Your ultimate Go microservices framework for the cloud-native era.,Go,https://github.com/go-kratos/kratos
+94,colly,23945,1785,23945,194,29/09/2017,27/03/2025,8.41 MB,8615,Elegant Scraper and Crawler Framework for Golang,Go,https://github.com/gocolly/colly
+95,delve,23559,2160,23559,108,20/05/2014,24/03/2025,32.62 MB,33405,Delve is a debugger for the Go programming language.,Go,https://github.com/go-delve/delve
+96,websocket,23295,3531,23295,50,16/10/2013,19/03/2025,436.00 KB,436,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",Go,https://github.com/gorilla/websocket
+97,authelia,23251,1192,23251,79,07/12/2016,28/03/2025,56.87 MB,58237,The Single Sign-On Multi-Factor portal for web apps,Go,https://github.com/authelia/authelia
+98,asdf,23217,851,23217,151,29/11/2014,27/03/2025,4.06 MB,4157,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",Go,https://github.com/asdf-vm/asdf
+99,hub,22912,2199,22912,296,05/12/2009,02/02/2024,7.16 MB,7336,A command-line tool that makes git easier to use with GitHub.,Go,https://github.com/mislav/hub
+100,cli,22905,1723,22905,43,13/07/2013,24/03/2025,12.05 MB,12337,"A simple, fast, and fun package for building command line apps in Go",Go,https://github.com/urfave/cli
+101,sing-box,22849,2756,22849,118,30/06/2022,28/03/2025,11.42 MB,11690,The universal proxy platform,Go,https://github.com/SagerNet/sing-box
+102,zap,22768,1466,22768,157,18/02/2016,24/03/2025,1.92 MB,1964,"Blazing fast, structured, leveled logging in Go.",Go,https://github.com/uber-go/zap
+103,pulumi,22725,1176,22725,2289,31/10/2016,28/03/2025,157.42 MB,161197,Pulumi - Infrastructure as Code in any programming language 🚀,Go,https://github.com/pulumi/pulumi
+104,nuclei,22718,2648,22718,384,03/04/2020,28/03/2025,39.44 MB,40386,"Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",Go,https://github.com/projectdiscovery/nuclei
+105,Cloudreve,22711,3508,22711,115,04/02/2018,25/02/2025,7.43 MB,7604,"🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",Go,https://github.com/cloudreve/Cloudreve
+106,learn-go-with-tests,22642,2861,22642,57,02/03/2018,13/03/2025,9.25 MB,9473,Learn Go with test-driven development,Go,https://github.com/quii/learn-go-with-tests
+107,gin-vue-admin,22523,6608,22523,23,01/09/2019,27/03/2025,15.29 MB,15659,🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。,Go,https://github.com/flipped-aurora/gin-vue-admin
+108,fasthttp,22383,1783,22383,105,18/10/2015,28/03/2025,3.52 MB,3602,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,Go,https://github.com/valyala/fasthttp
+109,go-micro,22191,2364,22191,15,13/01/2015,15/11/2024,13.73 MB,14064,A Go microservices framework,Go,https://github.com/micro/go-micro
+110,ntfy,21989,871,21989,366,23/10/2021,29/09/2024,35.09 MB,35930,Send push notifications to your phone or desktop using PUT/POST,Go,https://github.com/binwiederhier/ntfy
+111,colima,21965,433,21965,344,04/09/2021,24/03/2025,2.81 MB,2874,Container runtimes on macOS (and Linux) with minimal setup,Go,https://github.com/abiosoft/colima
+112,tailscale,21718,1736,21718,3244,31/01/2020,28/03/2025,58.84 MB,60257,"The easiest, most secure way to use WireGuard and 2FA.",Go,https://github.com/tailscale/tailscale
+113,grpc-go,21593,4463,21593,150,08/12/2014,26/03/2025,39.98 MB,40935,The Go language implementation of gRPC. HTTP/2 based RPC,Go,https://github.com/grpc/grpc-go
+114,watchtower,21495,937,21495,204,13/07/2015,30/07/2024,17.57 MB,17996,A process for automating Docker container base image updates. ,Go,https://github.com/containrrr/watchtower
+115,CloudflareSpeedTest,21353,4239,21353,24,30/08/2020,25/03/2025,362.00 KB,362,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,Go,https://github.com/XIU2/CloudflareSpeedTest
+116,slim,21328,767,21328,200,09/09/2015,24/03/2025,77.70 MB,79564,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),Go,https://github.com/slimtoolkit/slim
+117,cilium,21239,3132,21239,1103,16/12/2015,28/03/2025,385.55 MB,394806,"eBPF-based Networking, Security, and Observability",Go,https://github.com/cilium/cilium
+118,mux,21238,1862,21238,33,02/10/2012,15/08/2024,543.00 KB,543,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,Go,https://github.com/gorilla/mux
+119,jaeger,21122,2545,21122,297,15/04/2016,27/03/2025,31.63 MB,32394,"CNCF Jaeger, a Distributed Tracing Platform",Go,https://github.com/jaegertracing/jaeger
+120,dgraph,20756,1506,20756,22,25/08/2015,28/03/2025,641.57 MB,656963,high-performance graph database for real-time use cases,Go,https://github.com/hypermodeinc/dgraph
+121,go-redis,20667,2419,20667,191,25/07/2012,26/03/2025,5.03 MB,5149,Redis Go client,Go,https://github.com/redis/go-redis
+122,glance,20571,746,20571,154,27/04/2024,26/03/2025,15.45 MB,15817,A self-hosted dashboard that puts all your feeds in one place,Go,https://github.com/glanceapp/glance
+123,air,19829,850,19829,167,12/10/2017,07/03/2025,32.82 MB,33610,☁️ Live reload for Go apps,Go,https://github.com/air-verse/air
+124,advanced-go-programming-book,19635,3220,19635,58,31/12/2017,22/03/2025,19.89 MB,20370,:books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿),Go,https://github.com/chai2010/advanced-go-programming-book
+125,chi,19403,1009,19403,80,15/10/2015,18/02/2025,3.65 MB,3737,"lightweight, idiomatic and composable router for building Go HTTP services",Go,https://github.com/go-chi/chi
+126,gitleaks,19344,1570,19344,255,27/01/2018,27/03/2025,5.78 MB,5923,Find secrets with Gitleaks 🔑,Go,https://github.com/gitleaks/gitleaks
+127,vitess,19332,2154,19332,874,27/06/2013,28/03/2025,435.84 MB,446301,Vitess is a database clustering system for horizontal scaling of MySQL.,Go,https://github.com/vitessio/vitess
+128,fx,19315,442,19315,16,25/01/2018,23/02/2025,6.76 MB,6919,Terminal JSON viewer & processor,Go,https://github.com/antonmedv/fx
+129,learngo,19188,2644,19188,40,15/10/2018,22/02/2025,3.22 MB,3293,"❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",Go,https://github.com/inancgumus/learngo
+130,gum,19172,369,19172,82,10/06/2022,27/03/2025,946.00 KB,946,A tool for glamorous shell scripts 🎀,Go,https://github.com/charmbracelet/gum
+131,grpc-gateway,19095,2301,19095,140,03/04/2015,28/03/2025,10.67 MB,10922,gRPC to JSON proxy generator following the gRPC HTTP spec,Go,https://github.com/grpc-ecosystem/grpc-gateway
+132,lo,19047,858,19047,208,02/03/2022,16/03/2025,2.74 MB,2808,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",Go,https://github.com/samber/lo
+133,argo-cd,19042,5843,19042,3551,09/02/2018,28/03/2025,129.77 MB,132887,Declarative Continuous Deployment for Kubernetes,Go,https://github.com/argoproj/argo-cd
+134,gotty,18973,1399,18973,162,16/08/2015,01/08/2024,6.77 MB,6932,Share your terminal as a web application,Go,https://github.com/yudai/gotty
+135,excelize,18864,1756,18864,119,29/08/2016,25/03/2025,6.60 MB,6763,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,Go,https://github.com/qax-os/excelize
+136,goreplay,18848,51,18848,337,30/05/2013,26/01/2025,17.64 MB,18059,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",Go,https://github.com/buger/goreplay
+137,hey,18672,1221,18672,182,02/09/2016,20/08/2024,601.00 KB,601,"HTTP load generator, ApacheBench (ab) replacement",Go,https://github.com/rakyll/hey
+138,oh-my-posh,18634,2484,18634,29,13/03/2019,25/03/2025,19.50 MB,19972,The most customisable and low-latency cross platform/shell prompt renderer,Go,https://github.com/JanDeDobbeleer/oh-my-posh
+139,trufflehog,18609,1811,18609,300,31/12/2016,28/03/2025,42.40 MB,43413,"Find, verify, and analyze leaked credentials",Go,https://github.com/trufflesecurity/trufflehog
+140,typescript-go,18603,547,18603,63,19/09/2024,28/03/2025,55.20 MB,56524,Staging repo for development of native port of TypeScript,Go,https://github.com/microsoft/typescript-go
+141,age,18513,540,18513,41,18/05/2019,01/02/2025,1.46 MB,1495,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",Go,https://github.com/FiloSottile/age
+142,dolt,18446,547,18446,442,24/07/2019,28/03/2025,152.26 MB,155916,Dolt – Git for Data,Go,https://github.com/dolthub/dolt
+143,kubectx,18399,1308,18399,65,30/03/2017,22/01/2025,880.00 KB,880,Faster way to switch between clusters and namespaces in kubectl,Go,https://github.com/ahmetb/kubectx
+144,casbin,18376,1668,18376,45,08/04/2017,18/03/2025,1.97 MB,2015,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",Go,https://github.com/casbin/casbin
+145,ingress-nginx,18291,8348,18291,420,04/11/2016,28/03/2025,143.38 MB,146819,Ingress NGINX Controller for Kubernetes,Go,https://github.com/kubernetes/ingress-nginx
+146,teleport,18205,1808,18205,2611,02/03/2015,28/03/2025,984.16 MB,1007784,"The easiest, and most secure way to access and protect all of your infrastructure.",Go,https://github.com/gravitational/teleport
+147,containerd,18168,3502,18168,401,13/11/2015,28/03/2025,119.33 MB,122189,An open and reliable container runtime,Go,https://github.com/containerd/containerd
+148,sops,18096,919,18096,402,13/08/2015,28/03/2025,142.47 MB,145888,Simple and flexible tool for managing secrets,Go,https://github.com/getsops/sops
+149,validator,17912,1362,17912,323,12/02/2015,24/03/2025,2.06 MB,2114,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",Go,https://github.com/go-playground/validator
+150,cadvisor,17744,2366,17744,806,09/06/2014,18/03/2025,51.55 MB,52783,Analyzes resource usage and performance characteristics of running containers.,Go,https://github.com/google/cadvisor
+151,microservices-demo,17718,7872,17718,58,03/08/2018,17/03/2025,34.65 MB,35479,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",Go,https://github.com/GoogleCloudPlatform/microservices-demo
+152,xbar,17711,650,17711,174,13/11/2013,10/09/2024,63.36 MB,64884,Put the output from any script or program into your macOS Menu Bar (the BitBar reboot),Go,https://github.com/matryer/xbar
+153,ip2region,17634,2865,17634,46,02/11/2015,20/12/2024,81.38 MB,83336,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",Go,https://github.com/lionsoul2014/ip2region
+154,glow,17413,390,17413,96,04/11/2019,24/03/2025,2.78 MB,2849,"Render markdown on the CLI, with pizzazz! 💅🏻",Go,https://github.com/charmbracelet/glow
+155,bettercap,17412,1516,17412,50,07/01/2018,27/03/2025,24.97 MB,25565,"The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",Go,https://github.com/bettercap/bettercap
+156,zincsearch,17303,745,17303,48,02/12/2021,24/03/2025,11.39 MB,11664,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",Go,https://github.com/zincsearch/zincsearch
+157,websocketd,17193,1016,17193,56,14/02/2013,10/06/2024,1.05 MB,1073,"Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. ",Go,https://github.com/joewalnes/websocketd
+158,httprouter,16794,1473,16794,82,05/12/2013,22/07/2024,265.00 KB,265,A high performance HTTP request router that scales well,Go,https://github.com/julienschmidt/httprouter
+159,gods,16791,1800,16791,66,04/03/2015,12/03/2025,723.00 KB,723,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",Go,https://github.com/emirpasic/gods
+160,nats-server,16766,1489,16766,443,29/10/2012,28/03/2025,45.48 MB,46576,"High-Performance server for NATS.io, the cloud and edge native messaging system.",Go,https://github.com/nats-io/nats-server
+161,sqlx,16755,1098,16755,379,28/01/2013,15/08/2024,877.00 KB,877,general purpose extensions to golang's database/sql,Go,https://github.com/jmoiron/sqlx
+162,Go,16698,2681,16698,8,20/08/2016,24/03/2025,2.56 MB,2618,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",Go,https://github.com/TheAlgorithms/Go
+163,golangci-lint,16611,1436,16611,115,04/05/2018,27/03/2025,46.84 MB,47966,Fast linters runner for Go,Go,https://github.com/golangci/golangci-lint
+164,gost,16565,2538,16565,282,20/03/2015,31/12/2024,22.27 MB,22801,GO Simple Tunnel - a simple tunnel written in golang,Go,https://github.com/ginuerzh/gost
+165,lima,16514,642,16514,353,14/05/2021,28/03/2025,12.77 MB,13076,"Linux virtual machines, with a focus on running containers",Go,https://github.com/lima-vm/lima
+166,kubo,16398,3064,16398,1130,26/06/2014,28/03/2025,55.08 MB,56398,An IPFS implementation in Go,Go,https://github.com/ipfs/kubo
+167,rqlite,16373,735,16373,67,23/08/2014,17/03/2025,8.71 MB,8919,"The lightweight, user-friendly, distributed relational database built on SQLite.",Go,https://github.com/rqlite/rqlite
+168,listmonk,16334,1524,16334,87,26/06/2019,28/03/2025,28.11 MB,28786,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",Go,https://github.com/knadh/listmonk
+169,migrate,16306,1451,16306,427,19/01/2018,23/03/2025,2.12 MB,2176,Database migrations. CLI and Golang library.,Go,https://github.com/golang-migrate/migrate
+170,gvisor,16271,1352,16271,448,26/04/2018,28/03/2025,90.71 MB,92885,Application Kernel for Containers,Go,https://github.com/google/gvisor
+171,goproxy,16195,3044,16195,143,11/09/2017,14/03/2025,3.73 MB,3816,"🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",Go,https://github.com/snail007/goproxy
+172,kops,16132,4669,16132,147,27/06/2016,27/03/2025,439.28 MB,449824,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",Go,https://github.com/kubernetes/kops
+173,hysteria,16113,1771,16113,167,21/04/2020,19/03/2025,9.73 MB,9960,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",Go,https://github.com/apernet/hysteria
+174,vhs,16099,278,16099,91,19/07/2022,27/03/2025,39.27 MB,40211,Your CLI home video recorder 📼,Go,https://github.com/charmbracelet/vhs
+175,tinygo,16039,942,16039,483,07/06/2018,26/03/2025,11.89 MB,12173,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",Go,https://github.com/tinygo-org/tinygo
+176,wtf,16037,810,16037,66,29/03/2018,10/08/2024,49.20 MB,50379,The personal information dashboard for your terminal,Go,https://github.com/wtfutil/wtf
+177,fabric,16016,8946,16016,189,25/08/2016,26/03/2025,148.89 MB,152464,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,Go,https://github.com/hyperledger/fabric
+178,ent,16011,955,16011,568,12/06/2019,28/03/2025,32.95 MB,33743,An entity framework for Go,Go,https://github.com/ent/ent
+179,hydra,16003,1524,16003,94,22/05/2015,28/03/2025,116.87 MB,119678,"The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",Go,https://github.com/ory/hydra
+180,SafeLine,15943,964,15943,33,12/04/2023,27/03/2025,78.13 MB,80004,SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.,Go,https://github.com/chaitin/SafeLine
+181,ctop,15903,535,15903,113,27/12/2016,08/07/2024,3.53 MB,3616,Top-like interface for container metrics,Go,https://github.com/bcicen/ctop
+182,7days-golang,15881,2491,15881,52,10/08/2019,19/07/2024,1.01 MB,1031,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列",Go,https://github.com/geektutu/7days-golang
+183,kubesphere,15726,2192,15726,592,21/04/2018,28/03/2025,88.32 MB,90435,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",Go,https://github.com/kubesphere/kubesphere
+184,chaosmonkey,15642,1192,15642,26,18/10/2016,06/01/2025,1.99 MB,2042,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,Go,https://github.com/Netflix/chaosmonkey
+185,argo-workflows,15484,3267,15484,1186,21/08/2017,26/03/2025,153.49 MB,157173,Workflow Engine for Kubernetes,Go,https://github.com/argoproj/argo-workflows
+186,charts,15470,16691,15470,0,24/11/2015,20/02/2022,284.58 MB,291410,⚠️(OBSOLETE) Curated applications for Kubernetes,Go,https://github.com/helm/charts
+187,transfer.sh,15454,1547,15454,54,09/10/2014,13/03/2025,34.24 MB,35066,Easy and fast file sharing from the command-line.,Go,https://github.com/dutchcoders/transfer.sh
+188,telegraf,15450,5641,15450,388,01/04/2015,27/03/2025,66.74 MB,68346,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",Go,https://github.com/influxdata/telegraf
+189,kaniko,15354,1457,15354,750,29/01/2018,03/03/2025,55.98 MB,57320,Build Container Images In Kubernetes,Go,https://github.com/GoogleContainerTools/kaniko
+190,nomad,15350,1981,15350,1653,01/06/2015,28/03/2025,557.60 MB,570980,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",Go,https://github.com/hashicorp/nomad
+191,algorithm-pattern,15349,2591,15349,28,13/06/2020,22/02/2024,4.10 MB,4197,算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~,Go,https://github.com/greyireland/algorithm-pattern
+192,packer,15298,3326,15298,406,23/03/2013,28/03/2025,109.58 MB,112215,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,Go,https://github.com/hashicorp/packer
+193,skaffold,15260,1647,15260,805,23/01/2018,28/03/2025,150.57 MB,154179,Easy and Repeatable Kubernetes Development,Go,https://github.com/GoogleContainerTools/skaffold
+194,nebula,15252,1016,15252,111,16/11/2019,25/03/2025,2.51 MB,2573,"A scalable overlay networking tool with a focus on performance, simplicity and security",Go,https://github.com/slackhq/nebula
+195,ultimate-go,14970,1190,14970,0,28/04/2018,17/09/2021,1.16 MB,1190,The Ultimate Go Study Guide,Go,https://github.com/hoanhan101/ultimate-go
+196,cayley,14906,1247,14906,92,05/06/2014,15/03/2025,19.81 MB,20284,An open-source graph database,Go,https://github.com/cayleygraph/cayley
+197,lantern,14831,11240,14831,2530,17/02/2011,19/12/2024,808.11 MB,827503,"Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",Go,https://github.com/getlantern/lantern
+198,dashboard,14791,4202,14791,154,15/10/2015,27/03/2025,180.04 MB,184366,General-purpose web UI for Kubernetes clusters,Go,https://github.com/kubernetes/dashboard
+199,brook,14772,2401,14772,21,18/03/2017,19/02/2025,36.67 MB,37546,A cross-platform programmable network tool,Go,https://github.com/txthinking/brook
+200,gjson,14771,863,14771,86,11/08/2016,10/10/2024,517.00 KB,517,Get JSON values quickly - JSON parser for Go,Go,https://github.com/tidwall/gjson
+201,daytona,14736,1384,14736,83,06/02/2024,13/03/2025,16.07 MB,16454,Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.,Go,https://github.com/daytonaio/daytona
+202,mysql,14711,2335,14711,67,09/12/2012,21/03/2025,1.45 MB,1486,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,Go,https://github.com/go-sql-driver/mysql
+203,MailHog,14656,1091,14656,250,16/04/2014,13/02/2024,2.91 MB,2979,Web and API based SMTP testing,Go,https://github.com/mailhog/MailHog
+204,sqlc,14611,851,14611,559,21/06/2019,28/03/2025,19.64 MB,20108,Generate type-safe code from SQL,Go,https://github.com/sqlc-dev/sqlc
+205,open-im-server,14499,2558,14499,108,26/05/2021,28/03/2025,34.33 MB,35159,IM Chat ChatGPT,Go,https://github.com/openimsdk/open-im-server
+206,chezmoi,14484,512,14484,37,12/11/2018,27/03/2025,77.34 MB,79197,"Manage your dotfiles across multiple diverse machines, securely.",Go,https://github.com/twpayne/chezmoi
+207,webrtc,14482,1702,14482,81,18/05/2018,27/03/2025,5.32 MB,5449,Pure Go implementation of the WebRTC API,Go,https://github.com/pion/webrtc
+208,goreleaser,14420,977,14420,24,21/12/2016,28/03/2025,22.49 MB,23027,"Release engineering, simplified",Go,https://github.com/goreleaser/goreleaser
+209,goquery,14391,921,14391,4,29/08/2012,28/03/2025,580.00 KB,580,"A little like that j-thing, only in Go.",Go,https://github.com/PuerkitoBio/goquery
+210,badger,14387,1211,14387,19,26/01/2017,13/03/2025,56.91 MB,58276,Fast key-value DB in Go.,Go,https://github.com/hypermodeinc/badger
+211,bolt,14371,1527,14371,84,20/12/2013,02/03/2018,1.29 MB,1326,An embedded key/value database for Go.,Go,https://github.com/boltdb/bolt
+212,chisel,14304,1455,14304,242,25/02/2015,28/09/2024,3.31 MB,3389,A fast TCP/UDP tunnel over HTTP,Go,https://github.com/jpillora/chisel
+213,answer,14160,1128,14160,84,29/09/2022,26/03/2025,13.89 MB,14225,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",Go,https://github.com/apache/answer
+214,kcptun,14075,2555,14075,128,26/02/2016,24/03/2025,9.05 MB,9269,"A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.",Go,https://github.com/xtaci/kcptun
+215,gron,14036,329,14036,65,08/09/2012,29/11/2024,1.43 MB,1469,Make JSON greppable!,Go,https://github.com/tomnomnom/gron
+216,phoneinfoga,14019,3942,14019,53,25/10/2018,30/06/2024,13.31 MB,13626,Information gathering framework for phone numbers,Go,https://github.com/sundowndev/phoneinfoga
+217,kind,13973,1602,13973,194,12/09/2018,24/03/2025,13.13 MB,13445,Kubernetes IN Docker - local clusters for testing Kubernetes,Go,https://github.com/kubernetes-sigs/kind
+218,mediamtx,13777,1683,13777,179,28/12/2019,28/03/2025,10.51 MB,10764,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",Go,https://github.com/bluenviron/mediamtx
+219,navidrome,13746,1007,13746,184,24/02/2016,28/03/2025,45.79 MB,46890,🎧☁️ Your Personal Streaming Service,Go,https://github.com/navidrome/navidrome
+220,ddns-go,13718,1564,13718,32,26/08/2020,28/03/2025,24.39 MB,24972,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",Go,https://github.com/jeessy2/ddns-go
+221,ffuf,13663,1366,13663,204,08/11/2018,30/06/2024,765.00 KB,765,Fast web fuzzer written in Go,Go,https://github.com/ffuf/ffuf
+222,go,13637,1042,13637,264,30/11/2016,27/05/2024,1.23 MB,1256,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",Go,https://github.com/json-iterator/go
+223,devpod,13603,427,13603,98,24/01/2023,28/03/2025,70.99 MB,72693,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",Go,https://github.com/loft-sh/devpod
+224,opennhp,13590,2493,13590,0,04/08/2014,26/03/2025,25.83 MB,26451,"A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.",Go,https://github.com/OpenNHP/opennhp
+225,VictoriaMetrics,13560,1317,13560,874,30/09/2018,28/03/2025,268.43 MB,274874,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",Go,https://github.com/VictoriaMetrics/VictoriaMetrics
+226,wire,13530,630,13530,108,28/11/2018,24/07/2024,492.00 KB,492,Compile-time Dependency Injection for Go,Go,https://github.com/google/wire
+227,ants,13469,1385,13469,1,19/05/2018,07/03/2025,1.85 MB,1890,🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.,Go,https://github.com/panjf2000/ants
+228,temporal,13444,928,13444,531,16/10/2019,28/03/2025,104.27 MB,106776,Temporal service,Go,https://github.com/temporalio/temporal
+229,cron,13406,1649,13406,156,06/07/2012,08/07/2024,180.00 KB,180,a cron library for go,Go,https://github.com/robfig/cron
+230,thanos,13386,2138,13386,759,01/11/2017,27/03/2025,222.79 MB,228139,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,Go,https://github.com/thanos-io/thanos
+231,terraformer,13354,1720,13354,46,01/05/2019,27/03/2025,68.04 MB,69673,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,Go,https://github.com/GoogleCloudPlatform/terraformer
+232,git-lfs,13343,2083,13343,428,22/09/2013,21/03/2025,18.99 MB,19443,Git extension for versioning large files,Go,https://github.com/git-lfs/git-lfs
+233,termui,13315,796,13315,105,03/02/2015,22/07/2024,6.01 MB,6150,Golang terminal dashboard,Go,https://github.com/gizak/termui
+234,dagger,13305,698,13305,712,20/11/2019,28/03/2025,129.50 MB,132604,An open-source runtime for composable workflows. Great for AI agents and CI/CD.,Go,https://github.com/dagger/dagger
+235,superfile,13291,317,13291,95,19/03/2024,27/03/2025,67.12 MB,68735,Pretty fancy and modern terminal file manager,Go,https://github.com/yorukot/superfile
+236,direnv,13285,668,13285,370,04/01/2011,28/03/2025,2.83 MB,2899,unclutter your .profile,Go,https://github.com/direnv/direnv
+237,katana,13237,698,13237,79,02/01/2021,24/03/2025,1.68 MB,1723,A next-generation crawling and spidering framework.,Go,https://github.com/projectdiscovery/katana
+238,duf,13223,412,13223,82,20/09/2020,30/07/2024,412.00 KB,412,Disk Usage/Free Utility - a better 'df' alternative,Go,https://github.com/muesli/duf
+239,codis,13181,2689,13181,303,27/10/2014,15/04/2024,22.47 MB,23010,Proxy based Redis cluster solution supporting pipeline and scaling dynamically,Go,https://github.com/CodisLabs/codis
+240,revel,13177,1384,13177,101,09/12/2011,28/10/2023,2.76 MB,2827,"A high productivity, full-stack web framework for the Go language.",Go,https://github.com/revel/revel
+241,sampler,13174,594,13174,60,25/01/2019,22/02/2024,2.18 MB,2230,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",Go,https://github.com/sqshq/sampler
+242,groupcache,13120,1396,13120,41,22/07/2013,29/11/2024,84.00 KB,84,"groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",Go,https://github.com/golang/groupcache
+243,yq,13081,632,13081,205,26/09/2015,27/03/2025,11.27 MB,11540,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",Go,https://github.com/mikefarah/yq
+244,Halfrost-Field,13064,1892,13064,2,02/04/2017,28/12/2023,102.82 MB,105287,✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地,Go,https://github.com/halfrost/Halfrost-Field
+245,primitive,12948,633,12948,54,13/09/2016,22/07/2024,2.29 MB,2348,Reproducing images with geometric primitives.,Go,https://github.com/fogleman/primitive
+246,weaviate,12930,909,12930,545,30/03/2016,28/03/2025,984.51 MB,1008140,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",Go,https://github.com/weaviate/weaviate
+247,gopherjs,12904,567,12904,197,27/08/2013,24/03/2025,7.28 MB,7452,A compiler from Go to JavaScript for running Go code in a browser,Go,https://github.com/gopherjs/gopherjs
+248,dep,12822,1040,12822,0,07/10/2016,05/09/2020,12.21 MB,12502,Go dependency management tool experiment (deprecated),Go,https://github.com/golang/dep
+249,coredns,12817,2195,12817,271,18/03/2016,24/03/2025,99.80 MB,102194,CoreDNS is a DNS server that chains plugins,Go,https://github.com/coredns/coredns
+250,evilginx2,12737,2213,12737,269,10/07/2018,21/01/2025,6.57 MB,6727,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",Go,https://github.com/kgretzky/evilginx2
+251,netbird,12693,609,12693,927,14/04/2021,28/03/2025,39.37 MB,40313,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",Go,https://github.com/netbirdio/netbird
+252,rook,12689,2712,12689,118,08/07/2016,27/03/2025,65.50 MB,67076,Storage Orchestration for Kubernetes,Go,https://github.com/rook/rook
+253,amass,12682,1952,12682,206,10/07/2018,28/03/2025,374.94 MB,383938,In-depth attack surface mapping and asset discovery,Go,https://github.com/owasp-amass/amass
+254,cheat,12648,829,12648,43,30/07/2013,29/07/2024,7.92 MB,8107,"cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.",Go,https://github.com/cheat/cheat
+255,gh-ost,12626,1300,12626,316,21/03/2016,26/03/2025,15.39 MB,15756,GitHub's Online Schema-migration Tool for MySQL,Go,https://github.com/github/gh-ost
+256,cert-manager,12625,2157,12625,188,24/05/2017,27/03/2025,90.11 MB,92277,Automatically provision and manage TLS certificates in Kubernetes,Go,https://github.com/cert-manager/cert-manager
+257,v2rayA,12457,1311,12457,337,18/10/2019,27/03/2025,7.82 MB,8009,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",Go,https://github.com/v2rayA/v2rayA
+258,task,12401,666,12401,370,27/02/2017,26/03/2025,17.93 MB,18364,A task runner / simpler Make alternative written in Go,Go,https://github.com/go-task/task
+259,gophish,12374,2508,12374,626,18/11/2013,23/09/2024,53.76 MB,55052,Open-Source Phishing Toolkit,Go,https://github.com/gophish/gophish
+260,chat,12371,1933,12371,35,14/11/2014,26/03/2025,35.10 MB,35944,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",Go,https://github.com/tinode/chat
+261,beats,12305,4937,12305,1021,05/02/2014,28/03/2025,446.57 MB,457283,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash,Go,https://github.com/elastic/beats
+262,micro,12231,1058,12231,2,16/01/2015,22/03/2025,20.76 MB,21259,A microservices platform ,Go,https://github.com/micro/micro
+263,runc,12230,2157,12230,357,05/06/2015,28/03/2025,20.91 MB,21413,CLI tool for spawning and running containers according to the OCI specification,Go,https://github.com/opencontainers/runc
+264,server,12206,656,12206,71,15/01/2018,17/03/2025,3.44 MB,3519,A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui),Go,https://github.com/gotify/server
+265,bytebase,12168,785,12168,98,27/01/2021,28/03/2025,1006.92 MB,1031083,"World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",Go,https://github.com/bytebase/bytebase
+266,gf,12161,1633,12161,168,29/06/2017,27/03/2025,26.48 MB,27115,"A powerful framework for faster, easier, and more efficient project development.",Go,https://github.com/gogf/gf
+267,night,12131,1173,12131,8,17/03/2018,12/02/2025,60.73 MB,62186,Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。,Go,https://github.com/talkgo/night
+268,pan-light,12127,2450,12127,90,21/03/2019,17/09/2023,25.60 MB,26218,"百度网盘不限速客户端, golang + qt5, 跨平台图形界面",Go,https://github.com/peterq/pan-light
+269,livekit,12101,1059,12101,148,30/09/2020,27/03/2025,11.34 MB,11612,End-to-end stack for WebRTC. SFU media server and SDKs.,Go,https://github.com/livekit/livekit
+270,HackBrowserData,12079,1644,12079,78,18/06/2020,23/03/2025,16.15 MB,16541,"Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",Go,https://github.com/moonD4rk/HackBrowserData
+271,gotraining,11986,2186,11986,0,01/07/2014,27/02/2025,113.06 MB,115771,Go Training Class Material : ,Go,https://github.com/ardanlabs/gotraining
+272,dnscrypt-proxy,11879,1037,11879,6,08/01/2018,28/03/2025,25.33 MB,25936,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",Go,https://github.com/DNSCrypt/dnscrypt-proxy
+273,sarama,11876,1790,11876,45,05/07/2013,25/03/2025,10.36 MB,10605,Sarama is a Go library for Apache Kafka.,Go,https://github.com/IBM/sarama
+274,node_exporter,11838,2453,11838,244,18/04/2013,28/03/2025,12.02 MB,12305,Exporter for machine metrics,Go,https://github.com/prometheus/node_exporter
+275,go-admin,11818,2449,11818,61,13/03/2020,25/03/2025,17.32 MB,17737,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro,Go,https://github.com/go-admin-team/go-admin
+276,ebiten,11779,697,11779,292,16/06/2013,26/03/2025,105.03 MB,107554,Ebitengine - A dead simple 2D game engine for Go,Go,https://github.com/hajimehoshi/ebiten
+277,fscan,11761,1707,11761,70,13/11/2020,25/02/2025,15.17 MB,15534,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,Go,https://github.com/shadow1ng/fscan
+278,tview,11727,598,11727,124,15/12/2017,25/03/2025,6.23 MB,6376,"Terminal UI library with rich, interactive widgets — written in Golang",Go,https://github.com/rivo/tview
+279,yay,11706,369,11706,184,05/09/2016,20/03/2025,7.27 MB,7440,Yet another Yogurt - An AUR Helper written in Go,Go,https://github.com/Jguer/yay
+280,crawlab,11677,1822,11677,121,10/02/2019,27/03/2025,23.35 MB,23906,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架,Go,https://github.com/crawlab-team/crawlab
+281,earthly,11676,414,11676,742,12/03/2020,19/03/2025,37.21 MB,38099,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",Go,https://github.com/earthly/earthly
+282,kratos,11673,980,11673,217,29/05/2018,28/03/2025,89.13 MB,91271,"Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",Go,https://github.com/ory/kratos
+283,martini,11625,1103,11625,16,30/10/2013,29/03/2022,496.00 KB,496,Classy web framework for Go,Go,https://github.com/go-martini/martini
+284,chromedp,11591,803,11591,145,24/01/2017,20/03/2025,2.71 MB,2774,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",Go,https://github.com/chromedp/chromedp
+285,semaphore,11587,1120,11587,744,23/08/2014,27/03/2025,28.15 MB,28821,"Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.",Go,https://github.com/semaphoreui/semaphore
+286,litestream,11572,271,11572,104,06/10/2020,10/12/2024,920.00 KB,920,Streaming replication for SQLite.,Go,https://github.com/benbjohnson/litestream
+287,pgx,11532,891,11532,215,30/03/2013,25/03/2025,6.06 MB,6201,PostgreSQL driver and toolkit for Go,Go,https://github.com/jackc/pgx
+288,swag,11483,1244,11483,371,10/06/2017,21/03/2025,5.20 MB,5328,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,Go,https://github.com/swaggo/swag
+289,grpcurl,11399,527,11399,107,20/11/2017,24/03/2025,627.00 KB,627,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",Go,https://github.com/fullstorydev/grpcurl
+290,juicefs,11398,1013,11398,149,08/01/2021,28/03/2025,62.70 MB,64201,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,Go,https://github.com/juicedata/juicefs
+291,subfinder,11396,1342,11396,8,31/03/2018,17/03/2025,9.58 MB,9807,Fast passive subdomain enumeration tool.,Go,https://github.com/projectdiscovery/subfinder
+292,plandex,11361,782,11361,15,24/10/2023,27/03/2025,47.15 MB,48282,Open source AI coding agent. Designed for large projects and real world tasks.,Go,https://github.com/plandex-ai/plandex
+293,infracost,11347,586,11347,217,24/06/2020,26/03/2025,13.89 MB,14223,Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!,Go,https://github.com/infracost/infracost
+294,kustomize,11320,2291,11320,207,11/05/2018,28/03/2025,94.41 MB,96679,Customization of kubernetes YAML configurations,Go,https://github.com/kubernetes-sigs/kustomize
+295,casdoor,11275,1303,11275,127,22/10/2020,26/03/2025,36.82 MB,37700,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",Go,https://github.com/casdoor/casdoor
+296,kubeshark,11270,484,11270,136,19/04/2021,25/03/2025,83.29 MB,85291,"The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes",Go,https://github.com/kubeshark/kubeshark
+297,vuls,11254,1176,11254,78,27/03/2016,27/03/2025,29.58 MB,30289,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",Go,https://github.com/future-architect/vuls
+298,gobuster,11221,1306,11221,25,14/11/2014,24/03/2025,1001.00 KB,1001,"Directory/File, DNS and VHost busting tool written in Go",Go,https://github.com/OJ/gobuster
+299,zerolog,11163,589,11163,134,12/05/2017,24/03/2025,1.33 MB,1364,Zero Allocation JSON Logger,Go,https://github.com/rs/zerolog
+300,toxiproxy,11159,458,11159,88,04/09/2014,24/03/2025,3.42 MB,3505,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Go,https://github.com/Shopify/toxiproxy
+301,gopsutil,10989,1603,10989,211,18/04/2014,25/03/2025,3.51 MB,3593,psutil for golang,Go,https://github.com/shirou/gopsutil
+302,linkerd2,10880,1294,10880,193,04/12/2017,28/03/2025,51.21 MB,52438,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",Go,https://github.com/linkerd/linkerd2
+303,asynq,10860,777,10860,239,15/11/2019,11/03/2025,7.83 MB,8022,"Simple, reliable, and efficient distributed task queue in Go",Go,https://github.com/hibiken/asynq
+304,OpenDiablo2,10845,827,10845,75,22/11/2018,21/10/2021,37.45 MB,38353,An open source re-implementation of Diablo 2,Go,https://github.com/OpenDiablo2/OpenDiablo2
+305,jwt-go,10804,992,10804,139,18/04/2012,04/11/2021,389.00 KB,389,ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:,Go,https://github.com/dgrijalva/jwt-go
+306,webhook,10762,840,10762,109,12/01/2015,12/01/2025,9.17 MB,9386,webhook is a lightweight incoming webhook server to run shell commands,Go,https://github.com/adnanh/webhook
+307,oauth2-proxy,10753,1666,10753,218,29/09/2017,26/03/2025,19.11 MB,19572,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",Go,https://github.com/oauth2-proxy/oauth2-proxy
+308,go-github,10725,2116,10725,38,24/05/2013,27/03/2025,8.61 MB,8818,Go library for accessing the GitHub v3 API,Go,https://github.com/google/go-github
+309,nightingale,10707,1491,10707,80,03/03/2020,28/03/2025,83.04 MB,85036,"Nightingale for monitoring and alerting, just as Grafana for visualization.",Go,https://github.com/ccfos/nightingale
+310,resty,10703,733,10703,8,28/08/2015,22/03/2025,4.18 MB,4277,"Simple HTTP, REST, and SSE client library for Go",Go,https://github.com/go-resty/resty
+311,wuzz,10629,414,10629,46,30/01/2017,21/07/2024,1.17 MB,1198,Interactive cli tool for HTTP inspection,Go,https://github.com/asciimoo/wuzz
+312,kubescape,10625,855,10625,47,12/08/2021,28/03/2025,113.70 MB,116426,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",Go,https://github.com/kubescape/kubescape
+313,vcluster,10623,481,10623,120,08/04/2021,28/03/2025,70.06 MB,71741,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,Go,https://github.com/loft-sh/vcluster
+314,qt,10606,752,10606,373,19/11/2014,04/03/2024,171.84 MB,175962,Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly,Go,https://github.com/therecipe/qt
+315,clair,10559,1179,10559,28,13/11/2015,27/03/2025,35.05 MB,35896,Vulnerability Static Analysis for Containers,Go,https://github.com/quay/clair
+316,grumpy,10548,645,10548,80,21/12/2016,18/01/2022,1.45 MB,1481,Grumpy is a Python to Go source code transcompiler and runtime.,Go,https://github.com/google/grumpy
+317,go-cqhttp,10520,1633,10520,312,22/07/2020,11/12/2024,2.85 MB,2922,cqhttp的golang实现，轻量、原生跨平台.,Go,https://github.com/Mrs4s/go-cqhttp
+318,quic-go,10519,1357,10519,210,06/04/2016,25/03/2025,16.81 MB,17215,A QUIC implementation in pure Go,Go,https://github.com/quic-go/quic-go
+319,slides,10498,285,10498,68,05/05/2021,21/08/2024,4.32 MB,4426,Terminal based presentation tool,Go,https://github.com/maaslalani/slides
+320,pyroscope,10432,637,10432,356,31/12/2020,27/03/2025,150.13 MB,153734,Continuous Profiling Platform. Debug performance issues down to a single line of code,Go,https://github.com/grafana/pyroscope
+321,caire,10378,383,10378,3,08/01/2018,18/06/2024,90.20 MB,92363,Content aware image resize library,Go,https://github.com/esimov/caire
+322,dtm,10374,983,10374,72,16/05/2021,16/03/2025,3.56 MB,3645,"A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",Go,https://github.com/dtm-labs/dtm
+323,comcast,10364,383,10364,26,12/11/2014,20/03/2025,88.00 KB,88,Simulating shitty network connections so you can build better systems.,Go,https://github.com/tylertreat/comcast
+324,gnet,10337,1056,10337,5,24/02/2019,16/03/2025,42.44 MB,43460,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.",Go,https://github.com/panjf2000/gnet
+325,bleve,10303,692,10303,294,17/04/2014,28/03/2025,16.83 MB,17233,A modern text/numeric/geo-spatial/vector indexing library for go,Go,https://github.com/blevesearch/bleve
+326,beszel,10276,308,10276,171,07/07/2024,26/03/2025,3.98 MB,4072,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",Go,https://github.com/henrygd/beszel
+327,cloudflared,10220,915,10220,435,13/10/2017,17/03/2025,38.31 MB,39228,Cloudflare Tunnel client (formerly Argo Tunnel),Go,https://github.com/cloudflare/cloudflared
+328,gqlgen,10203,1196,10203,359,11/02/2018,26/03/2025,14.06 MB,14398,go generate based graphql server library,Go,https://github.com/99designs/gqlgen
+329,terraform-provider-aws,10177,9412,10177,3579,05/06/2017,28/03/2025,703.31 MB,720185,The AWS Provider enables Terraform to manage AWS resources.,Go,https://github.com/hashicorp/terraform-provider-aws
+330,sftpgo,10173,797,10173,91,20/07/2019,23/03/2025,37.35 MB,38243,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",Go,https://github.com/drakkan/sftpgo
+331,sourcegraph-public-snapshot,10163,1307,10163,4750,24/08/2015,02/09/2024,1.28 GB,1341629,Code AI platform with Code Search & Cody,Go,https://github.com/sourcegraph/sourcegraph-public-snapshot
+332,gocui,10160,620,10160,77,04/01/2014,09/09/2024,259.00 KB,259,Minimalist Go package aimed at creating Console User Interfaces.,Go,https://github.com/jroimartin/gocui
+333,stash,10151,849,10151,1010,04/06/2018,28/03/2025,65.32 MB,66890,"An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc",Go,https://github.com/stashapp/stash
+334,OpenGFW,10143,753,10143,32,13/12/2023,28/10/2024,298.00 KB,298,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",Go,https://github.com/apernet/OpenGFW
+335,qrcp,10134,536,10134,7,14/01/2018,27/03/2025,25.78 MB,26400,:zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.,Go,https://github.com/claudiodangelis/qrcp
+336,shiori,10126,578,10126,79,23/01/2018,25/03/2025,48.29 MB,49445,Simple bookmark manager built with Go,Go,https://github.com/go-shiori/shiori
+337,zitadel,10125,674,10125,725,16/03/2020,28/03/2025,474.71 MB,486098,"ZITADEL - Identity infrastructure, simplified for you.",Go,https://github.com/zitadel/zitadel
+338,GolangTraining,10072,3604,10072,52,09/08/2015,03/07/2024,40.69 MB,41665,Training for Golang (go language),Go,https://github.com/GoesToEleven/GolangTraining
+339,opa,10070,1393,10070,385,28/12/2015,27/03/2025,1.04 GB,1089815,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",Go,https://github.com/open-policy-agent/opa
+340,crossplane,10068,1015,10068,158,08/09/2018,27/03/2025,42.59 MB,43615,The Cloud Native Control Plane,Go,https://github.com/crossplane/crossplane
+341,robotgo,10056,911,10056,183,26/09/2016,08/03/2025,5.79 MB,5927,"RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar",Go,https://github.com/go-vgo/robotgo
+342,crowdsec,10024,494,10024,207,15/05/2020,28/03/2025,163.84 MB,167768,CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.,Go,https://github.com/crowdsecurity/crowdsec
+343,graphql,10020,842,10020,233,19/07/2015,11/01/2025,3.59 MB,3673,An implementation of GraphQL for Go / Golang,Go,https://github.com/graphql-go/graphql
+344,tyk,10001,1108,10001,325,07/05/2014,28/03/2025,245.76 MB,251661,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",Go,https://github.com/TykTechnologies/tyk
+345,netmaker,9990,567,9990,189,25/03/2021,28/03/2025,289.17 MB,296109,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",Go,https://github.com/gravitl/netmaker
+346,fq,9985,231,9985,53,07/02/2021,24/03/2025,51.24 MB,52469,"jq for binary formats - tool, language and decoders for working with binary and text formats",Go,https://github.com/wader/fq
+347,owncast,9953,991,9953,188,24/05/2020,28/03/2025,917.54 MB,939565,Take control over your live stream video by running it yourself.  Streaming + chat out of the box.,Go,https://github.com/owncast/owncast
+348,FerretDB,9945,433,9945,363,30/10/2021,27/03/2025,12.93 MB,13238,A truly Open Source MongoDB alternative,Go,https://github.com/FerretDB/FerretDB
+349,portmaster,9913,336,9913,99,13/11/2018,28/03/2025,38.62 MB,39543,🏔 Love Freedom - ❌ Block Mass Surveillance,Go,https://github.com/safing/portmaster
+350,fsnotify,9910,934,9910,37,28/06/2014,28/03/2025,814.00 KB,814,Cross-platform filesystem notifications for Go.,Go,https://github.com/fsnotify/fsnotify
+351,protobuf,9902,1573,9902,112,23/11/2014,05/08/2024,8.24 MB,8435,Go support for Google's protocol buffers,Go,https://github.com/golang/protobuf
+352,livego,9901,2016,9901,139,28/05/2017,06/11/2024,2.58 MB,2643,live video streaming server in golang,Go,https://github.com/gwuhaolin/livego
+353,kompose,9893,774,9893,29,27/06/2016,13/03/2025,43.97 MB,45021,Convert Compose to Kubernetes,Go,https://github.com/kubernetes/kompose
+354,waveterm,9815,321,9815,292,08/06/2022,25/03/2025,49.66 MB,50849,"An open-source, cross-platform terminal for seamless workflows",Go,https://github.com/wavetermdev/waveterm
+355,conc,9801,334,9801,22,02/01/2023,26/04/2024,280.00 KB,280,Better structured concurrency for go,Go,https://github.com/sourcegraph/conc
+356,redigo,9794,1248,9794,23,14/04/2012,15/03/2025,588.00 KB,588,Go client for Redis,Go,https://github.com/gomodule/redigo
+357,neko,9787,681,9787,133,14/03/2020,26/03/2025,88.60 MB,90723,A self hosted virtual browser that runs in docker and uses WebRTC.,Go,https://github.com/m1k1o/neko
+358,go-openai,9784,1530,9784,188,18/08/2020,20/03/2025,704.00 KB,704,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",Go,https://github.com/sashabaranov/go-openai
+359,dex,9770,1757,9770,461,17/08/2015,28/03/2025,25.92 MB,26544,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,Go,https://github.com/dexidp/dex
+360,go-swagger,9700,1269,9700,605,16/11/2014,21/03/2025,53.76 MB,55050,Swagger 2.0 implementation for go,Go,https://github.com/go-swagger/go-swagger
+361,buf,9691,296,9691,40,03/10/2019,28/03/2025,26.26 MB,26892,The best way of working with Protocol Buffers.,Go,https://github.com/bufbuild/buf
+362,dice,9684,1295,9684,148,31/08/2022,27/03/2025,18.94 MB,19392,"DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",Go,https://github.com/DiceDB/dice
+363,go-cloud,9647,817,9647,15,21/03/2018,18/03/2025,41.62 MB,42616,The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.,Go,https://github.com/google/go-cloud
+364,devbox,9604,232,9604,343,18/08/2022,27/03/2025,41.26 MB,42249,"Instant, easy, and predictable development environments",Go,https://github.com/jetify-com/devbox
+365,grype,9603,615,9603,310,26/05/2020,26/03/2025,6.51 MB,6665,A vulnerability scanner for container images and filesystems,Go,https://github.com/anchore/grype
+366,NoiseTorch,9558,227,9558,62,04/07/2020,13/01/2025,6.01 MB,6158,Real-time microphone noise suppression on Linux.,Go,https://github.com/noisetorch/NoiseTorch
+367,nakama,9534,1148,9534,102,13/01/2017,27/03/2025,102.09 MB,104545,Distributed server for social and realtime games and apps.,Go,https://github.com/heroiclabs/nakama
+368,encore,9528,393,9528,132,17/02/2021,27/03/2025,14.32 MB,14660,Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure,Go,https://github.com/encoredev/encore
+369,awesomo,9522,671,9522,0,13/12/2016,28/02/2024,57.00 KB,57,Cool open source projects. Choose your project and get involved in Open Source development now.,Go,https://github.com/lk-geimfari/awesomo
+370,The-Golang-Standard-Library-by-Example,9516,2006,9516,35,14/04/2013,25/04/2023,518.00 KB,518,Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。,Go,https://github.com/polaris1119/The-Golang-Standard-Library-by-Example
+371,go-clean-arch,9461,1259,9461,34,09/06/2017,24/04/2024,381.00 KB,381,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,Go,https://github.com/bxcodec/go-clean-arch
+372,imgproxy,9409,661,9409,72,20/06/2017,24/03/2025,36.55 MB,37425,Fast and secure standalone server for resizing and converting remote images,Go,https://github.com/imgproxy/imgproxy
+373,distribution,9388,2573,9388,457,22/12/2014,23/03/2025,42.01 MB,43017,"The toolkit to pack, ship, store, and deliver container content",Go,https://github.com/distribution/distribution
+374,pq,9386,919,9386,328,12/03/2012,26/11/2024,1.06 MB,1081,Pure Go Postgres driver for database/sql,Go,https://github.com/lib/pq
+375,prometheus-operator,9366,3760,9366,244,22/09/2016,28/03/2025,126.39 MB,129426,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,Go,https://github.com/prometheus-operator/prometheus-operator
+376,golearn,9358,1190,9358,87,26/12/2013,15/01/2024,27.07 MB,27723,Machine Learning for Go,Go,https://github.com/sjwhitworth/golearn
+377,mock,9357,608,9357,81,12/06/2015,08/01/2024,669.00 KB,669,GoMock is a mocking framework for the Go programming language.,Go,https://github.com/golang/mock
+378,gluetun,9343,417,9343,296,06/02/2018,28/03/2025,12.64 MB,12942,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",Go,https://github.com/qdm12/gluetun
+379,termshark,9343,414,9343,42,20/04/2019,30/04/2024,21.74 MB,22261,"A terminal UI for tshark, inspired by Wireshark",Go,https://github.com/gcla/termshark
+380,client-go,9326,2977,9326,22,25/08/2016,26/03/2025,28.81 MB,29503,Go client for Kubernetes.,Go,https://github.com/kubernetes/client-go
+381,usql,9294,362,9294,89,02/03/2017,05/03/2025,3.06 MB,3136,Universal command-line interface for SQL databases,Go,https://github.com/xo/usql
+382,coder,9294,824,9294,553,22/12/2021,28/03/2025,202.95 MB,207823,Provision remote development environments via Terraform,Go,https://github.com/coder/coder
+383,tile38,9292,579,9292,151,04/03/2016,13/03/2025,49.26 MB,50441,Real-time Geospatial and Geofencing,Go,https://github.com/tidwall/tile38
+384,miller,9217,222,9217,118,03/05/2015,25/03/2025,205.42 MB,210350,"Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",Go,https://github.com/johnkerl/miller
+385,gobot,9115,1048,9115,98,21/09/2013,25/03/2025,11.74 MB,12021,"Golang framework for robotics, drones, and the Internet of Things (IoT)",Go,https://github.com/hybridgroup/gobot
+386,kopia,9101,438,9101,576,19/12/2015,25/03/2025,30.57 MB,31299,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",Go,https://github.com/kopia/kopia
+387,go-fundamental-programming,9089,2036,9089,2,20/03/2013,27/10/2023,345.00 KB,345,《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。,Go,https://github.com/unknwon/go-fundamental-programming
+388,sliver,9087,1225,9087,236,17/01/2019,27/03/2025,168.67 MB,172721,Adversary Emulation Framework,Go,https://github.com/BishopFox/sliver
+389,textql,9086,299,9086,39,03/02/2014,22/10/2023,1.01 MB,1038,Execute SQL against structured text like CSV or TSV,Go,https://github.com/dinedal/textql
+390,velero,9085,1430,9085,642,02/08/2017,28/03/2025,53.37 MB,54653,Backup and migrate Kubernetes applications and their persistent volumes,Go,https://github.com/vmware-tanzu/velero
+391,gop,9074,549,9074,40,12/12/2015,27/03/2025,23.85 MB,24418,"The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.",Go,https://github.com/goplus/gop
+392,flannel,9008,2882,9008,33,10/07/2014,26/03/2025,60.98 MB,62448,"flannel is a network fabric for containers, designed for Kubernetes",Go,https://github.com/flannel-io/flannel
+393,templ,8997,304,8997,58,10/04/2021,25/03/2025,7.98 MB,8173,A language for writing HTML user interfaces in Go.,Go,https://github.com/a-h/templ
+394,client,8996,1243,8996,4224,11/01/2015,28/03/2025,675.18 MB,691382,"Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",Go,https://github.com/keybase/client
+395,gdrive,8976,1184,8976,433,01/01/2013,19/04/2023,491.00 KB,491,Google Drive CLI Client,Go,https://github.com/prasmussen/gdrive
+396,godotenv,8973,411,8973,76,30/07/2013,16/12/2024,136.00 KB,136,A Go port of Ruby's dotenv library (Loads environment variables from .env files),Go,https://github.com/joho/godotenv
+397,cfssl,8949,1126,8949,325,07/07/2014,26/02/2025,43.31 MB,44353,CFSSL: Cloudflare's PKI and TLS toolkit,Go,https://github.com/cloudflare/cfssl
+398,keda,8899,1118,8899,233,13/02/2019,26/03/2025,77.96 MB,79830, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,Go,https://github.com/kedacore/keda
+399,skopeo,8893,819,8893,55,07/03/2016,28/03/2025,56.95 MB,58316,"Work with remote images registries - retrieving information, images, signing content",Go,https://github.com/containers/skopeo
+400,gotenberg,8886,604,8886,41,23/03/2018,28/03/2025,20.46 MB,20954,"A developer-friendly API for converting numerous document formats into PDF files, and more!",Go,https://github.com/gotenberg/gotenberg
+401,golang-design-pattern,8858,2090,8858,4,12/03/2016,16/03/2023,1.03 MB,1055,设计模式 Golang实现－《研磨设计模式》读书笔记,Go,https://github.com/senghoo/golang-design-pattern
+402,gorse,8844,807,8844,93,14/08/2018,28/03/2025,11.95 MB,12237,Gorse open source recommender system engine,Go,https://github.com/gorse-io/gorse
+403,centrifugo,8841,618,8841,25,31/03/2015,23/03/2025,109.17 MB,111786,"Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.",Go,https://github.com/centrifugal/centrifugo
+404,rkt,8823,882,8823,499,11/11/2014,24/02/2020,25.48 MB,26090,"[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",Go,https://github.com/rkt/rkt
+405,pgweb,8823,761,8823,32,09/10/2014,15/03/2025,23.93 MB,24500,Cross-platform client for PostgreSQL databases,Go,https://github.com/sosedoff/pgweb
+406,up,8805,382,8805,291,21/06/2017,15/03/2024,23.29 MB,23845,"Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",Go,https://github.com/apex/up
+407,soar,8734,1326,8734,74,08/10/2018,15/12/2023,12.71 MB,13018,SQL Optimizer And Rewriter,Go,https://github.com/XiaoMi/soar
+408,lipgloss,8721,243,8721,80,01/03/2021,26/03/2025,1.66 MB,1700,Style definitions for nice terminal layouts 👄,Go,https://github.com/charmbracelet/lipgloss
+409,immudb,8714,346,8714,129,07/11/2019,25/03/2025,38.50 MB,39427,"immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history",Go,https://github.com/codenotary/immudb
+410,aws-sdk-go,8680,2069,8680,1,05/12/2014,21/01/2025,510.73 MB,522990,"AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2",Go,https://github.com/aws/aws-sdk-go
+411,aws-vault,8666,829,8666,41,11/08/2015,24/07/2024,9.49 MB,9720,A vault for securely storing and accessing AWS credentials in development environments,Go,https://github.com/99designs/aws-vault
+412,nerdctl,8666,646,8666,341,04/12/2020,28/03/2025,11.12 MB,11383,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",Go,https://github.com/containerd/nerdctl
+413,Yearning,8635,2002,8635,140,18/10/2017,24/03/2025,437.34 MB,447833,🐳 A most popular sql audit platform for mysql ,Go,https://github.com/cookieY/Yearning
+414,pipeline,8618,1818,8618,433,29/08/2018,25/03/2025,125.48 MB,128494,A cloud-native Pipeline resource.,Go,https://github.com/tektoncd/pipeline
+415,bbolt,8618,665,8618,41,17/06/2017,18/03/2025,2.42 MB,2483,An embedded key/value database for Go.,Go,https://github.com/etcd-io/bbolt
+416,fission,8599,793,8599,194,19/08/2016,24/03/2025,58.53 MB,59932,Fast and Simple Serverless Functions for Kubernetes,Go,https://github.com/fission/fission
+417,ginkgo,8579,666,8579,104,23/08/2013,21/03/2025,7.45 MB,7629,A Modern Testing Framework for Go,Go,https://github.com/onsi/ginkgo
+418,buildkit,8579,1208,8579,903,31/05/2017,26/03/2025,48.18 MB,49337,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",Go,https://github.com/moby/buildkit
+419,cadence,8559,820,8559,127,21/02/2017,27/03/2025,74.77 MB,76561,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",Go,https://github.com/cadence-workflow/cadence
+420,go-app,8555,383,8555,34,12/10/2016,24/03/2025,230.72 MB,236255,A package to build progressive web apps with Go programming language and WebAssembly.,Go,https://github.com/maxence-charriere/go-app
+421,go2rtc,8543,624,8543,437,18/08/2022,27/03/2025,14.02 MB,14356,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",Go,https://github.com/AlexxIT/go2rtc
+422,origin,8533,4716,8533,248,30/07/2014,28/03/2025,1.24 GB,1297335,Conformance test suite for OpenShift,Go,https://github.com/openshift/origin
+423,terragrunt,8519,1029,8519,439,23/05/2016,28/03/2025,49.96 MB,51154,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,Go,https://github.com/gruntwork-io/terragrunt
+424,raft,8489,1015,8489,43,05/11/2013,28/03/2025,2.12 MB,2175,Golang implementation of the Raft consensus protocol,Go,https://github.com/hashicorp/raft
+425,nezha,8471,1408,8471,13,09/11/2019,27/03/2025,11.71 MB,11993,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool",Go,https://github.com/nezhahq/nezha
+426,anteon,8466,383,8466,16,04/08/2021,13/03/2025,5.99 MB,6138,"Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud",Go,https://github.com/getanteon/anteon
+427,cow,8456,1617,8456,230,25/08/2012,05/02/2023,1.42 MB,1451,HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.,Go,https://github.com/cyfdecyf/cow
+428,up,8453,129,8453,28,01/04/2018,05/09/2024,856.00 KB,856,Ultimate Plumber is a tool for writing Linux pipes with instant live preview,Go,https://github.com/akavel/up
+429,go-admin,8447,1357,8447,219,19/06/2018,12/02/2025,51.07 MB,52297,A golang framework helps gopher to build a data visualization and admin panel in ten minutes,Go,https://github.com/GoAdminGroup/go-admin
+430,server,8420,609,8420,10,16/07/2020,07/12/2024,1.33 MB,1366,screen sharing for developers https://screego.net/,Go,https://github.com/screego/server
+431,linuxkit,8401,1019,8401,353,26/11/2015,11/03/2025,60.54 MB,61996,"A toolkit for building secure, portable and lean operating systems for containers",Go,https://github.com/linuxkit/linuxkit
+432,go-cache,8396,882,8396,75,02/01/2012,20/11/2023,126.00 KB,126,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",Go,https://github.com/patrickmn/go-cache
+433,confd,8389,1413,8389,178,01/10/2013,16/07/2024,17.78 MB,18207,Manage local application configuration files using templates and data from etcd or consul,Go,https://github.com/kelseyhightower/confd
+434,lego,8371,1051,8371,157,08/06/2015,27/03/2025,19.14 MB,19600,Let's Encrypt/ACME client and library written in Go,Go,https://github.com/go-acme/lego
+435,ui,8347,649,8347,124,17/02/2014,19/05/2022,37.09 MB,37982,Platform-native GUI library for Go.,Go,https://github.com/andlabs/ui
+436,goconvey,8332,557,8332,168,21/08/2013,30/07/2024,3.92 MB,4011,Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.,Go,https://github.com/smartystreets/goconvey
+437,pprof,8323,618,8323,53,29/01/2016,26/03/2025,6.29 MB,6445,pprof is a tool for visualization and analysis of profiling data,Go,https://github.com/google/pprof
+438,autoscaler,8310,4059,8310,227,12/04/2017,27/03/2025,243.52 MB,249364,Autoscaling components for Kubernetes,Go,https://github.com/kubernetes/autoscaler
+439,mongo-go-driver,8287,902,8287,17,08/02/2017,27/03/2025,44.11 MB,45165,The Official Golang driver for MongoDB,Go,https://github.com/mongodb/mongo-go-driver
+440,connect,8287,858,8287,541,22/03/2016,28/03/2025,34.71 MB,35542,Fancy stream processing made operationally mundane,Go,https://github.com/redpanda-data/connect
+441,reviewdog,8282,437,8282,130,17/10/2016,25/03/2025,5.06 MB,5177,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language,Go,https://github.com/reviewdog/reviewdog
+442,gorush,8281,856,8281,56,22/03/2016,09/03/2025,5.63 MB,5768,A push notification server written in Go (Golang).,Go,https://github.com/appleboy/gorush
+443,httpx,8267,885,8267,52,28/05/2020,17/03/2025,10.24 MB,10483,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,Go,https://github.com/projectdiscovery/httpx
+444,dns,8262,1154,8262,15,03/08/2010,19/03/2025,16.01 MB,16393,DNS library in Go,Go,https://github.com/miekg/dns
+445,kubebuilder,8257,1525,8257,68,14/03/2018,28/03/2025,70.34 MB,72026,Kubebuilder - SDK for building Kubernetes APIs using CRDs,Go,https://github.com/kubernetes-sigs/kubebuilder
+446,otto,8244,591,8244,49,06/10/2012,05/11/2024,2.35 MB,2407,A JavaScript interpreter in Go (golang),Go,https://github.com/robertkrimen/otto
+447,git-bug,8240,269,8240,162,12/07/2018,18/03/2025,24.84 MB,25434,"Distributed, offline-first bug tracker embedded in git, with bridges",Go,https://github.com/git-bug/git-bug
+448,Reloader,8231,532,8231,119,04/07/2018,26/03/2025,26.78 MB,27423,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",Go,https://github.com/stakater/Reloader
+449,watermill,8228,424,8228,104,08/11/2018,20/03/2025,26.12 MB,26749,Building event-driven applications the easy way in Go.,Go,https://github.com/ThreeDotsLabs/watermill
+450,errors,8222,707,8222,42,27/12/2015,02/11/2021,131.00 KB,131,Simple error handling primitives,Go,https://github.com/pkg/errors
+451,rpcx,8192,1182,8192,6,18/05/2016,21/03/2025,27.62 MB,28282,"Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!",Go,https://github.com/smallnest/rpcx
+452,glide,8135,541,8135,400,09/07/2014,22/07/2024,2.24 MB,2292,Package Management for Golang,Go,https://github.com/Masterminds/glide
+453,atlantis,8128,1088,8128,674,06/02/2018,28/03/2025,56.55 MB,57903,Terraform Pull Request Automation,Go,https://github.com/runatlantis/atlantis
+454,buffalo,8111,582,8111,24,22/10/2014,04/12/2023,15.82 MB,16204,Rapid Web Development w/ Go,Go,https://github.com/gobuffalo/buffalo
+455,gosec,8103,635,8103,15,18/07/2016,25/03/2025,5.13 MB,5251,Go security checker,Go,https://github.com/securego/gosec
+456,lorca,8093,543,8093,76,04/11/2018,19/08/2024,544.00 KB,544,Build cross-platform modern desktop apps in Go + HTML5,Go,https://github.com/zserge/lorca
+457,gh-dash,8089,249,8089,73,14/10/2021,22/03/2025,27.96 MB,28627,A beautiful CLI dashboard for GitHub 🚀 ,Go,https://github.com/dlvhdr/gh-dash
+458,roadrunner,8073,414,8073,72,26/12/2017,26/03/2025,72.57 MB,74314,"🤯 High-performance PHP application server, process manager written in Go and powered with plugins",Go,https://github.com/roadrunner-server/roadrunner
+459,wego,8059,493,8059,24,21/11/2014,28/02/2025,217.00 KB,217,weather app for the terminal,Go,https://github.com/schachmat/wego
+460,sealed-secrets,8059,702,8059,74,29/05/2017,27/03/2025,41.32 MB,42309,A Kubernetes controller and tool for one-way encrypted Secrets,Go,https://github.com/bitnami-labs/sealed-secrets
+461,lf,8057,332,8057,142,13/08/2016,21/03/2025,2.10 MB,2151,Terminal file manager,Go,https://github.com/gokcehan/lf
+462,dozzle,8043,361,8043,5,30/10/2018,28/03/2025,146.54 MB,150060,Realtime log viewer for docker containers. ,Go,https://github.com/amir20/dozzle
+463,cortex,8032,607,8032,130,24/01/2019,12/06/2024,11.28 MB,11550,Production infrastructure for machine learning at scale,Go,https://github.com/cortexlabs/cortex
+464,external-dns,8027,2644,8027,197,09/02/2017,28/03/2025,66.42 MB,68012,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",Go,https://github.com/kubernetes-sigs/external-dns
+465,goose,8016,562,8016,85,25/02/2016,28/03/2025,11.44 MB,11719,A database migration tool. Supports SQL migrations and Go functions. ,Go,https://github.com/pressly/goose
+466,tilt,7991,317,7991,473,07/08/2018,20/03/2025,102.99 MB,105465,Define your dev environment as code. For microservice apps on Kubernetes.,Go,https://github.com/tilt-dev/tilt
+467,mapstructure,7975,693,7975,84,20/05/2013,25/06/2024,366.00 KB,366,Go library for decoding generic map values into native Go structures and vice versa.,Go,https://github.com/mitchellh/mapstructure
+468,trojan-go,7961,1715,7961,148,17/03/2020,14/07/2024,7.30 MB,7474,Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/,Go,https://github.com/p4gefau1t/trojan-go
+469,nginx-ui,7898,559,7898,65,19/02/2021,28/03/2025,88.03 MB,90146,Yet another WebUI for Nginx,Go,https://github.com/0xJacky/nginx-ui
+470,gonum,7894,563,7894,249,25/03/2017,27/03/2025,15.83 MB,16213,"Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",Go,https://github.com/gonum/gonum
+471,Introduction-to-Golang,7890,1958,7890,6,09/08/2021,20/05/2024,227.86 MB,233333,【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt,Go,https://github.com/0voice/Introduction-to-Golang
+472,go-internals,7871,350,7871,11,18/02/2018,03/04/2021,129.00 KB,129,A book about the internals of the Go programming language.,Go,https://github.com/teh-cmc/go-internals
+473,go-ibax,7871,6444,7871,96,27/08/2020,08/11/2024,3.19 MB,3262,"An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. ",Go,https://github.com/IBAX-io/go-ibax
+474,lnd,7868,2143,7868,774,16/01/2016,28/03/2025,97.29 MB,99623,Lightning Network Daemon ⚡️,Go,https://github.com/lightningnetwork/lnd
+475,ko,7867,412,7867,54,21/03/2019,26/03/2025,47.66 MB,48805,Build and deploy Go applications,Go,https://github.com/ko-build/ko
+476,fathom,7859,379,7859,6,19/11/2016,30/10/2023,14.03 MB,14368,"Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.",Go,https://github.com/usefathom/fathom
+477,kafka-go,7858,800,7858,238,09/05/2017,09/01/2025,2.18 MB,2228,Kafka library in Go,Go,https://github.com/segmentio/kafka-go
+478,flynn,7847,591,7847,0,09/07/2013,04/09/2021,36.02 MB,36886,[UNMAINTAINED] A next generation open source platform as a service (PaaS),Go,https://github.com/flynn/flynn
+479,jwt,7829,367,7829,50,18/05/2021,21/03/2025,1.46 MB,1492,Go implementation of JSON Web Tokens (JWT).,Go,https://github.com/golang-jwt/jwt
+480,hanko,7789,952,7789,68,14/03/2022,28/03/2025,43.52 MB,44563,"The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.",Go,https://github.com/teamhanko/hanko
+481,go-datastructures,7774,844,7774,29,29/10/2014,16/05/2024,8.41 MB,8607,"A collection of useful, performant, and threadsafe Go datastructures.",Go,https://github.com/Workiva/go-datastructures
+482,bigcache,7758,604,7758,96,23/03/2016,20/01/2025,260.00 KB,260,Efficient cache for gigabytes of data written in Go.,Go,https://github.com/allegro/bigcache
+483,sonic,7753,366,7753,20,25/05/2021,26/03/2025,28.43 MB,29109,A blazingly fast JSON serializing & deserializing library,Go,https://github.com/bytedance/sonic
+484,gopl.io,7752,2765,7752,14,03/02/2015,10/08/2024,2.13 MB,2182,"Example programs from ""The Go Programming Language""",Go,https://github.com/adonovan/gopl.io
+485,peco,7730,234,7730,52,06/06/2014,04/03/2024,1.39 MB,1422,Simplistic interactive filtering tool,Go,https://github.com/peco/peco
+486,buildah,7722,805,7722,174,26/01/2017,28/03/2025,74.44 MB,76227,A tool that facilitates building OCI images.,Go,https://github.com/containers/buildah
+487,machinery,7689,929,7689,242,05/04/2015,03/03/2025,21.15 MB,21661,Machinery is an asynchronous task queue/job queue based on distributed message passing.,Go,https://github.com/RichardKnop/machinery
+488,talos,7674,636,7674,272,03/11/2017,28/03/2025,88.56 MB,90681,Talos Linux is a modern Linux distribution built for Kubernetes.,Go,https://github.com/siderolabs/talos
+489,terratest,7622,1348,7622,197,05/03/2016,27/03/2025,28.74 MB,29428, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,Go,https://github.com/gruntwork-io/terratest
+490,sh,7607,357,7607,103,16/01/2016,28/03/2025,5.50 MB,5636,"A shell parser, formatter, and interpreter with bash support; includes shfmt",Go,https://github.com/mvdan/sh
+491,frankenphp,7607,294,7607,155,25/03/2022,28/03/2025,3.85 MB,3938,🧟 The modern PHP app server,Go,https://github.com/dunglas/frankenphp
+492,pholcus,7584,1695,7584,7,03/07/2015,08/11/2022,24.12 MB,24694,Pholcus is a distributed high-concurrency crawler software written in pure golang,Go,https://github.com/andeya/pholcus
+493,color,7543,623,7543,18,17/02/2014,27/03/2025,2.02 MB,2069,Color package for Go (golang),Go,https://github.com/fatih/color
+494,tools,7535,2292,7535,95,25/11/2014,27/03/2025,47.17 MB,48305,[mirror] Go Tools,Go,https://github.com/golang/tools
+495,concourse,7516,852,7516,139,19/04/2014,26/03/2025,179.70 MB,184014,Concourse is a container-based automation system written in Go.,Go,https://github.com/concourse/concourse
+496,negroni,7509,580,7509,8,18/05/2014,01/01/2025,5.39 MB,5520,Idiomatic HTTP Middleware for Golang,Go,https://github.com/urfave/negroni
+497,lago,7498,364,7498,14,28/02/2022,28/03/2025,134.80 MB,138038,"Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",Go,https://github.com/getlago/lago
+498,gobyexample,7496,1320,7496,14,21/09/2012,24/02/2025,6.76 MB,6923,Go by Example,Go,https://github.com/mmcgrana/gobyexample
+499,mindoc,7485,1935,7485,306,19/04/2017,24/03/2025,91.54 MB,93742,Golang实现的基于beego框架的接口在线文档管理系统,Go,https://github.com/mindoc-org/mindoc
+500,elastic,7461,1153,7461,114,06/12/2012,08/08/2024,8.24 MB,8438,Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch,Go,https://github.com/olivere/elastic
+501,yaegi,7442,374,7442,160,10/01/2018,08/01/2025,30.89 MB,31628,Yaegi is Another Elegant Go Interpreter,Go,https://github.com/traefik/yaegi
+502,noms,7427,266,7427,293,03/06/2015,27/08/2021,70.63 MB,72323,"The versioned, forkable, syncable database",Go,https://github.com/attic-labs/noms
+503,pdfcpu,7421,520,7421,123,18/06/2017,10/03/2025,407.79 MB,417581,A PDF processor written in Go.,Go,https://github.com/pdfcpu/pdfcpu
+504,DeepLX,7399,582,7399,2,17/10/2022,22/03/2025,1023.00 KB,1023,"Powerful Free DeepL API, No Token Required",Go,https://github.com/OwO-Network/DeepLX
+505,metallb,7396,951,7396,83,08/11/2017,28/03/2025,50.25 MB,51453,A network load-balancer implementation for Kubernetes using standard routing protocols,Go,https://github.com/metallb/metallb
+506,dasel,7391,144,7391,42,22/09/2020,28/03/2025,8.76 MB,8972,"Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",Go,https://github.com/TomWright/dasel
+507,gotop,7391,451,7391,73,19/02/2018,30/03/2023,3.48 MB,3559,A terminal based graphical activity monitor inspired by gtop and vtop,Go,https://github.com/cjbassi/gotop
+508,v2,7390,759,7390,318,20/11/2017,28/03/2025,34.01 MB,34829,Minimalist and opinionated feed reader,Go,https://github.com/miniflux/v2
+509,Havoc,7381,1046,7381,122,11/09/2022,23/01/2025,33.47 MB,34278,The Havoc Framework,Go,https://github.com/HavocFramework/Havoc
+510,operator-sdk,7363,1756,7363,72,07/02/2018,20/03/2025,70.27 MB,71959,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",Go,https://github.com/operator-framework/operator-sdk
+511,kitex,7357,820,7357,55,09/07/2021,28/03/2025,13.29 MB,13604,Go RPC framework with high-performance and strong-extensibility for building micro-services.,Go,https://github.com/cloudwego/kitex
+512,kube-bench,7317,1265,7317,67,19/06/2017,24/03/2025,9.79 MB,10023,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,Go,https://github.com/aquasecurity/kube-bench
+513,twirp,7303,328,7303,11,16/01/2018,05/08/2024,3.82 MB,3914,A simple RPC framework with protobuf service definitions,Go,https://github.com/twitchtv/twirp
+514,fabio,7292,621,7292,252,16/10/2015,25/03/2025,20.83 MB,21326,Consul Load-Balancing made simple,Go,https://github.com/fabiolb/fabio
+515,100-go-mistakes,7291,454,7291,9,12/12/2020,15/03/2025,38.44 MB,39362,📖 100 Go Mistakes and How to Avoid Them,Go,https://github.com/teivah/100-go-mistakes
+516,falcon-plus,7284,1525,7284,181,09/04/2016,24/04/2024,17.18 MB,17594, An open-source and enterprise-level monitoring system.,Go,https://github.com/open-falcon/falcon-plus
+517,goim,7282,1793,7282,64,30/04/2015,05/05/2023,12.45 MB,12750,goim,Go,https://github.com/Terry-Mao/goim
+518,zinx,7278,1229,7278,80,23/01/2019,13/03/2025,37.18 MB,38073,A lightweight concurrent server framework based on Golang.,Go,https://github.com/aceld/zinx
+519,gatus,7274,478,7274,193,04/09/2019,28/03/2025,33.10 MB,33890,⛑ Automated developer-oriented status page,Go,https://github.com/TwiN/gatus
+520,squirrel,7265,475,7265,90,18/01/2014,24/04/2024,275.00 KB,275,Fluent SQL generation for golang,Go,https://github.com/Masterminds/squirrel
+521,yao,7254,658,7254,0,06/09/2021,22/03/2025,17.57 MB,17995,"✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.",Go,https://github.com/YaoApp/yao
+522,steampipe,7252,288,7252,36,17/01/2021,28/03/2025,23.22 MB,23782,"Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.",Go,https://github.com/turbot/steampipe
+523,chainlink,7237,1761,7237,244,20/11/2017,28/03/2025,699.81 MB,716607,"node of the decentralized oracle network, bridging on and off-chain computation",Go,https://github.com/smartcontractkit/chainlink
+524,karpenter-provider-aws,7190,1061,7190,386,09/07/2020,26/03/2025,24.69 MB,25286,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",Go,https://github.com/aws/karpenter-provider-aws
+525,scc,7188,275,7188,54,01/03/2018,27/03/2025,12.31 MB,12607,"Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go",Go,https://github.com/boyter/scc
+526,osv-scanner,7187,408,7187,119,14/11/2022,28/03/2025,14.17 MB,14512,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,Go,https://github.com/google/osv-scanner
+527,go-blueprint,7143,389,7143,43,11/10/2023,02/02/2025,9.38 MB,9609,Go-blueprint allows users to spin up a quick Go project using a popular framework,Go,https://github.com/Melkeydev/go-blueprint
+528,certificates,7142,461,7142,216,01/11/2018,27/03/2025,43.26 MB,44298,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",Go,https://github.com/smallstep/certificates
+529,httpstat,7121,389,7121,17,23/09/2016,11/01/2025,10.50 MB,10749,"It's like curl -v, with colours. ",Go,https://github.com/davecheney/httpstat
+530,yaml,6997,1064,6997,426,05/03/2014,15/08/2024,1.56 MB,1599,YAML support for the Go language.,Go,https://github.com/go-yaml/yaml
+531,go-gin-example,6986,1609,6986,51,16/02/2018,07/07/2023,23.01 MB,23567,An example of gin,Go,https://github.com/eddycjy/go-gin-example
+532,kubeedge,6984,1732,6984,806,28/09/2018,26/03/2025,138.12 MB,141436,Kubernetes Native Edge Computing Framework (project under CNCF),Go,https://github.com/kubeedge/kubeedge
+533,chaos-mesh,6968,869,6968,457,04/09/2019,17/03/2025,69.21 MB,70871,A Chaos Engineering Platform for Kubernetes.,Go,https://github.com/chaos-mesh/chaos-mesh
+534,gocv,6959,877,6959,334,18/09/2017,28/03/2025,9.29 MB,9518,"Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.",Go,https://github.com/hybridgroup/gocv
+535,keploy,6951,621,6951,192,19/01/2022,27/03/2025,68.23 MB,69869,"Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",Go,https://github.com/keploy/keploy
+536,walk,6947,897,6947,346,16/09/2010,21/01/2024,5.32 MB,5450,A Windows GUI toolkit for the Go Programming Language,Go,https://github.com/lxn/walk
+537,jid,6944,157,6944,19,06/06/2016,11/02/2025,107.00 KB,107,json incremental digger,Go,https://github.com/simeji/jid
+538,flux2,6930,640,6930,249,24/04/2020,24/03/2025,10.31 MB,10556,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,Go,https://github.com/fluxcd/flux2
+539,blockchain_guide,6920,1952,6920,4,08/06/2016,18/03/2025,32.55 MB,33331,"Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.",Go,https://github.com/yeasy/blockchain_guide
+540,alertmanager,6900,2200,6900,652,16/07/2013,28/03/2025,42.14 MB,43156,Prometheus Alertmanager,Go,https://github.com/prometheus/alertmanager
+541,matterbridge,6900,642,6900,314,23/10/2015,12/12/2024,112.96 MB,115670,"bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)",Go,https://github.com/42wim/matterbridge
+542,flux,6897,1080,6897,0,07/07/2016,01/11/2022,11.88 MB,12168,Successor: https://github.com/fluxcd/flux2,Go,https://github.com/fluxcd/flux
+543,oapi-codegen,6883,919,6883,683,27/02/2019,25/03/2025,15.41 MB,15782,Generate Go client and server boilerplate from OpenAPI 3 specifications,Go,https://github.com/oapi-codegen/oapi-codegen
+544,kubeless,6873,749,6873,200,16/11/2016,15/12/2021,82.29 MB,84267,Kubernetes Native Serverless Framework,Go,https://github.com/vmware-archive/kubeless
+545,go-echarts,6872,574,6872,60,10/01/2019,21/03/2025,4.36 MB,4460,🎨 The adorable charts library for Golang.,Go,https://github.com/go-echarts/go-echarts
+546,GeoIP2-CN,6840,192,6840,28,09/12/2020,28/03/2025,1.51 MB,1542,小巧精悍、准确、实用 GeoIP2 数据库,Go,https://github.com/Hackl0us/GeoIP2-CN
+547,traitor,6837,650,6837,22,24/01/2021,12/03/2024,4.51 MB,4623,":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",Go,https://github.com/liamg/traitor
+548,gops,6834,336,6834,32,10/11/2016,17/02/2025,6.63 MB,6793,A tool to list and diagnose Go processes currently running on your system,Go,https://github.com/google/gops
+549,sqlboiler,6828,553,6828,105,21/02/2016,28/03/2025,11.45 MB,11726,Generate a Go ORM tailored to your database schema.,Go,https://github.com/volatiletech/sqlboiler
+550,mailpit,6815,170,6815,1,29/07/2022,28/03/2025,2.46 MB,2522,An email and SMTP testing tool with API for developers,Go,https://github.com/axllent/mailpit
+551,tfsec,6800,548,6800,15,04/03/2019,17/02/2025,119.18 MB,122042,Tfsec is now part of Trivy,Go,https://github.com/aquasecurity/tfsec
+552,syft,6752,627,6752,440,07/05/2020,28/03/2025,20.13 MB,20615,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,Go,https://github.com/anchore/syft
+553,telepresence,6744,528,6744,20,23/02/2017,28/03/2025,42.66 MB,43682,Local development against a remote Kubernetes or OpenShift cluster,Go,https://github.com/telepresenceio/telepresence
+554,blackbox,6723,372,6723,57,06/04/2014,25/09/2024,694.00 KB,694,Safely store secrets in Git/Mercurial/Subversion,Go,https://github.com/StackExchange/blackbox
+555,ebpf,6716,731,6716,37,05/09/2019,25/03/2025,46.56 MB,47681,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",Go,https://github.com/cilium/ebpf
+556,hetty,6715,373,6715,28,17/11/2019,05/02/2025,1.84 MB,1887,An HTTP toolkit for security research.,Go,https://github.com/dstotijn/hetty
+557,expr,6698,432,6698,36,14/07/2018,24/03/2025,11.72 MB,12005,Expression language and expression evaluation for Go,Go,https://github.com/expr-lang/expr
+558,go-clean-template,6683,561,6683,7,18/01/2021,26/03/2025,726.00 KB,726,Clean Architecture template for Golang services,Go,https://github.com/evrone/go-clean-template
+559,ipatool,6650,549,6650,26,22/05/2021,13/03/2025,697.00 KB,697,Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store,Go,https://github.com/majd/ipatool
+560,xorm,6663,755,6663,307,09/05/2013,03/04/2020,4.18 MB,4278,"Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm",Go,https://github.com/go-xorm/xorm
+561,machine,6647,1967,6647,1068,03/12/2014,13/02/2022,18.55 MB,18994,Machine management for a container-centric world,Go,https://github.com/docker/machine
+562,decimal,6645,633,6645,138,25/02/2015,07/08/2024,289.00 KB,289,Arbitrary-precision fixed-point decimal numbers in Go,Go,https://github.com/shopspring/decimal
+563,EasyDarwin,6642,2181,6642,119,02/10/2014,13/02/2025,371.20 MB,380105,"open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！",Go,https://github.com/EasyDarwin/EasyDarwin
+564,kubevela,6621,920,6621,530,03/07/2020,26/03/2025,63.41 MB,64935,The Modern Application Platform.,Go,https://github.com/kubevela/kubevela
+565,weave,6620,679,6620,529,18/08/2014,09/08/2024,26.60 MB,27240,"Simple, resilient multi-host containers networking and more.",Go,https://github.com/weaveworks/weave
+566,atlas,6615,284,6615,191,30/04/2021,26/03/2025,15.54 MB,15910,Manage your database schema as code,Go,https://github.com/ariga/atlas
+567,perkeep,6597,452,6597,400,03/01/2011,22/02/2025,47.61 MB,48756,"Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",Go,https://github.com/perkeep/perkeep
+568,shadowsocks-go,6596,3307,6596,46,01/11/2012,09/04/2020,405.00 KB,405,go port of shadowsocks (Deprecated),Go,https://github.com/shadowsocks/shadowsocks-go
+569,wgcf,6596,711,6596,34,13/04/2020,27/03/2025,530.00 KB,530,"🚤 Cross-platform, unofficial CLI for Cloudflare Warp",Go,https://github.com/ViRb3/wgcf
+570,krew,6554,377,6554,23,12/07/2018,18/03/2025,4.76 MB,4871,📦 Find and install kubectl plugins,Go,https://github.com/kubernetes-sigs/krew
+571,k3sup,6553,387,6553,30,15/08/2019,01/02/2025,7.16 MB,7331,bootstrap K3s over SSH in < 60s 🚀,Go,https://github.com/alexellis/k3sup
+572,sidekick,6535,114,6535,16,02/07/2024,23/02/2025,10.75 MB,11007,Bare metal to production ready in mins; your own fly server on your VPS.,Go,https://github.com/MightyMoud/sidekick
+573,cosmos-sdk,6522,3836,6522,337,06/02/2016,28/03/2025,325.79 MB,333607,:chains: A Framework for Building High Value Public Blockchains :sparkles:,Go,https://github.com/cosmos/cosmos-sdk
+574,script,6514,332,6514,38,20/04/2019,22/03/2025,1019.00 KB,1019,Making it easy to write shell-like scripts in Go,Go,https://github.com/bitfield/script
+575,gopher-lua,6511,667,6511,100,15/02/2015,09/11/2024,515.00 KB,515,GopherLua: VM and compiler for Lua in Go,Go,https://github.com/yuin/gopher-lua
+576,lura,6495,565,6495,12,04/11/2016,27/03/2025,1.64 MB,1683,Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation,Go,https://github.com/luraproject/lura
+577,gopacket,6483,1139,6483,356,16/03/2015,19/03/2025,3.75 MB,3835,Provides packet processing capabilities for Go,Go,https://github.com/google/gopacket
+578,slack-term,6469,224,6469,67,11/09/2016,23/04/2024,50.11 MB,51310,Slack client for your terminal,Go,https://github.com/jpbruinsslot/slack-term
+579,go-grpc-middleware,6465,714,6465,96,14/05/2016,16/03/2025,14.07 MB,14403,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",Go,https://github.com/grpc-ecosystem/go-grpc-middleware
+580,os,6439,657,6439,457,05/01/2015,07/06/2024,32.76 MB,33549,Tiny Linux distro that runs the entire OS as Docker containers,Go,https://github.com/rancher/os
+581,kingshard,6416,1235,6416,161,04/07/2015,17/05/2024,5.18 MB,5309,A high-performance MySQL proxy,Go,https://github.com/flike/kingshard
+582,btcd,6408,2431,6408,290,06/08/2013,26/03/2025,25.87 MB,26490,An alternative full node bitcoin implementation written in Go (golang),Go,https://github.com/btcsuite/btcd
+583,mockery,6407,427,6407,48,02/09/2014,18/03/2025,39.45 MB,40398,A mock code autogenerator for Go,Go,https://github.com/vektra/mockery
+584,k8sgpt,6389,762,6389,103,21/03/2023,28/03/2025,27.61 MB,28272,Giving Kubernetes Superpowers to everyone,Go,https://github.com/k8sgpt-ai/k8sgpt
+585,upspin,6387,309,6387,130,15/06/2016,11/02/2025,68.76 MB,70408,Upspin: A framework for naming everyone's everything.,Go,https://github.com/upspin/upspin
+586,beehive,6380,333,6380,123,23/06/2014,25/02/2023,7.74 MB,7928,A flexible event/agent & automation system with lots of bees 🐝,Go,https://github.com/muesli/beehive
+587,NTrace-core,6373,373,6373,10,11/05/2022,03/02/2025,7.24 MB,7414,"NextTrace, an open source visual route tracking CLI tool",Go,https://github.com/nxtrace/NTrace-core
+588,datree,6373,362,6373,25,14/04/2021,23/04/2024,9.12 MB,9336,"Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io",Go,https://github.com/datreeio/datree
+589,go-tools,6371,385,6371,572,24/01/2017,05/03/2025,4.80 MB,4912,Staticcheck - The advanced Go linter,Go,https://github.com/dominikh/go-tools
+590,go-git,6344,766,6344,156,19/12/2019,28/03/2025,5.43 MB,5562,A highly extensible Git implementation in pure Go.,Go,https://github.com/go-git/go-git
+591,go-libp2p,6307,1129,6307,275,30/09/2015,28/03/2025,58.12 MB,59514,libp2p implementation in Go,Go,https://github.com/libp2p/go-libp2p
+592,gitql,6305,163,6305,10,17/02/2014,14/10/2024,8.95 MB,9167,💊 A git query language,Go,https://github.com/filhodanuvem/gitql
+593,go-sqlmock,6302,407,6302,38,07/02/2014,11/09/2024,312.00 KB,312,Sql mock driver for golang to test database interactions,Go,https://github.com/DATA-DOG/go-sqlmock
+594,kraken,6301,431,6301,88,06/12/2018,24/03/2025,6.74 MB,6900,P2P Docker registry capable of distributing TBs of data in seconds,Go,https://github.com/uber/kraken
+595,calico,6301,1401,6301,400,21/07/2016,28/03/2025,192.26 MB,196874,Cloud native networking and network security,Go,https://github.com/projectcalico/calico
+596,codeforces-go,6286,655,6286,8,23/09/2019,28/03/2025,125.72 MB,128733,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,Go,https://github.com/EndlessCheng/codeforces-go
+597,goproxy,6276,1130,6276,78,22/03/2012,27/03/2025,595.00 KB,595,An HTTP proxy library for Go,Go,https://github.com/elazarl/goproxy
+598,fx,6273,302,6273,69,27/10/2016,27/03/2025,3.10 MB,3176,A dependency injection based application framework for Go.,Go,https://github.com/uber-go/fx
+599,bombardier,6271,322,6271,21,29/05/2016,25/03/2025,931.00 KB,931,Fast cross-platform HTTP benchmarking tool written in Go,Go,https://github.com/codesenberg/bombardier
+600,octant,6269,487,6269,287,19/06/2019,19/01/2023,88.99 MB,91125,Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.,Go,https://github.com/vmware-archive/octant
+601,agones,6258,837,6258,55,07/12/2017,27/03/2025,141.83 MB,145232,Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes,Go,https://github.com/googleforgames/agones
+602,new-api,6246,1251,6246,154,10/11/2023,27/03/2025,4.66 MB,4770,AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,Go,https://github.com/Calcium-Ion/new-api
+603,goleveldb,6234,977,6234,107,23/01/2013,14/05/2024,1.91 MB,1960,LevelDB key/value database in Go.,Go,https://github.com/syndtr/goleveldb
+604,ws,6232,382,6232,20,22/01/2017,18/06/2024,449.00 KB,449,Tiny WebSocket library for Go.,Go,https://github.com/gobwas/ws
+605,pachyderm,6213,568,6213,930,04/09/2014,03/02/2025,641.09 MB,656481,Data-Centric Pipelines and Data Versioning,Go,https://github.com/pachyderm/pachyderm
+606,go-spew,6188,372,6188,66,09/01/2013,06/04/2024,215.00 KB,215,Implements a deep pretty printer for Go data structures to aid in debugging,Go,https://github.com/davecgh/go-spew
+607,promptui,6184,343,6184,88,16/10/2017,06/08/2024,172.00 KB,172,Interactive prompt for command-line applications,Go,https://github.com/manifoldco/promptui
+608,bfe,6174,947,6174,22,31/07/2019,13/03/2025,46.97 MB,48100,A modern layer 7 load balancer from baidu,Go,https://github.com/bfenetworks/bfe
+609,kyverno,6172,974,6172,367,04/02/2019,28/03/2025,137.87 MB,141182,Cloud Native Policy Management,Go,https://github.com/kyverno/kyverno
+610,langchaingo,6170,769,6170,290,18/02/2023,18/03/2025,13.17 MB,13485,"LangChain for Go, the easiest way to write LLM-based programs in Go",Go,https://github.com/tmc/langchaingo
+611,go-callvis,6161,431,6161,69,03/09/2016,04/01/2025,6.73 MB,6894,Visualize call graph of a Go program using Graphviz,Go,https://github.com/ondrajz/go-callvis
+612,golangFamily,6143,969,6143,1,06/01/2021,13/10/2024,128.00 KB,128,"【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集",Go,https://github.com/xiaobaiTech/golangFamily
+613,afero,6139,523,6139,143,28/10/2014,24/03/2025,445.00 KB,445,A FileSystem Abstraction System for Go,Go,https://github.com/spf13/afero
+614,flyte,6139,710,6139,1007,21/10/2019,27/03/2025,316.60 MB,324194,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",Go,https://github.com/flyteorg/flyte
+615,govalidator,6128,556,6128,166,20/06/2014,22/01/2025,827.00 KB,827,"[Go] Package of validators and sanitizers for strings, numerics, slices and structs",Go,https://github.com/asaskevich/govalidator
+616,bubbles,6106,289,6106,146,18/01/2020,28/03/2025,1.01 MB,1037,TUI components for Bubble Tea 🫧,Go,https://github.com/charmbracelet/bubbles
+617,riot,6099,476,6099,50,21/06/2017,13/10/2020,12.67 MB,12969,"Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.",Go,https://github.com/go-ego/riot
+618,gopass,6094,506,6094,87,02/02/2017,14/03/2025,16.92 MB,17328,The slightly more awesome standard unix password manager for teams,Go,https://github.com/gopasspw/gopass
+619,bit,6083,108,6083,32,11/09/2020,21/02/2023,542.00 KB,542,Bit is a modern Git CLI,Go,https://github.com/chriswalz/bit
+620,hertz,6076,546,6076,55,12/05/2022,27/03/2025,3.12 MB,3194,Go HTTP framework with high-performance and strong-extensibility for building micro-services.,Go,https://github.com/cloudwego/hertz
+621,chaosblade,6075,958,6075,315,12/03/2019,06/03/2025,4.71 MB,4821,An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）,Go,https://github.com/chaosblade-io/chaosblade
+622,telegram-bot-api,6068,932,6068,160,25/06/2015,14/08/2024,5.27 MB,5399,Golang bindings for the Telegram Bot API,Go,https://github.com/go-telegram-bot-api/telegram-bot-api
+623,go-questions,6066,663,6066,18,02/03/2019,18/12/2024,19.77 MB,20245,📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions,Go,https://github.com/golang-design/go-questions
+624,gocron,6056,320,6056,20,20/03/2020,24/03/2025,858.00 KB,858,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,Go,https://github.com/go-co-op/gocron
+625,cloudquery,6048,525,6048,126,18/11/2020,27/03/2025,174.03 MB,178207,The developer first cloud governance platform,Go,https://github.com/cloudquery/cloudquery
+626,certimate,6048,548,6048,32,21/08/2024,27/03/2025,42.02 MB,43024,"开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",Go,https://github.com/usual2970/certimate
+627,metrics-server,6044,1918,6044,69,23/05/2017,27/03/2025,13.04 MB,13350,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,Go,https://github.com/kubernetes-sigs/metrics-server
+628,goja,6022,399,6022,23,04/11/2016,09/03/2025,1.51 MB,1544,ECMAScript/JavaScript engine in pure Go,Go,https://github.com/dop251/goja
+629,optimism,6021,3515,6021,500,06/02/2020,28/03/2025,377.17 MB,386218,"Optimism is Ethereum, scaled.",Go,https://github.com/ethereum-optimism/optimism
+630,scrutiny,6017,190,6017,221,22/08/2020,08/01/2025,39.34 MB,40285,"Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",Go,https://github.com/AnalogJ/scrutiny
+631,gitrob,6016,832,6016,73,07/01/2015,20/09/2022,1.19 MB,1219,Reconnaissance tool for GitHub organizations,Go,https://github.com/michenriksen/gitrob
+632,gocron,6008,1261,6008,161,20/02/2017,27/03/2024,8.67 MB,8876,定时任务管理系统,Go,https://github.com/ouqiang/gocron
+633,dragonfly-archived,5980,770,5980,194,15/11/2017,27/02/2023,36.98 MB,37870,This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.,Go,https://github.com/dragonflyoss/dragonfly-archived
+634,cloud-torrent,5960,1808,5960,151,31/05/2015,30/11/2024,14.29 MB,14633,☁️ Cloud Torrent: a self-hosted remote torrent client,Go,https://github.com/jpillora/cloud-torrent
+635,evio,5948,495,5948,27,04/07/2017,22/10/2023,443.00 KB,443,Fast event-loop networking for Go,Go,https://github.com/tidwall/evio
+636,kubevirt,5943,1396,5943,470,16/12/2016,28/03/2025,298.48 MB,305648,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,Go,https://github.com/kubevirt/kubevirt
+637,xlsx,5940,820,5940,6,28/06/2011,04/03/2025,9.73 MB,9966,Go library for reading and writing XLSX files. ,Go,https://github.com/tealeg/xlsx
+638,ristretto,5938,388,5938,6,12/02/2019,06/03/2025,1.54 MB,1577,A high performance memory-bound Go cache,Go,https://github.com/hypermodeinc/ristretto
+639,mobile,5937,779,5937,34,04/12/2014,05/03/2025,6.42 MB,6570,[mirror] Go on Mobile,Go,https://github.com/golang/mobile
+640,serf,5920,597,5920,133,01/10/2013,12/03/2025,7.13 MB,7302,Service orchestration and management tool.,Go,https://github.com/hashicorp/serf
+641,simplebank,5910,1052,5910,16,16/06/2020,08/02/2025,6.23 MB,6379,Backend master class: build a simple bank service in Go,Go,https://github.com/techschool/simplebank
+642,1m-go-websockets,5909,632,5909,4,10/02/2019,14/08/2022,25.00 KB,25,handling 1M websockets connections in Go,Go,https://github.com/eranyanay/1m-go-websockets
+643,go-flutter,5905,281,5905,64,19/08/2018,05/03/2025,1.46 MB,1491,"Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.",Go,https://github.com/go-flutter-desktop/go-flutter
+644,elvish,5896,307,5896,332,16/06/2013,08/03/2025,15.56 MB,15936,Powerful scripting language & versatile interactive shell,Go,https://github.com/elves/elvish
+645,scope,5888,715,5888,454,27/04/2015,07/07/2023,81.52 MB,83477,"Monitoring, visualisation & management for Docker & Kubernetes",Go,https://github.com/weaveworks/scope
+646,LLocalSearch,5885,371,5885,58,23/03/2024,30/08/2024,4.60 MB,4715,LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.,Go,https://github.com/nilsherzig/LLocalSearch
+647,goth,5880,610,5880,124,14/10/2014,15/03/2025,4.03 MB,4122,"Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.",Go,https://github.com/markbates/goth
+648,gofr,5853,694,5853,56,24/10/2023,28/03/2025,10.50 MB,10747,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,Go,https://github.com/gofr-dev/gofr
+649,faktory,5845,232,5845,22,15/06/2017,20/03/2025,2.85 MB,2915,Language-agnostic persistent background job server,Go,https://github.com/contribsys/faktory
+650,goproxy,5837,366,5837,14,31/08/2018,04/02/2024,143.00 KB,143,A global proxy for Go modules.,Go,https://github.com/goproxyio/goproxy
+651,dbmate,5820,290,5820,27,25/11/2015,17/03/2025,2.97 MB,3039,"🚀 A lightweight, framework-agnostic database migration tool.",Go,https://github.com/amacneil/dbmate
+652,go-elasticsearch,5819,627,5819,80,27/03/2017,24/03/2025,64.56 MB,66108,The official Go client for Elasticsearch,Go,https://github.com/elastic/go-elasticsearch
+653,easegress,5811,495,5811,33,28/05/2021,21/03/2025,20.61 MB,21109,A Cloud Native traffic orchestration system,Go,https://github.com/easegress-io/easegress
+654,ethr,5810,400,5810,44,25/11/2018,25/02/2023,231.00 KB,231,"Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.",Go,https://github.com/microsoft/ethr
+655,fn,5800,406,5800,161,18/07/2017,01/09/2023,163.97 MB,167904,"The container native, cloud agnostic serverless platform.",Go,https://github.com/fnproject/fn
+656,goa,5798,565,5798,16,05/12/2014,27/03/2025,36.14 MB,37010,"Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.",Go,https://github.com/goadesign/goa
+657,imaginary,5796,470,5796,127,04/03/2015,14/01/2025,18.11 MB,18542,"Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing",Go,https://github.com/h2non/imaginary
+658,nats.go,5794,718,5794,175,15/08/2012,25/03/2025,4.58 MB,4695,"Golang client for NATS, the cloud native messaging system.",Go,https://github.com/nats-io/nats.go
+659,ferret,5791,303,5791,53,23/08/2018,23/02/2025,4.26 MB,4359,Declarative web scraping,Go,https://github.com/MontFerret/ferret
+660,rod,5788,369,5788,166,21/01/2020,07/12/2024,3.69 MB,3779,A Chrome DevTools Protocol driver for web automation and scraping.,Go,https://github.com/go-rod/rod
+661,go-gin-api,5786,1119,5786,38,23/08/2019,23/12/2023,4.22 MB,4319,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,Go,https://github.com/xinliangnote/go-gin-api
+662,coroot,5783,251,5783,89,22/08/2022,28/03/2025,55.15 MB,56476,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",Go,https://github.com/coroot/coroot
+663,tendermint,5777,2098,5777,21,14/05/2014,28/03/2025,145.92 MB,149421,⟁ Tendermint Core (BFT Consensus) in Go,Go,https://github.com/tendermint/tendermint
+664,docker-ce,5771,1525,5771,2,19/05/2017,06/11/2022,182.81 MB,187193,:warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:,Go,https://github.com/docker-archive/docker-ce
+665,go-socket.io,5770,846,5770,0,13/07/2013,29/09/2024,11.14 MB,11408,"socket.io library for golang, a realtime application framework.",Go,https://github.com/googollee/go-socket.io
+666,soft-serve,5764,154,5764,54,30/07/2021,28/03/2025,2.27 MB,2323,"The mighty, self-hostable Git server for the command line🍦",Go,https://github.com/charmbracelet/soft-serve
+667,copier,5764,488,5764,74,31/10/2013,18/07/2024,136.00 KB,136,"Copier for golang, copy value from struct to struct and more",Go,https://github.com/jinzhu/copier
+668,aws-nuke,5761,727,5761,0,27/11/2016,15/10/2024,1.38 MB,1411,Nuke a whole AWS account and delete all its resources.,Go,https://github.com/rebuy-de/aws-nuke
+669,classicswarm,5754,1080,5754,0,01/05/2014,11/06/2020,22.36 MB,22897,Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit,Go,https://github.com/docker-archive/classicswarm
+670,aquatone,5734,890,5734,106,19/11/2015,22/05/2022,587.00 KB,587,A Tool for Domain Flyovers,Go,https://github.com/michenriksen/aquatone
+671,ponzu,5730,389,5730,35,17/09/2016,31/07/2024,3.53 MB,3611,"Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.",Go,https://github.com/ponzu-cms/ponzu
+672,sshcode,5729,216,5729,44,18/04/2019,10/08/2020,799.00 KB,799,Run VS Code on any server over SSH.,Go,https://github.com/coder/sshcode
+673,torrent,5726,634,5726,60,08/01/2015,18/03/2025,9.64 MB,9871,Full-featured BitTorrent client package and utilities,Go,https://github.com/anacrolix/torrent
+674,pg,5711,409,5711,119,24/04/2013,13/03/2025,3.54 MB,3623,Golang ORM with focus on PostgreSQL features and performance,Go,https://github.com/go-pg/pg
+675,alda,5703,294,5703,17,26/08/2014,22/03/2025,3.71 MB,3798,A music programming language for musicians. :notes:,Go,https://github.com/alda-lang/alda
+676,dendrite,5701,668,5701,229,20/01/2017,25/11/2024,45.57 MB,46666,Dendrite is a second-generation Matrix homeserver written in Go!,Go,https://github.com/matrix-org/dendrite
+677,serving,5700,1179,5700,203,24/01/2018,28/03/2025,98.32 MB,100683,"Kubernetes-based, scale-to-zero, request-driven compute",Go,https://github.com/knative/serving
+678,goss,5700,475,5700,69,01/10/2015,26/12/2024,1.32 MB,1352,Quick and Easy server testing/validation,Go,https://github.com/goss-org/goss
+679,k3d,5696,478,5696,236,02/04/2019,21/03/2025,44.35 MB,45410,Little helper to run CNCF's k3s in Docker,Go,https://github.com/k3d-io/k3d
+680,gorgonia,5696,440,5696,110,14/09/2016,12/08/2024,90.88 MB,93056,Gorgonia is a library that helps facilitate machine learning in Go.,Go,https://github.com/gorgonia/gorgonia
+681,ssh-chat,5681,416,5681,51,10/12/2014,06/03/2025,585.00 KB,585,Chat over SSH.,Go,https://github.com/shazow/ssh-chat
+682,res-downloader,5679,732,5679,33,01/09/2023,13/03/2025,27.78 MB,28442,视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!,Go,https://github.com/putyy/res-downloader
+683,domain-list-community,5677,980,5677,58,18/07/2020,28/03/2025,9.46 MB,9683,Community managed domain list. Generate geosite.dat for V2Ray.,Go,https://github.com/v2fly/domain-list-community
+684,protobuf,5676,813,5676,236,03/12/2014,27/07/2023,39.33 MB,40269,[Deprecated] Protocol Buffers for Go with Gadgets,Go,https://github.com/gogo/protobuf
+685,cni,5673,1094,5673,147,05/04/2015,16/12/2024,4.47 MB,4574,Container Network Interface - networking for Linux containers,Go,https://github.com/containernetworking/cni
+686,cloudnative-pg,5667,386,5667,352,10/03/2022,28/03/2025,33.65 MB,34454,"CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",Go,https://github.com/cloudnative-pg/cloudnative-pg
+687,orchestrator,5662,933,5662,420,30/11/2016,18/02/2025,18.20 MB,18639,MySQL replication topology management and HA,Go,https://github.com/openark/orchestrator
+688,seesaw,5656,512,5656,17,04/12/2015,13/03/2025,403.00 KB,403,Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.,Go,https://github.com/google/seesaw
+689,opencost,5652,595,5652,99,27/03/2019,27/03/2025,51.85 MB,53093,Cost monitoring for Kubernetes workloads and cloud costs,Go,https://github.com/opencost/opencost
+690,lefthook,5649,225,5649,31,05/02/2019,28/03/2025,84.23 MB,86255,Fast and powerful Git hooks manager for any type of projects.,Go,https://github.com/evilmartians/lefthook
+691,scan4all,5643,679,5643,14,20/06/2022,12/07/2024,84.65 MB,86677,"Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",Go,https://github.com/GhostTroops/scan4all
+692,kube-state-metrics,5637,2066,5637,103,06/05/2016,24/03/2025,24.16 MB,24744,Add-on agent to generate and expose cluster-level metrics.,Go,https://github.com/kubernetes/kube-state-metrics
+693,opentelemetry-go,5610,1130,5610,186,16/05/2019,28/03/2025,21.57 MB,22084,OpenTelemetry Go API and SDK,Go,https://github.com/open-telemetry/opentelemetry-go
+694,syzkaller,5596,1260,5596,430,12/10/2015,28/03/2025,283.78 MB,290591,syzkaller is an unsupervised coverage-guided kernel fuzzer,Go,https://github.com/google/syzkaller
+695,wild-workouts-go-ddd-example,5593,518,5593,31,06/05/2020,10/07/2023,830.00 KB,830,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",Go,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+696,client_golang,5583,1208,5583,133,25/01/2013,27/03/2025,4.63 MB,4739,Prometheus instrumentation library for Go applications,Go,https://github.com/prometheus/client_golang
+697,feishu-openai,5569,958,5569,88,07/02/2023,26/02/2025,15.66 MB,16032,🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀,Go,https://github.com/ConnectAI-E/feishu-openai
+698,uuid,5563,376,5563,41,12/02/2016,14/11/2024,199.00 KB,199,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,Go,https://github.com/google/uuid
+699,podinfo,5560,1782,5560,26,05/01/2018,21/03/2025,11.75 MB,12037,Go microservice template for Kubernetes,Go,https://github.com/stefanprodan/podinfo
+700,cortex,5552,811,5552,263,09/09/2016,28/03/2025,256.86 MB,263028,"A horizontally scalable, highly available, multi-tenant, long term Prometheus.",Go,https://github.com/cortexproject/cortex
+701,trojan,5542,1542,5542,191,22/02/2020,14/04/2024,878.00 KB,878,"trojan多用户管理部署程序, 支持web页面管理",Go,https://github.com/Jrohy/trojan
+702,osmedeus,5535,906,5535,19,10/11/2018,06/02/2025,28.45 MB,29137,A Workflow Engine for Offensive Security,Go,https://github.com/j3ssie/osmedeus
+703,oauth2,5533,1011,5533,215,14/04/2014,19/03/2025,663.00 KB,663,Go OAuth2,Go,https://github.com/golang/oauth2
+704,godep,5531,452,5531,79,01/05/2013,12/04/2018,726.00 KB,726,dependency tool for go,Go,https://github.com/tools/godep
+705,blackfriday,5529,602,5529,218,27/05/2011,29/01/2024,1.32 MB,1356,Blackfriday: a markdown processor for Go,Go,https://github.com/russross/blackfriday
+706,nes,5527,522,5527,11,02/03/2015,17/08/2024,176.00 KB,176,NES emulator written in Go.,Go,https://github.com/fogleman/nes
+707,popeye,5520,296,5520,37,18/03/2019,25/03/2025,14.06 MB,14394,👀 A Kubernetes cluster resource sanitizer,Go,https://github.com/derailed/popeye
+708,jsonparser,5511,435,5511,69,20/03/2016,12/07/2024,343.00 KB,343,One of the fastest alternative JSON parser for Go that does not require schema,Go,https://github.com/buger/jsonparser
+709,bk-cmdb,5506,1574,5506,48,12/12/2016,27/03/2025,230.08 MB,235599,蓝鲸智云配置平台(BlueKing CMDB),Go,https://github.com/TencentBlueKing/bk-cmdb
+710,spicedb,5504,298,5504,104,16/08/2021,27/03/2025,19.35 MB,19817,"Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",Go,https://github.com/authzed/spicedb
+711,docker-development-youtube-series,5473,4168,5473,15,16/06/2019,28/03/2025,16.90 MB,17307,,Go,https://github.com/marcel-dempers/docker-development-youtube-series
+712,grpcui,5462,392,5462,74,03/12/2018,24/03/2025,8.36 MB,8558,"An interactive web UI for gRPC, along the lines of postman",Go,https://github.com/fullstorydev/grpcui
+713,maddy,5448,275,5448,121,07/11/2016,13/03/2025,3.73 MB,3818,✉️ Composable all-in-one mail server.,Go,https://github.com/foxcpp/maddy
+714,go-plugin,5439,473,5439,87,21/01/2016,27/03/2025,482.00 KB,482,Golang plugin system over RPC.,Go,https://github.com/hashicorp/go-plugin
+715,go-ast-book,5423,651,5423,8,04/12/2018,26/09/2024,4.56 MB,4667,:books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST),Go,https://github.com/chai2010/go-ast-book
+716,nuclio,5420,543,5420,139,19/05/2017,28/03/2025,151.69 MB,155331,High-Performance Serverless event and data processing platform,Go,https://github.com/nuclio/nuclio
+717,hcl,5416,622,5416,227,31/07/2014,24/03/2025,2.65 MB,2718,HCL is the HashiCorp configuration language.,Go,https://github.com/hashicorp/hcl
+718,imaging,5410,456,5410,33,06/12/2012,21/09/2023,3.59 MB,3677,Imaging is a simple image processing package for Go,Go,https://github.com/disintegration/imaging
+719,duplicacy,5373,341,5373,321,23/02/2016,19/12/2024,12.68 MB,12988,A new generation cloud backup tool ,Go,https://github.com/gilbertchen/duplicacy
+720,leaf,5368,1317,5368,24,04/08/2014,23/05/2024,229.00 KB,229,A game server framework in Go (golang),Go,https://github.com/name5566/leaf
+721,boulder,5361,615,5361,183,21/12/2014,28/03/2025,57.07 MB,58442,"An ACME-based certificate authority, written in Go. ",Go,https://github.com/letsencrypt/boulder
+722,cue,5352,308,5352,986,02/07/2021,28/03/2025,47.35 MB,48490,The home of the CUE language! Validate and define text-based and dynamic configuration,Go,https://github.com/cue-lang/cue
+723,cri-o,5346,1074,5346,71,09/09/2016,28/03/2025,170.25 MB,174332,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,Go,https://github.com/cri-o/cri-o
+724,go-prompt,5338,357,5338,114,14/08/2017,14/07/2024,400.00 KB,400,"Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.",Go,https://github.com/c-bata/go-prompt
+725,battery-historian,5329,963,5329,148,20/06/2014,15/07/2019,4.30 MB,4402,"Battery Historian is a tool to analyze battery consumers using Android ""bugreport"" files.",Go,https://github.com/google/battery-historian
+726,permify,5322,241,5322,75,14/07/2022,27/03/2025,302.24 MB,309490,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",Go,https://github.com/Permify/permify
+727,qor,5318,692,5318,61,06/06/2014,20/03/2025,15.91 MB,16291,"QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.",Go,https://github.com/qor/qor
+728,discordgo,5315,833,5315,186,01/11/2015,17/03/2025,2.61 MB,2674, (Golang) Go bindings for Discord,Go,https://github.com/bwmarrin/discordgo
+729,goofys,5310,529,5310,291,14/09/2015,18/07/2024,4.80 MB,4918,"a high-performance, POSIX-ish Amazon S3 file system written in Go",Go,https://github.com/kahing/goofys
+730,pspy,5302,535,5302,2,08/02/2018,17/01/2023,9.28 MB,9507,Monitor linux processes without root permissions,Go,https://github.com/DominicBreuker/pspy
+731,gore,5296,150,5296,6,11/02/2015,27/02/2025,785.00 KB,785,"  Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.",Go,https://github.com/x-motemen/gore
+732,huh,5287,157,5287,27,11/10/2023,27/03/2025,998.00 KB,998,Build terminal forms and prompts 🤷🏻‍♀️,Go,https://github.com/charmbracelet/huh
+733,openwechat,5280,990,5280,132,13/01/2021,02/01/2025,645.00 KB,645,golang微信SDK,Go,https://github.com/eatmoreapple/openwechat
+734,env,5261,261,5261,5,28/07/2015,25/03/2025,472.00 KB,472,"A simple, zero-dependencies library to parse environment variables into structs",Go,https://github.com/caarlos0/env
+735,lucky,5260,510,5260,7,13/07/2022,24/03/2025,4.10 MB,4194,"软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser",Go,https://github.com/gdy666/lucky
+736,wazero,5253,276,5253,16,04/05/2020,06/03/2025,21.85 MB,22377,wazero: the zero dependency WebAssembly runtime for Go developers,Go,https://github.com/tetratelabs/wazero
+737,interview-go,5226,913,5226,42,26/02/2018,10/01/2025,4.98 MB,5101,golang面试题集合,Go,https://github.com/lifei6671/interview-go
+738,pebble,5215,490,5215,286,17/07/2018,28/03/2025,68.82 MB,70471,RocksDB/LevelDB inspired key-value database in Go,Go,https://github.com/cockroachdb/pebble
+739,gaia,5208,244,5208,55,28/12/2017,22/08/2023,14.45 MB,14793,Build powerful pipelines in any programming language.,Go,https://github.com/gaia-pipeline/gaia
+740,darwinkit,5188,164,5188,35,03/11/2020,08/03/2025,8.80 MB,9011,Native Mac APIs for Go. Previously known as MacDriver,Go,https://github.com/progrium/darwinkit
+741,merlin,5188,817,5188,20,06/01/2017,26/02/2025,27.70 MB,28364,Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.,Go,https://github.com/Ne0nd0g/merlin
+742,tflint,5188,368,5188,26,20/10/2016,28/03/2025,9.92 MB,10155,A Pluggable Terraform Linter,Go,https://github.com/terraform-linters/tflint
+743,blocky,5185,231,5185,78,06/11/2019,28/03/2025,14.61 MB,14964,Fast and lightweight DNS proxy as ad-blocker for local network with many features,Go,https://github.com/0xERR0R/blocky
+744,certmagic,5183,300,5183,28,10/12/2018,25/03/2025,1.07 MB,1092,Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal,Go,https://github.com/caddyserver/certmagic
+745,freecache,5183,393,5183,44,29/04/2015,12/04/2024,126.00 KB,126,A cache library for Go with zero GC overhead.,Go,https://github.com/coocood/freecache
+746,protoactor-go,5178,534,5178,84,17/04/2016,22/08/2024,36.27 MB,37143,"Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin",Go,https://github.com/asynkron/protoactor-go
+747,cli,5176,1974,5176,919,12/04/2017,27/03/2025,187.64 MB,192147,The Docker CLI,Go,https://github.com/docker/cli
+748,go-daily-lib,5175,608,5175,41,12/01/2020,05/05/2023,49.08 MB,50254,Go 每日一库,Go,https://github.com/darjun/go-daily-lib
+749,envconfig,5172,385,5172,55,06/11/2013,16/07/2024,121.00 KB,121,Golang library for managing configuration data from environment variables,Go,https://github.com/kelseyhightower/envconfig
+750,Go42,5163,714,5163,6,01/09/2018,04/06/2024,2.44 MB,2494,《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。,Go,https://github.com/ffhelicopter/Go42
+751,git-appraise,5149,144,5149,33,21/08/2015,12/08/2023,1.67 MB,1707,Distributed code review system for Git repos,Go,https://github.com/google/git-appraise
+752,rainbond,5147,789,5147,43,05/11/2017,27/03/2025,142.15 MB,145559,No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台,Go,https://github.com/goodrain/rainbond
+753,sqlflow,5146,706,5146,251,04/10/2018,18/04/2024,28.33 MB,29014,Brings SQL and AI together.,Go,https://github.com/sql-machine-learning/sqlflow
+754,dragonboat,5142,544,5142,54,23/12/2018,12/07/2024,6.33 MB,6485,A feature complete and high performance multi-group Raft library in Go.  ,Go,https://github.com/lni/dragonboat
+755,tdl,5135,512,5135,152,01/09/2022,28/03/2025,4.74 MB,4852,📥 A Telegram toolkit written in Golang,Go,https://github.com/iyear/tdl
+756,ticker,5130,281,5130,32,24/01/2021,19/03/2025,844.00 KB,844,Terminal stock ticker with live updates and position tracking,Go,https://github.com/achannarasappa/ticker
+757,go-backend-clean-architecture,5122,543,5122,18,08/01/2023,11/07/2024,352.00 KB,352,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",Go,https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+758,oauth2_proxy,5098,1213,5098,243,17/12/2012,04/02/2019,505.00 KB,505,"A reverse proxy that provides authentication with Google, Github or other provider",Go,https://github.com/bitly/oauth2_proxy
+759,remark42,5096,394,5096,92,20/12/2017,25/03/2025,31.32 MB,32076,comment engine,Go,https://github.com/umputun/remark42
+760,mosint,5092,578,5092,23,27/09/2020,02/02/2024,605.00 KB,605,An automated e-mail OSINT tool,Go,https://github.com/alpkeskin/mosint
+761,kubeapps,5081,710,5081,151,19/10/2017,28/03/2025,126.20 MB,129230,A web-based UI for deploying and managing applications in Kubernetes clusters,Go,https://github.com/vmware-tanzu/kubeapps
+762,tsuru,5080,538,5080,13,05/03/2012,25/03/2025,72.26 MB,73990,Open source and extensible Platform as a Service (PaaS).,Go,https://github.com/tsuru/tsuru
+763,go-restful,5065,687,5065,3,15/11/2012,24/03/2025,6.07 MB,6215,package for building REST-style Web Services using Go,Go,https://github.com/emicklei/go-restful
+764,actions-runner-controller,5064,1187,5064,374,28/01/2020,27/03/2025,5.81 MB,5949,Kubernetes controller for GitHub Actions self-hosted runners,Go,https://github.com/actions/actions-runner-controller
+765,find,5057,368,5057,86,20/10/2015,07/09/2022,9.18 MB,9398,High-precision indoor positioning framework for most wifi-enabled devices.,Go,https://github.com/schollz/find
+766,naabu,5053,579,5053,24,21/01/2020,26/03/2025,2.63 MB,2698,A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests,Go,https://github.com/projectdiscovery/naabu
+767,dockerize,5045,416,5045,51,13/10/2014,18/03/2025,156.00 KB,156,Utility to simplify running applications in docker containers,Go,https://github.com/jwilder/dockerize
+768,prototool,5042,345,5042,44,07/02/2018,01/03/2022,1.63 MB,1665,Your Swiss Army Knife for Protocol Buffers,Go,https://github.com/uber/prototool
+769,lumberjack,5042,611,5042,97,14/06/2014,05/08/2024,75.00 KB,75,lumberjack is a log rolling package for Go,Go,https://github.com/natefinch/lumberjack
+770,go-diagrams,5034,222,5034,17,12/09/2020,22/03/2025,34.87 MB,35710,Create beautiful system diagrams with Go,Go,https://github.com/blushft/go-diagrams
+771,gotests,5033,346,5033,63,19/01/2016,12/09/2023,12.55 MB,12848,Automatically generate Go test boilerplate from your source code.,Go,https://github.com/cweill/gotests
+772,ksuid,5031,184,5031,22,11/05/2017,04/10/2023,102.00 KB,102,K-Sortable Globally Unique IDs,Go,https://github.com/segmentio/ksuid
+773,eksctl,5028,1441,5028,110,23/05/2018,23/03/2025,64.91 MB,66472,The official CLI for Amazon EKS,Go,https://github.com/eksctl-io/eksctl
+774,flagger,5024,748,5024,329,19/09/2018,28/03/2025,67.49 MB,69106,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",Go,https://github.com/fluxcd/flagger
+775,pterm,5020,200,5020,69,17/09/2020,05/02/2025,22.87 MB,23420,"✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.",Go,https://github.com/pterm/pterm
+776,revive,5015,289,5015,44,04/07/2017,28/03/2025,6.29 MB,6443,"🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint",Go,https://github.com/mgechev/revive
+777,deej,5013,489,5013,32,22/01/2020,11/07/2024,89.58 MB,91729,Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux,Go,https://github.com/omriharel/deej
+778,gocode,5011,659,5011,67,05/07/2010,09/04/2024,1.44 MB,1479,An autocompletion daemon for the Go programming language,Go,https://github.com/nsf/gocode
+779,opentelemetry-collector,4995,1582,4995,641,09/05/2019,28/03/2025,51.46 MB,52692,OpenTelemetry Collector,Go,https://github.com/open-telemetry/opentelemetry-collector
+780,octosql,4991,207,4991,50,03/03/2019,26/05/2024,13.68 MB,14011,"OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.",Go,https://github.com/cube2222/octosql
+781,cubefs,4991,654,4991,251,19/02/2019,24/03/2025,248.94 MB,254914,cloud-native distributed storage,Go,https://github.com/cubefs/cubefs
+782,RxGo,4991,341,4991,56,13/10/2016,22/01/2025,1.58 MB,1614,Reactive Extensions for the Go language.,Go,https://github.com/ReactiveX/RxGo
+783,carbon,4991,253,4991,2,07/09/2020,28/03/2025,2.20 MB,2250,"A simple, semantic and developer-friendly  time  package for golang",Go,https://github.com/dromara/carbon
+784,compress,4983,330,4983,5,21/07/2015,27/03/2025,62.23 MB,63719,Optimized Go Compression Packages,Go,https://github.com/klauspost/compress
+785,awless,4976,262,4976,119,03/06/2016,02/08/2022,18.85 MB,19305,A Mighty CLI for AWS,Go,https://github.com/wallix/awless
+786,KubeOperator,4974,892,4974,47,19/11/2018,02/07/2024,174.47 MB,178654,KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。,Go,https://github.com/KubeOperator/KubeOperator
+787,jocko,4971,361,4971,60,11/10/2016,13/11/2023,11.00 MB,11269,"Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)",Go,https://github.com/travisjeffery/jocko
+788,keto,4963,353,4963,62,17/03/2018,27/03/2025,34.44 MB,35267,"The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven ""Zanzibar"" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",Go,https://github.com/ory/keto
+789,lancet,4959,491,4959,8,28/11/2021,28/03/2025,5.39 MB,5516,"A comprehensive, efficient, and reusable util function library of Go.",Go,https://github.com/duke-git/lancet
+790,Go-SCP,4952,379,4952,18,03/04/2017,31/05/2024,16.12 MB,16506,Golang Secure Coding Practices guide,Go,https://github.com/OWASP/Go-SCP
+791,Modlishka,4946,892,4946,14,19/12/2018,19/04/2024,4.98 MB,5103,Modlishka. Reverse Proxy.  ,Go,https://github.com/drk1wi/Modlishka
+792,wechat,4942,1094,4942,109,06/09/2016,28/03/2025,5.72 MB,5857,WeChat SDK for Go （微信SDK：简单、易用）,Go,https://github.com/silenceper/wechat
+793,freegeoip,4938,790,4938,5,11/09/2010,27/08/2022,4.19 MB,4288,IP geolocation web server,Go,https://github.com/fiorix/freegeoip
+794,blackbox_exporter,4928,1094,4928,172,05/09/2015,26/03/2025,7.10 MB,7275,Blackbox prober exporter,Go,https://github.com/prometheus/blackbox_exporter
+795,govendor,4924,395,4924,122,12/04/2015,02/03/2020,2.31 MB,2365,Use Go Modules.,Go,https://github.com/kardianos/govendor
+796,k8s-tutorials,4923,564,4923,2,07/05/2022,17/12/2024,1.16 MB,1183,k8s tutorials | k8s 教程,Go,https://github.com/guangzhengli/k8s-tutorials
+797,vugu,4922,173,4922,105,20/03/2019,10/03/2025,1.36 MB,1390,Vugu: A modern UI library for Go+WebAssembly (experimental),Go,https://github.com/vugu/vugu
+798,amqp,4907,620,4907,94,25/04/2012,07/09/2023,937.00 KB,937,Go client for AMQP 0.9.1,Go,https://github.com/streadway/amqp
+799,go.uuid,4906,600,4906,43,18/06/2013,10/08/2024,111.00 KB,111,UUID package for Go,Go,https://github.com/satori/go.uuid
+800,grace,4901,423,4901,9,04/06/2012,13/02/2019,84.00 KB,84,Graceful restart & zero downtime deploy for Go servers.,Go,https://github.com/facebookarchive/grace
+801,gopay,4896,812,4896,27,08/01/2019,22/03/2025,10.04 MB,10276,微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】,Go,https://github.com/go-pay/gopay
+802,go-astilectron,4894,342,4894,54,22/04/2017,16/02/2024,682.00 KB,682,Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron),Go,https://github.com/asticode/go-astilectron
+803,go-git,4894,536,4894,226,22/10/2015,10/04/2022,3.24 MB,3319,Project has been moved to: https://github.com/go-git/go-git,Go,https://github.com/src-d/go-git
+804,gost,4890,567,4890,129,12/02/2020,18/02/2025,1.07 MB,1093,GO Simple Tunnel - a simple tunnel written in golang,Go,https://github.com/go-gost/gost
+805,terrascan,4882,516,4882,280,11/09/2017,10/12/2024,15.70 MB,16073,Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.,Go,https://github.com/tenable/terrascan
+806,mercure,4875,328,4875,54,14/07/2018,22/03/2025,8.20 MB,8401,"🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications",Go,https://github.com/dunglas/mercure
+807,go-funk,4873,276,4873,8,30/12/2016,24/07/2024,326.00 KB,326,"A modern Go utility library which provides helpers (map, find, contains, filter, ...)",Go,https://github.com/thoas/go-funk
+808,firefly-proxy,4866,873,4866,501,04/11/2014,14/11/2018,2.22 MB,2271,A proxy software to help circumventing the Great Firewall.,Go,https://github.com/yinghuocho/firefly-proxy
+809,gofakeit,4849,273,4849,14,24/04/2015,13/02/2025,7.71 MB,7891,Random fake data generator written in go,Go,https://github.com/brianvoe/gofakeit
+810,wireproxy,4848,300,4848,61,11/03/2022,13/03/2025,194.00 KB,194,Wireguard client that exposes itself as a socks5 proxy,Go,https://github.com/whyvl/wireproxy
+811,video-srt-windows,4846,609,4846,35,28/11/2019,10/03/2023,127.00 KB,127,这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。,Go,https://github.com/wxbool/video-srt-windows
+812,external-secrets,4841,932,4841,169,17/11/2020,26/03/2025,150.55 MB,154166,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,Go,https://github.com/external-secrets/external-secrets
+813,pgroll,4830,91,4830,70,22/06/2023,28/03/2025,2.78 MB,2849,PostgreSQL zero-downtime migrations made easy,Go,https://github.com/xataio/pgroll
+814,scorecard,4829,522,4829,353,09/10/2020,24/03/2025,248.74 MB,254711,OpenSSF Scorecard - Security health metrics for Open Source,Go,https://github.com/ossf/scorecard
+815,go-fuzz,4821,279,4821,58,15/04/2015,24/09/2024,5.44 MB,5571,Randomized testing for Go,Go,https://github.com/dvyukov/go-fuzz
+816,weaver,4818,254,4818,7,04/01/2023,18/03/2025,54.77 MB,56085,Programming framework for writing and deploying cloud applications.,Go,https://github.com/ServiceWeaver/weaver
+817,m3,4812,461,4812,221,14/06/2016,28/03/2025,103.37 MB,105854,"M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",Go,https://github.com/m3db/m3
+818,woodpecker,4806,400,4806,319,03/04/2019,28/03/2025,108.35 MB,110954,"Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",Go,https://github.com/woodpecker-ci/woodpecker
+819,assets,4805,23385,4805,66,09/08/2019,28/03/2025,657.17 MB,672937,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",Go,https://github.com/trustwallet/assets
+820,cosign,4804,573,4804,257,04/02/2021,25/03/2025,23.22 MB,23780,Code signing and transparency for containers and binaries,Go,https://github.com/sigstore/cosign
+821,kruise,4798,778,4798,82,30/05/2019,28/03/2025,70.87 MB,72572,Automated management of large-scale applications on Kubernetes (incubating project under CNCF),Go,https://github.com/openkruise/kruise
+822,devtron,4795,521,4795,689,10/10/2020,28/03/2025,295.91 MB,303012,The only Kubernetes dashboard you need,Go,https://github.com/devtron-labs/devtron
+823,goatcounter,4793,208,4793,52,28/05/2019,19/03/2025,45.26 MB,46342,Easy web analytics. No tracking of personal data.,Go,https://github.com/arp242/goatcounter
+824,consul-template,4789,782,4789,203,07/10/2014,25/03/2025,56.70 MB,58057,"Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.",Go,https://github.com/hashicorp/consul-template
+825,WindowsSpyBlocker,4782,368,4782,47,04/03/2016,02/02/2025,37.40 MB,38297,Block spying and tracking on Windows,Go,https://github.com/crazy-max/WindowsSpyBlocker
+826,dubbo-go,4775,938,4775,80,08/08/2018,26/03/2025,93.60 MB,95845,Go Implementation For Apache Dubbo .,Go,https://github.com/apache/dubbo-go
+827,rosedb,4754,645,4754,2,06/12/2020,21/02/2025,3.44 MB,3525,"Lightweight, fast and reliable key/value storage engine based on Bitcask.",Go,https://github.com/rosedblabs/rosedb
+828,horcrux,4751,130,4751,19,02/01/2020,20/08/2024,144.00 KB,144,Split your file into encrypted fragments so that you don't need to remember a passcode,Go,https://github.com/jesseduffield/horcrux
+829,pet,4750,237,4750,21,11/03/2017,27/02/2025,4.07 MB,4168,Simple command-line snippet manager,Go,https://github.com/knqyf263/pet
+830,kubernetes-ingress,4750,1974,4750,152,10/03/2016,28/03/2025,74.25 MB,76032,NGINX and  NGINX Plus Ingress Controllers for Kubernetes,Go,https://github.com/nginx/kubernetes-ingress
+831,slack,4748,1157,4748,110,24/01/2015,26/03/2025,2.44 MB,2497,Slack API in Go,Go,https://github.com/slack-go/slack
+832,tcell,4742,326,4742,43,27/09/2015,10/03/2025,2.34 MB,2394,"Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.",Go,https://github.com/gdamore/tcell
+833,waypoint,4741,329,4741,362,27/04/2020,08/01/2024,267.40 MB,273817,"A tool to build, deploy, and release any application on any platform.",Go,https://github.com/hashicorp/waypoint
+834,descheduler,4739,706,4739,71,28/07/2017,28/03/2025,98.14 MB,100494,Descheduler for Kubernetes,Go,https://github.com/kubernetes-sigs/descheduler
+835,ladder,4739,187,4739,18,01/11/2023,02/10/2024,13.33 MB,13651,Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL,Go,https://github.com/everywall/ladder
+836,goleak,4729,153,4729,15,02/11/2017,21/11/2024,111.00 KB,111,Goroutine leak detector,Go,https://github.com/uber-go/goleak
+837,boom,4723,319,4723,32,04/01/2014,02/09/2016,3.46 MB,3543,"HTTP(S) load generator, ApacheBench (ab) replacement, written in Go",Go,https://github.com/rakyll/boom
+838,quorum,4722,1313,4722,84,14/11/2016,30/07/2024,185.16 MB,189599,A permissioned implementation of Ethereum supporting data privacy,Go,https://github.com/Consensys/quorum
+839,vale,4720,165,4720,51,05/02/2017,24/03/2025,73.59 MB,75352,:pencil: A markup-aware linter for prose built with speed and extensibility in mind.,Go,https://github.com/errata-ai/vale
+840,gameboy.live,4715,233,4715,11,20/04/2019,16/01/2024,5.08 MB,5207,"🕹️ A basic gameboy emulator with terminal ""Cloud Gaming"" support",Go,https://github.com/HFO4/gameboy.live
+841,karmada,4712,921,4712,614,10/11/2020,28/03/2025,66.52 MB,68117,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",Go,https://github.com/karmada-io/karmada
+842,termbox-go,4708,376,4708,50,12/01/2012,08/02/2022,376.00 KB,376,Pure Go termbox implementation,Go,https://github.com/nsf/termbox-go
+843,go-mysql,4707,1011,4707,153,21/02/2014,28/03/2025,3.28 MB,3357,a powerful mysql toolset with Go,Go,https://github.com/go-mysql-org/go-mysql
+844,stolon,4702,447,4702,150,08/10/2015,08/07/2024,9.28 MB,9501,PostgreSQL cloud native High Availability and more.,Go,https://github.com/sorintlab/stolon
+845,golang-for-nodejs-developers,4699,524,4699,1,03/01/2019,02/02/2023,231.00 KB,231,Examples of Golang compared to Node.js for learning 🤓,Go,https://github.com/miguelmota/golang-for-nodejs-developers
+846,find3,4694,366,4694,80,15/02/2018,30/12/2022,20.20 MB,20689,"High-precision indoor positioning framework, version 3.",Go,https://github.com/schollz/find3
+847,TopList,4693,946,4693,45,15/07/2019,23/02/2023,5.56 MB,5697,今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish,Go,https://github.com/tophubs/TopList
+848,writefreely,4693,333,4693,116,02/04/2017,14/03/2025,15.42 MB,15792,"A clean, Markdown-based publishing platform made for writers. Write together and build a community.",Go,https://github.com/writefreely/writefreely
+849,toml,4691,530,4691,14,26/02/2013,18/03/2025,848.00 KB,848,TOML parser for Golang with reflection.,Go,https://github.com/BurntSushi/toml
+850,terraform-provider-azurerm,4687,4726,4687,3333,05/06/2017,28/03/2025,251.15 MB,257179,Terraform provider for Azure Resource Manager,Go,https://github.com/hashicorp/terraform-provider-azurerm
+851,mox,4684,139,4684,119,30/01/2023,24/03/2025,13.08 MB,13395,modern full-featured open source secure mail server for low-maintenance self-hosted email,Go,https://github.com/mjl-/mox
+852,graphql-go,4683,491,4683,43,18/10/2016,22/02/2025,1.65 MB,1689,GraphQL server with a focus on ease of use,Go,https://github.com/graph-gophers/graphql-go
+853,logspout,4680,678,4680,110,13/05/2014,11/07/2023,5.66 MB,5791,Log routing for Docker container logs,Go,https://github.com/gliderlabs/logspout
+854,cds,4674,435,4674,151,11/10/2016,28/03/2025,220.57 MB,225860,Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform,Go,https://github.com/ovh/cds
+855,registrator,4670,913,4670,263,22/07/2014,18/05/2024,23.36 MB,23925,Service registry bridge for Docker with pluggable adapters,Go,https://github.com/gliderlabs/registrator
+856,buntdb,4665,295,4665,32,19/07/2016,10/09/2024,418.00 KB,418,"BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support",Go,https://github.com/tidwall/buntdb
+857,ulid,4661,171,4661,8,06/12/2016,13/04/2024,194.00 KB,194,Universally Unique Lexicographically Sortable Identifier (ULID) in Go,Go,https://github.com/oklog/ulid
+858,gopl-zh.github.com,4658,1021,4658,1,20/06/2016,27/10/2024,15.93 MB,16310,:books: Go语言圣经中文版 🇨🇳,Go,https://github.com/gopl-zh/gopl-zh.github.com
+859,KillWxapkg,4658,968,4658,31,24/07/2024,20/09/2024,35.25 MB,36100,自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改,Go,https://github.com/Ackites/KillWxapkg
+860,easyjson,4645,432,4645,80,26/02/2016,11/01/2025,472.00 KB,472,Fast JSON serializer for golang.,Go,https://github.com/mailru/easyjson
+861,noti,4638,136,4638,34,04/04/2015,06/03/2025,158.42 MB,162223,Monitor a process and trigger a notification.,Go,https://github.com/variadico/noti
+862,pouch,4637,949,4637,9,06/09/2017,22/08/2024,25.41 MB,26022,An Efficient Enterprise-class Container Engine,Go,https://github.com/AliyunContainerService/pouch
+863,postgres-operator,4634,1013,4634,644,12/05/2017,13/03/2025,34.00 MB,34813,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,Go,https://github.com/zalando/postgres-operator
+864,go-zero-looklook,4633,860,4633,3,20/12/2021,16/01/2025,103.12 MB,105599,🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Go,https://github.com/Mikaelemmmm/go-zero-looklook
+865,go-interview,4633,480,4633,0,29/03/2020,10/07/2023,198.00 KB,198,Collection of Technical Interview Questions solved with Go,Go,https://github.com/shomali11/go-interview
+866,hakrawler,4631,513,4631,8,15/12/2019,21/12/2024,1.74 MB,1786,"Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",Go,https://github.com/hakluke/hakrawler
+867,jx,4612,791,4612,146,05/01/2018,20/03/2025,61.27 MB,62742,Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton,Go,https://github.com/jenkins-x/jx
+868,litmus,4607,718,4607,423,15/03/2017,28/03/2025,139.97 MB,143328,Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q,Go,https://github.com/litmuschaos/litmus
+869,lakeFS,4601,370,4601,390,12/09/2019,28/03/2025,151.79 MB,155438,lakeFS - Data version control for your data lake | Git for data,Go,https://github.com/treeverse/lakeFS
+870,gox,4600,356,4600,68,17/11/2013,02/05/2023,126.00 KB,126,"A dead simple, no frills Go cross compile tool",Go,https://github.com/mitchellh/gox
+871,k0s,4584,387,4584,147,10/06/2020,27/03/2025,165.14 MB,169107,k0s - The Zero Friction Kubernetes,Go,https://github.com/k0sproject/k0s
+872,service,4580,694,4580,168,06/01/2015,02/08/2024,3.67 MB,3754,Run go programs as a service on major platforms.,Go,https://github.com/kardianos/service
+873,wireguard-ui,4558,549,4558,200,17/04/2020,09/08/2024,6.72 MB,6877,Wireguard web interface,Go,https://github.com/ngoduykhanh/wireguard-ui
+874,devspace,4542,376,4542,43,17/08/2018,27/03/2025,365.52 MB,374289,DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.,Go,https://github.com/devspace-sh/devspace
+875,volcano,4541,1041,4541,410,14/03/2019,27/03/2025,85.26 MB,87310,A Cloud Native Batch System (Project under CNCF),Go,https://github.com/volcano-sh/volcano
+876,golang-lru,4534,511,4534,48,06/08/2014,27/02/2025,121.00 KB,121,Golang LRU cache,Go,https://github.com/hashicorp/golang-lru
+877,Go,4526,1226,4526,11,15/07/2019,07/04/2024,3.88 MB,3974,【Go 从入门到实战】学习笔记，从零开始学 Go、Gin 框架，基本语法包括 26 个Demo，Gin 框架包括：Gin 自定义路由配置、Gin 使用 Logrus 进行日志记录、Gin 数据绑定和验证、Gin 自定义错误处理、Go gRPC Hello World... 持续更新中... ,Go,https://github.com/xinliangnote/Go
+878,unioffice,4526,479,4526,24,29/08/2017,21/02/2025,153.79 MB,157479,"Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",Go,https://github.com/unidoc/unioffice
+879,gg,4525,368,4525,94,18/02/2016,14/12/2023,1.22 MB,1251,Go Graphics - 2D rendering in Go with a simple API.,Go,https://github.com/fogleman/gg
+880,docker-gen,4519,609,4519,56,14/03/2014,23/03/2025,5.26 MB,5387,Generate files from docker container meta-data,Go,https://github.com/nginx-proxy/docker-gen
+881,aliyunpan,4518,365,4518,13,04/08/2021,23/03/2025,5.70 MB,5837,阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。,Go,https://github.com/tickstep/aliyunpan
+882,now,4517,234,4517,14,18/11/2013,22/05/2023,84.00 KB,84,Now is a time toolkit for golang,Go,https://github.com/jinzhu/now
+883,athens,4514,508,4514,153,25/02/2018,22/03/2025,83.95 MB,85962,A Go module datastore and proxy,Go,https://github.com/gomods/athens
+884,chroma,4508,414,4508,116,07/06/2017,23/03/2025,13.43 MB,13751,A general purpose syntax highlighter in pure Go ,Go,https://github.com/alecthomas/chroma
+885,wukong,4503,874,4503,38,09/08/2013,24/08/2021,25.61 MB,26223,高度可定制的全文搜索引擎,Go,https://github.com/huichen/wukong
+886,arduino-cli,4502,398,4502,219,08/08/2018,28/03/2025,58.84 MB,60249,Arduino command line tool,Go,https://github.com/arduino/arduino-cli
+887,gomail,4499,583,4499,108,15/10/2014,31/03/2023,115.00 KB,115,The best way to send emails in Go.,Go,https://github.com/go-gomail/gomail
+888,mosn,4488,797,4488,291,12/07/2018,10/12/2024,105.80 MB,108342,The Cloud-Native Network Proxy Platform,Go,https://github.com/mosn/mosn
+889,pixel,4486,245,4486,45,19/11/2016,23/05/2024,12.21 MB,12507,A hand-crafted 2D game library in Go,Go,https://github.com/faiface/pixel
+890,go-humanize,4477,237,4477,41,13/01/2012,24/03/2025,93.00 KB,93,Go Humans! (formatters for units to human friendly sizes),Go,https://github.com/dustin/go-humanize
+891,garble,4474,284,4474,43,08/12/2019,06/03/2025,1.26 MB,1294,Obfuscate Go builds,Go,https://github.com/burrowers/garble
+892,digger,4467,563,4467,303,24/02/2023,27/03/2025,100.09 MB,102497,Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  ,Go,https://github.com/diggerhq/digger
+893,jupiter,4465,698,4465,6,27/02/2020,24/03/2025,29.42 MB,30126,Jupiter: Governance-oriented Microservice Framework.,Go,https://github.com/douyu/jupiter
+894,pigo,4460,312,4460,4,14/05/2018,12/08/2024,14.82 MB,15175,"Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.",Go,https://github.com/esimov/pigo
+895,ratelimit,4458,313,4458,11,10/09/2016,01/05/2024,101.00 KB,101,A Go blocking leaky-bucket rate limit implementation,Go,https://github.com/uber-go/ratelimit
+896,realize,4457,231,4457,72,12/07/2016,14/05/2021,4.02 MB,4119,Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.,Go,https://github.com/oxequa/realize
+897,golang-set,4447,278,4447,11,03/07/2013,14/03/2025,438.00 KB,438,"A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.",Go,https://github.com/deckarep/golang-set
+898,lxd,4446,940,4446,293,04/11/2014,28/03/2025,160.02 MB,163863,Powerful system container and virtual machine manager,Go,https://github.com/canonical/lxd
+899,req,4439,361,4439,64,25/02/2017,12/03/2025,2.14 MB,2196,Simple Go HTTP client with Black Magic,Go,https://github.com/imroc/req
+900,Psyduck,4435,524,4435,8,21/04/2021,14/08/2022,78.64 MB,80532,"Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",Go,https://github.com/SmartKeyerror/Psyduck
+901,gxui,4433,297,4433,46,16/03/2015,23/11/2020,1.61 MB,1652,An experimental Go cross platform UI library.,Go,https://github.com/google/gxui
+902,dkron,4430,392,4430,86,10/06/2015,25/03/2025,131.00 MB,134147,"Dkron - Distributed, fault tolerant job scheduling system https://dkron.io",Go,https://github.com/distribworks/dkron
+903,node-prune,4427,132,4427,24,19/11/2017,30/11/2022,52.00 KB,52,"Remove unnecessary files from node_modules (.md, .ts, ...)",Go,https://github.com/tj/node-prune
+904,archiver,4423,392,4423,10,08/04/2016,19/11/2024,549.00 KB,549,DEPRECATED. Please use mholt/archives instead.,Go,https://github.com/mholt/archiver
+905,sprig,4419,457,4419,147,22/11/2013,28/10/2024,573.00 KB,573,Useful template functions for Go templates.,Go,https://github.com/Masterminds/sprig
+906,ReverseProxy,4418,1120,4418,35,14/10/2017,16/04/2018,6.77 MB,6933,ReverseProxy in golang,Go,https://github.com/ilanyu/ReverseProxy
+907,KingOfBugBountyTips,4409,844,4409,0,26/08/2020,23/01/2025,252.00 KB,252,"Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters..",Go,https://github.com/KingOfBugbounty/KingOfBugBountyTips
+908,terraform-docs,4407,562,4407,163,12/06/2016,13/03/2025,3.45 MB,3537,Generate documentation from Terraform modules in various output formats,Go,https://github.com/terraform-docs/terraform-docs
+909,concurrent-map,4403,552,4403,38,05/10/2014,22/05/2024,101.00 KB,101,a thread-safe concurrent map for go,Go,https://github.com/orcaman/concurrent-map
+910,bililive-go,4401,557,4401,167,25/01/2018,24/03/2025,17.14 MB,17551,一个直播录制工具,Go,https://github.com/hr3lxphr6j/bililive-go
+911,mimir,4396,576,4396,649,13/07/2021,28/03/2025,347.44 MB,355775,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",Go,https://github.com/grafana/mimir
+912,golang-samples,4396,1774,4396,77,28/09/2015,28/03/2025,57.50 MB,58880,Sample apps and code written for Google Cloud in the Go programming language.,Go,https://github.com/GoogleCloudPlatform/golang-samples
+913,natpass,4385,493,4385,19,30/07/2021,13/03/2025,17.18 MB,17596,🔥居家办公，远程开发神器,Go,https://github.com/lwch/natpass
+914,geoip,4384,712,4384,0,02/04/2020,28/03/2025,79.25 MB,81151,"🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.",Go,https://github.com/Loyalsoldier/geoip
+915,tablewriter,4377,372,4377,82,04/02/2014,05/06/2024,234.00 KB,234,ASCII table in golang,Go,https://github.com/olekukonko/tablewriter
+916,gofpdf,4375,800,4375,56,13/03/2015,13/11/2021,5.98 MB,6122,"A PDF document generator with high level support for text, drawing and images",Go,https://github.com/jung-kurt/gofpdf
+917,evans,4370,190,4370,36,16/07/2017,26/12/2023,48.60 MB,49768,Evans: more expressive universal gRPC client,Go,https://github.com/ktr0731/evans
+918,evcc,4369,807,4369,91,06/12/2019,28/03/2025,55.67 MB,57010,solar charging ☀️🚘,Go,https://github.com/evcc-io/evcc
+919,werf,4364,209,4364,136,25/01/2016,28/03/2025,45.92 MB,47027,A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.,Go,https://github.com/werf/werf
+920,automaxprocs,4356,165,4356,17,05/05/2017,23/09/2024,96.00 KB,96,Automatically set GOMAXPROCS to match Linux container CPU quota.,Go,https://github.com/uber-go/automaxprocs
+921,arkade,4353,291,4353,71,26/02/2020,26/03/2025,12.15 MB,12439,Open Source Marketplace For Developer Tools,Go,https://github.com/alexellis/arkade
+922,go-cmp,4353,212,4353,45,07/07/2017,21/02/2025,612.00 KB,612,Package for comparing Go values in tests,Go,https://github.com/google/go-cmp
+923,tempo,4346,557,4346,154,24/01/2020,27/03/2025,158.67 MB,162482,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",Go,https://github.com/grafana/tempo
+924,tools,4339,1178,4339,238,22/01/2016,12/03/2025,74.90 MB,76702,Codelabs management & hosting tools,Go,https://github.com/googlecodelabs/tools
+925,under-the-hood,4331,504,4331,12,18/09/2018,17/10/2023,59.15 MB,60569,📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood,Go,https://github.com/golang-design/under-the-hood
+926,progressbar,4325,231,4325,12,26/10/2017,08/02/2025,1.25 MB,1282,A really basic thread-safe progress bar for Golang applications,Go,https://github.com/schollz/progressbar
+927,prest,4324,289,4324,140,22/11/2016,27/03/2025,17.04 MB,17444,"PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new",Go,https://github.com/prest/prest
+928,harvester,4314,349,4314,1451,14/07/2020,28/03/2025,114.35 MB,117096,Open source hyperconverged infrastructure (HCI) software,Go,https://github.com/harvester/harvester
+929,goflyway,4313,654,4313,85,20/08/2017,22/04/2023,10.88 MB,11140,An encrypted HTTP server,Go,https://github.com/coyove/goflyway
+930,kgateway,4306,480,4306,539,22/01/2018,28/03/2025,206.74 MB,211697,The Cloud-Native API Gateway and AI Gateway,Go,https://github.com/kgateway-dev/kgateway
+931,gdu,4306,155,4306,48,24/02/2018,25/03/2025,2.80 MB,2871,Fast disk usage analyzer with console interface written in Go,Go,https://github.com/dundee/gdu
+932,monitoror,4305,191,4305,74,11/01/2019,11/10/2024,2.89 MB,2955,"Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.",Go,https://github.com/monitoror/monitoror
+933,litefs,4300,101,4300,58,21/04/2022,09/01/2025,1.04 MB,1061,FUSE-based file system for replicating SQLite databases across a cluster of machines,Go,https://github.com/superfly/litefs
+934,hystrix-go,4297,479,4297,56,15/12/2013,24/02/2024,265.00 KB,265,"Netflix's Hystrix latency and fault tolerance library, for Go ",Go,https://github.com/afex/hystrix-go
+935,virtual-kubelet,4290,622,4290,74,04/12/2017,24/03/2025,59.05 MB,60469,Virtual Kubelet is an open source Kubernetes kubelet implementation.,Go,https://github.com/virtual-kubelet/virtual-kubelet
+936,go-recipes,4288,162,4288,22,26/06/2021,20/12/2024,23.29 MB,23850,🦩 Tools for Go projects,Go,https://github.com/nikolaydubina/go-recipes
+937,mage,4282,258,4282,123,20/09/2017,26/11/2024,7.85 MB,8036,a Make/rake-like dev tool using Go,Go,https://github.com/magefile/mage
+938,jira-cli,4279,226,4279,90,22/11/2020,24/03/2025,84.03 MB,86051,🔥 Feature-rich interactive Jira command line.,Go,https://github.com/ankitpokhrel/jira-cli
+939,helmfile,4278,284,4278,62,27/03/2022,27/03/2025,7.10 MB,7274,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",Go,https://github.com/helmfile/helmfile
+940,dockertest,4272,246,4272,22,19/03/2015,17/03/2025,1.19 MB,1216,Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.,Go,https://github.com/ory/dockertest
+941,cameradar,4272,526,4272,28,20/05/2016,11/10/2024,36.35 MB,37223,Cameradar hacks its way into RTSP videosurveillance cameras,Go,https://github.com/Ullaakut/cameradar
+942,gau,4269,470,4269,31,25/02/2020,01/01/2025,117.00 KB,117,"Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",Go,https://github.com/lc/gau
+943,blockchain_go,4265,1184,4265,53,15/08/2017,20/06/2024,88.00 KB,88,A simplified blockchain implementation in Golang,Go,https://github.com/Jeiwan/blockchain_go
+944,websocket,4252,312,4252,52,13/08/2018,25/03/2025,1.09 MB,1120,Minimal and idiomatic WebSocket library for Go,Go,https://github.com/coder/websocket
+945,gin,4241,313,4241,81,25/07/2013,18/02/2023,2.30 MB,2355,Live reload utility for Go web servers,Go,https://github.com/codegangsta/gin
+946,telebot,4237,478,4237,41,25/06/2015,14/10/2024,1.03 MB,1057,Telebot is a Telegram bot framework in Go.,Go,https://github.com/tucnak/telebot
+947,go-coffeeshop,4216,436,4216,13,18/09/2022,10/05/2023,2.45 MB,2510,"☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",Go,https://github.com/thangchung/go-coffeeshop
+948,netpoll,4215,467,4215,26,25/02/2021,05/03/2025,625.00 KB,625,A high-performance non-blocking I/O networking framework focusing on RPC scenarios.,Go,https://github.com/cloudwego/netpoll
+949,kcp-go,4213,747,4213,62,16/06/2015,18/02/2025,871.00 KB,871, A Crypto-Secure Reliable-UDP Library for golang with FEC ,Go,https://github.com/xtaci/kcp-go
+950,plow,4203,140,4203,21,13/06/2021,24/12/2024,2.83 MB,2900,A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display,Go,https://github.com/six-ddc/plow
+951,higress,4194,592,4194,352,27/10/2022,27/03/2025,35.46 MB,36316,🤖 AI Gateway | AI Native API Gateway,Go,https://github.com/alibaba/higress
+952,pomerium,4194,289,4194,131,01/01/2019,28/03/2025,73.52 MB,75282,Pomerium is an identity and context-aware access proxy.,Go,https://github.com/pomerium/pomerium
+953,godropbox,4190,431,4190,6,22/06/2014,24/12/2023,752.00 KB,752,Common libraries for writing Go services/applications.,Go,https://github.com/dropbox/godropbox
+954,flipt,4188,229,4188,43,05/11/2016,25/03/2025,69.86 MB,71535,"Enterprise-ready, GitOps enabled, CloudNative feature management solution",Go,https://github.com/flipt-io/flipt
+955,code,4187,2400,4187,133,13/03/2014,27/01/2024,4.24 MB,4338,Source Code for Go In Action examples,Go,https://github.com/goinaction/code
+956,seek-tune,4187,461,4187,7,05/03/2024,28/03/2025,3.49 MB,3574,An implementation of Shazam's song recognition algorithm.,Go,https://github.com/cgzirim/seek-tune
+957,whalebrew,4180,105,4180,31,22/01/2017,05/02/2025,541.00 KB,541,"Homebrew, but with Docker images",Go,https://github.com/whalebrew/whalebrew
+958,sish,4172,322,4172,20,15/02/2019,21/03/2025,7.40 MB,7578,HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.,Go,https://github.com/antoniomika/sish
+959,google-api-go-client,4160,1151,4160,20,24/11/2014,28/03/2025,1.64 GB,1723561,Auto-generated Google APIs for Go.,Go,https://github.com/googleapis/google-api-go-client
+960,rudder-server,4159,326,4159,36,19/07/2019,28/03/2025,315.07 MB,322636,"Privacy and Security focused Segment-alternative, in Golang and React  ",Go,https://github.com/rudderlabs/rudder-server
+961,cointop,4152,327,4152,51,29/03/2018,07/04/2024,25.75 MB,26364,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀,Go,https://github.com/cointop-sh/cointop
+962,go-mysql-elasticsearch,4142,801,4142,216,15/01/2015,22/10/2023,1.89 MB,1939,Sync MySQL data into elasticsearch ,Go,https://github.com/go-mysql-org/go-mysql-elasticsearch
+963,CDK,4127,564,4127,15,05/11/2020,08/03/2025,9.77 MB,10005,"📦  Make security testing of K8s, Docker, and Containerd easier.",Go,https://github.com/cdk-team/CDK
+964,httprunner,4123,1276,4123,511,13/06/2017,09/08/2024,36.26 MB,37131,HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。,Go,https://github.com/httprunner/httprunner
+965,survey,4113,359,4113,75,30/10/2016,07/04/2024,3.68 MB,3773,A golang library for building interactive and accessible prompts with full support for windows and posix terminals.,Go,https://github.com/AlecAivazis/survey
+966,ledisdb,4109,436,4109,1,30/04/2014,22/10/2023,4.13 MB,4234,A high performance NoSQL Database Server powered by Go,Go,https://github.com/ledisdb/ledisdb
+967,dalfox,4101,456,4101,44,12/04/2020,24/03/2025,30.08 MB,30807,🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.,Go,https://github.com/hahwul/dalfox
+968,echoip,4100,533,4100,44,19/11/2012,14/11/2023,338.00 KB,338,IP address lookup service,Go,https://github.com/mpolden/echoip
+969,endless,4098,345,4098,35,22/03/2015,27/11/2021,48.00 KB,48,Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe),Go,https://github.com/fvbock/endless
+970,go-stress-testing,4094,808,4094,5,15/08/2019,14/03/2025,4.44 MB,4548,go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】,Go,https://github.com/link1st/go-stress-testing
+971,gotosocial,4092,369,4092,296,27/02/2021,28/03/2025,316.20 MB,323785,"Fast, fun, small ActivityPub server.",Go,https://github.com/superseriousbusiness/gotosocial
+972,supervisord,4087,587,4087,172,25/09/2016,03/07/2024,5.90 MB,6040,a go-lang supervisor implementation,Go,https://github.com/ochinchina/supervisord
+973,dig,4084,214,4084,33,21/03/2017,24/03/2025,774.00 KB,774,A reflection based dependency injection toolkit for Go.,Go,https://github.com/uber-go/dig
+974,postgres-operator,4084,607,4084,129,27/02/2017,28/03/2025,65.23 MB,66793,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",Go,https://github.com/CrunchyData/postgres-operator
+975,WuKongIM,4083,498,4083,34,09/05/2023,20/03/2025,74.37 MB,76153,More than just IM 不只是即时通讯( IM ),Go,https://github.com/WuKongIM/WuKongIM
+976,bun,4078,242,4078,19,03/05/2021,28/03/2025,3.09 MB,3164,SQL-first Golang ORM,Go,https://github.com/uptrace/bun
+977,httplab,4073,121,4073,13,08/02/2017,05/02/2024,516.00 KB,516,The interactive web server,Go,https://github.com/qustavo/httplab
+978,bild,4072,215,4072,20,01/08/2016,24/09/2024,9.07 MB,9284,Image processing algorithms in pure Go,Go,https://github.com/anthonynsimon/bild
+979,xid,4070,207,4070,17,10/11/2015,13/03/2025,89.00 KB,89,xid is a globally unique id generator thought for the web,Go,https://github.com/rs/xid
+980,webdav,4070,469,4070,17,03/08/2017,18/03/2025,167.00 KB,167,A simple and standalone WebDAV server.,Go,https://github.com/hacdias/webdav
+981,kscan,4070,530,4070,43,25/01/2021,22/08/2023,82.34 MB,84314,Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。,Go,https://github.com/lcvvvv/kscan
+982,sonyflake,4067,308,4067,11,29/05/2015,13/10/2024,26.00 KB,26,A distributed unique ID generator inspired by Twitter's Snowflake,Go,https://github.com/sony/sonyflake
+983,cellnet,4059,883,4059,7,18/08/2015,14/03/2024,9.86 MB,10099,"High performance, simple, extensible golang open source network library",Go,https://github.com/davyxu/cellnet
+984,helmfile,4051,563,4051,524,22/11/2016,27/04/2023,3.24 MB,3320,Deploy Kubernetes Helm Charts,Go,https://github.com/roboll/helmfile
+985,grv,4050,98,4050,29,08/09/2017,01/05/2019,6.68 MB,6838,GRV is a terminal interface for viewing git repositories,Go,https://github.com/rgburke/grv
+986,paopao-ce,4049,594,4049,14,24/05/2022,24/03/2025,25.55 MB,26163,"🔥An artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",Go,https://github.com/rocboss/paopao-ce
+987,aws-load-balancer-controller,4047,1503,4047,176,10/03/2017,27/03/2025,149.26 MB,152838,A Kubernetes controller for Elastic Load Balancers,Go,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+988,btree,4042,422,4042,14,31/07/2014,21/08/2024,64.00 KB,64,"BTree provides a simple, ordered, in-memory data structure for Go programs.",Go,https://github.com/google/btree
+989,komiser,4035,438,4035,238,12/02/2018,25/03/2025,156.25 MB,159997,"Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!",Go,https://github.com/tailwarden/komiser
+990,dae,4030,252,4030,78,23/01/2023,04/03/2025,3.95 MB,4042,eBPF-based Linux high-performance transparent proxy solution.,Go,https://github.com/daeuniverse/dae
+991,go-fastdfs,4013,758,4013,0,07/01/2019,02/01/2025,38.63 MB,39555,"go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliability, maintenance free and other advantages, support breakpoint continuation, block upload, small file merge, automatic synchronization, automatic repair.(similar fastdfs).",Go,https://github.com/sjqzhang/go-fastdfs
+992,gotrue,4005,297,4005,29,16/05/2016,13/03/2025,7.16 MB,7327,An SWT based API for managing users and issuing SWT tokens.,Go,https://github.com/netlify/gotrue
+993,SxT-Go-SDK,4002,78,4002,2,17/05/2023,10/02/2025,54.00 KB,54,GO based SDK for interacting with the Space and Time API. ,Go,https://github.com/spaceandtimelabs/SxT-Go-SDK
+994,torsniff,3996,904,3996,8,28/02/2016,26/04/2021,30.04 MB,30766,torsniff - a sniffer that sniffs torrents from BitTorrent network,Go,https://github.com/fanpei91/torsniff
+995,go-chart,3996,330,3996,114,08/07/2016,23/08/2024,9.64 MB,9869,go chart is a basic charting library in go.,Go,https://github.com/wcharczuk/go-chart
+996,fsql,3994,120,3994,9,28/04/2017,08/10/2024,5.06 MB,5184,Search for files using a fun query language,Go,https://github.com/kashav/fsql
+997,RedisShake,3984,718,3984,118,28/02/2019,27/03/2025,25.53 MB,26140,RedisShake is a Redis data processing and migration tool.,Go,https://github.com/tair-opensource/RedisShake
+998,lint,3978,489,3978,0,02/06/2013,08/05/2021,358.00 KB,358,[mirror] This is a linter for Go source code. (deprecated),Go,https://github.com/golang/lint
+999,tunny,3968,309,3968,8,02/04/2014,09/03/2023,170.00 KB,170,A goroutine pool for Go,Go,https://github.com/Jeffail/tunny
+1000,space-cloud,3966,223,3966,147,09/02/2019,04/07/2024,68.03 MB,69667,"Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes",Go,https://github.com/spacecloud-io/space-cloud

@@ -1,0 +1,11 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,neovim,87778,5956,87778,1897,31/01/2014,28/03/2025,307.81 MB,315197,Vim-fork focused on extensibility and usability,Vim Script,https://github.com/neovim/neovim
+2,vim,37803,5615,37803,1529,18/08/2015,27/03/2025,154.30 MB,158004,The official Vim repository,Vim Script,https://github.com/vim/vim
+3,vim-plug,34687,1948,34687,81,10/09/2013,12/03/2025,8.79 MB,8996,:hibiscus: Minimalist Vim Plugin Manager,Vim Script,https://github.com/junegunn/vim-plug
+4,vimrc,31121,7307,31121,12,29/05/2012,06/10/2024,31.71 MB,32472,The ultimate Vim configuration (vimrc),Vim Script,https://github.com/amix/vimrc
+5,Vundle.vim,24008,2563,24008,207,17/10/2010,30/07/2024,948.00 KB,948,"Vundle, the plug-in manager for Vim",Vim Script,https://github.com/VundleVim/Vundle.vim
+6,vim-fugitive,20498,1019,20498,74,09/10/2009,19/02/2025,2.61 MB,2669,"fugitive.vim: A Git wrapper so awesome, it should be illegal",Vim Script,https://github.com/tpope/vim-fugitive
+7,SpaceVim,20378,1418,20378,5,26/12/2016,17/02/2025,69.01 MB,70665,A modular configuration of Vim and Neovim,Vim Script,https://github.com/wsdjeg/SpaceVim
+8,nerdtree,19834,1449,19834,28,10/03/2008,20/07/2024,1.92 MB,1965,A tree explorer plugin for vim.,Vim Script,https://github.com/preservim/nerdtree
+9,vim-airline,17873,1104,17873,50,30/06/2013,05/12/2024,3.64 MB,3730,lean & mean status/tabline for vim that's light as air,Vim Script,https://github.com/vim-airline/vim-airline
+10,vim-galore,17156,616,17156,10,04/01/2016,22/12/2023,952.00 KB,952,:mortar_board: All things Vim!,Vim script,https://github.com/mhinz/vim-galore

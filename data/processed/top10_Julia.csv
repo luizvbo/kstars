@@ -1,0 +1,11 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,julia,46684,5557,46684,5010,21/04/2011,28/03/2025,318.88 MB,326532,The Julia Programming Language,Julia,https://github.com/JuliaLang/julia
+2,Pluto.jl,5090,294,5090,348,23/02/2020,28/03/2025,51.94 MB,53189,🎈 Simple reactive notebooks for Julia,Julia,https://github.com/fonsp/Pluto.jl
+3,Flux.jl,4597,613,4597,272,01/04/2016,27/03/2025,12.59 MB,12892,Relax! Flux is the ML library that doesn't make you tensor,Julia,https://github.com/FluxML/Flux.jl
+4,DifferentialEquations.jl,2928,235,2928,165,11/05/2016,22/03/2025,173.35 MB,177513,"Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",Julia,https://github.com/SciML/DifferentialEquations.jl
+5,IJulia.jl,2819,418,2819,120,05/03/2013,09/03/2025,3.36 MB,3444,Julia kernel for Jupyter,Julia,https://github.com/JuliaLang/IJulia.jl
+6,computational-thinking,2662,490,2662,7,25/08/2020,21/03/2025,929.44 MB,951742,"Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia",Julia,https://github.com/mitmath/computational-thinking
+7,Makie.jl,2502,329,2502,832,25/09/2017,27/03/2025,597.62 MB,611967,Interactive data visualizations and plotting in Julia,Julia,https://github.com/MakieOrg/Makie.jl
+8,Genie.jl,2316,190,2316,107,19/02/2016,13/03/2025,52.28 MB,53536,🧞The highly productive Julia web framework,Julia,https://github.com/GenieFramework/Genie.jl
+9,JuMP.jl,2284,405,2284,8,10/10/2012,26/03/2025,288.94 MB,295870,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",Julia,https://github.com/jump-dev/JuMP.jl
+10,Turing.jl,2101,225,2101,100,29/04/2016,27/03/2025,36.81 MB,37690,Bayesian inference with probabilistic programming.,Julia,https://github.com/TuringLang/Turing.jl

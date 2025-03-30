@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,the-algorithm,63056,12163,63056,456,27/03/2023,10/07/2024,7.62 MB,7803,Source code for Twitter's Recommendation Algorithm,Scala,https://github.com/twitter/the-algorithm
+2,spark,40830,28474,40830,207,25/02/2014,28/03/2025,483.05 MB,494639,Apache Spark - A unified analytics engine for large-scale data processing,Scala,https://github.com/apache/spark
+3,prisma1,16492,859,16492,2,25/09/2016,01/09/2022,189.37 MB,193917,"💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",Scala,https://github.com/prisma/prisma1
+4,lila,16406,2362,16406,1050,21/02/2012,28/03/2025,538.20 MB,551121,"♞ lichess.org: the forever free, adless and open source chess server ♞",Scala,https://github.com/lichess-org/lila
+5,scala,14367,3111,14367,32,01/12/2011,25/03/2025,158.31 MB,162109,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,Scala,https://github.com/scala/scala
+6,akka,13132,3588,13132,882,16/02/2009,28/03/2025,274.89 MB,281488,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",Scala,https://github.com/akka/akka
+7,playframework,12557,4100,12557,465,07/09/2011,27/03/2025,108.47 MB,111074,The Community Maintained High Velocity Web Framework For Java and Scala.,Scala,https://github.com/playframework/playframework
+8,predictionio,12529,1926,12529,80,25/01/2013,09/01/2021,35.44 MB,36295,"PredictionIO, a machine learning server for developers and ML engineers.",Scala,https://github.com/apache/predictionio
+9,CMAK,11892,2506,11892,520,28/01/2015,02/08/2023,3.97 MB,4066,CMAK is a tool for managing Apache Kafka clusters,Scala,https://github.com/yahoo/CMAK
+10,bfg-repo-cleaner,11412,554,11412,271,21/12/2012,19/01/2025,1.95 MB,1992,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",Scala,https://github.com/rtyley/bfg-repo-cleaner
+11,gitbucket,9225,1253,9225,360,10/04/2013,26/03/2025,40.13 MB,41095,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",Scala,https://github.com/gitbucket/gitbucket
+12,finagle,8811,1450,8811,64,19/10/2010,05/03/2025,104.45 MB,106959,"A fault tolerant, protocol-agnostic RPC system",Scala,https://github.com/twitter/finagle
+13,delta,7911,1799,7911,934,22/04/2019,27/03/2025,37.26 MB,38153,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",Scala,https://github.com/delta-io/delta
+14,snowflake,7708,1135,7708,4,01/06/2010,22/07/2020,5.14 MB,5265,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,Scala,https://github.com/twitter-archive/snowflake
+15,enso,7404,327,7404,701,16/12/2016,28/03/2025,105.58 MB,108119,Enso Analytics is a self-service data prep and analysis platform designed for data teams.,Scala,https://github.com/enso-org/enso
+16,snowplow,6900,1191,6900,58,01/03/2012,24/03/2025,26.14 MB,26771,The leader in Next-Generation Customer Data Infrastructure,Scala,https://github.com/snowplow/snowplow
+17,ArnoldC,6788,293,6788,73,09/10/2013,31/01/2024,92.00 KB,92,Arnold Schwarzenegger based programming language,Scala,https://github.com/lhartikk/ArnoldC
+18,openwhisk,6626,1174,6626,422,18/02/2016,21/01/2025,68.17 MB,69808,Apache OpenWhisk is an open source serverless cloud platform,Scala,https://github.com/apache/openwhisk
+19,gatling,6593,1205,6593,38,31/05/2011,19/03/2025,73.18 MB,74938,Modern Load Testing as Code,Scala,https://github.com/gatling/gatling
+20,XiangShan,6234,751,6234,152,13/06/2020,28/03/2025,34.80 MB,35633,Open-source high-performance RISC-V processor,Scala,https://github.com/OpenXiangShan/XiangShan
+21,scala3,5970,1086,5970,1727,06/12/2012,28/03/2025,173.13 MB,177284,"The Scala 3 compiler, also known as Dotty.",Scala,https://github.com/scala/scala3
+22,frontend,5852,562,5852,137,18/05/2012,28/03/2025,682.83 MB,699215,The Guardian DotCom.,Scala,https://github.com/guardian/frontend
+23,fpinscala,5711,3041,5711,138,23/02/2012,11/12/2024,5.62 MB,5754,"Code, exercises, answers, and hints to go along with the book ""Functional Programming in Scala""",Scala,https://github.com/fpinscala/fpinscala
+24,linkerd,5336,505,5336,147,13/01/2016,04/03/2023,18.68 MB,19129,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.,Scala,https://github.com/linkerd/linkerd
+25,cats,5301,1215,5301,246,28/01/2015,19/03/2025,54.50 MB,55812,"Lightweight, modular, and extensible library for functional programming.",Scala,https://github.com/typelevel/cats
+26,SynapseML,5113,844,5113,396,05/06/2017,27/03/2025,156.13 MB,159874,Simple and Distributed Machine Learning,Scala,https://github.com/microsoft/SynapseML
+27,sbt,4825,950,4825,813,17/08/2009,25/03/2025,49.07 MB,50245,"sbt, the interactive build tool",Scala,https://github.com/sbt/sbt
+28,aerosolve,4793,563,4793,10,12/05/2015,23/09/2024,6.73 MB,6888,A machine learning package built for humans.,Scala,https://github.com/airbnb/aerosolve
+29,scalaz,4666,703,4666,158,16/01/2010,21/03/2025,98.89 MB,101268,Principled Functional Programming in Scala,Scala,https://github.com/scalaz/scalaz
+30,scala-js,4621,394,4621,63,18/02/2013,17/03/2025,29.08 MB,29774,"Scala.js, the Scala to JavaScript compiler",Scala,https://github.com/scala-js/scala-js
+31,scala-native,4556,377,4556,303,27/11/2014,28/03/2025,21.17 MB,21680,Your favorite language gets closer to bare metal.,Scala,https://github.com/scala-native/scala-native
+32,chronos,4381,526,4381,233,13/02/2013,29/06/2022,7.31 MB,7481,Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules,Scala,https://github.com/mesos/chronos
+33,chisel,4217,620,4217,486,27/04/2015,28/03/2025,133.92 MB,137136,Chisel: A Modern Hardware Design Language,Scala,https://github.com/chipsalliance/chisel
+34,zio,4183,1331,4183,211,19/05/2018,28/03/2025,2.34 GB,2457442,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",Scala,https://github.com/zio/zio
+35,marathon,4059,838,4059,29,25/06/2013,08/09/2022,70.16 MB,71840,Deploy and manage containers (including Docker) on top of Apache Mesos at scale.,Scala,https://github.com/d2iq-archive/marathon
+36,spark-nlp,3948,722,3948,23,24/09/2017,28/03/2025,2.79 GB,2922305,State of the Art Natural Language Processing,Scala,https://github.com/JohnSnowLabs/spark-nlp
+37,diffy,3833,370,3833,5,12/08/2015,01/07/2020,582.00 KB,582,Find potential bugs in your services with Diffy,Scala,https://github.com/twitter-archive/diffy
+38,TheHive,3599,643,3599,833,03/11/2016,05/12/2022,42.17 MB,43186,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",Scala,https://github.com/TheHive-Project/TheHive
+39,scalding,3515,706,3515,316,10/01/2012,28/05/2023,19.51 MB,19978,A Scala API for Cascading,Scala,https://github.com/twitter/scalding
+40,atlas,3477,310,3477,15,05/08/2014,27/03/2025,100.68 MB,103100,In-memory dimensional time series database.,Scala,https://github.com/Netflix/atlas
+41,CoolplaySpark,3471,1408,3471,35,03/12/2015,18/05/2022,9.77 MB,10001,酷玩 Spark: Spark 源代码解析、Spark 类库等,Scala,https://github.com/lw-lin/CoolplaySpark
+42,breeze,3454,690,3454,90,08/07/2009,29/08/2024,26.82 MB,27460,Breeze is/was a numerical processing library for Scala.,Scala,https://github.com/scalanlp/breeze
+43,shapeless,3400,531,3400,28,18/12/2011,18/03/2025,7.04 MB,7211,Generic programming for Scala,Scala,https://github.com/milessabin/shapeless
+44,rocket-chip,3389,1157,3389,304,12/09/2014,21/03/2025,21.25 MB,21763,Rocket Chip Generator,Scala,https://github.com/chipsalliance/rocket-chip
+45,deequ,3388,552,3388,157,07/08/2018,27/03/2025,71.09 MB,72797,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",Scala,https://github.com/awslabs/deequ
+46,flockdb,3338,257,3338,27,12/04/2010,16/03/2017,5.27 MB,5392,"A distributed, fault-tolerant graph database",Scala,https://github.com/twitter-archive/flockdb
+47,shadowsocksr-v2ray-trojan-android,3219,385,3219,90,06/12/2019,25/02/2024,91.96 MB,94167,A simple client for Android,Scala,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+48,Spark-The-Definitive-Guide,2939,2826,2939,32,15/05/2017,26/08/2020,523.89 MB,536465,Spark: The Definitive Guide's Code Repository,Scala,https://github.com/databricks/Spark-The-Definitive-Guide
+49,spark-jobserver,2836,990,2836,111,21/08/2014,04/01/2025,4.85 MB,4962,REST job server for Apache Spark,Scala,https://github.com/spark-jobserver/spark-jobserver
+50,kestrel,2765,311,2765,24,21/04/2008,22/01/2016,243.47 MB,249309,"simple, distributed message queue system (inactive)",Scala,https://github.com/twitter-archive/kestrel
+51,util,2713,582,2713,14,26/03/2011,19/03/2025,29.31 MB,30015,Wonderful reusable code from Twitter,Scala,https://github.com/twitter/util
+52,node2vec,2665,913,2665,95,28/06/2016,21/07/2022,52.00 KB,52,,Scala,https://github.com/aditya-grover/node2vec
+53,slick,2655,614,2655,433,20/02/2009,24/03/2025,12.15 MB,12438,Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala,Scala,https://github.com/slick/slick
+54,scalatra,2648,339,2648,72,31/05/2009,22/03/2025,8.00 MB,8191,"Tiny Scala high-performance, async web framework, inspired by Sinatra",Scala,https://github.com/scalatra/scalatra
+55,scala-exercises,2633,542,2633,67,03/09/2014,16/05/2023,16.36 MB,16752,The easy way to learn Scala.,Scala,https://github.com/scala-exercises/scala-exercises
+56,lagom,2632,629,2632,456,23/02/2016,14/08/2023,14.85 MB,15204,Reactive Microservices for the JVM,Scala,https://github.com/lagom/lagom
+57,elasticmq,2619,199,2619,23,25/06/2011,19/03/2025,5.20 MB,5320,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,Scala,https://github.com/softwaremill/elasticmq
+58,Ammonite,2618,371,2618,146,13/01/2015,09/03/2025,557.97 MB,571360,Scala Scripting,Scala,https://github.com/com-lihaoyi/Ammonite
+59,scio,2584,515,2584,136,26/03/2015,24/03/2025,77.17 MB,79019,A Scala API for Apache Beam and Google Cloud Dataflow.,Scala,https://github.com/spotify/scio
+60,http4s,2570,795,2570,344,12/03/2012,26/03/2025,93.79 MB,96044,"A minimal, idiomatic Scala interface for HTTP",Scala,https://github.com/http4s/http4s
+61,spray,2503,564,2503,80,25/03/2011,21/02/2017,20.26 MB,20749,"A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable",Scala,https://github.com/spray/spray
+62,circe,2503,543,2503,117,31/07/2015,23/03/2025,12.59 MB,12896,Yet another JSON library for Scala,Scala,https://github.com/circe/circe
+63,fs2,2390,614,2390,115,06/03/2013,28/03/2025,19.78 MB,20258,"Compositional, streaming I/O library for Scala",Scala,https://github.com/typelevel/fs2
+64,mill,2362,393,2362,207,17/10/2017,28/03/2025,861.02 MB,881683,"Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",Scala,https://github.com/com-lihaoyi/mill
+65,SZT-bigdata,2336,608,2336,3,13/04/2020,16/05/2024,43.09 MB,44124,深圳地铁大数据客流分析系统🚇🚄🌟,Scala,https://github.com/geekyouth/SZT-bigdata
+66,joern,2313,312,2313,317,14/03/2019,28/03/2025,162.55 MB,166451,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,Scala,https://github.com/joernio/joern
+67,algebird,2296,348,2296,111,02/08/2012,19/08/2024,9.34 MB,9566,Abstract Algebra for Scala,Scala,https://github.com/twitter/algebird
+68,finatra,2268,407,2268,16,16/02/2012,07/05/2024,32.63 MB,33410,"Fast, testable, Scala services built on TwitterServer and Finagle",Scala,https://github.com/twitter/finatra
+69,TransmogrifAI,2257,398,2257,46,02/11/2017,29/09/2023,125.57 MB,128581,"TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",Scala,https://github.com/salesforce/TransmogrifAI
+70,gizzard,2251,210,2251,11,06/04/2010,16/03/2017,2.67 MB,2736,[Archived] A flexible sharding framework for creating eventually-consistent distributed datastores,Scala,https://github.com/twitter-archive/gizzard
+71,flix,2250,160,2250,647,12/06/2015,28/03/2025,120.03 MB,122911,The Flix Programming Language,Scala,https://github.com/flix/flix
+72,s3_website,2240,186,2240,76,24/06/2013,23/03/2023,2.23 MB,2283,"Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.",Scala,https://github.com/laurilehmijoki/s3_website
+73,doobie,2184,367,2184,129,25/11/2013,27/03/2025,10.89 MB,11154,Functional JDBC layer for Scala.,Scala,https://github.com/typelevel/doobie
+74,metals,2169,360,2169,278,03/11/2017,28/03/2025,1.97 GB,2061704,Scala language server with rich IDE features 🚀 ,Scala,https://github.com/scalameta/metals
+75,kyuubi,2167,935,2167,511,18/12/2017,26/03/2025,61.32 MB,62793,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,Scala,https://github.com/apache/kyuubi
+76,zio-quill,2154,349,2154,310,20/07/2015,27/03/2025,12.80 MB,13107,Compile-time Language Integrated Queries for Scala,Scala,https://github.com/zio/zio-quill
+77,summingbird,2136,266,2136,163,25/09/2012,19/01/2022,6.46 MB,6615,Streaming MapReduce with Scalding and Storm,Scala,https://github.com/twitter/summingbird
+78,metarank,2114,93,2114,135,19/08/2020,20/01/2025,24.18 MB,24761,"A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine",Scala,https://github.com/metarank/metarank
+79,cats-effect,2099,541,2099,204,08/04/2017,28/03/2025,130.16 MB,133281,The pure asynchronous runtime for Scala,Scala,https://github.com/typelevel/cats-effect
+80,scaloid,2091,161,2091,17,08/10/2012,13/06/2024,3.98 MB,4079,Scaloid makes your Android code easy to understand and maintain.,Scala,https://github.com/pocorall/scaloid
+81,coursier,2077,319,2077,425,16/06/2015,25/03/2025,66.96 MB,68564,Pure Scala Artifact Fetching,Scala,https://github.com/coursier/coursier
+82,textteaser,1978,252,1978,6,02/10/2013,07/02/2018,275.00 KB,275,TextTeaser is an automatic summarization algorithm.,Scala,https://github.com/MojoJolo/textteaser
+83,sangria,1961,220,1961,63,05/07/2015,17/03/2025,8.06 MB,8256,Scala GraphQL implementation,Scala,https://github.com/sangria-graphql/sangria
+84,scalacheck,1948,405,1948,68,26/05/2011,20/03/2025,69.85 MB,71522,Property-based testing for Scala,Scala,https://github.com/typelevel/scalacheck
+85,cassandra-spark-connector,1944,921,1944,22,27/06/2014,25/03/2025,20.82 MB,21316,DataStax Connector for Apache Spark to Apache Cassandra,Scala,https://github.com/apache/cassandra-spark-connector
+86,monix,1935,245,1935,144,06/01/2014,12/08/2024,17.22 MB,17629,"Asynchronous, Reactive Programming for Scala and Scala.js.",Scala,https://github.com/monix/monix
+87,feathr,1886,229,1886,169,18/02/2022,04/04/2024,30.12 MB,30841,"Feathr – A scalable, unified data and AI engineering platform for enterprise",Scala,https://github.com/feathr-ai/feathr
+88,Vale,1856,53,1856,244,28/06/2020,14/05/2024,210.89 MB,215949,Compiler for the Vale programming language - http://vale.dev/,Scala,https://github.com/ValeLang/Vale
+89,riscv-boom,1849,441,1849,126,21/01/2014,19/03/2025,12.50 MB,12796,SonicBOOM: The Berkeley Out-of-Order Machine,Scala,https://github.com/riscv-boom/riscv-boom
+90,byzer-lang,1840,546,1840,120,28/04/2016,29/05/2024,55.97 MB,57315,"Byzer (former MLSQL): A low-code open-source programming language for data pipeline, analytics and AI.",Scala,https://github.com/byzer-org/byzer-lang
+91,chipyard,1799,690,1799,219,24/10/2016,24/03/2025,54.39 MB,55693,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",Scala,https://github.com/ucb-bar/chipyard
+92,spire,1771,243,1771,159,03/11/2011,12/03/2025,22.03 MB,22563,Powerful new number types and numeric abstractions for Scala.,Scala,https://github.com/typelevel/spire
+93,graphcool-framework,1767,129,1767,533,16/01/2018,04/09/2020,12.09 MB,12378,,Scala,https://github.com/Graphcool/graphcool-framework
+94,SpinalHDL,1756,341,1756,163,25/01/2015,27/03/2025,82.94 MB,84935,Scala based HDL,Scala,https://github.com/SpinalHDL/SpinalHDL
+95,giter8,1745,226,1745,50,10/08/2010,20/03/2025,2.10 MB,2155,a command line tool to apply templates defined on GitHub ,Scala,https://github.com/foundweekends/giter8
+96,refined,1721,153,1721,73,10/05/2015,17/03/2025,3.66 MB,3749,Refinement types for Scala,Scala,https://github.com/fthomas/refined
+97,Monocle,1667,203,1667,53,17/01/2014,17/03/2025,26.02 MB,26648,Optics library for Scala,Scala,https://github.com/optics-dev/Monocle
+98,scalajs-react,1648,231,1648,27,03/07/2014,10/02/2025,13.54 MB,13869,Facebook's React on Scala.JS,Scala,https://github.com/japgolly/scalajs-react
+99,elastic4s,1636,690,1636,17,10/06/2013,27/03/2025,13.00 MB,13315,"🔍 Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client",Scala,https://github.com/Philippus/elastic4s
+100,OpenComputers,1627,435,1627,149,04/12/2013,07/01/2025,60.47 MB,61925,Home of the OpenComputers mod for Minecraft.,Scala,https://github.com/MightyPirates/OpenComputers
+101,almond,1610,249,1610,143,10/03/2015,10/03/2025,13.33 MB,13645,A Scala kernel for Jupyter,Scala,https://github.com/almond-sh/almond
+102,skunk,1605,166,1605,89,21/09/2018,25/03/2025,3.71 MB,3799,A data access library for Scala + Postgres.,Scala,https://github.com/typelevel/skunk
+103,finch,1602,221,1602,45,15/04/2014,17/03/2025,8.99 MB,9201,Scala combinator library for building Finagle HTTP services,Scala,https://github.com/finagle/finch
+104,sbt-native-packager,1600,446,1600,151,20/12/2011,18/03/2025,20.80 MB,21295,sbt Native Packager,Scala,https://github.com/sbt/sbt-native-packager
+105,OBP-API,1587,439,1587,195,20/11/2012,27/03/2025,44.04 MB,45097,"An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.",Scala,https://github.com/OpenBankProject/OBP-API
+106,Binding.scala,1584,108,1584,48,06/01/2016,05/01/2025,19.80 MB,20280,Reactive data-binding for Scala,Scala,https://github.com/ThoughtWorksInc/Binding.scala
+107,twitter-server,1581,264,1581,2,22/04/2013,17/05/2024,5.74 MB,5882,Twitter-Server defines a template from which services at Twitter are built,Scala,https://github.com/twitter/twitter-server
+108,aas,1530,1026,1530,4,08/11/2014,25/09/2024,70.95 MB,72651,Code to accompany Advanced Analytics with Spark from O'Reilly Media,Scala,https://github.com/sryza/aas
+109,goose,1529,320,1529,63,16/12/2010,18/04/2017,2.81 MB,2882,Html Content / Article Extractor in Scala - open sourced from Gravity Labs ,Scala,https://github.com/GravityLabs/goose
+110,spark-testing-base,1525,355,1525,108,30/01/2015,14/01/2025,983.00 KB,983,Base classes to use when writing tests with Spark,Scala,https://github.com/holdenk/spark-testing-base
+111,C1000K-Servers,1517,353,1517,0,22/05/2015,16/08/2016,8.73 MB,8936,":zap: High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections",Scala,https://github.com/smallnest/C1000K-Servers
+112,mleap,1515,314,1515,112,23/08/2016,27/11/2024,3.48 MB,3562,MLeap: Deploy ML Pipelines to Production,Scala,https://github.com/combust/mleap
+113,pureconfig,1501,179,1501,51,29/08/2015,24/03/2025,5.49 MB,5621,A boilerplate-free library for loading configuration files,Scala,https://github.com/pureconfig/pureconfig
+114,json4s,1485,331,1485,170,23/08/2012,20/03/2025,3.77 MB,3865,JSON library,Scala,https://github.com/json4s/json4s
+115,better-files,1475,144,1475,50,12/09/2015,13/08/2024,6.45 MB,6604,"Simple, safe and intuitive Scala I/O",Scala,https://github.com/pathikrit/better-files
+116,scalacaster,1471,318,1471,8,26/12/2012,14/08/2023,227.00 KB,227,Purely Functional Algorithms and Data Structures in Scala,Scala,https://github.com/vkostyukov/scalacaster
+117,sttp,1464,315,1464,20,30/06/2017,26/03/2025,10.73 MB,10983,The Scala HTTP client you always wanted!,Scala,https://github.com/softwaremill/sttp
+118,scalafmt,1459,282,1459,15,02/11/2015,19/03/2025,22.58 MB,23119,Code formatter for Scala,Scala,https://github.com/scalameta/scalafmt
+119,geomesa,1444,440,1444,6,30/09/2013,27/03/2025,73.87 MB,75644,GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.,Scala,https://github.com/locationtech/geomesa
+120,NutShell,1444,247,1444,39,07/07/2020,29/12/2024,17.22 MB,17632,RISC-V SoC designed by students in UCAS,Scala,https://github.com/OSCPU/NutShell
+121,grid,1443,122,1443,90,22/08/2013,28/03/2025,37.05 MB,37937,The Guardian’s image management system,Scala,https://github.com/guardian/grid
+122,carbondata,1436,703,1436,141,28/06/2016,02/03/2025,84.62 MB,86651,High performance data store solution,Scala,https://github.com/apache/carbondata
+123,squbs,1435,238,1435,70,07/07/2015,17/04/2024,7.72 MB,7904,Akka Streams & Akka HTTP for Large-Scale Production Deployments,Scala,https://github.com/paypal/squbs
+124,FiloDB,1434,230,1434,45,14/01/2015,27/03/2025,33.06 MB,33854,Distributed Prometheus time series database,Scala,https://github.com/filodb/FiloDB
+125,spark,1428,385,1428,14,29/03/2010,08/04/2014,71.21 MB,72924,"Lightning-fast cluster computing in Java, Scala and Python.",Scala,https://github.com/mesos/spark
+126,postgresql-async,1426,221,1426,68,26/02/2012,26/01/2019,1.40 MB,1430,"Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala",Scala,https://github.com/mauricio/postgresql-async
+127,Kamon,1415,328,1415,189,03/05/2013,11/10/2024,15.13 MB,15491,"Distributed Tracing, Metrics and Context Propagation for applications running on the JVM",Scala,https://github.com/kamon-io/Kamon
+128,alpakka-kafka,1415,385,1415,122,30/12/2014,25/03/2025,4.59 MB,4696,"Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",Scala,https://github.com/akka/alpakka-kafka
+129,Cortex,1394,236,1394,165,10/01/2017,29/10/2024,4.81 MB,4924,Cortex: a Powerful Observable Analysis and Active Response Engine,Scala,https://github.com/TheHive-Project/Cortex
+130,tapir,1392,433,1392,176,09/12/2018,27/03/2025,19.34 MB,19804,Rapid development of self-documenting APIs,Scala,https://github.com/softwaremill/tapir
+131,ecosystem,1370,394,1370,72,14/10/2016,25/09/2024,804.00 KB,804,Integration of TensorFlow with other open-source frameworks,Scala,https://github.com/tensorflow/ecosystem
+132,geotrellis,1354,364,1354,250,23/12/2011,13/03/2025,723.18 MB,740540,GeoTrellis is a geographic data processing engine for high performance applications.,Scala,https://github.com/locationtech/geotrellis
+133,iago,1341,140,1341,6,22/06/2012,11/02/2020,1.05 MB,1079,"A load generator, built for engineers",Scala,https://github.com/twitter-archive/iago
+134,akka-http,1334,595,1334,581,19/08/2016,27/03/2025,19.28 MB,19740,The Streaming-first HTTP server/module of Akka,Scala,https://github.com/akka/akka-http
+135,pekko,1324,162,1324,179,31/10/2022,23/03/2025,257.27 MB,263446,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",Scala,https://github.com/apache/pekko
+136,intellij-haskell,1316,93,1316,111,12/05/2014,07/04/2024,8.67 MB,8877,IntelliJ plugin for Haskell,Scala,https://github.com/rikvdkleij/intellij-haskell
+137,ScalaPB,1313,287,1313,45,02/10/2014,18/03/2025,10.12 MB,10367,Protocol buffer compiler for Scala.,Scala,https://github.com/scalapb/ScalaPB
+138,incubator-gluten,1302,472,1302,645,06/12/2021,28/03/2025,201.60 MB,206434,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,Scala,https://github.com/apache/incubator-gluten
+139,macwire,1286,79,1286,54,17/03/2013,24/03/2025,1.40 MB,1437,"Zero-cost, compile-time, type-safe dependency injection library.",Scala,https://github.com/softwaremill/macwire
+140,eclair,1281,269,1281,39,19/08/2015,28/03/2025,82.54 MB,84519,A scala implementation of the Lightning Network.,Scala,https://github.com/ACINQ/eclair
+141,lcamera,1279,214,1279,103,16/10/2014,01/06/2016,6.46 MB,6615,A camera app using the new camera2 API in Android Lollipop,Scala,https://github.com/PkmX/lcamera
+142,LearningSparkV2,1269,761,1269,3,10/02/2019,28/01/2025,76.97 MB,78816,This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition],Scala,https://github.com/databricks/LearningSparkV2
+143,scalikejdbc,1269,230,1269,40,18/11/2011,20/03/2025,7.16 MB,7335,A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.,Scala,https://github.com/scalikejdbc/scalikejdbc
+144,framework,1269,278,1269,135,26/01/2011,21/11/2024,16.10 MB,16482,Lift Framework,Scala,https://github.com/lift/framework
+145,alpakka,1263,643,1263,254,13/10/2016,25/03/2025,93.79 MB,96045,"Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",Scala,https://github.com/akka/alpakka
+146,sbt-dependency-graph,1249,113,1249,56,15/11/2011,02/04/2021,552.00 KB,552,sbt plugin to create a dependency graph for your project,Scala,https://github.com/sbt/sbt-dependency-graph
+147,rsc,1239,47,1239,82,17/08/2017,21/10/2021,3.26 MB,3335,Experimental Scala compiler focused on compilation speed,Scala,https://github.com/twitter/rsc
+148,intellij-scala,1211,403,1211,7,11/11/2011,28/03/2025,228.26 MB,233734,Scala plugin for IntelliJ IDEA,Scala,https://github.com/JetBrains/intellij-scala
+149,chimney,1205,102,1205,9,23/05/2017,23/03/2025,13.00 MB,13317,"Scala library for boilerplate-free, type-safe data transformations",Scala,https://github.com/scalalandio/chimney
+150,enumeratum,1199,150,1199,35,05/12/2014,28/03/2025,1.43 MB,1464,"A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.",Scala,https://github.com/lloydmeta/enumeratum
+151,AppCrawler,1195,470,1195,7,16/02/2016,17/12/2023,63.91 MB,65447,基于appium的app自动遍历工具,Scala,https://github.com/seveniruby/AppCrawler
+152,spark-timeseries,1192,421,1192,85,11/03/2015,13/10/2020,1.95 MB,1995,A library for time series analysis on Apache Spark,Scala,https://github.com/sryza/spark-timeseries
+153,securesocial,1186,509,1186,63,10/11/2011,09/10/2020,7.35 MB,7524,"A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications",Scala,https://github.com/jaliss/securesocial
+154,killrweather,1182,395,1182,19,07/10/2014,05/01/2017,16.07 MB,16455,"KillrWeather is a reference application (work in progress) showing how to easily integrate streaming and batch data processing with Apache Spark Streaming, Apache Cassandra, Apache Kafka and Akka for fast, streaming computations on time series data in asynchronous event-driven environments. ",Scala,https://github.com/killrweather/killrweather
+155,Metascala,1181,96,1181,0,03/03/2013,23/07/2023,2.34 MB,2395,A JVM written in Scala,Scala,https://github.com/lihaoyi/Metascala
+156,Waves,1173,422,1173,30,17/04/2016,17/03/2025,57.51 MB,58890,⛓️ Reference Waves Blockchain Node (client) implementation on Scala,Scala,https://github.com/wavesplatform/Waves
+157,scala-steward,1166,509,1166,93,06/09/2018,25/03/2025,9.16 MB,9380,:robot: A bot that helps you keep your projects up-to-date,Scala,https://github.com/scala-steward-org/scala-steward
+158,scala-async,1156,90,1156,12,01/04/2013,18/03/2025,1.77 MB,1812,An asynchronous programming facility for Scala,Scala,https://github.com/scala/scala-async
+159,scalatest,1156,336,1156,529,07/04/2013,24/03/2025,49.01 MB,50183,A testing tool for Scala and Java developers,Scala,https://github.com/scalatest/scalatest
+160,griffin,1153,587,1153,0,15/02/2017,16/01/2025,27.82 MB,28484,Mirror of Apache griffin ,Scala,https://github.com/apache/griffin
+161,colossus,1138,96,1138,4,11/11/2014,14/08/2021,8.84 MB,9048,I/O and Microservice library for Scala,Scala,https://github.com/tumblr/colossus
+162,scalameta,1131,227,1131,131,16/06/2014,17/03/2025,26.56 MB,27194,"Library to read, analyze, transform and generate Scala programs",Scala,https://github.com/scalameta/scalameta
+163,freedom,1116,284,1116,70,24/11/2016,17/07/2021,214.00 KB,214,Source files for SiFive's Freedom platforms,Scala,https://github.com/sifive/freedom
+164,fastparse,1102,165,1102,21,29/11/2014,14/01/2025,13.32 MB,13640,Writing Fast Parsers Fast in Scala,Scala,https://github.com/com-lihaoyi/fastparse
+165,wartremover,1093,115,1093,108,05/01/2013,27/03/2025,1.52 MB,1561,Flexible Scala code linting tool,Scala,https://github.com/wartremover/wartremover
+166,Scala,1087,399,1087,23,16/07/2016,06/10/2024,282.00 KB,282,All Algorithms implemented in Scala,Scala,https://github.com/TheAlgorithms/Scala
+167,utils4s,1086,433,1086,5,24/09/2015,09/02/2019,10.53 MB,10778,scala、spark使用过程中，各种测试用例以及相关资料整理,Scala,https://github.com/jacksu/utils4s
+168,sbt-idea,1072,148,1072,94,04/01/2010,27/12/2017,12.51 MB,12809,A simple-build-tool (sbt) plugin/processor for creating IntelliJ IDEA project files,Scala,https://github.com/mpeltonen/sbt-idea
+169,scala-pet-store,1069,213,1069,52,21/05/2017,14/08/2024,1.33 MB,1361,An implementation of the java pet store using FP techniques in scala,Scala,https://github.com/pauljamescleary/scala-pet-store
+170,spark-csv,1052,442,1052,204,03/12/2014,13/12/2018,438.00 KB,438,CSV Data Source for Apache Spark 1.x,Scala,https://github.com/databricks/spark-csv
+171,cassovary,1048,149,1048,33,21/02/2012,08/10/2021,51.54 MB,52777,Cassovary is a simple big graph processing library for the JVM,Scala,https://github.com/twitter/cassovary
+172,phantom,1046,186,1046,21,19/11/2013,05/04/2023,6.93 MB,7097,"Schema safe, type-safe, reactive Scala driver for Cassandra/Datastax Enterprise",Scala,https://github.com/outworkers/phantom
+173,snappydata,1037,203,1037,117,16/09/2015,21/11/2022,574.44 MB,588231,"Project SnappyData - memory optimized analytics database, based on Apache Spark™ and Apache Geode™. Stream, Transact, Analyze, Predict in one cluster ",Scala,https://github.com/TIBCOSoftware/snappydata
+174,graphframes,1035,247,1035,177,20/01/2016,25/03/2025,7.74 MB,7929,GraphFrames is a package for Apache Spark which provides DataFrame-based Graphs,Scala,https://github.com/graphframes/graphframes
+175,stream-reactor,1020,371,1020,147,17/01/2016,26/03/2025,21.13 MB,21639,A collection of open source Apache 2.0 Kafka Connector maintained by Lenses.io.,Scala,https://github.com/lensesio/stream-reactor
+176,adam,1017,311,1017,36,19/11/2013,02/03/2025,12.74 MB,13048,"ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.",Scala,https://github.com/bigdatagenomics/adam
+177,flint,1014,187,1014,44,19/10/2016,03/07/2020,1.47 MB,1503,A Time Series Library for Apache Spark,Scala,https://github.com/twosigma/flint
+178,cromwell,1012,361,1012,792,17/04/2015,26/03/2025,48.47 MB,49632,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,Scala,https://github.com/broadinstitute/cromwell
+179,livy,1005,315,1005,24,17/11/2015,05/10/2022,2.25 MB,2302,Livy is an open source REST interface for interacting with Apache Spark from anywhere,Scala,https://github.com/cloudera/livy
+180,shark,993,327,993,20,14/04/2012,11/08/2015,12.31 MB,12610,Development in Shark has been ended.,Scala,https://github.com/amplab/shark
+181,scala.rx,987,79,987,29,26/09/2012,10/06/2023,2.68 MB,2742,An experimental library for Functional Reactive Programming in Scala,Scala,https://github.com/lihaoyi/scala.rx
+182,scalaj-http,973,119,973,28,23/08/2010,03/04/2022,645.00 KB,645,Simple scala wrapper for HttpURLConnection.  OAuth included.,Scala,https://github.com/scalaj/scalaj-http
+183,spray-json,972,190,972,101,06/05/2011,10/01/2024,924.00 KB,924,"A lightweight, clean and simple JSON implementation in Scala",Scala,https://github.com/spray/spray-json
+184,sparkling-water,968,360,968,38,13/10/2014,19/11/2024,47.91 MB,49063,Sparkling Water provides H2O functionality inside Spark cluster,Scala,https://github.com/h2oai/sparkling-water
+185,elasticsearch-readonlyrest-plugin,954,164,954,9,06/12/2013,26/03/2025,101.50 MB,103937,"Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing",Scala,https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
+186,caliban,953,251,953,22,12/09/2019,22/03/2025,15.63 MB,16010,Functional GraphQL library for Scala,Scala,https://github.com/ghostdogpr/caliban
+187,spark-redis,947,370,947,141,16/08/2015,22/10/2024,2.21 MB,2263,A connector for Spark that allows reading and writing to/from Redis cluster,Scala,https://github.com/RedisLabs/spark-redis
+188,tensorflow_scala,938,94,938,29,01/04/2017,22/06/2022,45.83 MB,46935,TensorFlow API for the Scala Programming Language,Scala,https://github.com/eaplatanios/tensorflow_scala
+189,simulacrum,935,61,935,30,17/01/2015,27/03/2024,382.00 KB,382,First class syntax support for type classes in Scala,Scala,https://github.com/typelevel/simulacrum
+190,squants,927,122,927,61,06/03/2014,29/01/2025,5.18 MB,5302,"The Scala API for Quantities, Units of Measure and Dimensional Analysis",Scala,https://github.com/typelevel/squants
+191,kind-projector,924,75,924,10,24/02/2012,28/03/2025,402.00 KB,402,Compiler plugin for making type lambdas (type projections) easier to write,Scala,https://github.com/typelevel/kind-projector
+192,scala-logging,915,130,915,35,16/07/2013,25/03/2025,370.00 KB,370,Convenient and performant logging library for Scala wrapping SLF4J.,Scala,https://github.com/lightbend-labs/scala-logging
+193,firesim,915,234,915,233,13/05/2018,26/03/2025,62.10 MB,63590,FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility,Scala,https://github.com/firesim/firesim
+194,BIDMach,914,168,914,67,22/10/2012,04/10/2022,39.68 MB,40635,CPU and GPU-accelerated Machine Learning Library,Scala,https://github.com/BIDData/BIDMach
+195,SparkCTR,912,260,912,7,16/03/2017,06/03/2020,35.88 MB,36743,"CTR prediction model based on spark(LR, GBDT, DNN)",Scala,https://github.com/wzhe06/SparkCTR
+196,bloop,911,205,911,103,11/11/2017,21/03/2025,76.82 MB,78668,"Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",Scala,https://github.com/scalacenter/bloop
+197,incubator-livy,907,607,907,110,25/06/2017,12/11/2024,3.62 MB,3708,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,Scala,https://github.com/apache/incubator-livy
+198,gemmini,907,189,907,96,31/10/2018,19/02/2025,4.33 MB,4430,Berkeley's Spatial Array Generator,Scala,https://github.com/ucb-bar/gemmini
+199,extraction-framework,891,278,891,186,07/02/2013,19/02/2025,189.03 MB,193568,The software used to extract structured data from Wikipedia,Scala,https://github.com/dbpedia/extraction-framework
+200,RxScala,886,111,886,2,19/08/2014,08/01/2020,1.97 MB,2020,RxScala – Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences,Scala,https://github.com/ReactiveX/RxScala
+201,tispark,886,249,886,108,02/05/2017,25/03/2025,30.07 MB,30790,TiSpark is built for running Apache Spark on top of TiDB/TiKV,Scala,https://github.com/pingcap/tispark
+202,frameless,884,137,884,54,28/03/2015,23/03/2025,3.21 MB,3289,Expressive types for Spark.,Scala,https://github.com/typelevel/frameless
+203,spark-rapids,878,244,878,1590,14/05/2020,28/03/2025,58.60 MB,60005,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,Scala,https://github.com/NVIDIA/spark-rapids
+204,Antox,871,193,871,150,19/11/2014,05/04/2024,25.22 MB,25825,Android client for Project Tox - Secure Peer to Peer Messaging,Scala,https://github.com/Antox/Antox
+205,nscala-time,870,78,870,6,06/12/2012,18/03/2025,1.44 MB,1477,A new Scala wrapper for Joda Time based on scala-time,Scala,https://github.com/nscala-time/nscala-time
+206,twitter-korean-text,859,173,859,21,29/10/2014,10/04/2023,28.26 MB,28942,Korean tokenizer,Scala,https://github.com/twitter/twitter-korean-text
+207,sbt-revolver,854,55,854,27,15/12/2011,18/10/2024,445.00 KB,445,An SBT plugin for dangerously fast development turnaround in Scala,Scala,https://github.com/spray/sbt-revolver
+208,ReactiveMongo,851,232,851,17,20/07/2012,11/03/2025,7.43 MB,7608,":leaves: Non-blocking, Reactive MongoDB Driver for Scala",Scala,https://github.com/ReactiveMongo/ReactiveMongo
+209,scalafix,847,187,847,75,08/08/2016,28/03/2025,12.98 MB,13287,Refactoring and linting tool for Scala,Scala,https://github.com/scalacenter/scalafix
+210,slick-pg,840,180,840,115,09/05/2013,18/03/2025,2.52 MB,2584,Slick extensions for PostgreSQL,Scala,https://github.com/tminglei/slick-pg
+211,quicklens,837,53,837,35,28/02/2015,18/03/2025,745.00 KB,745,Modify deeply nested case class fields,Scala,https://github.com/softwaremill/quicklens
+212,pickling,831,78,831,122,08/06/2013,06/06/2017,10.51 MB,10767,"Fast, customizable, boilerplate-free pickling support for Scala",Scala,https://github.com/scala/pickling
+213,eventsourced,827,93,827,22,09/07/2012,13/05/2014,7.67 MB,7850,"A library for building reliable, scalable and distributed event-sourced applications in Scala",JavaScript,https://github.com/eligosource/eventsourced
+214,zio-http,819,425,819,93,17/02/2021,27/03/2025,8.37 MB,8575,"A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",Scala,https://github.com/zio/zio-http
+215,delta-sharing,817,187,817,93,08/04/2021,28/03/2025,2.71 MB,2779,An open protocol for secure data sharing,Scala,https://github.com/delta-io/delta-sharing
+216,play-silhouette,815,141,815,11,30/12/2013,12/09/2021,18.24 MB,18673,"Silhouette is an authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, CAS, 2FA, TOTP, Credentials, Basic Authentication or custom authentication schemes.",Scala,https://github.com/mohiva/play-silhouette
+217,matryoshka,814,87,814,19,19/01/2016,01/04/2020,6.65 MB,6812,Generalized recursion schemes and traversals for Scala.,Scala,https://github.com/precog/matryoshka
+218,daml,813,205,813,799,28/03/2019,28/03/2025,294.69 MB,301758,The Daml smart contract language,Scala,https://github.com/digital-asset/daml
+219,scodec,812,106,812,4,22/04/2013,18/03/2025,7.52 MB,7700,Scala combinator library for working with binary data,Scala,https://github.com/scodec/scodec
+220,play-slick,801,282,801,22,11/01/2013,10/03/2025,1.94 MB,1982,Slick Plugin for Play,Scala,https://github.com/playframework/play-slick
+221,scrooge,796,247,796,44,22/08/2011,03/12/2024,21.19 MB,21700,A Thrift parser/generator,Scala,https://github.com/twitter/scrooge
+222,MiNLP,795,88,795,14,09/11/2020,10/02/2025,108.55 MB,111160,XiaoMi Natural Language Processing Toolkits ,Scala,https://github.com/XiaoMi/MiNLP
+223,akka-samples,792,438,792,15,03/05/2011,07/04/2024,1.77 MB,1814,Akka Sample Projects,Scala,https://github.com/akka/akka-samples
+224,rediscala,788,141,788,86,15/04/2013,07/05/2024,4.61 MB,4725,"Non-blocking, Reactive Redis driver for Scala (with Sentinel support)",Scala,https://github.com/etaty/rediscala
+225,sbt-jmh,787,89,787,29,19/05/2014,18/03/2025,499.00 KB,499,"""Trust no one, bench everything."" - sbt plugin for JMH (Java Microbenchmark Harness)",Scala,https://github.com/sbt/sbt-jmh
+226,chronon,786,64,786,61,30/09/2020,27/03/2025,12.19 MB,12482,Chronon is a data platform for serving for AI/ML applications.,Scala,https://github.com/airbnb/chronon
+227,Laminar,782,57,782,32,06/04/2017,26/03/2025,9.71 MB,9938,"Simple, expressive, and safe UI library for Scala.js",Scala,https://github.com/raquo/Laminar
+228,magnolia,781,125,781,66,06/06/2017,25/03/2025,2.03 MB,2083,"Easy, fast, transparent generic derivation of typeclass instances",Scala,https://github.com/softwaremill/magnolia
+229,progressed.io,774,169,774,8,17/07/2014,18/02/2019,29.00 KB,29,progressbar microservice,Scala,https://github.com/fehmicansaglam/progressed.io
+230,ostrich,771,92,771,0,04/08/2010,06/06/2019,3.62 MB,3708,A stats collector & reporter for Scala servers (deprecated),Scala,https://github.com/twitter-archive/ostrich
+231,scalacache,770,122,770,77,17/02/2013,12/08/2024,2.23 MB,2283,Simple caching in Scala,Scala,https://github.com/cb372/scalacache
+232,DeepLearning.scala,768,86,768,35,21/11/2016,30/07/2024,8.18 MB,8380,A simple library for creating complex neural networks,Scala,https://github.com/ThoughtWorksInc/DeepLearning.scala
+233,jsoniter-scala,767,101,767,85,26/09/2017,28/03/2025,6.57 GB,6888238,Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster,Scala,https://github.com/plokhotnyuk/jsoniter-scala
+234,sbt-updates,764,55,764,17,07/10/2012,26/12/2024,587.00 KB,587,sbt plugin that can check Maven and Ivy repositories for dependency updates,Scala,https://github.com/rtimush/sbt-updates
+235,cloudstate,763,97,763,95,27/03/2019,11/03/2022,7.65 MB,7834,Distributed State Management for Serverless,Scala,https://github.com/cloudstateio/cloudstate
+236,gearpump,763,152,763,97,23/07/2014,01/03/2022,26.82 MB,27459,Lightweight real-time big data streaming engine over Akka,Scala,https://github.com/gearpump/gearpump
+237,scalatags,761,118,761,40,01/11/2012,14/01/2025,9.82 MB,10056,ScalaTags is a small XML/HTML construction library for Scala. ,Scala,https://github.com/com-lihaoyi/scalatags
+238,bootzooka,760,151,760,6,19/10/2012,27/03/2025,10.17 MB,10414,"Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.",Scala,https://github.com/softwaremill/bootzooka
+239,spark-daria,759,152,759,21,16/02/2017,24/10/2024,3.10 MB,3170,Essential Spark extensions and helper methods ✨😲,Scala,https://github.com/mrpowers-io/spark-daria
+240,dbpedia-spotlight,759,196,759,48,22/04/2012,08/03/2018,327.07 MB,334919,DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text.,Scala,https://github.com/dbpedia-spotlight/dbpedia-spotlight
+241,akka-in-action,748,419,748,3,12/04/2013,19/08/2022,663.00 KB,663,Accompanying source code for akka in action ,Scala,https://github.com/RayRoestenburg/akka-in-action
+242,tensorframes,747,161,747,54,04/03/2016,30/07/2024,1.79 MB,1836,[DEPRECATED] Tensorflow wrapper for DataFrames on Apache Spark,Scala,https://github.com/databricks/tensorframes
+243,akka-http-microservice,746,233,746,6,12/01/2015,15/08/2024,247.00 KB,247,Example of http (micro)service in Scala & akka-http,Scala,https://github.com/theiterators/akka-http-microservice
+244,incubator-toree,743,224,743,14,07/01/2016,20/02/2025,11.17 MB,11435,Mirror of Apache Toree (Incubating),Scala,https://github.com/apache/incubator-toree
+245,berkeley-doc-summarizer,743,61,743,6,20/06/2016,25/02/2019,17.11 MB,17517,"The Berkeley Document Summarizer is a learning-based, single-document summarization system that extracts source document content, exploits syntactic information to compress it, and uses coreference constraints to ensure clarity.",Scala,https://github.com/gregdurrett/berkeley-doc-summarizer
+246,firrtl,739,180,739,287,13/02/2015,20/08/2024,57.39 MB,58767,Flexible Intermediate Representation for RTL,Scala,https://github.com/chipsalliance/firrtl
+247,upickle,739,166,739,27,23/04/2014,03/02/2025,13.10 MB,13411,"uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala",Scala,https://github.com/com-lihaoyi/upickle
+248,sparkMeasure,738,148,738,3,16/03/2017,25/03/2025,1.92 MB,1964,"This is the development repository for sparkMeasure, a tool and library designed for efficient analysis and troubleshooting of Apache Spark jobs. It focuses on easing the collection and examination of Spark metrics, making it a practical choice for both developers and data engineers.",Scala,https://github.com/LucaCanali/sparkMeasure
+249,skinny-framework,737,67,737,20,24/09/2013,14/12/2022,12.51 MB,12810,":monorail: ""Scala on Rails"" - A full-stack web app framework for rapid development in Scala",Scala,https://github.com/skinny-framework/skinny-framework
+250,requests-scala,736,87,736,30,19/07/2018,14/01/2025,242.00 KB,242,"A Scala port of the popular Python Requests HTTP client: flexible, intuitive, and straightforward to use.",Scala,https://github.com/com-lihaoyi/requests-scala
+251,AWScala,736,226,736,71,24/08/2013,13/06/2023,1.12 MB,1152,Using AWS SDK on the Scala REPL,Scala,https://github.com/seratch/AWScala
+252,specs2,735,215,735,3,03/09/2010,17/03/2025,164.97 MB,168927,Software Specifications for Scala,Scala,https://github.com/etorreborre/specs2
+253,blueeyes,733,45,733,11,12/10/2010,22/09/2014,11.66 MB,11942,"A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.",Scala,https://github.com/jdegoes/blueeyes
+254,sbt-docker,733,111,733,29,12/01/2014,12/12/2024,430.00 KB,430,Create Docker images directly from sbt,Scala,https://github.com/marcus-drake/sbt-docker
+255,orderbook-dynamics,731,295,731,2,29/08/2014,29/01/2016,297.00 KB,297,Modeling high-frequency limit order book dynamics with support vector machines,Scala,https://github.com/ezhulenev/orderbook-dynamics
+256,Vegas,728,98,728,54,14/04/2016,30/01/2022,888.00 KB,888,The missing MatPlotLib for Scala + Spark,Scala,https://github.com/vegas-viz/Vegas
+257,kafka-storm-starter,725,329,725,0,23/05/2014,22/03/2022,402.00 KB,402,"[PROJECT IS NO LONGER MAINTAINED] Code examples that show to integrate Apache Kafka 0.8+ with Apache Storm 0.9+ and Apache Spark Streaming 1.1+, while using Apache Avro as the data serialization format.",Scala,https://github.com/miguno/kafka-storm-starter
+258,scala-scraper,722,105,722,8,12/10/2014,22/03/2025,891.00 KB,891,A Scala library for scraping content from HTML pages,Scala,https://github.com/ruippeixotog/scala-scraper
+259,avro4s,721,240,721,37,16/09/2015,25/01/2025,2.76 MB,2826,Avro schema generation and serialization / deserialization for Scala,Scala,https://github.com/sksamuel/avro4s
+260,parboiled2,717,86,717,36,18/04/2013,17/03/2025,1.80 MB,1845,A macro-based PEG parser generator for Scala 2.10+,Scala,https://github.com/sirthias/parboiled2
+261,ventus-gpgpu,716,89,716,3,08/08/2022,26/03/2025,34.66 MB,35495,"GPGPU processor supporting RISCV-V extension, developed with Chisel HDL",Scala,https://github.com/THU-DSP-LAB/ventus-gpgpu
+262,sbt-eclipse,716,167,716,76,04/06/2011,03/03/2025,1.28 MB,1310,Plugin for sbt to create Eclipse project definitions,Scala,https://github.com/sbt/sbt-eclipse
+263,chisel-tutorial,714,198,714,40,16/07/2012,06/01/2022,3.80 MB,3888,chisel tutorial exercises and answers,Scala,https://github.com/ucb-bar/chisel-tutorial
+264,os-lib,709,77,709,31,30/10/2018,18/03/2025,718.00 KB,718,"OS-Lib is a simple, flexible, high-performance Scala interface to common OS filesystem and subprocess APIs",Scala,https://github.com/com-lihaoyi/os-lib
+265,riscv-sodor,709,157,709,14,17/07/2013,07/03/2025,7.90 MB,8092,educational microarchitectures for risc-v isa,Scala,https://github.com/ucb-bar/riscv-sodor
+266,unfiltered,708,114,708,71,19/05/2010,22/03/2025,3.24 MB,3317,A toolkit for servicing HTTP requests in Scala,Scala,https://github.com/unfiltered/unfiltered
+267,eventuate,708,100,708,37,12/01/2015,27/05/2021,10.10 MB,10338,"Global-scale event sourcing and event collaboration with causal consistency (This project is in maintenance mode. Only critical bugs will be fixed, but there is no more feature development.).",Scala,https://github.com/RBMHTechnology/eventuate
+268,better-monadic-for,707,34,707,12,29/03/2018,07/05/2024,106.00 KB,106,Desugaring scala `for` without implicit `withFilter`s,Scala,https://github.com/oleg-py/better-monadic-for
+269,scalachess,707,214,707,4,16/05/2012,17/03/2025,7.35 MB,7529,Chess API written in scala. Immutable and free of side effects.,Scala,https://github.com/lichess-org/scalachess
+270,HouseMD,701,218,701,34,06/09/2011,27/07/2015,2.11 MB,2164,HouseMD is an awesome diagnosing tool better than BTrace,Scala,https://github.com/CSUG/HouseMD
+271,scala-csv,698,142,698,30,08/03/2012,03/02/2025,6.06 MB,6209,CSV Reader/Writer for Scala,Scala,https://github.com/tototoshi/scala-csv
+272,rchain,697,216,697,131,09/03/2017,30/05/2024,41.17 MB,42155,Blockchain (smart contract) platform using CBC-Casper proof of stake + Rholang for concurrent execution.,Scala,https://github.com/rchain/rchain
+273,scallop,682,58,682,10,22/03/2012,07/12/2024,3.72 MB,3806,a simple Scala CLI parsing library,Scala,https://github.com/scallop/scallop
+274,nussknacker,681,95,681,99,29/06/2017,28/03/2025,177.27 MB,181520,Low-code tool for automating actions on real time data | Stream processing for the users.,Scala,https://github.com/TouK/nussknacker
+275,scalafx,678,66,678,32,18/05/2014,01/11/2024,13.03 MB,13346,ScalaFX simplifies creation of JavaFX-based user interfaces in Scala,Scala,https://github.com/scalafx/scalafx
+276,Fregata,677,185,677,6,20/09/2016,23/03/2018,200.00 KB,200,"A light weight, super fast, large scale machine learning library on spark .",Scala,https://github.com/TalkingData/Fregata
+277,jwt-scala,675,144,675,16,08/09/2014,17/03/2025,5.31 MB,5433,"JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and Argonaut",Scala,https://github.com/jwt-scala/jwt-scala
+278,scalastyle,674,216,674,84,20/10/2011,16/09/2022,1.67 MB,1708,scalastyle,Scala,https://github.com/scalastyle/scalastyle
+279,scalajs-spa-tutorial,671,228,671,21,06/02/2015,24/06/2019,1.70 MB,1736,Tutorial for creating a simple Single Page Application in ScalaJS,Scala,https://github.com/ochrons/scalajs-spa-tutorial
+280,universal-recommender,671,172,671,36,13/07/2013,18/06/2019,2.70 MB,2769,Highly configurable recommender based on PredictionIO and Mahout's Correlated Cross-Occurrence algorithm,Scala,https://github.com/actionml/universal-recommender
+281,indigo,668,66,668,139,30/05/2020,27/03/2025,134.59 MB,137823,An FP game engine for Scala.,Scala,https://github.com/PurpleKingdomGames/indigo
+282,scala-parser-combinators,662,131,662,24,15/08/2013,18/03/2025,1.14 MB,1171,"simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module",Scala,https://github.com/scala/scala-parser-combinators
+283,slinky,661,57,661,48,09/11/2016,07/03/2025,1.37 MB,1402,Write Scala.js React apps just like you would in ES6,Scala,https://github.com/shadaj/slinky
+284,blinkdb,660,123,660,9,07/10/2011,06/02/2014,309.50 MB,316928,BlinkDB: Sub-Second Approximate Queries on Very Large Data.,Scala,https://github.com/sameeragarwal/blinkdb
+285,bijection,658,123,658,52,30/12/2012,22/11/2024,2.43 MB,2484,Reversible conversions between types,Scala,https://github.com/twitter/bijection
+286,kafka-lag-exporter,658,200,658,77,26/11/2018,28/02/2024,2.55 MB,2611,Monitor Kafka Consumer Group Latency with Kafka Lag Exporter,Scala,https://github.com/seglo/kafka-lag-exporter
+287,reference-apps,655,342,655,33,19/08/2014,03/10/2024,5.95 MB,6097,Spark reference applications,Scala,https://github.com/databricks/reference-apps
+288,programming-scala-book-code-examples,652,408,652,2,20/06/2014,17/03/2025,24.47 MB,25055,"The code examples used in Programming Scala, 2nd and 3rd Editions (O'Reilly)",Scala,https://github.com/deanwampler/programming-scala-book-code-examples
+289,sbt-release,652,161,652,90,15/10/2011,17/03/2025,455.00 KB,455,A release plugin for sbt,Scala,https://github.com/sbt/sbt-release
+290,decline,652,72,652,37,23/10/2016,18/03/2025,2.89 MB,2963,A composable command-line parser for Scala.,Scala,https://github.com/bkirwi/decline
+291,sbt-scoverage,651,158,651,39,16/05/2014,20/03/2025,608.00 KB,608,sbt plugin for scoverage,Scala,https://github.com/scoverage/sbt-scoverage
+292,codebrag,649,97,649,68,12/03/2013,09/07/2018,14.84 MB,15201,Your daily code review tool,Scala,https://github.com/softwaremill/codebrag
+293,pdffigures2,648,128,648,32,09/05/2016,10/03/2024,6.45 MB,6603,"Given a scholarly PDF, extract figures, tables, captions, and section titles.",Scala,https://github.com/allenai/pdffigures2
+294,testcontainers-scala,644,128,644,79,16/01/2017,26/03/2025,1.68 MB,1725,Docker containers for testing in scala,Scala,https://github.com/testcontainers/testcontainers-scala
+295,diode,642,88,642,14,18/11/2015,07/12/2024,5.00 MB,5117,Scala library for managing immutable application model,Scala,https://github.com/suzaku-io/diode
+296,airframe,638,69,638,112,14/08/2016,26/03/2025,156.96 MB,160727,Essential Building Blocks for Scala,Scala,https://github.com/wvlet/airframe
+297,sri,634,35,634,8,29/07/2015,05/04/2017,39.98 MB,40944,"Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat room :  https://gitter.im/scalajs-react-interface/sri",Scala,https://github.com/chandu0101/sri
+298,trading,632,72,632,13,17/09/2021,23/03/2025,24.11 MB,24687,💱 Trading application written in Scala 3 that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP),Scala,https://github.com/gvolpe/trading
+299,kyo,626,60,626,57,08/03/2022,28/03/2025,11.04 MB,11303,Toolkit for Scala Development,Scala,https://github.com/getkyo/kyo
+300,chisel-template,625,189,625,14,23/02/2016,30/01/2025,169.00 KB,169,A template project for beginning new Chisel work,Scala,https://github.com/chipsalliance/chisel-template
+301,vamp,624,55,624,106,29/03/2015,21/04/2020,6.53 MB,6690,Vamp - canary releasing and autoscaling for microservice systems,Scala,https://github.com/magneticio/vamp
+302,open-korean-text,624,98,624,11,24/01/2017,12/03/2024,33.49 MB,34294,Open Korean Text Processor - An Open-source Korean Text Processor,Scala,https://github.com/open-korean-text/open-korean-text
+303,PkpmSpark,620,1,620,1,23/10/2019,17/06/2022,57.00 KB,57,awesome 三维数据挖掘 数据分析 & 推荐,Scala,https://github.com/MethodJiao/PkpmSpark
+304,izumi,618,67,618,64,03/11/2017,26/03/2025,18.04 MB,18476,Productivity-oriented collection of lightweight fancy stuff for Scala toolchain,Scala,https://github.com/7mind/izumi
+305,spline,616,157,616,44,30/05/2017,20/03/2025,8.62 MB,8822,Data Lineage Tracking And Visualization Solution,Scala,https://github.com/AbsaOSS/spline
+306,chill,615,155,615,75,15/10/2012,19/08/2024,1.22 MB,1254,Scala extensions for the Kryo serialization library,Scala,https://github.com/twitter/chill
+307,freestyle,614,50,614,34,19/10/2016,13/08/2019,8.74 MB,8946,A cohesive & pragmatic framework of FP centric Scala libraries,Scala,https://github.com/frees-io/freestyle
+308,learn-fp,611,124,611,0,05/12/2017,07/02/2020,1.22 MB,1249,learn-by-doing course/tutorial for functional programming on scala,Scala,https://github.com/dehun/learn-fp
+309,play2-auth,608,137,608,23,23/04/2012,10/09/2019,564.00 KB,564,Play2.x Authentication and Authorization module,Scala,https://github.com/t2v/play2-auth
+310,scalate,607,105,607,38,27/01/2010,20/03/2025,51.20 MB,52430,"Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.",Scala,https://github.com/scalate/scalate
+311,spark-redshift,606,349,606,150,13/11/2014,10/08/2023,796.00 KB,796,Redshift data source for Apache Spark,Scala,https://github.com/databricks/spark-redshift
+312,SparkNet,603,172,603,30,16/11/2015,23/07/2020,7.49 MB,7668,Distributed Neural Networks for Spark,Scala,https://github.com/amplab/SparkNet
+313,simple-docker-ui,603,95,603,20,11/04/2015,06/09/2024,1.90 MB,1944,Native Docker UI implemented using Scala.js and React - DEPRECATED,Scala,https://github.com/felixgborrego/simple-docker-ui
+314,SparkLearning,602,315,602,3,30/03/2016,04/11/2021,405.10 MB,414822,"Learning Apache spark,including code and data .Most part can run local.",Scala,https://github.com/xubo245/SparkLearning
+315,scalatron,598,173,598,31,25/04/2012,19/08/2022,5.63 MB,5768,"Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other",Scala,https://github.com/scalatron/scalatron
+316,spark-sql-perf,593,407,593,54,15/04/2015,26/02/2022,577.00 KB,577,,Scala,https://github.com/databricks/spark-sql-perf
+317,akka-http-json,592,134,592,41,27/02/2015,30/07/2024,704.00 KB,704,Integrate some of the best JSON libs in Scala with Akka HTTP,Scala,https://github.com/hseeberger/akka-http-json
+318,reftree,589,36,589,5,23/02/2016,18/08/2024,244.95 MB,250827,Automatically generated diagrams and animations for Scala data structures,Scala,https://github.com/stanch/reftree
+319,scala-cli,589,139,589,308,10/05/2021,26/03/2025,94.16 MB,96419,"Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)",Scala,https://github.com/VirtusLab/scala-cli
+320,eff,587,79,587,3,04/01/2016,24/03/2025,3.72 MB,3814,Eff monad for cats - https://atnos-org.github.io/eff,Scala,https://github.com/atnos-org/eff
+321,metorikku,585,156,585,65,10/10/2017,24/01/2024,4.30 MB,4405,"A simplified, lightweight ETL Framework based on Apache Spark",Scala,https://github.com/YotpoLtd/metorikku
+322,squeryl,584,138,584,39,30/01/2010,17/03/2025,12.30 MB,12596,A Scala DSL for talking with databases with minimum verbosity and maximum type safety,Scala,https://github.com/squeryl/squeryl
+323,korolev,579,50,579,16,10/08/2016,13/08/2023,2.93 MB,3004,Single Page Applications running on the server side.,Scala,https://github.com/fomkin/korolev
+324,tut,579,63,579,64,25/10/2013,12/04/2021,2.08 MB,2135,doc/tutorial generator for scala,Scala,https://github.com/tpolecat/tut
+325,sparklens,572,140,572,51,16/03/2018,26/06/2024,179.00 KB,179,Qubole Sparklens tool for performance tuning Apache Spark,Scala,https://github.com/qubole/sparklens
+326,scala-graph,572,72,572,10,29/01/2013,26/03/2025,3.01 MB,3081,"Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.",Scala,https://github.com/scala-graph/scala-graph
+327,collins,571,99,571,68,31/07/2012,01/03/2021,218.82 MB,224075,groovy kind of love,Scala,https://github.com/tumblr/collins
+328,apibuilder,571,84,571,85,06/04/2014,14/02/2025,12.83 MB,13135,"Simple, Comprehensive Tooling for Modern APIs",Scala,https://github.com/apicollective/apibuilder
+329,kaitai_struct_compiler,570,161,570,63,21/02/2016,05/03/2025,4.90 MB,5018,Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb,Scala,https://github.com/kaitai-io/kaitai_struct_compiler
+330,edda,568,133,568,10,18/08/2012,19/01/2024,3.10 MB,3172,AWS API Read Cache,Scala,https://github.com/Netflix/edda
+331,riscv-mini,565,116,565,8,28/09/2016,09/08/2024,1.33 MB,1359,Simple RISC-V 3-stage Pipeline in Chisel,Scala,https://github.com/ucb-bar/riscv-mini
+332,scalapy,562,44,562,41,31/12/2016,27/09/2024,1.19 MB,1219,Use the world of Python from the comfort of Scala!,Scala,https://github.com/scalapy/scalapy
+333,spark-scala-examples,562,554,562,9,26/11/2019,20/03/2024,3.36 MB,3445,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",Scala,https://github.com/spark-examples/spark-scala-examples
+334,cats-collections,560,99,560,16,19/09/2015,18/03/2025,2.72 MB,2782,Data structures for pure functional programming in Scala,Scala,https://github.com/typelevel/cats-collections
+335,akka-quartz-scheduler,558,114,558,10,13/04/2013,27/11/2023,224.00 KB,224,Quartz Extension and utilities for cron-style scheduling in Akka,Scala,https://github.com/enragedginger/akka-quartz-scheduler
+336,twirl,556,112,556,36,22/09/2013,28/03/2025,2.17 MB,2226,Twirl is Play's default template engine,Scala,https://github.com/playframework/twirl
+337,sbt-buildinfo,556,91,556,12,03/03/2012,13/03/2025,424.00 KB,424,I know this because build.sbt knows this.,Scala,https://github.com/sbt/sbt-buildinfo
+338,cask,553,64,553,10,20/07/2018,02/02/2025,922.00 KB,922,"Cask: a Scala HTTP micro-framework. Cask makes it easy to set up a website, backend server, or REST API using Scala",Scala,https://github.com/com-lihaoyi/cask
+339,shc,553,279,553,164,01/10/2015,10/05/2021,583.00 KB,583,The Apache Spark - Apache HBase Connector is a library to support Spark accessing HBase table as external data source or sink. ,Scala,https://github.com/hortonworks-spark/shc
+340,factorie,551,144,551,26,25/06/2013,19/12/2017,44.96 MB,46039,"FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.",Scala,https://github.com/factorie/factorie
+341,scala-arm,548,51,548,15,27/09/2009,26/10/2020,570.00 KB,570,This project aims to be the Scala Incubator project for Automatic-Resource-Management in the scala library,Scala,https://github.com/jsuereth/scala-arm
+342,Scorex,545,116,545,48,28/06/2016,13/04/2022,11.63 MB,11910,Scorex 2.0 Core,Scala,https://github.com/hyperledger-labs/Scorex
+343,argonaut,545,108,545,29,09/12/2012,21/03/2025,13.44 MB,13762,Purely functional JSON parser and library in scala.,Scala,https://github.com/argonaut-io/argonaut
+344,scala-newtype,544,31,544,25,05/05/2017,10/02/2022,159.00 KB,159,NewTypes for Scala with no runtime overhead,Scala,https://github.com/estatico/scala-newtype
+345,tofu,543,95,543,29,04/04/2019,26/03/2025,25.38 MB,25989,Functional programming toolbox ,Scala,https://github.com/tofu-tf/tofu
+346,kittens,540,67,540,7,09/07/2015,17/03/2025,1.33 MB,1361,Automatic type class derivation for Cats,Scala,https://github.com/typelevel/kittens
+347,rudder,540,80,540,26,06/10/2011,28/03/2025,85.51 MB,87566,"Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.",Scala,https://github.com/Normation/rudder
+348,scapegoat,538,95,538,53,21/11/2013,22/03/2025,2.33 MB,2389,Scala compiler plugin for static code analysis,Scala,https://github.com/scapegoat-scala/scapegoat
+349,spark-avro,538,308,538,77,30/09/2014,19/12/2018,405.00 KB,405,Avro Data Source for Apache Spark,Scala,https://github.com/databricks/spark-avro
+350,pfps-shopping-cart,538,168,538,36,03/10/2019,23/03/2025,1.67 MB,1710,":shopping_cart: The Shopping Cart application developed in the book ""Practical FP in Scala: A hands-on approach""",Scala,https://github.com/gvolpe/pfps-shopping-cart
+351,aprsdroid,538,108,538,199,05/01/2010,07/02/2025,6.60 MB,6762,APRSdroid - Geo-Location for Radio Amateurs,Scala,https://github.com/ge0rg/aprsdroid
+352,scala-oauth2-provider,537,97,537,4,17/09/2013,04/12/2023,347.00 KB,347,OAuth 2.0 server-side implementation written in Scala,Scala,https://github.com/nulab/scala-oauth2-provider
+353,scala-offheap,532,35,532,15,08/10/2014,08/04/2019,7.71 MB,7897,Experimental type-safe off-heap memory for Scala.,Scala,https://github.com/densh/scala-offheap
+354,magellan,532,149,532,75,01/06/2015,26/08/2021,13.32 MB,13643,Geo Spatial Data Analytics on Spark,Scala,https://github.com/harsha2010/magellan
+355,guardrail,532,134,532,193,01/09/2017,01/10/2024,12.99 MB,13297,Principled code generation from OpenAPI specifications,Scala,https://github.com/guardrail-dev/guardrail
+356,accord,529,55,529,24,13/11/2013,23/11/2022,1.55 MB,1584,Accord: A sane validation library for Scala,Scala,https://github.com/wix-incubator/accord
+357,scribe,527,43,527,26,26/01/2016,24/03/2025,2.72 MB,2787,The fastest logging library in the world. Built from scratch in Scala and programmatically configurable.,Scala,https://github.com/outr/scribe
+358,ScalaMock,527,102,527,8,24/10/2011,25/03/2025,7.94 MB,8135,Native Scala mocking framework,Scala,https://github.com/ScalaMock/ScalaMock
+359,sourcecode,527,77,527,36,26/01/2016,27/11/2024,478.00 KB,478,"Scala library providing ""source"" metadata to your program, similar to Python's __name__, C++'s __LINE__ or Ruby's __FILE__. ",Scala,https://github.com/com-lihaoyi/sourcecode
+360,scalariform,527,147,527,67,10/04/2010,11/05/2024,11.12 MB,11389,Scala source code formatter,Scala,https://github.com/scala-ide/scalariform
+361,macroid,527,37,527,26,24/07/2013,30/09/2017,13.07 MB,13387,A modular functional UI language for Android,Scala,https://github.com/xebia-functional/macroid
+362,greyhound,525,40,525,38,12/01/2020,05/10/2023,3.41 MB,3487,Greyhound - Rich Kafka client library,Scala,https://github.com/wix/greyhound
+363,piflow,525,171,525,31,03/05/2018,06/12/2024,135.25 MB,138500,πflow is a big data flow engine with spark support,Scala,https://github.com/cas-bigdatalab/piflow
+364,sparta,525,196,525,8,04/02/2015,24/10/2019,125.86 MB,128883,Real Time Analytics and Data Pipelines based on Spark Streaming,Scala,https://github.com/Stratio/sparta
+365,orbeon-forms,523,218,523,1875,20/07/2009,28/03/2025,694.08 MB,710738,"Orbeon Forms is an open source web forms solution. It includes an XForms engine, the Form Builder web-based form editor, and the Form Runner runtime.",Scala,https://github.com/orbeon/orbeon-forms
+366,eqwalizer,523,30,523,8,22/06/2022,28/03/2025,1.90 MB,1949,A type-checker for Erlang,Scala,https://github.com/WhatsApp/eqwalizer
+367,eventsim,520,135,520,5,05/09/2014,16/03/2022,83.62 MB,85628,"Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.",Scala,https://github.com/Interana/eventsim
+368,tranquility,516,230,516,103,13/02/2014,13/01/2020,1.03 MB,1053,"Tranquility helps you send real-time event streams to Druid and handles partitioning, replication, service discovery, and schema rollover, seamlessly and without downtime.",Scala,https://github.com/druid-io/tranquility
+369,curiodb,513,47,513,5,26/04/2015,04/11/2018,1.19 MB,1216,Distributed NoSQL Database,Scala,https://github.com/stephenmcd/curiodb
+370,casbah,513,130,513,7,29/10/2010,20/01/2022,33.67 MB,34479,Casbah is now officially end-of-life (EOL).,Scala,https://github.com/mongodb/casbah
+371,scalameter,511,72,511,50,18/11/2012,22/08/2022,16.53 MB,16931,Microbenchmarking and performance regression testing framework for the JVM platform.,Scala,https://github.com/scalameter/scalameter
+372,spark-xml,509,227,509,0,26/11/2015,11/08/2024,912.00 KB,912,XML data source for Spark SQL and DataFrames,Scala,https://github.com/databricks/spark-xml
+373,Antox,506,180,506,20,30/01/2014,18/04/2017,17.58 MB,18001,Scala android client for Project Tox - secure p2p messaging,Scala,https://github.com/markwinter/Antox
+374,high-performance-spark-examples,506,234,506,11,06/10/2015,03/11/2024,1.59 MB,1630,Examples for High Performance Spark,Scala,https://github.com/high-performance-spark/high-performance-spark-examples
+375,PortEx,504,95,504,0,27/09/2013,30/01/2025,225.99 MB,231412,Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness,Scala,https://github.com/struppigel/PortEx
+376,HashtagCashtag,504,128,504,2,25/01/2015,24/08/2022,20.47 MB,20960,"My Insight Data Engineering Fellowship project. I implemented a big data processing pipeline based on ​lambda architecture​, that aggregates Twitter and US stock market data for user sentiment analysis using open source tools - ​Apache Kafka ​for data ingestions, Apache Spark ​& ​Spark Streaming ​for batch & real-time processing, ​Apache Cassandra f​ or storage, ​Flask​, ​Bootstrap and ​HighCharts f​ or frontend.",Scala,https://github.com/shafiab/HashtagCashtag
+377,jackson-module-scala,502,143,502,53,29/11/2010,28/03/2025,19.93 MB,20407,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,Scala,https://github.com/FasterXML/jackson-module-scala
+378,iron,501,51,501,5,13/01/2021,26/03/2025,1.49 MB,1530,Strong type constraints for Scala,Scala,https://github.com/Iltotore/iron
+379,ergo,501,174,501,196,13/06/2017,28/03/2025,65.10 MB,66661,Ergo protocol description & reference client implementation,Scala,https://github.com/ergoplatform/ergo
+380,scala-ide,498,308,498,2,04/10/2011,25/01/2023,142.56 MB,145981,Scala IDE for Eclipse,Scala,https://github.com/scala-ide/scala-ide
+381,codepropertygraph,497,77,497,35,28/06/2018,03/03/2025,9.26 MB,9480,"Code Property Graph: specification, query language, and utilities",Scala,https://github.com/ShiftLeftSecurity/codepropertygraph
+382,fetch,496,50,496,16,04/03/2016,28/03/2025,4.39 MB,4498,Simple & Efficient data access for Scala and Scala.js,Scala,https://github.com/xebia-functional/fetch
+383,sbt-pack,495,76,495,34,19/11/2012,17/03/2025,1.97 MB,2018,A sbt plugin for creating distributable Scala packages.,Scala,https://github.com/xerial/sbt-pack
+384,java-webauthn-server,495,146,495,18,08/05/2018,05/03/2025,9.71 MB,9939,Server-side Web Authentication library for Java https://www.w3.org/TR/webauthn/#rp-operations,Scala,https://github.com/Yubico/java-webauthn-server
+385,streamDM,493,141,493,4,08/06/2015,16/04/2023,3.22 MB,3295,Stream Data Mining Library for Spark Streaming,Scala,https://github.com/huawei-noah/streamDM
+386,utest,492,87,492,38,27/01/2014,21/01/2025,1.86 MB,1909,A simple testing framework for Scala,Scala,https://github.com/com-lihaoyi/utest
+387,cbt,489,59,489,224,29/09/2015,28/05/2018,1.34 MB,1371,"CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala",Scala,https://github.com/cvogt/cbt
+388,scalaz-and-cats,487,26,487,1,07/06/2017,18/12/2021,573.00 KB,573,Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).,Scala,https://github.com/fosskers/scalaz-and-cats
+389,rogue,487,77,487,6,16/01/2011,08/06/2016,3.65 MB,3736,MOVED - The project is still under development but this page is deprecated.,Scala,https://github.com/foursquare/rogue
+390,salat,485,106,485,35,12/01/2011,03/03/2019,2.93 MB,3000,Salat is a simple serialization library for case classes.,Scala,https://github.com/salat/salat
+391,spark-excel,485,150,485,101,03/09/2016,18/03/2025,1.36 MB,1388,A Spark plugin for reading and writing Excel files,Scala,https://github.com/nightscape/spark-excel
+392,stringmetric,484,80,484,22,07/10/2012,28/07/2017,2.12 MB,2172,":dart: String metrics and phonetic algorithms for Scala (e.g. Dice/Sorensen, Hamming, Jaccard, Jaro, Jaro-Winkler, Levenshtein, Metaphone, N-Gram, NYSIIS, Overlap, Ratcliff/Obershelp, Refined NYSIIS, Refined Soundex, Soundex, Weighted Levenshtein).",Scala,https://github.com/rockymadden/stringmetric
+393,scoobi,482,96,482,21,25/10/2011,01/07/2022,50.64 MB,51854,A Scala productivity framework for Hadoop.,Scala,https://github.com/NICTA/scoobi
+394,gremlin-scala,481,75,481,32,09/01/2013,20/10/2022,2.60 MB,2666,[unmaintained] Scala wrapper for Apache TinkerPop 3 Graph DSL,Scala,https://github.com/mpollmeier/gremlin-scala
+395,build-server-protocol,480,66,480,39,10/01/2018,15/12/2024,8.90 MB,9113,"Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.",Scala,https://github.com/build-server-protocol/build-server-protocol
+396,topshell,479,9,479,2,14/07/2018,23/08/2021,1.67 MB,1713,"TopShell - a purely functional, reactive scripting language",Scala,https://github.com/topshell-language/topshell
+397,conscript,477,65,477,26,22/02/2011,25/03/2025,1.05 MB,1079,Scala at your command,Scala,https://github.com/foundweekends/conscript
+398,android-plugin,476,113,476,52,09/11/2009,31/10/2014,4.65 MB,4765,An sbt plugin for Android development in Scala,Scala,https://github.com/jberkel/android-plugin
+399,akka.js,475,39,475,9,17/04/2015,20/02/2022,4.75 MB,4868,"Akka, for Scala.js",Scala,https://github.com/akka-js/akka.js
+400,keystone,470,117,470,39,10/04/2015,18/04/2017,19.26 MB,19723,Simplifying robust end-to-end machine learning on Apache Spark.,Scala,https://github.com/amplab/keystone
+401,epic,470,82,470,30,20/04/2011,19/02/2020,22.54 MB,23078,"**Archived** Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models.",Scala,https://github.com/dlwh/epic
+402,mima,469,72,469,32,24/05/2012,17/03/2025,2.39 MB,2444,A tool for catching binary incompatibility in Scala,Scala,https://github.com/lightbend-labs/mima
+403,outwatch,468,42,468,54,04/11/2016,04/12/2024,2.13 MB,2184,The Functional and Reactive Web-Frontend Library for Scala.js,Scala,https://github.com/outwatch/outwatch
+404,concurrency-in-scala-with-ce,467,44,467,4,05/06/2020,27/07/2021,309.00 KB,309,"Introduction to concepts of asynchronous and concurrent programming in Scala, based on the Cats Effect library.",Scala,https://github.com/slouc/concurrency-in-scala-with-ce
+405,featran,466,68,466,11,08/05/2017,07/02/2025,2.98 MB,3055,A Scala feature transformation library for data science and machine learning,Scala,https://github.com/spotify/featran
+406,repox,466,89,466,20,19/11/2014,03/08/2018,569.00 KB,569,Make sbt more responsive,Scala,https://github.com/Centaur/repox
+407,storehaus,466,85,466,78,22/01/2013,17/07/2020,2.30 MB,2355,Storehaus is a library that makes it easy to work with asynchronous key value stores,Scala,https://github.com/twitter/storehaus
+408,frdomain,465,136,465,13,26/10/2014,08/12/2019,209.00 KB,209,Code repo for Functional and Reactive Domain Modeling,Scala,https://github.com/debasishg/frdomain
+409,spring-scala,460,124,460,8,31/08/2011,13/04/2022,603.00 KB,603,,Scala,https://github.com/spring-attic/spring-scala
+410,openie,459,108,459,5,05/07/2013,27/12/2018,90.00 KB,90,Quality information extraction at web scale.,Scala,https://github.com/knowitall/openie
+411,zio-prelude,458,115,458,76,02/03/2020,24/03/2025,16.22 MB,16605,"A lightweight, distinctly Scala take on functional abstractions, with tight ZIO integration",Scala,https://github.com/zio/zio-prelude
+412,apalache,454,42,454,293,03/07/2015,22/01/2025,63.64 MB,65165,APALACHE: symbolic model checker for TLA+ and Quint,Scala,https://github.com/apalache-mc/apalache
+413,udash-core,448,36,448,38,25/02/2016,28/03/2025,11.92 MB,12209,Scala framework for building beautiful and maintainable web applications.,Scala,https://github.com/UdashFramework/udash-core
+414,papa-carlo,447,23,447,6,05/10/2013,15/12/2020,362.00 KB,362,Constructor of incremental parsers in Scala,Scala,https://github.com/Eliah-Lakhin/papa-carlo
+415,spark-solr,446,251,446,62,15/01/2015,18/12/2023,9.99 MB,10225,Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.,Scala,https://github.com/lucidworks/spark-solr
+416,weaver-test,445,49,445,50,24/04/2020,03/09/2024,3.48 MB,3568,A test framework that runs everything in parallel. ,Scala,https://github.com/disneystreaming/weaver-test
+417,LearningSpark,445,290,445,1,28/09/2014,17/09/2020,494.00 KB,494,Scala examples for learning to use Spark,Scala,https://github.com/spirom/LearningSpark
+418,xitrum,444,52,444,56,19/07/2010,28/02/2023,12.73 MB,13031,Async and clustered Scala web framework and HTTP(S) server,Scala,https://github.com/xitrum-framework/xitrum
+419,munit,443,95,443,38,03/01/2020,21/03/2025,2.62 MB,2682,Scala testing library with actionable errors and extensible APIs,Scala,https://github.com/scalameta/munit
+420,play2-war-plugin,443,71,443,33,26/03/2012,07/09/2019,80.86 MB,82803,WAR Plugin for Play framework 2.x,Scala,https://github.com/play2war/play2-war-plugin
+421,spark-fast-tests,441,78,441,29,06/04/2017,15/03/2025,2.24 MB,2291,"Apache Spark testing helpers (dependency free & works with Scalatest, uTest, and MUnit)",Scala,https://github.com/mrpowers-io/spark-fast-tests
+422,akka-http-session,440,58,440,11,30/06/2015,29/08/2023,809.00 KB,809,"Web & mobile client-side akka-http sessions, with optional JWT support",Scala,https://github.com/softwaremill/akka-http-session
+423,resy-booking-bot,438,225,438,35,13/02/2018,28/04/2024,65.00 KB,65,🔫 Helps to snipe hard to get reservations at restaurants that use resy,Scala,https://github.com/Alkaar/resy-booking-bot
+424,scala-java8-compat,436,102,436,11,11/03/2014,18/03/2025,824.00 KB,824,A Java 8 (and up) compatibility kit for Scala.,Scala,https://github.com/scala/scala-java8-compat
+425,rainier,435,44,435,31,12/03/2018,12/05/2023,5.59 MB,5722,Bayesian inference in Scala.,Scala,https://github.com/stripe/rainier
+426,scastie,435,106,435,118,22/11/2016,29/01/2025,20.74 MB,21235,An interactive playground for Scala,Scala,https://github.com/scalacenter/scastie
+427,jawn,434,74,434,15,01/10/2012,17/03/2025,4.84 MB,4961,Jawn is for parsing jay-sawn (JSON),Scala,https://github.com/typelevel/jawn
+428,scalgos,434,89,434,13,25/03/2013,04/04/2024,2.71 MB,2773,algorithms in scala,Scala,https://github.com/pathikrit/scalgos
+429,twofishes,434,62,434,15,17/02/2012,15/01/2019,50.65 MB,51864,MOVED - The project is still under development but this page is deprecated.,Scala,https://github.com/foursquare/twofishes
+430,woof,434,17,434,22,11/10/2021,14/10/2024,347.00 KB,347,A pure Scala 3 logging library with no reflection,Scala,https://github.com/LEGO/woof
+431,docker-it-scala,432,91,432,26,26/01/2015,14/02/2024,443.00 KB,443,Docker integration testing kit with Scala,Scala,https://github.com/whisklabs/docker-it-scala
+432,Laika,431,50,431,16,22/12/2012,24/03/2025,103.29 MB,105773,"Site and E-book Generator and Customizable Text Markup Transformer for sbt, Scala and Scala.js",Scala,https://github.com/typelevel/Laika
+433,akka-grpc,431,125,431,166,08/02/2018,25/03/2025,4.82 MB,4939,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",Scala,https://github.com/akka/akka-grpc
+434,scalac-scoverage-plugin,430,126,430,53,26/11/2013,14/03/2025,6.18 MB,6324,Scoverage Scala Code Coverage Core Libs,Scala,https://github.com/scoverage/scalac-scoverage-plugin
+435,play-scalajs.g8,429,114,429,8,13/02/2014,30/07/2024,1.63 MB,1673, Giter8 template to get started with Play and Scala.js.,Scala,https://github.com/vmunier/play-scalajs.g8
+436,mypipe,427,81,427,18,15/03/2014,22/02/2023,6.07 MB,6211,MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.,Scala,https://github.com/mardambey/mypipe
+437,metrics-scala,427,60,427,1,10/09/2012,17/03/2025,5.53 MB,5660,The scala API for Dropwizard's Metrics.,Scala,https://github.com/erikvanoosten/metrics-scala
+438,reboot,427,106,427,5,11/12/2011,25/08/2024,1.85 MB,1897,Scala wrapper for the Java AsyncHttpClient.,Scala,https://github.com/dispatch/reboot
+439,hyperspace,425,115,425,135,07/05/2020,14/01/2022,4.98 MB,5104,An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads.,Scala,https://github.com/microsoft/hyperspace
+440,scala,425,107,425,0,20/07/2013,31/12/2021,2.51 MB,2572,Scala reference (as seen by Java developer),Scala,https://github.com/mbonaci/scala
+441,telegram,423,101,423,13,01/08/2015,26/03/2025,2.22 MB,2275,Telegram Bot API Wrapper for Scala,Scala,https://github.com/bot4s/telegram
+442,ox,422,29,422,17,18/01/2023,19/03/2025,1.29 MB,1320,Safe direct-style concurrency and resiliency for Scala on the JVM,Scala,https://github.com/softwaremill/ox
+443,spark-corenlp,422,120,422,19,21/08/2015,15/11/2018,61.00 KB,61,Stanford CoreNLP wrapper for Apache Spark,Scala,https://github.com/databricks/spark-corenlp
+444,ducktape,420,7,420,2,05/10/2021,19/03/2025,1.45 MB,1489,"Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔",Scala,https://github.com/arainko/ducktape
+445,lc-core,417,20,417,24,02/01/2018,09/03/2025,12.79 MB,13093,"The LibreCaptcha framework, for self-hosted, privacy respecting CAPTCHAs",Scala,https://github.com/librecaptcha/lc-core
+446,zio-json,417,147,417,74,03/07/2020,26/03/2025,8.46 MB,8668,"Fast, secure JSON library with tight ZIO integration.",Scala,https://github.com/zio/zio-json
+447,Play-ReactiveMongo,414,127,414,0,30/08/2012,18/03/2025,1.63 MB,1671,:leaves: ReactiveMongo plugin for Playframework,Scala,https://github.com/ReactiveMongo/Play-ReactiveMongo
+448,shardcake,413,30,413,5,22/07/2022,28/03/2025,15.52 MB,15888,Sharding and location transparency for Scala,Scala,https://github.com/devsisters/shardcake
+449,kafka,412,140,412,49,06/02/2015,03/05/2018,1.44 MB,1474,Apache Kafka on Apache Mesos,Scala,https://github.com/mesos/kafka
+450,fury-old,411,34,411,138,29/09/2018,03/09/2024,5.32 MB,5452,A new build tool for JVM languages,Scala,https://github.com/propensive/fury-old
+451,scala-with-cats,410,134,410,64,17/02/2015,24/03/2025,307.00 MB,314371,Source code for Scala with Cats,Scala,https://github.com/scalawithcats/scala-with-cats
+452,endpoints4s,409,97,409,54,25/04/2016,25/03/2025,10.78 MB,11040,"Describe HTTP endpoints in Scala and derive clients, servers, and documentation",Scala,https://github.com/endpoints4s/endpoints4s
+453,log4cats,406,80,406,23,24/04/2018,25/03/2025,2.53 MB,2589,Logging Tools For Interaction with cats-effect,Scala,https://github.com/typelevel/log4cats
+454,nixiesearch,405,8,405,53,14/07/2023,27/03/2025,12.88 MB,13187,"Hybrid search engine, combining best features of text and semantic search worlds",Scala,https://github.com/nixiesearch/nixiesearch
+455,ciris,405,48,405,1,27/04/2017,25/03/2025,8.38 MB,8581,Functional Configurations for Scala,Scala,https://github.com/vlovgr/ciris
+456,spray-template,405,201,405,3,25/03/2011,24/03/2015,742.00 KB,742,SBT template project for quickly getting started with spray-server,Scala,https://github.com/spray/spray-template
+457,play-swagger,405,132,405,22,17/09/2015,10/11/2023,881.00 KB,881,Swagger spec generator for play framework,Scala,https://github.com/iheartradio/play-swagger
+458,larray,402,43,402,26,18/03/2013,30/11/2022,1.69 MB,1727,Large off-heap arrays and mmap files for Scala and Java,Scala,https://github.com/xerial/larray
+459,shard,402,58,402,4,07/07/2016,05/10/2016,221.00 KB,221,A command line tool to detect shared passwords,Scala,https://github.com/philwantsfish/shard
+460,spark-training,402,357,402,3,25/08/2014,24/11/2015,666.22 MB,682214,Apache Spark training material,Scala,https://github.com/databricks/spark-training
+461,examples-scala,402,204,402,6,24/11/2016,20/11/2023,95.00 KB,95,Stream Processing with Apache Flink - Scala Examples,Scala,https://github.com/streaming-with-flink/examples-scala
+462,platform,402,64,402,18,06/12/2011,15/11/2013,82.36 MB,84341,Advanced Analytics Engine for NoSQL Data,Scala,https://github.com/precog/platform
+463,nelson,399,40,399,42,14/06/2017,31/08/2022,27.57 MB,28236,"Automated, multi-region container deployment",Scala,https://github.com/getnelson/nelson
+464,mdoc,399,84,399,61,23/10/2017,17/03/2025,6.57 MB,6730,Typechecked markdown documentation for Scala,Scala,https://github.com/scalameta/mdoc
+465,REPLesent,398,36,398,5,02/02/2015,02/10/2019,123.00 KB,123,A neat little tool to build presentations using the Scala REPL,Scala,https://github.com/marconilanna/REPLesent
+466,sql-differential-privacy,396,72,396,5,15/06/2017,03/12/2019,228.00 KB,228,Dataflow analysis & differential privacy for SQL queries. This project is deprecated and not maintained.,Scala,https://github.com/uber-archive/sql-differential-privacy
+467,sbt-tpolecat,396,55,396,14,19/07/2017,18/03/2025,437.00 KB,437,scalac options for the enlightened,Scala,https://github.com/typelevel/sbt-tpolecat
+468,intellij-lsp,396,48,396,89,04/10/2017,15/06/2023,23.88 MB,24450,Plugin adding Language Server Protocol support for IntelliJ,Scala,https://github.com/gtache/intellij-lsp
+469,embedded-kafka,393,46,393,9,23/11/2018,24/03/2025,872.00 KB,872,A library that provides an in-memory Kafka instance to run your tests against.,Scala,https://github.com/embeddedkafka/embedded-kafka
+470,brushfire,392,50,392,32,20/11/2014,09/01/2019,1.48 MB,1517,Distributed decision tree ensemble learning in Scala                          ,Scala,https://github.com/stripe-archive/brushfire
+471,norbert,390,125,390,9,16/12/2009,04/10/2022,2.68 MB,2742,Norbert is a cluster manager and networking layer built on top of Zookeeper.,Scala,https://github.com/rhavyn/norbert
+472,chisel2-deprecated,389,89,389,122,08/02/2012,18/04/2018,57.02 MB,58389,,Scala,https://github.com/ucb-bar/chisel2-deprecated
+473,s3mock,387,108,387,81,10/08/2016,14/11/2023,299.00 KB,299,Embedded S3 server for easy mocking,Scala,https://github.com/findify/s3mock
+474,droste,387,53,387,17,12/01/2018,28/03/2025,1.51 MB,1548,"recursion schemes for cats; to iterate is human, to recurse, divine",Scala,https://github.com/higherkindness/droste
+475,subcut,386,29,386,8,30/05/2011,12/10/2020,542.00 KB,542,Scala Uniquely Bound Classes Under Traits,Scala,https://github.com/dickwall/subcut
+476,flink-notes,385,129,385,2,07/01/2020,01/07/2022,102.65 MB,105116,flink学习笔记,Scala,https://github.com/pierre94/flink-notes
+477,links,385,50,385,0,06/06/2013,18/03/2025,2.42 MB,2482,Just a bunch of useful links,Scala,https://github.com/velvia/links
+478,ddd-leaven-akka-v2,384,69,384,2,03/01/2015,21/07/2018,1.20 MB,1230,Sample e-commerce system #Microservices #Akka #Reactive-DDD #CQRS,Scala,https://github.com/pawelkaczor/ddd-leaven-akka-v2
+479,scala_typeclassopedia,381,39,381,31,18/02/2017,05/12/2024,1.75 MB,1789,"Abstractions from Category theory with simple description & implementation, links to further resources.",Scala,https://github.com/lemastero/scala_typeclassopedia
+480,sbt-war,381,102,381,3,24/04/2011,22/03/2025,1.85 MB,1891,Package and run WAR files from sbt,Scala,https://github.com/earldouglas/sbt-war
+481,spark-perf,379,203,379,39,17/06/2014,09/07/2018,3.51 MB,3599,Performance tests for Apache Spark,Scala,https://github.com/databricks/spark-perf
+482,elastiknn,379,49,379,13,29/10/2019,14/03/2025,141.99 MB,145402,Elasticsearch plugin for nearest neighbor search. Store vectors and run similarity search using exact and approximate algorithms.,Scala,https://github.com/alexklibisz/elastiknn
+483,sse-chat,379,84,379,1,11/06/2013,08/02/2015,3.92 MB,4015,"Chat example app using Server Sent Events plus REST calls. Scala, Play Framework 2.3, AngularJS or React (alternatively).",Scala,https://github.com/matthiasn/sse-chat
+484,autowire,379,48,379,34,05/07/2014,04/01/2022,174.00 KB,174,"Macros for simple/safe RPCs between Scala applications, including ScalaJS/ScalaJVM",Scala,https://github.com/lihaoyi/autowire
+485,algebra,378,69,378,37,18/10/2013,05/11/2021,4.66 MB,4770,Experimental project to lay out basic algebra type classes,Scala,https://github.com/typelevel/algebra
+486,bloom-filter-scala,378,57,378,19,07/02/2016,19/03/2021,284.00 KB,284,"Bloom filter for Scala, the fastest for JVM",Scala,https://github.com/alexandrnikitin/bloom-filter-scala
+487,mouse,374,67,374,6,05/05/2016,18/03/2025,877.00 KB,877,A small companion to cats,Scala,https://github.com/typelevel/mouse
+488,tensil,374,30,374,19,26/02/2022,24/03/2024,2.87 MB,2942,Open source machine learning accelerators,Scala,https://github.com/tensil-ai/tensil
+489,tyrian,373,30,373,33,04/06/2021,09/03/2025,18.26 MB,18699,Elm-inspired Scala UI library.,Scala,https://github.com/PurpleKingdomGames/tyrian
+490,osstracker,372,55,372,18,08/02/2016,10/03/2024,1.08 MB,1111,Github organization OSS metrics collector and metrics dashboard,Scala,https://github.com/Netflix/osstracker
+491,splain,371,28,371,9,18/12/2016,29/01/2025,1.10 MB,1125,better implicit errors for scala,Scala,https://github.com/tek/splain
+492,stainless,370,55,370,301,17/08/2016,20/03/2025,142.52 MB,145937,Verification framework and tool for higher-order Scala programs,Scala,https://github.com/epfl-lara/stainless
+493,kafka-security-manager,368,162,368,32,01/03/2018,01/02/2024,270.00 KB,270,Manage your Kafka ACL at scale,Scala,https://github.com/conduktor/kafka-security-manager
+494,sbt-web,368,66,368,24,18/11/2013,10/03/2025,575.00 KB,575,Library for building sbt plugins for the web,Scala,https://github.com/sbt/sbt-web
+495,boopickle,367,41,367,27,10/04/2015,19/08/2024,1.21 MB,1237,Binary serialization library for efficient network communication,Scala,https://github.com/suzaku-io/boopickle
+496,smithy4s,366,77,366,111,22/12/2021,20/03/2025,28.32 MB,28995,https://disneystreaming.github.io/smithy4s/,Scala,https://github.com/disneystreaming/smithy4s
+497,legacy-svn-scala,366,58,366,0,16/08/2010,08/01/2014,289.75 MB,296706,"OBSOLETE, we're over there:",Scala,https://github.com/scala/legacy-svn-scala
+498,play-json,365,135,365,56,06/12/2016,10/03/2025,2.14 MB,2188,The Play JSON library,Scala,https://github.com/playframework/play-json
+499,bitcoin-s,365,95,365,387,28/04/2016,27/03/2025,537.71 MB,550615,Bitcoin Implementation in Scala,Scala,https://github.com/bitcoin-s/bitcoin-s
+500,akka-http-rest,364,99,364,0,09/07/2015,28/03/2021,107.00 KB,107,Example of reactive REST service written on akka-http with slick,Scala,https://github.com/arhelmus/akka-http-rest
+501,webjars,361,65,361,100,29/09/2012,22/03/2025,6.63 MB,6787,Client-side web libraries packaged into JARs,Scala,https://github.com/webjars/webjars
+502,graphx,360,103,360,31,17/09/2013,05/12/2022,64.80 MB,66360,Former GraphX development repository. GraphX has been merged into Apache Spark; please submit pull requests there.,Scala,https://github.com/amplab/graphx
+503,atto,359,58,359,33,04/09/2013,19/08/2024,2.44 MB,2498,friendly little parsers,Scala,https://github.com/tpolecat/atto
+504,News_recommend,359,91,359,12,19/05/2019,21/06/2022,17.46 MB,17877,基于Spark的新闻推荐系统，包含爬虫项目、web网站以及spark推荐系统,Scala,https://github.com/luochana/News_recommend
+505,blaze,357,64,357,90,06/01/2014,25/03/2025,6.98 MB,7149,Blazing fast NIO microframework and Http Parser,Scala,https://github.com/http4s/blaze
+506,sparklint,357,92,357,16,06/10/2016,02/11/2022,6.44 MB,6592,A tool for monitoring and tuning Spark jobs for efficiency.,Scala,https://github.com/groupon/sparklint
+507,akka-streams-example,357,73,357,2,06/10/2014,17/10/2022,613.00 KB,613,,Scala,https://github.com/inanna-malick/akka-streams-example
+508,mockito-scala,357,59,357,37,23/06/2018,05/08/2024,2.51 MB,2575,Mockito for Scala language,Scala,https://github.com/mockito/mockito-scala
+509,retry,356,37,356,23,25/04/2013,18/03/2025,207.00 KB,207,"because you should never give up, at least not on the first try",Scala,https://github.com/softwaremill/retry
+510,akka-ddd,355,59,355,5,20/10/2014,22/10/2021,2.97 MB,3040,Akka CQRS/ES framework,Scala,https://github.com/pawelkaczor/akka-ddd
+511,sbt-git,355,103,355,35,26/10/2011,13/03/2025,364.00 KB,364,A git plugin for sbt,Scala,https://github.com/sbt/sbt-git
+512,redis4cats,354,88,354,6,17/06/2018,27/03/2025,28.90 MB,29598,":bookmark: Redis client built on top of Cats Effect, Fs2 and Lettuce",Scala,https://github.com/profunktor/redis4cats
+513,pilon,354,60,354,83,30/03/2013,10/04/2022,4.46 MB,4567,Pilon is an automated genome assembly improvement and variant detection tool,Scala,https://github.com/broadinstitute/pilon
+514,scala-kafka-client,353,115,353,20,15/01/2016,10/08/2022,526.00 KB,526,Scala helper modules for operating the Apache Kafka client library (0.9.x - 2.1.0),Scala,https://github.com/cakesolutions/scala-kafka-client
+515,tsec,351,58,351,65,04/08/2017,26/11/2021,3.05 MB,3119,Type-safe general-cryptography library - https://jmcardon.github.io/tsec/,Scala,https://github.com/jmcardon/tsec
+516,zio-kafka,351,141,351,25,28/02/2019,26/03/2025,650.47 MB,666080,A Kafka client for ZIO and ZIO Streams,Scala,https://github.com/zio/zio-kafka
+517,effekt,348,35,348,189,05/03/2020,28/03/2025,20.54 MB,21029,A language with lexical effect handlers and lightweight effect polymorphism,Scala,https://github.com/effekt-lang/effekt
+518,gamebub,347,16,347,1,25/04/2023,19/02/2025,11.53 MB,11811,Open-source FPGA retro emulation handheld ,Scala,https://github.com/elipsitz/gamebub
+519,kantan.csv,345,37,345,56,22/07/2015,31/01/2025,9.29 MB,9518,CSV handling library for Scala,Scala,https://github.com/nrinaudo/kantan.csv
+520,ordasity,345,28,345,13,19/10/2011,11/10/2023,297.00 KB,297,Ordasity is Boundary's library for building stateful clustered services on the JVM.,Scala,https://github.com/boundary/ordasity
+521,delight,345,55,345,0,26/10/2020,31/05/2024,2.37 MB,2422,"A Spark UI and Spark History Server alternative with CPU and Memory metrics! Delight is free, cross-platform, and open-source.",Scala,https://github.com/datamechanics/delight
+522,vinyldns,345,104,345,103,26/07/2018,11/12/2024,32.45 MB,33232,DNS automation and governance for streamlining DNS operations and enabling safe and secure DNS self-service,Scala,https://github.com/vinyldns/vinyldns
+523,spark-jobserver,344,134,344,50,26/02/2014,19/05/2017,555.00 KB,555,"REST job server for Spark.  Note that this is *not* the mainline open source version.  For that, go to https://github.com/spark-jobserver/spark-jobserver.  This fork now serves as a semi-private repo for Ooyala.",Scala,https://github.com/ooyala/spark-jobserver
+524,javacv-examples,343,157,343,0,03/05/2014,07/12/2024,41.81 MB,42810,Examples of using JavaCV / OpenCV library on Java Virtual Machine,Scala,https://github.com/bytedeco/javacv-examples
+525,scala_school2,343,77,343,51,21/06/2013,08/10/2021,1.07 MB,1100,Scala School 2,Scala,https://github.com/twitter/scala_school2
+526,diffx,343,30,343,21,03/05/2019,03/12/2024,1.33 MB,1365,Pretty diffs for scala case classes,Scala,https://github.com/softwaremill/diffx
+527,scala-tutorials,343,212,343,13,30/11/2019,26/03/2025,4.30 MB,4408,Supporting code for the tutorials on https://www.baeldung.com/scala,Scala,https://github.com/Baeldung/scala-tutorials
+528,pekko-http-scala-js-websocket-chat,343,59,343,2,27/04/2015,03/10/2024,512.00 KB,512,An example app that integrates pekko-http and scala-js to implement a websocket chat,Scala,https://github.com/jrudolph/pekko-http-scala-js-websocket-chat
+529,baker,342,83,342,48,05/12/2016,25/03/2025,170.69 MB,174786,Orchestrate microservice-based process flows,Scala,https://github.com/ing-bank/baker
+530,nak,342,83,342,12,15/01/2013,18/07/2017,5.77 MB,5905,The Nak Machine Learning Library,Scala,https://github.com/scalanlp/nak
+531,DeepLearningForFun,342,63,342,1,19/07/2016,30/08/2024,421.55 MB,431664,Implementation of some interesting ideas of deeplearning.,Scala,https://github.com/Ldpe2G/DeepLearningForFun
+532,ratatool,341,54,341,33,01/08/2016,07/03/2025,1.33 MB,1365,"A tool for data sampling, data generation, and data diffing",Scala,https://github.com/spotify/ratatool
+533,zinc,340,122,340,78,04/08/2015,21/03/2025,27.47 MB,28130,"Scala incremental compiler library, used by sbt and other build tools",Scala,https://github.com/sbt/zinc
+534,scala-2-beginners,339,287,339,1,15/06/2018,25/04/2024,22.00 KB,22,The official repository for the Rock the JVM Scala 2 for beginners course,Scala,https://github.com/rockthejvm/scala-2-beginners
+535,scalacss,338,44,338,55,07/03/2015,12/08/2024,12.64 MB,12947,Super type-safe CSS for Scala and Scala.JS.,Scala,https://github.com/japgolly/scalacss
+536,scalaxb,338,158,338,161,05/02/2010,14/03/2025,4.23 MB,4335,scalaxb is an XML data binding tool for Scala.,Scala,https://github.com/eed3si9n/scalaxb
+537,morpheus,338,62,338,29,02/08/2016,09/09/2020,30.30 MB,31032,"Morpheus brings the leading graph query language, Cypher, onto the leading distributed processing platform, Spark.",Scala,https://github.com/opencypher/morpheus
+538,kmq,337,45,337,28,11/02/2017,25/03/2025,462.00 KB,462,Kafka-based message queue,Scala,https://github.com/softwaremill/kmq
+539,sbt-sonatype,337,65,337,25,20/01/2014,21/03/2025,785.00 KB,785,A sbt plugin for publishing Scala/Java projects to the Maven central.,Scala,https://github.com/xerial/sbt-sonatype
+540,koober,337,106,337,3,06/12/2016,14/01/2018,2.23 MB,2283,,Scala,https://github.com/jamesward/koober
+541,doodle,336,79,336,30,10/12/2014,13/03/2025,22.31 MB,22849,Compositional vector graphics in Scala / Scala.JS,Scala,https://github.com/creativescala/doodle
+542,bahir,336,197,336,7,29/05/2016,07/07/2023,1.11 MB,1133,Mirror of Apache Bahir,Scala,https://github.com/apache/bahir
+543,scala3-example-project,335,151,335,0,30/12/2015,18/03/2025,250.00 KB,250,An example sbt project that compiles using Dotty,Scala,https://github.com/scala/scala3-example-project
+544,idea-composer-plugin,335,10,335,10,05/12/2014,19/02/2020,1021.00 KB,1021,PhpStorm plugin that adds code completion in composer.json file,Scala,https://github.com/psliwa/idea-composer-plugin
+545,discipline,332,56,332,6,19/10/2013,17/03/2025,591.00 KB,591,Flexible law checking for Scala,Scala,https://github.com/typelevel/discipline
+546,natchez,331,78,331,24,23/05/2019,25/03/2025,2.16 MB,2214,functional tracing for cats,Scala,https://github.com/typelevel/natchez
+547,fun-cqrs,331,48,331,7,20/09/2015,30/06/2022,1.09 MB,1120,Fun.CQRS is a Scala CQRS/ES framework. It provides the basic blocks to build event driven aggregates with Event Sourcing.,Scala,https://github.com/fun-cqrs/fun-cqrs
+548,mu-scala,330,34,330,33,05/05/2017,28/03/2025,7.74 MB,7921,Mu is a purely functional library for building RPC endpoint based services with support for RPC and HTTP/2,Scala,https://github.com/higherkindness/mu-scala
+549,scala-kafka,330,134,330,11,18/12/2013,02/07/2017,1.56 MB,1600,Quick up and running using Scala for Apache Kafka,Scala,https://github.com/elodina/scala-kafka
+550,skuber,329,99,329,47,25/11/2015,04/03/2025,2.10 MB,2152,A Scala Kubernetes client library,Scala,https://github.com/doriordan/skuber
+551,virtualization-lms-core,328,91,328,28,19/08/2010,27/02/2019,6.76 MB,6919,A Framework for Runtime Code Generation and Compiled DSLs,Scala,https://github.com/TiarkRompf/virtualization-lms-core
+552,openie-standalone,327,53,327,3,27/05/2016,20/04/2017,540.00 KB,540,Quality information extraction at web scale. Edit,Scala,https://github.com/allenai/openie-standalone
+553,akka-persistence-cassandra,327,135,327,60,04/01/2016,25/03/2025,3.64 MB,3725,A replicated Akka Persistence journal backed by Apache Cassandra,Scala,https://github.com/akka/akka-persistence-cassandra
+554,mist,325,67,325,31,15/01/2016,29/10/2020,10.20 MB,10449,Serverless proxy for Spark cluster,Scala,https://github.com/Hydrospheredata/mist
+555,fgbio,324,70,324,77,03/03/2016,20/03/2025,9.44 MB,9671,Tools for working with genomic and high throughput sequencing data.,Scala,https://github.com/fulcrumgenomics/fgbio
+556,quine,324,38,324,7,05/02/2022,27/03/2025,24.88 MB,25481,Quine • a streaming graph • https://quine.io • Discord: https://discord.gg/GMhd8TE4MR,Scala,https://github.com/thatdot/quine
+557,aecor,324,35,324,79,05/06/2016,13/08/2024,20.46 MB,20946,Pure functional event sourcing runtime,Scala,https://github.com/notxcain/aecor
+558,chana,323,46,323,7,31/12/2014,05/03/2018,1.61 MB,1652,Realtime Data Store Based on Akka,Scala,https://github.com/dcaoyuan/chana
+559,IScala,322,49,322,26,14/08/2013,09/01/2019,917.00 KB,917,Scala backend for IPython,Scala,https://github.com/mattpap/IScala
+560,scala-js-dom,322,161,322,39,15/10/2013,30/11/2024,11.62 MB,11899,Statically typed DOM API for Scala.js,Scala,https://github.com/scala-js/scala-js-dom
+561,scala-activerecord,322,31,322,20,10/04/2012,08/01/2021,6.81 MB,6976,ActiveRecord-like ORM library for Scala,Scala,https://github.com/aselab/scala-activerecord
+562,Spark-SQL-on-HBase,320,155,320,7,15/07/2015,12/04/2022,1.03 MB,1057,"Native, optimized access to HBase Data through Spark SQL/Dataframe Interfaces",Scala,https://github.com/Huawei-Spark/Spark-SQL-on-HBase
+563,rpgboss,320,149,320,174,18/10/2012,08/06/2021,40.36 MB,41327,point and click rpg game editor and engine,Scala,https://github.com/rpgboss/rpgboss
+564,cats-tagless,320,41,320,11,11/07/2018,24/03/2025,6.26 MB,6414,Library of utilities for tagless final encoded algebras,Scala,https://github.com/typelevel/cats-tagless
+565,cloudflow,319,90,319,129,08/11/2019,13/08/2024,14.78 MB,15133,"Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.",Scala,https://github.com/lightbend/cloudflow
+566,scanamo,319,125,319,55,01/02/2016,11/01/2025,37.60 MB,38503,Simpler DynamoDB access for Scala,Scala,https://github.com/scanamo/scanamo
+567,lmvtfy,318,26,318,17,24/05/2014,12/03/2020,58.74 MB,60145,LMVTFY: Let Me Validate That For You,Scala,https://github.com/cvrebert/lmvtfy
+568,diffson,317,51,317,13,30/08/2013,21/09/2024,794.00 KB,794,A scala diff/patch library for Json,Scala,https://github.com/gnieh/diffson
+569,scalikejdbc-async,314,40,314,9,25/07/2013,20/03/2025,2.25 MB,2303,ScalikeJDBC Extension: Non-blocking APIs in the JDBC way,Scala,https://github.com/scalikejdbc/scalikejdbc-async
+570,spark-distributed-louvain-modularity,314,152,314,14,21/03/2014,02/09/2020,176.00 KB,176,Spark / graphX implementation of the distributed louvain modularity algorithm,Scala,https://github.com/Sotera/spark-distributed-louvain-modularity
+571,odin,314,19,314,50,13/11/2019,06/08/2024,600.00 KB,600,Fast & Functional logger in Scala,Scala,https://github.com/valskalla/odin
+572,neo4j-spark-connector,313,115,313,2,03/03/2016,28/03/2025,2.96 MB,3036,"Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs",Scala,https://github.com/neo4j/neo4j-spark-connector
+573,Neutrino,312,44,312,9,29/12/2015,09/02/2018,254.00 KB,254,Neutrino is a software load balancer(SLB),Scala,https://github.com/eBay/Neutrino
+574,degraph,312,36,312,21,01/09/2011,15/05/2021,14.69 MB,15042,Test and Visualize and Manage Dependencies of classes and packages in JVM Byte Code (think Scala and Java),Scala,https://github.com/riy/degraph
+575,scala-clippy,311,20,311,14,19/12/2015,14/03/2019,573.00 KB,573,Good advice for Scala compiler errors,Scala,https://github.com/softwaremill/scala-clippy
+576,berkeley-hardfloat,310,88,310,21,08/09/2014,11/09/2024,1.33 MB,1367,,Scala,https://github.com/ucb-bar/berkeley-hardfloat
+577,cats-mtl,309,64,309,17,23/04/2017,17/03/2025,5.95 MB,6088,cats transformer type classes.,Scala,https://github.com/typelevel/cats-mtl
+578,akka-persistence-jdbc,309,141,309,40,23/05/2014,25/03/2025,7.30 MB,7475,Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state,Scala,https://github.com/akka/akka-persistence-jdbc
+579,Spark-MongoDB,308,96,308,45,02/02/2015,30/08/2016,910.00 KB,910,Spark library for easy MongoDB access,Scala,https://github.com/Stratio/Spark-MongoDB
+580,gps-overlay-on-video,307,36,307,23,02/04/2014,26/03/2025,7.33 MB,7511,Telemetry (GPS) data overlay on videos,Scala,https://github.com/peregin/gps-overlay-on-video
+581,ping-play,307,59,307,10,16/01/2014,06/11/2016,31.84 MB,32600,BigPipe streaming for the Play Framework,Scala,https://github.com/brikis98/ping-play
+582,akka-tracing,306,32,306,21,15/03/2014,31/01/2018,1.18 MB,1212,"A distributed tracing extension for Akka. Provides integration with Play framework, Spray and Akka HTTP.",Scala,https://github.com/levkhomich/akka-tracing
+583,scala-uri,306,37,306,9,11/05/2017,11/12/2024,1.68 MB,1725,Simple scala library for building and parsing URIs,Scala,https://github.com/lemonlabsuk/scala-uri
+584,remotely,305,39,305,14,01/12/2014,08/06/2017,797.00 KB,797,An elegant RPC system for reasonable people,Scala,https://github.com/Verizon/remotely
+585,scala-xml,304,92,304,22,17/07/2013,18/03/2025,6.80 MB,6960,The standard Scala XML library,Scala,https://github.com/scala/scala-xml
+586,sbt-dynver,304,49,304,28,17/09/2016,17/03/2025,530.00 KB,530,An sbt plugin to dynamically set your version from git,Scala,https://github.com/sbt/sbt-dynver
+587,gll-combinators,303,29,303,16,23/04/2009,10/07/2024,626.00 KB,626,A parser combinator library based on the GLL algorithm,Scala,https://github.com/djspiewak/gll-combinators
+588,zinc,303,58,303,13,11/06/2012,03/05/2017,519.00 KB,519,⛔️ [DEPRECATED] sbt's scala incremental compiler,Scala,https://github.com/typesafehub/zinc
+589,khipu,301,43,301,5,30/07/2018,05/07/2020,2.07 MB,2123,An enterprise blockchain platform based on Ethereum,Scala,https://github.com/khipu-io/khipu
+590,Bigdata,301,65,301,10,27/06/2018,15/01/2024,7.62 MB,7800,大数据处理相关技术学习之路(持续更新中...)。        Bigdata整理  -->  慢慢滴~ 大数据相关技术包括离线处理，实时处理，OLAP等，如hadoop、spark、flink、hive、hbase、oozie...以及大数据项目，如用户画像、数据仓库等，欢迎感兴趣的小伙伴一起来开发...,Scala,https://github.com/baolibin/Bigdata
+591,Scalala,300,30,300,16,29/06/2009,06/06/2012,26.86 MB,27500,"Scalala has been superseded by dlwh/breeze. Scalala is a high performance numeric linear algebra library for Scala, with rich Matlab-like operators on vectors and matrices; a library of numerical routines; support for plotting.",Scala,https://github.com/scalala/Scalala
+592,case-app,300,45,300,36,23/10/2014,27/02/2025,1.60 MB,1635,Type-level & seamless command-line argument parsing for Scala,Scala,https://github.com/alexarchambault/case-app
+593,sagemaker-spark,299,130,299,35,16/11/2017,08/03/2025,1002.00 KB,1002,A Spark library for Amazon SageMaker.,Scala,https://github.com/aws/sagemaker-spark
+594,activate,299,46,299,39,05/06/2011,27/02/2016,25.27 MB,25876,Abandoned: Pluggable persistence in Scala,Scala,https://github.com/fwbrasil/activate
+595,Scala-Algorithms,298,80,298,2,29/03/2014,12/12/2017,475.00 KB,475,Scala translations of Robert Sedgewick's Java Algorthms,Scala,https://github.com/garyaiki/Scala-Algorithms
+596,crjdt,297,18,297,7,23/08/2016,21/02/2021,1.54 MB,1582,A conflict-free replicated JSON datatype (CRDT) in Scala,Scala,https://github.com/fthomas/crjdt
+597,fs2-kafka,297,105,297,56,15/10/2018,28/03/2025,12.16 MB,12452,Functional Kafka Streams for Scala,Scala,https://github.com/fd4s/fs2-kafka
+598,sirius,297,48,297,28,01/11/2013,28/02/2025,4.91 MB,5030,A distributed system library for managing application reference data,Scala,https://github.com/Comcast/sirius
+599,incubator-retired-gearpump,296,91,296,9,13/04/2016,27/08/2018,21.77 MB,22289,Mirror of Apache Gearpump (Incubating),Scala,https://github.com/apache/incubator-retired-gearpump
+600,spark-hbase-connector,296,107,296,38,09/01/2015,19/12/2017,130.00 KB,130,Connect Spark to HBase for reading and writing data with ease,Scala,https://github.com/nerdammer/spark-hbase-connector
+601,banana-rdf,295,72,295,99,30/04/2012,11/07/2023,5.52 MB,5649,Banana RDF,Scala,https://github.com/banana-rdf/banana-rdf
+602,classic,294,58,294,0,08/12/2009,27/05/2017,3.52 MB,3601,[UNSUPPORTED] Dispatch Classic. See dispatch/reboot for the modern Dispatch for Scala 2.11/2.12,Scala,https://github.com/dispatch/classic
+603,cats-retry,294,49,294,19,04/05/2018,27/01/2025,3.82 MB,3914,,Scala,https://github.com/cb372/cats-retry
+604,rho,294,65,294,127,29/06/2014,17/03/2025,8.98 MB,9191,A self documenting DSL built on http4s,Scala,https://github.com/http4s/rho
+605,SwayDB,293,16,293,83,11/02/2018,12/06/2024,20.42 MB,20909,Persistent and in-memory key-value storage engine for JVM that scales on a single machine.,Scala,https://github.com/simerplaha/SwayDB
+606,scalatest-embedded-kafka,293,83,293,18,01/07/2015,12/11/2019,330.00 KB,330,A library that provides an in-memory Kafka instance to run your tests against.,Scala,https://github.com/manub/scalatest-embedded-kafka
+607,spark-tfrecord,292,56,292,17,07/04/2020,22/04/2024,102.00 KB,102,Read and write Tensorflow TFRecord data from Apache Spark.,Scala,https://github.com/linkedin/spark-tfrecord
+608,udemy-scala-beginners,292,358,292,0,15/09/2021,07/05/2024,36.00 KB,36,,Scala,https://github.com/rockthejvm/udemy-scala-beginners
+609,Scalatex,291,38,291,29,19/12/2014,21/02/2020,2.01 MB,2063,"Programmable, Typesafe Document Generation",Scala,https://github.com/lihaoyi/Scalatex
+610,big-data-rosetta-code,291,34,291,15,18/02/2016,31/01/2025,350.00 KB,350,Code snippets for solving common big data problems in various platforms. Inspired by Rosetta Code,Scala,https://github.com/spotify/big-data-rosetta-code
+611,sbt-ci-release,291,76,291,8,10/06/2018,18/03/2025,1.63 MB,1673,sbt plugin to automate Sonatype releases from GitHub Actions,Scala,https://github.com/sbt/sbt-ci-release
+612,sqltyped,291,15,291,5,08/08/2012,19/11/2016,684.00 KB,684,Embedding SQL as an external DSL into Scala,Scala,https://github.com/jonifreeman/sqltyped
+613,net-monitor,290,24,290,1,19/10/2014,30/11/2014,3.84 MB,3936,"Toolkit for auditing ""phone home"" behavior on Mac OS X Yosemite.",Scala,https://github.com/fix-macosx/net-monitor
+614,sbt-explicit-dependencies,290,22,290,28,06/09/2018,21/08/2024,201.00 KB,201,,Scala,https://github.com/cb372/sbt-explicit-dependencies
+615,scaldi,289,26,289,33,17/05/2010,13/08/2024,1.64 MB,1684,Lightweight Scala Dependency Injection Library,Scala,https://github.com/scaldi/scaldi
+616,hamsters,288,23,288,6,18/04/2016,19/12/2020,2.59 MB,2651,A mini Scala utility library,Scala,https://github.com/scala-hamsters/hamsters
+617,scala-at-light-speed,287,342,287,0,12/12/2019,31/05/2024,20.00 KB,20,The repository for the free Scala at Light Speed mini-course,Scala,https://github.com/rockthejvm/scala-at-light-speed
+618,scala-labs,286,162,286,12,24/08/2009,06/08/2023,5.83 MB,5965,A collection of hands-on programming exercises aimed at teaching you to program in Scala,Scala,https://github.com/scala-labs/scala-labs
+619,TIP,286,127,286,5,21/11/2013,25/12/2022,3.10 MB,3172,Static program analysis for TIP,Scala,https://github.com/cs-au-dk/TIP
+620,parquet4s,286,67,286,8,26/08/2018,24/02/2025,2.43 MB,2485,Read and write Parquet in Scala. Use Scala classes as schema. No need to start a cluster.,Scala,https://github.com/mjakubowski84/parquet4s
+621,harness,285,50,285,13,16/01/2017,02/02/2022,6.27 MB,6425,Harness is a Machine Learning/AI Server with plugins for many algorithms including the Universal Recommender,Scala,https://github.com/actionml/harness
+622,supler,284,21,284,25,20/05/2014,10/11/2015,3.85 MB,3940,Rapid Form Development library. Use your favourite JS frontend & Scala backend frameworks.,Scala,https://github.com/softwaremill/supler
+623,spark-druid-olap,283,92,283,0,09/07/2015,03/08/2018,129.89 MB,133004,Sparkline BI Accelerator provides fast ad-hoc query capability over Logical Cubes. This has been folded into our SNAP Platform(http://bit.ly/2oBJSpP) an Integrated BI platform on Apache Spark.,Scala,https://github.com/hbutani/spark-druid-olap
+624,sql-spark-connector,283,124,283,63,02/06/2020,27/02/2025,2.17 MB,2224,Apache Spark Connector for SQL Server and Azure SQL,Scala,https://github.com/microsoft/sql-spark-connector
+625,Vyxal,283,32,283,5,02/04/2020,25/03/2025,67.21 MB,68825,A code-golfing language experience that has aspects of traditional programming languages - terse yet convenient. ,Scala,https://github.com/Vyxal/Vyxal
+626,tvm-vta,283,75,283,4,30/03/2020,10/04/2024,1.32 MB,1355,"Open, Modular, Deep Learning Accelerator",Scala,https://github.com/apache/tvm-vta
+627,nexus,282,76,282,264,12/09/2017,26/03/2025,144.95 MB,148432,Blue Brain Nexus - A knowledge graph for data-driven science,Scala,https://github.com/BlueBrain/nexus
+628,spatial,281,33,281,70,23/03/2018,02/06/2024,100.99 MB,103411,"Spatial: ""Specify Parameterized Accelerators Through Inordinately Abstract Language""",Scala,https://github.com/stanford-ppl/spatial
+629,mongo-scala-driver,281,147,281,0,05/03/2014,16/07/2024,9.32 MB,9543,Former repository of MongoDB Scala driver. Official Scala driver can now be found here: https://github.com/mongodb/mongo-java-driver,Scala,https://github.com/mongodb/mongo-scala-driver
+630,streamz,281,45,281,11,04/06/2014,03/09/2024,2.13 MB,2179,"A combinator library for integrating Functional Streams for Scala (FS2), Akka Streams and Apache Camel",Scala,https://github.com/krasserm/streamz
+631,akka-raft,280,42,280,57,17/01/2014,09/08/2016,355.00 KB,355,A toy project implementing RAFT on top of Akka Cluster (not prod ready),Scala,https://github.com/ktoso/akka-raft
+632,SparkOnHBase,279,177,279,0,16/12/2014,30/03/2021,738.00 KB,738,SparkOnHBase ,Scala,https://github.com/cloudera-labs/SparkOnHBase
+633,moe,279,46,279,19,12/01/2013,27/09/2013,6.68 MB,6836,An -OFun prototype of an Ultra Modern Perl 5,Scala,https://github.com/MoeOrganization/moe
+634,NaxRiscv,279,43,279,41,04/10/2021,10/03/2025,3.51 MB,3591,,Scala,https://github.com/SpinalHDL/NaxRiscv
+635,monadless,279,17,279,16,13/04/2017,12/08/2024,333.00 KB,333,Syntactic sugar for monad composition in Scala,Scala,https://github.com/monadless/monadless
+636,jerkson,279,119,279,37,24/11/2010,07/06/2012,674.00 KB,674,[ABANDONED] The Scala applewood bacon to Jackson's chicken breast: JSON cordon bleu.,Scala,https://github.com/codahale/jerkson
+637,scalaprops,278,20,278,10,05/05/2015,17/03/2025,1.91 MB,1952,property based testing library for Scala,Scala,https://github.com/scalaprops/scalaprops
+638,typerighter,278,11,278,25,26/10/2018,28/03/2025,31.96 MB,32729,"Even if you’re the right typer, couldn’t hurt to use Typerighter!",Scala,https://github.com/guardian/typerighter
+639,swagger-akka-http,278,56,278,15,27/01/2016,17/10/2023,37.67 MB,38575,Support for generating Swagger REST API documentation for Akka-Http based services.,Scala,https://github.com/swagger-akka-http/swagger-akka-http
+640,boilerplay,276,37,276,0,18/07/2015,02/06/2020,9.40 MB,9623,"Using the latest technology in the Scala ecosystem, Boilerplay is a reactive web application built on Play Framework, ScalaJS, Silhouette, Sangria/GraphQL, and PostgreSQL. It provides a good starting point for whatever you want to build.",Scala,https://github.com/kyleu/boilerplay
+641,hbase-rdd,276,114,276,5,04/07/2014,22/01/2021,622.00 KB,622,"Spark RDD to read, write and delete from HBase",Scala,https://github.com/hbase-rdd/hbase-rdd
+642,CT_from_Programmers.scala,276,39,276,6,15/09/2017,29/11/2018,61.00 KB,61,Scala sample code for Bartosz Milewski's CT for Programmers,Scala,https://github.com/typelevel/CT_from_Programmers.scala
+643,fs2-grpc,276,58,276,13,31/03/2018,25/03/2025,1.15 MB,1174,gRPC implementation for FS2/cats-effect,Scala,https://github.com/typelevel/fs2-grpc
+644,translate-bubble-android,275,39,275,5,10/10/2014,08/01/2020,5.05 MB,5174,Translations without interruptions,Scala,https://github.com/xebia-functional/translate-bubble-android
+645,glow,274,115,274,49,04/10/2019,23/03/2025,99.04 MB,101415,An open-source toolkit for large-scale genomic analysis,Scala,https://github.com/projectglow/glow
+646,akka-analytics,274,36,274,0,29/07/2014,18/06/2016,48.00 KB,48,Large-scale event processing with Akka Persistence and Apache Spark,Scala,https://github.com/krasserm/akka-analytics
+647,scala-dist,272,229,272,2,13/03/2011,10/01/2025,34.55 MB,35382,sbt project that packages the Scala 2 distribution,Scala,https://github.com/scala/scala-dist
+648,first-edition,272,189,272,4,25/03/2015,01/07/2017,8.10 MB,8292,The book's repo,Scala,https://github.com/spark-in-action/first-edition
+649,sjsonnet,271,56,271,8,15/06/2018,13/02/2025,1.63 MB,1670,,Scala,https://github.com/databricks/sjsonnet
+650,gears,270,29,270,14,03/03/2023,06/03/2025,3.92 MB,4009,A strawman for a low-level async library in Scala 3.,Scala,https://github.com/lampepfl/gears
+651,zio-actors,270,55,270,41,08/07/2018,20/08/2024,1.87 MB,1912,"A high-performance, purely-functional library for building, composing, and supervising typed actors based on ZIO",Scala,https://github.com/zio-archive/zio-actors
+652,watchlistarr,269,20,269,46,26/10/2023,17/10/2024,1.23 MB,1261,Customizable sync of Plex Watchlist to Sonarr/Radarr,Scala,https://github.com/nylonee/watchlistarr
+653,sbt-dependency-check,269,40,269,14,12/01/2016,21/08/2024,5.19 MB,5318,SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs). :rainbow:,Scala,https://github.com/albuch/sbt-dependency-check
+654,incubator-s2graph,269,64,269,17,08/01/2016,28/05/2020,14.10 MB,14439,Mirror of Apache S2Graph (Incubating),Scala,https://github.com/apache/incubator-s2graph
+655,spark-essentials,269,361,269,1,25/10/2019,10/02/2025,7.91 MB,8097,The official repository for the Rock the JVM Spark Essentials with Scala course,Scala,https://github.com/rockthejvm/spark-essentials
+656,overview-server,268,37,268,84,18/05/2012,07/01/2023,51.12 MB,52342,Open source large document set visualization platform,Scala,https://github.com/overview/overview-server
+657,zio-grpc,268,83,268,47,30/01/2020,14/03/2025,8.06 MB,8254,ScalaPB meets ZIO: write purely functional gRPC services and clients using ZIO,Scala,https://github.com/scalapb/zio-grpc
+658,linter,268,34,268,22,23/03/2013,10/07/2018,2.11 MB,2164,Static Analysis Compiler Plugin for Scala,Scala,https://github.com/HairyFotr/linter
+659,debox,267,20,267,13,16/05/2012,08/07/2021,258.00 KB,258,"Fast, deboxed, specialized data structures for Scala",Scala,https://github.com/non/debox
+660,spark-atlas-connector,267,149,267,52,21/11/2017,16/11/2022,925.00 KB,925,A Spark Atlas connector to track data lineage in Apache Atlas,Scala,https://github.com/hortonworks-spark/spark-atlas-connector
+661,henkan,267,10,267,5,17/01/2016,18/10/2023,218.00 KB,218,A small library for converting between case classes.,Scala,https://github.com/kailuowang/henkan
+662,sbt-onejar,266,45,266,22,22/01/2011,22/01/2019,185.00 KB,185,Packages your project using One-JAR™,Scala,https://github.com/sbt/sbt-onejar
+663,Scurses,266,25,266,7,04/11/2015,19/12/2021,169.00 KB,169,"Scurses, terminal drawing API for Scala, and Onions, a Scurses framework for easy terminal UI",Scala,https://github.com/Tenchi2xh/Scurses
+664,BIDMat,265,73,265,23,17/10/2012,25/02/2021,6.90 MB,7066,A CPU and GPU-accelerated matrix library for data mining,Scala,https://github.com/BIDData/BIDMat
+665,scala-time,265,55,265,19,24/04/2009,11/07/2013,207.00 KB,207,A Scala wrapper for Joda Time,Scala,https://github.com/jorgeortiz85/scala-time
+666,riff-raff,265,18,265,16,19/08/2011,21/03/2025,14.47 MB,14821,The Guardian's deployment platform,Scala,https://github.com/guardian/riff-raff
+667,LayIM,264,157,264,2,28/11/2016,26/08/2017,19.09 MB,19546,基于HTML5 WebSocket的一款IM即时通讯软件，使用Gradle集成了Scala、SpringBoot、Spring MVC、Mybatis、Redis等，前端使用了LayIm框架,Scala,https://github.com/scalad/LayIM
+668,scaffeine,264,24,264,8,05/03/2016,01/03/2025,723.00 KB,723,Thin Scala wrapper for Caffeine (https://github.com/ben-manes/caffeine),Scala,https://github.com/blemale/scaffeine
+669,probability-monad,263,38,263,0,31/12/2011,18/05/2022,111.00 KB,111,,Scala,https://github.com/jliszka/probability-monad
+670,scala-hedgehog,263,24,263,17,15/03/2017,01/03/2025,6.87 MB,7037,"Release with confidence, state-of-the-art property testing for Scala.",Scala,https://github.com/hedgehogqa/scala-hedgehog
+671,recheck,262,12,262,13,24/10/2020,27/03/2025,8.53 MB,8734,The trustworthy ReDoS checker,Scala,https://github.com/makenowjust-labs/recheck
+672,scanns,261,65,261,7,01/02/2018,29/03/2019,503.00 KB,503,A scalable nearest neighbor search library in Apache Spark ,Scala,https://github.com/LinkedInAttic/scanns
+673,scala-uri,261,33,261,9,17/11/2012,01/04/2020,388.00 KB,388,Simple scala library for building and parsing URIs,Scala,https://github.com/NET-A-PORTER/scala-uri
+674,sample-applications,261,133,261,8,29/10/2012,18/01/2021,385.00 KB,385,Sample applications that go with the book Play for Scala,Scala,https://github.com/playforscala/sample-applications
+675,millfork,261,20,261,25,06/12/2017,15/08/2023,3.92 MB,4018,Millfork: a middle-level programming language targeting 6502- and Z80-based microcomputers and home consoles,Scala,https://github.com/KarolS/millfork
+676,reactors,261,32,261,3,13/12/2013,03/02/2018,10.36 MB,10609,A foundational framework for distributed programming.,Scala,https://github.com/reactors-io/reactors
+677,t1,260,34,260,53,18/09/2022,28/03/2025,24.78 MB,25370,,Scala,https://github.com/chipsalliance/t1
+678,clump,260,16,260,1,02/12/2014,07/11/2022,636.00 KB,636,A library for expressive and efficient service composition,Scala,https://github.com/getclump/clump
+679,otoroshi,259,41,259,43,27/11/2017,28/03/2025,369.74 MB,378611,Lightweight api management on top of a modern http reverse proxy,Scala,https://github.com/MAIF/otoroshi
+680,chalk,259,49,259,7,02/12/2012,30/01/2017,5.14 MB,5268,Chalk is a natural language processing library.,Scala,https://github.com/scalanlp/chalk
+681,curryhoward,258,16,258,5,12/12/2017,06/11/2021,423.00 KB,423,Automatic code generation for Scala functions and expressions via the Curry-Howard isomorphism,Scala,https://github.com/Chymyst/curryhoward
+682,gazelle_plugin,257,75,257,215,28/12/2020,21/02/2023,36.57 MB,37451,Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.,Scala,https://github.com/oap-project/gazelle_plugin
+683,bugatti,257,128,257,5,25/03/2015,13/05/2015,4.87 MB,4991,运维自动化部署监控平台,Scala,https://github.com/QianmiOpen/bugatti
+684,sbt-scalariform,257,63,257,8,04/10/2012,29/06/2019,137.00 KB,137,sbt plugin adding support for source code formatting using Scalariform,Scala,https://github.com/sbt/sbt-scalariform
+685,each,257,26,257,20,05/05/2015,19/08/2024,622.00 KB,622,A macro library that converts native imperative syntax to scalaz's monadic expressions,Scala,https://github.com/ThoughtWorksInc/each
+686,quizmaster,256,32,256,4,14/10/2019,11/03/2025,7.82 MB,8003,A web-app for conducting a quiz over the internet,Scala,https://github.com/nymanjens/quizmaster
+687,nexus,256,16,256,21,30/05/2017,12/09/2019,3.45 MB,3532,Experimental tensor-typed deep learning ,Scala,https://github.com/ctongfei/nexus
+688,twitter4s,256,99,256,46,06/09/2015,10/03/2023,11.90 MB,12184,An asynchronous non-blocking Scala client for both the Twitter Rest and Streaming API,Scala,https://github.com/DanielaSfregola/twitter4s
+689,socko,255,51,255,15,29/03/2012,22/09/2023,9.76 MB,9994,A Scala web server powered by Netty networking and AKKA processing.,Scala,https://github.com/mashupbots/socko
+690,AlbedoMM,255,35,255,3,11/03/2020,19/06/2020,4.43 MB,4533,Albedo Morphable Model,Scala,https://github.com/waps101/AlbedoMM
+691,silencer,254,33,254,7,10/04/2015,17/01/2025,207.00 KB,207,Scala compiler plugin for warning suppression,Scala,https://github.com/ghik/silencer
+692,akka-http-cors,254,38,254,17,17/02/2016,12/08/2024,692.00 KB,692,Akka Http directives implementing the CORS specifications defined by W3C,Scala,https://github.com/lomigmegard/akka-http-cors
+693,sbt-native-image,254,23,254,28,29/08/2020,20/04/2024,112.00 KB,112,Plugin to generate native-image binaries with sbt,Scala,https://github.com/scalameta/sbt-native-image
+694,fsqio,254,54,254,21,17/12/2015,30/07/2024,13.55 MB,13878,A monorepo that holds all of Foursquare's opensource projects,Scala,https://github.com/foursquare/fsqio
+695,Dsl.scala,254,29,254,26,14/10/2017,05/01/2025,4.41 MB,4515,A framework to create embedded Domain-Specific Languages in Scala,Scala,https://github.com/ThoughtWorksInc/Dsl.scala
+696,scala-ts,253,35,253,3,12/06/2016,28/03/2025,9.30 MB,9519,:wrench: Scala datamodel transpiler,Scala,https://github.com/scala-ts/scala-ts
+697,akka-management,253,160,253,113,09/11/2016,25/03/2025,17.04 MB,17453,Akka Management is a suite of tools for operating Akka Clusters.,Scala,https://github.com/akka/akka-management
+698,zio-todo-backend,253,48,253,2,19/03/2019,06/01/2025,519.00 KB,519,"Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s, doobie and circe",Scala,https://github.com/mschuwalow/zio-todo-backend
+699,potigol,253,32,253,37,14/02/2012,05/06/2024,23.95 MB,24525,Linguagem Potigol - Linguagem de programação funcional moderna para iniciantes - A Functional Programming Language for Beginners,Scala,https://github.com/potigol/potigol
+700,spray-socketio,253,55,253,8,22/01/2014,28/11/2017,914.00 KB,914,socket.io for spray,Scala,https://github.com/dcaoyuan/spray-socketio
+701,dragos-vscode-scala,253,39,253,31,08/08/2016,08/06/2023,351.00 KB,351,,Scala,https://github.com/dragos/dragos-vscode-scala
+702,scalajs-angular,252,42,252,18,20/07/2014,18/01/2021,360.00 KB,360,AngularJS Binding for Scala.js,Scala,https://github.com/greencatsoft/scalajs-angular
+703,zio-magic,252,19,252,21,17/01/2021,22/01/2024,300.00 KB,300,Construct ZLayers automagically (w/ helpful compile-time errors),Scala,https://github.com/kitlangton/zio-magic
+704,contextual,251,23,251,5,24/11/2016,26/01/2025,4.77 MB,4886,Statically-checked string interpolation in Scala,Scala,https://github.com/propensive/contextual
+705,facto,251,2,251,5,16/03/2015,17/03/2025,6.84 MB,7005,Family Accounting Tool,Scala,https://github.com/nymanjens/facto
+706,spark-indexedrdd,251,78,251,21,10/12/2014,11/03/2017,103.00 KB,103,An efficient updatable key-value store for Apache Spark,Scala,https://github.com/amplab/spark-indexedrdd
+707,bazel-deps,251,121,251,102,15/06/2016,04/06/2024,979.00 KB,979,Generate bazel dependencies for maven artifacts ,Scala,https://github.com/bazeltools/bazel-deps
+708,scalismo,251,65,251,11,13/02/2015,24/06/2024,142.98 MB,146407,Scalable Image Analysis and Shape Modelling,Scala,https://github.com/unibas-gravis/scalismo
+709,scala-stm,251,41,251,9,08/07/2010,14/04/2023,9.05 MB,9264,"A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps",Scala,https://github.com/nbronson/scala-stm
+710,acyclic,251,35,251,10,16/02/2014,08/03/2025,506.00 KB,506,Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files,Scala,https://github.com/com-lihaoyi/acyclic
+711,Airstream,251,29,251,19,13/04/2018,20/03/2025,1.66 MB,1699,State propagation and event streams with mandatory ownership and no glitches,Scala,https://github.com/raquo/Airstream
+712,ScalaCL,250,20,250,16,12/02/2013,11/08/2015,8.70 MB,8909,ScalaCL - run Scala on your GPU!,Scala,https://github.com/nativelibs4java/ScalaCL
+713,s2graph,250,32,250,33,04/05/2015,25/03/2016,10.15 MB,10391,"This code base is retained for historical interest only, please visit Apache Incubator Repo for latest one ",Scala,https://github.com/kakao/s2graph
+714,play-mailer,250,74,250,19,29/10/2014,21/03/2025,996.00 KB,996,Play mailer plugin,Scala,https://github.com/playframework/play-mailer
+715,spark-libFM,250,119,250,15,20/04/2015,13/08/2018,46.00 KB,46,An implement of Factorization Machines (LibFM),Scala,https://github.com/zhengruifeng/spark-libFM
+716,chaos,249,36,249,12,25/06/2013,15/04/2019,232.00 KB,232,A lightweight framework for writing REST services in Scala.,Scala,https://github.com/d2iq-archive/chaos
+717,ScalaStorm,249,50,249,5,07/10/2011,06/09/2016,131.00 KB,131,Harness the power and elegance of Scala with nathanmarz's Storm real-time system,Scala,https://github.com/velvia/ScalaStorm
+718,Netflix-Recommender-with-Spark,249,107,249,3,23/04/2016,21/03/2017,792.00 KB,792,基于Apache Spark的Netflix电影的离线与实时推荐系统,Scala,https://github.com/LeechanX/Netflix-Recommender-with-Spark
+719,puck,249,29,249,1,18/04/2013,01/11/2014,80.38 MB,82313,Puck is a lightning-fast parser for natural languages using GPUs,Scala,https://github.com/dlwh/puck
+720,paradox,248,77,248,80,12/08/2016,10/03/2025,2.65 MB,2710,Markdown documentation,Scala,https://github.com/lightbend/paradox
+721,silk,247,61,247,60,13/02/2014,28/03/2025,95.58 MB,97872,Silk Linked Data Integration Framework,Scala,https://github.com/silk-framework/silk
+722,ScienceWorld,247,26,247,13,04/03/2022,16/10/2024,82.49 MB,84469,ScienceWorld is a text-based virtual environment centered around accomplishing tasks from the standardized elementary science curriculum.,Scala,https://github.com/allenai/ScienceWorld
+723,baysick,246,39,246,5,13/03/2009,30/04/2019,73.00 KB,73,An embedded Insane-specific Language for Scala implementing the BASIC programming language,Scala,https://github.com/fogus/baysick
+724,slick-joda-mapper,246,46,246,20,23/03/2013,05/02/2025,580.00 KB,580,Slick with JodaTime,Scala,https://github.com/tototoshi/slick-joda-mapper
+725,Apache-Kafka-poc-and-notes,246,93,246,1,05/08/2016,07/10/2019,22.30 MB,22836,,Scala,https://github.com/vaquarkhan/Apache-Kafka-poc-and-notes
+726,json-lenses,244,23,244,12,29/05/2012,03/01/2022,1.50 MB,1536,A library to query and update JSON data in Scala.,Scala,https://github.com/jrudolph/json-lenses
+727,cassie,244,39,244,10,12/01/2012,30/11/2012,15.53 MB,15904,A Scala client for Cassandra,Scala,https://github.com/twitter-archive/cassie
+728,scalania,244,120,244,7,30/06/2013,29/03/2018,3.68 MB,3764,Learn Scala by examples,Scala,https://github.com/jaceklaskowski/scalania
+729,ollie,244,75,244,19,06/07/2012,19/01/2018,3.39 MB,3468,Ollie is a open information extractor that uses bootstrapped dependency paths.,Scala,https://github.com/knowitall/ollie
+730,anorm,243,76,243,11,05/12/2014,17/03/2025,2.20 MB,2252,The Anorm database library,Scala,https://github.com/playframework/anorm
+731,kafka-exactly-once,243,87,243,4,25/12/2014,14/06/2018,2.18 MB,2235,,Scala,https://github.com/koeninger/kafka-exactly-once
+732,gimel,243,81,243,9,04/04/2018,18/12/2024,63.55 MB,65071,Big Data Processing Framework - Unified Data API or SQL on Any Storage,Scala,https://github.com/paypal/gimel
+733,evilplot,242,25,242,16,02/05/2018,31/10/2024,13.79 MB,14123,A Scala combinator-based plotting library.,Scala,https://github.com/cibotech/evilplot
+734,parametric-face-image-generator,242,40,242,1,07/12/2017,06/07/2021,7.47 MB,7648,Generate fully parametric face images from the Basel Face Model 2017,Scala,https://github.com/unibas-gravis/parametric-face-image-generator
+735,sangria-akka-http-example,242,100,242,2,27/07/2015,16/03/2025,223.00 KB,223,"An example GraphQL server written with akka-http, circe and sangria",Scala,https://github.com/sangria-graphql/sangria-akka-http-example
+736,cats-parse,241,54,241,27,30/10/2020,17/03/2025,5.50 MB,5635,A parsing library for the cats ecosystem,Scala,https://github.com/typelevel/cats-parse
+737,midonet,241,87,241,4,28/10/2014,27/12/2022,126.96 MB,130008,MidoNet is an Open Source network virtualization system for Openstack clouds,Scala,https://github.com/midonet/midonet
+738,akka-kryo-serialization,241,75,241,3,31/05/2012,07/01/2025,850.00 KB,850,Kryo-based serialization for Akka,Scala,https://github.com/altoo-ag/akka-kryo-serialization
+739,mbknor-jackson-jsonSchema,240,79,240,68,14/06/2016,05/04/2023,310.00 KB,310,Generate JSON Schema with Polymorphism using Jackson annotations,Scala,https://github.com/mbknor/mbknor-jackson-jsonSchema
+740,magnum,240,17,240,19,07/02/2023,23/03/2025,1.46 MB,1490,A 'new look' for database access in Scala,Scala,https://github.com/AugustNagro/magnum
+741,flink-streaming-demo,240,136,240,8,19/11/2015,09/08/2021,94.44 MB,96705,,Scala,https://github.com/dataArtisans/flink-streaming-demo
+742,hbase-connectors,240,179,240,11,31/07/2018,26/02/2025,1.07 MB,1095,Apache HBase Connectors,Scala,https://github.com/apache/hbase-connectors
+743,arrows,240,17,240,3,14/12/2017,17/09/2018,1.01 MB,1033,High-performance Arrow and Task in Scala,Scala,https://github.com/traneio/arrows
+744,sbt-crossproject,240,31,240,8,27/05/2016,23/10/2024,182.00 KB,182,Cross-platform compilation support for sbt.,Scala,https://github.com/portable-scala/sbt-crossproject
+745,spark-knn,239,110,239,22,09/09/2015,14/11/2023,567.00 KB,567,k-Nearest Neighbors algorithm on Spark,Scala,https://github.com/saurfang/spark-knn
+746,spark-bench,239,123,239,63,13/08/2015,12/04/2023,4.07 MB,4170,Benchmark Suite for Apache Spark,Scala,https://github.com/CODAIT/spark-bench
+747,isolation-forest,239,50,239,2,26/07/2019,27/03/2025,2.10 MB,2149,"A distributed Spark/Scala implementation of the isolation forest algorithm for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.",Scala,https://github.com/linkedin/isolation-forest
+748,reactive-microservices,239,62,239,3,09/04/2015,29/01/2021,422.00 KB,422,"Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem",Scala,https://github.com/theiterators/reactive-microservices
+749,scalacheck-shapeless,238,35,238,27,06/01/2015,12/08/2024,367.00 KB,367,Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless,Scala,https://github.com/alexarchambault/scalacheck-shapeless
+750,scalajs-bundler,238,101,238,100,21/09/2016,13/03/2025,4.11 MB,4208,,Scala,https://github.com/scalacenter/scalajs-bundler
+751,grafter,238,25,238,1,01/12/2016,17/01/2019,779.00 KB,779,Grafter is a library to configure and wire Scala applications,Scala,https://github.com/zalando/grafter
+752,zio-config,238,116,238,116,23/09/2019,15/03/2025,2.25 MB,2301,Easily use and document any config from anywhere in ZIO apps,Scala,https://github.com/zio/zio-config
+753,zio-sql,237,116,237,78,30/11/2019,20/08/2024,2.91 MB,2981,"Type-safe, composable SQL for ZIO applications",Scala,https://github.com/zio-archive/zio-sql
+754,renku,237,33,237,233,21/08/2017,28/03/2025,38.33 MB,39251,Renku provides a platform and tools for reproducible and collaborative data analysis.,Scala,https://github.com/SwissDataScienceCenter/renku
+755,seed,237,13,237,24,13/01/2019,11/12/2020,510.00 KB,510,Build tool for Scala projects,Scala,https://github.com/tindzk/seed
+756,functional-design,236,98,236,1,26/04/2020,30/07/2024,161.00 KB,161,Exercises for the course 'Functional Design by John A. De Goes,Scala,https://github.com/jdegoes/functional-design
+757,workbench,236,56,236,12,18/11/2013,01/08/2020,277.00 KB,277,Tooling around scala-js,Scala,https://github.com/lihaoyi/workbench
+758,sbt-native-packager-examples,236,55,236,4,16/02/2014,08/04/2020,1.94 MB,1987,A set of sbt-native-pakager examples,Scala,https://github.com/muuki88/sbt-native-packager-examples
+759,ReactiveMessagingPatterns_ActorModel,236,83,236,3,08/10/2015,16/11/2018,51.00 KB,51,"The examples for the book ""Reactive Messaging Patterns with the Actor Model""",Scala,https://github.com/VaughnVernon/ReactiveMessagingPatterns_ActorModel
+760,PPrint,236,40,236,34,12/05/2017,24/10/2024,1.63 MB,1666,"Pretty-printing value, types and type-signatures in Scala",Scala,https://github.com/com-lihaoyi/PPrint
+761,khronus,236,20,236,16,30/09/2014,05/06/2018,1.91 MB,1953,A reactive time series database,Scala,https://github.com/khronus/khronus
+762,scala-3-migration-guide,236,51,236,27,16/04/2020,12/10/2023,3.38 MB,3465,The Scala 3 migration guide for everyone.,Scala,https://github.com/scalacenter/scala-3-migration-guide
+763,azure-event-hubs-spark,235,176,235,80,04/09/2015,14/02/2025,20.03 MB,20507,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Scala,https://github.com/Azure/azure-event-hubs-spark
+764,scala,234,36,234,2,11/12/2010,12/10/2020,6.89 MB,7051,LascoDan(Korea Scala Group) scala study  ,Scala,https://github.com/codeport/scala
+765,dsptools,234,39,234,39,10/08/2016,29/04/2024,1.85 MB,1890,A Library of Chisel3 Tools for Digital Signal Processing,Scala,https://github.com/ucb-bar/dsptools
+766,sorm,234,35,234,30,04/05/2012,18/04/2017,3.92 MB,4017,A functional boilerplate-free Scala ORM,Scala,https://github.com/sorm/sorm
+767,scads,233,15,233,1,29/07/2016,10/08/2016,20.00 KB,20,Scala Algorithms and Data Structures,Scala,https://github.com/chrisokasaki/scads
+768,scala-ssh,233,52,233,19,28/10/2011,09/07/2021,459.00 KB,459,Remote shell access via SSH for your Scala applications,Scala,https://github.com/sirthias/scala-ssh
+769,ABRiS,233,76,233,20,30/04/2018,22/07/2024,988.00 KB,988,Avro SerDe for Apache Spark structured APIs.,Scala,https://github.com/AbsaOSS/ABRiS
+770,scala-js-ts-importer,233,43,233,15,23/07/2013,21/12/2021,177.00 KB,177,TypeScript Importer for Scala.js,Scala,https://github.com/sjrd/scala-js-ts-importer
+771,sbt-fresh,233,23,233,6,09/02/2016,13/08/2024,520.00 KB,520,sbt-plugin to create an opinionated fresh sbt project,Scala,https://github.com/sbt/sbt-fresh
+772,op-rabbit,233,73,233,40,11/05/2015,28/10/2021,654.00 KB,654,The Opinionated RabbitMQ Library for Scala and Akka,Scala,https://github.com/SpinGo/op-rabbit
+773,overwatch,233,68,233,142,12/03/2020,20/11/2024,38.50 MB,39426,Capture deep metrics on one or all assets within a Databricks workspace,Scala,https://github.com/databrickslabs/overwatch
+774,basel-face-pipeline,232,34,232,7,25/09/2017,25/10/2023,54.00 KB,54,,Scala,https://github.com/unibas-gravis/basel-face-pipeline
+775,dockerworker,231,45,231,4,18/12/2014,20/01/2020,12.06 MB,12351,"The new IronWorker workflow examples. Test locally, then upload and start queuing jobs!",Scala,https://github.com/iron-io/dockerworker
+776,zio-saga,231,21,231,0,17/05/2019,14/09/2023,456.00 KB,456,Purely Functional Transaction Management In Scala With ZIO,Scala,https://github.com/VladKopanev/zio-saga
+777,chiseltest,231,76,231,63,24/08/2018,19/08/2024,1.44 MB,1477,The batteries-included testing and formal verification library for Chisel-based RTL designs. ,Scala,https://github.com/ucb-bar/chiseltest
+778,mantis,231,75,231,9,12/12/2016,15/12/2021,22.28 MB,22812,A Scala based client for Ethereum-like Blockchains. ,Scala,https://github.com/input-output-hk/mantis
+779,pulsar4s,231,43,231,55,04/01/2018,27/08/2024,841.00 KB,841,"Idiomatic, typesafe, and reactive Scala client for Apache Pulsar",Scala,https://github.com/CleverCloud/pulsar4s
+780,sizegame,230,17,230,7,22/02/2023,27/08/2024,69.00 KB,69,Compare binary sizes of canonical Hello World in 18 different languages,Scala,https://github.com/MichalStrehovsky/sizegame
+781,borer,230,16,230,11,04/03/2019,15/03/2025,7.52 MB,7702,Efficient CBOR and JSON (de)serialization in Scala,Scala,https://github.com/sirthias/borer
+782,scala-abide,230,31,230,0,28/07/2014,16/10/2017,311.00 KB,311,obsolete; visit https://github.com/scalacenter/scalafix instead,Scala,https://github.com/scala/scala-abide
+783,Converter,229,47,229,76,21/08/2018,19/08/2024,18.16 MB,18593,Typescript to Scala.js converter,Scala,https://github.com/ScalablyTyped/Converter
+784,akka-rabbitmq,229,65,229,11,04/03/2013,07/01/2022,216.00 KB,216,RabbitMq client in Scala and Akka actors,Scala,https://github.com/ShellRechargeSolutionsEU/akka-rabbitmq
+785,github4s,229,75,229,30,07/03/2016,28/03/2025,8.10 MB,8297,A GitHub API wrapper written in Scala,Scala,https://github.com/47degrees/github4s
+786,fansi,229,26,229,25,26/05/2016,14/01/2025,1.88 MB,1925,Scala/Scala.js library for manipulating Fancy Ansi colored strings,Scala,https://github.com/com-lihaoyi/fansi
+787,bosatsu,228,11,228,123,19/10/2017,09/03/2025,182.34 MB,186718,A python-ish pure and total functional programming language,Scala,https://github.com/johnynek/bosatsu
+788,little-book-of-pipelines,228,55,228,0,16/01/2023,16/01/2023,71.00 KB,71,This repository goes over how to handle massive variety in data engineering,Scala,https://github.com/EcZachly/little-book-of-pipelines
+789,douban-recommender,228,116,228,2,28/03/2016,20/12/2017,6.23 MB,6380,基于Spark ML实现的豆瓣电影推荐系统,Scala,https://github.com/smallnest/douban-recommender
+790,cornichon,228,29,228,5,27/07/2015,17/03/2025,19.43 MB,19894,Testing tool in Scala for HTTP JSON API,Scala,https://github.com/agourlay/cornichon
+791,monadic-html,227,24,227,13,11/10/2016,13/11/2022,1.08 MB,1111,Tiny DOM binding library for Scala.js,Scala,https://github.com/OlivierBlanvillain/monadic-html
+792,spark-iforest,227,89,227,4,08/12/2017,15/10/2024,77.00 KB,77,Isolation Forest on Spark,Scala,https://github.com/titicaca/spark-iforest
+793,sjson,226,31,226,12,24/08/2009,08/02/2015,25.81 MB,26431,Scala Json with capabilities for Scala Object Serialization,Scala,https://github.com/debasishg/sjson
+794,play-ws,225,87,225,76,07/12/2016,17/03/2025,2.35 MB,2402,"Standalone Play WS, an async HTTP client with fluent API",Scala,https://github.com/playframework/play-ws
+795,qbeast-spark,225,21,225,32,23/09/2021,24/01/2025,38.22 MB,39136,"Qbeast-spark: DataSource enabling multi-dimensional indexing and efficient data sampling.  Big Data, free from the unnecessary!",Scala,https://github.com/Qbeast-io/qbeast-spark
+796,riscv-chisel-book,225,41,225,1,27/07/2021,20/03/2023,1.99 MB,2041,,Scala,https://github.com/chadyuu/riscv-chisel-book
+797,gu-who,225,56,225,26,31/01/2014,26/02/2025,545.00 KB,545,answering: who are all these users in my GitHub org?,Scala,https://github.com/guardian/gu-who
+798,akka-crdt,225,30,225,0,11/02/2013,21/03/2016,255.00 KB,255,Server-managed CRDTs based on Akka,Scala,https://github.com/jboner/akka-crdt
+799,EventStore.JVM,224,39,224,55,15/07/2013,17/06/2024,1.81 MB,1853,Event Store JVM Client ,Scala,https://github.com/kurrent-io/EventStore.JVM
+800,exodus,224,21,224,17,10/04/2019,18/09/2023,13.50 MB,13825,Easily migrate your JVM code from Maven to Bazel,Scala,https://github.com/wix-incubator/exodus
+801,akka-persistence-cassandra,224,60,224,12,26/12/2013,10/05/2017,444.00 KB,444,A replicated Akka Persistence journal backed by Apache Cassandra,Scala,https://github.com/krasserm/akka-persistence-cassandra
+802,ip4s,223,26,223,12,20/06/2018,19/01/2025,1.27 MB,1302,"Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types",Scala,https://github.com/Comcast/ip4s
+803,plotly-scala,223,48,223,54,26/08/2016,02/12/2024,1.56 MB,1598,Scala bindings for plotly.js,Scala,https://github.com/alexarchambault/plotly-scala
+804,courier,222,47,222,1,12/08/2013,03/01/2025,130.00 KB,130,send electronic mail with scala,Scala,https://github.com/dmurvihill/courier
+805,spark-snowflake,222,102,222,56,20/10/2015,03/12/2024,30.99 MB,31731,Snowflake Data Source for Apache Spark.,Scala,https://github.com/snowflakedb/spark-snowflake
+806,spark-monitoring,222,182,222,31,28/11/2018,16/10/2024,722.00 KB,722,Monitoring Azure Databricks jobs,Scala,https://github.com/mspnp/spark-monitoring
+807,spark-extension,221,27,221,18,27/02/2020,21/03/2025,1.12 MB,1150,A library that provides useful extensions to Apache Spark and PySpark.,Scala,https://github.com/G-Research/spark-extension
+808,drunken-data-quality,221,68,221,25,14/07/2015,28/02/2020,446.00 KB,446,Spark package for checking data quality,Scala,https://github.com/FRosner/drunken-data-quality
+809,Delite,220,43,220,12,03/09/2010,28/02/2017,163.87 MB,167798,The Delite Git Repo,Scala,https://github.com/stanford-ppl/Delite
+810,treelog,220,18,220,6,04/08/2013,24/01/2025,1.87 MB,1913,Allows logging in a tree structure so that comprehensive logging does not become incomprehensible,Scala,https://github.com/lancewalton/treelog
+811,neo4j-scala,220,71,220,5,14/03/2011,01/06/2017,272.00 KB,272,Scala wrapper for Neo4j Graph Database,Scala,https://github.com/FaKod/neo4j-scala
+812,ScalaBuff,219,80,219,41,26/05/2011,18/08/2017,1.47 MB,1501,the scala protocol buffers (protobuf) compiler,Scala,https://github.com/SandroGrzicic/ScalaBuff
+813,Scalaxy,219,6,219,12,07/04/2012,09/04/2015,14.71 MB,15067,Compiler plugin goodies for Scala (continuation of non-OpenCL part of ScalaCL),Scala,https://github.com/nativelibs4java/Scalaxy
+814,spray-websocket,219,52,219,7,22/01/2014,18/01/2016,4.66 MB,4771,WebSocket for spray-can,Scala,https://github.com/dcaoyuan/spray-websocket
+815,example-spark,218,136,218,2,24/02/2015,12/10/2016,100.00 KB,100,"Spark, Spark Streaming and Spark SQL unit testing strategies",Scala,https://github.com/mkuthan/example-spark
+816,zio-intellij,218,41,218,66,02/11/2019,21/01/2025,8.43 MB,8636,A companion IntelliJ IDEA plugin for the ZIO library ecosystem.,Scala,https://github.com/zio/zio-intellij
+817,scala-parallel-collections,217,30,217,11,16/12/2016,18/03/2025,1.19 MB,1218,Parallel collections standard library module for Scala 2.13+,Scala,https://github.com/scala/scala-parallel-collections
+818,querulous,217,57,217,17,05/02/2010,01/10/2010,690.00 KB,690,An agreeable way to talk to your database.,Scala,https://github.com/nkallen/querulous
+819,scalagen,217,32,217,21,18/12/2011,12/10/2018,870.00 KB,870,Java to Scala transformation,Scala,https://github.com/timowest/scalagen
+820,esmeta,216,17,216,5,06/01/2022,23/03/2025,31.11 MB,31860,ECMAScript Specification (ECMA-262) Metalanguage,Scala,https://github.com/es-meta/esmeta
+821,CodeSamples,216,90,216,6,19/10/2014,13/10/2020,127.00 KB,127,Code snippets appearing in the book are excerpts from these complete and tested samples.,Scala,https://github.com/ReactiveDesignPatterns/CodeSamples
+822,akka-data-replication,216,18,216,3,08/06/2014,30/09/2015,991.00 KB,991,Replication of CRDTs in Akka Cluster,Scala,https://github.com/patriknw/akka-data-replication
+823,zio-protoquill,216,51,216,58,01/03/2021,27/03/2025,30.70 MB,31433,Quill for Scala 3,Scala,https://github.com/zio/zio-protoquill
+824,trifecta,215,48,215,22,29/07/2014,22/11/2018,140.64 MB,144020,"Trifecta is a web-based and CLI tool that simplifies inspecting Kafka messages and Zookeeper data. Additionally, the CLI tool provides the capability to import/export data to/from ElasticSearch and MongoDB.",Scala,https://github.com/ldaniels528/trifecta
+825,flink-tensorflow,215,82,215,8,10/02/2017,16/12/2017,184.00 KB,184,flink-tensorflow - TensorFlow support for Apache Flink,Scala,https://github.com/FlinkML/flink-tensorflow
+826,reactive,215,39,215,42,27/05/2010,30/06/2024,2.71 MB,2772,A simple FRP library and a web UI framework built on it,Scala,https://github.com/nafg/reactive
+827,active-slick,214,21,214,8,27/01/2014,20/10/2022,348.00 KB,348,Slick extensions for record lifecycle management,Scala,https://github.com/strongtyped/active-slick
+828,ddd-leaven-akka,214,34,214,0,09/04/2014,05/01/2015,719.00 KB,719,Reactive DDD with Akka,Scala,https://github.com/pawelkaczor/ddd-leaven-akka
+829,twirl,214,20,214,4,06/02/2012,06/06/2014,534.00 KB,534,"The Play framework Scala template engine, stand-alone and packaged as an SBT plugin",Scala,https://github.com/spray/twirl
+830,learning-examples,214,105,214,8,04/10/2014,13/11/2023,1.19 MB,1217,Code examples for the book Learning Concurrent Programming in Scala,Scala,https://github.com/concurrent-programming-in-scala/learning-examples
+831,neotype,213,25,213,12,02/03/2023,27/03/2025,401.00 KB,401,A friendly newtype library for Scala 3,Scala,https://github.com/kitlangton/neotype
+832,youi,213,28,213,21,26/06/2012,23/03/2025,101.01 MB,103430,"Next generation user interface and application development in Scala and Scala.js for web, mobile, and desktop.",Scala,https://github.com/outr/youi
+833,scalasql,213,30,213,12,30/09/2023,28/03/2025,2.07 MB,2117,"Scala ORM to query SQL databases from Scala via concise, type-safe, and familiar case classes and collection operations. Connects to Postgres, MySql, H2, and Sqlite out of the box",Scala,https://github.com/com-lihaoyi/scalasql
+834,ckite,213,27,213,5,30/09/2013,08/01/2019,536.00 KB,536,CKite - A JVM implementation of the Raft distributed consensus algorithm written in Scala,Scala,https://github.com/pablosmedina/ckite
+835,scala-machines,212,24,212,4,17/08/2012,29/09/2016,167.00 KB,167,A stream processing library for Scala,Scala,https://github.com/runarorama/scala-machines
+836,play-auto-refresh,212,27,212,3,12/05/2013,10/03/2025,117.00 KB,117,,Scala,https://github.com/jamesward/play-auto-refresh
+837,tui-scala,212,11,212,15,04/12/2022,11/03/2024,475.00 KB,475,Beautiful Text-based User Interfaces for Scala,Scala,https://github.com/oyvindberg/tui-scala
+838,play-scala-rest-api-example,212,111,212,4,01/08/2016,23/04/2019,259.00 KB,259,Example Play Scala application showing REST API,Scala,https://github.com/playframework/play-scala-rest-api-example
+839,scheduler,212,38,212,7,05/08/2016,09/03/2022,488.00 KB,488,A Scala library for scheduling arbitrary code to run at an arbitrary time.,Scala,https://github.com/PagerDuty/scheduler
+840,sbt-scalafmt,212,45,212,3,10/06/2018,22/03/2025,466.00 KB,466,sbt plugin for Scalafmt,Scala,https://github.com/scalameta/sbt-scalafmt
+841,constructr,211,37,211,14,16/10/2015,12/03/2018,346.00 KB,346,"Coordinated (etcd, ...) cluster construction for dynamic (cloud, containers) environments",Scala,https://github.com/hseeberger/constructr
+842,lift,211,20,211,5,04/12/2016,25/02/2022,34.85 MB,35687,The Lift programming language and compiler,Scala,https://github.com/lift-project/lift
+843,apparat,211,53,211,2,23/01/2012,07/03/2013,5.63 MB,5764,"A framework to optmize ABC, SWC and SWF files.",Scala,https://github.com/joa/apparat
+844,spark2.0-examples,211,191,211,1,11/05/2016,11/08/2021,348.00 KB,348,Examples of Spark 2.0 ,Scala,https://github.com/phatak-dev/spark2.0-examples
+845,kafka-with-akka-streams-kafka-streams-tutorial,211,71,211,2,14/11/2017,30/05/2019,81.73 MB,83693,"Code samples for the Lightbend tutorial on writing microservices with Akka Streams, Kafka Streams, and Kafka",Scala,https://github.com/lightbend/kafka-with-akka-streams-kafka-streams-tutorial
+846,spark-rabbitmq,210,83,210,25,14/05/2015,27/11/2023,318.00 KB,318,RabbitMQ Spark Streaming receiver,Scala,https://github.com/Stratio/spark-rabbitmq
+847,spark-elastic,210,72,210,1,28/07/2014,08/11/2014,1.06 MB,1088,This project combines Apache Spark and Elasticsearch to enable mining & prediction for Elasticsearch.,Scala,https://github.com/skrusche63/spark-elastic
+848,XSQL,210,62,210,30,30/08/2019,05/12/2022,15.62 MB,15991,Unified SQL Analytics Engine Based on SparkSQL,Scala,https://github.com/Qihoo360/XSQL
+849,kraps-rpc,210,104,210,6,29/07/2017,13/03/2019,119.00 KB,119,A RPC framework leveraging Spark RPC module,Scala,https://github.com/neoremind/kraps-rpc
+850,dana,210,36,210,24,21/02/2016,23/01/2020,1.86 MB,1900,Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel,Scala,https://github.com/bu-icsg/dana
+851,libretto,209,7,209,58,15/04/2020,26/03/2025,16.27 MB,16665,Declarative concurrency and stream processing library for Scala,Scala,https://github.com/TomasMikula/libretto
+852,csv-validator,208,56,208,51,28/03/2013,24/03/2025,84.03 MB,86051,CSV Validation Tool and API (CSV Schema RI),Scala,https://github.com/digital-preservation/csv-validator
+853,CourseraCodeSamplesReactiveProgramming,208,97,208,0,24/11/2013,03/05/2015,305.00 KB,305,,Scala,https://github.com/headinthebox/CourseraCodeSamplesReactiveProgramming
+854,cloudformation-template-generator,208,68,208,18,02/07/2015,29/07/2022,13.03 MB,13338,A type-safe Scala DSL for generating CloudFormation templates,Scala,https://github.com/Bayer-Group/cloudformation-template-generator
+855,SparkMLlibDeepLearn,208,142,208,2,28/05/2015,03/08/2015,545.00 KB,545,SparkMLlibDeepLearn深度学习,Scala,https://github.com/sunbow1/SparkMLlibDeepLearn
+856,learningSpark,208,104,208,1,09/10/2019,21/06/2022,28.17 MB,28841,"学习spark写的scala代码，工具使用的是IDEA2017.1.6,欢迎star",Scala,https://github.com/daizikaikou/learningSpark
+857,creative-scala,208,65,208,33,06/02/2015,29/10/2024,44.66 MB,45728,"Quick, graphical, fun introduction to programming in Scala.",Scala,https://github.com/creativescala/creative-scala
+858,scala-collection-compat,207,88,207,31,16/03/2018,20/03/2025,1.16 MB,1189,"makes some Scala 2.13 APIs (primarily collections, also some others) available on 2.11 and 2.12, to aid cross-building",Scala,https://github.com/scala/scala-collection-compat
+859,CookIM,207,67,207,5,05/12/2016,12/02/2022,49.81 MB,51010,Distributed web chat application base websocket built on akka. ,Scala,https://github.com/cookeem/CookIM
+860,openai-scala-client,207,24,207,8,25/01/2023,27/03/2025,1.87 MB,1916,Scala client for OpenAI API and other major LLM providers,Scala,https://github.com/cequence-io/openai-scala-client
+861,bayes-scala,205,39,205,9,26/10/2012,10/11/2017,3.63 MB,3722,Bayesian Networks in Scala,Scala,https://github.com/danielkorzekwa/bayes-scala
+862,A-community-detect-System-based-on-GraphX,205,96,205,1,30/09/2015,23/12/2019,15.78 MB,16162,图计算和图存储在国内兴起于2012年，此项目为我的本科毕业设计，本人现在TOP厂商工作，工作要求不方便公开透露公司，曾研究图数据库2年，实验室数据库技术从2000年以前开始积累，对外低调，如有工作需要可以推荐！,Scala,https://github.com/cld378632668/A-community-detect-System-based-on-GraphX
+863,scaladex,205,79,205,85,26/04/2016,17/03/2025,102.33 MB,104783,The Scala Package Index,Scala,https://github.com/scalacenter/scaladex
+864,workbench-example-app,205,111,205,13,16/02/2014,13/01/2019,921.00 KB,921,An example application written in ScalaJS using scala-js-dom and scala-js-workbench,Scala,https://github.com/lihaoyi/workbench-example-app
+865,scalang,205,27,205,9,09/03/2011,10/02/2023,715.00 KB,715,Scalang is a scala wrapper that makes it easy to write services that interface with erlang.,Scala,https://github.com/boundary/scalang
+866,gbf-raidfinder,205,106,205,14,09/08/2016,16/05/2023,574.00 KB,574,Granblue Raid Finder (Archived: Granblue no longer has raid tweets),Scala,https://github.com/walfie/gbf-raidfinder
+867,lunatech-scala2-to-scala3-course,205,19,205,6,05/03/2020,15/06/2024,57.81 MB,59198,"Lunatech course - ""Moving forward from Scala 2 to Scala 3""",Scala,https://github.com/lunatech-labs/lunatech-scala2-to-scala3-course
+868,allaboutscala,205,137,205,0,11/06/2016,13/09/2020,388.00 KB,388,Source code for www.allaboutscala.com tutorials,Scala,https://github.com/nadimbahadoor/allaboutscala
+869,link-prediction,204,67,204,0,30/07/2012,31/07/2012,117.00 KB,117,Solution to Facebook's link prediction contest on Kaggle.,Scala,https://github.com/echen/link-prediction
+870,scala-redis-nb,204,38,204,35,07/07/2013,03/06/2018,456.00 KB,456,Implementation of a non blocking Redis client in Scala using Akka IO,Scala,https://github.com/debasishg/scala-redis-nb
+871,emm,204,18,204,9,20/12/2015,12/12/2016,159.00 KB,159,A general monad for managing stacking effects,Scala,https://github.com/djspiewak/emm
+872,jscala,204,25,204,7,15/07/2013,23/05/2020,429.00 KB,429,Scala macro that produces JavaScript from Scala code.,Scala,https://github.com/nau/jscala
+873,scala-design-patterns,203,33,203,0,23/10/2017,09/01/2019,750.00 KB,750,Design patterns implemented in Scala.,Scala,https://github.com/josephguan/scala-design-patterns
+874,shelldroid,202,51,202,4,29/05/2016,12/12/2016,21.29 MB,21805,Create Virtual Environment for your Android Apps,Scala,https://github.com/wuhx/shelldroid
+875,avrohugger,202,121,202,32,07/01/2015,17/02/2025,1.48 MB,1517,Generate Scala case class definitions from Avro schemas,Scala,https://github.com/julianpeeters/avrohugger
+876,Bigdata_project,202,72,202,3,23/10/2018,18/07/2023,251.00 KB,251,电商大数据项目-推荐系统(java和scala语言),Scala,https://github.com/asdud/Bigdata_project
+877,scrypto,202,49,202,4,22/12/2015,18/03/2025,2.21 MB,2266,Cryptographic primitives for Scala,Scala,https://github.com/input-output-hk/scrypto
+878,progfun-stats,202,57,202,0,12/12/2012,31/03/2014,941.00 KB,941,"Visualize statistics from the MOOC ""Functional Programming Principles in Scala"" using Scala!",Scala,https://github.com/heathermiller/progfun-stats
+879,stryker4s,201,37,201,31,20/06/2018,21/03/2025,3.11 MB,3188,Mutation testing for Scala,Scala,https://github.com/stryker-mutator/stryker4s
+880,akka-persistence-kafka,201,58,201,9,12/07/2014,13/02/2019,617.00 KB,617,A replicated Akka Persistence journal backed by Apache Kafka,Scala,https://github.com/krasserm/akka-persistence-kafka
+881,sbt-errors-summary,201,11,201,7,04/03/2017,09/04/2021,456.00 KB,456,sbt plugin to show a summary of compilation messages.,Scala,https://github.com/Duhemm/sbt-errors-summary
+882,play-salat,201,51,201,6,10/04/2012,25/01/2016,208.00 KB,208,MongoDB / Salat plugin for Play 2 [MOVED],Scala,https://github.com/leon/play-salat
+883,DynaML,201,51,201,25,16/02/2015,21/04/2023,220.45 MB,225741,Scala Library/REPL for Machine Learning Research,Scala,https://github.com/tailhq/DynaML
+884,scala-gopher,200,7,200,3,21/04/2013,26/08/2024,4.69 MB,4799,"Implementation of CSP constructions (Communication Sequence Process, i.e. go-like channels) in scala",Scala,https://github.com/rssh/scala-gopher
+885,sPDF,200,53,200,15,26/08/2013,24/04/2024,82.00 KB,82,Create PDFs from Scala using plain old HTML and CSS. Uses wkhtmltopdf on the back-end which renders HTML using Webkit.,Scala,https://github.com/cloudify/sPDF
+886,scala-server-toolkit,200,21,200,13,30/08/2019,19/03/2025,11.22 MB,11486,Functional programming toolkit for building server applications in Scala.,Scala,https://github.com/avast/scala-server-toolkit
+887,spark-scala-maven-2.4.0,200,85,200,2,14/12/2018,18/01/2019,12.20 MB,12488,Spark2.4.0 学习笔记分享,Scala,https://github.com/opensourceteams/spark-scala-maven-2.4.0
+888,Compute.scala,200,19,200,46,31/07/2017,19/08/2024,3.62 MB,3710,Scientific computing with N-dimensional arrays,Scala,https://github.com/ThoughtWorksInc/Compute.scala
+889,quiver,200,39,200,4,21/07/2015,19/10/2018,568.00 KB,568,A reasonable library for modeling multi-graphs in Scala,Scala,https://github.com/Verizon/quiver
+890,zio-keeper,199,41,199,40,08/07/2018,03/09/2024,624.00 KB,624,A ZIO library for building distributed systems,Scala,https://github.com/zio-archive/zio-keeper
+891,spark-streaming-with-kafka,199,125,199,1,02/09/2016,15/04/2018,152.00 KB,152,Self-contained examples of Apache Spark streaming integrated with Apache Kafka.,Scala,https://github.com/spirom/spark-streaming-with-kafka
+892,squid,199,14,199,17,08/03/2016,01/02/2024,4.43 MB,4538,Squid – type-safe metaprogramming and compilation framework for Scala,Scala,https://github.com/epfldata/squid
+893,collection-strawman,199,72,199,0,29/09/2016,20/02/2019,2.03 MB,2080,Implementation of the new Scala 2.13 Collections,Scala,https://github.com/scala/collection-strawman
+894,ocpp,199,65,199,7,01/08/2012,08/10/2021,2.63 MB,2691,Open Charge Point Protocol,Scala,https://github.com/ShellRechargeSolutionsEU/ocpp
+895,libra,198,23,198,25,01/03/2017,15/08/2024,2.64 MB,2707,A dimensional analysis library based on dependent types,Scala,https://github.com/to-ithaca/libra
+896,freek,198,19,198,16,17/05/2016,29/01/2017,150.00 KB,150,"Freek, a freaky simple Free to combine your DSL seamlessly",Scala,https://github.com/ProjectSeptemberInc/freek
+897,Spark-2.3.1,198,70,198,21,10/07/2018,05/12/2022,17.98 MB,18407,Spark-2.3.1源码解读,Scala,https://github.com/CrestOfWave/Spark-2.3.1
+898,online-auction-scala,198,126,198,13,08/12/2016,09/05/2019,1.19 MB,1217,,Scala,https://github.com/lagom/online-auction-scala
+899,pfps-examples,198,69,198,0,03/10/2019,06/07/2022,462.00 KB,462,":izakaya_lantern: Standalone examples shown in the book ""Practical FP in Scala: A hands-on approach""",Scala,https://github.com/gvolpe/pfps-examples
+900,parseback,197,22,197,13,04/01/2017,01/01/2020,244.00 KB,244,A Scala implementation of parsing with derivatives,Scala,https://github.com/djspiewak/parseback
+901,sbt-github-actions,197,59,197,38,06/02/2020,06/03/2025,1.89 MB,1938,An sbt plugin which makes it easier to build with GitHub Actions,Scala,https://github.com/sbt/sbt-github-actions
+902,goggles,196,7,196,25,24/01/2017,10/10/2020,169.00 KB,169,"Pleasant, yet principled Scala optics DSL",Scala,https://github.com/kenbot/goggles
+903,izanami,196,43,196,89,06/12/2017,27/03/2025,107.61 MB,110191,"Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",Scala,https://github.com/MAIF/izanami
+904,play-json-extensions,196,48,196,49,25/03/2015,14/02/2024,154.00 KB,154,+22 field case class formatter and more for play-json,Scala,https://github.com/bizzabo/play-json-extensions
+905,shapeless-3,196,24,196,6,22/05/2021,17/03/2025,643.00 KB,643,Generic programming for Scala,Scala,https://github.com/typelevel/shapeless-3
+906,remora,196,29,196,6,20/04/2017,29/09/2022,161.00 KB,161,"Kafka consumer lag-checking application for monitoring, written in Scala and Akka HTTP; a wrap around the Kafka consumer group command. Integrations with Cloudwatch and Datadog. Authentication recently added",Scala,https://github.com/zalando-incubator/remora
+907,spark-clickhouse-connector,196,71,196,47,22/05/2021,01/02/2025,2.46 MB,2519,Spark ClickHouse Connector build on DataSourceV2 API,Scala,https://github.com/ClickHouse/spark-clickhouse-connector
+908,AndroidDemoIn4Languages,195,20,195,1,21/01/2016,23/05/2017,330.00 KB,330,"Comparison among Java, Groovy, Scala, Kotlin in Android Development.",Scala,https://github.com/SidneyXu/AndroidDemoIn4Languages
+909,spark-hash,195,63,195,5,22/12/2014,01/11/2016,190.00 KB,190,Locality Sensitive Hashing for Apache Spark,Scala,https://github.com/mrsqueeze/spark-hash
+910,metarest,195,11,195,2,03/02/2015,01/06/2017,74.00 KB,74,Scala macros to generate RESTful Models,Scala,https://github.com/pathikrit/metarest
+911,sbt-web-scalajs,195,30,195,10,04/01/2015,10/10/2024,198.00 KB,198,SBT plugin to use Scala.js along with any sbt-web server.,Scala,https://github.com/vmunier/sbt-web-scalajs
+912,zio-workshop,195,82,195,2,06/02/2019,02/03/2022,2.26 MB,2313,Real World Functional Programming with ZIO,Scala,https://github.com/jdegoes/zio-workshop
+913,jamr,195,49,195,28,20/01/2014,20/02/2022,2.51 MB,2571,JAMR Parser and Generator,Scala,https://github.com/jflanigan/jamr
+914,Full-Stack-Scala-Starter,195,30,195,5,04/10/2016,14/09/2017,270.00 KB,270,"Play 2.5, ScalaJS, Binding.scala starter project.",Scala,https://github.com/Algomancer/Full-Stack-Scala-Starter
+915,play-scala-websocket-example,195,69,195,5,28/05/2013,23/04/2019,349.00 KB,349,Example Play Scala application showing WebSocket use with Akka actors,Scala,https://github.com/playframework/play-scala-websocket-example
+916,mainargs,195,25,195,30,14/11/2020,10/03/2025,330.00 KB,330,"A small, convenient, dependency-free library for command-line argument parsing in Scala",Scala,https://github.com/com-lihaoyi/mainargs
+917,chisel-lab,194,78,194,3,15/07/2019,27/03/2025,1.29 MB,1319,Lab exercises for Chisel in the digital electronics 2 course at DTU,Scala,https://github.com/schoeberl/chisel-lab
+918,fs2-aws,194,50,194,30,13/01/2018,01/03/2025,1.24 MB,1268,fs2 utilities to interact with AWS,Scala,https://github.com/laserdisc-io/fs2-aws
+919,scala-graal,194,4,194,16,03/11/2018,21/08/2024,1.32 MB,1351,Make usage of Graal features easy and safe from Scala. Also features Scala-based React SSR.,Scala,https://github.com/japgolly/scala-graal
+920,functional-effects,194,121,194,2,28/10/2019,29/06/2022,155.00 KB,155,The exercises for the Functional Effects workshop,Scala,https://github.com/jdegoes/functional-effects
+921,validation,192,35,192,3,11/03/2014,23/09/2019,2.09 MB,2140,validation api extracted from play,Scala,https://github.com/jto/validation
+922,parsley,192,22,192,19,16/05/2018,28/03/2025,124.31 MB,127290,A fast and modern parser combinator library for Scala,Scala,https://github.com/j-mie6/parsley
+923,Spark-The-Definitive-Guide-Chinese-Traslation-2019,192,34,192,2,21/02/2019,24/02/2020,2.72 MB,2789,Spark权威指南( Spark The Definitive Guide) -中文版翻译项目,Scala,https://github.com/Y1ran/Spark-The-Definitive-Guide-Chinese-Traslation-2019
+924,antimirov,192,6,192,6,16/05/2019,25/10/2021,908.00 KB,908,algebraic manipulation of regular expressions,Scala,https://github.com/non/antimirov
+925,scalafix-organize-imports,191,22,191,22,06/04/2020,14/07/2023,472.00 KB,472,A CI-friendly Scalafix semantic rule for organizing imports,Scala,https://github.com/liancheng/scalafix-organize-imports
+926,spline-spark-agent,191,99,191,66,02/01/2020,20/03/2025,2.57 MB,2632,Spline agent for Apache Spark,Scala,https://github.com/AbsaOSS/spline-spark-agent
+927,machinist,191,22,191,1,07/03/2014,17/12/2019,102.00 KB,102,Spire's macros for zero-cost operator enrichment,Scala,https://github.com/typelevel/machinist
+928,play-json-derived-codecs,191,35,191,19,28/11/2013,11/04/2024,135.00 KB,135,,Scala,https://github.com/julienrf/play-json-derived-codecs
+929,constellation,190,28,190,24,04/10/2021,10/03/2025,1.64 MB,1684,A Chisel RTL generator for network-on-chip interconnects,Scala,https://github.com/ucb-bar/constellation
+930,kafka-streams-scala,190,51,190,6,22/11/2017,25/05/2023,255.00 KB,255,Thin Scala wrapper around Kafka Streams Java API,Scala,https://github.com/lightbend/kafka-streams-scala
+931,cosplay,190,9,190,24,09/08/2021,26/12/2024,380.28 MB,389409,🕹 2D ASCII Game Engine for Scala3,Scala,https://github.com/nivanov/cosplay
+932,shapenet-viewer,189,25,189,16,14/12/2015,22/05/2019,346.00 KB,346,ShapeNet Viewer,Scala,https://github.com/ShapeNet/shapenet-viewer
+933,cats-effect-testing,189,42,189,23,26/06/2019,23/03/2025,792.00 KB,792,Integration between cats-effect and test frameworks,Scala,https://github.com/typelevel/cats-effect-testing
+934,random-data-generator,189,25,189,11,23/08/2016,29/07/2024,230.00 KB,230,Random generator of test data in Scala based on Scalacheck and Shapeless,Scala,https://github.com/DanielaSfregola/random-data-generator
+935,zio-nio,189,75,189,105,27/07/2019,20/08/2024,3.98 MB,4078,"A small, unopinionated ZIO interface to NIO.",Scala,https://github.com/zio-archive/zio-nio
+936,scala-json,188,41,188,4,29/03/2009,15/02/2012,272.00 KB,272,"Scala JSON toolkit. Originally from the Odersky ""Stairway"" Book, tightened up and tests added by Twitter, Inc.",Scala,https://github.com/stevej/scala-json
+937,squant,188,75,188,12,22/11/2016,29/04/2017,259.00 KB,259,SQuant是使用scala语言编写的量化开发工具箱，提供开箱即用的A股股票数据和外汇数据（docker镜像），以及高效的回测框架与交易模块。方便Java/Scala爱好者进行量化投资研究。 QQ群：281599099，微信公众号：Python量化交易实战。对，我已经转python了。。。,Scala,https://github.com/eryk/squant
+938,trace4cats,188,33,188,30,30/06/2020,20/01/2025,2.79 MB,2858,Distributed app tracing implementation in pure scala using cats-effect ,Scala,https://github.com/trace4cats/trace4cats
+939,paiges,188,30,188,16,27/03/2017,17/03/2025,780.00 KB,780,an implementation of Wadler's a prettier printer,Scala,https://github.com/typelevel/paiges
+940,expecty,188,24,188,3,20/03/2012,27/05/2018,692.00 KB,692,Power assertions (as known from Groovy and Spock) for the Scala language.,Scala,https://github.com/pniederw/expecty
+941,scala-typed-holes,187,17,187,6,04/12/2018,11/12/2024,186.00 KB,186,,Scala,https://github.com/cb372/scala-typed-holes
+942,scala-forklift,187,32,187,16,18/08/2015,19/08/2024,316.00 KB,316,"Type-safe data migration tool for Slick, Git and beyond.",Scala,https://github.com/lastland/scala-forklift
+943,slack-scala-client,187,105,187,24,21/04/2015,28/08/2024,713.00 KB,713,A scala library for interacting with the slack api and real time messaging interface,Scala,https://github.com/slack-scala-client/slack-scala-client
+944,Argus-SAF,187,53,187,36,10/06/2016,05/07/2023,176.07 MB,180291,Argus static analysis framework,Scala,https://github.com/arguslab/Argus-SAF
+945,mlscript,186,29,186,42,13/08/2021,21/03/2025,16.00 MB,16385,The MLscript programming language. Functional and object-oriented; structurally typed and sound; with powerful type inference. Soon to have full interop with TypeScript!,Scala,https://github.com/hkust-taco/mlscript
+946,ficus,186,65,186,7,19/04/2013,14/09/2021,169.00 KB,169,Scala-friendly companion to Typesafe config - moved to https://github.com/iheartradio/ficus,Scala,https://github.com/ceedubs/ficus
+947,txbits,186,168,186,8,16/09/2014,30/09/2017,5.07 MB,5192,DISCLAIMER: TxBits is not affiliated with any active exchanges. Use them at your own risk and beware of any that violate the AGPL license terms by not releasing their source code as required.,Scala,https://github.com/txbits/txbits
+948,riscv-torture,186,50,186,14,26/01/2012,11/07/2024,3.52 MB,3607,RISC-V Torture Test,Scala,https://github.com/ucb-bar/riscv-torture
+949,dl_accelerator,186,32,186,6,10/01/2020,25/06/2020,5.91 MB,6056,Deep Learning Accelerator Based on Eyeriss V2 Architecture with custom RISC-V extended instructions,Scala,https://github.com/SingularityKChen/dl_accelerator
+950,sbt-header,186,57,186,23,05/02/2015,13/08/2024,1.40 MB,1432,"sbt-header is an sbt plugin for creating file headers, e.g. copyright headers",Scala,https://github.com/sbt/sbt-header
+951,lookup,186,39,186,18,28/11/2012,02/08/2021,1.02 MB,1040,Outputs a list of ranked DBpedia resources for a search string.,Scala,https://github.com/dbpedia/lookup
+952,todo-http4s-doobie,186,44,186,0,26/12/2017,27/12/2024,49.00 KB,49,"A sample project of a microservice using http4s, doobie, and circe.",Scala,https://github.com/jaspervz/todo-http4s-doobie
+953,mockedstreams,186,24,186,7,25/09/2016,16/01/2021,20.52 MB,21016,Scala DSL for Unit-Testing Processing Topologies in Kafka Streams,Scala,https://github.com/jpzk/mockedstreams
+954,berkeley-entity,185,34,185,10,18/10/2014,07/12/2019,27.40 MB,28062,"The Berkeley Entity Resolution System jointly solves the problems of named entity recognition, coreference resolution, and entity linking with a feature-rich discriminative model.",Scala,https://github.com/gregdurrett/berkeley-entity
+955,feral,185,46,185,58,16/08/2021,24/03/2025,906.00 KB,906,"Feral cats are homeless, feral functions are serverless",Scala,https://github.com/typelevel/feral
+956,Hasher,185,40,185,7,29/11/2011,04/07/2019,153.00 KB,153,"A small Scala library for easily generating hashes (md5, sha1, sha256, sha512, crc32, bcrypt, hmacs, pbkdf2)",Scala,https://github.com/Nycto/Hasher
+957,abandon,185,25,185,34,28/05/2013,09/03/2025,1.31 MB,1337,:relieved: Simple and Robust Accounting,Scala,https://github.com/hrj/abandon
+958,nyaya,185,19,185,27,10/01/2015,12/08/2024,593.00 KB,593,Random Data Generation and/or Property Testing in Scala & Scala.JS.,Scala,https://github.com/japgolly/nyaya
+959,spark-alchemy,185,34,185,2,03/08/2018,12/02/2023,1.25 MB,1283,Collection of open-source Spark tools & frameworks that have made the data engineering and data science teams at Swoop highly productive,Scala,https://github.com/swoop-inc/spark-alchemy
+960,eventsourced-example,185,30,185,0,09/08/2012,21/08/2013,709.00 KB,709,A Scala web application demonstrating event-sourcing best practices,Scala,https://github.com/eligosource/eventsourced-example
+961,sup,185,27,185,25,19/12/2018,03/09/2024,1.90 MB,1943,"Composable, purely functional healthchecks in Scala.",Scala,https://github.com/kubukoz/sup
+962,akka-kafka,185,62,185,16,19/04/2014,27/10/2016,129.00 KB,129,,Scala,https://github.com/sclasen/akka-kafka
+963,derevo,184,40,184,4,01/07/2018,04/03/2025,573.00 KB,573,Multiple instance derivations inside a single macro annotation,Scala,https://github.com/tofu-tf/derevo
+964,sbt-doctest,184,28,184,15,10/06/2014,20/03/2025,662.00 KB,662,Doctest for scala,Scala,https://github.com/sbt-doctest/sbt-doctest
+965,lnglat2Geo,184,77,184,9,19/08/2019,13/10/2020,149.17 MB,152750,经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。,Scala,https://github.com/deng0515001/lnglat2Geo
+966,reactive-rabbit,184,40,184,9,08/10/2014,20/08/2020,209.00 KB,209,Reactive Streams driver for AMQP protocol. Powered by RabbitMQ library.,Scala,https://github.com/ScalaConsultants/reactive-rabbit
+967,Structures,184,15,184,0,21/01/2015,13/03/2015,534.00 KB,534,Functional type classes for Scala,Scala,https://github.com/mpilquist/Structures
+968,dotty-cps-async,184,23,184,2,01/01/2020,12/03/2025,17.09 MB,17504,experimental CPS transformer for dotty,Scala,https://github.com/dotty-cps-async/dotty-cps-async
+969,nine-cards-v2,184,20,184,0,03/03/2015,20/03/2019,51.63 MB,52871,An Open Source Android Launcher built with Scala on Android,Scala,https://github.com/xebia-functional/nine-cards-v2
+970,Spark-Structured-Streaming-Examples,183,78,183,5,15/06/2017,07/02/2023,16.86 MB,17267,Spark Structured Streaming / Kafka / Cassandra / Elastic ,Scala,https://github.com/polomarcus/Spark-Structured-Streaming-Examples
+971,iteratee,183,17,183,40,09/09/2015,15/08/2024,4.27 MB,4375,Iteratees for Cats,Scala,https://github.com/travisbrown/iteratee
+972,dijon,183,13,183,17,10/03/2014,13/08/2024,36.38 MB,37250,A Dynamically Typed Scala Json Library,Scala,https://github.com/jvican/dijon
+973,dbscan-on-spark,183,58,183,11,15/03/2015,10/01/2018,114.00 KB,114,An implementation of DBSCAN runing on top of Apache Spark,Scala,https://github.com/irvingc/dbscan-on-spark
+974,knobs,183,53,183,9,01/06/2015,12/09/2019,383.00 KB,383,A reasonable configuration library for Scala,Scala,https://github.com/Verizon/knobs
+975,lojinha,182,57,182,34,17/05/2012,05/02/2021,503.00 KB,503,"A small store application, developed using Play 2 and Akka 2. At least temporary archived, get in touch if you want to contribute and I'll gladly un-archive it.",Scala,https://github.com/jcranky/lojinha
+976,sifive-blocks,182,80,182,16,24/11/2016,13/05/2022,624.00 KB,624,Common RTL blocks used in SiFive's projects,Scala,https://github.com/sifive/sifive-blocks
+977,opaque-sql,182,73,182,22,31/10/2016,29/03/2023,18.48 MB,18925,An encrypted data analytics platform,Scala,https://github.com/mc2-project/opaque-sql
+978,sbt-dotenv,182,20,182,5,19/07/2014,17/03/2025,368.00 KB,368,⏺️ Dotenv implementation for Scala sbt builds. Configures environment for local development.,Scala,https://github.com/Philippus/sbt-dotenv
+979,smoke,182,20,182,9,08/05/2012,11/02/2016,694.00 KB,694,"Simple, asynchronous HTTP using Scala.",Scala,https://github.com/mDialog/smoke
+980,spoiwo,182,45,182,11,05/01/2014,18/09/2022,10.16 MB,10404,Scala POI Wrapper for the spreadsheet generation in Excel:,Scala,https://github.com/norbert-radyk/spoiwo
+981,rapture,182,39,182,63,07/05/2014,10/01/2018,1.83 MB,1872,Rapture,Scala,https://github.com/propensive/rapture
+982,otel4s,182,40,182,19,09/05/2022,28/03/2025,5.69 MB,5828,An OpenTelemetry library for Scala based on Cats-Effect,Scala,https://github.com/typelevel/otel4s
+983,scala-koans,181,60,181,2,09/09/2010,20/01/2012,27.66 MB,28327,The Scala Koans,Scala,https://github.com/lamdor/scala-koans
+984,setl,181,32,181,5,20/12/2019,27/02/2025,1.37 MB,1406,A simple Spark-powered ETL framework that just works 🍺,Scala,https://github.com/SETL-Framework/setl
+985,scala-webapp-template,181,43,181,36,04/07/2021,04/11/2024,5.22 MB,5346,"A pragmatic skeleton to build web applications in Scala/Scala.js, including user registration, login, admin portal, and, deployments",Scala,https://github.com/wiringbits/scala-webapp-template
+986,sparkstreaming,180,83,180,0,21/04/2017,15/04/2021,264.00 KB,264,:boom: :rocket:  封装sparkstreaming动态调节batch time(有数据就执行计算)；:rocket:  支持运行过程中增删topic；:rocket:  封装sparkstreaming 1.6 - kafka 010 用以支持 SSL。,Scala,https://github.com/LinMingQiang/sparkstreaming
+987,spark-metrics,180,67,180,16,19/02/2018,02/08/2022,26.86 MB,27504,Spark metrics related custom classes and sinks (e.g. Prometheus),Scala,https://github.com/banzaicloud/spark-metrics
+988,zio-logging,180,81,180,12,09/09/2019,17/03/2025,2.54 MB,2599,"Powerful logging for ZIO 2.0 applications, with compatibility with many logging backends out-of-the-box.",Scala,https://github.com/zio/zio-logging
+989,ascii-graphs,181,37,181,6,14/06/2012,09/10/2018,377.00 KB,377,Parse ASCII art diagrams of graphs (nodes and edges),Scala,https://github.com/mdr/ascii-graphs
+990,grackle,180,28,180,25,09/09/2019,24/03/2025,3.38 MB,3463,Grackle: Functional GraphQL for the Typelevel stack,Scala,https://github.com/typelevel/grackle
+991,akka-dddd-template,180,50,180,1,25/02/2015,21/10/2016,240.00 KB,240,Akka DDDD template using CQRS/ES with a Distributed Domain,Scala,https://github.com/boldradius/akka-dddd-template
+992,canoe,179,38,179,39,09/06/2019,03/09/2024,849.00 KB,849,Functional Telegram Bot API for Scala ,Scala,https://github.com/augustjune/canoe
+993,akka-sse,179,30,179,1,15/11/2014,23/06/2017,444.00 KB,444,"Akka HTTP now includes Akka SSE, this project is at EOL",Scala,https://github.com/hseeberger/akka-sse
+994,sbt-bintray,179,53,179,0,17/06/2013,27/02/2021,314.00 KB,314,fresh packages delivered from your sbt console,Scala,https://github.com/sbt/sbt-bintray
+995,minitest,179,34,179,12,16/12/2014,12/08/2024,804.00 KB,804,The super light testing library for Scala and Scala.js,Scala,https://github.com/monix/minitest
+996,dbpedia-spotlight-model,180,44,180,46,31/05/2017,22/03/2023,398.00 KB,398,DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. Improving Efficiency and Accuracy in Multilingual Entity Extraction approach,Scala,https://github.com/dbpedia-spotlight/dbpedia-spotlight-model
+997,reactive-web-applications,179,65,179,3,21/01/2015,22/09/2016,1.75 MB,1788,Sources of the sample applications of the Reactive Web Application book,Scala,https://github.com/manuelbernhardt/reactive-web-applications
+998,scuruto,179,19,179,7,09/11/2016,15/07/2020,13.71 MB,14040,An internal knowledge sharing app,Scala,https://github.com/atware/scuruto
+999,tapl-scala,179,22,179,7,03/02/2012,22/10/2021,662.00 KB,662,"Code from the book ""Types and Programming Languages"" in Scala",Scala,https://github.com/ilya-klyuchnikov/tapl-scala
+1000,sbt-docker-compose,178,36,178,18,22/01/2016,23/09/2022,741.00 KB,741,Integrates Docker Compose functionality into sbt (archived as unmaintained),Scala,https://github.com/Tapad/sbt-docker-compose

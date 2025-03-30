@@ -1,0 +1,11 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,shellcheck,37142,1800,37142,1110,17/11/2012,14/12/2024,5.26 MB,5382,"ShellCheck, a static analysis tool for shell scripts",Haskell,https://github.com/koalaman/shellcheck
+2,pandoc,36593,3470,36593,1112,20/03/2010,28/03/2025,65.34 MB,66908,Universal markup converter,Haskell,https://github.com/jgm/pandoc
+3,postgrest,25042,1071,25042,310,13/06/2014,28/03/2025,12.12 MB,12409,REST API for any Postgres database,Haskell,https://github.com/PostgREST/postgrest
+4,hadolint,10796,438,10796,231,15/11/2015,24/03/2025,3.79 MB,3882,"Dockerfile linter, validate inline bash, written in Haskell",Haskell,https://github.com/hadolint/hadolint
+5,semantic,9027,453,9027,116,15/03/2019,24/07/2024,33.70 MB,34508,"Parsing, analyzing, and comparing source code across many languages",Haskell,https://github.com/github/semantic
+6,purescript,8678,566,8678,305,30/09/2013,20/02/2025,13.36 MB,13682,A strongly-typed language that compiles to JavaScript,Haskell,https://github.com/purescript/purescript
+7,compiler,7617,659,7617,344,19/04/2012,17/07/2024,9.65 MB,9877,"Compiler for Elm, a functional language for reliable webapps.",Haskell,https://github.com/elm/compiler
+8,unison,5960,274,5960,1136,06/05/2015,28/03/2025,128.88 MB,131968,A friendly programming language from the future,Haskell,https://github.com/unisonweb/unison
+9,Carp,5632,173,5632,146,11/01/2016,26/11/2024,11.70 MB,11981,"A statically typed lisp, without a GC, for real-time applications.",Haskell,https://github.com/carp-lang/Carp
+10,ihp,5022,202,5022,267,03/12/2017,26/03/2025,54.64 MB,55949,🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,Haskell,https://github.com/digitallyinduced/ihp
