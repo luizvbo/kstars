@@ -1,13 +1,10 @@
-// FILE: ./js/language-page.js
-
 document.addEventListener('DOMContentLoaded', () => {
     const languageContentDiv = document.getElementById('language-content');
     const loadingMessage = document.getElementById('loading-message');
     const languageTitle = document.getElementById('language-title');
     const themeToggle = document.getElementById('themeToggle');
 
-    // --- Helper Function to Create Table (similar to main.js) ---
-    // Note: Could be moved to a shared utility file in a larger project
+    // Helper Function to Create Table (similar to main.js)
     function createTable(data, fullTable = false) {
         const table = document.createElement("table");
         table.setAttribute("data-sortable", ""); // Enable sortable.js
@@ -70,8 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.title = pageTitle;
 
     // --- Construct CSV Path and Load Data ---
-    // Assumes full CSVs are in data/processed/ and named like 'Python.csv', 'C++.csv'
-    // Adjust path relative to the 'pages' directory where language.html resides
+    // Full CSVs are loaded from data/processed/ and named like 'Python.csv', 'C++.csv'
     const csvPath = `../data/processed/${language}.csv`;
 
     Papa.parse(csvPath, {

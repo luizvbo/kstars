@@ -1,6 +1,3 @@
-// FILE: ./js/main.js
-// ... (keep existing code above loadCSV) ...
-
 // Function to load a CSV file and add its table to the page.
 function loadCSV(language, folder, prefix) {
   Papa.parse(`${folder}/${prefix}${language}.csv`, {
@@ -18,7 +15,6 @@ function loadCSV(language, folder, prefix) {
       h2.textContent = language;
       headerDiv.appendChild(h2);
 
-      // --- MODIFIED LINK ---
       // Create a link to the new single language page, passing the language as a query parameter.
       const link = document.createElement("a");
       // Use encodeURIComponent for languages like 'C++' or 'Vim script'
@@ -201,7 +197,3 @@ let loadedLanguagesCount = 0; // Ensure this is defined
 
 // Load each language’s top-10 CSV.
 languages.forEach((language) => loadCSV(language, "data/processed", "top10_"));
-
-// Initialize Sortable.js after the initial tables might be loaded.
-// The check inside loadCSV ensures it runs only once after all attempts.
-// document.addEventListener('DOMContentLoaded', () => { Sortable.init() }); // This might run too early, the check in loadCSV is safer.
