@@ -161,3 +161,28 @@ table[data-sortable] th[data-sorted-direction="descending"]:after {
   font-size: 0.8rem;
 }
 
+.language-links {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(150px, 1fr)
+  ); /* Dynamic columns */
+  gap: 10px;
+  padding: 20px;
+}
+
+.language-links a {
+  display: block;
+  text-decoration: none;
+  padding: 8px;
+  background: var(--link-bg);
+  color: var(--link-color);
+  border-radius: 5px;
+  text-align: center;
+  transition: 0.3s ease-in-out;
+}
+
+.language-links a:hover {
+  background: var(--link-hover-bg);
+  color: var(--link-hover-color);
+}

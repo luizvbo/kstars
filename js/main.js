@@ -6,10 +6,11 @@ function loadCSV(language, folder, prefix) {
     complete: function (results) {
       const sectionDiv = document.createElement("div");
       sectionDiv.classList.add("language-section");
+      sectionDiv.id = language[0]; // Add ID for linking
 
       const headerDiv = document.createElement("div");
       headerDiv.classList.add("language-header");
-      
+
       const h2 = document.createElement("h2");
       h2.textContent = language[1];
       headerDiv.appendChild(h2);
@@ -19,7 +20,7 @@ function loadCSV(language, folder, prefix) {
       link.textContent = "View full list (Top 1000)";
       link.classList.add("cta-link");
       headerDiv.appendChild(link);
-      
+
       sectionDiv.appendChild(headerDiv);
 
       if (results.data && results.data.length > 1) {
@@ -32,7 +33,7 @@ function loadCSV(language, folder, prefix) {
       }
 
       contentDiv.appendChild(sectionDiv);
-      
+
       loadedLanguagesCount++;
       if (loadedLanguagesCount === languages.length) {
         Sortable.init();
