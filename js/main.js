@@ -1,64 +1,43 @@
 // Function to load a CSV file and add its table to the page.
 function loadCSV(language, folder, prefix) {
   Papa.parse(`${folder}/${prefix}${language[0]}.csv`, {
-    // Use template literal for clarity
     download: true,
     skipEmptyLines: "greedy",
     complete: function (results) {
       const sectionDiv = document.createElement("div");
       sectionDiv.classList.add("language-section");
 
-      // Create header for the language section.
       const headerDiv = document.createElement("div");
       headerDiv.classList.add("language-header");
+      
       const h2 = document.createElement("h2");
       h2.textContent = language[1];
       headerDiv.appendChild(h2);
 
-      // Create a link to the new single language page, passing the language as a query parameter.
       const link = document.createElement("a");
-      // Use encodeURIComponent for languages like 'C++' or 'Vim script'
       link.href = `pages/language.html?lang=${encodeURIComponent(language[0])}`;
-      link.textContent = "View full list (Top 1000)"; // Update link text slightly
+      link.textContent = "View full list (Top 1000)";
+      link.classList.add("cta-link");
       headerDiv.appendChild(link);
-      // --- END MODIFIED LINK ---
-
+      
       sectionDiv.appendChild(headerDiv);
 
-      // Create and append the table (only top 10 for index page).
       if (results.data && results.data.length > 1) {
-        // Pass the createTable function from this file (assuming it's defined here)
-        const table = createTable(results.data); // createTable needs to be defined/accessible here
+        const table = createTable(results.data);
         sectionDiv.appendChild(table);
       } else {
         sectionDiv.appendChild(
-          document.createTextNode("Could not load preview data."),
+          document.createTextNode("Could not load preview data.")
         );
-        console.error(`No data or only header found for ${language[1]} preview.`);
       }
 
       contentDiv.appendChild(sectionDiv);
-
-      // Increment the counter and check if all languages are loaded.
-      loadedLanguagesCount++;
-      if (loadedLanguagesCount === languages.length) {
-        Sortable.init(); // Initialize sortable for all preview tables
-      }
-    },
-    error: function (err) {
-      console.error(`Error loading CSV for ${language[1]} preview:`, err);
-      // Display error in the section
-      const sectionDiv = document.createElement("div");
-      sectionDiv.classList.add("language-section");
-      sectionDiv.innerHTML = `<h2>${language[1]}</h2><p>Error loading preview data.</p>`;
-      contentDiv.appendChild(sectionDiv);
-
-      // Even if there's an error, increment count to eventually init Sortable
+      
       loadedLanguagesCount++;
       if (loadedLanguagesCount === languages.length) {
         Sortable.init();
       }
-    },
+    }
   });
 }
 
@@ -67,91 +46,68 @@ function loadCSV(language, folder, prefix) {
 function createTable(data) {
   const table = document.createElement("table");
   table.setAttribute("data-sortable", "");
-  // Add theme classes based on current body class
-  if (document.body.classList.contains("dark")) {
-    table.classList.add("dark", "sortable-theme-dark");
-  } else {
-    table.classList.add("sortable-theme-light");
-  }
+  table.classList.add(document.body.classList.contains("dark") ? "sortable-theme-dark" : "sortable-theme-light");
 
-  // Create table header.
   const thead = document.createElement("thead");
   const headerRow = document.createElement("tr");
-  // Check if data[0] exists before iterating
+
   if (data && data[0]) {
-    data[0].forEach((col) => {
+    data[0].forEach((col, index) => {
       const th = document.createElement("th");
       th.textContent = col;
+      th.setAttribute("data-index", index);
       headerRow.appendChild(th);
     });
   }
   thead.appendChild(headerRow);
   table.appendChild(thead);
 
-  // Create table body.
   const tbody = document.createElement("tbody");
-  // Iterate up to data.length - 1 to potentially skip trailing empty line from PapaParse
-  const endRow =
-    data.length > 1 &&
-    data[data.length - 1].length === 1 &&
-    data[data.length - 1][0] === ""
-      ? data.length - 1
-      : data.length;
-  // Limit rows to 11 (1 header + 10 data) for the index page preview
-  const maxRows = Math.min(endRow, 11);
-  // Start from index 1 to skip header row.
-  for (let i = 1; i < maxRows; i++) {
-    // Use maxRows here
+  for (let i = 1; i < Math.min(data.length, 11); i++) {
     const row = document.createElement("tr");
-    if (data[i]) {
-      // Check if row data exists
-      data[i].forEach((cell) => {
-        const td = document.createElement("td");
-        td.textContent = cell;
-        row.appendChild(td);
-      });
-      tbody.appendChild(row);
-    }
+    data[i].forEach((cell) => {
+      const td = document.createElement("td");
+      td.textContent = cell;
+      td.style.overflowWrap = "break-word";
+      row.appendChild(td);
+    });
+    tbody.appendChild(row);
   }
   table.appendChild(tbody);
   return table;
 }
 
-// --- Theme Toggle Functionality (ensure it applies theme to tables correctly) ---
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("table[data-sortable] th").forEach(th => {
+    th.addEventListener("click", function () {
+      const sortedAsc = this.getAttribute("data-sorted-direction") === "ascending";
+      document.querySelectorAll("th").forEach(th => th.removeAttribute("data-sorted"));
+      this.setAttribute("data-sorted", "true");
+      this.setAttribute("data-sorted-direction", sortedAsc ? "descending" : "ascending");
+    });
+  });
+});
+
+// Theme Toggle
 const themeToggle = document.getElementById("themeToggle");
+const themeIcon = document.getElementById("themeIcon");
 
 function applyTheme(isDark) {
-  if (isDark) {
-    document.body.classList.add("dark");
-    // Apply dark theme to existing and future tables
-    document.querySelectorAll("table[data-sortable]").forEach((table) => {
-      table.classList.remove("sortable-theme-light");
-      table.classList.add("dark", "sortable-theme-dark");
-    });
-    document.querySelector("header")?.classList.add("dark");
-  } else {
-    document.body.classList.remove("dark");
-    // Apply light theme to existing and future tables
-    document.querySelectorAll("table[data-sortable]").forEach((table) => {
-      table.classList.remove("dark", "sortable-theme-dark");
-      table.classList.add("sortable-theme-light");
-    });
-    document.querySelector("header")?.classList.remove("dark");
-  }
+  document.body.classList.toggle("dark", isDark);
+  document.querySelectorAll("table[data-sortable]").forEach(table => {
+    table.classList.toggle("sortable-theme-dark", isDark);
+    table.classList.toggle("sortable-theme-light", !isDark);
+  });
+  themeIcon.textContent = isDark ? "☀️" : "🌙";
 }
 
-// Check localStorage for saved theme preference on initial load
 const savedTheme = localStorage.getItem("theme");
-const prefersDark =
-  window.matchMedia &&
-  window.matchMedia("(prefers-color-scheme: dark)").matches;
-applyTheme(savedTheme === "dark" || (!savedTheme && prefersDark));
+applyTheme(savedTheme === "dark");
 
 themeToggle.addEventListener("click", function () {
-  const isDark = document.body.classList.toggle("dark");
-  applyTheme(isDark);
-  // Save preference
-  localStorage.setItem("theme", isDark ? "dark" : "light");
+  const isDark = document.body.classList.contains("dark");
+  applyTheme(!isDark);
+  localStorage.setItem("theme", !isDark ? "dark" : "light");
 });
 
 // Ensure languages array is defined before this loop
