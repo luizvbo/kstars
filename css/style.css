@@ -1,197 +1,163 @@
-/* Base styles */
+/* General Styles */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
-  color: #333;
+  font-family: "Inter", sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
   margin: 0;
   padding: 0;
+  line-height: 1.6;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
+
 body.dark {
-  background-color: #121212;
+  background-color: #1e1e2e;
   color: #e0e0e0;
 }
+
 header {
   background-color: #007acc;
   color: white;
   padding: 1rem;
   display: flex;
-  align-items: center;
   justify-content: space-between;
-}
-header.dark {
-  background-color: #333;
-}
-.container {
-  max-width: 1200px;
-  margin: auto;
-  padding: 1rem;
-}
-h1,
-h2 {
-  margin: 0;
-}
-/* Table styles */
-table {
+  align-items: center;
+  position: sticky;
+  top: 0;
   width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 2rem;
-}
-th,
-td {
-  padding: 0.5rem;
-  border: 1px solid #ccc;
-  text-align: left;
-}
-th {
-  cursor: pointer;
-  background-color: #eaeaea;
-}
-body.dark th {
-  background-color: #444;
-}
-/* Language section header */
-.language-section {
-  margin-bottom: 2rem;
-}
-.language-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 0.5rem;
-}
-.toggle-button {
-  background: none;
-  border: 1px solid white;
-  color: white;
-  padding: 0.5rem 1rem;
-  cursor: pointer;
-  border-radius: 4px;
-}
-.toggle-button:hover {
-  background: rgba(255, 255, 255, 0.2);
-}
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-table[data-sortable].dark {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-table[data-sortable].dark th {
-  vertical-align: bottom;
-  font-weight: bold;
-}
-table[data-sortable].dark th,
-table[data-sortable].dark td {
-  text-align: left;
-  padding: 10px;
-}
-table[data-sortable].dark th:not([data-sortable="false"]) {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  -webkit-touch-callout: none;
-  cursor: pointer;
-}
-table[data-sortable].dark th:after {
-  content: "";
-  visibility: hidden;
-  display: inline-block;
-  vertical-align: inherit;
-  height: 0;
-  width: 0;
-  border-width: 5px;
-  border-style: solid;
-  border-color: transparent;
-  margin-right: 1px;
-  margin-left: 10px;
-  float: right;
-}
-table[data-sortable].dark th[data-sorted="true"]:after {
-  visibility: visible;
-}
-table[data-sortable].dark th[data-sorted-direction="descending"]:after {
-  border-top-color: inherit;
-  margin-top: 8px;
-}
-table[data-sortable].dark th[data-sorted-direction="ascending"]:after {
-  border-bottom-color: inherit;
-  margin-top: 3px;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
 
-/* These styles were already specific to a dark theme, so they don't need ".dark" added again */
-table[data-sortable].sortable-theme-dark {
-  color: #b9b9b9;
-  background: #252525;
+body.dark header {
+  background-color: #222;
 }
-table[data-sortable].sortable-theme-dark tbody td {
-  border-top: 1px solid #2e2e2e;
+
+.table-container {
+  width: 100%;
+  overflow-x: auto; /* Enables horizontal scrolling */
 }
-table[data-sortable].sortable-theme-dark th[data-sorted="true"] {
-  background: #2e2e2e;
-}
-table[data-sortable] {
+
+table {
+  width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
-  border-spacing: 0;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
-table[data-sortable] th {
-  vertical-align: bottom;
-  font-weight: bold;
+
+body.dark table {
+  background: #282a36;
 }
-table[data-sortable] th,
-table[data-sortable] td {
+
+td {
+  overflow-wrap: break-word;
+}
+
+th,
+td {
+  padding: 12px;
+  border: 1px solid #ddd;
   text-align: left;
-  padding: 10px;
 }
-table[data-sortable] th:not([data-sortable="false"]) {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  -webkit-touch-callout: none;
+
+th {
+  background-color: #e9ecef;
   cursor: pointer;
+  position: relative;
+  padding-right: 20px;
 }
-table[data-sortable] th:after {
-  content: "";
-  visibility: hidden;
-  display: inline-block;
-  vertical-align: inherit;
-  height: 0;
-  width: 0;
-  border-width: 5px;
-  border-style: solid;
-  border-color: transparent;
-  margin-right: 1px;
-  margin-left: 10px;
-  float: right;
+
+body.dark th {
+  background-color: #33334d;
 }
-table[data-sortable] th[data-sorted="true"]:after {
-  visibility: visible;
+
+tr:hover {
+  background: rgba(0, 0, 0, 0.05);
 }
-table[data-sortable] th[data-sorted-direction="descending"]:after {
-  border-top-color: inherit;
-  margin-top: 8px;
+
+body.dark tr:hover {
+  background: rgba(255, 255, 255, 0.1);
 }
+
+/* Buttons */
+button {
+  background: #0077cc;
+  color: white;
+  border: solit 1px white;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: 0.3s;
+  font-size: 1rem;
+}
+
+button:hover {
+  background: #005fa3;
+}
+
+body.dark button {
+  background: #ff9800;
+  color: #1e1e2e;
+}
+
+body.dark button:hover {
+  background: #e68900;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  th,
+  td {
+    font-size: 0.9rem;
+    padding: 10px;
+  }
+
+  button {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+  }
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 600;
+  transition:
+    color 0.3s ease,
+    transform 0.2s ease;
+}
+
+a:hover {
+  color: #005fa3;
+  transform: scale(1.05);
+  text-decoration: underline;
+}
+
+body.dark a {
+  color: #ff9800;
+}
+
+body.dark a:hover {
+  color: #e68900;
+}
+
 table[data-sortable] th[data-sorted-direction="ascending"]:after {
-  border-bottom-color: inherit;
-  margin-top: 3px;
+  content: " ▲";
+  font-size: 0.8rem;
 }
-table[data-sortable].sortable-theme-light {
-  color: #333333;
-  background: #f2f2f2;
+
+table[data-sortable] th[data-sorted-direction="descending"]:after {
+  content: " ▼";
+  font-size: 0.8rem;
 }
-table[data-sortable].sortable-theme-light tbody td {
-  border-top: 1px solid #e0e0e0;
-}
-table[data-sortable].sortable-theme-light th[data-sorted="true"] {
-  background: #e0e0e0;
-}
+
