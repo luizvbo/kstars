@@ -126,6 +126,23 @@ body.dark button:hover {
     font-size: 0.9rem;
     padding: 0.5rem 1rem;
   }
+
+  /* Responsive Table Fix */
+  .table-container {
+    overflow-x: auto; /* Ensures horizontal scrolling */
+  }
+
+  table {
+    width: auto; /* Allow tables to expand */
+    min-width: 100%; /* Ensures table is at least as wide as its container */
+    table-layout: auto; /* Let columns size dynamically */
+  }
+
+  th, td {
+    white-space: nowrap; /* Prevents excessive word wrapping */
+    font-size: 0.85rem; /* Slightly smaller text */
+    padding: 8px; /* More compact padding */
+  }
 }
 
 a {
