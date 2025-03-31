@@ -13,8 +13,8 @@ T = TypeVar("T")
 LANGUAGES = {
     "ActionScript": "ActionScript",
     "C": "C",
-    "CSharp": "CSharp",
-    "CPP": "CPP",
+    "CSharp": "C#",
+    "CPP": "C++",
     "Clojure": "Clojure",
     "CoffeeScript": "CoffeeScript",
     "CSS": "CSS",
@@ -44,11 +44,12 @@ LANGUAGES = {
     "Swift": "Swift",
     "TeX": "TeX",
     "TypeScript": "TypeScript",
-    "Vim-script": "Vim-script",
+    "Vim-script": "Vim script",
 }
-OUTPUT_FOLDER = "../data"
+DATA_FOLDER = Path("../data")
+README_PATH = Path("../README.md")
 CACHE_POLICY = DEFAULT
-
+HOME_PAGE = "https://luizvbo.github.io/kstars"
 
 def human_readable_size(size_kb: int) -> str:
     """Converts file size in KB to a human-readable format."""
@@ -63,6 +64,53 @@ def human_readable_size(size_kb: int) -> str:
     else:
         size_tb = size_kb / (1024 * 1024 * 1024)
         return f"{size_tb:.2f} TB"
+
+
+@task(
+    tags=["kstars-generate-readme"],
+    retries=5,
+    retry_delay_seconds=10,
+)
+def generate_readme(
+    languages: dict[str, str], lang_folder: str | Path, readme_path: Path | str
+):
+    """Generates the README.md file from CSV data."""
+
+    content = """# kstars: Top Starred GitHub Repos per Language
+
+This project lists the top 1000 most starred repositories on GitHub for a variety of popular programming languages.
+
+The [kstars page](https://luizvbo.github.io/kstars/) displays the top 10 repositories for each language on the homepage. Each language section also includes a link to a dedicated page where you can explore the top 1000 repositories for that specific language.
+
+Below, you'll find a fallback representation of the top 10 repositories for each language, directly from the data used on the website.
+
+## Top 10 Repositories
+
+"""
+    for lang_safe, lang_display in languages.items():
+        content += f"1. [{lang_display}](#{lang_display.replace(" ", "-")})\n"
+    content += "\n"
+    lang_folder = Path(lang_folder) if isinstance(lang_folder, str) else lang_folder
+    for lang_safe, lang_display in languages.items():
+        path_csv_file = lang_folder / f"top10_{lang_safe}.csv"
+        url_1k = f"{HOME_PAGE}/pages/language.html?lang={lang_safe}"
+
+        try:
+            df = pd.read_csv(path_csv_file)
+            content += (
+                f"### {lang_display}\n[Full list with 1000 most starred repos...]({url_1k}) "
+                f"\n\n{df.to_markdown(index=False)}\n"
+            )
+
+        except Exception as e:
+            print(f"Error processing CSV file for {lang_display}: {e}")
+
+    # Write the content to README.md
+    with open(readme_path, "w", encoding="utf-8") as readme_file:
+        _ = readme_file.write(content)
+
+    print("README.md file generated successfully!")
+
 
 
 @task(
@@ -157,6 +205,8 @@ def run_post_processing(languages: dict[str, str], output_folder: str):
     path_data_processed.mkdir(parents=True, exist_ok=True)
     for _, lang_name in languages.items():
         _ = preprocess_data(lang_name, path_data_original, path_data_processed)
+
+    generate_readme(LANGUAGES, DATA_FOLDER / "processed", README_PATH)
 
 
 if __name__ == "__main__":
