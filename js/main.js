@@ -1,6 +1,6 @@
 // Function to load a CSV file and add its table to the page.
 function loadCSV(language, folder, prefix) {
-  Papa.parse(`${folder}/${prefix}${language}.csv`, {
+  Papa.parse(`${folder}/${prefix}${language[0]}.csv`, {
     // Use template literal for clarity
     download: true,
     skipEmptyLines: "greedy",
@@ -12,13 +12,13 @@ function loadCSV(language, folder, prefix) {
       const headerDiv = document.createElement("div");
       headerDiv.classList.add("language-header");
       const h2 = document.createElement("h2");
-      h2.textContent = language;
+      h2.textContent = language[1];
       headerDiv.appendChild(h2);
 
       // Create a link to the new single language page, passing the language as a query parameter.
       const link = document.createElement("a");
       // Use encodeURIComponent for languages like 'C++' or 'Vim script'
-      link.href = `pages/language.html?lang=${encodeURIComponent(language)}`;
+      link.href = `pages/language.html?lang=${encodeURIComponent(language[0])}`;
       link.textContent = "View full list (Top 1000)"; // Update link text slightly
       headerDiv.appendChild(link);
       // --- END MODIFIED LINK ---
@@ -34,7 +34,7 @@ function loadCSV(language, folder, prefix) {
         sectionDiv.appendChild(
           document.createTextNode("Could not load preview data."),
         );
-        console.error(`No data or only header found for ${language} preview.`);
+        console.error(`No data or only header found for ${language[1]} preview.`);
       }
 
       contentDiv.appendChild(sectionDiv);
@@ -46,11 +46,11 @@ function loadCSV(language, folder, prefix) {
       }
     },
     error: function (err) {
-      console.error(`Error loading CSV for ${language} preview:`, err);
+      console.error(`Error loading CSV for ${language[1]} preview:`, err);
       // Display error in the section
       const sectionDiv = document.createElement("div");
       sectionDiv.classList.add("language-section");
-      sectionDiv.innerHTML = `<h2>${language}</h2><p>Error loading preview data.</p>`;
+      sectionDiv.innerHTML = `<h2>${language[1]}</h2><p>Error loading preview data.</p>`;
       contentDiv.appendChild(sectionDiv);
 
       // Even if there's an error, increment count to eventually init Sortable
@@ -154,44 +154,44 @@ themeToggle.addEventListener("click", function () {
   localStorage.setItem("theme", isDark ? "dark" : "light");
 });
 
-// --- Initialization ---
 // Ensure languages array is defined before this loop
 const languages = [
-  "ActionScript",
-  "C",
-  "C#",
-  "C++",
-  "Clojure",
-  "CoffeeScript",
-  "CSS",
-  "Dart",
-  "DM",
-  "Elixir",
-  "Go",
-  "Groovy",
-  "Haskell",
-  "HTML",
-  "Java",
-  "JavaScript",
-  "Julia",
-  "Kotlin",
-  "Lua",
-  "MATLAB",
-  "Objective-C",
-  "Perl",
-  "PHP",
-  "PowerShell",
-  "Python",
-  "R",
-  "Ruby",
-  "Rust",
-  "Scala",
-  "Shell",
-  "Swift",
-  "TeX",
-  "TypeScript",
-  "Vim script",
+  ["ActionScript", "ActionScript"],
+  ["C", "C"],
+  ["CSharp", "C#"],
+  ["CPP", "C++"],
+  ["Clojure", "Clojure"],
+  ["CoffeeScript", "CoffeeScript"],
+  ["CSS", "CSS"],
+  ["Dart", "Dart"],
+  ["DM", "DM"],
+  ["Elixir", "Elixir"],
+  ["Go", "Go"],
+  ["Groovy", "Groovy"],
+  ["Haskell", "Haskell"],
+  ["HTML", "HTML"],
+  ["Java", "Java"],
+  ["JavaScript", "JavaScript"],
+  ["Julia", "Julia"],
+  ["Kotlin", "Kotlin"],
+  ["Lua", "Lua"],
+  ["MATLAB", "MATLAB"],
+  ["Objective-C", "Objective-C"],
+  ["Perl", "Perl"],
+  ["PHP", "PHP"],
+  ["PowerShell", "PowerShell"],
+  ["Python", "Python"],
+  ["R", "R"],
+  ["Ruby", "Ruby"],
+  ["Rust", "Rust"],
+  ["Scala", "Scala"],
+  ["Shell", "Shell"],
+  ["Swift", "Swift"],
+  ["TeX", "TeX"],
+  ["TypeScript", "TypeScript"],
+  ["Vim-script", "Vim script"],
 ];
+
 const contentDiv = document.getElementById("content");
 let loadedLanguagesCount = 0; // Ensure this is defined
 

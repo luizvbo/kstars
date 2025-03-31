@@ -10,12 +10,11 @@ from prefect.concurrency.sync import rate_limit
 from prefect.logging import get_run_logger
 
 T = TypeVar("T")
-
 LANGUAGES = {
     "ActionScript": "ActionScript",
     "C": "C",
-    "CSharp": "C#",
-    "CPP": "C++",
+    "CSharp": "CSharp",
+    "CPP": "CPP",
     "Clojure": "Clojure",
     "CoffeeScript": "CoffeeScript",
     "CSS": "CSS",
@@ -45,7 +44,7 @@ LANGUAGES = {
     "Swift": "Swift",
     "TeX": "TeX",
     "TypeScript": "TypeScript",
-    "Vim-script": "Vim script",
+    "Vim-script": "Vim-script",
 }
 OUTPUT_FOLDER = "../data"
 CACHE_POLICY = DEFAULT
