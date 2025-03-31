@@ -210,7 +210,7 @@ async fn fetch_top_repos_for_language(
     token: &str,
     language_api_name: &str,
     records: u32,
-    output_dir: &str, // <-- Add output_dir to know where to cache
+    output_dir: &str, 
 ) -> Result<Vec<Repo>> {
     info!("Fetching top repositories for language: {}", language_api_name);
     let per_page = 100;
@@ -233,7 +233,7 @@ async fn fetch_top_repos_for_language(
         let mut fetched_from_api = false;
         let mut page_repos: Vec<Repo> = Vec::new();
 
-        // 1. Try loading from cache
+        // Try loading from cache
         if page_cache_file.exists() {
             match load_page_from_cache(&page_cache_file) {
                 Ok(repos) => {
@@ -244,14 +244,13 @@ async fn fetch_top_repos_for_language(
                         "Failed to load cache file {:?}: {}. Will attempt to fetch from API.",
                         page_cache_file, e
                     );
-                    // Optionally remove the corrupted cache file
+                    // Remove the corrupted cache file
                     let _ = fs::remove_file(&page_cache_file);
-                    // Fall through to fetch from API
                 }
             }
         }
 
-        // 2. If not loaded from cache, fetch from API
+        // If not loaded from cache, fetch from API
         if page_repos.is_empty() {
              info!("Fetching page {} for {} from API", page, language_api_name);
             match fetch_repos(client, token, language_api_name, page).await {
@@ -363,8 +362,8 @@ fn parse_languages(args: Option<Vec<String>>) -> Vec<LanguageMapping> {
     let default = vec![
         ("ActionScript", "ActionScript"),
         ("C", "C"),
-        ("CSharp", "C#"),
-        ("CPP", "C++"),
+        ("CSharp", "CSharp"),
+        ("CPP", "CPP"),
         ("Clojure", "Clojure"),
         ("CoffeeScript", "CoffeeScript"),
         ("CSS", "CSS"),
@@ -394,7 +393,7 @@ fn parse_languages(args: Option<Vec<String>>) -> Vec<LanguageMapping> {
         ("Swift", "Swift"),
         ("TeX", "TeX"),
         ("TypeScript", "TypeScript"),
-        ("Vim-script", "Vim script"),
+        ("Vim-script", "Vim-script"),
     ];
 
     let mut mappings = Vec::new();
@@ -478,7 +477,7 @@ async fn main() -> Result<()> {
         // Define cache dir path for potential cleanup
         let cache_dir = get_language_cache_dir(&args.output, &mapping.api_name);
 
-        match fetch_top_repos_for_language(&client, &token, &mapping.api_name, args.records, &args.output) // <-- Pass output dir
+        match fetch_top_repos_for_language(&client, &token, &mapping.api_name, args.records, &args.output)
             .await
         {
             Ok(repos) => {
