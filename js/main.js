@@ -42,6 +42,23 @@ function loadCSV(language, folder, prefix) {
   });
 }
 
+// Function to truncate a string to maxChars, making sure that it stops at the last word.
+// E.g., truncateStringAtWord("I love birds", 10) returns "I love..." and not "I love bir..."
+function truncateStringAtWord(str, maxChars) {
+    if (str.length <= maxChars) {
+        return str;
+    }
+
+    const truncated = str.slice(0, maxChars);
+    const lastSpaceIndex = truncated.lastIndexOf(' ');
+
+    if (lastSpaceIndex === -1) {
+        return truncated + '...';
+    }
+
+    return truncated.slice(0, lastSpaceIndex) + '...';
+}
+
 // Function to create a sortable table from CSV data.
 // Make sure this function exists and is accessible by loadCSV
 function createTable(data) {
@@ -68,8 +85,7 @@ function createTable(data) {
     const row = document.createElement("tr");
     data[i].forEach((cell) => {
       const td = document.createElement("td");
-      td.textContent = cell;
-      //td.style.overflowWrap = "break-word";
+      td.textContent = truncateStringAtWord(cell, 100);
       row.appendChild(td);
     });
     tbody.appendChild(row);
