@@ -1,4 +1,3 @@
-/* General Styles */
 body {
   font-family: "Inter", sans-serif;
   background-color: #f8f9fa;
@@ -33,14 +32,14 @@ body.dark header {
   background-color: #222;
 }
 
-.table-container {
+.container {
   width: 100%;
-  overflow-x: auto; /* Enables horizontal scrolling */
+  overflow-x: auto; 
 }
 
 table {
   width: 100%;
-  table-layout: fixed;
+  table-layout: auto;
   border-collapse: collapse;
   background: white;
   border-radius: 8px;
@@ -61,6 +60,7 @@ td {
   padding: 12px;
   border: 1px solid #ddd;
   text-align: left;
+  width: auto;
 }
 
 th {
@@ -126,21 +126,20 @@ body.dark button:hover {
     padding: 0.5rem 1rem;
   }
 
-  /* Responsive Table Fix */
   .table-container {
-    overflow-x: auto; /* Ensures horizontal scrolling */
+    overflow-x: auto; 
   }
 
   table {
-    width: auto; /* Allow tables to expand */
-    min-width: 100%; /* Ensures table is at least as wide as its container */
-    table-layout: auto; /* Let columns size dynamically */
+    width: auto; 
+    min-width: 100%; 
+    table-layout: auto; 
   }
 
   th, td {
-    white-space: nowrap; /* Prevents excessive word wrapping */
-    font-size: 0.85rem; /* Slightly smaller text */
-    padding: 8px; /* More compact padding */
+    white-space: nowrap;
+    font-size: 0.85rem; 
+    padding: 8px; 
   }
 }
 
