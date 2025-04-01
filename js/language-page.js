@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (data[i]) {
         data[i].forEach((cellText) => {
           const td = document.createElement("td");
-          td.textContent = truncateStringAtWord(cellText, 100);
+          td.textContent = truncateStringAtWord(cellText, 150);
           row.appendChild(td);
         });
         tbody.appendChild(row);

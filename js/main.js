@@ -85,7 +85,7 @@ function createTable(data) {
     const row = document.createElement("tr");
     data[i].forEach((cell) => {
       const td = document.createElement("td");
-      td.textContent = truncateStringAtWord(cell, 100);
+      td.textContent = truncateStringAtWord(cell, 150);
       row.appendChild(td);
     });
     tbody.appendChild(row);
