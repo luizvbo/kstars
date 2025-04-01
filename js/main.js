@@ -69,7 +69,7 @@ function createTable(data) {
     data[i].forEach((cell) => {
       const td = document.createElement("td");
       td.textContent = cell;
-      td.style.overflowWrap = "break-word";
+      //td.style.overflowWrap = "break-word";
       row.appendChild(td);
     });
     tbody.appendChild(row);

@@ -34,7 +34,7 @@ body.dark header {
 
 .container {
   width: 100%;
-  overflow-x: auto; 
+  overflow-x: auto;
 }
 
 table {
@@ -52,7 +52,10 @@ body.dark table {
 }
 
 td {
-  overflow-wrap: break-word;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 150px;
 }
 
 th,
