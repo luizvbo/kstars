@@ -56,6 +56,8 @@ td {
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 150px;
+  -ms-text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
 }
 
 th,
