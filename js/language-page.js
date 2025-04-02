@@ -1,4 +1,19 @@
-import { truncateStringAtWord } from "./main.js";
+// Function to truncate a string to maxChars, making sure that it stops at the last word.
+// E.g., truncateStringAtWord("I love birds", 10) returns "I love..." and not "I love bir..."
+function truncateStringAtWord(str, maxChars) {
+    if (str.length <= maxChars) {
+        return str;
+    }
+
+    const truncated = str.slice(0, maxChars);
+    const lastSpaceIndex = truncated.lastIndexOf(' ');
+
+    if (lastSpaceIndex === -1) {
+        return truncated + '...';
+    }
+
+    return truncated.slice(0, lastSpaceIndex) + '...';
+}
 
 document.addEventListener("DOMContentLoaded", () => {
   const languageContentDiv = document.getElementById("language-content");
