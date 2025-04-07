@@ -212,12 +212,12 @@ def run_post_processing(languages: dict[str, str], output_folder: str):
 if __name__ == "__main__":
     flow_run_kstars = run_load_api.to_deployment(
         name="kstars-load-api",
-        parameters={"languages": LANGUAGES, "output_folder": OUTPUT_FOLDER},
+        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
         cron="0 1 * * 5",
     )
     flow_run_post_processing = run_post_processing.to_deployment(
         name="kstars-data-processing",
-        parameters={"languages": LANGUAGES, "output_folder": OUTPUT_FOLDER},
+        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
         cron="0 3 * * 5",
     )
     serve(flow_run_kstars, flow_run_post_processing)
