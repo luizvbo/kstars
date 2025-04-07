@@ -88,7 +88,7 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 
 """
     for lang_safe, lang_display in languages.items():
-        content += f"1. [{lang_display}](#{lang_display.replace(" ", "-")})\n"
+        content += f"1. [{lang_display}](#{lang_display.replace(' ', '-')})\n"
     content += "\n"
     lang_folder = Path(lang_folder) if isinstance(lang_folder, str) else lang_folder
     for lang_safe, lang_display in languages.items():
