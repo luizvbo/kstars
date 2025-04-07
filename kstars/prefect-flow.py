@@ -13,18 +13,18 @@ T = TypeVar("T")
 LANGUAGES = {
     "ActionScript": "ActionScript",
     "C": "C",
-    "CSharp": "C#",
     "CPP": "C++",
+    "CSS": "CSS",
+    "CSharp": "C#",
     "Clojure": "Clojure",
     "CoffeeScript": "CoffeeScript",
-    "CSS": "CSS",
-    "Dart": "Dart",
     "DM": "DM",
+    "Dart": "Dart",
     "Elixir": "Elixir",
     "Go": "Go",
     "Groovy": "Groovy",
-    "Haskell": "Haskell",
     "HTML": "HTML",
+    "Haskell": "Haskell",
     "Java": "Java",
     "JavaScript": "JavaScript",
     "Julia": "Julia",
@@ -32,8 +32,8 @@ LANGUAGES = {
     "Lua": "Lua",
     "MATLAB": "MATLAB",
     "Objective-C": "Objective-C",
-    "Perl": "Perl",
     "PHP": "PHP",
+    "Perl": "Perl",
     "PowerShell": "PowerShell",
     "Python": "Python",
     "R": "R",
@@ -88,7 +88,7 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 
 """
     for lang_safe, lang_display in languages.items():
-        content += f"1. [{lang_display}](#{lang_display.replace(" ", "-")})\n"
+        content += f"1. [{lang_display}](#{lang_display.replace(' ', '-')})\n"
     content += "\n"
     lang_folder = Path(lang_folder) if isinstance(lang_folder, str) else lang_folder
     for lang_safe, lang_display in languages.items():
@@ -193,9 +193,9 @@ def run_load_api(languages: dict[str, str], output_folder: str):
     path_data_original = Path(output_folder) / "original"
     path_data_original.mkdir(parents=True, exist_ok=True)
 
-    for lang, lang_name in languages.items():
+    for lang in languages.keys():
         rate_limit("rate-limited-gh-api")
-        _ = run_kstars_task(lang, lang_name, path_data_original)
+        _ = run_kstars_task(lang, lang, path_data_original)
 
 
 @flow(log_prints=True)
@@ -203,7 +203,7 @@ def run_post_processing(languages: dict[str, str], output_folder: str):
     path_data_original = Path(output_folder) / "original"
     path_data_processed = Path(output_folder) / "processed"
     path_data_processed.mkdir(parents=True, exist_ok=True)
-    for _, lang_name in languages.items():
+    for lang_name in languages.keys():
         _ = preprocess_data(lang_name, path_data_original, path_data_processed)
 
     generate_readme(LANGUAGES, DATA_FOLDER / "processed", README_PATH)
@@ -212,12 +212,12 @@ def run_post_processing(languages: dict[str, str], output_folder: str):
 if __name__ == "__main__":
     flow_run_kstars = run_load_api.to_deployment(
         name="kstars-load-api",
-        parameters={"languages": LANGUAGES, "output_folder": OUTPUT_FOLDER},
+        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
         cron="0 1 * * 5",
     )
     flow_run_post_processing = run_post_processing.to_deployment(
         name="kstars-data-processing",
-        parameters={"languages": LANGUAGES, "output_folder": OUTPUT_FOLDER},
+        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
         cron="0 3 * * 5",
     )
     serve(flow_run_kstars, flow_run_post_processing)
