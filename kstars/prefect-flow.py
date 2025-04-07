@@ -87,6 +87,7 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 ## Top 10 Repositories
 
 """
+    logger = get_run_logger()
     for lang_safe, lang_display in languages.items():
         content += f"1. [{lang_display}](#{lang_display.replace(' ', '-')})\n"
     content += "\n"
@@ -103,7 +104,8 @@ Below, you'll find a fallback representation of the top 10 repositories for each
             )
 
         except Exception as e:
-            print(f"Error processing CSV file for {lang_display}: {e}")
+            logger.error(f"Error processing CSV file for {lang_display}: {e}")
+            raise e
 
     # Write the content to README.md
     with open(readme_path, "w", encoding="utf-8") as readme_file:
