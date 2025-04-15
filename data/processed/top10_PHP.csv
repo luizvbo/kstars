@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,SecLists,61922,24253,61922,4,19/02/2012,07/04/2025,2.00 GB,2097629,"SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",PHP,https://github.com/danielmiessler/SecLists
-2,coolify,39815,2367,39815,484,25/01/2021,06/04/2025,38.00 MB,38907,An open-source & self-hostable Heroku / Netlify / Vercel alternative.,PHP,https://github.com/coollabsio/coolify
-3,framework,33429,11283,33429,83,10/01/2013,07/04/2025,86.98 MB,89063,The Laravel Framework.,PHP,https://github.com/laravel/framework
-4,jQuery-File-Upload,30932,7903,30932,52,01/12/2010,25/05/2023,4.66 MB,4767,"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",PHP,https://github.com/blueimp/jQuery-File-Upload
-5,symfony,30258,9599,30258,805,04/01/2010,07/04/2025,287.54 MB,294438,The Symfony PHP framework,PHP,https://github.com/symfony/symfony
-6,server,29164,4230,29164,2538,02/06/2016,07/04/2025,4.88 GB,5119433,"☁️ Nextcloud server, a safe home for all your data",PHP,https://github.com/nextcloud/server
-7,composer,28918,4611,28918,130,08/06/2011,07/04/2025,27.25 MB,27899,Dependency Manager for PHP,PHP,https://github.com/composer/composer
-8,Faker,26791,3583,26791,228,14/10/2011,20/03/2024,9.86 MB,10094,Faker is a PHP library that generates fake data for you,PHP,https://github.com/fzaninotto/Faker
-9,guzzle,23359,2398,23359,46,28/02/2011,28/03/2025,9.94 MB,10174,"Guzzle, an extensible PHP HTTP client",PHP,https://github.com/guzzle/guzzle
-10,livewire,22808,1615,22808,53,12/02/2019,02/04/2025,20.21 MB,20693,A full-stack framework for Laravel that takes the pain out of building dynamic UIs.,PHP,https://github.com/livewire/livewire
+1,SecLists,62013,24259,62013,4,19/02/2012,10/04/2025,2.01 GB,2106136,"SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",PHP,https://github.com/danielmiessler/SecLists
+2,coolify,39951,2374,39951,492,25/01/2021,10/04/2025,38.17 MB,39090,An open-source & self-hostable Heroku / Netlify / Vercel alternative.,PHP,https://github.com/coollabsio/coolify
+3,framework,33447,11291,33447,73,10/01/2013,10/04/2025,87.06 MB,89154,The Laravel Framework.,PHP,https://github.com/laravel/framework
+4,jQuery-File-Upload,30931,7901,30931,52,01/12/2010,25/05/2023,4.66 MB,4767,"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",PHP,https://github.com/blueimp/jQuery-File-Upload
+5,symfony,30268,9599,30268,794,04/01/2010,10/04/2025,288.70 MB,295625,The Symfony PHP framework,PHP,https://github.com/symfony/symfony
+6,server,29195,4240,29195,2572,02/06/2016,11/04/2025,4.89 GB,5124144,"☁️ Nextcloud server, a safe home for all your data",PHP,https://github.com/nextcloud/server
+7,composer,28918,4612,28918,137,08/06/2011,07/04/2025,27.25 MB,27899,Dependency Manager for PHP,PHP,https://github.com/composer/composer
+8,Faker,26793,3583,26793,228,14/10/2011,20/03/2024,9.86 MB,10094,Faker is a PHP library that generates fake data for you,PHP,https://github.com/fzaninotto/Faker
+9,guzzle,23365,2399,23365,46,28/02/2011,28/03/2025,9.94 MB,10174,"Guzzle, an extensible PHP HTTP client",PHP,https://github.com/guzzle/guzzle
+10,livewire,22817,1616,22817,56,12/02/2019,10/04/2025,20.67 MB,21162,A full-stack framework for Laravel that takes the pain out of building dynamic UIs.,PHP,https://github.com/livewire/livewire
