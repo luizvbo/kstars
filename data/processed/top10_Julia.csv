@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,julia,46767,5576,46767,5050,21/04/2011,11/04/2025,320.49 MB,328177,The Julia Programming Language,Julia,https://github.com/JuliaLang/julia
-2,Pluto.jl,5100,294,5100,359,23/02/2020,10/04/2025,52.05 MB,53296,🎈 Simple reactive notebooks for Julia,Julia,https://github.com/fonsp/Pluto.jl
-3,Flux.jl,4614,613,4614,272,01/04/2016,31/03/2025,12.60 MB,12901,Relax! Flux is the ML library that doesn't make you tensor,Julia,https://github.com/FluxML/Flux.jl
-4,DifferentialEquations.jl,2933,235,2933,165,11/05/2016,22/03/2025,173.35 MB,177513,"Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",Julia,https://github.com/SciML/DifferentialEquations.jl
-5,IJulia.jl,2823,417,2823,119,05/03/2013,06/04/2025,3.64 MB,3726,Julia kernel for Jupyter,Julia,https://github.com/JuliaLang/IJulia.jl
-6,computational-thinking,2667,490,2667,8,25/08/2020,21/03/2025,929.44 MB,951742,"Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia",Julia,https://github.com/mitmath/computational-thinking
-7,Makie.jl,2508,332,2508,804,25/09/2017,10/04/2025,612.18 MB,626875,Interactive data visualizations and plotting in Julia,Julia,https://github.com/MakieOrg/Makie.jl
-8,Genie.jl,2321,191,2321,109,19/02/2016,05/04/2025,52.28 MB,53536,🧞The highly productive Julia web framework,Julia,https://github.com/GenieFramework/Genie.jl
-9,JuMP.jl,2293,406,2293,9,10/10/2012,08/04/2025,278.44 MB,285126,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",Julia,https://github.com/jump-dev/JuMP.jl
-10,Turing.jl,2105,225,2105,103,29/04/2016,07/04/2025,36.87 MB,37752,Bayesian inference with probabilistic programming.,Julia,https://github.com/TuringLang/Turing.jl
+1,julia,46853,5583,46853,5076,21/04/2011,17/04/2025,321.01 MB,328719,The Julia Programming Language,Julia,https://github.com/JuliaLang/julia
+2,Pluto.jl,5110,295,5110,357,23/02/2020,17/04/2025,52.04 MB,53287,🎈 Simple reactive notebooks for Julia,Julia,https://github.com/fonsp/Pluto.jl
+3,Flux.jl,4619,612,4619,271,01/04/2016,15/04/2025,12.60 MB,12902,Relax! Flux is the ML library that doesn't make you tensor,Julia,https://github.com/FluxML/Flux.jl
+4,DifferentialEquations.jl,2936,237,2936,166,11/05/2016,22/03/2025,173.35 MB,177513,"Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",Julia,https://github.com/SciML/DifferentialEquations.jl
+5,IJulia.jl,2825,418,2825,119,05/03/2013,06/04/2025,3.64 MB,3726,Julia kernel for Jupyter,Julia,https://github.com/JuliaLang/IJulia.jl
+6,computational-thinking,2668,490,2668,8,25/08/2020,21/03/2025,929.44 MB,951742,"Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia",Julia,https://github.com/mitmath/computational-thinking
+7,Makie.jl,2513,333,2513,810,25/09/2017,17/04/2025,680.77 MB,697110,Interactive data visualizations and plotting in Julia,Julia,https://github.com/MakieOrg/Makie.jl
+8,Genie.jl,2323,191,2323,109,19/02/2016,05/04/2025,52.28 MB,53536,🧞The highly productive Julia web framework,Julia,https://github.com/GenieFramework/Genie.jl
+9,JuMP.jl,2293,405,2293,11,10/10/2012,17/04/2025,293.47 MB,300512,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",Julia,https://github.com/jump-dev/JuMP.jl
+10,Turing.jl,2107,225,2107,102,29/04/2016,13/04/2025,36.87 MB,37757,Bayesian inference with probabilistic programming.,Julia,https://github.com/TuringLang/Turing.jl
