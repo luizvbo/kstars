@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,tensorflow,189847,74667,189847,8829,07/11/2015,09/05/2025,1.13 GB,1186758,An Open Source Machine Learning Framework for Everyone,C++,https://github.com/tensorflow/tensorflow
-2,react-native,121874,24639,121874,957,09/01/2015,09/05/2025,879.72 MB,900830,A framework for building native applications using React,C++,https://github.com/facebook/react-native
-3,electron,116676,16023,116676,970,12/04/2013,09/05/2025,164.85 MB,168805,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",C++,https://github.com/electron/electron
-4,terminal,98050,8558,98050,1655,11/08/2017,08/05/2025,149.03 MB,152603,"The new Windows Terminal and the original Windows console host, all in the same place!",C++,https://github.com/microsoft/terminal
-5,godot,96976,22345,96976,15385,04/01/2014,08/05/2025,1.48 GB,1547394,Godot Engine – Multi-platform 2D and 3D game engine,C++,https://github.com/godotengine/godot
-6,bitcoin,83466,37187,83466,716,19/12/2010,09/05/2025,274.93 MB,281530,Bitcoin Core integration/staging tree,C++,https://github.com/bitcoin/bitcoin
-7,opencv,82072,56165,82072,2731,19/07/2012,06/05/2025,532.53 MB,545308,Open Source Computer Vision Library,C++,https://github.com/opencv/opencv
-8,llama.cpp,79439,11654,79439,773,10/03/2023,09/05/2025,109.85 MB,112488,LLM inference in C/C++,C++,https://github.com/ggml-org/llama.cpp
-9,gpt4all,73281,7987,73281,713,27/03/2023,19/03/2025,43.78 MB,44833,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.,C++,https://github.com/nomic-ai/gpt4all
-10,swift,68551,10466,68551,8199,23/10/2015,09/05/2025,1.18 GB,1239882,The Swift Programming Language,C++,https://github.com/swiftlang/swift
+1,tensorflow,190014,74667,190014,1505,07/11/2015,19/05/2025,1.11 GB,1163055,An Open Source Machine Learning Framework for Everyone,C++,https://github.com/tensorflow/tensorflow
+2,react-native,122070,24660,122070,976,09/01/2015,18/05/2025,895.75 MB,917249,A framework for building native applications using React,C++,https://github.com/facebook/react-native
+3,electron,116801,16048,116801,971,12/04/2013,19/05/2025,171.31 MB,175418,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",C++,https://github.com/electron/electron
+4,terminal,98146,8562,98146,1649,11/08/2017,16/05/2025,150.13 MB,153733,"The new Windows Terminal and the original Windows console host, all in the same place!",C++,https://github.com/microsoft/terminal
+5,godot,97246,22396,97246,15500,04/01/2014,17/05/2025,1.48 GB,1548890,Godot Engine – Multi-platform 2D and 3D game engine,C++,https://github.com/godotengine/godot
+6,bitcoin,83650,37245,83650,738,19/12/2010,17/05/2025,275.59 MB,282201,Bitcoin Core integration/staging tree,C++,https://github.com/bitcoin/bitcoin
+7,opencv,82219,56164,82219,2717,19/07/2012,19/05/2025,533.30 MB,546097,Open Source Computer Vision Library,C++,https://github.com/opencv/opencv
+8,llama.cpp,80494,11812,80494,771,10/03/2023,19/05/2025,116.64 MB,119438,LLM inference in C/C++,C++,https://github.com/ggml-org/llama.cpp
+9,gpt4all,73356,8008,73356,714,27/03/2023,19/03/2025,43.78 MB,44833,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.,C++,https://github.com/nomic-ai/gpt4all
+10,swift,68569,10465,68569,8235,23/10/2015,19/05/2025,1.18 GB,1241600,The Swift Programming Language,C++,https://github.com/swiftlang/swift

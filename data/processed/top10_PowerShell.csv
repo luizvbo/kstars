@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,winutil,34008,1898,34008,220,28/04/2022,05/05/2025,9.07 MB,9283,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil
-2,Scoop,22279,1440,22279,350,11/05/2013,17/04/2025,13.67 MB,14001,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop
-3,core,21367,4916,21367,313,18/11/2014,08/05/2025,47.69 MB,48839,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core
-4,Win11Debloat,19834,842,19834,30,27/10/2020,07/05/2025,390.00 KB,390,"A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat
-5,Windows10Debloater,18476,2063,18476,300,12/12/2017,10/03/2023,478.00 KB,478,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater
-6,SpotX,16642,860,16642,3,11/08/2021,09/05/2025,24.44 MB,25030,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX
-7,Atlas,15491,567,15491,2,08/02/2021,15/04/2025,331.79 MB,339752,"🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",PowerShell,https://github.com/Atlas-OS/Atlas
-8,PowerSploit,12309,4668,12309,104,26/05/2012,17/08/2020,10.47 MB,10719,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit
-9,tiny11builder,11878,968,11878,155,24/02/2023,17/11/2024,249.00 KB,249,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder
-10,Office-Tool,11168,934,11168,0,06/11/2018,07/05/2025,36.73 MB,37610,Office Tool Plus localization projects.,PowerShell,https://github.com/YerongAI/Office-Tool
+1,winutil,34500,1929,34500,227,28/04/2022,12/05/2025,9.06 MB,9273,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil
+2,Scoop,22318,1444,22318,353,11/05/2013,17/04/2025,13.67 MB,14001,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop
+3,core,21378,4918,21378,312,18/11/2014,15/05/2025,47.59 MB,48731,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core
+4,Win11Debloat,20191,859,20191,30,27/10/2020,18/05/2025,357.00 KB,357,"A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat
+5,Windows10Debloater,18487,2065,18487,300,12/12/2017,10/03/2023,478.00 KB,478,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater
+6,SpotX,16799,868,16799,2,11/08/2021,18/05/2025,24.52 MB,25110,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX
+7,Atlas,15564,567,15564,4,08/02/2021,15/04/2025,331.79 MB,339752,"🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",PowerShell,https://github.com/Atlas-OS/Atlas
+8,PowerSploit,12327,4673,12327,104,26/05/2012,17/08/2020,10.47 MB,10719,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit
+9,tiny11builder,11942,974,11942,155,24/02/2023,17/11/2024,249.00 KB,249,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder
+10,Office-Tool,11214,933,11214,0,06/11/2018,18/05/2025,36.74 MB,37621,Office Tool Plus localization projects.,PowerShell,https://github.com/YerongAI/Office-Tool
