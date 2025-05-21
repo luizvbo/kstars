@@ -71,6 +71,7 @@ function createTable(data) {
 
   if (data && data[0]) {
     data[0].forEach((col, index) => {
+      
       const th = document.createElement("th");
       th.textContent = col;
       th.setAttribute("data-index", index);
@@ -83,10 +84,24 @@ function createTable(data) {
   const tbody = document.createElement("tbody");
   for (let i = 1; i < Math.min(data.length, 11); i++) {
     const row = document.createElement("tr");
-    data[i].forEach((cell) => {
-      const td = document.createElement("td");
-      td.textContent = truncateStringAtWord(cell, 150);
-      row.appendChild(td);
+    data[i].forEach((cell, index) => {
+
+      if (index === data[0].length - 1) {
+        
+        const td = document.createElement("td");
+        const link = document.createElement("a");
+        link.href = cell
+        link.textContent = data[i][1];
+        td.appendChild(link);
+        row.appendChild(td);
+        
+      }
+      else{
+        const td = document.createElement("td");
+        td.textContent = truncateStringAtWord(cell, 150);
+        row.appendChild(td);
+      }
+      
     });
     tbody.appendChild(row);
   }
