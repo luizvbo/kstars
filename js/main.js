@@ -97,6 +97,7 @@ function createTable(data) {
         
       }
       else{
+        
         const td = document.createElement("td");
         td.textContent = truncateStringAtWord(cell, 150);
         row.appendChild(td);
