@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,AFNetworking,33461,10480,33461,102,31/05/2011,17/01/2023,5.99 MB,6129,"A delightful networking framework for iOS, macOS, watchOS, and tvOS.",Objective-C,https://github.com/AFNetworking/AFNetworking
-2,SDWebImage,25286,5977,25286,100,21/09/2009,14/05/2025,24.85 MB,25447,Asynchronous image downloader with cache support as a UIImageView category,Objective-C,https://github.com/SDWebImage/SDWebImage
-3,WeChatExtension-ForMac,22568,3599,22568,904,25/04/2019,13/02/2025,203.75 MB,208645,A plugin for Mac WeChat,Objective-C,https://github.com/MustangYM/WeChatExtension-ForMac
-4,GPUImage,20308,4605,20308,1002,13/02/2012,16/02/2024,43.81 MB,44862,An open source iOS framework for GPU-based image and video processing,Objective-C,https://github.com/BradLarson/GPUImage
-5,TrollStore,19563,1253,19563,45,02/09/2022,02/09/2024,10.43 MB,10684,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,Objective-C,https://github.com/opa334/TrollStore
-6,Masonry,18107,3158,18107,151,22/07/2013,13/04/2023,767.00 KB,767,"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",Objective-C,https://github.com/SnapKit/Masonry
-7,realm-swift,16483,2171,16483,458,16/04/2012,16/04/2025,66.00 MB,67581,Realm is a mobile database: a replacement for Core Data & SQLite,Objective-C,https://github.com/realm/realm-swift
-8,MBProgressHUD,16015,3580,16015,93,31/05/2009,14/08/2024,1.22 MB,1254,MBProgressHUD + Customizations,Objective-C,https://github.com/jdg/MBProgressHUD
-9,iTerm2,15957,1226,15957,36,07/04/2011,16/05/2025,293.07 MB,300106,iTerm2 is a terminal emulator for Mac OS X that does amazing things.,Objective-C,https://github.com/gnachman/iTerm2
-10,FLEX,14326,1732,14326,42,29/05/2014,25/08/2024,30.65 MB,31384,An in-app debugging and exploration tool for iOS,Objective-C,https://github.com/FLEXTool/FLEX
+1,AFNetworking,33473,10485,33473,102,31/05/2011,17/01/2023,5.99 MB,6129,"A delightful networking framework for iOS, macOS, watchOS, and tvOS.",Objective-C,https://github.com/AFNetworking/AFNetworking
+2,SDWebImage,25316,5975,25316,101,21/09/2009,14/05/2025,24.85 MB,25447,Asynchronous image downloader with cache support as a UIImageView category,Objective-C,https://github.com/SDWebImage/SDWebImage
+3,WeChatExtension-ForMac,22583,3594,22583,905,25/04/2019,13/02/2025,203.75 MB,208645,A plugin for Mac WeChat,Objective-C,https://github.com/MustangYM/WeChatExtension-ForMac
+4,GPUImage,20310,4604,20310,1002,13/02/2012,16/02/2024,43.81 MB,44862,An open source iOS framework for GPU-based image and video processing,Objective-C,https://github.com/BradLarson/GPUImage
+5,TrollStore,19659,1264,19659,45,02/09/2022,02/09/2024,10.43 MB,10684,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,Objective-C,https://github.com/opa334/TrollStore
+6,Masonry,18128,3159,18128,151,22/07/2013,13/04/2023,767.00 KB,767,"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",Objective-C,https://github.com/SnapKit/Masonry
+7,realm-swift,16496,2172,16496,464,16/04/2012,16/04/2025,66.00 MB,67581,Realm is a mobile database: a replacement for Core Data & SQLite,Objective-C,https://github.com/realm/realm-swift
+8,MBProgressHUD,16014,3582,16014,94,31/05/2009,14/08/2024,1.22 MB,1254,MBProgressHUD + Customizations,Objective-C,https://github.com/jdg/MBProgressHUD
+9,iTerm2,16002,1225,16002,36,07/04/2011,05/06/2025,300.19 MB,307391,iTerm2 is a terminal emulator for Mac OS X that does amazing things.,Objective-C,https://github.com/gnachman/iTerm2
+10,FLEX,14351,1738,14351,44,29/05/2014,25/08/2024,30.65 MB,31384,An in-app debugging and exploration tool for iOS,Objective-C,https://github.com/FLEXTool/FLEX
