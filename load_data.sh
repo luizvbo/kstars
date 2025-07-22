@@ -64,7 +64,7 @@ for lang in "${languages[@]}"; do
     echo "Searching for repositories in language: $lang (Filesystem-friendly: $fs_friendly_lang)"
 
     gh search repos --language "$lang" -L 1000 --sort stars --json \
-        createdAt,defaultBranch,description,forksCount,fullName,hasDownloads,hasIssues,hasPages,hasProjects,hasWiki,homepage,id,isArchived,isDisabled,isFork,isPrivate,language,license,name,openIssuesCount,owner,pushedAt,size,stargazersCount,updatedAt,url,visibility,watchersCount > "/tmp/kstars/$fs_friendly_lang.json"
+        createdAt,description,forksCount,fullName,homepage,isArchived,license,name,openIssuesCount,pushedAt,size,stargazersCount,updatedAt,url,watchersCount > "/tmp/kstars/$fs_friendly_lang.json"
 
     if [ $? -eq 0 ]; then
         echo "Successfully saved data for $lang to /tmp/kstars/$fs_friendly_lang.json"
