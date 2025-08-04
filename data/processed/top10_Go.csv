@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,awesome-go,144930,12338,144930,130,06/07/2014,29/05/2025,10.27 MB,10512,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go
-2,ollama,142859,11995,142859,1830,26/06/2023,06/06/2025,43.42 MB,44461,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",Go,https://github.com/ollama/ollama
-3,go,128203,18090,128203,9350,19/08/2014,05/06/2025,386.42 MB,395695,The Go programming language,Go,https://github.com/golang/go
-4,kubernetes,115535,40671,115535,2532,06/06/2014,06/06/2025,1.31 GB,1371760,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes
-5,frp,94735,14088,94735,64,21/12/2015,27/05/2025,29.71 MB,30428,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp
-6,gin,82603,8219,82603,847,16/06/2014,02/06/2025,3.61 MB,3692,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",Go,https://github.com/gin-gonic/gin
-7,hugo,81361,7875,81361,473,04/07/2013,04/06/2025,127.96 MB,131031,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo
-8,syncthing,71974,4590,71974,341,26/11/2013,05/06/2025,120.12 MB,123008,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing
-9,fzf,70715,2522,70715,294,23/10/2013,05/06/2025,6.85 MB,7011,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf
-10,moby,69843,18759,69843,3590,18/01/2013,05/06/2025,228.11 MB,233589,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,Go,https://github.com/moby/moby
+1,awesome-go,149038,12461,149038,128,06/07/2014,02/08/2025,10.16 MB,10405,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go
+2,ollama,148648,12659,148648,2001,26/06/2023,31/07/2025,46.89 MB,48016,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",Go,https://github.com/ollama/ollama
+3,go,129203,18298,129203,9477,19/08/2014,04/08/2025,391.29 MB,400680,The Go programming language,Go,https://github.com/golang/go
+4,kubernetes,116669,41070,116669,2511,06/06/2014,02/08/2025,1.33 GB,1392115,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes
+5,frp,96869,14277,96869,59,21/12/2015,28/07/2025,29.76 MB,30479,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp
+6,gin,83433,8289,83433,865,16/06/2014,02/08/2025,3.61 MB,3701,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",Go,https://github.com/gin-gonic/gin
+7,hugo,82640,7966,82640,473,04/07/2013,31/07/2025,128.34 MB,131419,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo
+8,syncthing,74106,4681,74106,343,26/11/2013,04/08/2025,120.36 MB,123246,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing
+9,fzf,72535,2556,72535,294,23/10/2013,03/08/2025,7.30 MB,7473,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf
+10,moby,70423,18797,70423,3640,18/01/2013,04/08/2025,233.66 MB,239263,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,Go,https://github.com/moby/moby

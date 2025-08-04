@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,rust,104063,13407,104063,11171,16/06/2010,05/06/2025,663.98 MB,679915,Empowering everyone to build reliable and efficient software.,Rust,https://github.com/rust-lang/rust
-2,deno,103237,5613,103237,2207,15/05/2018,06/06/2025,170.30 MB,174384,A modern runtime for JavaScript and TypeScript.,Rust,https://github.com/denoland/deno
-3,tauri,93222,2886,93222,1137,13/07/2019,04/06/2025,94.24 MB,96497,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",Rust,https://github.com/tauri-apps/tauri
-4,rustdesk,89801,12908,89801,63,28/09/2020,05/06/2025,57.72 MB,59106,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,https://github.com/rustdesk/rustdesk
-5,union,66114,3213,66114,289,16/05/2023,05/06/2025,456.33 MB,467287,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",Rust,https://github.com/unionlabs/union
-6,sway,62249,5403,62249,871,19/01/2021,05/06/2025,95.96 MB,98266,🌴 Empowering everyone to build reliable and efficient smart contracts.,Rust,https://github.com/FuelLabs/sway
-7,zed,61002,4421,61002,2648,20/02/2021,06/06/2025,205.80 MB,210737,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,https://github.com/zed-industries/zed
-8,alacritty,59052,3120,59052,331,18/02/2016,31/05/2025,13.67 MB,14002,"A cross-platform, OpenGL terminal emulator.",Rust,https://github.com/alacritty/alacritty
-9,rustlings,58657,10631,58657,67,15/09/2015,03/06/2025,4.10 MB,4195,:crab: Small exercises to get you used to reading and writing Rust code!,Rust,https://github.com/rust-lang/rustlings
-10,fuel-core,57636,2852,57636,175,27/08/2020,05/06/2025,885.59 MB,906846,Rust full node implementation of the Fuel v2 protocol.,Rust,https://github.com/FuelLabs/fuel-core
+1,rust,105492,13612,105492,11463,16/06/2010,04/08/2025,722.23 MB,739565,Empowering everyone to build reliable and efficient software.,Rust,https://github.com/rust-lang/rust
+2,deno,103781,5670,103781,2344,15/05/2018,04/08/2025,172.90 MB,177051,A modern runtime for JavaScript and TypeScript.,Rust,https://github.com/denoland/deno
+3,tauri,95203,3002,95203,1181,13/07/2019,04/08/2025,94.94 MB,97220,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",Rust,https://github.com/tauri-apps/tauri
+4,rustdesk,94950,13892,94950,77,28/09/2020,04/08/2025,60.12 MB,61567,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,https://github.com/rustdesk/rustdesk
+5,union,73415,3723,73415,271,16/05/2023,04/08/2025,459.47 MB,470499,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",Rust,https://github.com/unionlabs/union
+6,uv,63640,1840,63640,2016,02/10/2023,04/08/2025,108.46 MB,111065,"An extremely fast Python package and project manager, written in Rust.",Rust,https://github.com/astral-sh/uv
+7,zed,63354,4831,63354,2749,20/02/2021,04/08/2025,232.52 MB,238098,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,https://github.com/zed-industries/zed
+8,sway,62159,5408,62159,878,19/01/2021,01/08/2025,101.25 MB,103680,🌴 Empowering everyone to build reliable and efficient smart contracts.,Rust,https://github.com/FuelLabs/sway
+9,alacritty,59783,3157,59783,332,18/02/2016,02/08/2025,13.75 MB,14080,"A cross-platform, OpenGL terminal emulator.",Rust,https://github.com/alacritty/alacritty
+10,rustlings,59488,10809,59488,72,15/09/2015,04/07/2025,4.11 MB,4207,:crab: Small exercises to get you used to reading and writing Rust code!,Rust,https://github.com/rust-lang/rustlings
