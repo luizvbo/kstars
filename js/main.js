@@ -153,6 +153,7 @@ const languages = [
   ["Perl", "Perl"],
   ["PHP", "PHP"],
   ["PowerShell", "PowerShell"],
+  ["Prolog", "Prolog"],
   ["Python", "Python"],
   ["R", "R"],
   ["Ruby", "Ruby"],
