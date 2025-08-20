@@ -35,6 +35,7 @@ LANGUAGES = {
     "PHP": "PHP",
     "Perl": "Perl",
     "PowerShell": "PowerShell",
+    "Prolog": "Prolog",
     "Python": "Python",
     "R": "R",
     "Ruby": "Ruby",
