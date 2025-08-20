@@ -32,6 +32,7 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 1. [PHP](#PHP)
 1. [Perl](#Perl)
 1. [PowerShell](#PowerShell)
+1. [Prolog](#Prolog)
 1. [Python](#Python)
 1. [R](#R)
 1. [Ruby](#Ruby)
@@ -403,6 +404,12 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 |         8 | Atlas              |   16289 |     588 |      16289 |             4 | 08/02/2021   | 01/08/2025    | 331.92 MB |      339882 | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.                                                                                                                                          | PowerShell | https://github.com/Atlas-OS/Atlas              |
 |         9 | PowerSploit        |   12504 |    4701 |      12504 |           104 | 26/05/2012   | 17/08/2020    | 10.47 MB  |       10719 | PowerSploit - A PowerShell Post-Exploitation Framework                                                                                                                                                                                                | PowerShell | https://github.com/PowerShellMafia/PowerSploit |
 |        10 | tiny11builder      |   12441 |    1007 |      12441 |           165 | 24/02/2023   | 17/11/2024    | 249.00 KB |         249 | Scripts to build a trimmed-down Windows 11 image.                                                                                                                                                                                                     | PowerShell | https://github.com/ntdevlabs/tiny11builder     |
+### Prolog
+[Full list with 1000 most starred repos...](https://luizvbo.github.io/kstars/pages/language.html?lang=Prolof) 
+
+|   Ranking | Project Name       |   Stars |   Forks |   Watchers |   Open Issues | Created At   | Last Commit   | Size      |   Size (KB) | Description                                                                                                                                                                                                                                           | Language   | Repo URL                                       |
+|----------:|:-------------------|--------:|--------:|-----------:|--------------:|:-------------|:--------------|:----------|------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|:-----------------------------------------------|
+
 ### Python
 [Full list with 1000 most starred repos...](https://luizvbo.github.io/kstars/pages/language.html?lang=Python) 
 
