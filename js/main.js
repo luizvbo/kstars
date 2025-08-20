@@ -28,7 +28,7 @@ function loadCSV(language, folder, prefix) {
         sectionDiv.appendChild(table);
       } else {
         sectionDiv.appendChild(
-          document.createTextNode("Could not load preview data.")
+          document.createTextNode("Could not load preview data."),
         );
       }
 
@@ -38,7 +38,7 @@ function loadCSV(language, folder, prefix) {
       if (loadedLanguagesCount === languages.length) {
         Sortable.init();
       }
-    }
+    },
   });
 }
 
@@ -64,7 +64,11 @@ function truncateStringAtWord(str, maxChars) {
 function createTable(data) {
   const table = document.createElement("table");
   table.setAttribute("data-sortable", "");
-  table.classList.add(document.body.classList.contains("dark") ? "sortable-theme-dark" : "sortable-theme-light");
+  table.classList.add(
+    document.body.classList.contains("dark")
+      ? "sortable-theme-dark"
+      : "sortable-theme-light",
+  );
 
   const thead = document.createElement("thead");
   const headerRow = document.createElement("tr");
@@ -95,12 +99,18 @@ function createTable(data) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll("table[data-sortable] th").forEach(th => {
+  document.querySelectorAll("table[data-sortable] th").forEach((th) => {
     th.addEventListener("click", function () {
-      const sortedAsc = this.getAttribute("data-sorted-direction") === "ascending";
-      document.querySelectorAll("th").forEach(th => th.removeAttribute("data-sorted"));
+      const sortedAsc =
+        this.getAttribute("data-sorted-direction") === "ascending";
+      document
+        .querySelectorAll("th")
+        .forEach((th) => th.removeAttribute("data-sorted"));
       this.setAttribute("data-sorted", "true");
-      this.setAttribute("data-sorted-direction", sortedAsc ? "descending" : "ascending");
+      this.setAttribute(
+        "data-sorted-direction",
+        sortedAsc ? "descending" : "ascending",
+      );
     });
   });
 });
@@ -111,7 +121,7 @@ const themeIcon = document.getElementById("themeIcon");
 
 function applyTheme(isDark) {
   document.body.classList.toggle("dark", isDark);
-  document.querySelectorAll("table[data-sortable]").forEach(table => {
+  document.querySelectorAll("table[data-sortable]").forEach((table) => {
     table.classList.toggle("sortable-theme-dark", isDark);
     table.classList.toggle("sortable-theme-light", !isDark);
   });
