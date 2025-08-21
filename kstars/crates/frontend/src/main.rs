@@ -1,5 +1,4 @@
 use anyhow::{anyhow, Context, Result};
-use dioxus::html::HasFileData;
 use dioxus::prelude::*;
 use gloo_net::http::Request;
 
@@ -15,6 +14,7 @@ pub fn main() {
     dioxus::launch(App);
 }
 
+#[component]
 fn App() -> Element {
     // Reactive state
     let mut tables: Signal<Vec<NamedTable>> = use_signal(Vec::new);
@@ -72,10 +72,13 @@ fn App() -> Element {
                                 }
                             }
                         }
-                    }
+                    },
                 }
                 button {
-                    onclick: move |_| { tables.write().clear(); error_text.set(None); },
+                    onclick: move |_| {
+                        tables.write().clear();
+                        error_text.set(None);
+                    },
                     "Clear tables"
                 }
             }
@@ -88,7 +91,7 @@ fn App() -> Element {
                     r#type: "text",
                     placeholder: "https://example.com/data.csv",
                     value: "{url_input}",
-                    oninput: move |e| url_input.set(e.value())
+                    oninput: move |e| url_input.set(e.value()),
                 }
                 button {
                     onclick: move |_| {
@@ -97,11 +100,14 @@ fn App() -> Element {
                             error_text.set(Some("Enter a CSV URL first".into()));
                             return;
                         }
-                        let tables = tables.clone();
-                        let error_text = error_text.clone();
+                        let mut tables = tables.clone();
+                        let mut error_text = error_text.clone();
                         spawn(async move {
                             match load_csv_from_url(&url).await {
-                                Ok(tbl) => { tables.write().push(tbl); error_text.set(None); }
+                                Ok(tbl) => {
+                                    tables.write().push(tbl);
+                                    error_text.set(None);
+                                }
                                 Err(e) => error_text.set(Some(format!("URL load failed: {e}"))),
                             }
                         });
@@ -110,10 +116,10 @@ fn App() -> Element {
                 }
             }
 
-            // Error banner
-            (error_text().is_some()).then(|| rsx!{
-                p { class: "error", "{error_text().as_deref().unwrap_or_default()}" }
-            })
+            {error_text().as_ref().map(|msg| rsx! {
+                p { class: "error", "{msg}" }
+            })}
+                // Error banner
         }
 
         // --- Render every loaded table -------------------------------------
@@ -123,8 +129,9 @@ fn App() -> Element {
 
         // Footer tip about CORS for URL fetches
         p { class: "muted",
-            "Tip: Loading CSV by URL must satisfy the browser’s CORS rules (server should include ",
-            code { "Access-Control-Allow-Origin" }, ")."
+            "Tip: Loading CSV by URL must satisfy the browser’s CORS rules (server should include "
+            code { "Access-Control-Allow-Origin" }
+            ")."
         }
     }
 }
