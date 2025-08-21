@@ -1,9 +1,13 @@
 [application]
+name = "kstars"
+default_platform = "web"
+out_dir = "dist"
+asset_dir = "." # Serve from the root to access /data and /public
 
 [web.app]
 
 # HTML title tag content
-title = "kstars"
+title = "kstars: Top GitHub Repos"
 
 # include `assets` in web platform
 [web.resource]
@@ -19,3 +23,7 @@ script = []
 # Javascript code file
 # serve: [dev-server] only
 script = []
+
+[web.watcher]
+watch_path = ["src", "public", "data"]
+reload_html = true
