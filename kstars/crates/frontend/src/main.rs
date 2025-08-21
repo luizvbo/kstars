@@ -3,6 +3,8 @@ use dioxus_logger::tracing::Level;
 use gloo_storage::{LocalStorage, Storage};
 
 mod components;
+mod data_loader;
+
 use components::home::Home;
 use components::language_page::LanguagePage;
 

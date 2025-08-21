@@ -1,5 +1,5 @@
 use super::sortable_table::SortableTable;
-use crate::{Header, Route};
+use crate::{data_loader::get_csv_data, Header, Route};
 use dioxus::prelude::*;
 
 const LANGUAGES: &[(&str, &str)] = &[
@@ -54,9 +54,9 @@ pub fn Home() -> Element {
 
 #[component]
 fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
-    let csv_data = use_resource(move || async move {
-        let url = format!("/data/processed/top10_{}.csv", language.0);
-        fetch_and_parse_csv(&url).await
+    let csv_data = use_memo(move || {
+        let file_name = format!("top10_{}.csv", language.0);
+        get_csv_data(&file_name)
     });
 
     rsx! {
@@ -70,41 +70,16 @@ fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
                 }
             }
 
-            match &*csv_data.read() {
-                Some(Ok(data)) => {
-                    let headers = data.get(0).cloned().unwrap_or_default();
-                    let rows: Vec<Vec<String>> = data.iter().skip(1).cloned().collect();
-                    rsx!{ SortableTable { headers: headers, rows: rows, truncate: true } }
+            if csv_data.read().is_empty() {
+                p { "Could not load preview data." }
+            } else {
+                // --- FIX: Moved the logic directly into the component props ---
+                SortableTable {
+                    headers: csv_data.read().get(0).cloned().unwrap_or_default(),
+                    rows: csv_data.read().iter().skip(1).cloned().collect(),
+                    truncate: true
                 }
-                Some(Err(e)) => rsx!{ p { "Could not load preview data: {e}" } },
-                None => rsx!{ p { "Loading data..." } }
             }
         }
     }
-}
-
-pub async fn fetch_and_parse_csv(url: &str) -> Result<Vec<Vec<String>>, reqwest::Error> {
-    let origin = web_sys::window()
-        .expect("should have a window in this context")
-        .location()
-        .origin()
-        .expect("should have an origin");
-
-    let full_url = format!("{}{}", origin, url);
-
-    log::info!("Fetching CSV from: {}", full_url);
-
-    let content = reqwest::get(&full_url).await?.text().await?;
-
-    let mut reader = csv::ReaderBuilder::new()
-        .has_headers(false)
-        .from_reader(content.as_bytes());
-
-    let records = reader
-        .records()
-        .filter_map(Result::ok)
-        .map(|record| record.iter().map(String::from).collect())
-        .collect();
-
-    Ok(records)
 }
