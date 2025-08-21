@@ -201,25 +201,25 @@ def run_load_api(languages: dict[str, str], output_folder: str):
 
 
 @flow(log_prints=True)
-def run_post_processing(languages: dict[str, str], output_folder: str):
+def run_post_processing(languages: dict[str, str], output_folder: str, readme_path: str):
     path_data_original = Path(output_folder) / "original"
     path_data_processed = Path(output_folder) / "processed"
     path_data_processed.mkdir(parents=True, exist_ok=True)
     for lang_name in languages.keys():
         _ = preprocess_data(lang_name, path_data_original, path_data_processed)
 
-    generate_readme(LANGUAGES, DATA_FOLDER / "processed", README_PATH)
+    generate_readme(languages, path_data_processed, Path(readme_path))
 
 
-if __name__ == "__main__":
-    flow_run_kstars = run_load_api.to_deployment(
-        name="kstars-load-api",
-        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
-        cron="0 1 * * 5",
-    )
-    flow_run_post_processing = run_post_processing.to_deployment(
-        name="kstars-data-processing",
-        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
-        cron="0 3 * * 5",
-    )
-    serve(flow_run_kstars, flow_run_post_processing)
+# if __name__ == "__main__":
+#     flow_run_kstars = run_load_api.to_deployment(
+#         name="kstars-load-api",
+#         parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
+#         cron="0 1 * * 5",
+#     )
+#     flow_run_post_processing = run_post_processing.to_deployment(
+#         name="kstars-data-processing",
+#         parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
+#         cron="0 3 * * 5",
+#     )
+#     serve(flow_run_kstars, flow_run_post_processing)

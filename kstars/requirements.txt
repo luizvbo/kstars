@@ -1,3 +1,5 @@
-prefect
+prefect~=3.4
+prefect-docker 
+prefect-kubernetes
 pandas
 tabulate

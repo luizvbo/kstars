@@ -1,0 +1,45 @@
+# Prefect deployment file
+# Ref: https://docs.prefect.io/v3/how-to-guides/deployments/prefect-yaml
+prefect-version: 3.0
+
+deployments:
+  - name: kstars-load-api
+    entrypoint: /prefect-flow.py:run_load_api 
+    work_pool:
+      name: k8s-pool 
+    job_variables:
+      image: kstars-prefect-flow:latest 
+      image_pull_policy: Never 
+      volume_mounts:
+        - name: flow-data
+          mountPath: /app
+        - name: token-secret
+          mountPath: /app/access_token.txt 
+          subPath: access_token.txt
+      volumes:
+        - name: flow-data
+          persistent_volume_claim:
+            claim_name: prefect-flow-data 
+        - name: token-secret
+          secret:
+            secret_name: github-token 
+    parameters:
+      output_folder: /app/data
+
+  - name: kstars-data-processing
+    entrypoint: prefect-flow.py:run_post_processing
+    work_pool:
+      name: k8s-pool
+    job_variables:
+      image: kstars-prefect-flow:latest
+      image_pull_policy: Never
+      volume_mounts:
+        - name: flow-data
+          mountPath: /app
+      volumes:
+        - name: flow-data
+          persistent_volume_claim:
+            claim_name: prefect-flow-data
+    parameters:
+      output_folder: /app/data
+      readme_path: /app/README.md 
