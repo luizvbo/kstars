@@ -1,4 +1,4 @@
-use crate::main::THEME;
+use crate::THEME;
 use dioxus::prelude::*;
 
 #[derive(PartialEq, Clone, Copy)]
@@ -7,14 +7,17 @@ enum SortDirection {
     Descending,
 }
 
-// A reusable, sortable table component
 #[component]
 pub fn SortableTable(headers: Vec<String>, rows: Vec<Vec<String>>, truncate: bool) -> Element {
     let mut sort_column_index = use_signal::<Option<usize>>(|| None);
     let mut sort_direction = use_signal(|| SortDirection::Ascending);
-    let theme = THEME;
 
-    // Memoize the sorted rows so they are only re-calculated when sorting state changes
+    let theme_class = if THEME.read().as_str() == "dark" {
+        "dark sortable-theme-dark"
+    } else {
+        "sortable-theme-light"
+    };
+
     let sorted_rows = use_memo(move || {
         let mut sorted = rows.clone();
         if let Some(col_idx) = sort_column_index() {
@@ -31,31 +34,31 @@ pub fn SortableTable(headers: Vec<String>, rows: Vec<Vec<String>>, truncate: boo
         sorted
     });
 
-    let handle_header_click = move |index: usize| {
-        if sort_column_index.read().as_ref() == Some(&index) {
-            // If clicking the same column, reverse direction
-            let new_direction = if sort_direction() == SortDirection::Ascending {
-                SortDirection::Descending
-            } else {
-                SortDirection::Ascending
-            };
-            sort_direction.set(new_direction);
-        } else {
-            // If clicking a new column, set it and default to ascending
-            sort_column_index.set(Some(index));
-            sort_direction.set(SortDirection::Ascending);
-        }
-    };
-
     rsx! {
         table {
             "data-sortable": "",
-            class: if theme.read().as_str() == "dark" { "sortable-theme-dark" } else { "sortable-theme-light" },
+            class: "{theme_class}",
             thead {
                 tr {
                     for (i, col) in headers.iter().enumerate() {
                         th {
-                            onclick: move |_| handle_header_click(i),
+                            // --- CHANGE ---
+                            // The logic is now directly inside the onclick handler.
+                            onclick: move |_| {
+                                if sort_column_index.read().as_ref() == Some(&i) {
+                                    // If clicking the same column, reverse direction
+                                    let new_direction = if sort_direction() == SortDirection::Ascending {
+                                        SortDirection::Descending
+                                    } else {
+                                        SortDirection::Ascending
+                                    };
+                                    sort_direction.set(new_direction);
+                                } else {
+                                    // If clicking a new column, set it and default to ascending
+                                    sort_column_index.set(Some(i));
+                                    sort_direction.set(SortDirection::Ascending);
+                                }
+                            },
                             "{col}"
                             if sort_column_index() == Some(i) {
                                 span {
@@ -85,7 +88,6 @@ pub fn SortableTable(headers: Vec<String>, rows: Vec<Vec<String>>, truncate: boo
     }
 }
 
-// Rust implementation of your JS truncate function
 pub fn truncate_string_at_word(s: &str, max_chars: usize) -> String {
     if s.len() <= max_chars {
         return s.to_string();

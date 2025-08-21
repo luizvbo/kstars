@@ -1697,6 +1697,7 @@ dependencies = [
  "dioxus-logger",
  "gloo-storage",
  "reqwest",
+ "web-sys",
 ]
 
 [[package]]

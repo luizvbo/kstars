@@ -1,6 +1,10 @@
+// src/components/language_page.rs
+
 use super::home::fetch_and_parse_csv;
 use super::sortable_table::SortableTable;
-use crate::main::Header;
+// --- CHANGE ---
+// Corrected the import path.
+use crate::Header;
 use dioxus::prelude::*;
 
 #[component]
@@ -8,7 +12,6 @@ pub fn LanguagePage(lang: String) -> Element {
     let page_title = format!("kstars: Top 1000 GitHub Repos for {}", lang);
     let header_title = format!("Top 1000 GitHub Repos for {}", lang);
 
-    // Fetch the full CSV for the selected language
     let csv_data = use_resource(move || {
         let lang_clone = lang.clone();
         async move {
@@ -18,10 +21,11 @@ pub fn LanguagePage(lang: String) -> Element {
     });
 
     rsx! {
-        // Set the document title
-        Title { "{page_title}" }
+        // --- CHANGE ---
+        // Used the full path `document::Title` to bring the component into scope.
+        document::Title { "{page_title}" }
         Header { title: header_title, show_back_button: true }
-
+        
         div { class: "container", id: "language-content",
             match &*csv_data.read() {
                 Some(Ok(data)) => {

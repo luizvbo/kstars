@@ -1,25 +1,26 @@
+// src/main.rs
+
 use dioxus::prelude::*;
 use dioxus_logger::tracing::Level;
+use gloo_storage::{LocalStorage, Storage};
 
-// Import components from other files
 mod components;
 use components::home::Home;
 use components::language_page::LanguagePage;
 
-// Define the routes for the application
 #[derive(Routable, Clone, PartialEq, Debug)]
-enum Route {
+pub enum Route {
     #[route("/")]
     Home {},
     #[route("/language/:lang")]
     LanguagePage { lang: String },
 }
 
-// Global signal for theme management
 pub static THEME: GlobalSignal<String> = Signal::global(get_initial_theme);
+// const FAVICON: Asset = asset!("/assets/favicon.ico");
+const CSS_FILE: Asset = asset!("/assets/css/style.css");
 
 fn get_initial_theme() -> String {
-    use gloo_storage::{LocalStorage, Storage};
     LocalStorage::get("theme").unwrap_or_else(|_| "light".to_string())
 }
 
@@ -28,47 +29,47 @@ fn main() {
     launch(App);
 }
 
+// --- CHANGE: Added the #[component] attribute ---
+#[component]
 fn App() -> Element {
-    // Apply the theme class to the body
     use_effect(move || {
-        let window = web_sys::window().unwrap();
-        let document = window.document().unwrap();
-        let body = document.body().unwrap();
-
-        let current_theme = THEME.read().clone();
-        if current_theme == "dark" {
-            let _ = body.class_list().add_1("dark");
-        } else {
-            let _ = body.class_list().remove_1("dark");
+        if let Some(window) = web_sys::window() {
+            if let Some(document) = window.document() {
+                if let Some(body) = document.body() {
+                    let current_theme = THEME.read().clone();
+                    if current_theme == "dark" {
+                        let _ = body.class_list().add_1("dark");
+                    } else {
+                        let _ = body.class_list().remove_1("dark").ok();
+                    }
+                }
+            }
         }
     });
 
     rsx! {
-        // Link to the stylesheet
-        link { rel: "stylesheet", href: "/public/style.css" }
-
-        // The router manages which page is currently displayed
+        // document::Link { rel: "icon", href: FAVICON }
+        document::Link { rel: "stylesheet", href: CSS_FILE }
         Router::<Route> {}
     }
 }
 
-// A reusable header component with the theme toggle button
 #[component]
 pub fn Header(title: String, show_back_button: bool) -> Element {
-    let mut theme = THEME;
-
     let toggle_theme = move |_| {
-        use gloo_storage::{LocalStorage, Storage};
-        let new_theme = if theme.read().as_str() == "light" {
+        let new_theme = if THEME.read().as_str() == "light" {
             "dark"
         } else {
             "light"
         };
         let _ = LocalStorage::set("theme", new_theme);
-        theme.set(new_theme.to_string());
+
+        // --- CHANGE: Switched from .set() to .write() for mutation ---
+        // This explicitly gets a mutable reference to the signal's inner value.
+        *THEME.write() = new_theme.to_string();
     };
 
-    let theme_icon = if theme.read().as_str() == "light" {
+    let theme_icon = if THEME.read().as_str() == "light" {
         "🌙"
     } else {
         "☀️"
