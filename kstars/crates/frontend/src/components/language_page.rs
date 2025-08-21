@@ -1,9 +1,6 @@
-// src/components/language_page.rs
 
 use super::home::fetch_and_parse_csv;
 use super::sortable_table::SortableTable;
-// --- CHANGE ---
-// Corrected the import path.
 use crate::Header;
 use dioxus::prelude::*;
 
@@ -21,8 +18,6 @@ pub fn LanguagePage(lang: String) -> Element {
     });
 
     rsx! {
-        // --- CHANGE ---
-        // Used the full path `document::Title` to bring the component into scope.
         document::Title { "{page_title}" }
         Header { title: header_title, show_back_button: true }
         

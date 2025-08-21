@@ -1,5 +1,3 @@
-// src/main.rs
-
 use dioxus::prelude::*;
 use dioxus_logger::tracing::Level;
 use gloo_storage::{LocalStorage, Storage};
@@ -29,7 +27,6 @@ fn main() {
     launch(App);
 }
 
-// --- CHANGE: Added the #[component] attribute ---
 #[component]
 fn App() -> Element {
     use_effect(move || {
@@ -48,7 +45,6 @@ fn App() -> Element {
     });
 
     rsx! {
-        // document::Link { rel: "icon", href: FAVICON }
         document::Link { rel: "stylesheet", href: CSS_FILE }
         Router::<Route> {}
     }
@@ -64,8 +60,6 @@ pub fn Header(title: String, show_back_button: bool) -> Element {
         };
         let _ = LocalStorage::set("theme", new_theme);
 
-        // --- CHANGE: Switched from .set() to .write() for mutation ---
-        // This explicitly gets a mutable reference to the signal's inner value.
         *THEME.write() = new_theme.to_string();
     };
 

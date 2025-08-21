@@ -13,6 +13,7 @@ reqwest = "0.12.23"
 dioxus-logger = "0.6.2"
 gloo-storage = "0.3.0"
 web-sys = { version = "0.3.77", features = ["Window", "Document", "HtmlElement", "Element", "DomTokenList"] }
+log = "0.4.27"
 
 [features]
 default = ["web"]

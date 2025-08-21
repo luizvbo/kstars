@@ -84,7 +84,18 @@ fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
 }
 
 pub async fn fetch_and_parse_csv(url: &str) -> Result<Vec<Vec<String>>, reqwest::Error> {
-    let content = reqwest::get(url).await?.text().await?;
+    let origin = web_sys::window()
+        .expect("should have a window in this context")
+        .location()
+        .origin()
+        .expect("should have an origin");
+
+    let full_url = format!("{}{}", origin, url);
+
+    log::info!("Fetching CSV from: {}", full_url);
+
+    let content = reqwest::get(&full_url).await?.text().await?;
+
     let mut reader = csv::ReaderBuilder::new()
         .has_headers(false)
         .from_reader(content.as_bytes());

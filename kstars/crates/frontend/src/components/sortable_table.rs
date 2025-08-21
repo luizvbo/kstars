@@ -42,11 +42,8 @@ pub fn SortableTable(headers: Vec<String>, rows: Vec<Vec<String>>, truncate: boo
                 tr {
                     for (i, col) in headers.iter().enumerate() {
                         th {
-                            // --- CHANGE ---
-                            // The logic is now directly inside the onclick handler.
                             onclick: move |_| {
                                 if sort_column_index.read().as_ref() == Some(&i) {
-                                    // If clicking the same column, reverse direction
                                     let new_direction = if sort_direction() == SortDirection::Ascending {
                                         SortDirection::Descending
                                     } else {
@@ -54,7 +51,6 @@ pub fn SortableTable(headers: Vec<String>, rows: Vec<Vec<String>>, truncate: boo
                                     };
                                     sort_direction.set(new_direction);
                                 } else {
-                                    // If clicking a new column, set it and default to ascending
                                     sort_column_index.set(Some(i));
                                     sort_direction.set(SortDirection::Ascending);
                                 }
