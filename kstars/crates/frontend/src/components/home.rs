@@ -46,6 +46,14 @@ const LANGUAGES: &[(&str, &str)] = &[
 pub fn Home() -> Element {
     rsx! {
         Header { title: "kstars: Top 1000 GitHub Repos per Language".to_string(), show_back_button: false }
+
+        // --- NEW: Sticky Navigation Menu ---
+        nav { class: "language-nav",
+            for lang_data in LANGUAGES {
+                a { href: "#{lang_data.0}", "{lang_data.1}" }
+            }
+        }
+
         div { class: "container", id: "content",
             for lang_data in LANGUAGES {
                 LanguagePreview { language: lang_data }
@@ -62,6 +70,7 @@ fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
     });
 
     rsx! {
+        // The `id` here is the target for the anchor links in the nav menu
         div { class: "language-section", id: language.0,
             div { class: "language-header",
                 h2 { "{language.1}" }
@@ -75,7 +84,6 @@ fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
             if repo_data.read().is_empty() {
                 p { "Could not load preview data." }
             } else {
-                // --- FIX: Call the memo to get its value ---
                 SortableTable { repos: repo_data(), truncate: true }
             }
         }
