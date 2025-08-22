@@ -1,37 +1,32 @@
 /* assets/css/style.css */
 
-/* 1. Global Styles & CSS Variables for Theming */
+/* 1. Global Styles & Theming */
 :root {
   --font-sans:
     "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
     Arial, sans-serif;
-  --bg-color: #f8f9fa;
+  --bg-color: #f8f9fa; /* Light grey background */
   --text-color: #212529;
   --card-bg: #ffffff;
   --border-color: #dee2e6;
-  --primary-color: #007acc;
-  --primary-hover: #005fa3;
-  --link-color: #007acc;
-  --link-hover: #005fa3;
-  --shadow-color: rgba(0, 0, 0, 0.05);
-  --header-bg: #007acc;
-  --header-text: #ffffff;
-  --table-header-bg: #e9ecef;
+  --primary-color: #007bff;
+  --primary-hover: #0056b3;
+  --header-bg: #ffffff;
+  --header-text: #212529;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
 body.dark {
   --bg-color: #121212;
   --text-color: #e0e0e0;
   --card-bg: #1e1e1e;
-  --border-color: #343a40;
+  --border-color: #495057;
   --primary-color: #ff9800;
   --primary-hover: #e68900;
-  --link-color: #ff9800;
-  --link-hover: #e68900;
-  --shadow-color: rgba(0, 0, 0, 0.2);
-  --header-bg: #222222;
+  --header-bg: #1e1e1e;
   --header-text: #e0e0e0;
-  --table-header-bg: #33334d;
 }
 
 body {
@@ -42,8 +37,8 @@ body {
   padding: 0;
   line-height: 1.6;
   transition:
-    background-color 0.3s ease,
-    color 0.3s ease;
+    background-color 0.2s ease,
+    color 0.2s ease;
 }
 
 /* 2. Header */
@@ -54,23 +49,25 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 2px 10px var(--shadow-color);
-  z-index: 1001; /* Ensure header is above sticky nav */
-  position: relative;
+  border-bottom: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
 }
 
 header h1 {
   margin: 0;
   font-size: 1.5rem;
+  font-weight: 600;
 }
 
-/* 3. Sticky Language Navigation Menu (New!) */
+/* 3. Sticky Language Navigation (For Home Page) */
 .language-nav {
   position: sticky;
   top: 0;
-  background-color: var(--card-bg);
+  background-color: rgba(255, 255, 255, 0.85); /* Semi-transparent white */
+  backdrop-filter: blur(8px); /* Frosted glass effect */
+  -webkit-backdrop-filter: blur(8px);
   padding: 0.75rem 2rem;
-  box-shadow: 0 2px 5px var(--shadow-color);
+  box-shadow: var(--shadow-sm);
   z-index: 1000;
   display: flex;
   flex-wrap: wrap;
@@ -79,9 +76,13 @@ header h1 {
   border-bottom: 1px solid var(--border-color);
 }
 
+body.dark .language-nav {
+  background-color: rgba(30, 30, 30, 0.85); /* Dark semi-transparent */
+}
+
 .language-nav a {
   text-decoration: none;
-  color: var(--link-color);
+  color: var(--primary-color);
   font-weight: 500;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
@@ -92,12 +93,13 @@ header h1 {
 
 .language-nav a:hover {
   background-color: var(--primary-color);
-  color: var(--header-text);
+  color: white;
+  text-decoration: none;
 }
 
 /* 4. Main Content Layout */
 .container {
-  padding: 1rem 2rem;
+  padding: 2rem;
   max-width: 1400px;
   margin: 0 auto;
 }
@@ -106,9 +108,8 @@ header h1 {
   background-color: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: 8px;
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  box-shadow: 0 4px 12px var(--shadow-color);
+  margin-bottom: 2.5rem;
+  box-shadow: var(--shadow-md);
   scroll-margin-top: 80px; /* Offset for sticky nav */
 }
 
@@ -116,21 +117,40 @@ header h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1rem;
-  border-bottom: 1px solid var(--border-color);
-  padding-bottom: 1rem;
+  padding: 1.5rem;
 }
 
 .language-header h2 {
   margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
 }
 
-/* 5. Table Styling */
+a.cta-link {
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+a.cta-link:hover {
+  background-color: var(--bg-color);
+  border-color: var(--text-color);
+  text-decoration: none;
+}
+
+/* 5. Table Styling (with Overflow Fix) */
+.table-container {
+  overflow-x: auto; /* Allow horizontal scrolling on small screens */
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
-  overflow: hidden;
   font-size: 0.9rem;
+  /* FIX: This is the key to preventing text overflow */
+  table-layout: fixed;
 }
 
 th,
@@ -138,24 +158,35 @@ td {
   padding: 12px 15px;
   text-align: left;
   border-bottom: 1px solid var(--border-color);
-  max-width: 250px;
+  /* FIX: This helps break long words/URLs */
   overflow-wrap: break-word;
+  word-wrap: break-word; /* Legacy fallback */
+}
+
+tr:last-child td {
+  border-bottom: none;
 }
 
 th {
-  background-color: var(--table-header-bg);
+  background-color: var(--bg-color);
   font-weight: 600;
   cursor: pointer;
+  white-space: nowrap; /* Prevent headers from wrapping */
 }
 
-tbody tr:hover {
-  background-color: var(--shadow-color);
+td a {
+  color: var(--primary-color);
+  font-weight: 500;
 }
 
-/* 6. Buttons and Links */
+td a:hover {
+  color: var(--primary-hover);
+}
+
+/* 6. Buttons */
 button {
   background: var(--primary-color);
-  color: var(--header-text);
+  color: white;
   border: none;
   padding: 0.6rem 1.2rem;
   cursor: pointer;
@@ -167,20 +198,4 @@ button {
 
 button:hover {
   background: var(--primary-hover);
-}
-
-a {
-  color: var(--link-color);
-  text-decoration: none;
-  font-weight: 600;
-  transition: color 0.2s ease;
-}
-
-a:hover {
-  color: var(--link-hover);
-  text-decoration: underline;
-}
-
-a.cta-link {
-  font-weight: 500;
 }

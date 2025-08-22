@@ -18,13 +18,21 @@ pub fn LanguagePage(lang: String) -> Element {
     rsx! {
         document::Title { "{page_title}" }
         Header { title: header_title, show_back_button: true }
-        
+
         div { class: "container", id: "language-content",
-            if repo_data.read().is_empty() {
-                p { id: "loading-message", "No repository data found for {lang}." }
-            } else {
-                // --- FIX: Call the memo to get its value ---
-                SortableTable { repos: repo_data(), truncate: true }
+            // The new CSS will apply to this section automatically
+            div { class: "language-section",
+                 div { class: "language-header",
+                    h2 { "Top 1000 Repositories" }
+                }
+                if repo_data.read().is_empty() {
+                    p { id: "loading-message", "No repository data found for {lang}." }
+                } else {
+                    // Added a wrapper div for better responsiveness
+                    div { class: "table-container",
+                        SortableTable { repos: repo_data(), truncate: true }
+                    }
+                }
             }
         }
     }
