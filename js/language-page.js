@@ -1,6 +1,3 @@
-// js/language-page.js
-
-// --- Re-using the same constants from main.js for consistency ---
 const NUMERIC_HEADERS = new Set([
   "Ranking",
   "Stars",
@@ -22,6 +19,7 @@ const HEADER_TO_CLASS_MAP = {
   Description: "td-description",
   "Project Name": "td-project-name",
   "Repo URL": "td-repo-url",
+  Repository: "td-repo-url",
   Language: "td-language",
 };
 
@@ -35,7 +33,6 @@ function truncateStringAtWord(str, maxChars) {
   );
 }
 
-// --- UPDATED: The same smarter createTable function ---
 function createTable(data) {
   const table = document.createElement("table");
   table.setAttribute("data-sortable", "");
@@ -43,6 +40,11 @@ function createTable(data) {
   const thead = document.createElement("thead");
   const headerRow = document.createElement("tr");
   const headers = data[0];
+
+  const repoUrlIndex =
+    headers.indexOf("Repository") !== -1
+      ? headers.indexOf("Repository")
+      : headers.indexOf("Repo URL");
 
   headers.forEach((colText) => {
     const th = document.createElement("th");
@@ -58,10 +60,17 @@ function createTable(data) {
   const tbody = document.createElement("tbody");
   for (let i = 1; i < data.length; i++) {
     const rowData = data[i];
-    // Skip empty rows that PapaParse might create
     if (!rowData || rowData.length < headers.length) continue;
 
     const row = document.createElement("tr");
+
+    if (repoUrlIndex !== -1 && rowData[repoUrlIndex]) {
+      row.style.cursor = "pointer";
+      row.addEventListener("click", () => {
+        window.open(rowData[repoUrlIndex], "_blank");
+      });
+    }
+
     rowData.forEach((cellText, colIndex) => {
       const td = document.createElement("td");
       const headerText = headers[colIndex];
@@ -70,11 +79,12 @@ function createTable(data) {
         td.classList.add(HEADER_TO_CLASS_MAP[headerText]);
       }
 
-      if (headerText === "Repo URL" && cellText) {
+      if (colIndex === repoUrlIndex && cellText) {
         const link = document.createElement("a");
         link.href = cellText;
         link.target = "_blank";
         link.textContent = cellText.replace("https://github.com/", "");
+        link.addEventListener("click", (e) => e.stopPropagation());
         td.appendChild(link);
       } else {
         td.textContent = truncateStringAtWord(cellText, 150);
@@ -131,7 +141,6 @@ document.addEventListener("DOMContentLoaded", () => {
     },
   });
 
-  // --- Theme Toggle Logic ---
   function applyTheme(isDark) {
     document.body.classList.toggle("dark", isDark);
     themeIcon.textContent = isDark ? "☀️" : "🌙";

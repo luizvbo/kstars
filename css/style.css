@@ -13,7 +13,6 @@
   --table-header-bg: #f8f9fa;
   --row-hover-bg: #f1f3f5;
   --header-height: 60px;
-  --nav-height: 50px;
 }
 
 body.dark {
@@ -37,7 +36,7 @@ body {
 }
 
 /* 2. Main Header */
-header {
+.main-header {
   background-color: var(--header-bg);
   color: var(--header-text);
   padding: 0 2rem;
@@ -47,7 +46,7 @@ header {
   justify-content: center;
   position: sticky;
   top: 0;
-  z-index: 1001;
+  z-index: 1001; /* Header is on top */
 }
 
 .header-content {
@@ -58,42 +57,58 @@ header {
   align-items: center;
 }
 
-header h1 {
+.header-content h1 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: 600;
 }
 
-/* 3. Language Navigation Bar */
-.language-nav {
-  background-color: var(--bg-color);
-  padding: 0 2rem;
-  height: var(--nav-height);
-  border-bottom: 1px solid var(--border-color);
+.header-actions {
   display: flex;
   align-items: center;
+  gap: 0.5rem;
+}
+
+/* 3. Hover-to-Show Language Navigation Bar */
+.language-nav {
+  background-color: var(--bg-color);
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--border-color);
   position: sticky;
   top: var(--header-height);
   z-index: 1000;
+  transform: translateY(-100%);
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    transform 0.3s ease-in-out,
+    opacity 0.3s ease-in-out;
+}
+
+.main-header:hover + .language-nav,
+.language-nav:hover {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
 }
 
 .language-nav-links {
   width: 100%;
   max-width: 1400px;
   margin: 0 auto;
-  display: flex;
-  align-items: center;
-  gap: 1.5rem;
-  overflow-x: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem 1.5rem;
 }
 
 .language-nav-links a {
-  white-space: nowrap;
   color: var(--text-color);
   font-weight: 500;
   text-decoration: none;
-  opacity: 0.7;
-  transition: opacity 0.2s ease;
+  opacity: 0.8;
+  transition:
+    opacity 0.2s ease,
+    color 0.2s ease;
 }
 .language-nav-links a:hover {
   opacity: 1;
@@ -108,7 +123,7 @@ header h1 {
 }
 
 .language-section {
-  scroll-margin-top: calc(var(--header-height) + var(--nav-height) + 20px);
+  scroll-margin-top: calc(var(--header-height) + 20px);
   margin-bottom: 3rem;
 }
 
@@ -156,8 +171,28 @@ th {
   cursor: pointer;
 }
 
+tbody tr {
+  transition: background-color 0.15s ease-in-out;
+}
+
 tbody tr:hover {
   background-color: var(--row-hover-bg);
+  cursor: pointer;
+}
+
+/* Styles for sorting arrows */
+th[data-sorted-direction="ascending"]::after,
+th[data-sorted-direction="descending"]::after {
+  vertical-align: middle;
+  margin-left: 0.3em;
+  color: var(--primary-color);
+  font-size: 0.9em;
+}
+th[data-sorted-direction="ascending"]::after {
+  content: "\25B2"; /* Unicode for solid up arrow */
+}
+th[data-sorted-direction="descending"]::after {
+  content: "\25BC"; /* Unicode for solid down arrow */
 }
 
 /* Column-specific styling */
@@ -193,18 +228,30 @@ td a:hover {
 }
 
 /* 6. Buttons & Links */
-button {
+.header-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: transparent;
   color: var(--header-text);
-  border: 1px solid var(--header-text);
+  border: 1px solid rgba(255, 255, 255, 0.5);
   padding: 0.4rem 0.8rem;
   cursor: pointer;
   border-radius: 6px;
   font-weight: 500;
   transition: all 0.2s ease;
+  text-decoration: none;
+  font-size: 0.9rem;
 }
-button:hover {
+.header-button:hover {
   background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.8);
+}
+.header-button .github-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 0.5em;
+  fill: currentColor;
 }
 
 a.cta-link {

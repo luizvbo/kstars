@@ -1,6 +1,3 @@
-// js/main.js
-
-// --- NEW: A list of headers that should be treated as numbers for sorting ---
 const NUMERIC_HEADERS = new Set([
   "Ranking",
   "Stars",
@@ -9,8 +6,6 @@ const NUMERIC_HEADERS = new Set([
   "Open Issues",
   "Size (KB)",
 ]);
-
-// --- NEW: A map for adding CSS classes to table cells for specific styling ---
 const HEADER_TO_CLASS_MAP = {
   Ranking: "td-ranking",
   Stars: "td-stars",
@@ -24,6 +19,7 @@ const HEADER_TO_CLASS_MAP = {
   Description: "td-description",
   "Project Name": "td-project-name",
   "Repo URL": "td-repo-url",
+  Repository: "td-repo-url",
   Language: "td-language",
 };
 
@@ -80,7 +76,6 @@ function truncateStringAtWord(str, maxChars) {
   );
 }
 
-// --- UPDATED: The new, smarter createTable function ---
 function createTable(data, maxRows) {
   const table = document.createElement("table");
   table.setAttribute("data-sortable", "");
@@ -89,10 +84,14 @@ function createTable(data, maxRows) {
   const headerRow = document.createElement("tr");
   const headers = data[0];
 
+  const repoUrlIndex =
+    headers.indexOf("Repository") !== -1
+      ? headers.indexOf("Repository")
+      : headers.indexOf("Repo URL");
+
   headers.forEach((colText) => {
     const th = document.createElement("th");
     th.textContent = colText;
-    // --- FIX: Activate numeric sorting for specific columns ---
     if (NUMERIC_HEADERS.has(colText)) {
       th.setAttribute("data-sortable-type", "numeric");
     }
@@ -108,24 +107,31 @@ function createTable(data, maxRows) {
 
   for (let i = 1; i < rowsToRender; i++) {
     const rowData = data[i];
-    if (!rowData || rowData.length === 0) continue;
+    if (!rowData || rowData.length < headers.length) continue;
 
     const row = document.createElement("tr");
+
+    if (repoUrlIndex !== -1 && rowData[repoUrlIndex]) {
+      row.style.cursor = "pointer"; // Add visual feedback
+      row.addEventListener("click", () => {
+        window.open(rowData[repoUrlIndex], "_blank");
+      });
+    }
+
     rowData.forEach((cellText, colIndex) => {
       const td = document.createElement("td");
       const headerText = headers[colIndex];
 
-      // --- FIX: Add specific classes for styling ---
       if (HEADER_TO_CLASS_MAP[headerText]) {
         td.classList.add(HEADER_TO_CLASS_MAP[headerText]);
       }
 
-      // --- FIX: Custom rendering for Repo URL ---
-      if (headerText === "Repo URL" && cellText) {
+      if (colIndex === repoUrlIndex && cellText) {
         const link = document.createElement("a");
         link.href = cellText;
         link.target = "_blank";
         link.textContent = cellText.replace("https://github.com/", "");
+        link.addEventListener("click", (e) => e.stopPropagation());
         td.appendChild(link);
       } else {
         td.textContent = truncateStringAtWord(cellText, 150);
@@ -200,7 +206,6 @@ const contentDiv = document.getElementById("content");
 const navLinksDiv = document.getElementById("language-nav-links");
 let loadedLanguagesCount = 0;
 
-// --- NEW: Populate the navigation bar ---
 languages.forEach((lang) => {
   const link = document.createElement("a");
   link.href = `#${lang[0]}`;
