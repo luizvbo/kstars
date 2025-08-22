@@ -1,169 +1,238 @@
-body {
-  font-family: "Inter", sans-serif;
-  background-color: #f8f9fa;
-  color: #212529;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-  transition:
-    background-color 0.3s ease,
-    color 0.3s ease;
+/* 1. Global Styles & Theming */
+:root {
+  --font-sans:
+    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  --bg-color: #ffffff;
+  --text-color: #212529;
+  --border-color: #e9ecef;
+  --primary-color: #007bff;
+  --primary-hover: #0056b3;
+  --header-bg: #007bff;
+  --header-text: #ffffff;
+  --table-header-bg: #f8f9fa;
+  --row-hover-bg: #f1f3f5;
+  --header-height: 60px;
+  --nav-height: 50px;
 }
 
 body.dark {
-  background-color: #1e1e2e;
-  color: #e0e0e0;
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+  --border-color: #343a40;
+  --primary-color: #3b82f6;
+  --primary-hover: #60a5fa;
+  --header-bg: #212529;
+  --header-text: #e0e0e0;
+  --table-header-bg: #2c3136;
+  --row-hover-bg: #343a40;
 }
 
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+}
+
+/* 2. Main Header */
 header {
-  background-color: #007acc;
-  color: white;
-  padding: 1rem;
+  background-color: var(--header-bg);
+  color: var(--header-text);
+  padding: 0 2rem;
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 1001;
+}
+
+.header-content {
+  width: 100%;
+  max-width: 1400px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  top: 0;
-  width: 100%;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+/* 3. Language Navigation Bar */
+.language-nav {
+  background-color: var(--bg-color);
+  padding: 0 2rem;
+  height: var(--nav-height);
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: var(--header-height);
   z-index: 1000;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
 
-body.dark header {
-  background-color: #222;
-}
-
-.container {
+.language-nav-links {
   width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
   overflow-x: auto;
+}
+
+.language-nav-links a {
+  white-space: nowrap;
+  color: var(--text-color);
+  font-weight: 500;
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+.language-nav-links a:hover {
+  opacity: 1;
+  color: var(--primary-color);
+}
+
+/* 4. Main Content Layout */
+.container {
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.language-section {
+  scroll-margin-top: calc(var(--header-height) + var(--nav-height) + 20px);
+  margin-bottom: 3rem;
+}
+
+.language-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.language-header h2 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+/* 5. Table Styling */
+.table-container {
+  overflow-x: auto;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
 }
 
 table {
   width: 100%;
-  table-layout: auto;
   border-collapse: collapse;
-  background: white;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
-
-body.dark table {
-  background: #282a36;
-}
-
-td {
-  overflow-wrap: break-word;
-  max-width: 250px;
+  font-size: 0.9rem;
 }
 
 th,
 td {
-  padding: 12px;
-  border: 1px solid #ddd;
+  padding: 12px 15px;
   text-align: left;
-  width: auto;
+  border-bottom: 1px solid var(--border-color);
+  vertical-align: top;
+}
+
+tr:last-child td {
+  border-bottom: none;
 }
 
 th {
-  background-color: #e9ecef;
-  cursor: pointer;
-  position: relative;
-  padding-right: 20px;
-}
-
-body.dark th {
-  background-color: #33334d;
-}
-
-tr:hover {
-  background: rgba(0, 0, 0, 0.05);
-}
-
-body.dark tr:hover {
-  background: rgba(255, 255, 255, 0.1);
-}
-
-/* Buttons */
-button {
-  background: #0077cc;
-  color: white;
-  border: solit 1px white;
-  padding: 0.6rem 1.2rem;
-  cursor: pointer;
-  border-radius: 4px;
-  font-weight: bold;
-  transition: 0.3s;
-  font-size: 1rem;
-}
-
-button:hover {
-  background: #005fa3;
-}
-
-body.dark button {
-  background: #ff9800;
-  color: #1e1e2e;
-}
-
-body.dark button:hover {
-  background: #e68900;
-}
-
-a {
-  color: #0077cc;
-  text-decoration: none;
+  background-color: var(--table-header-bg);
   font-weight: 600;
-  transition:
-    color 0.3s ease,
-    transform 0.2s ease;
+  cursor: pointer;
 }
 
-a:hover {
-  color: #005fa3;
-  transform: scale(1.05);
+tbody tr:hover {
+  background-color: var(--row-hover-bg);
+}
+
+/* Column-specific styling */
+.td-ranking,
+.td-stars,
+.td-forks,
+.td-watchers,
+.td-open-issues,
+.td-size-kb {
+  text-align: right;
+  white-space: nowrap;
+}
+.td-created-at,
+.td-last-commit,
+.td-project-name,
+.td-repo-url,
+.td-language,
+.td-size {
+  white-space: nowrap;
+}
+.td-description {
+  word-break: break-word;
+  min-width: 250px;
+}
+
+td a {
+  color: var(--primary-color);
+  font-weight: 500;
+  text-decoration: none;
+}
+td a:hover {
   text-decoration: underline;
 }
 
-body.dark a {
-  color: #ff9800;
+/* 6. Buttons & Links */
+button {
+  background: transparent;
+  color: var(--header-text);
+  border: 1px solid var(--header-text);
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
-body.dark a:hover {
-  color: #e68900;
-}
-
-table[data-sortable] th[data-sorted-direction="ascending"]:after {
-  content: " ▲";
-  font-size: 0.8rem;
-}
-
-table[data-sortable] th[data-sorted-direction="descending"]:after {
-  content: " ▼";
-  font-size: 0.8rem;
-}
-
-.language-links {
-  display: grid;
-  grid-template-columns: repeat(
-    auto-fit,
-    minmax(150px, 1fr)
-  ); /* Dynamic columns */
-  gap: 10px;
-  padding: 20px;
-}
-
-.language-links a {
-  display: block;
+a.cta-link {
+  font-weight: 500;
+  color: var(--primary-color);
   text-decoration: none;
-  padding: 8px;
-  background: var(--link-bg);
-  color: var(--link-color);
-  border-radius: 5px;
-  text-align: center;
-  transition: 0.3s ease-in-out;
+}
+a.cta-link:hover {
+  text-decoration: underline;
 }
 
-.language-links a:hover {
-  background: var(--link-hover-bg);
-  color: var(--link-hover-color);
+/* 7. Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--primary-color);
+  border-radius: 10px;
+  border: 2px solid var(--bg-color);
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--primary-hover);
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--primary-color) transparent;
 }

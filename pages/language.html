@@ -3,31 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- Title will be set dynamically by JS -->
     <title>kstars: Top 1000 GitHub Repos</title>
-    <!-- Adjust path for CSS relative to the 'pages' directory -->
     <link rel="stylesheet" href="../css/style.css" />
   </head>
   <body>
-    <header>
-      <!-- Heading will be updated by JS -->
-      <h1 id="language-title">Top 1000 GitHub Repos</h1>
-      <div>
-        <a href="../index.html" style="color: white; margin-right: 15px"
-          >Back to Home</a
-        >
-        <button id="themeToggle">
-          <span id="themeIcon">🌙</span> Toggle Theme
-        </button>
+    <header class="main-header">
+      <div class="header-content">
+        <h1 id="language-title">Top 1000 GitHub Repos</h1>
+        <div>
+          <a href="../index.html" class="cta-link" style="margin-right: 1rem"
+            >← Back to all languages</a
+          >
+          <button id="themeToggle">
+            <span id="themeIcon">🌙</span>
+          </button>
+        </div>
       </div>
     </header>
 
     <div class="container" id="language-content">
-      <!-- Table will be injected here -->
       <p id="loading-message">Loading data...</p>
     </div>
 
-    <!-- JS Libraries for CSV parsing, table sorting and general handling -->
     <script src="../js/sortable.min.js"></script>
     <script src="../js/papaparse.min.js"></script>
     <script src="../js/language-page.js"></script>
