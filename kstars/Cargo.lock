@@ -1698,6 +1698,7 @@ dependencies = [
  "gloo-storage",
  "log",
  "reqwest",
+ "serde",
  "web-sys",
 ]
 

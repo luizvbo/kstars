@@ -4,6 +4,7 @@ use gloo_storage::{LocalStorage, Storage};
 
 mod components;
 mod data_loader;
+mod schema;
 
 use components::home::Home;
 use components::language_page::LanguagePage;

@@ -1,5 +1,7 @@
+// src/components/home.rs
+
 use super::sortable_table::SortableTable;
-use crate::{data_loader::get_csv_data, Header, Route};
+use crate::{data_loader::get_repo_data, Header, Route};
 use dioxus::prelude::*;
 
 const LANGUAGES: &[(&str, &str)] = &[
@@ -54,9 +56,9 @@ pub fn Home() -> Element {
 
 #[component]
 fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
-    let csv_data = use_memo(move || {
+    let repo_data = use_memo(move || {
         let file_name = format!("top10_{}.csv", language.0);
-        get_csv_data(&file_name)
+        get_repo_data(&file_name)
     });
 
     rsx! {
@@ -70,15 +72,11 @@ fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
                 }
             }
 
-            if csv_data.read().is_empty() {
+            if repo_data.read().is_empty() {
                 p { "Could not load preview data." }
             } else {
-                // --- FIX: Moved the logic directly into the component props ---
-                SortableTable {
-                    headers: csv_data.read().get(0).cloned().unwrap_or_default(),
-                    rows: csv_data.read().iter().skip(1).cloned().collect(),
-                    truncate: true
-                }
+                // --- FIX: Call the memo to get its value ---
+                SortableTable { repos: repo_data(), truncate: true }
             }
         }
     }
