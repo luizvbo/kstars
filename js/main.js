@@ -1,4 +1,28 @@
-// Function to load a CSV file and add its table to the page.
+const NUMERIC_HEADERS = new Set([
+  "Ranking",
+  "Stars",
+  "Forks",
+  "Watchers",
+  "Open Issues",
+  "Size (KB)",
+]);
+const HEADER_TO_CLASS_MAP = {
+  Ranking: "td-ranking",
+  Stars: "td-stars",
+  Forks: "td-forks",
+  Watchers: "td-watchers",
+  "Open Issues": "td-open-issues",
+  "Created At": "td-created-at",
+  "Last Commit": "td-last-commit",
+  Size: "td-size",
+  "Size (KB)": "td-size-kb",
+  Description: "td-description",
+  "Project Name": "td-project-name",
+  "Repo URL": "td-repo-url",
+  Repository: "td-repo-url",
+  Language: "td-language",
+};
+
 function loadCSV(language, folder, prefix) {
   Papa.parse(`${folder}/${prefix}${language[0]}.csv`, {
     download: true,
@@ -6,26 +30,27 @@ function loadCSV(language, folder, prefix) {
     complete: function (results) {
       const sectionDiv = document.createElement("div");
       sectionDiv.classList.add("language-section");
-      sectionDiv.id = language[0]; // Add ID for linking
+      sectionDiv.id = language[0];
 
       const headerDiv = document.createElement("div");
       headerDiv.classList.add("language-header");
-
       const h2 = document.createElement("h2");
       h2.textContent = language[1];
       headerDiv.appendChild(h2);
-
       const link = document.createElement("a");
       link.href = `pages/language.html?lang=${encodeURIComponent(language[0])}`;
       link.textContent = "View full list (Top 1000)";
       link.classList.add("cta-link");
       headerDiv.appendChild(link);
-
       sectionDiv.appendChild(headerDiv);
 
       if (results.data && results.data.length > 1) {
-        const table = createTable(results.data);
-        sectionDiv.appendChild(table);
+        // --- FIX: Wrap table in a container for responsiveness ---
+        const tableContainer = document.createElement("div");
+        tableContainer.className = "table-container";
+        const table = createTable(results.data, 10); // Show top 10
+        tableContainer.appendChild(table);
+        sectionDiv.appendChild(tableContainer);
       } else {
         sectionDiv.appendChild(
           document.createTextNode("Could not load preview data."),
@@ -33,7 +58,6 @@ function loadCSV(language, folder, prefix) {
       }
 
       contentDiv.appendChild(sectionDiv);
-
       loadedLanguagesCount++;
       if (loadedLanguagesCount === languages.length) {
         Sortable.init();
@@ -42,54 +66,76 @@ function loadCSV(language, folder, prefix) {
   });
 }
 
-// Function to truncate a string to maxChars, making sure that it stops at the last word.
-// E.g., truncateStringAtWord("I love birds", 10) returns "I love..." and not "I love bir..."
 function truncateStringAtWord(str, maxChars) {
-  if (str.length <= maxChars) {
-    return str;
-  }
-
+  if (!str || str.length <= maxChars) return str;
   const truncated = str.slice(0, maxChars);
   const lastSpaceIndex = truncated.lastIndexOf(" ");
-
-  if (lastSpaceIndex === -1) {
-    return truncated + "...";
-  }
-
-  return truncated.slice(0, lastSpaceIndex) + "...";
+  return (
+    (lastSpaceIndex === -1 ? truncated : truncated.slice(0, lastSpaceIndex)) +
+    "..."
+  );
 }
 
-// Function to create a sortable table from CSV data.
-// Make sure this function exists and is accessible by loadCSV
-function createTable(data) {
+function createTable(data, maxRows) {
   const table = document.createElement("table");
   table.setAttribute("data-sortable", "");
-  table.classList.add(
-    document.body.classList.contains("dark")
-      ? "sortable-theme-dark"
-      : "sortable-theme-light",
-  );
 
   const thead = document.createElement("thead");
   const headerRow = document.createElement("tr");
+  const headers = data[0];
 
-  if (data && data[0]) {
-    data[0].forEach((col, index) => {
-      const th = document.createElement("th");
-      th.textContent = col;
-      th.setAttribute("data-index", index);
-      headerRow.appendChild(th);
-    });
-  }
+  const repoUrlIndex =
+    headers.indexOf("Repository") !== -1
+      ? headers.indexOf("Repository")
+      : headers.indexOf("Repo URL");
+
+  headers.forEach((colText) => {
+    const th = document.createElement("th");
+    th.textContent = colText;
+    if (NUMERIC_HEADERS.has(colText)) {
+      th.setAttribute("data-sortable-type", "numeric");
+    }
+    headerRow.appendChild(th);
+  });
   thead.appendChild(headerRow);
   table.appendChild(thead);
 
   const tbody = document.createElement("tbody");
-  for (let i = 1; i < Math.min(data.length, 11); i++) {
+  const rowsToRender = maxRows
+    ? Math.min(data.length, maxRows + 1)
+    : data.length;
+
+  for (let i = 1; i < rowsToRender; i++) {
+    const rowData = data[i];
+    if (!rowData || rowData.length < headers.length) continue;
+
     const row = document.createElement("tr");
-    data[i].forEach((cell) => {
+
+    if (repoUrlIndex !== -1 && rowData[repoUrlIndex]) {
+      row.style.cursor = "pointer"; // Add visual feedback
+      row.addEventListener("click", () => {
+        window.open(rowData[repoUrlIndex], "_blank");
+      });
+    }
+
+    rowData.forEach((cellText, colIndex) => {
       const td = document.createElement("td");
-      td.textContent = truncateStringAtWord(cell, 150);
+      const headerText = headers[colIndex];
+
+      if (HEADER_TO_CLASS_MAP[headerText]) {
+        td.classList.add(HEADER_TO_CLASS_MAP[headerText]);
+      }
+
+      if (colIndex === repoUrlIndex && cellText) {
+        const link = document.createElement("a");
+        link.href = cellText;
+        link.target = "_blank";
+        link.textContent = cellText.replace("https://github.com/", "");
+        link.addEventListener("click", (e) => e.stopPropagation());
+        td.appendChild(link);
+      } else {
+        td.textContent = truncateStringAtWord(cellText, 150);
+      }
       row.appendChild(td);
     });
     tbody.appendChild(row);
@@ -98,46 +144,26 @@ function createTable(data) {
   return table;
 }
 
+// --- Theme Toggle Logic (updated for new button) ---
 document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll("table[data-sortable] th").forEach((th) => {
-    th.addEventListener("click", function () {
-      const sortedAsc =
-        this.getAttribute("data-sorted-direction") === "ascending";
-      document
-        .querySelectorAll("th")
-        .forEach((th) => th.removeAttribute("data-sorted"));
-      this.setAttribute("data-sorted", "true");
-      this.setAttribute(
-        "data-sorted-direction",
-        sortedAsc ? "descending" : "ascending",
-      );
-    });
+  const themeToggle = document.getElementById("themeToggle");
+  const themeIcon = document.getElementById("themeIcon");
+
+  function applyTheme(isDark) {
+    document.body.classList.toggle("dark", isDark);
+    themeIcon.textContent = isDark ? "☀️" : "🌙";
+  }
+
+  const savedTheme = localStorage.getItem("theme");
+  applyTheme(savedTheme === "dark");
+
+  themeToggle.addEventListener("click", function () {
+    const isDark = !document.body.classList.contains("dark");
+    applyTheme(isDark);
+    localStorage.setItem("theme", isDark ? "dark" : "light");
   });
 });
 
-// Theme Toggle
-const themeToggle = document.getElementById("themeToggle");
-const themeIcon = document.getElementById("themeIcon");
-
-function applyTheme(isDark) {
-  document.body.classList.toggle("dark", isDark);
-  document.querySelectorAll("table[data-sortable]").forEach((table) => {
-    table.classList.toggle("sortable-theme-dark", isDark);
-    table.classList.toggle("sortable-theme-light", !isDark);
-  });
-  themeIcon.textContent = isDark ? "☀️" : "🌙";
-}
-
-const savedTheme = localStorage.getItem("theme");
-applyTheme(savedTheme === "dark");
-
-themeToggle.addEventListener("click", function () {
-  const isDark = document.body.classList.contains("dark");
-  applyTheme(!isDark);
-  localStorage.setItem("theme", !isDark ? "dark" : "light");
-});
-
-// Ensure languages array is defined before this loop
 const languages = [
   ["ActionScript", "ActionScript"],
   ["C", "C"],
@@ -177,7 +203,14 @@ const languages = [
 ];
 
 const contentDiv = document.getElementById("content");
-let loadedLanguagesCount = 0; // Ensure this is defined
+const navLinksDiv = document.getElementById("language-nav-links");
+let loadedLanguagesCount = 0;
 
-// Load each language’s top-10 CSV.
+languages.forEach((lang) => {
+  const link = document.createElement("a");
+  link.href = `#${lang[0]}`;
+  link.textContent = lang[1];
+  navLinksDiv.appendChild(link);
+});
+
 languages.forEach((language) => loadCSV(language, "data/processed", "top10_"));
