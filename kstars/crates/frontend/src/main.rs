@@ -1,3 +1,5 @@
+// src/main.rs
+
 use dioxus::prelude::*;
 use dioxus_logger::tracing::Level;
 use gloo_storage::{LocalStorage, Storage};
@@ -6,7 +8,7 @@ mod components;
 mod data_loader;
 mod schema;
 
-use components::home::Home;
+use components::home::{Home, LANGUAGES};
 use components::language_page::LanguagePage;
 
 #[derive(Routable, Clone, PartialEq, Debug)]
@@ -48,13 +50,13 @@ fn App() -> Element {
     });
 
     rsx! {
-        document::Link { rel: "stylesheet", href: CSS_FILE }
+        link { rel: "stylesheet", href: CSS_FILE }
         Router::<Route> {}
     }
 }
 
 #[component]
-pub fn Header(title: String, show_back_button: bool) -> Element {
+pub fn Header(title: String, show_back_button: bool, is_home: bool) -> Element {
     let toggle_theme = move |_| {
         let new_theme = if THEME.read().as_str() == "light" {
             "dark"
@@ -62,7 +64,6 @@ pub fn Header(title: String, show_back_button: bool) -> Element {
             "light"
         };
         let _ = LocalStorage::set("theme", new_theme);
-
         *THEME.write() = new_theme.to_string();
     };
 
@@ -74,18 +75,55 @@ pub fn Header(title: String, show_back_button: bool) -> Element {
 
     rsx! {
         header {
-            h1 { "{title}" }
-            div {
-                if show_back_button {
-                    a {
-                        href: "/",
-                        style: "color: white; margin-right: 15px",
-                        "Back to Home"
+            div { class: "header-content",
+                h1 { "{title}" }
+                nav { class: "header-nav",
+                    if is_home {
+                        div { class: "language-nav-links",
+                            for lang_data in LANGUAGES {
+                                a { href: "#{lang_data.0}", "{lang_data.1}" }
+                            }
+                        }
                     }
+                    if show_back_button {
+                        // --- CHANGE: Made this a button-like link ---
+                        Link { to: Route::Home {}, class: "cta-link",
+                            button { "Back to Home" }
+                        }
+                    }
+                    button { onclick: toggle_theme, "{theme_icon}" }
                 }
-                button { id: "themeToggle", onclick: toggle_theme,
-                    span { id: "themeIcon", "{theme_icon}" }
-                    " Toggle Theme"
+            }
+        }
+    }
+}
+
+#[component]
+pub fn MainHeader(title: String) -> Element {
+    let toggle_theme = move |_| {
+        let new_theme = if THEME.read().as_str() == "light" { "dark" } else { "light" };
+        let _ = LocalStorage::set("theme", new_theme);
+        *THEME.write() = new_theme.to_string();
+    };
+    let theme_icon = if THEME.read().as_str() == "light" { "🌙" } else { "☀️" };
+
+    rsx! {
+        header { class: "main-header",
+            div { class: "header-content",
+                h1 { "{title}" }
+                button { onclick: toggle_theme, "{theme_icon}" }
+            }
+        }
+    }
+}
+
+#[component]
+pub fn LanguageNav() -> Element {
+    rsx! {
+        nav { class: "language-nav",
+            div { class: "language-nav-links",
+                for lang_data in LANGUAGES {
+                    a { href: "#{lang_data.0}", "{lang_data.1}" }
                 }
             }
         }

@@ -34,8 +34,7 @@ fn App() -> Element {
     let theme_class = THEME.read().clone();
 
     rsx! {
-        div {
-            class: "{theme_class}",
+        div { class: "{theme_class}",
             link { rel: "stylesheet", href: "/public/style.css" }
             Router::<Route> {}
         }
@@ -67,11 +66,7 @@ pub fn Header(title: String, show_back_button: bool) -> Element {
             h1 { "{title}" }
             div {
                 if show_back_button {
-                    a {
-                        href: "/",
-                        style: "color: white; margin-right: 15px",
-                        "Back to Home"
-                    }
+                    a { href: "/", style: "color: white; margin-right: 15px", "Back to Home" }
                 }
                 button { id: "themeToggle", onclick: toggle_theme,
                     span { id: "themeIcon", "{theme_icon}" }

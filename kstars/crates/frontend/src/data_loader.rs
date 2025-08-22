@@ -5,10 +5,25 @@ fn parse_repos(csv_content: &str) -> Vec<Repo> {
         .has_headers(true)
         .from_reader(csv_content.as_bytes());
 
-    reader.deserialize().filter_map(Result::ok).collect()
+    // --- THIS IS THE FIX ---
+    // We now manually iterate and log errors instead of silently filtering.
+    let mut repos = Vec::new();
+    for (index, result) in reader.deserialize().enumerate() {
+        match result {
+            Ok(repo) => repos.push(repo),
+            Err(e) => {
+                // This will print a detailed error to your browser's developer console
+                // for each row that fails, telling you exactly what's wrong.
+                log::error!("Failed to parse CSV row {}: {:?}", index + 2, e);
+            }
+        }
+    }
+    repos
 }
 
 pub fn get_repo_data(file_name: &str) -> Vec<Repo> {
+    log::info!("Attempting to load data for: '{}'", file_name);
+
     let csv_content = match file_name {
         "ActionScript.csv" => include_str!("../../../../data/processed/ActionScript.csv"),
         "C.csv" => include_str!("../../../../data/processed/C.csv"),
@@ -85,7 +100,14 @@ pub fn get_repo_data(file_name: &str) -> Vec<Repo> {
         "top10_TeX.csv" => include_str!("../../../../data/processed/top10_TeX.csv"),
         "top10_TypeScript.csv" => include_str!("../../../../data/processed/top10_TypeScript.csv"),
         "top10_Vim-script.csv" => include_str!("../../../../data/processed/top10_Vim-script.csv"),
-        _ => "",
+
+        _ => {
+            if cfg!(debug_assertions) {
+                panic!("Failed to find embedded CSV file: '{}'. Make sure it is listed in src/data_loader.rs and the file exists.", file_name);
+            } else {
+                ""
+            }
+        }
     };
 
     parse_repos(csv_content)

@@ -5,28 +5,29 @@
   --font-sans:
     "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
     Arial, sans-serif;
-  --bg-color: #f8f9fa; /* Light grey background */
+  --bg-color: #ffffff;
   --text-color: #212529;
-  --card-bg: #ffffff;
-  --border-color: #dee2e6;
+  --border-color: #e9ecef;
   --primary-color: #007bff;
   --primary-hover: #0056b3;
-  --header-bg: #ffffff;
-  --header-text: #212529;
-  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  --shadow-md:
-    0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --header-bg: #007bff;
+  --header-text: #ffffff;
+  --table-header-bg: #f8f9fa;
+  --row-hover-bg: #f1f3f5;
+  --header-height: 60px;
+  --nav-height: 50px;
 }
 
 body.dark {
   --bg-color: #121212;
   --text-color: #e0e0e0;
-  --card-bg: #1e1e1e;
-  --border-color: #495057;
-  --primary-color: #ff9800;
-  --primary-hover: #e68900;
-  --header-bg: #1e1e1e;
+  --border-color: #343a40;
+  --primary-color: #3b82f6;
+  --primary-hover: #60a5fa;
+  --header-bg: #212529;
   --header-text: #e0e0e0;
+  --table-header-bg: #2c3136;
+  --row-hover-bg: #343a40;
 }
 
 body {
@@ -35,66 +36,70 @@ body {
   color: var(--text-color);
   margin: 0;
   padding: 0;
-  line-height: 1.6;
-  transition:
-    background-color 0.2s ease,
-    color 0.2s ease;
 }
 
-/* 2. Header */
-header {
+/* 2. Main Header */
+.main-header {
   background-color: var(--header-bg);
   color: var(--header-text);
-  padding: 1rem 2rem;
+  padding: 0 2rem;
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 1001;
+}
+
+.header-content {
+  width: 100%;
+  max-width: 1400px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid var(--border-color);
-  box-shadow: var(--shadow-sm);
 }
 
-header h1 {
+.main-header h1 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: 600;
 }
 
-/* 3. Sticky Language Navigation (For Home Page) */
+/* 3. Language Navigation Bar */
 .language-nav {
-  position: sticky;
-  top: 0;
-  background-color: rgba(255, 255, 255, 0.85); /* Semi-transparent white */
-  backdrop-filter: blur(8px); /* Frosted glass effect */
-  -webkit-backdrop-filter: blur(8px);
-  padding: 0.75rem 2rem;
-  box-shadow: var(--shadow-sm);
-  z-index: 1000;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1rem;
-  justify-content: center;
+  background-color: var(--bg-color);
+  padding: 0 2rem;
+  height: var(--nav-height);
   border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: var(--header-height); /* Stick below the main header */
+  z-index: 1000;
 }
 
-body.dark .language-nav {
-  background-color: rgba(30, 30, 30, 0.85); /* Dark semi-transparent */
+.language-nav-links {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  overflow-x: auto;
 }
 
-.language-nav a {
-  text-decoration: none;
-  color: var(--primary-color);
+.language-nav-links a {
+  white-space: nowrap;
+  color: var(--text-color);
   font-weight: 500;
-  padding: 0.25rem 0.5rem;
-  border-radius: 4px;
-  transition:
-    background-color 0.2s ease,
-    color 0.2s ease;
-}
-
-.language-nav a:hover {
-  background-color: var(--primary-color);
-  color: white;
   text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+.language-nav-links a:hover {
+  opacity: 1;
+  color: var(--primary-color);
 }
 
 /* 4. Main Content Layout */
@@ -105,52 +110,33 @@ body.dark .language-nav {
 }
 
 .language-section {
-  background-color: var(--card-bg);
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
-  margin-bottom: 2.5rem;
-  box-shadow: var(--shadow-md);
-  scroll-margin-top: 80px; /* Offset for sticky nav */
+  scroll-margin-top: calc(var(--header-height) + var(--nav-height) + 20px);
 }
 
 .language-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .language-header h2 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 700;
 }
 
-a.cta-link {
-  font-weight: 500;
-  padding: 0.5rem 1rem;
-  border: 1px solid var(--border-color);
-  border-radius: 6px;
-  transition: all 0.2s ease;
-}
-
-a.cta-link:hover {
-  background-color: var(--bg-color);
-  border-color: var(--text-color);
-  text-decoration: none;
-}
-
-/* 5. Table Styling (with Overflow Fix) */
+/* 5. Table Styling */
 .table-container {
-  overflow-x: auto; /* Allow horizontal scrolling on small screens */
+  overflow-x: auto;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.9rem;
-  /* FIX: This is the key to preventing text overflow */
-  table-layout: fixed;
 }
 
 th,
@@ -158,9 +144,7 @@ td {
   padding: 12px 15px;
   text-align: left;
   border-bottom: 1px solid var(--border-color);
-  /* FIX: This helps break long words/URLs */
-  overflow-wrap: break-word;
-  word-wrap: break-word; /* Legacy fallback */
+  vertical-align: top;
 }
 
 tr:last-child td {
@@ -168,34 +152,68 @@ tr:last-child td {
 }
 
 th {
-  background-color: var(--bg-color);
+  background-color: var(--table-header-bg);
   font-weight: 600;
   cursor: pointer;
-  white-space: nowrap; /* Prevent headers from wrapping */
+}
+
+tbody tr:hover {
+  background-color: var(--row-hover-bg);
+}
+
+/* Column-specific styling */
+.td-ranking,
+.td-stars,
+.td-forks,
+.td-watchers,
+.td-open-issues,
+.td-size-kb {
+  text-align: right;
+  white-space: nowrap;
+  font-feature-settings: "tnum"; /* Tabular nums for alignment */
+}
+.td-created-at,
+.td-last-commit,
+.td-project-name,
+.td-repo-url,
+.td-language,
+.td-size {
+  white-space: nowrap;
+}
+.td-description {
+  word-break: break-word;
+  min-width: 250px; /* Give description more space */
 }
 
 td a {
   color: var(--primary-color);
   font-weight: 500;
+  text-decoration: none;
 }
-
 td a:hover {
-  color: var(--primary-hover);
+  text-decoration: underline;
 }
 
-/* 6. Buttons */
+/* 6. Buttons & Links */
 button {
-  background: var(--primary-color);
-  color: white;
-  border: none;
-  padding: 0.6rem 1.2rem;
+  background: transparent;
+  color: var(--header-text);
+  border: 1px solid var(--header-text);
+  padding: 0.4rem 0.8rem;
   cursor: pointer;
-  border-radius: 4px;
-  font-weight: bold;
-  transition: background-color 0.2s ease;
-  font-size: 1rem;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
-button:hover {
-  background: var(--primary-hover);
+a.cta-link {
+  font-weight: 500;
+  color: var(--primary-color);
+  text-decoration: none;
+}
+a.cta-link:hover {
+  text-decoration: underline;
 }

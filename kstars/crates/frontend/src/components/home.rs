@@ -1,10 +1,8 @@
-// src/components/home.rs
-
 use super::sortable_table::SortableTable;
-use crate::{data_loader::get_repo_data, Header, Route};
+use crate::{data_loader::get_repo_data, LanguageNav, MainHeader, Route};
 use dioxus::prelude::*;
 
-const LANGUAGES: &[(&str, &str)] = &[
+pub const LANGUAGES: &[(&str, &str)] = &[
     ("ActionScript", "ActionScript"),
     ("C", "C"),
     ("CSharp", "C#"),
@@ -45,15 +43,8 @@ const LANGUAGES: &[(&str, &str)] = &[
 #[component]
 pub fn Home() -> Element {
     rsx! {
-        Header { title: "kstars".to_string(), show_back_button: false }
-
-        // --- ADDED: The sticky navigation bar ---
-        nav { class: "language-nav",
-            for lang_data in LANGUAGES {
-                // These are anchor links that jump to the section with the corresponding id
-                a { href: "#{lang_data.0}", "{lang_data.1}" }
-            }
-        }
+        MainHeader { title: "kstars".to_string() }
+        LanguageNav {}
 
         div { class: "container", id: "content",
             for lang_data in LANGUAGES {
@@ -75,7 +66,9 @@ fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
             div { class: "language-header",
                 h2 { "{language.1}" }
                 Link {
-                    to: Route::LanguagePage { lang: language.0.to_string() },
+                    to: Route::LanguagePage {
+                        lang: language.0.to_string(),
+                    },
                     class: "cta-link",
                     "View full list (Top 1000)"
                 }

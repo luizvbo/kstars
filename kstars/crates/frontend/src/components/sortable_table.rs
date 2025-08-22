@@ -67,7 +67,7 @@ pub fn SortableTable(repos: Vec<Repo>, truncate: bool) -> Element {
             class: if THEME.read().as_str() == "dark" { "dark sortable-theme-dark" } else { "sortable-theme-light" },
             thead {
                 tr {
-                    for &header in HEADERS {
+                    for & header in HEADERS {
                         th {
                             onclick: move |_| {
                                 if sort_column.read().as_ref() == Some(&header) {
@@ -85,7 +85,11 @@ pub fn SortableTable(repos: Vec<Repo>, truncate: bool) -> Element {
                             "{header}"
                             if sort_column() == Some(header) {
                                 span {
-                                    if sort_direction() == SortDirection::Ascending { " ▲" } else { " ▼" }
+                                    if sort_direction() == SortDirection::Ascending {
+                                        " ▲"
+                                    } else {
+                                        " ▼"
+                                    }
                                 }
                             }
                         }
@@ -115,7 +119,8 @@ pub fn SortableTable(repos: Vec<Repo>, truncate: bool) -> Element {
                         td { "{repo.language}" }
                         td {
                             {
-                                let display_url = repo.repo_url
+                                let display_url = repo
+                                    .repo_url
                                     .strip_prefix("https://github.com/")
                                     .unwrap_or(&repo.repo_url);
                                 rsx! {
