@@ -1,5 +1,5 @@
 use super::sortable_table::SortableTable;
-use crate::{data_loader::get_repo_data, LanguageNav, MainHeader, Route};
+use crate::{data_parser::get_repo_data, LanguageNav, MainHeader, Route};
 use dioxus::prelude::*;
 
 pub const LANGUAGES: &[(&str, &str)] = &[
@@ -56,30 +56,36 @@ pub fn Home() -> Element {
 
 #[component]
 fn LanguagePreview(language: &'static (&'static str, &'static str)) -> Element {
-    let repo_data = use_memo(move || {
+    let repo_data_result = use_resource(move || async move {
         let file_name = format!("top10_{}.csv", language.0);
-        get_repo_data(&file_name)
+        get_repo_data(&file_name).await
     });
 
     rsx! {
-        div { class: "language-section", id: language.0,
+        div { id: language.0, class: "language-section",
             div { class: "language-header",
                 h2 { "{language.1}" }
                 Link {
-                    to: Route::LanguagePage {
-                        lang: language.0.to_string(),
-                    },
+                    to: Route::LanguagePage { lang: language.0.to_string() },
                     class: "cta-link",
                     "View full list (Top 1000)"
                 }
             }
 
-            if repo_data.read().is_empty() {
-                p { "Could not load preview data." }
-            } else {
-                // Added a wrapper div for better responsiveness
-                div { class: "table-container",
-                    SortableTable { repos: repo_data(), truncate: true }
+            match &*repo_data_result.read() {
+                Some(Ok(repos)) => rsx! {
+                    div { class: "table-container",
+                        SortableTable { repos: repos.clone(), truncate: true }
+                    }
+                },
+                Some(Err(e)) => rsx! {
+                    div { style: "padding: 1.5rem; color: red;",
+                        h4 { "Error loading preview data" }
+                        pre { "{e}" }
+                    }
+                },
+                None => rsx! {
+                    p { style: "padding: 1.5rem;", "Loading..." }
                 }
             }
         }

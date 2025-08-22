@@ -5,7 +5,7 @@ use dioxus_logger::tracing::Level;
 use gloo_storage::{LocalStorage, Storage};
 
 mod components;
-mod data_loader;
+mod data_parser;
 mod schema;
 
 use components::home::{Home, LANGUAGES};

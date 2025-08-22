@@ -2,7 +2,7 @@
 name = "kstars"
 default_platform = "web"
 out_dir = "dist"
-asset_dir = "." # Serve from the root to access /data and /public
+asset_dir = "." 
 
 [web.app]
 
