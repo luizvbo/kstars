@@ -21,14 +21,14 @@ pub enum Route {
 
 pub static THEME: GlobalSignal<String> = Signal::global(get_initial_theme);
 // const FAVICON: Asset = asset!("/assets/favicon.ico");
-const CSS_FILE: Asset = asset!("/assets/css/style.css");
+const CSS_FILE: Asset = asset!("/public/assets/css/style.css");
 
 fn get_initial_theme() -> String {
     LocalStorage::get("theme").unwrap_or_else(|_| "light".to_string())
 }
 
 fn main() {
-    dioxus_logger::init(Level::INFO).expect("failed to init logger");
+    dioxus_logger::init(Level::DEBUG).expect("failed to init logger");
     launch(App);
 }
 

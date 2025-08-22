@@ -2,7 +2,7 @@
 name = "kstars"
 default_platform = "web"
 out_dir = "dist"
-asset_dir = "." 
+asset_dir = "public" 
 
 [web.app]
 
