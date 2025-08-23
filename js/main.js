@@ -45,7 +45,6 @@ function loadCSV(language, folder, prefix) {
       sectionDiv.appendChild(headerDiv);
 
       if (results.data && results.data.length > 1) {
-        // --- FIX: Wrap table in a container for responsiveness ---
         const tableContainer = document.createElement("div");
         tableContainer.className = "table-container";
         const table = createTable(results.data, 10); // Show top 10
@@ -144,24 +143,56 @@ function createTable(data, maxRows) {
   return table;
 }
 
-// --- Theme Toggle Logic (updated for new button) ---
 document.addEventListener("DOMContentLoaded", function () {
-  const themeToggle = document.getElementById("themeToggle");
-  const themeIcon = document.getElementById("themeIcon");
+    const themeToggle = document.getElementById("themeToggle");
+    const themeIcon = document.getElementById("themeIcon");
+    const contentDiv = document.getElementById("content");
+    const navLinksDiv = document.getElementById("language-nav-links");
+    
+    const navToggleBtn = document.getElementById("navToggleBtn");
+    const languageNav = document.getElementById("language-nav");
 
-  function applyTheme(isDark) {
-    document.body.classList.toggle("dark", isDark);
-    themeIcon.textContent = isDark ? "☀️" : "🌙";
-  }
+    let loadedLanguagesCount = 0;
 
-  const savedTheme = localStorage.getItem("theme");
-  applyTheme(savedTheme === "dark");
+    function applyTheme(isDark) {
+        document.body.classList.toggle("dark", isDark);
+        themeIcon.textContent = isDark ? "☀️" : "🌙";
+    }
 
-  themeToggle.addEventListener("click", function () {
-    const isDark = !document.body.classList.contains("dark");
-    applyTheme(isDark);
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-  });
+    const savedTheme = localStorage.getItem("theme");
+    applyTheme(savedTheme === "dark");
+
+    themeToggle.addEventListener("click", function () {
+        const isDark = !document.body.classList.contains("dark");
+        applyTheme(isDark);
+        localStorage.setItem("theme", isDark ? "dark" : "light");
+    });
+    
+    if (navToggleBtn && languageNav) {
+        navToggleBtn.addEventListener('click', (e) => {
+            e.stopPropagation(); 
+            languageNav.classList.toggle('nav-visible');
+        });
+
+        navLinksDiv.addEventListener('click', (e) => {
+            if (e.target.tagName === 'A') {
+                languageNav.classList.remove('nav-visible');
+            }
+        });
+        
+        contentDiv.addEventListener('click', () => {
+            languageNav.classList.remove('nav-visible');
+        });
+    }
+
+    languages.forEach(lang => {
+        const link = document.createElement('a');
+        link.href = `#${lang[0]}`;
+        link.textContent = lang[1];
+        navLinksDiv.appendChild(link);
+    });
+
+    languages.forEach((language) => loadCSV(language, "data/processed", "top10_"));
 });
 
 const languages = [
