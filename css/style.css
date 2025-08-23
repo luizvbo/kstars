@@ -62,6 +62,8 @@ body {
   font-size: 1.5rem;
   font-weight: 600;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .header-actions {
@@ -241,6 +243,7 @@ td a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 0.5em;
   background: transparent;
   color: var(--header-text);
   border: 1px solid rgba(255, 255, 255, 0.5);
@@ -256,11 +259,12 @@ td a:hover {
   background-color: rgba(255, 255, 255, 0.1);
   border-color: rgba(255, 255, 255, 0.8);
 }
-.header-button .github-icon {
-  width: 16px;
-  height: 16px;
-  margin-right: 0.5em;
+.header-button .github-icon,
+.header-button .back-icon {
+  width: 18px;
+  height: 18px;
   fill: currentColor;
+  stroke: currentColor;
 }
 
 a.cta-link {
@@ -308,9 +312,5 @@ a.cta-link:hover {
 
   .header-button {
     padding: 0.4rem 0.6rem; /* Adjust padding for smaller buttons */
-  }
-
-  #language-title {
-    font-size: 1.1rem;
   }
 }
