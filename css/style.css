@@ -62,6 +62,8 @@ body {
   font-size: 1.5rem;
   font-weight: 600;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .header-actions {
@@ -308,9 +310,5 @@ a.cta-link:hover {
 
   .header-button {
     padding: 0.4rem 0.6rem; /* Adjust padding for smaller buttons */
-  }
-
-  #language-title {
-    font-size: 1.1rem;
   }
 }

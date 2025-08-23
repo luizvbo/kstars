@@ -112,8 +112,17 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  const pageTitle = `kstars: Top 1000 GitHub Repos for ${language}`;
-  languageTitle.textContent = `Top 1000 GitHub Repos for ${language}`;
+  function getDisplayName(lang) {
+    const nameMap = {
+      CSharp: "C#",
+      CPP: "C++",
+    };
+    return nameMap[lang] || lang;
+  }
+  const displayName = getDisplayName(language);
+
+  const pageTitle = `kstars: Top 1000 GitHub Repos for ${displayName}`;
+  languageTitle.textContent = `kstars ${displayName}`;
   document.title = pageTitle;
 
   const csvPath = `../data/processed/${language}.csv`;
