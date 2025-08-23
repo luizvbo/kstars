@@ -1,18 +1,100 @@
-// Function to truncate a string to maxChars, making sure that it stops at the last word.
-// E.g., truncateStringAtWord("I love birds", 10) returns "I love..." and not "I love bir..."
-function truncateStringAtWord(str, maxChars) {
-  if (str.length <= maxChars) {
-    return str;
-  }
+const NUMERIC_HEADERS = new Set([
+  "Ranking",
+  "Stars",
+  "Forks",
+  "Watchers",
+  "Open Issues",
+  "Size (KB)",
+]);
+const HEADER_TO_CLASS_MAP = {
+  Ranking: "td-ranking",
+  Stars: "td-stars",
+  Forks: "td-forks",
+  Watchers: "td-watchers",
+  "Open Issues": "td-open-issues",
+  "Created At": "td-created-at",
+  "Last Commit": "td-last-commit",
+  Size: "td-size",
+  "Size (KB)": "td-size-kb",
+  Description: "td-description",
+  "Project Name": "td-project-name",
+  "Repo URL": "td-repo-url",
+  Repository: "td-repo-url",
+  Language: "td-language",
+};
 
+function truncateStringAtWord(str, maxChars) {
+  if (!str || str.length <= maxChars) return str;
   const truncated = str.slice(0, maxChars);
   const lastSpaceIndex = truncated.lastIndexOf(" ");
+  return (
+    (lastSpaceIndex === -1 ? truncated : truncated.slice(0, lastSpaceIndex)) +
+    "..."
+  );
+}
 
-  if (lastSpaceIndex === -1) {
-    return truncated + "...";
+function createTable(data) {
+  const table = document.createElement("table");
+  table.setAttribute("data-sortable", "");
+
+  const thead = document.createElement("thead");
+  const headerRow = document.createElement("tr");
+  const headers = data[0];
+
+  const repoUrlIndex =
+    headers.indexOf("Repository") !== -1
+      ? headers.indexOf("Repository")
+      : headers.indexOf("Repo URL");
+
+  headers.forEach((colText) => {
+    const th = document.createElement("th");
+    th.textContent = colText;
+    if (NUMERIC_HEADERS.has(colText)) {
+      th.setAttribute("data-sortable-type", "numeric");
+    }
+    headerRow.appendChild(th);
+  });
+  thead.appendChild(headerRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
+  for (let i = 1; i < data.length; i++) {
+    const rowData = data[i];
+    if (!rowData || rowData.length < headers.length) continue;
+
+    const row = document.createElement("tr");
+
+    if (repoUrlIndex !== -1 && rowData[repoUrlIndex]) {
+      row.style.cursor = "pointer";
+      row.addEventListener("click", () => {
+        window.open(rowData[repoUrlIndex], "_blank");
+      });
+    }
+
+    rowData.forEach((cellText, colIndex) => {
+      const td = document.createElement("td");
+      const headerText = headers[colIndex];
+
+      if (HEADER_TO_CLASS_MAP[headerText]) {
+        td.classList.add(HEADER_TO_CLASS_MAP[headerText]);
+      }
+
+      if (colIndex === repoUrlIndex && cellText) {
+        const link = document.createElement("a");
+        link.href = cellText;
+        link.target = "_blank";
+        link.textContent = cellText.replace("https://github.com/", "");
+        link.addEventListener("click", (e) => e.stopPropagation());
+        td.appendChild(link);
+      } else {
+        td.textContent = truncateStringAtWord(cellText, 150);
+      }
+      row.appendChild(td);
+    });
+    tbody.appendChild(row);
   }
-
-  return truncated.slice(0, lastSpaceIndex) + "...";
+  table.appendChild(tbody);
+  return table;
 }
 
 document.addEventListener("DOMContentLoaded", () => {
