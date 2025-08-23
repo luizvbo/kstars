@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size (KB),Description,Language,Repo URL
-1,open-source-rover,8871,1403,8871,17,2018-06-29T23:57:16Z,2025-07-16T15:15:03Z,3084678,"A build-it-yourself, 6-wheel rover based on the rovers on Mars!",Prolog,https://github.com/nasa-jpl/open-source-rover
-2,terminusdb,3028,120,3028,28,2019-07-23T16:15:27Z,2025-07-21T23:08:35Z,13764,"TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.",Prolog,https://github.com/terminusdb/terminusdb
-3,pslab-hardware,1670,94,1670,18,2017-03-28T14:54:18Z,2024-06-21T17:39:36Z,138467,PSLab Hardware Design and Schematics https://pslab.io,Prolog,https://github.com/fossasia/pslab-hardware
-4,OnBoard,928,1096,928,26,2023-04-30T19:34:47Z,2025-05-31T01:48:31Z,767964," 💡 Join 1,000 teenagers and make your first PCB with a $100 grant!",Prolog,https://github.com/hackclub/OnBoard
-5,stixfonts,823,45,823,87,2018-04-06T17:23:37Z,2025-03-17T19:46:48Z,171727,"OpenType Unicode fonts for Scientific, Technical, and Mathematical texts",Prolog,https://github.com/stipub/stixfonts
-6,prolog-examples,610,178,610,4,2012-10-18T17:49:32Z,2022-11-04T13:05:51Z,87,Some simple examples for new Prolog programmers,Prolog,https://github.com/Anniepoo/prolog-examples
-7,stabilizer,577,47,577,7,2012-04-28T16:28:22Z,2021-09-29T11:57:07Z,30194,Stabilizer: Rigorous Performance Evaluation,Prolog,https://github.com/ccurtsinger/stabilizer
-8,the-constitution-of-japan,547,6,547,2,2015-09-02T10:42:24Z,2016-02-23T20:45:30Z,40,,Prolog,https://github.com/bitlaw-jp/the-constitution-of-japan
-9,swish,535,133,535,41,2014-09-09T09:36:57Z,2025-04-29T15:05:49Z,4909,SWI-Prolog for SHaring: a SWI-Prolog web IDE,Prolog,https://github.com/SWI-Prolog/swish
-10,logtalk3,460,34,460,11,2012-08-17T02:53:10Z,2025-08-18T19:09:35Z,1085603,Logtalk - declarative object-oriented logic programming language,Prolog,https://github.com/LogtalkDotOrg/logtalk3
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
+1,open-source-rover,8873,1405,8873,17,29/06/2018,16/07/2025,2.94 GB,3084678,"A build-it-yourself, 6-wheel rover based on the rovers on Mars!",Prolog,https://github.com/nasa-jpl/open-source-rover
+2,terminusdb,3034,120,3034,28,23/07/2019,21/07/2025,13.44 MB,13764,"TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.",Prolog,https://github.com/terminusdb/terminusdb
+3,pslab-hardware,1670,94,1670,18,28/03/2017,21/06/2024,135.22 MB,138467,PSLab Hardware Design and Schematics https://pslab.io,Prolog,https://github.com/fossasia/pslab-hardware
+4,OnBoard,928,1095,928,26,30/04/2023,31/05/2025,749.96 MB,767964," 💡 Join 1,000 teenagers and make your first PCB with a $100 grant!",Prolog,https://github.com/hackclub/OnBoard
+5,stixfonts,825,45,825,87,06/04/2018,17/03/2025,167.70 MB,171727,"OpenType Unicode fonts for Scientific, Technical, and Mathematical texts",Prolog,https://github.com/stipub/stixfonts
+6,prolog-examples,610,178,610,4,18/10/2012,04/11/2022,87.00 KB,87,Some simple examples for new Prolog programmers,Prolog,https://github.com/Anniepoo/prolog-examples
+7,stabilizer,577,47,577,7,28/04/2012,29/09/2021,29.49 MB,30194,Stabilizer: Rigorous Performance Evaluation,Prolog,https://github.com/ccurtsinger/stabilizer
+8,the-constitution-of-japan,548,6,548,2,02/09/2015,23/02/2016,40.00 KB,40,,Prolog,https://github.com/bitlaw-jp/the-constitution-of-japan
+9,swish,535,133,535,41,09/09/2014,29/04/2025,4.79 MB,4909,SWI-Prolog for SHaring: a SWI-Prolog web IDE,Prolog,https://github.com/SWI-Prolog/swish
+10,logtalk3,460,34,460,11,17/08/2012,23/08/2025,1.04 GB,1086899,Logtalk - declarative object-oriented logic programming language,Prolog,https://github.com/LogtalkDotOrg/logtalk3
