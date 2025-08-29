@@ -1,49 +1,49 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,SwitchyOmega,22354,3493,22354,796,08/06/2012,27/12/2024,2.15 MB,2200,"No longer maintained, see pinned issues",CoffeeScript,https://github.com/FelisCatus/SwitchyOmega
-2,mojs,18649,889,18649,37,26/06/2014,05/02/2025,137.67 MB,140976,The motion graphics toolbelt for the web,CoffeeScript,https://github.com/mojs/mojs
-3,coffeescript,16574,1982,16574,95,18/12/2009,22/03/2024,29.88 MB,30595,Unfancy JavaScript,CoffeeScript,https://github.com/jashkenas/coffeescript
-4,zxcvbn,15619,997,15619,135,28/02/2012,19/08/2024,15.81 MB,16189,Low-Budget Password Strength Estimation,CoffeeScript,https://github.com/dropbox/zxcvbn
-5,dynamics.js,7576,413,7576,9,03/02/2014,26/02/2019,861.00 KB,861,Javascript library to create physics-based animations,CoffeeScript,https://github.com/michaelvillar/dynamics.js
-6,morris.js,6899,1214,6899,327,21/02/2012,07/10/2021,1.47 MB,1505,Pretty time-series line graphs,CoffeeScript,https://github.com/morrisjs/morris.js
-7,At.js,5270,669,5270,158,18/01/2012,18/11/2021,1.79 MB,1833,Add Github like mentions autocomplete to your application.,CoffeeScript,https://github.com/ichord/At.js
+1,SwitchyOmega,22371,3500,22371,797,08/06/2012,27/12/2024,2.15 MB,2200,"No longer maintained, see pinned issues",CoffeeScript,https://github.com/FelisCatus/SwitchyOmega
+2,mojs,18651,888,18651,37,26/06/2014,05/02/2025,137.67 MB,140976,The motion graphics toolbelt for the web,CoffeeScript,https://github.com/mojs/mojs
+3,coffeescript,16577,1982,16577,95,18/12/2009,22/03/2024,29.88 MB,30595,Unfancy JavaScript,CoffeeScript,https://github.com/jashkenas/coffeescript
+4,zxcvbn,15628,996,15628,135,28/02/2012,19/08/2024,15.81 MB,16189,Low-Budget Password Strength Estimation,CoffeeScript,https://github.com/dropbox/zxcvbn
+5,dynamics.js,7575,413,7575,9,03/02/2014,26/02/2019,861.00 KB,861,Javascript library to create physics-based animations,CoffeeScript,https://github.com/michaelvillar/dynamics.js
+6,morris.js,6897,1214,6897,327,21/02/2012,07/10/2021,1.47 MB,1505,Pretty time-series line graphs,CoffeeScript,https://github.com/morrisjs/morris.js
+7,At.js,5270,668,5270,158,18/01/2012,18/11/2021,1.79 MB,1833,Add Github like mentions autocomplete to your application.,CoffeeScript,https://github.com/ichord/At.js
 8,node-xml2js,4957,610,4957,247,17/07/2010,30/07/2023,550.00 KB,550,XML to JavaScript object converter.,CoffeeScript,https://github.com/Leonidas-from-XIV/node-xml2js
-9,aglio,4754,481,4754,135,15/11/2013,13/05/2019,798.00 KB,798,An API Blueprint renderer with theme support that outputs static HTML,CoffeeScript,https://github.com/danielgtaylor/aglio
+9,aglio,4754,480,4754,135,15/11/2013,13/05/2019,798.00 KB,798,An API Blueprint renderer with theme support that outputs static HTML,CoffeeScript,https://github.com/danielgtaylor/aglio
 10,vibrant.js,4608,235,4608,2,24/05/2015,28/11/2017,925.00 KB,925,Extract prominent colors from an image. JS port of Android's Palette.,CoffeeScript,https://github.com/jariz/vibrant.js
-11,bootstrap-tour,4435,933,4435,194,03/07/2012,09/10/2023,3.78 MB,3871,Quick and easy product tours with Twitter Bootstrap Popovers,CoffeeScript,https://github.com/sorich87/bootstrap-tour
-12,pivottable,4428,1085,4428,387,25/06/2013,06/01/2024,5.96 MB,6104,"Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",CoffeeScript,https://github.com/nicolaskruchten/pivottable
-13,yakyak,3784,315,3784,106,02/06/2015,13/08/2025,19.47 MB,19933,Desktop chat client for Google Hangouts,CoffeeScript,https://github.com/yakyak/yakyak
+11,bootstrap-tour,4435,931,4435,194,03/07/2012,09/10/2023,3.78 MB,3871,Quick and easy product tours with Twitter Bootstrap Popovers,CoffeeScript,https://github.com/sorich87/bootstrap-tour
+12,pivottable,4429,1085,4429,387,25/06/2013,06/01/2024,5.96 MB,6104,"Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",CoffeeScript,https://github.com/nicolaskruchten/pivottable
+13,yakyak,3785,315,3785,106,02/06/2015,13/08/2025,19.47 MB,19933,Desktop chat client for Google Hangouts,CoffeeScript,https://github.com/yakyak/yakyak
 14,activate-power-mode,3588,416,3588,53,28/11/2015,24/05/2019,567.00 KB,567,Atom package - Activate POWER MODE to write your code in style.,CoffeeScript,https://github.com/JoelBesada/activate-power-mode
-15,pagedraw,3541,465,3541,103,12/01/2019,12/01/2023,51.23 MB,52457,a UI builder for React web apps,CoffeeScript,https://github.com/Pagedraw/pagedraw
+15,pagedraw,3540,465,3540,103,12/01/2019,12/01/2023,51.23 MB,52457,a UI builder for React web apps,CoffeeScript,https://github.com/Pagedraw/pagedraw
 16,turbolinks-classic,3537,428,3537,45,26/09/2012,06/12/2017,715.00 KB,715,Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5.,CoffeeScript,https://github.com/turbolinks/turbolinks-classic
 17,jquery.payment,3526,678,3526,0,23/12/2012,02/08/2017,224.00 KB,224,"[DEPRECATED] A general purpose library for building credit card forms, validating inputs and formatting numbers.          ",CoffeeScript,https://github.com/stripe-archive/jquery.payment
 18,hubot-scripts,3522,1844,3522,0,08/09/2011,10/07/2017,2.49 MB,2548,"DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",CoffeeScript,https://github.com/github/hubot-scripts
-19,wintersmith,3495,329,3495,18,02/02/2012,15/07/2021,1.61 MB,1649,A flexible static site generator,CoffeeScript,https://github.com/jnordberg/wintersmith
-20,dispatch-proxy,3487,245,3487,31,22/11/2013,01/05/2022,61.00 KB,61,"Combine internet connections, increase your download speed",CoffeeScript,https://github.com/alexkirsz/dispatch-proxy
+19,wintersmith,3493,329,3493,18,02/02/2012,15/07/2021,1.61 MB,1649,A flexible static site generator,CoffeeScript,https://github.com/jnordberg/wintersmith
+20,dispatch-proxy,3486,245,3486,31,22/11/2013,01/05/2022,61.00 KB,61,"Combine internet connections, increase your download speed",CoffeeScript,https://github.com/alexkirsz/dispatch-proxy
 21,pow,3409,257,3409,122,09/03/2011,14/05/2020,1.81 MB,1855,Zero-configuration Rack server for Mac OS X,CoffeeScript,https://github.com/basecamp/pow
 22,Keypress,3167,311,3167,35,05/08/2012,06/09/2020,5.61 MB,5749,A keyboard input capturing utility in which any key can be a modifier key.,CoffeeScript,https://github.com/dmauro/Keypress
 23,docpad,3054,240,3054,37,17/03/2011,11/02/2024,4.33 MB,4431,"Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.",CoffeeScript,https://github.com/docpad/docpad
 24,butterfly,2907,312,2907,87,16/01/2014,25/05/2020,2.37 MB,2426,A web terminal based on websocket and tornado,CoffeeScript,https://github.com/paradoxxxzero/butterfly
-25,sticky-kit,2893,513,2893,158,30/07/2013,23/02/2021,380.00 KB,380,A jQuery plugin for creating smart sticky elements,CoffeeScript,https://github.com/leafo/sticky-kit
+25,sticky-kit,2892,512,2892,158,30/07/2013,23/02/2021,380.00 KB,380,A jQuery plugin for creating smart sticky elements,CoffeeScript,https://github.com/leafo/sticky-kit
 26,engine,2859,101,2859,114,01/06/2013,17/12/2019,15.08 MB,15442,GSS engine,CoffeeScript,https://github.com/gss/engine
 27,chaplin,2840,228,2840,45,11/02/2012,30/12/2022,3.52 MB,3609,HTML5 application architecture using Backbone.js,CoffeeScript,https://github.com/chaplinjs/chaplin
-28,psd.js,2825,399,2825,190,24/08/2012,01/02/2024,9.86 MB,10093,A Photoshop PSD file parser for NodeJS and browsers,CoffeeScript,https://github.com/meltingice/psd.js
+28,psd.js,2831,399,2831,190,24/08/2012,01/02/2024,9.86 MB,10093,A Photoshop PSD file parser for NodeJS and browsers,CoffeeScript,https://github.com/meltingice/psd.js
 29,talk-os,2713,794,2713,9,29/03/2016,05/09/2017,4.32 MB,4425,Open source version of jianliao.com,CoffeeScript,https://github.com/jianliaoim/talk-os
-30,angular-google-maps,2516,1069,2516,337,16/08/2012,14/11/2018,93.34 MB,95582,AngularJS directives for the Google Maps Javascript API,CoffeeScript,https://github.com/angular-ui/angular-google-maps
-31,cloudtunes,2504,233,2504,21,08/09/2014,26/08/2023,12.60 MB,12905,"Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.",CoffeeScript,https://github.com/jkbrzt/cloudtunes
+30,angular-google-maps,2515,1069,2515,337,16/08/2012,14/11/2018,93.34 MB,95582,AngularJS directives for the Google Maps Javascript API,CoffeeScript,https://github.com/angular-ui/angular-google-maps
+31,cloudtunes,2505,233,2505,21,08/09/2014,26/08/2023,12.60 MB,12905,"Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.",CoffeeScript,https://github.com/jkbrzt/cloudtunes
 32,hallo,2432,308,2432,97,05/05/2011,03/09/2020,3.14 MB,3214,Simple rich text editor (contentEditable) for jQuery UI,CoffeeScript,https://github.com/bergie/hallo
-33,oriDomi,2415,205,2415,9,02/08/2012,13/08/2024,4.55 MB,4664,🪭 Fold up DOM elements like paper,CoffeeScript,https://github.com/dmotz/oriDomi
-34,node-cache,2347,141,2347,73,18/10/2011,04/06/2024,1.35 MB,1384,a node internal (in-memory) caching module,CoffeeScript,https://github.com/node-cache/node-cache
-35,hubot-slack,2298,643,2298,23,22/04/2013,12/08/2024,811.00 KB,811,Slack Developer Kit for Hubot,CoffeeScript,https://github.com/slackapi/hubot-slack
-36,js2coffee,2085,200,2085,95,03/06/2011,13/11/2023,2.18 MB,2235,Compile JavaScript to CoffeeScript,CoffeeScript,https://github.com/js2coffee/js2coffee
-37,QuoJS,2061,233,2061,23,23/12/2011,03/09/2018,3.92 MB,4018,Micro #JavaScript Library for Mobile Devices,CoffeeScript,https://github.com/soyjavi/QuoJS
-38,shadowsocks-gui,2002,1152,2002,2,28/05/2013,24/09/2018,1.99 MB,2033,Shadowsocks GUI client,CoffeeScript,https://github.com/shadowsocks/shadowsocks-gui
-39,CoffeeScriptRedux,1836,111,1836,98,02/06/2012,19/07/2022,3.14 MB,3217,:sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility,CoffeeScript,https://github.com/michaelficarra/CoffeeScriptRedux
-40,camo,1832,385,1832,25,13/11/2010,04/04/2021,215.00 KB,215,:lock: an http proxy to route images through SSL,CoffeeScript,https://github.com/atmos/camo
-41,ng-token-auth,1789,230,1789,115,27/06/2014,06/12/2022,1.69 MB,1731,Token based authentication module for angular.js.,CoffeeScript,https://github.com/lynndylanhurley/ng-token-auth
+33,oriDomi,2416,205,2416,9,02/08/2012,13/08/2024,4.55 MB,4664,🪭 Fold up DOM elements like paper,CoffeeScript,https://github.com/dmotz/oriDomi
+34,node-cache,2351,141,2351,73,18/10/2011,04/06/2024,1.35 MB,1384,a node internal (in-memory) caching module,CoffeeScript,https://github.com/node-cache/node-cache
+35,hubot-slack,2299,642,2299,23,22/04/2013,12/08/2024,811.00 KB,811,Slack Developer Kit for Hubot,CoffeeScript,https://github.com/slackapi/hubot-slack
+36,js2coffee,2084,199,2084,95,03/06/2011,13/11/2023,2.18 MB,2235,Compile JavaScript to CoffeeScript,CoffeeScript,https://github.com/js2coffee/js2coffee
+37,QuoJS,2059,233,2059,23,23/12/2011,03/09/2018,3.92 MB,4018,Micro #JavaScript Library for Mobile Devices,CoffeeScript,https://github.com/soyjavi/QuoJS
+38,shadowsocks-gui,2003,1152,2003,2,28/05/2013,24/09/2018,1.99 MB,2033,Shadowsocks GUI client,CoffeeScript,https://github.com/shadowsocks/shadowsocks-gui
+39,CoffeeScriptRedux,1835,111,1835,98,02/06/2012,19/07/2022,3.14 MB,3217,:sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility,CoffeeScript,https://github.com/michaelficarra/CoffeeScriptRedux
+40,camo,1834,386,1834,25,13/11/2010,04/04/2021,215.00 KB,215,:lock: an http proxy to route images through SSL,CoffeeScript,https://github.com/atmos/camo
+41,ng-token-auth,1788,230,1788,115,27/06/2014,06/12/2022,1.69 MB,1731,Token based authentication module for angular.js.,CoffeeScript,https://github.com/lynndylanhurley/ng-token-auth
 42,dnschain,1731,167,1731,44,26/01/2014,22/04/2017,1.83 MB,1874,"A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!",CoffeeScript,https://github.com/okTurtles/dnschain
 43,BuckyClient,1730,95,1730,19,13/09/2013,05/08/2016,671.00 KB,671,Collect performance data from the client,CoffeeScript,https://github.com/HubSpot/BuckyClient
 44,vim-mode,1714,250,1714,0,01/08/2013,15/06/2017,1.59 MB,1625,Next generation vim support for atom,CoffeeScript,https://github.com/atom/vim-mode
-45,slidesjs,1700,352,1700,341,03/08/2010,07/12/2020,2.45 MB,2504,SlidesJS is obsolete and no longer maintained.,CoffeeScript,https://github.com/nathansearles/slidesjs
+45,slidesjs,1700,351,1700,341,03/08/2010,07/12/2020,2.45 MB,2504,SlidesJS is obsolete and no longer maintained.,CoffeeScript,https://github.com/nathansearles/slidesjs
 46,eco,1698,70,1698,33,19/09/2010,02/07/2019,339.00 KB,339,Embedded CoffeeScript templates,CoffeeScript,https://github.com/sstephenson/eco
 47,jquery.shapeshift,1666,308,1666,87,10/10/2012,25/12/2016,1.85 MB,1897,A dynamic grid system with drag and drop functionality.,CoffeeScript,https://github.com/AshesOfOwls/jquery.shapeshift
 48,caniuse-cmd,1632,53,1632,16,15/03/2015,19/09/2018,19.00 KB,19,Caniuse command line tool,CoffeeScript,https://github.com/sgentle/caniuse-cmd
@@ -52,19 +52,19 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 51,cyclotron,1550,110,1550,41,22/10/2015,05/03/2024,8.70 MB,8906,A web platform for constructing dashboards.,CoffeeScript,https://github.com/ExpediaGroup/cyclotron
 52,pretty-error,1521,50,1521,24,27/10/2013,16/06/2024,362.00 KB,362,See node.js errors with less clutter,CoffeeScript,https://github.com/AriaMinaei/pretty-error
 53,kartograph.js,1505,226,1505,35,17/11/2011,12/05/2018,1.72 MB,1760,UNMAINTAINED Open source JavaScript renderer for Kartograph SVG maps,CoffeeScript,https://github.com/kartograph/kartograph.js
-54,atom-beautify,1495,447,1495,398,03/03/2014,09/08/2025,3.44 MB,3527,:mega: Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | :lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: ),CoffeeScript,https://github.com/Glavin001/atom-beautify
+54,atom-beautify,1496,446,1496,398,03/03/2014,09/08/2025,3.44 MB,3527,:mega: Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | :lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: ),CoffeeScript,https://github.com/Glavin001/atom-beautify
 55,roots,1452,132,1452,55,18/09/2012,14/04/2020,7.52 MB,7696,a toolkit for rapid advanced front-end development,CoffeeScript,https://github.com/jescalan/roots
-56,VimFx,1429,174,1429,6,04/07/2012,22/08/2025,5.85 MB,5991,Vim keyboard shortcuts for Firefox,CoffeeScript,https://github.com/akhodakivskiy/VimFx
-57,qqbot,1427,383,1427,23,28/12/2013,15/02/2016,204.00 KB,204,基于WebQQ协议的QQ机器人。命令行工具，Hubot支持！,CoffeeScript,https://github.com/xhan/qqbot
-58,omelette,1400,41,1400,26,26/04/2013,21/01/2022,2.04 MB,2088,"Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)",CoffeeScript,https://github.com/f/omelette
+56,qqbot,1427,383,1427,23,28/12/2013,15/02/2016,204.00 KB,204,基于WebQQ协议的QQ机器人。命令行工具，Hubot支持！,CoffeeScript,https://github.com/xhan/qqbot
+57,VimFx,1427,174,1427,7,04/07/2012,22/08/2025,5.85 MB,5991,Vim keyboard shortcuts for Firefox,CoffeeScript,https://github.com/akhodakivskiy/VimFx
+58,omelette,1399,41,1399,26,26/04/2013,21/01/2022,2.04 MB,2088,"Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)",CoffeeScript,https://github.com/f/omelette
 59,atom-vim-mode-plus,1395,108,1395,127,20/09/2015,07/10/2021,7.31 MB,7485,vim-mode improved,CoffeeScript,https://github.com/t9md/atom-vim-mode-plus
 60,gulp-cheatsheet,1376,81,1376,4,02/06/2014,28/08/2016,27.23 MB,27880,A cheatsheet for gulp.js,CoffeeScript,https://github.com/osscafe/gulp-cheatsheet
 61,repl.it,1351,227,1351,1,25/08/2011,11/04/2016,1.84 MB,1886,https://repl.it/feedback Online REPL for 15+ languages.,CoffeeScript,https://github.com/replit-archive/repl.it
-62,cson,1344,56,1344,3,02/06/2011,16/08/2025,698.00 KB,698,CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.,CoffeeScript,https://github.com/bevry/cson
+62,cson,1343,56,1343,3,02/06/2011,16/08/2025,698.00 KB,698,CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.,CoffeeScript,https://github.com/bevry/cson
 63,atom-simplified-chinese-menu,1334,138,1334,25,07/07/2015,06/08/2018,1.86 MB,1903,"Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化",CoffeeScript,https://github.com/chinakids/atom-simplified-chinese-menu
 64,tacofancy,1299,442,1299,15,02/11/2013,20/04/2024,4.58 MB,4686,community-driven taco repo. stars stars stars.,CoffeeScript,https://github.com/dansinker/tacofancy
-65,apm,1272,296,1272,198,07/05/2013,28/09/2022,53.66 MB,54950,Atom Package Manager,CoffeeScript,https://github.com/atom/apm
-66,aurora.js,1265,146,1265,64,13/06/2012,17/04/2019,471.00 KB,471,JavaScript audio decoding framework,CoffeeScript,https://github.com/audiocogs/aurora.js
+65,apm,1272,295,1272,198,07/05/2013,28/09/2022,53.66 MB,54950,Atom Package Manager,CoffeeScript,https://github.com/atom/apm
+66,aurora.js,1263,146,1263,65,13/06/2012,17/04/2019,471.00 KB,471,JavaScript audio decoding framework,CoffeeScript,https://github.com/audiocogs/aurora.js
 67,shadowsocks-nodejs,1247,719,1247,5,18/05/2012,11/08/2016,610.00 KB,610,,CoffeeScript,https://github.com/shadowsocks/shadowsocks-nodejs
 68,coffeekup,1246,84,1246,38,03/09/2010,26/10/2011,1.28 MB,1312,Markup as CoffeeScript.,CoffeeScript,https://github.com/mauricemach/coffeekup
 69,mondrian,1241,102,1241,21,24/01/2014,30/10/2017,1.63 MB,1666,Web-based vector graphics editor,CoffeeScript,https://github.com/artursapek/mondrian
@@ -79,13 +79,13 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 78,literallycanvas,1117,320,1117,94,11/11/2012,29/05/2020,3.48 MB,3561,A canvas in your browser. Literally.,CoffeeScript,https://github.com/literallycanvas/literallycanvas
 79,git-time-machine,1113,37,1113,44,17/10/2015,01/08/2021,25.99 MB,26610,Atom package that allows you to travel back in commit history,CoffeeScript,https://github.com/littlebee/git-time-machine
 80,angular-masonry,1112,214,1112,54,12/07/2013,17/05/2017,1.52 MB,1557,An AngularJS directive for Masonry.,CoffeeScript,https://github.com/passy/angular-masonry
-81,node-rtsp-rtmp-server,1101,281,1101,81,09/01/2014,11/04/2024,551.00 KB,551,RTSP/RTMP/HTTP hybrid server,CoffeeScript,https://github.com/iizukanao/node-rtsp-rtmp-server
+81,node-rtsp-rtmp-server,1101,280,1101,81,09/01/2014,11/04/2024,551.00 KB,551,RTSP/RTMP/HTTP hybrid server,CoffeeScript,https://github.com/iizukanao/node-rtsp-rtmp-server
 82,hubble,1084,41,1084,0,13/08/2012,01/02/2023,1.43 MB,1460,A dashboard that displays in the terminal,CoffeeScript,https://github.com/jaymedavis/hubble
-83,node-slug,1072,94,1072,42,19/09/2011,05/04/2019,466.00 KB,466,slugifies even utf-8 chars!,CoffeeScript,https://github.com/dodo/node-slug
+83,node-slug,1073,94,1073,42,19/09/2011,05/04/2019,466.00 KB,466,slugifies even utf-8 chars!,CoffeeScript,https://github.com/dodo/node-slug
 84,Coffee-Physics,1057,86,1057,7,27/02/2012,12/12/2016,265.00 KB,265,"A simple, lightweight physics engine written in CoffeeScript",CoffeeScript,https://github.com/soulwire/Coffee-Physics
-85,4chan-x,1051,143,1051,986,01/04/2014,20/11/2024,516.35 MB,528740,Adds various features to anonymous imageboards.,CoffeeScript,https://github.com/ccd0/4chan-x
-86,apparatus,1049,60,1049,40,21/09/2015,30/06/2023,14.72 MB,15074,A hybrid graphics editor and programming environment for creating interactive diagrams.,CoffeeScript,https://github.com/cdglabs/apparatus
-87,buckets,1049,148,1049,7,25/04/2014,31/05/2015,6.47 MB,6621,[DEPRECATED] Manage content better.,CoffeeScript,https://github.com/bucketsio/buckets
+85,4chan-x,1050,144,1050,986,01/04/2014,20/11/2024,516.35 MB,528740,Adds various features to anonymous imageboards.,CoffeeScript,https://github.com/ccd0/4chan-x
+86,buckets,1049,148,1049,7,25/04/2014,31/05/2015,6.47 MB,6621,[DEPRECATED] Manage content better.,CoffeeScript,https://github.com/bucketsio/buckets
+87,apparatus,1046,60,1046,40,21/09/2015,30/06/2023,14.72 MB,15074,A hybrid graphics editor and programming environment for creating interactive diagrams.,CoffeeScript,https://github.com/cdglabs/apparatus
 88,stitch,1037,81,1037,32,18/09/2010,02/11/2012,287.00 KB,287,Stitch your CommonJS modules together for the browser,CoffeeScript,https://github.com/sstephenson/stitch
 89,jquery.turbolinks,1004,62,1004,19,02/10/2012,03/09/2017,79.00 KB,79,💀 Deprecated ⚠️ jQuery plugin for drop-in fix binded events problem caused by Turbolinks,CoffeeScript,https://github.com/kossnocorp/jquery.turbolinks
 90,dploy,980,90,980,54,07/05/2013,05/02/2019,468.00 KB,468,⛔️ currently unmaintained ⛔️,CoffeeScript,https://github.com/lucasmotta/dploy
@@ -95,29 +95,29 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 94,node-neo4j,925,134,925,42,19/03/2011,20/11/2018,725.00 KB,725,[RETIRED] Neo4j graph database driver (REST API client) for Node.js,CoffeeScript,https://github.com/thingdom/node-neo4j
 95,xmlbuilder-js,924,107,924,8,01/11/2010,07/08/2024,1009.00 KB,1009,An XML builder for node.js,CoffeeScript,https://github.com/oozcitak/xmlbuilder-js
 96,pt,910,64,910,10,11/07/2015,13/02/2018,5.54 MB,5671,"An experimental library on point, form, and space.",CoffeeScript,https://github.com/williamngan/pt
-97,webgl-heatmap,909,148,909,10,03/02/2013,05/06/2015,260.00 KB,260,A high performance WebGL/JS heatmap display library,CoffeeScript,https://github.com/pyalot/webgl-heatmap
+97,webgl-heatmap,910,148,910,10,03/02/2013,05/06/2015,260.00 KB,260,A high performance WebGL/JS heatmap display library,CoffeeScript,https://github.com/pyalot/webgl-heatmap
 98,yaml.js,888,141,888,53,25/10/2010,29/03/2021,1.89 MB,1939,Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.,CoffeeScript,https://github.com/jeremyfa/yaml.js
-99,adbkit,856,256,856,71,26/11/2013,24/03/2023,1.10 MB,1130,A pure Node.js client for the Android Debug Bridge.,CoffeeScript,https://github.com/openstf/adbkit
+99,adbkit,858,258,858,71,26/11/2013,24/03/2023,1.10 MB,1130,A pure Node.js client for the Android Debug Bridge.,CoffeeScript,https://github.com/openstf/adbkit
 100,jquery-gridly,852,260,852,20,15/06/2013,16/03/2023,465.00 KB,465,Gridly is a jQuery plugin to enable dragging and dropping as well as resizing on a grid.,CoffeeScript,https://github.com/ksylvest/jquery-gridly
-101,bone.io,851,47,851,7,01/04/2013,13/04/2014,894.00 KB,894,Realtime HTML5 Framework,JavaScript,https://github.com/techpines/bone.io
-102,longjohn,840,38,840,19,02/07/2012,13/12/2019,63.00 KB,63,Long stack traces for node.js inspired by https://github.com/tlrobinson/long-stack-traces,CoffeeScript,https://github.com/mattinsler/longjohn
+101,bone.io,850,47,850,7,01/04/2013,13/04/2014,894.00 KB,894,Realtime HTML5 Framework,JavaScript,https://github.com/techpines/bone.io
+102,longjohn,840,37,840,19,02/07/2012,13/12/2019,63.00 KB,63,Long stack traces for node.js inspired by https://github.com/tlrobinson/long-stack-traces,CoffeeScript,https://github.com/mattinsler/longjohn
 103,jquery-endless-scroll,838,174,838,28,02/12/2009,29/07/2017,4.03 MB,4122,Endless/infinite scrolling/pagination.,CoffeeScript,https://github.com/fredwu/jquery-endless-scroll
-104,meteor-admin,825,260,825,171,29/08/2014,23/06/2017,990.00 KB,990,A complete admin dashboard solution,CoffeeScript,https://github.com/yogiben/meteor-admin
+104,meteor-admin,824,260,824,171,29/08/2014,23/06/2017,990.00 KB,990,A complete admin dashboard solution,CoffeeScript,https://github.com/yogiben/meteor-admin
 105,meshblu,814,180,814,20,25/10/2013,23/01/2023,122.85 MB,125795,Meshblu is a cross-protocol IoT machine-to-machine messaging system.,CoffeeScript,https://github.com/octoblu/meshblu
-106,houston,804,93,804,129,29/06/2013,16/05/2017,1.52 MB,1553,"A zero-config, Django Admin-like admin for Meteor",CoffeeScript,https://github.com/gterrono/houston
+106,houston,803,93,803,129,29/06/2013,16/05/2017,1.52 MB,1553,"A zero-config, Django Admin-like admin for Meteor",CoffeeScript,https://github.com/gterrono/houston
 107,Atraci,803,119,803,74,23/07/2014,21/10/2018,38.91 MB,39842,Free music streaming player,CoffeeScript,https://github.com/Atraci/Atraci
 108,oauth-js,792,195,792,30,14/06/2013,31/12/2017,2.92 MB,2995,OAuth that just works ! This is the JavaScript SDK for OAuth.io,CoffeeScript,https://github.com/oauth-io/oauth-js
-109,emmet-atom,763,181,763,350,21/07/2013,22/09/2021,629.00 KB,629,Emmet support for Atom,CoffeeScript,https://github.com/emmetio/emmet-atom
+109,emmet-atom,763,180,763,350,21/07/2013,22/09/2021,629.00 KB,629,Emmet support for Atom,CoffeeScript,https://github.com/emmetio/emmet-atom
 110,popularconvention,733,52,733,15,06/04/2013,09/07/2017,1.37 MB,1407,analyzing code convention from github commits for Github data challenge II,CoffeeScript,https://github.com/outsideris/popularconvention
 111,messenger.js,725,45,725,17,29/02/2012,09/03/2018,122.00 KB,122,Insanely Fast Communication Library For Node.js Services,CoffeeScript,https://github.com/weixiyen/messenger.js
-112,sfz,722,279,722,6,15/05/2019,27/02/2025,33.00 KB,33,专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）,CoffeeScript,https://github.com/joyqi/sfz
+112,sfz,725,280,725,6,15/05/2019,27/02/2025,33.00 KB,33,专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）,CoffeeScript,https://github.com/joyqi/sfz
 113,backbone-offline,718,56,718,28,23/03/2012,11/05/2015,807.00 KB,807,[Deprecated] Allows your Backbone.js app to work offline,CoffeeScript,https://github.com/alekseykulikov/backbone-offline
 114,shadowsocks-chromeapp,702,534,702,14,19/01/2013,23/02/2016,873.00 KB,873,Chrome client for shadowsocks,CoffeeScript,https://github.com/shadowsocks/shadowsocks-chromeapp
 115,AngularFun,677,138,677,0,07/05/2012,02/06/2017,3.86 MB,3954,AngularJS Reference Architecture,CoffeeScript,https://github.com/CaryLandholt/AngularFun
-116,angular-bootstrap-nav-tree,675,296,675,52,17/08/2013,20/11/2020,286.00 KB,286,"An AngularJS directive that creates a Tree based on a Bootstrap ""nav"" list.",CoffeeScript,https://github.com/nickperkinslondon/angular-bootstrap-nav-tree
+116,angular-bootstrap-nav-tree,674,296,674,52,17/08/2013,20/11/2020,286.00 KB,286,"An AngularJS directive that creates a Tree based on a Bootstrap ""nav"" list.",CoffeeScript,https://github.com/nickperkinslondon/angular-bootstrap-nav-tree
 117,swag,674,71,674,30,27/07/2012,26/12/2019,225.00 KB,225,Swag is a growing collection of helpers for handlebars templates.,CoffeeScript,https://github.com/elving/swag
 118,buttercoin,667,265,667,12,11/04/2013,02/02/2020,1.60 MB,1638,Opensource Bitcoin Exchange Software,CoffeeScript,https://github.com/buttercoin/buttercoin
-119,hubot-hipchat,664,250,664,38,11/11/2011,06/05/2021,185.00 KB,185,HipChat adapter for GitHub's Hubot,CoffeeScript,https://github.com/hipchat/hubot-hipchat
+119,hubot-hipchat,663,250,663,38,11/11/2011,06/05/2021,185.00 KB,185,HipChat adapter for GitHub's Hubot,CoffeeScript,https://github.com/hipchat/hubot-hipchat
 120,pasteboard,643,143,643,38,16/06/2012,01/05/2024,1.64 MB,1677,Clipboard and drag & drop image sharing web app,CoffeeScript,https://github.com/JoelBesada/pasteboard
 121,express-coffee,628,152,628,8,26/06/2010,04/09/2020,1.70 MB,1739,"A Template for NodeJs Application using Express, CoffeeScript, Jade, Stylus, Nib",CoffeeScript,https://github.com/twilson63/express-coffee
 122,codo,619,92,619,17,03/02/2012,13/01/2022,2.05 MB,2096,CoffeeScript API documentation generator. It's like YARD but for CoffeeScript!,CoffeeScript,https://github.com/coffeedoc/codo
@@ -127,12 +127,12 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 126,angular-form-builder,603,333,603,60,06/11/2013,13/06/2018,398.00 KB,398,Drag and drop to build bootstrap forms in AngularJS.,CoffeeScript,https://github.com/kelp404/angular-form-builder
 127,pimatic,601,143,601,202,17/08/2013,21/10/2022,4.01 MB,4111,A home automation server and framework for the raspberry pi running on node.js,CoffeeScript,https://github.com/pimatic/pimatic
 128,plunker,598,116,598,59,23/04/2012,25/10/2019,9.76 MB,9993,Plnkr.co front-end and backend,CoffeeScript,https://github.com/filearts/plunker
-129,space-pen,590,38,590,0,04/02/2012,24/10/2016,485.00 KB,485,"A simple and powerful client-side view framework that works in zero-gravity, no longer maintained.",CoffeeScript,https://github.com/atom-archive/space-pen
+129,space-pen,589,38,589,0,04/02/2012,24/10/2016,485.00 KB,485,"A simple and powerful client-side view framework that works in zero-gravity, no longer maintained.",CoffeeScript,https://github.com/atom-archive/space-pen
 130,url-pattern,588,42,588,13,21/03/2012,06/08/2020,487.00 KB,487,easier than regex string matching patterns for urls and other strings. turn strings into data or data into strings.,CoffeeScript,https://github.com/snd/url-pattern
 131,social-share-button,582,308,582,31,04/01/2012,06/05/2021,436.00 KB,436,"Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban ...",CoffeeScript,https://github.com/huacnlee/social-share-button
 132,Smooth-CoffeeScript,580,70,580,12,14/06/2011,04/02/2012,22.71 MB,23251,A book on functional programming in CoffeeScript,CoffeeScript,https://github.com/autotelicum/Smooth-CoffeeScript
 133,groc,580,131,580,79,26/11/2011,05/06/2019,1.65 MB,1686,"Documentation generation, in the spirit of literate programming.",CoffeeScript,https://github.com/nevir/groc
-134,payment,574,157,574,17,14/07/2014,29/10/2024,1.42 MB,1449,":moneybag: A jQuery-free general purpose library for building credit card forms, validating inputs and formatting numbers.",CoffeeScript,https://github.com/jessepollak/payment
+134,payment,575,157,575,17,14/07/2014,29/10/2024,1.42 MB,1449,":moneybag: A jQuery-free general purpose library for building credit card forms, validating inputs and formatting numbers.",CoffeeScript,https://github.com/jessepollak/payment
 135,BankersBox,573,34,573,3,02/03/2012,10/04/2023,116.00 KB,116,redis-like wrapper for javascript storage,CoffeeScript,https://github.com/twilio/BankersBox
 136,lethargy,567,47,567,8,04/05/2015,15/10/2019,104.00 KB,104,"Distinguish between scroll events initiated by the user, and those by inertial scrolling",CoffeeScript,https://github.com/d4nyll/lethargy
 137,tree-view,562,361,562,233,13/08/2013,01/12/2022,2.40 MB,2453,🌳 Explore and open project files in Atom,CoffeeScript,https://github.com/atom/tree-view
@@ -142,21 +142,21 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 141,vim-mode,556,18,556,24,09/05/2014,24/04/2019,857.00 KB,857,Experimental next generation vim support for atom. This project needs a new home!,CoffeeScript,https://github.com/carlosdcastillo/vim-mode
 142,iphone-style-checkboxes,553,86,553,1,16/06/2009,21/10/2019,6.15 MB,6300,Turn your checkboxes into iOS-style binary switches,CoffeeScript,https://github.com/tdreyno/iphone-style-checkboxes
 143,bootstrap-tags,545,132,545,23,15/11/2012,27/04/2017,465.00 KB,465,Bootstrap-themed jquery tag interface,CoffeeScript,https://github.com/maxwells/bootstrap-tags
-144,coffee-resque,544,44,544,3,26/10/2010,02/10/2015,324.00 KB,324,,CoffeeScript,https://github.com/technoweenie/coffee-resque
-145,meteor-restivus,543,115,543,129,27/12/2014,07/09/2021,381.00 KB,381,REST APIs for the Best of Us! - A Meteor 0.9+ package for building REST APIs https://atmospherejs.com/nimble/restivus,CoffeeScript,https://github.com/kahmali/meteor-restivus
+144,meteor-restivus,543,115,543,129,27/12/2014,07/09/2021,381.00 KB,381,REST APIs for the Best of Us! - A Meteor 0.9+ package for building REST APIs https://atmospherejs.com/nimble/restivus,CoffeeScript,https://github.com/kahmali/meteor-restivus
+145,coffee-resque,543,44,543,3,26/10/2010,02/10/2015,324.00 KB,324,,CoffeeScript,https://github.com/technoweenie/coffee-resque
 146,core-lib,542,24,542,7,29/06/2012,29/02/2020,2.66 MB,2727,A port of the Ruby 1.9.3 corelib to coffeescript/javascript/node that conforms to rubyspec.org.,CoffeeScript,https://github.com/hasclass/core-lib
 147,git-plus,536,154,536,98,27/03/2014,11/02/2022,1.97 MB,2019,vim-fugitive like package for atom. make commits and other git things without the terminal,CoffeeScript,https://github.com/akonwi/git-plus
-148,electron-starter,531,66,531,0,12/11/2014,06/07/2016,2.09 MB,2142,Example Electron app,CoffeeScript,https://github.com/atom-archive/electron-starter
+148,electron-starter,530,66,530,0,12/11/2014,06/07/2016,2.09 MB,2142,Example Electron app,CoffeeScript,https://github.com/atom-archive/electron-starter
 149,highlights,530,54,530,26,18/03/2014,28/09/2022,537.00 KB,537,Syntax highlighter,CoffeeScript,https://github.com/atom/highlights
 150,Smooth.js,527,28,527,7,12/03/2012,06/11/2021,239.00 KB,239,Turn arrays into smooth functions.,CoffeeScript,https://github.com/osuushi/Smooth.js
 151,pioneer,525,34,525,65,15/11/2013,18/04/2019,484.00 KB,484,Integration Testing,CoffeeScript,https://github.com/mojotech/pioneer
 152,serenade.js,522,27,522,14,23/11/2011,12/01/2018,2.14 MB,2194,Client side MVC framework,CoffeeScript,https://github.com/varvet/serenade.js
 153,atom-pigments,521,69,521,101,04/03/2015,10/01/2023,8.82 MB,9028,An Atom package to display colors in project and files.,CoffeeScript,https://github.com/abe33/atom-pigments
 154,angular-daterangepicker,518,368,518,12,25/02/2014,17/04/2019,238.00 KB,238,Angular.js wrapper for dangrossman/bootstrap-daterangepicker,CoffeeScript,https://github.com/fragaria/angular-daterangepicker
-155,Alchemy,513,232,513,65,02/12/2013,22/05/2024,11.74 MB,12026,,CoffeeScript,https://github.com/GraphAlchemist/Alchemy
+155,Alchemy,513,231,513,65,02/12/2013,22/05/2024,11.74 MB,12026,,CoffeeScript,https://github.com/GraphAlchemist/Alchemy
 156,CoffeeDrop,508,23,508,0,24/11/2010,21/05/2011,648.00 KB,648,"CoffeeDrop is an open-source, roll your own, Dropbox-like clone written in CoffeeScript. Currently not working and under heavy development.",CoffeeScript,https://github.com/meltingice/CoffeeDrop
-157,swarm,507,147,507,197,14/08/2014,28/08/2024,4.90 MB,5020,"Swarm Simulator, an idle game with lots of bugs.",CoffeeScript,https://github.com/swarmsim/swarm
-158,jquery-jsonview,491,157,491,15,23/12/2012,09/10/2017,107.00 KB,107,[UNMAINTAINED]View JSON in a more readable format ,CoffeeScript,https://github.com/yesmeck/jquery-jsonview
+157,swarm,506,148,506,197,14/08/2014,28/08/2024,4.90 MB,5020,"Swarm Simulator, an idle game with lots of bugs.",CoffeeScript,https://github.com/swarmsim/swarm
+158,jquery-jsonview,490,157,490,15,23/12/2012,09/10/2017,107.00 KB,107,[UNMAINTAINED]View JSON in a more readable format ,CoffeeScript,https://github.com/yesmeck/jquery-jsonview
 159,pokemon-go-mitm,486,105,486,21,17/07/2016,06/09/2016,255.00 KB,255,"🎁  Pokemon Go MITM Proxy -  Intercepts the traffic between your Pokemon Go app and their servers, decodes the protocol and gives you a handy tool to enrich your own game experience on the fly.",CoffeeScript,https://github.com/rastapasta/pokemon-go-mitm
 160,cartjs,486,83,486,48,13/06/2014,19/10/2023,3.46 MB,3543,A Javascript library to power cart management for Shopify themes.,CoffeeScript,https://github.com/discolabs/cartjs
 161,Griddify,486,57,486,17,01/03/2014,22/12/2015,945.00 KB,945,A tiny Photoshop panel to make guides and grids,CoffeeScript,https://github.com/AriaMinaei/Griddify
@@ -183,7 +183,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 182,generator-reveal,431,49,431,5,10/06/2013,01/02/2018,202.00 KB,202,Yeoman generator for Reveal.js,CoffeeScript,https://github.com/slara/generator-reveal
 183,merge-conflicts,431,39,431,67,01/03/2014,16/05/2017,5.39 MB,5517,Resolve git merge conflicts in Atom,CoffeeScript,https://github.com/smashwilson/merge-conflicts
 184,payform,427,82,427,20,29/01/2015,22/06/2022,442.00 KB,442,":credit_card: A library for building credit card forms, validating inputs, and formatting numbers.",CoffeeScript,https://github.com/jondavidjohn/payform
-185,meteor-starter,425,144,425,49,02/09/2014,04/10/2017,28.54 MB,29229,Kickstart your meteor projects,CoffeeScript,https://github.com/yogiben/meteor-starter
+185,meteor-starter,424,144,424,49,02/09/2014,04/10/2017,28.54 MB,29229,Kickstart your meteor projects,CoffeeScript,https://github.com/yogiben/meteor-starter
 186,mathdown,420,46,420,68,28/08/2013,08/10/2023,701.00 KB,701,Collaborative markdown with math,CoffeeScript,https://github.com/cben/mathdown
 187,redditmusicplayer,417,50,417,56,22/11/2013,17/06/2024,60.68 MB,62140,:musical_note: A free and open-source streaming music web player using data from Reddit,CoffeeScript,https://github.com/musicplayer-io/redditmusicplayer
 188,journo,415,75,415,6,28/02/2013,20/09/2017,484.00 KB,484,A quick-and-dirty (literate) blogging engine,CoffeeScript,https://github.com/jashkenas/journo
@@ -200,41 +200,41 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 199,Shem,391,4,391,0,12/09/2015,29/08/2020,1.62 MB,1661,The compiler of the programming language Shem,CoffeeScript,https://github.com/xixixao/Shem
 200,echoplexus,389,52,389,63,01/06/2013,18/03/2016,3.66 MB,3743,"Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls",CoffeeScript,https://github.com/qq99/echoplexus
 201,slip.js,387,130,387,5,27/09/2014,11/03/2015,1.48 MB,1520,移动端跟随手指滑动组件，零依赖。,CoffeeScript,https://github.com/binnng/slip.js
-202,meteor-job-collection,384,68,384,70,15/05/2014,30/04/2018,809.00 KB,809,"A persistent and reactive job queue for Meteor, supporting distributed workers that can run anywhere.",CoffeeScript,https://github.com/vsivsi/meteor-job-collection
+202,meteor-job-collection,383,69,383,70,15/05/2014,30/04/2018,809.00 KB,809,"A persistent and reactive job queue for Meteor, supporting distributed workers that can run anywhere.",CoffeeScript,https://github.com/vsivsi/meteor-job-collection
 203,ger,381,47,381,19,03/04/2014,30/08/2023,6.62 MB,6781,Good Enough Recommendation (GER) Engine,CoffeeScript,https://github.com/grahamjenson/ger
 204,twix.js,380,54,380,12,04/01/2012,02/01/2023,2.64 MB,2707,:hourglass::left_right_arrow: A date range plugin for moment.js,CoffeeScript,https://github.com/icambron/twix.js
 205,codedoodl.es,377,56,377,26,21/01/2015,15/12/2022,13.58 MB,13907,A curated showcase of creative coding sketches,CoffeeScript,https://github.com/fluuuid/codedoodl.es
 206,backbone_query,376,29,376,5,23/01/2012,09/01/2013,376.00 KB,376,A lightweight query api for Backbone Collections,CoffeeScript,https://github.com/davidgtonge/backbone_query
-207,uebersicht-widgets,373,105,373,17,08/04/2014,06/07/2025,14.58 MB,14934,A collection of community widgets for Übersicht ,CoffeeScript,https://github.com/felixhageloh/uebersicht-widgets
+207,uebersicht-widgets,373,105,373,18,08/04/2014,06/07/2025,14.58 MB,14934,A collection of community widgets for Übersicht ,CoffeeScript,https://github.com/felixhageloh/uebersicht-widgets
 208,jpeg_camera,371,97,371,24,24/07/2013,22/10/2019,459.00 KB,459,JpegCamera – JavaScript webcam image capture library,CoffeeScript,https://github.com/amw/jpeg_camera
-209,kart,366,24,366,4,09/05/2014,11/04/2018,1.84 MB,1887,🎮 Frontend for RetroArch,CoffeeScript,https://github.com/maddox/kart
+209,kart,367,24,367,4,09/05/2014,11/04/2018,1.84 MB,1887,🎮 Frontend for RetroArch,CoffeeScript,https://github.com/maddox/kart
 210,amazon-product-api,365,104,365,37,29/12/2013,02/03/2018,127.00 KB,127,:credit_card: Amazon Product Advertising API client,CoffeeScript,https://github.com/t3chnoboy/amazon-product-api
 211,ngQuickDate,363,131,363,66,24/11/2013,06/07/2017,593.00 KB,593,An Angular.js Date/Time picker directive that stresses speed of data entry and configuration,CoffeeScript,https://github.com/adamalbrecht/ngQuickDate
-212,saml2,360,167,360,73,12/03/2014,21/07/2025,414.00 KB,414,Node module to abstract away the complexities of the SAML protocol behind an easy to use interface.,CoffeeScript,https://github.com/Clever/saml2
+212,saml2,359,167,359,72,12/03/2014,26/08/2025,414.00 KB,414,Node module to abstract away the complexities of the SAML protocol behind an easy to use interface.,CoffeeScript,https://github.com/Clever/saml2
 213,connect,358,84,358,136,19/03/2014,25/02/2019,1.18 MB,1209,A modern authorization server built to authenticate your users and protect your APIs,CoffeeScript,https://github.com/anvilresearch/connect
-214,rockets,357,17,357,1,25/07/2015,25/03/2018,614.00 KB,614,Streams new posts and comments as they are created on reddit.com,CoffeeScript,https://github.com/rockets/rockets
+214,rockets,356,17,356,1,25/07/2015,25/03/2018,614.00 KB,614,Streams new posts and comments as they are created on reddit.com,CoffeeScript,https://github.com/rockets/rockets
 215,meteor-blaze-components,355,27,355,30,27/03/2015,25/10/2020,531.00 KB,531,Reusable components for Blaze,CoffeeScript,https://github.com/peerlibrary/meteor-blaze-components
 216,abao,353,58,353,38,01/10/2014,20/11/2024,463.00 KB,463,REST API automated testing tool based on RAML,CoffeeScript,https://github.com/cybertk/abao
 217,ColorTunes,353,44,353,1,04/12/2012,10/02/2014,1.00 MB,1026,HTML5 version of the iTunes 11 album view,CoffeeScript,https://github.com/dannvix/ColorTunes
 218,scaleApp,353,49,353,7,07/02/2011,14/10/2019,1.49 MB,1526,scaleApp is a JavaScript framework for scalable and maintainable One-Page-Applications,CoffeeScript,https://github.com/flosse/scaleApp
 219,meteor-autocomplete,350,107,350,66,20/09/2013,31/12/2022,216.00 KB,216,Client/server autocompletion designed for Meteor's collections and reactivity.,CoffeeScript,https://github.com/Meteor-Community-Packages/meteor-autocomplete
-220,task_list,346,55,346,0,19/03/2013,27/09/2016,132.00 KB,132,GitHub flavor Markdown Task List feature components,CoffeeScript,https://github.com/github/task_list
-221,fold,346,49,346,28,21/11/2016,04/01/2024,282.00 KB,282,"FOLD file format for origami models, crease patterns, etc.",CoffeeScript,https://github.com/edemaine/fold
+220,fold,347,49,347,28,21/11/2016,04/01/2024,282.00 KB,282,"FOLD file format for origami models, crease patterns, etc.",CoffeeScript,https://github.com/edemaine/fold
+221,task_list,346,55,346,0,19/03/2013,27/09/2016,132.00 KB,132,GitHub flavor Markdown Task List feature components,CoffeeScript,https://github.com/github/task_list
 222,deploy-robot,346,61,346,5,26/03/2015,09/01/2017,141.00 KB,141,GitHub 自动部署机器人,CoffeeScript,https://github.com/segmentfault/deploy-robot
 223,gitspective,346,25,346,8,08/05/2012,12/05/2012,483.00 KB,483,A different github timeline,CoffeeScript,https://github.com/zmoazeni/gitspective
 224,js-patterns-sublime-snippets,341,34,341,0,20/05/2013,08/11/2018,6.53 MB,6691,:mortar_board: JavaScript Patterns snippets for Sublime Text,CoffeeScript,https://github.com/caiogondim/js-patterns-sublime-snippets
 225,Input-Framer,338,33,338,0,17/04/2015,01/01/2019,354.00 KB,354,Framer module to add inputs to your prototypes and easily turn your designs inputs into real inputs,CoffeeScript,https://github.com/ajimix/Input-Framer
 226,md-writer,338,44,338,15,25/07/2014,27/02/2024,797.00 KB,797,✒️ Make Atom a better Markdown/AsciiDoc editor for writers and bloggers,CoffeeScript,https://github.com/zhuochun/md-writer
-227,Love-Gift,334,72,334,0,18/10/2018,24/06/2019,66.00 KB,66,💌 A love gift for my ex-girlfriend.,CoffeeScript,https://github.com/idealclover/Love-Gift
-228,livecodelab,334,61,334,93,01/04/2012,30/12/2022,27.51 MB,28175,a web based livecoding environment,CoffeeScript,https://github.com/davidedc/livecodelab
+227,livecodelab,335,61,335,93,01/04/2012,30/12/2022,27.51 MB,28175,a web based livecoding environment,CoffeeScript,https://github.com/davidedc/livecodelab
+228,Love-Gift,334,72,334,0,18/10/2018,24/06/2019,66.00 KB,66,💌 A love gift for my ex-girlfriend.,CoffeeScript,https://github.com/idealclover/Love-Gift
 229,query-engine,329,34,329,28,06/07/2011,11/12/2023,1.29 MB,1317,"QueryEngine provides extensive Querying, Filtering, and Searching abilities for Backbone.js Collections as well as JavaScript arrays and objects",CoffeeScript,https://github.com/bevry/query-engine
 230,jquery.mobilePhoneNumber,328,46,328,6,21/05/2014,07/04/2020,100.00 KB,100,[DEPRECATED] A general purpose library for validating and formatting mobile phone numbers.          ,CoffeeScript,https://github.com/stripe-archive/jquery.mobilePhoneNumber
 231,phearjs,327,34,327,5,24/03/2015,29/07/2017,114.00 KB,114,PhearJS - render dynamic Javascript webpages to JSON with PhantomJS,CoffeeScript,https://github.com/Tomtomgo/phearjs
 232,guillotine,326,100,326,14,25/04/2014,14/06/2017,29.14 MB,29835,"jQuery plugin to crop images within an area (fully responsive), allowing to drag (touch support), zoom and rotate.",CoffeeScript,https://github.com/matiasgali/guillotine
-233,asset-rack,324,93,324,51,03/07/2012,17/10/2019,403.00 KB,403,Static Web Framework for Nodejs,CoffeeScript,https://github.com/techpines/asset-rack
-234,fusker,324,19,324,0,22/07/2011,26/01/2012,209.00 KB,209,Fusker is a static HTTP server that provides optional security features for HTTP/Socket.io,CoffeeScript,https://github.com/wearefractal/fusker
-235,syno,323,50,323,21,11/10/2014,11/08/2024,12.30 MB,12593,Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.,CoffeeScript,https://github.com/kwent/syno
-236,taiga-front,322,164,322,123,14/04/2021,10/03/2025,46.32 MB,47427,,CoffeeScript,https://github.com/taigaio/taiga-front
+233,taiga-front,324,164,324,123,14/04/2021,10/03/2025,46.32 MB,47427,,CoffeeScript,https://github.com/taigaio/taiga-front
+234,asset-rack,324,93,324,51,03/07/2012,17/10/2019,403.00 KB,403,Static Web Framework for Nodejs,CoffeeScript,https://github.com/techpines/asset-rack
+235,fusker,324,19,324,0,22/07/2011,26/01/2012,209.00 KB,209,Fusker is a static HTTP server that provides optional security features for HTTP/Socket.io,CoffeeScript,https://github.com/wearefractal/fusker
+236,syno,323,50,323,21,11/10/2014,11/08/2024,12.30 MB,12593,Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.,CoffeeScript,https://github.com/kwent/syno
 237,fuzzaldrin,319,26,319,9,17/10/2013,28/09/2022,470.00 KB,470,Fuzzy filtering and string scoring,CoffeeScript,https://github.com/atom/fuzzaldrin
 238,Typist,315,25,315,10,03/01/2014,02/08/2017,11.00 KB,11,"Elegant automated typing, for your text rotation needs",CoffeeScript,https://github.com/unamohq/Typist
 239,vimtronner,313,26,313,12,03/10/2013,21/11/2018,509.00 KB,509,A multi-player Vim trainer.,CoffeeScript,https://github.com/carbonfive/vimtronner
@@ -265,8 +265,8 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 264,node-browserchannel,288,44,288,9,19/09/2011,31/08/2020,1.22 MB,1252,An implementation of a google browserchannel server in node.js,CoffeeScript,https://github.com/josephg/node-browserchannel
 265,plunker_www,288,94,288,72,02/11/2012,02/09/2022,22.35 MB,22889,The public-facing website for http://plnkr.co,CoffeeScript,https://github.com/filearts/plunker_www
 266,nesh,286,27,286,30,02/04/2013,18/11/2016,127.00 KB,127,"An enhanced, extensible interactive shell for Node.js and CoffeeScript",CoffeeScript,https://github.com/danielgtaylor/nesh
-267,youtube-video,285,54,285,3,28/10/2012,01/04/2013,225.00 KB,225,"A Javascript library to access webm, mp4 sources for Youtube Videos.",CoffeeScript,https://github.com/endlesshack/youtube-video
-268,graph-api-webhooks-samples,285,566,285,9,07/10/2015,03/02/2025,51.00 KB,51,These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API.,CoffeeScript,https://github.com/fbsamples/graph-api-webhooks-samples
+267,graph-api-webhooks-samples,286,568,286,9,07/10/2015,03/02/2025,51.00 KB,51,These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API.,CoffeeScript,https://github.com/fbsamples/graph-api-webhooks-samples
+268,youtube-video,285,54,285,3,28/10/2012,01/04/2013,225.00 KB,225,"A Javascript library to access webm, mp4 sources for Youtube Videos.",CoffeeScript,https://github.com/endlesshack/youtube-video
 269,AngularJS-Atom,284,49,284,21,27/02/2014,16/01/2018,277.00 KB,277,An AngularJS package for Github's Atom editor,CoffeeScript,https://github.com/angular-ui/AngularJS-Atom
 270,derby-examples,282,74,282,1,19/04/2012,20/05/2024,23.90 MB,24474,Example applications for the Derby framework,CoffeeScript,https://github.com/derbyjs/derby-examples
 271,jsog,281,21,281,12,06/05/2013,23/05/2024,48.00 KB,48,JavaScript Object Graph,CoffeeScript,https://github.com/jsog/jsog
@@ -279,78 +279,78 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 278,angular-light,275,43,275,33,21/02/2015,30/11/2017,754.00 KB,754,Alight is a library for building interactive MVVM web interfaces/applications. (project is deprecated),CoffeeScript,https://github.com/lega911/angular-light
 279,S3,274,73,274,58,15/09/2013,19/02/2018,616.00 KB,616,A simple helper for easily uploading files to Amazon S3 from Meteor. This package will also make Knox available server-side.,CoffeeScript,https://github.com/Lepozepo/S3
 280,settings-view,274,278,274,148,13/08/2013,08/12/2022,1.94 MB,1990,🔧 Edit Atom settings,CoffeeScript,https://github.com/atom/settings-view
-281,jQuery.PrettyTextDiff,273,55,273,7,23/01/2013,03/02/2022,20.00 KB,20,"A wrapper around Google's diff_match_patch library, to make life easy",CoffeeScript,https://github.com/arnab/jQuery.PrettyTextDiff
+281,jQuery.PrettyTextDiff,273,56,273,7,23/01/2013,03/02/2022,20.00 KB,20,"A wrapper around Google's diff_match_patch library, to make life easy",CoffeeScript,https://github.com/arnab/jQuery.PrettyTextDiff
 282,neovim-e,272,29,272,31,09/02/2015,18/12/2016,55.00 KB,55,Electron UI for Neovim,CoffeeScript,https://github.com/coolwanglu/neovim-e
-283,fuzz-aldrin-plus,269,21,269,18,24/09/2015,03/12/2017,805.00 KB,805,Sublime text like fuzzy filtering - compatible with atom/fuzzaldrin,CoffeeScript,https://github.com/jeancroy/fuzz-aldrin-plus
-284,karma-ng-html2js-preprocessor,268,146,268,79,03/02/2013,06/11/2019,75.00 KB,75,A Karma plugin. Compile AngularJS 1.x and 2.x templates to JavaScript on the fly.,CoffeeScript,https://github.com/karma-runner/karma-ng-html2js-preprocessor
-285,linear-partition,268,24,268,1,11/08/2013,15/09/2014,130.00 KB,130,Linear partition in Coffeescript (Javascript),CoffeeScript,https://github.com/crispymtn/linear-partition
-286,orona,268,43,268,10,07/08/2010,29/04/2012,2.72 MB,2781,"Bolo, a game of tank warfare, rewritten for modern browsers.",CoffeeScript,https://github.com/stephank/orona
-287,peerlibrary,267,50,267,363,14/03/2013,21/05/2017,11.80 MB,12088,Facilitating the global conversation on academic literature,CoffeeScript,https://github.com/peerlibrary/peerlibrary
-288,fresh-url,267,28,267,12,08/02/2014,28/01/2019,291.00 KB,291,Drop this script on your page and enjoy the freshest of URLs,CoffeeScript,https://github.com/wistia/fresh-url
+283,fuzz-aldrin-plus,270,21,270,18,24/09/2015,03/12/2017,805.00 KB,805,Sublime text like fuzzy filtering - compatible with atom/fuzzaldrin,CoffeeScript,https://github.com/jeancroy/fuzz-aldrin-plus
+284,linear-partition,268,24,268,1,11/08/2013,15/09/2014,130.00 KB,130,Linear partition in Coffeescript (Javascript),CoffeeScript,https://github.com/crispymtn/linear-partition
+285,orona,268,43,268,10,07/08/2010,29/04/2012,2.72 MB,2781,"Bolo, a game of tank warfare, rewritten for modern browsers.",CoffeeScript,https://github.com/stephank/orona
+286,peerlibrary,267,50,267,363,14/03/2013,21/05/2017,11.80 MB,12088,Facilitating the global conversation on academic literature,CoffeeScript,https://github.com/peerlibrary/peerlibrary
+287,fresh-url,267,28,267,12,08/02/2014,28/01/2019,291.00 KB,291,Drop this script on your page and enjoy the freshest of URLs,CoffeeScript,https://github.com/wistia/fresh-url
+288,karma-ng-html2js-preprocessor,266,146,266,79,03/02/2013,06/11/2019,75.00 KB,75,A Karma plugin. Compile AngularJS 1.x and 2.x templates to JavaScript on the fly.,CoffeeScript,https://github.com/karma-runner/karma-ng-html2js-preprocessor
 289,atom-node-debugger,266,32,266,80,15/08/2014,04/09/2020,4.36 MB,4463,A Nodejs Debugger For Atom,CoffeeScript,https://github.com/kiddkai/atom-node-debugger
 290,node-di,266,35,266,7,24/01/2013,28/04/2014,365.00 KB,365,Dependency Injection framework for Node.js,CoffeeScript,https://github.com/vojtajina/node-di
 291,violin,265,22,265,2,27/10/2012,26/02/2015,456.00 KB,456,Violin,CoffeeScript,https://github.com/latentflip/violin
 292,uRequire,264,20,264,21,01/10/2012,12/06/2020,2.58 MB,2642,"The Ultimate JavaScript Module Builder & Automagical Task Runner. Convert AMD & CommonJS/NodeJS modules to UMD, AMD, CommonJS or bundle them as `combined.js` (rjs & almond, AMDclean soon) & automagically run/test/watch them on nodejs, Web/AMD or Web/Script. Declarative & DRY config with inheritance. Manipulate & inject dependencies, module code, banners, version etc while building with a single line. Support two kinds of plugins, ResourceConverter (i.e file level) and AfterBuilder (i.e the whole bundle). Transparent support for Coffeescript, IcedCoffeescript, Coco, LiveScript – they’re just JavaScript :-)",CoffeeScript,https://github.com/anodynos/uRequire
 293,coauthor,264,36,264,240,17/12/2015,13/06/2025,2.39 MB,2444,Coauthor supercollaboration/discussion forum,CoffeeScript,https://github.com/edemaine/coauthor
-294,async-profile,264,13,264,6,11/07/2014,03/10/2014,248.00 KB,248,Asynchronous CPU profiling for node,CoffeeScript,https://github.com/ConradIrwin/async-profile
+294,async-profile,263,13,263,6,11/07/2014,03/10/2014,248.00 KB,248,Asynchronous CPU profiling for node,CoffeeScript,https://github.com/ConradIrwin/async-profile
 295,slither,263,109,263,23,15/04/2016,01/06/2016,414.00 KB,414,An open source implementation of the slither.io server,CoffeeScript,https://github.com/iiegor/slither
 296,hubot-minecraft,262,22,262,1,07/01/2012,07/01/2012,95.00 KB,95,A Minecraft hubot adapter,CoffeeScript,https://github.com/minefold/hubot-minecraft
 297,top-github-users,261,63,261,0,12/01/2013,21/09/2023,58.00 KB,58,GitHub top-1000 generation script,CoffeeScript,https://github.com/paulmillr/top-github-users
 298,node-etcd,260,85,260,27,12/08/2013,08/12/2022,271.00 KB,271,:satellite: Etcd client for nodejs,CoffeeScript,https://github.com/stianeikeland/node-etcd
 299,jquery.qeditor,258,68,258,8,12/08/2013,06/07/2018,316.00 KB,316,This is a simple WYSIWYG editor with jQuery.,CoffeeScript,https://github.com/huacnlee/jquery.qeditor
 300,mongodb-migrations,257,70,257,26,05/03/2014,02/11/2023,182.00 KB,182,A Node.js migration framework for MongoDB,CoffeeScript,https://github.com/emirotin/mongodb-migrations
-301,node-netmask,256,42,256,10,05/04/2012,15/02/2024,57.00 KB,57,Parse and lookup IP network blocks,CoffeeScript,https://github.com/rs/node-netmask
-302,OverlappingMarkerSpiderfier-Leaflet,256,70,256,39,06/05/2012,23/06/2021,173.00 KB,173,"Deals with overlapping markers in the Leaflet maps API, Google Earth-style ",CoffeeScript,https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet
-303,textLayer-for-Framer,256,23,256,13,17/05/2015,06/04/2019,24.00 KB,24,Framer.js module that simplifies the process of adding text to your prototypes.,CoffeeScript,https://github.com/awt2542/textLayer-for-Framer
-304,locale,256,36,256,12,14/01/2012,06/03/2020,60.00 KB,60,Browser locale negotiation for node.js,CoffeeScript,https://github.com/florrain/locale
-305,mojang-api,256,17,256,28,26/06/2018,10/09/2023,659.00 KB,659,Bundle multiple Minecraft APIs into a single GET request.,CoffeeScript,https://github.com/Electroid/mojang-api
-306,coffee-react-quickstart,253,38,253,9,09/06/2014,27/03/2016,1.77 MB,1813,"Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router",CoffeeScript,https://github.com/KyleAMathews/coffee-react-quickstart
-307,difflib.js,253,45,253,11,25/03/2012,08/11/2022,629.00 KB,629,"Text diff library in JavaScript, ported from Python's difflib module.",CoffeeScript,https://github.com/qiao/difflib.js
+301,OverlappingMarkerSpiderfier-Leaflet,256,70,256,39,06/05/2012,23/06/2021,173.00 KB,173,"Deals with overlapping markers in the Leaflet maps API, Google Earth-style ",CoffeeScript,https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet
+302,textLayer-for-Framer,256,23,256,13,17/05/2015,06/04/2019,24.00 KB,24,Framer.js module that simplifies the process of adding text to your prototypes.,CoffeeScript,https://github.com/awt2542/textLayer-for-Framer
+303,locale,256,36,256,12,14/01/2012,06/03/2020,60.00 KB,60,Browser locale negotiation for node.js,CoffeeScript,https://github.com/florrain/locale
+304,mojang-api,256,17,256,28,26/06/2018,10/09/2023,659.00 KB,659,Bundle multiple Minecraft APIs into a single GET request.,CoffeeScript,https://github.com/Electroid/mojang-api
+305,node-netmask,255,42,255,10,05/04/2012,15/02/2024,57.00 KB,57,Parse and lookup IP network blocks,CoffeeScript,https://github.com/rs/node-netmask
+306,difflib.js,254,45,254,11,25/03/2012,08/11/2022,629.00 KB,629,"Text diff library in JavaScript, ported from Python's difflib module.",CoffeeScript,https://github.com/qiao/difflib.js
+307,coffee-react-quickstart,253,38,253,9,09/06/2014,27/03/2016,1.77 MB,1813,"Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router",CoffeeScript,https://github.com/KyleAMathews/coffee-react-quickstart
 308,Sankey,253,88,253,11,29/06/2011,13/07/2017,189.00 KB,189,A javascript library for drawing sankey / flow diagrams,CoffeeScript,https://github.com/tamc/Sankey
 309,autocomplete-python,252,75,252,115,29/04/2015,27/02/2024,910.00 KB,910,Jedi based Python autocomplete for Atom,CoffeeScript,https://github.com/autocomplete-python/autocomplete-python
 310,atom-regex-railroad-diagrams,250,30,250,26,06/06/2014,12/10/2017,457.00 KB,457,"display regex as railroad diagram, if cursor moves to it",CoffeeScript,https://github.com/klorenz/atom-regex-railroad-diagrams
-311,angular-slider,249,175,249,52,20/04/2013,23/01/2017,782.00 KB,782,"(DEPRECATED) Slider directive implementation for AngularJS, without jQuery dependencies",CoffeeScript,https://github.com/prajwalkman/angular-slider
-312,mini-breakpad-server,248,86,248,14,18/11/2013,28/08/2022,22.00 KB,22,Minimum breakpad crash reports collecting server,CoffeeScript,https://github.com/electron/mini-breakpad-server
+311,mini-breakpad-server,249,86,249,14,18/11/2013,28/08/2022,22.00 KB,22,Minimum breakpad crash reports collecting server,CoffeeScript,https://github.com/electron/mini-breakpad-server
+312,angular-slider,249,175,249,52,20/04/2013,23/01/2017,782.00 KB,782,"(DEPRECATED) Slider directive implementation for AngularJS, without jQuery dependencies",CoffeeScript,https://github.com/prajwalkman/angular-slider
 313,shred,246,35,246,15,16/09/2011,14/12/2015,1.42 MB,1457,A Node.js HTTP Client,CoffeeScript,https://github.com/pandastrike/shred
 314,color-picker,245,47,245,51,06/03/2014,30/10/2018,4.04 MB,4139,A color picker for the Atom Editor. Right click a color and select color picker to open it.,CoffeeScript,https://github.com/thomaslindstrom/color-picker
-315,node-hbase,243,72,243,10,02/10/2010,30/05/2024,377.00 KB,377,Asynchronous HBase client for NodeJs using REST,CoffeeScript,https://github.com/adaltas/node-hbase
+315,node-hbase,244,72,244,10,02/10/2010,30/05/2024,377.00 KB,377,Asynchronous HBase client for NodeJs using REST,CoffeeScript,https://github.com/adaltas/node-hbase
 316,bumped,239,16,239,4,12/04/2015,25/12/2023,512.00 KB,512,:package: Makes easy release software,CoffeeScript,https://github.com/bumped/bumped
 317,cm,239,62,239,43,11/12/2013,03/09/2020,4.93 MB,5045,Google Chrome extension ContextMenus,CoffeeScript,https://github.com/xuender/cm
 318,backbone-orm,238,14,238,28,10/10/2013,28/01/2016,9.63 MB,9858,A polystore ORM for Node.js and the browser,CoffeeScript,https://github.com/vidigami/backbone-orm
 319,js-priority-queue,238,37,238,0,18/07/2013,29/10/2019,79.00 KB,79,Priority queues in JavaScript,CoffeeScript,https://github.com/adamhooper/js-priority-queue
 320,remote-sync,237,71,237,168,27/03/2014,22/10/2019,1.09 MB,1112,Upload your files to remote host after every change. Both SCP/SFTP and FTP are supported.,CoffeeScript,https://github.com/yongkangchen/remote-sync
 321,mongoose-redis-cache,237,51,237,7,24/02/2013,30/05/2014,263.00 KB,263,Cache your Mongoose MongoDB query results with Redis. 300% faster queries FTW!,CoffeeScript,https://github.com/conancat/mongoose-redis-cache
-322,fekit,235,105,235,23,30/11/2012,29/07/2016,4.88 MB,4996,FE Toolkit,CoffeeScript,https://github.com/rinh/fekit
+322,fekit,236,105,236,23,30/11/2012,29/07/2016,4.88 MB,4996,FE Toolkit,CoffeeScript,https://github.com/rinh/fekit
 323,atom-sublime-select,233,49,233,56,19/03/2014,08/06/2021,133.00 KB,133,Enable 'sublime style' multiline selection boxes to Atom editor http://atom.io,CoffeeScript,https://github.com/bigfive/atom-sublime-select
-324,terminal,233,36,233,0,15/05/2013,22/05/2014,708.00 KB,708,Atom Terminal package - *not currently maintained*,CoffeeScript,https://github.com/atom-archive/terminal
-325,MMD.js,232,39,232,3,04/10/2011,29/06/2013,3.85 MB,3944,MikuMikuDance on WebGL,CoffeeScript,https://github.com/edvakf/MMD.js
-326,knowledge,231,61,231,1,24/04/2013,17/09/2020,471.00 KB,471,Front-end knowledge hierarchy,CoffeeScript,https://github.com/ecomfe/knowledge
-327,citygen,231,40,231,0,13/12/2015,24/10/2021,166.00 KB,166,Procedural city generation demo ,CoffeeScript,https://github.com/t-mw/citygen
+324,MMD.js,232,39,232,3,04/10/2011,29/06/2013,3.85 MB,3944,MikuMikuDance on WebGL,CoffeeScript,https://github.com/edvakf/MMD.js
+325,terminal,232,36,232,0,15/05/2013,22/05/2014,708.00 KB,708,Atom Terminal package - *not currently maintained*,CoffeeScript,https://github.com/atom-archive/terminal
+326,citygen,232,40,232,0,13/12/2015,24/10/2021,166.00 KB,166,Procedural city generation demo ,CoffeeScript,https://github.com/t-mw/citygen
+327,knowledge,231,61,231,1,24/04/2013,17/09/2020,471.00 KB,471,Front-end knowledge hierarchy,CoffeeScript,https://github.com/ecomfe/knowledge
 328,framer-Firebase,230,16,230,0,25/05/2016,02/05/2018,61.00 KB,61,"The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.",CoffeeScript,https://github.com/marckrenn/framer-Firebase
 329,react-credit-card,230,61,230,7,06/02/2015,26/04/2017,36.00 KB,36,React port of the display part of Card by @jessepollak,CoffeeScript,https://github.com/JohnyDays/react-credit-card
 330,ViChrome,229,40,229,29,09/09/2011,18/03/2017,4.04 MB,4137,vi like key binds for Google Chrome,CoffeeScript,https://github.com/k2nr/ViChrome
 331,slick-lightbox,228,101,228,12,15/04/2014,17/09/2021,781.00 KB,781,A lightbox wrapper for Ken's amazing slick carousel.,CoffeeScript,https://github.com/mreq/slick-lightbox
 332,skeleton,228,13,228,1,25/06/2012,09/04/2015,182.00 KB,182,Express 3.0 framework-less app structure generator,CoffeeScript,https://github.com/EtienneLem/skeleton
-333,hangupsjs,227,45,227,30,02/05/2015,27/12/2021,626.00 KB,626,google hangouts client library for nodejs,CoffeeScript,https://github.com/yakyak/hangupsjs
-334,twitter-sentiment-visualisation,226,67,226,8,24/07/2015,04/11/2023,14.88 MB,15238,"🌍 Sentiment analysis over real-time social media data, rendering live charts to visualise trends ",CoffeeScript,https://github.com/Lissy93/twitter-sentiment-visualisation
-335,atom-git-control,226,69,226,120,17/12/2014,11/09/2018,383.00 KB,383,Not maintained :(,CoffeeScript,https://github.com/jacogr/atom-git-control
+333,twitter-sentiment-visualisation,227,67,227,8,24/07/2015,04/11/2023,14.88 MB,15238,"🌍 Sentiment analysis over real-time social media data, rendering live charts to visualise trends ",CoffeeScript,https://github.com/Lissy93/twitter-sentiment-visualisation
+334,atom-git-control,227,69,227,120,17/12/2014,11/09/2018,383.00 KB,383,Not maintained :(,CoffeeScript,https://github.com/jacogr/atom-git-control
+335,hangupsjs,227,45,227,30,02/05/2015,27/12/2021,626.00 KB,626,google hangouts client library for nodejs,CoffeeScript,https://github.com/yakyak/hangupsjs
 336,honeymap,223,88,223,9,17/09/2012,09/08/2016,1.06 MB,1084,Real-time websocket stream of GPS events on a fancy SVG world map,CoffeeScript,https://github.com/fw42/honeymap
 337,fangle,222,15,222,0,03/10/2012,18/09/2013,784.00 KB,784,fangle creates interactive pages from plain text,CoffeeScript,https://github.com/jotux/fangle
 338,iconathon,220,14,220,0,21/09/2015,23/03/2023,149.00 KB,149,An icon task runner that convert Sketch files to mobile and web formats.,CoffeeScript,https://github.com/trello-archive/iconathon
 339,microflo,218,27,218,56,17/09/2013,23/05/2020,10.71 MB,10964,Live dataflow programming for microcontrollers and embedded,CoffeeScript,https://github.com/microflo/microflo
 340,shadowsocks-heroku,218,983,218,0,09/12/2016,25/11/2018,0.00 KB,0,本项目已删除,CoffeeScript,https://github.com/521xueweihan/shadowsocks-heroku
-341,htmldiff.js,218,112,218,15,06/08/2012,17/07/2015,191.00 KB,191,"Diff algorithm that understands HTML, in the browser.",CoffeeScript,https://github.com/tnwinc/htmldiff.js
+341,htmldiff.js,218,111,218,15,06/08/2012,17/07/2015,191.00 KB,191,"Diff algorithm that understands HTML, in the browser.",CoffeeScript,https://github.com/tnwinc/htmldiff.js
 342,cocreate,217,28,217,89,20/05/2020,22/05/2025,906.00 KB,906,Cocreate Shared Whiteboard/Drawing,CoffeeScript,https://github.com/edemaine/cocreate
 343,piping,217,13,217,14,03/03/2013,22/10/2019,42.00 KB,42,Keep your code piping hot! Live code reloading without additional binaries,CoffeeScript,https://github.com/mdlawson/piping
-344,alac.js,217,17,217,3,28/10/2011,19/06/2014,504.00 KB,504,"ALAC decoder, but in Coffeescript",CoffeeScript,https://github.com/audiocogs/alac.js
-345,framer-viewNavigationController,216,17,216,3,10/07/2015,27/10/2016,4.16 MB,4263,A simple controller for FramerJS that allows you to transition between views with just a couple lines of code.,CoffeeScript,https://github.com/chriscamargo/framer-viewNavigationController
+344,framer-viewNavigationController,216,17,216,3,10/07/2015,27/10/2016,4.16 MB,4263,A simple controller for FramerJS that allows you to transition between views with just a couple lines of code.,CoffeeScript,https://github.com/chriscamargo/framer-viewNavigationController
+345,alac.js,216,17,216,3,28/10/2011,19/06/2014,504.00 KB,504,"ALAC decoder, but in Coffeescript",CoffeeScript,https://github.com/audiocogs/alac.js
 346,arda,216,12,216,6,08/02/2015,27/09/2019,159.00 KB,159,Meta-Flux Framework,CoffeeScript,https://github.com/mizchi/arda
 347,mongoose-encryption,216,49,216,22,19/06/2014,30/08/2023,371.00 KB,371,Simple encryption and authentication plugin for Mongoose,CoffeeScript,https://github.com/joegoldbeck/mongoose-encryption
 348,angular-cached-resource,215,29,215,43,06/03/2014,22/07/2021,738.00 KB,738,"An AngularJS module to interact with RESTful resources, even when browser is offline",CoffeeScript,https://github.com/goodeggs/angular-cached-resource
 349,electron-superkit,215,30,215,5,06/07/2015,30/10/2016,7.96 MB,8150,:zap: An Electron starter kit with super powers. :zap:,CoffeeScript,https://github.com/aluxian/electron-superkit
 350,bot-brother,215,25,215,12,15/08/2015,16/09/2017,89.00 KB,89,Node.js framework for telegram bots,CoffeeScript,https://github.com/SerjoPepper/bot-brother
-351,hubot-cron,214,45,214,5,30/10/2012,20/11/2019,433.00 KB,433,Crontab like scheduling messages for Hubot,CoffeeScript,https://github.com/miyagawa/hubot-cron
-352,Alike,213,21,213,5,26/03/2013,19/08/2015,419.00 KB,419,"A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances",CoffeeScript,https://github.com/axiomzen/Alike
+351,Alike,213,21,213,5,26/03/2013,19/08/2015,419.00 KB,419,"A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances",CoffeeScript,https://github.com/axiomzen/Alike
+352,hubot-cron,213,45,213,5,30/10/2012,20/11/2019,433.00 KB,433,Crontab like scheduling messages for Hubot,CoffeeScript,https://github.com/miyagawa/hubot-cron
 353,noflo-jekyll,213,35,213,5,12/11/2012,13/11/2017,1.79 MB,1835,Flow-based reimplementation of the Jekyll static site generator,CoffeeScript,https://github.com/noflo/noflo-jekyll
 354,vue-mixins,212,19,212,1,05/07/2015,04/11/2016,85.00 KB,85,A collection of mixins in vue,CoffeeScript,https://github.com/paulpflug/vue-mixins
 355,github-notifications,211,25,211,41,04/11/2013,15/01/2017,1.46 MB,1500,A client for reading GitHub notifications,CoffeeScript,https://github.com/bkeepers/github-notifications
@@ -358,20 +358,20 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 357,podigee-podcast-player,210,43,210,27,21/02/2014,13/08/2023,55.88 MB,57226,Podcast Web Player,CoffeeScript,https://github.com/podigee/podigee-podcast-player
 358,jotgit,209,32,209,9,19/05/2014,24/07/2014,473.00 KB,473,Git-backed real time collaborative editor built with meteor.,CoffeeScript,https://github.com/jdleesmiller/jotgit
 359,somewhere.js,208,9,208,1,12/05/2014,30/04/2018,24.00 KB,24,Small in-memory database for Node.js that persists on disk,CoffeeScript,https://github.com/dreyacosta/somewhere.js
-360,epub-viewer,208,11,208,5,26/02/2023,22/11/2024,3.73 MB,3816,epub 阅读器,CoffeeScript,https://github.com/ppzreboot/epub-viewer
+360,FairyDict,207,25,207,24,15/01/2014,02/06/2020,22.24 MB,22776,"FairyDict, a dictionary, a chrome extension",CoffeeScript,https://github.com/revir/FairyDict
 361,film_roll,207,58,207,11,21/08/2013,12/12/2023,438.00 KB,438,A lightweight jQuery carousel that centers one item at a time on the page.,CoffeeScript,https://github.com/straydogstudio/film_roll
-362,atomic-emacs,206,56,206,6,27/02/2014,05/06/2020,394.00 KB,394,An atomic implementation of emacs keybindings for the Atom text editor.,CoffeeScript,https://github.com/avendael/atomic-emacs
-363,buildr,206,10,206,3,23/03/2011,25/03/2013,343.00 KB,343,The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker)  ,CoffeeScript,https://github.com/bevry-archive/buildr
-364,viewmodel,205,23,205,15,18/09/2014,06/06/2018,418.00 KB,418,MVVM for Meteor,CoffeeScript,https://github.com/ManuelDeLeon/viewmodel
-365,hubot-heroku-keepalive,205,44,205,5,10/10/2014,27/06/2017,29.00 KB,29,A hubot script that keeps the hubot Heroko web dyno alive,CoffeeScript,https://github.com/hubot-archive/hubot-heroku-keepalive
-366,FairyDict,206,25,206,24,15/01/2014,02/06/2020,22.24 MB,22776,"FairyDict, a dictionary, a chrome extension",CoffeeScript,https://github.com/revir/FairyDict
+362,epub-viewer,206,11,206,5,26/02/2023,22/11/2024,3.73 MB,3816,epub 阅读器,CoffeeScript,https://github.com/ppzreboot/epub-viewer
+363,atomic-emacs,206,56,206,6,27/02/2014,05/06/2020,394.00 KB,394,An atomic implementation of emacs keybindings for the Atom text editor.,CoffeeScript,https://github.com/avendael/atomic-emacs
+364,buildr,206,10,206,3,23/03/2011,25/03/2013,343.00 KB,343,The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker)  ,CoffeeScript,https://github.com/bevry-archive/buildr
+365,viewmodel,205,23,205,15,18/09/2014,06/06/2018,418.00 KB,418,MVVM for Meteor,CoffeeScript,https://github.com/ManuelDeLeon/viewmodel
+366,hubot-heroku-keepalive,205,44,205,5,10/10/2014,27/06/2017,29.00 KB,29,A hubot script that keeps the hubot Heroko web dyno alive,CoffeeScript,https://github.com/hubot-archive/hubot-heroku-keepalive
 367,aliasify,203,26,203,11,19/12/2013,01/12/2016,83.00 KB,83,Rewrite require calls in browserify modules.,CoffeeScript,https://github.com/benbria/aliasify
 368,kobito-oss,203,14,203,0,16/02/2017,14/10/2022,1.71 MB,1747,Markdown Processor built on Electron based on kobito-for-windows,CoffeeScript,https://github.com/increments/kobito-oss
 369,shadowsocks-dotcloud,202,3921,202,4,25/09/2012,10/03/2024,398.00 KB,398,"a port of shadowsocks via websockets protocol, able to tunnel through HTTP proxy",CoffeeScript,https://github.com/shadowsocks/shadowsocks-dotcloud
 370,rnn-writer,202,28,202,1,05/05/2016,30/05/2019,3.16 MB,3235,"Package for the Atom text editor that provides responsive, inline ""autocomplete"" powered by a recurrent neural network.",CoffeeScript,https://github.com/robinsloan/rnn-writer
 371,uber-juno,201,39,201,12,22/04/2016,14/04/2023,37.00 KB,37,Installer package for the Juno IDE,CoffeeScript,https://github.com/JunoLab/uber-juno
 372,livereload-extensions,200,73,200,38,16/10/2011,24/05/2018,399.00 KB,399,LiveReload Browser Extensions,CoffeeScript,https://github.com/livereload/livereload-extensions
-373,Pixel-Art-Academy,199,15,199,5,19/09/2015,15/08/2025,1.12 GB,1169769,An adventure game for learning to draw.,CoffeeScript,https://github.com/Retronator/Pixel-Art-Academy
+373,Pixel-Art-Academy,200,15,200,5,19/09/2015,15/08/2025,1.12 GB,1169769,An adventure game for learning to draw.,CoffeeScript,https://github.com/Retronator/Pixel-Art-Academy
 374,ms-seo,198,55,198,52,19/01/2014,01/08/2022,33.00 KB,33,A seo helper package for meteor.js,CoffeeScript,https://github.com/manuel-schoebel/ms-seo
 375,Paparazzo.js,198,38,198,28,06/04/2012,14/08/2015,1.49 MB,1522,A high performance web proxy for serving MJPG streams to the masses.,CoffeeScript,https://github.com/defvol/Paparazzo.js
 376,language-javascript,195,237,195,94,20/10/2013,28/09/2022,1.48 MB,1519,JavaScript language package for Atom,CoffeeScript,https://github.com/atom/language-javascript
@@ -387,17 +387,17 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 386,slim_text,191,43,191,14,03/05/2013,10/02/2014,17.34 MB,17760,Slim Text Editor,CoffeeScript,https://github.com/tylerlong/slim_text
 387,itunes-colors,190,10,190,4,11/12/2012,26/04/2013,198.00 KB,198,Porting Panic's iTunes album art color algortithm (http://www.panic.com/blog/2012/12/itunes-11-and-colors/) to JavaScript,CoffeeScript,https://github.com/lukasklein/itunes-colors
 388,chocolatejs,190,20,190,8,24/03/2013,17/06/2024,7.68 MB,7861,Chocolate - Full stack and isomorphic Node.js web framework and online ide,CoffeeScript,https://github.com/jclevy/chocolatejs
-389,ksp,190,78,190,8,08/05/2013,28/08/2019,735.00 KB,735,Kerbal Space Program Mission Plotter,CoffeeScript,https://github.com/alexmoon/ksp
+389,ksp,190,77,190,8,08/05/2013,28/08/2019,735.00 KB,735,Kerbal Space Program Mission Plotter,CoffeeScript,https://github.com/alexmoon/ksp
 390,singool,190,9,190,4,12/05/2012,14/10/2019,253.00 KB,253,Backbone.js based framework for developing single-page web applications,CoffeeScript,https://github.com/fahad19/singool
 391,angular-flexslider,189,99,189,44,30/06/2013,12/09/2017,56.00 KB,56,AngularJS directive to use Woothemes' FlexSlider jQuery plugin.,CoffeeScript,https://github.com/thenikso/angular-flexslider
 392,viff,188,25,188,9,14/07/2013,12/01/2015,16.39 MB,16783,"Viff Testing Framework. Find visual differences between web pages in different environments(developing, staging, production) and browsers.",CoffeeScript,https://github.com/winsonwq/viff
 393,Milk,188,19,188,4,14/12/2010,19/11/2024,124.00 KB,124,Milk is Mustache in CoffeeScript -- great with your browser or NodeJS!,CoffeeScript,https://github.com/pvande/Milk
-394,dockerlint,188,24,188,20,17/03/2015,07/05/2020,92.00 KB,92,Linting tool for Dockerfiles,CoffeeScript,https://github.com/RedCoolBeans/dockerlint
+394,dockerlint,187,24,187,20,17/03/2015,07/05/2020,92.00 KB,92,Linting tool for Dockerfiles,CoffeeScript,https://github.com/RedCoolBeans/dockerlint
 395,coffeecup,187,39,187,23,22/02/2012,01/05/2024,595.00 KB,595,keeping the project alive with this clone of mauricemach/coffeekup,CoffeeScript,https://github.com/gradus/coffeecup
 396,react-countdown-clock,186,81,186,21,17/01/2015,18/11/2024,2.59 MB,2653,HTML5 canvas countdown clock React component,CoffeeScript,https://github.com/pughpugh/react-countdown-clock
-397,YouAreDaChef,185,9,185,8,07/11/2011,24/01/2013,273.00 KB,273,Coffeescript/Javascript method combinations for Underscore projects,CoffeeScript,https://github.com/raganwald/YouAreDaChef
-398,msexcel-builder,185,130,185,64,28/11/2012,26/06/2023,856.00 KB,856,A simple and fast library to create MS Office Excel(>2007) xlsx files.,CoffeeScript,https://github.com/chuanyi/msexcel-builder
-399,docker-image,185,64,185,0,06/02/2015,26/02/2020,171.00 KB,171,A Dockerfile for building the official Overleaf Community Edition docker image,CoffeeScript,https://github.com/overleaf/docker-image
+397,msexcel-builder,185,130,185,64,28/11/2012,26/06/2023,856.00 KB,856,A simple and fast library to create MS Office Excel(>2007) xlsx files.,CoffeeScript,https://github.com/chuanyi/msexcel-builder
+398,docker-image,185,64,185,0,06/02/2015,26/02/2020,171.00 KB,171,A Dockerfile for building the official Overleaf Community Edition docker image,CoffeeScript,https://github.com/overleaf/docker-image
+399,YouAreDaChef,184,9,184,8,07/11/2011,24/01/2013,273.00 KB,273,Coffeescript/Javascript method combinations for Underscore projects,CoffeeScript,https://github.com/raganwald/YouAreDaChef
 400,typetype,184,25,184,4,18/04/2014,02/12/2014,679.00 KB,679,human typing with jQuery,CoffeeScript,https://github.com/iamdanfox/typetype
 401,invisible,183,14,183,8,23/06/2013,23/04/2016,219.00 KB,219,Invisible.js: Reusable models for the client and the server,CoffeeScript,https://github.com/invisiblejs/invisible
 402,atom-todo-show,182,30,182,23,04/03/2014,21/12/2019,1.13 MB,1154,Atom package that shows a list of todos from your project.,CoffeeScript,https://github.com/mrodalgaard/atom-todo-show
@@ -417,7 +417,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 416,jasmine-given,178,26,178,12,14/10/2011,11/01/2016,141.00 KB,141,"Like rspec-given, but for jasmine",CoffeeScript,https://github.com/searls/jasmine-given
 417,heartbot,177,46,177,0,06/02/2015,13/02/2015,431.00 KB,431,A shot of love for your favorite chat client.,CoffeeScript,https://github.com/digitalocean/heartbot
 418,eventric,177,10,177,6,13/05/2014,10/01/2017,1.24 MB,1270,"Minimalist JavaScript framework to build applications based on DDD, CQRS and Event Sourcing. ",CoffeeScript,https://github.com/efacilitation/eventric
-419,zui53,176,16,176,2,27/07/2011,20/02/2018,279.00 KB,279,ZUI53 is a JavaScript Library to create powerfull webbased Zoomable User Interfaces (ZUIs) with new technologies like HTML5 and CSS3.,CoffeeScript,https://github.com/florianguenther/zui53
+419,zui53,176,15,176,2,27/07/2011,20/02/2018,279.00 KB,279,ZUI53 is a JavaScript Library to create powerfull webbased Zoomable User Interfaces (ZUIs) with new technologies like HTML5 and CSS3.,CoffeeScript,https://github.com/florianguenther/zui53
 420,bibviz,176,52,176,5,16/08/2013,06/09/2021,6.47 MB,6628,BibViz.com Website and Scripts,CoffeeScript,https://github.com/bibviz/bibviz
 421,hapiger,176,35,176,9,21/12/2014,21/07/2017,5.92 MB,6058,HapiGer is an http-wrapper around the Good Enough Recommendation engine using the Hapi.js framework,CoffeeScript,https://github.com/grahamjenson/hapiger
 422,Kosmos,176,31,176,2,04/12/2012,14/12/2013,43.56 MB,44604,A virtual 3D universe in your web browser.,JavaScript,https://github.com/judnich/Kosmos
@@ -425,7 +425,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 424,triangular.js,175,10,175,0,01/12/2013,18/06/2014,169.00 KB,169,A natural fusion between d3 and angular.js. See http://alexandros.resin.io/angular-d3-svg/ for more information,CoffeeScript,https://github.com/balena-io/triangular.js
 425,node-tumblr,175,24,175,10,26/07/2011,09/03/2023,299.00 KB,299,A node.js wrapper for the Tumblr API,CoffeeScript,https://github.com/meritt/node-tumblr
 426,angular-contenteditable,175,55,175,25,13/06/2013,04/10/2016,669.00 KB,669,"angular model for the ""contenteditable"" attribute",CoffeeScript,https://github.com/akatov/angular-contenteditable
-427,atom-html-preview,174,76,174,132,18/04/2014,23/08/2021,87.00 KB,87,Atom HTML Live Preview Package,CoffeeScript,https://github.com/harmsk/atom-html-preview
+427,atom-html-preview,174,75,174,132,18/04/2014,23/08/2021,87.00 KB,87,Atom HTML Live Preview Package,CoffeeScript,https://github.com/harmsk/atom-html-preview
 428,node-parameters,173,16,173,1,03/05/2011,07/12/2022,389.00 KB,389,Nice looking shell applications with pluggable middlewares for Node.js,CoffeeScript,https://github.com/adaltas/node-parameters
 429,grunt-phonegap,173,59,173,34,16/08/2013,06/11/2019,1.11 MB,1139,A Grunt plugin to provide local build tasks for Phonegap applications,CoffeeScript,https://github.com/logankoester/grunt-phonegap
 430,Katy,171,7,171,9,05/12/2011,15/10/2012,180.00 KB,180,CoffeeScript and JavaScript Combinators,CoffeeScript,https://github.com/raganwald/Katy
@@ -434,11 +434,11 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 433,nerdbar.widget,170,53,170,0,13/01/2016,22/11/2020,346.00 KB,346,Übersicht system information bar for use with kwm window manager (or without).,CoffeeScript,https://github.com/herrbischoff/nerdbar.widget
 434,FramerModules,170,15,170,4,03/11/2015,29/10/2018,13.00 KB,13,Modules that extend Framer.js,CoffeeScript,https://github.com/joshpuckett/FramerModules
 435,ex-mode,170,57,170,64,19/02/2015,04/03/2019,192.00 KB,192,Ex mode for Atom,CoffeeScript,https://github.com/lloeki/ex-mode
-436,slack-node-sdk,168,32,168,8,19/04/2014,08/12/2017,74.00 KB,74,"slack.com, slack, node sdk",CoffeeScript,https://github.com/clonn/slack-node-sdk
-437,wifi-control-node,168,49,168,37,17/09/2015,26/04/2021,111.00 KB,111,"A NodeJS module that allows you to scan for, connect to and disconnect from wireless access points near the server. Great for offline or local apps.",CoffeeScript,https://github.com/msolters/wifi-control-node
-438,vue-materialize,168,6,168,6,05/07/2015,24/03/2017,1.61 MB,1653,materialize - done in vue,CoffeeScript,https://github.com/paulpflug/vue-materialize
-439,lottie-framer,168,7,168,1,14/05/2017,17/01/2018,7.00 KB,7,A Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files),CoffeeScript,https://github.com/72/lottie-framer
-440,legacy,168,26,168,6,09/10/2014,18/10/2016,172.00 KB,172,Active route helpers for the most popular routers in Meteor,CoffeeScript,https://github.com/meteor-activeroute/legacy
+436,wifi-control-node,169,49,169,37,17/09/2015,26/04/2021,111.00 KB,111,"A NodeJS module that allows you to scan for, connect to and disconnect from wireless access points near the server. Great for offline or local apps.",CoffeeScript,https://github.com/msolters/wifi-control-node
+437,slack-node-sdk,168,32,168,8,19/04/2014,08/12/2017,74.00 KB,74,"slack.com, slack, node sdk",CoffeeScript,https://github.com/clonn/slack-node-sdk
+438,lottie-framer,168,7,168,1,14/05/2017,17/01/2018,7.00 KB,7,A Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files),CoffeeScript,https://github.com/72/lottie-framer
+439,legacy,168,26,168,6,09/10/2014,18/10/2016,172.00 KB,172,Active route helpers for the most popular routers in Meteor,CoffeeScript,https://github.com/meteor-activeroute/legacy
+440,vue-materialize,167,6,167,6,05/07/2015,24/03/2017,1.61 MB,1653,materialize - done in vue,CoffeeScript,https://github.com/paulpflug/vue-materialize
 441,jquery.ns-autogrow,167,47,167,13,02/10/2015,29/04/2020,25.00 KB,25,Automatically adjust textarea width/height based on user input. Non-sucking version.,CoffeeScript,https://github.com/ro31337/jquery.ns-autogrow
 442,revolver,167,25,167,1,16/12/2011,06/01/2015,5.96 MB,6098,A javascript library for building your own content slider.,CoffeeScript,https://github.com/johnnyfreeman/revolver
 443,jquery.fillwidth,166,9,166,6,27/10/2011,03/06/2014,1001.00 KB,1001,Line up images to the edge of their container (like google images) without cropping,CoffeeScript,https://github.com/craigspaeth/jquery.fillwidth
@@ -453,41 +453,41 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 452,accept-bitcoin,162,50,162,8,15/07/2014,17/04/2017,16.64 MB,17042,Accept bitcoin payments using Node.js,CoffeeScript,https://github.com/sagivo/accept-bitcoin
 453,performance-now,161,26,161,20,22/05/2013,07/07/2020,42.00 KB,42,Implements performance.now (based on process.hrtime).,CoffeeScript,https://github.com/myrne/performance-now
 454,webcaster,160,35,160,18,12/08/2013,07/03/2023,279.00 KB,279,Client for the webcast websocket protocol.,CoffeeScript,https://github.com/webcast/webcaster
-455,gulp-order,160,13,160,12,18/02/2014,12/08/2025,34.00 KB,34,This gulp plugin allows you to reorder a stream of files via globs.,CoffeeScript,https://github.com/gulp-community/gulp-order
-456,lorem-rss,160,23,160,3,13/08/2013,28/03/2024,72.00 KB,72,"Code for a webservice that generates Lorem Ipsum RSS at specified intervals, available at http://lorem-rss.herokuapp.com",CoffeeScript,https://github.com/mbertolacci/lorem-rss
-457,pm2-meteor,160,37,160,40,16/10/2015,28/04/2022,1.38 MB,1409,"Simplest way to deploy, scale and run Meteor Apps with PM2.",CoffeeScript,https://github.com/andruschka/pm2-meteor
-458,pry.js,160,12,160,14,07/12/2014,02/12/2016,779.00 KB,779,:microscope: A REPL for Node.,CoffeeScript,https://github.com/bayleedev/pry.js
-459,react-reflux-boilerplate-with-webpack,159,16,159,0,03/02/2015,26/10/2016,2.15 MB,2203,React + Reflux + CoffeeScript + Stylus Boilerplate with Webpack,CoffeeScript,https://github.com/iroy2000/react-reflux-boilerplate-with-webpack
-460,deprecated-flexible-nav,159,21,159,4,27/07/2011,07/05/2013,202.00 KB,202,"NOT MAINTAINED – Improve your navigation experience - this jQuery lib improves a webpage navigation and helps to visualize different sections. of a document, an article,.. any web page.",CoffeeScript,https://github.com/gre/deprecated-flexible-nav
-461,commonjs-everywhere,159,21,159,14,21/02/2013,06/11/2019,273.00 KB,273,":rainbow: minimal CommonJS browser bundler with aliasing, extensibility, and source maps",CoffeeScript,https://github.com/michaelficarra/commonjs-everywhere
-462,meteor-file-collection,159,38,159,59,22/04/2014,13/04/2023,695.00 KB,695,Extends Meteor Collections to handle file data using MongoDB gridFS.,CoffeeScript,https://github.com/vsivsi/meteor-file-collection
-463,moment-countdown,159,28,159,1,08/04/2013,17/04/2017,60.00 KB,60,Use Countdown.js from Moment.js,CoffeeScript,https://github.com/icambron/moment-countdown
-464,ynab-csv,159,202,159,18,31/01/2014,03/05/2018,151.00 KB,151,Tool for making your CSV files ready to import into YNAB,CoffeeScript,https://github.com/halloffame/ynab-csv
-465,clabot,158,29,158,0,18/03/2013,25/11/2020,43.00 KB,43,A bot to take the pain out of Contributor License Agreements,CoffeeScript,https://github.com/clabot/clabot
-466,ImgApp,158,22,158,4,27/06/2017,16/05/2024,1.04 MB,1060,This is a library of image tools for Google Apps Script.,CoffeeScript,https://github.com/tanaikech/ImgApp
+455,lorem-rss,160,23,160,3,13/08/2013,28/03/2024,72.00 KB,72,"Code for a webservice that generates Lorem Ipsum RSS at specified intervals, available at http://lorem-rss.herokuapp.com",CoffeeScript,https://github.com/mbertolacci/lorem-rss
+456,pm2-meteor,160,37,160,40,16/10/2015,28/04/2022,1.38 MB,1409,"Simplest way to deploy, scale and run Meteor Apps with PM2.",CoffeeScript,https://github.com/andruschka/pm2-meteor
+457,pry.js,160,12,160,14,07/12/2014,02/12/2016,779.00 KB,779,:microscope: A REPL for Node.,CoffeeScript,https://github.com/bayleedev/pry.js
+458,react-reflux-boilerplate-with-webpack,159,16,159,0,03/02/2015,26/10/2016,2.15 MB,2203,React + Reflux + CoffeeScript + Stylus Boilerplate with Webpack,CoffeeScript,https://github.com/iroy2000/react-reflux-boilerplate-with-webpack
+459,deprecated-flexible-nav,159,21,159,4,27/07/2011,07/05/2013,202.00 KB,202,"NOT MAINTAINED – Improve your navigation experience - this jQuery lib improves a webpage navigation and helps to visualize different sections. of a document, an article,.. any web page.",CoffeeScript,https://github.com/gre/deprecated-flexible-nav
+460,commonjs-everywhere,159,21,159,14,21/02/2013,06/11/2019,273.00 KB,273,":rainbow: minimal CommonJS browser bundler with aliasing, extensibility, and source maps",CoffeeScript,https://github.com/michaelficarra/commonjs-everywhere
+461,meteor-file-collection,159,38,159,59,22/04/2014,13/04/2023,695.00 KB,695,Extends Meteor Collections to handle file data using MongoDB gridFS.,CoffeeScript,https://github.com/vsivsi/meteor-file-collection
+462,moment-countdown,159,28,159,1,08/04/2013,17/04/2017,60.00 KB,60,Use Countdown.js from Moment.js,CoffeeScript,https://github.com/icambron/moment-countdown
+463,ynab-csv,159,201,159,18,31/01/2014,03/05/2018,151.00 KB,151,Tool for making your CSV files ready to import into YNAB,CoffeeScript,https://github.com/halloffame/ynab-csv
+464,clabot,158,29,158,0,18/03/2013,25/11/2020,43.00 KB,43,A bot to take the pain out of Contributor License Agreements,CoffeeScript,https://github.com/clabot/clabot
+465,ImgApp,158,22,158,4,27/06/2017,16/05/2024,1.04 MB,1060,This is a library of image tools for Google Apps Script.,CoffeeScript,https://github.com/tanaikech/ImgApp
+466,gulp-order,158,13,158,12,18/02/2014,12/08/2025,34.00 KB,34,This gulp plugin allows you to reorder a stream of files via globs.,CoffeeScript,https://github.com/gulp-community/gulp-order
 467,number-polyfill,158,83,158,15,27/12/2011,29/09/2015,478.00 KB,478,"A polyfill for implementing the HTML5 <input type=""number""> element in browsers that do not currently support it.",CoffeeScript,https://github.com/jonstipe/number-polyfill
 468,jsck,158,12,158,16,24/09/2013,21/07/2017,362.00 KB,362,JSON Schema Compiled checK,CoffeeScript,https://github.com/pandastrike/jsck
 469,iap_verifier,158,37,158,10,21/10/2011,13/12/2018,219.00 KB,219,Node.js implementation of iOS In App Purchase receipt verification,CoffeeScript,https://github.com/pcrawfor/iap_verifier
 470,dynasty,158,50,158,23,11/08/2013,12/04/2023,800.00 KB,800,"Dynasty - Promise-based, clean DynamoDB API",CoffeeScript,https://github.com/victorquinn/dynasty
-471,Jitter,156,27,156,8,03/05/2010,13/05/2014,282.00 KB,282,A simple CoffeeScript compilation utility,CoffeeScript,https://github.com/TrevorBurnham/Jitter
-472,grunt-angular-phonegap,156,23,156,16,29/11/2013,20/04/2017,126.00 KB,126,Combine yeoman/generator-angular and phonegap,CoffeeScript,https://github.com/dsimard/grunt-angular-phonegap
-473,angular-d3,156,39,156,4,17/05/2013,30/04/2016,14.83 MB,15187,AngularJS directives for declaratively using D3,CoffeeScript,https://github.com/WealthBar/angular-d3
-474,vm.js,156,13,156,6,21/08/2013,14/11/2013,479.00 KB,479,Javascript bytecode compiler and VM implemented in pure coffeescript,CoffeeScript,https://github.com/tarruda/vm.js
-475,upath,155,16,155,3,29/10/2014,03/06/2023,192.00 KB,192,"A proxy to `path`, replacing `\` with `/` for all results & methods to add, change, default, trim file extensions.",CoffeeScript,https://github.com/anodynos/upath
-476,meteor-partitioner,154,21,154,20,02/04/2014,05/01/2023,104.00 KB,104,Transparently divide a single meteor app into several different instances shared between different groups of users.,CoffeeScript,https://github.com/Meteor-Community-Packages/meteor-partitioner
+471,vm.js,157,13,157,6,21/08/2013,14/11/2013,479.00 KB,479,Javascript bytecode compiler and VM implemented in pure coffeescript,CoffeeScript,https://github.com/tarruda/vm.js
+472,Jitter,156,27,156,8,03/05/2010,13/05/2014,282.00 KB,282,A simple CoffeeScript compilation utility,CoffeeScript,https://github.com/TrevorBurnham/Jitter
+473,grunt-angular-phonegap,156,23,156,16,29/11/2013,20/04/2017,126.00 KB,126,Combine yeoman/generator-angular and phonegap,CoffeeScript,https://github.com/dsimard/grunt-angular-phonegap
+474,angular-d3,156,39,156,4,17/05/2013,30/04/2016,14.83 MB,15187,AngularJS directives for declaratively using D3,CoffeeScript,https://github.com/WealthBar/angular-d3
+475,meteor-partitioner,154,21,154,20,02/04/2014,05/01/2023,104.00 KB,104,Transparently divide a single meteor app into several different instances shared between different groups of users.,CoffeeScript,https://github.com/Meteor-Community-Packages/meteor-partitioner
+476,upath,154,16,154,3,29/10/2014,03/06/2023,192.00 KB,192,"A proxy to `path`, replacing `\` with `/` for all results & methods to add, change, default, trim file extensions.",CoffeeScript,https://github.com/anodynos/upath
 477,atom-tasks,153,22,153,23,22/05/2014,16/02/2018,189.00 KB,189,Handle tasks/todo files in atom,CoffeeScript,https://github.com/irrationalistic/atom-tasks
-478,TuringType,152,18,152,1,28/01/2013,15/07/2023,22.00 KB,22,⌨️ Simple human typing effect,CoffeeScript,https://github.com/dmotz/TuringType
+478,TuringType,153,18,153,1,28/01/2013,15/07/2023,22.00 KB,22,⌨️ Simple human typing effect,CoffeeScript,https://github.com/dmotz/TuringType
 479,jade-react,152,9,152,1,26/01/2014,16/02/2014,296.00 KB,296,Compile Jade templates to React.DOM expressions,CoffeeScript,https://github.com/duncanbeevers/jade-react
-480,meteor-bbs,151,31,151,0,20/09/2012,16/12/2012,215.00 KB,215,A Clone of Project Babel 3 in Meteor,CoffeeScript,https://github.com/chuangbo/meteor-bbs
-481,gulp-tap,151,12,151,13,13/01/2014,18/12/2022,1.22 MB,1254,Easily tap into a gulp pipeline without creating a plugin.,CoffeeScript,https://github.com/geejs/gulp-tap
-482,atomatigit,151,20,151,41,09/03/2014,15/07/2020,374.00 KB,374,"Atom-ati-Git. Git intergration for Atom.io, in the style of Magit. UNMAINTAINED. SEEKING NEW MAINTAINER.",CoffeeScript,https://github.com/diiq/atomatigit
-483,treema,151,35,151,26,01/08/2013,24/02/2017,2.12 MB,2171,jQuery plugin that generates HTML interfaces to edit JSON data defined by json-schema.,CoffeeScript,https://github.com/codecombat/treema
-484,ngOnboarding,151,46,151,13,17/01/2014,26/06/2017,130.00 KB,130,A tooltip-tutorial / onboarding framework for Angular.js,CoffeeScript,https://github.com/adamalbrecht/ngOnboarding
-485,birch-outline,150,10,150,1,22/06/2016,08/05/2017,179.00 KB,179,Cross-platform scripting for TaskPaper,CoffeeScript,https://github.com/jessegrosjean/birch-outline
-486,galley,150,9,150,1,17/09/2015,15/07/2020,252.00 KB,252,Orchestrator for local Docker containers,CoffeeScript,https://github.com/google-fabric/galley
+480,chromatic-sass,152,9,152,4,07/04/2016,20/01/2020,75.00 KB,75,Advanced color manipulation for node sass,CoffeeScript,https://github.com/bugsnag/chromatic-sass
+481,meteor-bbs,151,31,151,0,20/09/2012,16/12/2012,215.00 KB,215,A Clone of Project Babel 3 in Meteor,CoffeeScript,https://github.com/chuangbo/meteor-bbs
+482,gulp-tap,151,12,151,13,13/01/2014,18/12/2022,1.22 MB,1254,Easily tap into a gulp pipeline without creating a plugin.,CoffeeScript,https://github.com/geejs/gulp-tap
+483,atomatigit,151,20,151,41,09/03/2014,15/07/2020,374.00 KB,374,"Atom-ati-Git. Git intergration for Atom.io, in the style of Magit. UNMAINTAINED. SEEKING NEW MAINTAINER.",CoffeeScript,https://github.com/diiq/atomatigit
+484,treema,151,35,151,26,01/08/2013,24/02/2017,2.12 MB,2171,jQuery plugin that generates HTML interfaces to edit JSON data defined by json-schema.,CoffeeScript,https://github.com/codecombat/treema
+485,ngOnboarding,151,46,151,13,17/01/2014,26/06/2017,130.00 KB,130,A tooltip-tutorial / onboarding framework for Angular.js,CoffeeScript,https://github.com/adamalbrecht/ngOnboarding
+486,birch-outline,150,10,150,1,22/06/2016,08/05/2017,179.00 KB,179,Cross-platform scripting for TaskPaper,CoffeeScript,https://github.com/jessegrosjean/birch-outline
 487,svg-input-elements,150,33,150,15,07/05/2012,18/04/2017,2.31 MB,2368,A JavaScript implementation of an SVG textarea. WIP.,CoffeeScript,https://github.com/engelfrost/svg-input-elements
 488,ship,150,14,150,19,22/09/2013,06/11/2016,312.00 KB,312,⛔️ currently unmaintained ⛔️,CoffeeScript,https://github.com/carrot/ship
-489,chromatic-sass,150,9,150,4,07/04/2016,20/01/2020,75.00 KB,75,Advanced color manipulation for node sass,CoffeeScript,https://github.com/bugsnag/chromatic-sass
+489,galley,149,8,149,1,17/09/2015,15/07/2020,252.00 KB,252,Orchestrator for local Docker containers,CoffeeScript,https://github.com/google-fabric/galley
 490,starry,149,34,149,0,12/03/2015,26/03/2015,3.16 MB,3232,starry.so 完成一个故事,CoffeeScript,https://github.com/Ysheep666/starry
 491,tutor,149,17,149,3,31/03/2012,02/11/2019,672.00 KB,672,JavaScript interface for the Gatherer card database,CoffeeScript,https://github.com/davidchambers/tutor
 492,node-stanford-simple-nlp,149,44,149,6,26/08/2013,26/07/2017,5.21 MB,5330,A simple node.js wrapper for stanford-core-nlp.,CoffeeScript,https://github.com/xissy/node-stanford-simple-nlp
@@ -496,11 +496,11 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 495,remote-edit,147,52,147,89,22/05/2014,31/05/2018,747.00 KB,747,remote-edit,CoffeeScript,https://github.com/sveale/remote-edit
 496,docopt.coffee,147,26,147,16,07/06/2012,29/03/2019,252.00 KB,252,docopt - A command line option parser that will make you smile.,CoffeeScript,https://github.com/docopt/docopt.coffee
 497,mitm-omegle,147,31,147,5,03/08/2015,16/04/2023,884.00 KB,884,Watch strangers talk on Omegle (man in the middle attack explained for kids),CoffeeScript,https://github.com/olegberman/mitm-omegle
-498,Framer-AudioPlayer,147,14,147,3,12/03/2015,15/09/2016,69.59 MB,71257,"AudioPlayer Module for Framer. See the new, Design-compatible Audio module here: https://github.com/benjamindenboer/FramerAudio",CoffeeScript,https://github.com/benjamindenboer/Framer-AudioPlayer
-499,react-sparkline,147,11,147,2,20/08/2014,09/10/2015,714.00 KB,714,React component for rendering simple sparklines,CoffeeScript,https://github.com/KyleAMathews/react-sparkline
-500,shaky,147,17,147,0,28/11/2012,08/02/2022,47.00 KB,47,Converted dart shaky boxes demo to coffeescript,CoffeeScript,https://github.com/dbushong/shaky
-501,oculus-drone,146,37,146,4,07/04/2014,22/04/2014,515.00 KB,515,Oculus Rift + AR Drone 2.0 controller with live video feed and head-motion controller.,CoffeeScript,https://github.com/daraosn/oculus-drone
-502,movel,146,11,146,1,12/11/2014,21/12/2015,162.00 KB,162,Móvel - Dashboard for Raspberry pi car computer,CoffeeScript,https://github.com/stephenlacy/movel
+498,movel,147,11,147,1,12/11/2014,21/12/2015,162.00 KB,162,Móvel - Dashboard for Raspberry pi car computer,CoffeeScript,https://github.com/stephenlacy/movel
+499,Framer-AudioPlayer,147,14,147,3,12/03/2015,15/09/2016,69.59 MB,71257,"AudioPlayer Module for Framer. See the new, Design-compatible Audio module here: https://github.com/benjamindenboer/FramerAudio",CoffeeScript,https://github.com/benjamindenboer/Framer-AudioPlayer
+500,react-sparkline,147,11,147,2,20/08/2014,09/10/2015,714.00 KB,714,React component for rendering simple sparklines,CoffeeScript,https://github.com/KyleAMathews/react-sparkline
+501,shaky,147,17,147,0,28/11/2012,08/02/2022,47.00 KB,47,Converted dart shaky boxes demo to coffeescript,CoffeeScript,https://github.com/dbushong/shaky
+502,oculus-drone,146,37,146,4,07/04/2014,22/04/2014,515.00 KB,515,Oculus Rift + AR Drone 2.0 controller with live video feed and head-motion controller.,CoffeeScript,https://github.com/daraosn/oculus-drone
 503,FramerInput,145,14,145,17,08/11/2017,14/05/2018,1.41 MB,1440,Design with Inputs in Framer.,CoffeeScript,https://github.com/benjamindenboer/FramerInput
 504,angular-bacon,145,16,145,10,02/05/2013,25/05/2021,68.00 KB,68,Angular-bacon.js bindings,CoffeeScript,https://github.com/lauripiispanen/angular-bacon
 505,meteor-any-db,145,13,145,0,22/06/2015,25/10/2016,296.00 KB,296,A database API for Meteor,CoffeeScript,https://github.com/ccorcos/meteor-any-db
@@ -538,8 +538,8 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 537,rel,135,9,135,3,23/04/2011,24/07/2016,107.00 KB,107,Arel ported to node js — with some changes,CoffeeScript,https://github.com/yang/rel
 538,messenger,135,11,135,10,08/04/2015,13/04/2015,451.00 KB,451,Unofficial Facebook Mesenger for Mac,CoffeeScript,https://github.com/marekhrabe/messenger
 539,toa,135,12,135,1,28/03/2017,03/06/2018,7.10 MB,7274,シンプルで可愛いミュージックプレイヤー「兎亜」,CoffeeScript,https://github.com/yui540/toa
-540,mail-listener,135,31,135,13,03/04/2012,29/07/2013,116.00 KB,116,Mail listener library for node.js. Get notification when new email arrived.,CoffeeScript,https://github.com/circuithub/mail-listener
-541,appchan-x,134,57,134,172,15/05/2011,10/03/2016,290.16 MB,297127,"The most comprehensive, feature filled 4chan userscript.",CoffeeScript,https://github.com/zixaphir/appchan-x
+540,appchan-x,134,57,134,172,15/05/2011,10/03/2016,290.16 MB,297127,"The most comprehensive, feature filled 4chan userscript.",CoffeeScript,https://github.com/zixaphir/appchan-x
+541,mail-listener,134,31,134,13,03/04/2012,29/07/2013,116.00 KB,116,Mail listener library for node.js. Get notification when new email arrived.,CoffeeScript,https://github.com/circuithub/mail-listener
 542,active-resource.js,133,20,133,16,10/08/2016,02/11/2022,3.86 MB,3952,ActiveResource.js - API resource relational mapping in JavaScript,CoffeeScript,https://github.com/nicklandgrebe/active-resource.js
 543,brauhausjs,133,29,133,1,04/02/2013,28/09/2014,774.00 KB,774,A beer recipe calculator for homebrewing on servers and in browsers,CoffeeScript,https://github.com/homebrewing/brauhausjs
 544,nerdbar.widget,132,9,132,3,07/08/2016,22/02/2018,31.11 MB,31858,Customizable bar(s) for OSX.,CoffeeScript,https://github.com/apierz/nerdbar.widget
@@ -556,9 +556,9 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 555,node-vortex,130,13,130,0,15/07/2013,29/10/2018,239.00 KB,239,,CoffeeScript,https://github.com/websecurify/node-vortex
 556,hanzo.js,130,4,130,21,23/03/2015,07/07/2022,3.30 MB,3375,🚀 Hanzo JavaScript SDK. Hanzo is a data-driven launchpad for business.,CoffeeScript,https://github.com/hanzo-js/hanzo.js
 557,meteor-peerdb,129,15,129,15,13/10/2013,13/02/2020,535.00 KB,535,"Reactive database layer with references, generators, triggers, migrations, etc.",CoffeeScript,https://github.com/peerlibrary/meteor-peerdb
-558,babar,129,5,129,6,23/11/2013,09/09/2022,83.00 KB,83,CLI bar charts for node.js,CoffeeScript,https://github.com/stephan83/babar
-559,DVL,129,16,129,11,19/05/2011,27/08/2024,2.57 MB,2633,Dynamic Visualization LEGO,CoffeeScript,https://github.com/vogievetsky/DVL
-560,d3examples,129,61,129,0,15/03/2013,22/05/2017,892.00 KB,892,Examples of interactive graphics using d3.js,CoffeeScript,https://github.com/kbroman/d3examples
+558,DVL,129,16,129,11,19/05/2011,27/08/2024,2.57 MB,2633,Dynamic Visualization LEGO,CoffeeScript,https://github.com/vogievetsky/DVL
+559,d3examples,129,61,129,0,15/03/2013,22/05/2017,892.00 KB,892,Examples of interactive graphics using d3.js,CoffeeScript,https://github.com/kbroman/d3examples
+560,babar,128,5,128,6,23/11/2013,09/09/2022,83.00 KB,83,CLI bar charts for node.js,CoffeeScript,https://github.com/stephan83/babar
 561,inbox-scaffold-html5,128,75,128,4,26/08/2014,21/08/2015,7.96 MB,8156,The Inbox HTML5 App Scaffold - a foundation for building great mail apps.,CoffeeScript,https://github.com/nylas/inbox-scaffold-html5
 562,excel-as-json,128,38,128,16,28/08/2015,31/08/2018,195.00 KB,195,npm package that converts excel data to json,CoffeeScript,https://github.com/stevetarver/excel-as-json
 563,noreferrer,128,40,128,2,21/04/2011,17/05/2016,170.00 KB,170,Cross-browser support for HTML5's noreferrer link type.,CoffeeScript,https://github.com/knu/noreferrer
@@ -569,15 +569,15 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 568,backbone.statemanager,126,6,126,1,14/10/2012,02/12/2014,423.00 KB,423,Backbone module for adding states to objects,CoffeeScript,https://github.com/crashlytics/backbone.statemanager
 569,ZeroOmega,126,8,126,1,06/05/2024,06/05/2024,2.63 MB,2693,,CoffeeScript,https://github.com/sn-o-w/ZeroOmega
 570,node-rus-diff,126,11,126,6,11/03/2014,21/12/2021,52.00 KB,52,JSON diff,CoffeeScript,https://github.com/mirek/node-rus-diff
-571,rizzoma,126,19,126,20,10/07/2014,11/09/2020,17.60 MB,18027,Code that powers Rizzoma collaboration platform,CoffeeScript,https://github.com/rizzoma/rizzoma
-572,morpher-js,126,16,126,7,24/08/2012,22/10/2021,565.00 KB,565,JavaScript image morphing library,CoffeeScript,https://github.com/jembezmamy/morpher-js
-573,meteor-reactive-publish,126,16,126,7,15/09/2015,17/01/2022,75.00 KB,75,Reactive publish endpoints,CoffeeScript,https://github.com/peerlibrary/meteor-reactive-publish
-574,chai-webdriver,125,25,125,7,10/01/2014,22/07/2021,94.00 KB,94,Build more expressive integration tests with webdriver sugar for chai.js,CoffeeScript,https://github.com/goodeggs/chai-webdriver
-575,crispyfi,125,17,125,5,11/09/2014,24/05/2016,229.00 KB,229,Makes music. Loud. https://www.crispymtn.com/stories/let-the-music-play,CoffeeScript,https://github.com/crispymtn/crispyfi
-576,electron-cookies,125,30,125,9,27/03/2015,17/03/2018,84.00 KB,84,Adds support for cookies in Electron. Cookies are persisted through localStorage.,CoffeeScript,https://github.com/hstove/electron-cookies
-577,vtex.js,125,48,125,32,12/02/2014,05/06/2024,1.56 MB,1594,VTEX SDK for JavaScript,CoffeeScript,https://github.com/vtex/vtex.js
-578,jquery-responsive-text,125,24,125,0,07/11/2012,14/03/2015,312.00 KB,312,Make your text sizing responsive!,JavaScript,https://github.com/ghepting/jquery-responsive-text
-579,tapas-with-ember,125,18,125,1,15/09/2013,06/01/2015,3.72 MB,3808,"🚫 UNMAINTAINED: A Brunch skeleton for rapid Ember development. Including Ember installation scripts, environment-specific JS builds, generators, and Ember.vim support.",CoffeeScript,https://github.com/mutewinter/tapas-with-ember
+571,morpher-js,126,16,126,7,24/08/2012,22/10/2021,565.00 KB,565,JavaScript image morphing library,CoffeeScript,https://github.com/jembezmamy/morpher-js
+572,meteor-reactive-publish,126,16,126,7,15/09/2015,17/01/2022,75.00 KB,75,Reactive publish endpoints,CoffeeScript,https://github.com/peerlibrary/meteor-reactive-publish
+573,chai-webdriver,125,25,125,7,10/01/2014,22/07/2021,94.00 KB,94,Build more expressive integration tests with webdriver sugar for chai.js,CoffeeScript,https://github.com/goodeggs/chai-webdriver
+574,crispyfi,125,17,125,5,11/09/2014,24/05/2016,229.00 KB,229,Makes music. Loud. https://www.crispymtn.com/stories/let-the-music-play,CoffeeScript,https://github.com/crispymtn/crispyfi
+575,electron-cookies,125,30,125,9,27/03/2015,17/03/2018,84.00 KB,84,Adds support for cookies in Electron. Cookies are persisted through localStorage.,CoffeeScript,https://github.com/hstove/electron-cookies
+576,vtex.js,125,47,125,32,12/02/2014,05/06/2024,1.56 MB,1594,VTEX SDK for JavaScript,CoffeeScript,https://github.com/vtex/vtex.js
+577,jquery-responsive-text,125,24,125,0,07/11/2012,14/03/2015,312.00 KB,312,Make your text sizing responsive!,JavaScript,https://github.com/ghepting/jquery-responsive-text
+578,tapas-with-ember,125,18,125,1,15/09/2013,06/01/2015,3.72 MB,3808,"🚫 UNMAINTAINED: A Brunch skeleton for rapid Ember development. Including Ember installation scripts, environment-specific JS builds, generators, and Ember.vim support.",CoffeeScript,https://github.com/mutewinter/tapas-with-ember
+579,rizzoma,125,19,125,20,10/07/2014,11/09/2020,17.60 MB,18027,Code that powers Rizzoma collaboration platform,CoffeeScript,https://github.com/rizzoma/rizzoma
 580,locallydb,125,11,125,4,18/08/2014,01/08/2016,62.00 KB,62,An easy-to-use and lightweight local storage database for node.js and node-webkit,CoffeeScript,https://github.com/btwael/locallydb
 581,mocha-cakes,125,6,125,6,17/12/2011,18/09/2016,58.00 KB,58,"(inactive) BDD mocha test framework add-on, stories with Cucumber style Given/When/Then syntax for Node.js",CoffeeScript,https://github.com/quangv/mocha-cakes
 582,Ask-Stack-Atom,124,22,124,17,01/03/2014,07/08/2017,92.00 KB,92,Ask Stack Overflow for Atom,CoffeeScript,https://github.com/Chris911/Ask-Stack-Atom
@@ -591,12 +591,12 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 590,language-php,121,124,121,61,20/10/2013,13/12/2022,1.38 MB,1414,PHP package for Atom,CoffeeScript,https://github.com/atom/language-php
 591,request-json,121,32,121,10,29/08/2012,14/05/2020,131.00 KB,131,Http Client to deal easily with JSON API,CoffeeScript,https://github.com/cozy/request-json
 592,revocable-self-signed-tls-certificates-hack,121,20,121,1,09/05/2015,19/05/2015,310.00 KB,310,"As a proof-of-concept, we will show how easy it is to revoke a self-signed certificate using the bitcoin blockchain. This will also demonstrate how we may be able to use similar approaches for more advanced capabilities that current X.509 infrastructure do not.",CoffeeScript,https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack
-593,dynasaur,121,8,121,5,27/06/2012,18/08/2019,3.18 MB,3260,DynamoDB ORM for Node.js,CoffeeScript,https://github.com/tglines/dynasaur
-594,teacup,121,18,121,9,29/11/2012,06/03/2023,193.00 KB,193,Teacup is templates in CoffeeScript,CoffeeScript,https://github.com/goodeggs/teacup
-595,nap,120,33,120,6,04/09/2011,14/10/2019,2.14 MB,2191,"Compile, manage, & package stylesheets, javascripts, and javascript templates for node.js",CoffeeScript,https://github.com/craigspaeth/nap
-596,mindbender,120,31,120,40,29/09/2014,09/11/2018,2.80 MB,2867,Tools for iterative knowledge base development with DeepDive,CoffeeScript,https://github.com/HazyResearch/mindbender
-597,react-markdown-textarea,120,8,120,7,11/06/2014,28/12/2015,417.00 KB,417,Component for React to create textareas for entering Markdown with built-in preview inspired by Github's design,CoffeeScript,https://github.com/KyleAMathews/react-markdown-textarea
-598,github-red-alert,120,5,120,0,06/12/2015,31/10/2016,164.00 KB,164,Changes the GitHub notification icon to red if you have unread participating notifications.,CoffeeScript,https://github.com/bitoiu/github-red-alert
+593,github-red-alert,121,5,121,0,06/12/2015,31/10/2016,164.00 KB,164,Changes the GitHub notification icon to red if you have unread participating notifications.,CoffeeScript,https://github.com/bitoiu/github-red-alert
+594,dynasaur,121,8,121,5,27/06/2012,18/08/2019,3.18 MB,3260,DynamoDB ORM for Node.js,CoffeeScript,https://github.com/tglines/dynasaur
+595,teacup,121,18,121,9,29/11/2012,06/03/2023,193.00 KB,193,Teacup is templates in CoffeeScript,CoffeeScript,https://github.com/goodeggs/teacup
+596,nap,120,33,120,6,04/09/2011,14/10/2019,2.14 MB,2191,"Compile, manage, & package stylesheets, javascripts, and javascript templates for node.js",CoffeeScript,https://github.com/craigspaeth/nap
+597,mindbender,120,31,120,40,29/09/2014,09/11/2018,2.80 MB,2867,Tools for iterative knowledge base development with DeepDive,CoffeeScript,https://github.com/HazyResearch/mindbender
+598,react-markdown-textarea,120,8,120,7,11/06/2014,28/12/2015,417.00 KB,417,Component for React to create textareas for entering Markdown with built-in preview inspired by Github's design,CoffeeScript,https://github.com/KyleAMathews/react-markdown-textarea
 599,node-mocks,120,22,120,12,09/02/2012,03/08/2013,233.00 KB,233,"Suite of mocks for node.js (fs, http) + some testing utils...",CoffeeScript,https://github.com/vojtajina/node-mocks
 600,max4node,120,7,120,3,15/01/2015,13/03/2020,139.00 KB,139,"Control Ableton Live through Node.js. Yes, holy shit.",CoffeeScript,https://github.com/alpacaaa/max4node
 601,s3upload-coffee-javascript,120,69,120,7,30/11/2012,21/05/2016,19.00 KB,19,Client Side S3 CORS Upload for Amazon S3 - CoffeeScript and JavaScript Class,CoffeeScript,https://github.com/tadruj/s3upload-coffee-javascript
@@ -709,21 +709,21 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 708,schematic-ipsum,100,12,100,15,08/01/2013,29/11/2013,891.00 KB,891,A simple service that generates fake JSON data in accordance with a JSON Schema,CoffeeScript,https://github.com/jonahkagan/schematic-ipsum
 709,leapjs-rigged-hand,100,33,100,12,07/02/2014,07/01/2023,23.53 MB,24092,Control hand models with the Leap Motion,CoffeeScript,https://github.com/leapmotion/leapjs-rigged-hand
 710,hubot-bearychat,100,27,100,7,18/02/2016,31/10/2017,412.00 KB,412,BearyChat Adapter for Hubot,CoffeeScript,https://github.com/bearyinnovative/hubot-bearychat
-711,gulpsmith,99,4,99,1,17/05/2014,06/01/2018,46.00 KB,46,"Use gulp plugins in Metalsmith, or Metalsmith plugins in gulp",CoffeeScript,https://github.com/pjeby/gulpsmith
-712,CrowdMapper,99,11,99,2,07/06/2013,16/05/2017,936.00 KB,936,"Real-time collaborative application for tagging streams of geospatial data, built on top of the Meteor Javascript platform. Built with the humanitarian goal of crisis mapping in mind.",CoffeeScript,https://github.com/TurkServer/CrowdMapper
-713,torontojs.com,99,38,99,10,15/04/2015,04/08/2025,3.25 MB,3330,The Website for TorontoJS,CoffeeScript,https://github.com/torontojs/torontojs.com
-714,essential.js,98,6,98,2,07/05/2014,28/05/2020,954.00 KB,954,"Essential JS - Functional JavaScript ""the right way""",CoffeeScript,https://github.com/elclanrs/essential.js
-715,Look-Alike,98,7,98,2,30/08/2013,13/09/2014,251.00 KB,251,"A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.",CoffeeScript,https://github.com/axiomzen/Look-Alike
-716,atom-turbo-javascript,98,41,98,11,28/03/2014,23/04/2018,81.00 KB,81,Commands and snippets for faster Javascript and Typescript with the Atom Editor,CoffeeScript,https://github.com/extrabacon/atom-turbo-javascript
-717,xwing,98,156,98,160,29/11/2012,13/08/2024,56.23 MB,57579,Squad builder for the First Edition X-Wing Miniatures game by Fantasy Flight Games.,CoffeeScript,https://github.com/geordanr/xwing
-718,relativeDate,98,5,98,2,18/02/2014,03/08/2015,203.00 KB,203,"Angular.js service providing auto-updating, relative time labels like ""about 1 minute ago""",CoffeeScript,https://github.com/OutlawAndy/relativeDate
-719,node-lipsum,98,20,98,5,31/08/2012,06/10/2021,85.00 KB,85,lipsum.org Service CLI/NodeJS Module,CoffeeScript,https://github.com/traviskaufman/node-lipsum
-720,qeda,98,12,98,25,29/09/2015,22/08/2025,772.00 KB,772,The tool for easy creating electronic component libraries,CoffeeScript,https://github.com/qeda/qeda
-721,swagger-dsl,98,3,98,3,24/10/2014,03/05/2022,183.00 KB,183,A CoffeeScript-based domain-specific language for generating JSON documents for Swagger.,CoffeeScript,https://github.com/intellinote/swagger-dsl
-722,atom-terminal-panel,97,36,97,1057,03/02/2015,12/06/2020,4.05 MB,4148,Advanced terminal interface for Atom editor,CoffeeScript,https://github.com/styczynski/atom-terminal-panel
-723,GED-VIZ,97,23,97,8,20/02/2013,21/07/2022,8.36 MB,8562,,CoffeeScript,https://github.com/bertelsmannstift/GED-VIZ
-724,vuejs-book,97,4,97,0,02/05/2014,27/10/2015,2.58 MB,2643,This book is vue.js guide book.,CoffeeScript,https://github.com/koba04/vuejs-book
-725,atom-firepad,97,16,97,12,28/02/2014,12/05/2016,130.00 KB,130,Collaborative code editing with Atom + Firepad,CoffeeScript,https://github.com/fankserver/atom-firepad
+711,torontojs.com,100,38,100,10,15/04/2015,04/08/2025,3.25 MB,3330,The Website for TorontoJS,CoffeeScript,https://github.com/torontojs/torontojs.com
+712,qeda,99,12,99,25,29/09/2015,22/08/2025,772.00 KB,772,The tool for easy creating electronic component libraries,CoffeeScript,https://github.com/qeda/qeda
+713,gulpsmith,99,4,99,1,17/05/2014,06/01/2018,46.00 KB,46,"Use gulp plugins in Metalsmith, or Metalsmith plugins in gulp",CoffeeScript,https://github.com/pjeby/gulpsmith
+714,CrowdMapper,99,11,99,2,07/06/2013,16/05/2017,936.00 KB,936,"Real-time collaborative application for tagging streams of geospatial data, built on top of the Meteor Javascript platform. Built with the humanitarian goal of crisis mapping in mind.",CoffeeScript,https://github.com/TurkServer/CrowdMapper
+715,essential.js,98,6,98,2,07/05/2014,28/05/2020,954.00 KB,954,"Essential JS - Functional JavaScript ""the right way""",CoffeeScript,https://github.com/elclanrs/essential.js
+716,Look-Alike,98,7,98,2,30/08/2013,13/09/2014,251.00 KB,251,"A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.",CoffeeScript,https://github.com/axiomzen/Look-Alike
+717,atom-turbo-javascript,98,41,98,11,28/03/2014,23/04/2018,81.00 KB,81,Commands and snippets for faster Javascript and Typescript with the Atom Editor,CoffeeScript,https://github.com/extrabacon/atom-turbo-javascript
+718,xwing,98,156,98,160,29/11/2012,13/08/2024,56.23 MB,57579,Squad builder for the First Edition X-Wing Miniatures game by Fantasy Flight Games.,CoffeeScript,https://github.com/geordanr/xwing
+719,relativeDate,98,5,98,2,18/02/2014,03/08/2015,203.00 KB,203,"Angular.js service providing auto-updating, relative time labels like ""about 1 minute ago""",CoffeeScript,https://github.com/OutlawAndy/relativeDate
+720,swagger-dsl,98,3,98,3,24/10/2014,03/05/2022,183.00 KB,183,A CoffeeScript-based domain-specific language for generating JSON documents for Swagger.,CoffeeScript,https://github.com/intellinote/swagger-dsl
+721,atom-terminal-panel,97,36,97,1057,03/02/2015,12/06/2020,4.05 MB,4148,Advanced terminal interface for Atom editor,CoffeeScript,https://github.com/styczynski/atom-terminal-panel
+722,GED-VIZ,97,23,97,8,20/02/2013,21/07/2022,8.36 MB,8562,,CoffeeScript,https://github.com/bertelsmannstift/GED-VIZ
+723,vuejs-book,97,4,97,0,02/05/2014,27/10/2015,2.58 MB,2643,This book is vue.js guide book.,CoffeeScript,https://github.com/koba04/vuejs-book
+724,atom-firepad,97,16,97,12,28/02/2014,12/05/2016,130.00 KB,130,Collaborative code editing with Atom + Firepad,CoffeeScript,https://github.com/fankserver/atom-firepad
+725,node-lipsum,97,20,97,5,31/08/2012,06/10/2021,85.00 KB,85,lipsum.org Service CLI/NodeJS Module,CoffeeScript,https://github.com/traviskaufman/node-lipsum
 726,angular-persian,97,13,97,4,23/09/2014,05/01/2019,482.00 KB,482,:earth_asia: Persian tools for angular.js,CoffeeScript,https://github.com/mohebifar/angular-persian
 727,meteor-jquery-datatables,97,29,97,19,25/03/2014,18/08/2018,1.62 MB,1660,"Sort, page, and filter millions of records reactively.",CoffeeScript,https://github.com/LumaPictures/meteor-jquery-datatables
 728,bubble_cloud,96,72,96,2,08/09/2012,14/06/2018,508.00 KB,508,,CoffeeScript,https://github.com/vlandham/bubble_cloud
@@ -737,7 +737,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 736,markdown-scroll-sync,95,27,95,1266,04/03/2015,27/05/2018,40.00 KB,40,Auto-scroll markdown-preview tab to match markdown source,CoffeeScript,https://github.com/vincentcn/markdown-scroll-sync
 737,protobowl,95,29,95,34,25/07/2012,08/01/2024,6.21 MB,6364,real time multiplayer quizbowl,CoffeeScript,https://github.com/neotenic/protobowl
 738,butter-desktop-angular,95,44,95,12,24/10/2015,17/06/2016,7.93 MB,8116,Angular version of butter-desktop,CoffeeScript,https://github.com/butterproject/butter-desktop-angular
-739,habitrpg-shared,95,122,95,0,11/03/2013,18/04/2017,124.51 MB,127502,"Shared resources useful for multiple HabitRPG repositories. Assets (sprites, imgs, etc), CSS, algorithms, and more.",CoffeeScript,https://github.com/HabitRPG/habitrpg-shared
+739,habitrpg-shared,95,121,95,0,11/03/2013,18/04/2017,124.51 MB,127502,"Shared resources useful for multiple HabitRPG repositories. Assets (sprites, imgs, etc), CSS, algorithms, and more.",CoffeeScript,https://github.com/HabitRPG/habitrpg-shared
 740,coinnext,95,82,95,5,04/02/2015,22/11/2017,3.27 MB,3351,Crypto currency exchange - Bitcoin to altcoins,CoffeeScript,https://github.com/doomhz/coinnext
 741,hubot-standup,95,21,95,5,30/05/2012,16/06/2016,37.00 KB,37,"Agile style standup bot with hubot, ala tender",CoffeeScript,https://github.com/miyagawa/hubot-standup
 742,semver.io,95,23,95,4,24/09/2013,15/10/2024,263.00 KB,263,*DEPRECATED* The semver.io instance has now been sunset: https://github.com/heroku/semver.io/issues/74,CoffeeScript,https://github.com/heroku/semver.io
@@ -767,12 +767,12 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 766,atomic-chrome-atom,92,18,92,13,29/01/2016,08/11/2017,9.00 KB,9,Edit Chrome textareas in Atom,CoffeeScript,https://github.com/danhper/atomic-chrome-atom
 767,walma,91,34,91,26,04/10/2011,03/09/2015,843.00 KB,843,Collaborative Whiteboard,CoffeeScript,https://github.com/opinsys/walma
 768,gmailui,91,10,91,6,12/01/2013,17/03/2020,269.00 KB,269,A GMail user interface library,CoffeeScript,https://github.com/joscha/gmailui
-769,node-applest-atem,91,29,91,7,19/07/2015,31/10/2023,718.00 KB,718,A module to control Blackmagic Design ATEM Switchers,CoffeeScript,https://github.com/applest/node-applest-atem
-770,react-responsive-grid,90,10,90,7,17/02/2015,15/11/2018,373.00 KB,373,Power tools for building responsive layouts with React,CoffeeScript,https://github.com/KyleAMathews/react-responsive-grid
-771,jquery-fullsizable,90,24,90,10,11/08/2011,22/09/2017,1.33 MB,1364,Take advantage of full available browser space to display images!,CoffeeScript,https://github.com/MSchmidt/jquery-fullsizable
-772,hubot-mysql-chatops,90,9,90,0,28/01/2014,09/03/2014,128.00 KB,128,ChatOps for MySQL.,CoffeeScript,https://github.com/samlambert/hubot-mysql-chatops
-773,node-spritesheet,90,44,90,22,01/08/2012,18/10/2013,6.01 MB,6151,Sprite sheet generator for node.js and task for grunt.js,CoffeeScript,https://github.com/richardbutler/node-spritesheet
-774,particle-saga,90,16,90,3,30/04/2014,19/09/2018,1016.00 KB,1016,A gallery for images and models rendered as particles with three.js,CoffeeScript,https://github.com/blakecarroll/particle-saga
+769,particle-saga,91,16,91,3,30/04/2014,19/09/2018,1016.00 KB,1016,A gallery for images and models rendered as particles with three.js,CoffeeScript,https://github.com/blakecarroll/particle-saga
+770,node-applest-atem,91,29,91,7,19/07/2015,31/10/2023,718.00 KB,718,A module to control Blackmagic Design ATEM Switchers,CoffeeScript,https://github.com/applest/node-applest-atem
+771,react-responsive-grid,90,10,90,7,17/02/2015,15/11/2018,373.00 KB,373,Power tools for building responsive layouts with React,CoffeeScript,https://github.com/KyleAMathews/react-responsive-grid
+772,jquery-fullsizable,90,24,90,10,11/08/2011,22/09/2017,1.33 MB,1364,Take advantage of full available browser space to display images!,CoffeeScript,https://github.com/MSchmidt/jquery-fullsizable
+773,hubot-mysql-chatops,90,9,90,0,28/01/2014,09/03/2014,128.00 KB,128,ChatOps for MySQL.,CoffeeScript,https://github.com/samlambert/hubot-mysql-chatops
+774,node-spritesheet,90,44,90,22,01/08/2012,18/10/2013,6.01 MB,6151,Sprite sheet generator for node.js and task for grunt.js,CoffeeScript,https://github.com/richardbutler/node-spritesheet
 775,heroku-minecraft,90,46,90,2,08/02/2012,30/06/2016,23.22 MB,23776,:gem: run a Minecraft server on Heroku,CoffeeScript,https://github.com/jacobwgillespie/heroku-minecraft
 776,jquery-bootstrap-pagination,90,39,90,7,04/12/2012,01/04/2016,83.00 KB,83,,CoffeeScript,https://github.com/markbates/jquery-bootstrap-pagination
 777,plunker_api,89,50,89,8,17/12/2012,22/10/2019,81.00 KB,81,The public API off of which Plunker runs,CoffeeScript,https://github.com/filearts/plunker_api
@@ -786,16 +786,16 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 785,fontello-cli,88,30,88,16,08/08/2013,24/08/2023,115.00 KB,115,Command line interface for fontello.,CoffeeScript,https://github.com/paulyoung/fontello-cli
 786,atom,88,24,88,1,12/11/2011,30/08/2016,22.00 KB,22,a <canvas> game framework that does as little as possible,CoffeeScript,https://github.com/nornagon/atom
 787,tent-status,88,18,88,52,09/09/2012,02/07/2015,5.06 MB,5177,Microblogging powered by Tent,CoffeeScript,https://github.com/tent/tent-status
-788,distribute-layers,88,2,88,8,27/05/2016,15/03/2021,23.00 KB,23,Distribute an array of layers in Framer.js,CoffeeScript,https://github.com/martenbjork/distribute-layers
-789,SVGCircle-Module-for-FramerJS,88,5,88,2,31/08/2016,12/02/2018,2.87 MB,2942,Animate Circles (Strokes) easily.,CoffeeScript,https://github.com/ServusJon/SVGCircle-Module-for-FramerJS
-790,jinora,87,10,87,22,11/09/2014,11/12/2022,649.00 KB,649,Slack webhook app to create anonymous public channels,CoffeeScript,https://github.com/sdslabs/jinora
-791,hubot-fb,87,21,87,7,12/04/2016,27/04/2017,50.00 KB,50,A Hubot adapter for the Facebook Messenger Platform,CoffeeScript,https://github.com/chen-ye/hubot-fb
-792,hologram,87,10,87,11,03/06/2017,20/08/2017,213.51 MB,218639,Hologram Framework | All-in-one WebVR creation.,CoffeeScript,https://github.com/etiennepinchon/hologram
-793,atom-ide-flow,87,17,87,25,25/11/2014,27/10/2016,572.00 KB,572,Atom IDE support for Flow ,CoffeeScript,https://github.com/lukehoban/atom-ide-flow
-794,canvas-atkinson-dither,87,12,87,1,19/11/2010,10/06/2025,206.00 KB,206,,CoffeeScript,https://github.com/gazs/canvas-atkinson-dither
-795,d3.js-boilerplate,87,21,87,0,20/04/2012,23/02/2013,19.92 MB,20403,Boilerplate to help speed up d3.js development,CoffeeScript,https://github.com/zmaril/d3.js-boilerplate
-796,atom-supercollider,87,12,87,27,14/07/2014,14/03/2022,1.64 MB,1676,SuperCollider development environment for Atom.io,CoffeeScript,https://github.com/crucialfelix/atom-supercollider
-797,japanese-wrap,87,14,87,2,13/08/2014,10/01/2016,93.00 KB,93,Atom package extend word wrap for Japanese text.,CoffeeScript,https://github.com/raccy/japanese-wrap
+788,SVGCircle-Module-for-FramerJS,88,5,88,2,31/08/2016,12/02/2018,2.87 MB,2942,Animate Circles (Strokes) easily.,CoffeeScript,https://github.com/ServusJon/SVGCircle-Module-for-FramerJS
+789,jinora,87,10,87,22,11/09/2014,11/12/2022,649.00 KB,649,Slack webhook app to create anonymous public channels,CoffeeScript,https://github.com/sdslabs/jinora
+790,hubot-fb,87,21,87,7,12/04/2016,27/04/2017,50.00 KB,50,A Hubot adapter for the Facebook Messenger Platform,CoffeeScript,https://github.com/chen-ye/hubot-fb
+791,hologram,87,10,87,11,03/06/2017,20/08/2017,213.51 MB,218639,Hologram Framework | All-in-one WebVR creation.,CoffeeScript,https://github.com/etiennepinchon/hologram
+792,atom-ide-flow,87,17,87,25,25/11/2014,27/10/2016,572.00 KB,572,Atom IDE support for Flow ,CoffeeScript,https://github.com/lukehoban/atom-ide-flow
+793,canvas-atkinson-dither,87,12,87,1,19/11/2010,10/06/2025,206.00 KB,206,,CoffeeScript,https://github.com/gazs/canvas-atkinson-dither
+794,d3.js-boilerplate,87,21,87,0,20/04/2012,23/02/2013,19.92 MB,20403,Boilerplate to help speed up d3.js development,CoffeeScript,https://github.com/zmaril/d3.js-boilerplate
+795,atom-supercollider,87,12,87,27,14/07/2014,14/03/2022,1.64 MB,1676,SuperCollider development environment for Atom.io,CoffeeScript,https://github.com/crucialfelix/atom-supercollider
+796,japanese-wrap,87,14,87,2,13/08/2014,10/01/2016,93.00 KB,93,Atom package extend word wrap for Japanese text.,CoffeeScript,https://github.com/raccy/japanese-wrap
+797,distribute-layers,87,2,87,8,27/05/2016,15/03/2021,23.00 KB,23,Distribute an array of layers in Framer.js,CoffeeScript,https://github.com/martenbjork/distribute-layers
 798,fortnight,86,8,86,4,30/06/2013,14/03/2014,7.04 MB,7209,"A scoped, heatmapping, load-balancing todo list.",JavaScript,https://github.com/oliversong/fortnight
 799,CannyJS,86,16,86,2,23/11/2014,06/12/2014,1.92 MB,1968,A client-side JavaScript implementation of Canny Edge Detection,CoffeeScript,https://github.com/yuta1984/CannyJS
 800,hubot-twitter,86,39,86,16,22/11/2011,03/06/2015,255.00 KB,255,Twitter adapter for Hubot,CoffeeScript,https://github.com/MathildeLemee/hubot-twitter
@@ -869,13 +869,13 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 868,node-ticket-manager,79,29,79,6,24/02/2014,22/10/2019,1.41 MB,1443,"a simple ticket system contians a centeral ticket dispatcher and distributed workers. This system is written in NodeJS, runing on MongoDB",CoffeeScript,https://github.com/yi/node-ticket-manager
 869,EasyWebWorker,79,6,79,4,01/04/2013,05/08/2024,102.00 KB,102,Easy Communication Protocol For Web Workers,CoffeeScript,https://github.com/ramesaliyev/EasyWebWorker
 870,atom-color-highlight,79,8,79,20,02/03/2014,13/08/2015,2.31 MB,2369,Highlights color declarations in files,CoffeeScript,https://github.com/abe33/atom-color-highlight
-871,jinrou,79,33,79,122,27/10/2011,22/07/2025,9.58 MB,9810,Are you a werewolf?,CoffeeScript,https://github.com/uhyo/jinrou
-872,node-unused-deps,79,5,79,2,23/12/2014,21/12/2021,136.00 KB,136,"Report unused npm packages in node, es6, babel or coffee project.",CoffeeScript,https://github.com/mirek/node-unused-deps
-873,ratelimit.js,78,7,78,4,09/01/2015,16/02/2016,83.00 KB,83,NodeJS library for rate limiting using sliding windows stored in Redis,CoffeeScript,https://github.com/dudleycarr/ratelimit.js
-874,node-linq,78,8,78,3,09/04/2012,30/11/2017,167.00 KB,167,LINQ for node,CoffeeScript,https://github.com/yocontra/node-linq
-875,amqp-coffee,78,30,78,8,06/01/2014,24/04/2025,252.00 KB,252,An AMQP 0.9.1 client for Node.js.,CoffeeScript,https://github.com/dropbox/amqp-coffee
-876,chainy,78,4,78,7,03/05/2014,11/05/2016,83.00 KB,83,The chainy core + autoloader plugin,CoffeeScript,https://github.com/chainyjs/chainy
-877,bubbles,78,30,78,3,24/01/2012,18/04/2017,1.68 MB,1717,little unfinished particles game - MIT license,CoffeeScript,https://github.com/franzenzenhofer/bubbles
+871,bubbles,79,30,79,3,24/01/2012,18/04/2017,1.68 MB,1717,little unfinished particles game - MIT license,CoffeeScript,https://github.com/franzenzenhofer/bubbles
+872,jinrou,79,33,79,122,27/10/2011,22/07/2025,9.58 MB,9810,Are you a werewolf?,CoffeeScript,https://github.com/uhyo/jinrou
+873,node-unused-deps,79,5,79,2,23/12/2014,21/12/2021,136.00 KB,136,"Report unused npm packages in node, es6, babel or coffee project.",CoffeeScript,https://github.com/mirek/node-unused-deps
+874,ratelimit.js,78,7,78,4,09/01/2015,16/02/2016,83.00 KB,83,NodeJS library for rate limiting using sliding windows stored in Redis,CoffeeScript,https://github.com/dudleycarr/ratelimit.js
+875,node-linq,78,8,78,3,09/04/2012,30/11/2017,167.00 KB,167,LINQ for node,CoffeeScript,https://github.com/yocontra/node-linq
+876,amqp-coffee,78,30,78,8,06/01/2014,24/04/2025,252.00 KB,252,An AMQP 0.9.1 client for Node.js.,CoffeeScript,https://github.com/dropbox/amqp-coffee
+877,chainy,78,4,78,7,03/05/2014,11/05/2016,83.00 KB,83,The chainy core + autoloader plugin,CoffeeScript,https://github.com/chainyjs/chainy
 878,cosmos-browserify,78,12,78,1,01/05/2015,11/08/2017,160.00 KB,160,Browserify npm modules for client side in Meteor packages,CoffeeScript,https://github.com/elidoran/cosmos-browserify
 879,formrenderer-base,78,25,78,12,20/08/2014,25/07/2024,5.98 MB,6122,Screendoor's client-side form rendering code.,CoffeeScript,https://github.com/CityBaseInc/formrenderer-base
 880,sake-core,78,4,78,0,17/04/2014,19/06/2018,309.00 KB,309,Sake's core interface.,CoffeeScript,https://github.com/sakejs/sake-core
@@ -887,35 +887,35 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 886,karma-fixture,77,10,77,4,16/05/2014,30/01/2017,36.00 KB,36,A plugin for the Karma test runner that loads .html and .json fixtures,CoffeeScript,https://github.com/billtrik/karma-fixture
 887,draughtsman,77,5,77,13,15/05/2011,18/09/2014,384.00 KB,384,Transparent compilation of templates and stylesheets for prototyping HTML interfaces. Also live reloading.,CoffeeScript,https://github.com/debrouwere/draughtsman
 888,vue-icons,77,9,77,7,28/04/2016,24/03/2017,510.00 KB,510,webpack based - load only what you need - svg inline icons,CoffeeScript,https://github.com/vue-comps/vue-icons
-889,atom-ungit,76,12,76,23,18/06/2014,07/12/2022,842.00 KB,842,Atom plugin for Ungit project,CoffeeScript,https://github.com/jung-kim/atom-ungit
-890,xws-spec,76,15,76,9,13/10/2014,30/10/2020,1.55 MB,1588,X-Wing Squadron Specification,CoffeeScript,https://github.com/elistevens/xws-spec
-891,css-polyfills.js,76,4,76,4,25/11/2013,21/12/2016,1.47 MB,1502,:art: Define more with CSS!,CoffeeScript,https://github.com/philschatz/css-polyfills.js
-892,meteor-webrtc,76,17,76,6,02/05/2014,28/07/2015,337.00 KB,337,WebRTC signalling for Meteor,CoffeeScript,https://github.com/foxdog-studios/meteor-webrtc
-893,Obscura,75,6,75,1,09/05/2011,15/08/2014,675.00 KB,675,Canvas Based Image Manipulation Library,CoffeeScript,https://github.com/OiNutter/Obscura
-894,base,75,5,75,8,10/06/2014,28/01/2017,893.00 KB,893,Foundation for Modular Application Architecture in Meteor.,CoffeeScript,https://github.com/meteor-space/base
-895,hubot-mattermost,75,19,75,9,11/11/2015,15/01/2017,24.00 KB,24,A hubot adapter for Mattermost,CoffeeScript,https://github.com/renanvicente/hubot-mattermost
-896,grunt-lesslint,75,27,75,4,12/06/2013,13/02/2021,291.00 KB,291,Lint LESS files with Grunt,CoffeeScript,https://github.com/jgable/grunt-lesslint
-897,polvo,75,9,75,23,04/04/2013,06/08/2014,3.49 MB,3577,Polyvalent cephalopod mollusc.,CoffeeScript,https://github.com/polvo/polvo
-898,Evangelion-Uebersicht-Widget,75,24,75,7,27/08/2015,12/11/2019,9.23 MB,9450,Evangelion Style Übersicht Widget.,CoffeeScript,https://github.com/jeticg/Evangelion-Uebersicht-Widget
-899,nvatom,75,14,75,20,08/11/2014,25/05/2017,107.00 KB,107,nvatom (unpublished from atom.io),CoffeeScript,https://github.com/seongjaelee/nvatom
-900,RunAll,75,14,75,3,23/04/2018,21/03/2021,55.00 KB,55,This is a library for running the concurrent processing using only native Google Apps Script (GAS).,CoffeeScript,https://github.com/tanaikech/RunAll
-901,javascript-playlist-parser,75,25,75,2,09/08/2013,29/12/2017,53.00 KB,53,"Parse m3u, pls, and asx in JavaScript",CoffeeScript,https://github.com/nickdesaulniers/javascript-playlist-parser
-902,openrfps-scrapers,75,23,75,5,20/02/2014,03/10/2014,2.92 MB,2993,Scraping government contracting opportunities.,CoffeeScript,https://github.com/dobtco/openrfps-scrapers
-903,karma-html2js-preprocessor,74,79,74,17,26/04/2013,24/09/2018,19.00 KB,19,A Karma plugin. Convert HTML files into JS strings to serve them in a script tag.,CoffeeScript,https://github.com/karma-runner/karma-html2js-preprocessor
-904,MachinePoker,74,26,74,2,10/10/2012,06/12/2013,803.00 KB,803,Gambling.js,CoffeeScript,https://github.com/mdp/MachinePoker
-905,dict,74,7,74,0,24/01/2012,29/10/2017,23.00 KB,23,"A lightweight but safe dictionary, for when Object won't cut it",CoffeeScript,https://github.com/domenic/dict
-906,Framer-VideoPlayer,74,9,74,0,30/09/2015,13/10/2015,20.48 MB,20967,A video player module for Framer Studio and Framer.js.,CoffeeScript,https://github.com/stakes/Framer-VideoPlayer
-907,gratefulplace2,74,14,74,5,02/03/2013,03/12/2014,17.20 MB,17611,,CoffeeScript,https://github.com/flyingmachine/gratefulplace2
-908,sharelatex-docker,74,30,74,4,24/02/2014,02/09/2021,52.00 KB,52,Sharelatex instalation via Dockerfile,CoffeeScript,https://github.com/tiagoboldt/sharelatex-docker
-909,sync.io,74,8,74,2,29/12/2013,25/08/2014,492.00 KB,492,Open-source BitTorrent Sync tracker and relay server which features a web status page.,CoffeeScript,https://github.com/ppmathis/sync.io
-910,crudify,74,7,74,7,26/04/2013,18/02/2014,562.00 KB,562,Mongoose CRUD generator,CoffeeScript,https://github.com/wearefractal/crudify
-911,kyou,74,10,74,2,06/07/2013,29/06/2016,2.44 MB,2503,"With Kyou, have a better knowledge of yourself",CoffeeScript,https://github.com/frankrousseau/kyou
-912,tidy-markdown,74,11,74,32,29/07/2014,13/01/2020,149.00 KB,149,"Beautify Markdown, fixing formatting mistakes and standardizing syntax",CoffeeScript,https://github.com/notslang/tidy-markdown
-913,CMSploit,74,16,74,0,01/12/2011,20/03/2012,8.39 MB,8589,Security scanner to find temporary config files that contain passwords on public websites,CoffeeScript,https://github.com/feross/CMSploit
-914,autocomplete-emojis,74,16,74,5,20/05/2014,28/09/2022,146.00 KB,146,autocomplete+ emoji autocompletion,CoffeeScript,https://github.com/atom/autocomplete-emojis
-915,instagram-id-to-url-segment,74,16,74,5,30/07/2015,11/05/2021,144.00 KB,144,"Convert Instagram post IDs into Instagram links, algorithmically",CoffeeScript,https://github.com/notslang/instagram-id-to-url-segment
-916,notifications,74,37,74,34,15/11/2014,28/09/2022,440.00 KB,440,User notifications,CoffeeScript,https://github.com/atom/notifications
-917,demos,74,20,74,54,08/03/2021,18/08/2025,54.44 MB,55751,A list of Meilisearch demos with open-source code and live preview ⚡️,CoffeeScript,https://github.com/meilisearch/demos
+889,RunAll,77,14,77,3,23/04/2018,21/03/2021,55.00 KB,55,This is a library for running the concurrent processing using only native Google Apps Script (GAS).,CoffeeScript,https://github.com/tanaikech/RunAll
+890,atom-ungit,76,12,76,23,18/06/2014,07/12/2022,842.00 KB,842,Atom plugin for Ungit project,CoffeeScript,https://github.com/jung-kim/atom-ungit
+891,xws-spec,76,15,76,9,13/10/2014,30/10/2020,1.55 MB,1588,X-Wing Squadron Specification,CoffeeScript,https://github.com/elistevens/xws-spec
+892,css-polyfills.js,76,4,76,4,25/11/2013,21/12/2016,1.47 MB,1502,:art: Define more with CSS!,CoffeeScript,https://github.com/philschatz/css-polyfills.js
+893,meteor-webrtc,76,17,76,6,02/05/2014,28/07/2015,337.00 KB,337,WebRTC signalling for Meteor,CoffeeScript,https://github.com/foxdog-studios/meteor-webrtc
+894,openrfps-scrapers,76,23,76,5,20/02/2014,03/10/2014,2.92 MB,2993,Scraping government contracting opportunities.,CoffeeScript,https://github.com/dobtco/openrfps-scrapers
+895,Obscura,75,6,75,1,09/05/2011,15/08/2014,675.00 KB,675,Canvas Based Image Manipulation Library,CoffeeScript,https://github.com/OiNutter/Obscura
+896,base,75,5,75,8,10/06/2014,28/01/2017,893.00 KB,893,Foundation for Modular Application Architecture in Meteor.,CoffeeScript,https://github.com/meteor-space/base
+897,hubot-mattermost,75,19,75,9,11/11/2015,15/01/2017,24.00 KB,24,A hubot adapter for Mattermost,CoffeeScript,https://github.com/renanvicente/hubot-mattermost
+898,grunt-lesslint,75,27,75,4,12/06/2013,13/02/2021,291.00 KB,291,Lint LESS files with Grunt,CoffeeScript,https://github.com/jgable/grunt-lesslint
+899,polvo,75,9,75,23,04/04/2013,06/08/2014,3.49 MB,3577,Polyvalent cephalopod mollusc.,CoffeeScript,https://github.com/polvo/polvo
+900,Evangelion-Uebersicht-Widget,75,24,75,7,27/08/2015,12/11/2019,9.23 MB,9450,Evangelion Style Übersicht Widget.,CoffeeScript,https://github.com/jeticg/Evangelion-Uebersicht-Widget
+901,demos,75,20,75,54,08/03/2021,18/08/2025,54.44 MB,55751,A list of Meilisearch demos with open-source code and live preview ⚡️,CoffeeScript,https://github.com/meilisearch/demos
+902,nvatom,75,14,75,20,08/11/2014,25/05/2017,107.00 KB,107,nvatom (unpublished from atom.io),CoffeeScript,https://github.com/seongjaelee/nvatom
+903,javascript-playlist-parser,75,25,75,2,09/08/2013,29/12/2017,53.00 KB,53,"Parse m3u, pls, and asx in JavaScript",CoffeeScript,https://github.com/nickdesaulniers/javascript-playlist-parser
+904,karma-html2js-preprocessor,74,79,74,17,26/04/2013,24/09/2018,19.00 KB,19,A Karma plugin. Convert HTML files into JS strings to serve them in a script tag.,CoffeeScript,https://github.com/karma-runner/karma-html2js-preprocessor
+905,MachinePoker,74,26,74,2,10/10/2012,06/12/2013,803.00 KB,803,Gambling.js,CoffeeScript,https://github.com/mdp/MachinePoker
+906,dict,74,7,74,0,24/01/2012,29/10/2017,23.00 KB,23,"A lightweight but safe dictionary, for when Object won't cut it",CoffeeScript,https://github.com/domenic/dict
+907,Framer-VideoPlayer,74,9,74,0,30/09/2015,13/10/2015,20.48 MB,20967,A video player module for Framer Studio and Framer.js.,CoffeeScript,https://github.com/stakes/Framer-VideoPlayer
+908,gratefulplace2,74,14,74,5,02/03/2013,03/12/2014,17.20 MB,17611,,CoffeeScript,https://github.com/flyingmachine/gratefulplace2
+909,sharelatex-docker,74,30,74,4,24/02/2014,02/09/2021,52.00 KB,52,Sharelatex instalation via Dockerfile,CoffeeScript,https://github.com/tiagoboldt/sharelatex-docker
+910,sync.io,74,8,74,2,29/12/2013,25/08/2014,492.00 KB,492,Open-source BitTorrent Sync tracker and relay server which features a web status page.,CoffeeScript,https://github.com/ppmathis/sync.io
+911,crudify,74,7,74,7,26/04/2013,18/02/2014,562.00 KB,562,Mongoose CRUD generator,CoffeeScript,https://github.com/wearefractal/crudify
+912,kyou,74,10,74,2,06/07/2013,29/06/2016,2.44 MB,2503,"With Kyou, have a better knowledge of yourself",CoffeeScript,https://github.com/frankrousseau/kyou
+913,tidy-markdown,74,11,74,32,29/07/2014,13/01/2020,149.00 KB,149,"Beautify Markdown, fixing formatting mistakes and standardizing syntax",CoffeeScript,https://github.com/notslang/tidy-markdown
+914,CMSploit,74,16,74,0,01/12/2011,20/03/2012,8.39 MB,8589,Security scanner to find temporary config files that contain passwords on public websites,CoffeeScript,https://github.com/feross/CMSploit
+915,autocomplete-emojis,74,16,74,5,20/05/2014,28/09/2022,146.00 KB,146,autocomplete+ emoji autocompletion,CoffeeScript,https://github.com/atom/autocomplete-emojis
+916,instagram-id-to-url-segment,74,16,74,5,30/07/2015,11/05/2021,144.00 KB,144,"Convert Instagram post IDs into Instagram links, algorithmically",CoffeeScript,https://github.com/notslang/instagram-id-to-url-segment
+917,notifications,74,37,74,34,15/11/2014,28/09/2022,440.00 KB,440,User notifications,CoffeeScript,https://github.com/atom/notifications
 918,1964js,74,26,74,8,02/06/2015,27/11/2022,45.55 MB,46642,Nintendo64 emulator in JavaScript,CoffeeScript,https://github.com/schibo/1964js
 919,node-cfenv,74,20,74,8,18/05/2014,04/08/2021,75.00 KB,75,easy access to your Cloud Foundry application environment for node,CoffeeScript,https://github.com/cloudfoundry-community/node-cfenv
 920,division,74,2,74,5,02/08/2013,25/11/2016,438.00 KB,438,Simple yet powerful wrapper over node.js cluster API.  ,CoffeeScript,https://github.com/setthase/division
@@ -934,20 +934,20 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 933,atom-wrap-in-tag,72,9,72,7,23/09/2015,27/07/2019,948.00 KB,948,Simplest package for Atom editor that wraps HTML tag around selection,CoffeeScript,https://github.com/sanusart/atom-wrap-in-tag
 934,hamsa,72,3,72,0,17/07/2014,17/11/2016,97.00 KB,97,"A dead simple, data-binding & observable model.",CoffeeScript,https://github.com/soyjavi/hamsa
 935,array-future,72,6,72,2,03/06/2015,01/05/2021,57.00 KB,57,A collection of Array prototypes prollyfills as proposition for ECMAScript 7.,CoffeeScript,https://github.com/Kikobeats/array-future
-936,planer,72,21,72,14,15/12/2015,26/05/2025,64.00 KB,64,Remove reply quotations from emails,CoffeeScript,https://github.com/lever/planer
-937,atom-rubymotion,71,4,71,8,02/03/2014,07/06/2014,2.83 MB,2902,RubyMotion support in Atom,CoffeeScript,https://github.com/satococoa/atom-rubymotion
-938,mongraph,71,12,71,1,08/04/2013,25/05/2015,968.00 KB,968,Mongraph combines documentstorage database with graph-database relations. Build on NodeJS.,CoffeeScript,https://github.com/pstaender/mongraph
-939,liv3c0der,71,13,71,1,07/02/2013,02/06/2015,4.12 MB,4214,liv3c0der lives! see halfbyte/liv3c0der-mk2,CoffeeScript,https://github.com/halfbyte/liv3c0der
-940,gitlab-github-migrate,71,16,71,1,29/07/2015,30/07/2015,120.00 KB,120,"Migrate repositories, wikis, issues and milestones from GitLab to GitHub",CoffeeScript,https://github.com/wollzelle/gitlab-github-migrate
-941,Backbone.TableView,71,17,71,2,10/08/2012,21/10/2013,757.00 KB,757,Backbone View to render collections as tables,CoffeeScript,https://github.com/LinkedInAttic/Backbone.TableView
-942,minimal-webpack-nodejs-hmr,71,7,71,3,21/10/2015,28/08/2024,684.00 KB,684,Webpack Backend HMR Demo,CoffeeScript,https://github.com/minimal-xyz/minimal-webpack-nodejs-hmr
+936,planer,72,22,72,14,15/12/2015,26/05/2025,64.00 KB,64,Remove reply quotations from emails,CoffeeScript,https://github.com/lever/planer
+937,node-bufferstream,71,7,71,4,17/05/2011,27/04/2016,177.00 KB,177,"painless stream buffering, cutting and piping",CoffeeScript,https://github.com/dodo/node-bufferstream
+938,atom-rubymotion,71,4,71,8,02/03/2014,07/06/2014,2.83 MB,2902,RubyMotion support in Atom,CoffeeScript,https://github.com/satococoa/atom-rubymotion
+939,mongraph,71,12,71,1,08/04/2013,25/05/2015,968.00 KB,968,Mongraph combines documentstorage database with graph-database relations. Build on NodeJS.,CoffeeScript,https://github.com/pstaender/mongraph
+940,liv3c0der,71,13,71,1,07/02/2013,02/06/2015,4.12 MB,4214,liv3c0der lives! see halfbyte/liv3c0der-mk2,CoffeeScript,https://github.com/halfbyte/liv3c0der
+941,gitlab-github-migrate,71,16,71,1,29/07/2015,30/07/2015,120.00 KB,120,"Migrate repositories, wikis, issues and milestones from GitLab to GitHub",CoffeeScript,https://github.com/wollzelle/gitlab-github-migrate
+942,Backbone.TableView,71,17,71,2,10/08/2012,21/10/2013,757.00 KB,757,Backbone View to render collections as tables,CoffeeScript,https://github.com/LinkedInAttic/Backbone.TableView
 943,proudify,71,12,71,0,12/06/2011,23/11/2017,882.00 KB,882,jQuery plugin to display your GitHub projects and Coderwall badges,CoffeeScript,https://github.com/icebreaker/proudify
 944,atom-terminal,71,30,71,53,11/03/2014,20/12/2016,1.14 MB,1170,"Atom package to open terminal on current file's directory with ""ctrl-shift-t""",CoffeeScript,https://github.com/karan/atom-terminal
-945,node-bufferstream,70,7,70,4,17/05/2011,27/04/2016,177.00 KB,177,"painless stream buffering, cutting and piping",CoffeeScript,https://github.com/dodo/node-bufferstream
-946,autocomplete-css,70,69,70,18,24/02/2015,28/09/2022,200.00 KB,200,CSS property name and value completions,CoffeeScript,https://github.com/atom/autocomplete-css
-947,angular-date-range-picker,70,49,70,17,22/08/2013,24/01/2017,1.02 MB,1046,"Pure Angular date range picker, no jQuery",CoffeeScript,https://github.com/monterail/angular-date-range-picker
-948,less2stylus,70,6,70,7,30/07/2013,05/10/2016,82.00 KB,82,[NOT MAINTAINED] LESS to Stylus source to source convertor capable of translating Bootstrap,CoffeeScript,https://github.com/andreypopp/less2stylus
-949,jira-cli,70,21,70,19,28/11/2012,24/04/2019,593.00 KB,593,Simple Command Line Jira Client in Node.js,CoffeeScript,https://github.com/tebriel/jira-cli
+945,autocomplete-css,70,69,70,18,24/02/2015,28/09/2022,200.00 KB,200,CSS property name and value completions,CoffeeScript,https://github.com/atom/autocomplete-css
+946,angular-date-range-picker,70,49,70,17,22/08/2013,24/01/2017,1.02 MB,1046,"Pure Angular date range picker, no jQuery",CoffeeScript,https://github.com/monterail/angular-date-range-picker
+947,less2stylus,70,6,70,7,30/07/2013,05/10/2016,82.00 KB,82,[NOT MAINTAINED] LESS to Stylus source to source convertor capable of translating Bootstrap,CoffeeScript,https://github.com/andreypopp/less2stylus
+948,jira-cli,70,21,70,19,28/11/2012,24/04/2019,593.00 KB,593,Simple Command Line Jira Client in Node.js,CoffeeScript,https://github.com/tebriel/jira-cli
+949,minimal-webpack-nodejs-hmr,70,6,70,3,21/10/2015,28/08/2024,684.00 KB,684,Webpack Backend HMR Demo,CoffeeScript,https://github.com/minimal-xyz/minimal-webpack-nodejs-hmr
 950,sol2ligo,70,4,70,40,10/12/2019,01/03/2021,9.13 MB,9346,⌨️ 🔮 Transpiler from Solidity to PascalLIGO language,CoffeeScript,https://github.com/madfish-solutions/sol2ligo
 951,chip,70,6,70,0,27/08/2015,05/09/2015,107.00 KB,107,,CoffeeScript,https://github.com/sgentle/chip
 952,angular-better-placeholders,70,15,70,1,11/10/2013,12/10/2015,1.86 MB,1904,Angular directive for enhanced placeholders that easily integrate with Bootstrap form fields.,CoffeeScript,https://github.com/dmackerman/angular-better-placeholders
@@ -963,12 +963,12 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 962,simple-breakpad-server,69,29,69,6,14/11/2016,07/08/2025,281.00 KB,281,Simple breakpad crash reports collecting server,CoffeeScript,https://github.com/acrisci/simple-breakpad-server
 963,background,69,13,69,2,27/08/2011,05/01/2018,431.00 KB,431,"CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators.",CoffeeScript,https://github.com/kmalakoff/background
 964,zorium,69,3,69,25,19/11/2014,03/12/2022,3.26 MB,3335,(╯°□°)╯︵ ┻━┻ The CoffeeScript Web Framework,CoffeeScript,https://github.com/Zorium/zorium
-965,js-chart-widgets,69,12,69,0,27/02/2013,10/02/2016,44.00 KB,44,,CoffeeScript,https://github.com/loule/js-chart-widgets
-966,node-upnp-device,68,19,68,1,06/11/2011,06/06/2017,333.00 KB,333,Create UPnP devices in Node.js (experimental),CoffeeScript,https://github.com/jacobrask/node-upnp-device
-967,wait-on-lib,68,8,68,13,06/11/2013,01/08/2022,10.00 KB,10,Use Iron-Router waitOn to load external javascript libraries,CoffeeScript,https://github.com/manuel-schoebel/wait-on-lib
-968,aQuran,68,26,68,2,19/02/2014,03/08/2017,90.07 MB,92229,"A mobile-optimized, cross-platform Quran app built with web technologies.",CoffeeScript,https://github.com/forabi/aQuran
-969,Codeshelver,68,5,68,0,06/11/2010,07/09/2012,968.00 KB,968,Codeshelver lets you clean up your GitHub watchlist by storing repositories you would like to remember on your shelf.,CoffeeScript,https://github.com/dennisreimann/Codeshelver
-970,aiml,68,18,68,0,15/03/2013,18/03/2013,154.00 KB,154,[Deprecated] Artificial Intelligence Markup Language lib for Node.js,CoffeeScript,https://github.com/dotcypress/aiml
+965,aiml,69,18,69,0,15/03/2013,18/03/2013,154.00 KB,154,[Deprecated] Artificial Intelligence Markup Language lib for Node.js,CoffeeScript,https://github.com/dotcypress/aiml
+966,js-chart-widgets,69,12,69,0,27/02/2013,10/02/2016,44.00 KB,44,,CoffeeScript,https://github.com/loule/js-chart-widgets
+967,node-upnp-device,68,19,68,1,06/11/2011,06/06/2017,333.00 KB,333,Create UPnP devices in Node.js (experimental),CoffeeScript,https://github.com/jacobrask/node-upnp-device
+968,wait-on-lib,68,8,68,13,06/11/2013,01/08/2022,10.00 KB,10,Use Iron-Router waitOn to load external javascript libraries,CoffeeScript,https://github.com/manuel-schoebel/wait-on-lib
+969,aQuran,68,26,68,2,19/02/2014,03/08/2017,90.07 MB,92229,"A mobile-optimized, cross-platform Quran app built with web technologies.",CoffeeScript,https://github.com/forabi/aQuran
+970,Codeshelver,68,5,68,0,06/11/2010,07/09/2012,968.00 KB,968,Codeshelver lets you clean up your GitHub watchlist by storing repositories you would like to remember on your shelf.,CoffeeScript,https://github.com/dennisreimann/Codeshelver
 971,crafting-guide,68,187,68,104,17/08/2013,16/09/2018,35.04 MB,35886,The ultimate step-by-step guide to make anything in Minecraft,CoffeeScript,https://github.com/andrewminer/crafting-guide
 972,atom-slime,68,13,68,30,26/06/2015,09/04/2019,496.00 KB,496,Write lisp code efficiently with Atom,CoffeeScript,https://github.com/sjlevine/atom-slime
 973,opensurfaces-segmentation-ui,68,18,68,2,15/12/2013,24/05/2017,2.85 MB,2916,Segmentation UI from the OpenSurfaces Project,CoffeeScript,https://github.com/seanbell/opensurfaces-segmentation-ui
@@ -989,13 +989,13 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 988,cozy-emails,66,42,66,121,17/07/2014,12/06/2018,47.54 MB,48680,Email Client for Cozy,CoffeeScript,https://github.com/cozy/cozy-emails
 989,annotator.touch.js,66,21,66,10,09/02/2012,08/10/2017,849.00 KB,849,Touch device support for Annotator,CoffeeScript,https://github.com/aron/annotator.touch.js
 990,cnodejs-reader,66,8,66,1,06/11/2014,28/05/2024,1.39 MB,1427,CNode.js reader in React,CoffeeScript,https://github.com/cnodejs/cnodejs-reader
-991,svgtiler,65,7,65,30,21/11/2016,10/06/2025,818.00 KB,818,"Tool for drawing diagrams on a grid, combining grids of SVGs into a big SVG figure",CoffeeScript,https://github.com/edemaine/svgtiler
+991,svgtiler,65,8,65,31,21/11/2016,28/08/2025,877.00 KB,877,"Tool for drawing diagrams on a grid, combining grids of SVGs into a big SVG figure",CoffeeScript,https://github.com/edemaine/svgtiler
 992,hubot-idobata,65,9,65,11,07/01/2014,23/05/2020,231.00 KB,231,Idobata adapter for GitHub's Hubot,CoffeeScript,https://github.com/idobata/hubot-idobata
-993,flow-db-admin,65,39,65,13,16/07/2015,23/05/2019,6.18 MB,6325,Meteor Database Admin package for use with Flow Router,CoffeeScript,https://github.com/sachinbhutani/flow-db-admin
-994,voxel-mars,65,5,65,10,08/12/2013,12/11/2024,27.76 MB,28426,Global-scale reproduction of Mars on voxel.js,CoffeeScript,https://github.com/rachel-carvalho/voxel-mars
-995,atom-elm,65,22,65,18,25/10/2014,30/10/2018,416.00 KB,416,An atom package providing syntax highlighting and snippets for the Elm language.,CoffeeScript,https://github.com/edubkendo/atom-elm
-996,terminal-status,65,17,65,59,17/03/2014,30/07/2015,882.00 KB,882,Atom terminal status,CoffeeScript,https://github.com/guileen/terminal-status
-997,weather-widget,65,31,65,18,15/07/2014,02/04/2023,2.07 MB,2123,A weather widget for Übersicht,CoffeeScript,https://github.com/felixhageloh/weather-widget
-998,gridy.js,65,4,65,0,26/11/2012,11/04/2016,718.00 KB,718,"Gridy.js is a library that can be used in SmartTV's apps. You can use it for carousels, grids, and sliders",CoffeeScript,https://github.com/ialpert/gridy.js
-999,i18njs,65,17,65,7,18/06/2013,26/02/2024,39.00 KB,39,Internationalisation library for JS projects,CoffeeScript,https://github.com/roddeh/i18njs
-1000,jim,65,3,65,7,05/06/2011,27/02/2012,1.03 MB,1056,Vim mode for Ace (Github & Cloud9's editor),CoffeeScript,https://github.com/misfo/jim
+993,voxel-mars,65,5,65,10,08/12/2013,12/11/2024,27.76 MB,28426,Global-scale reproduction of Mars on voxel.js,CoffeeScript,https://github.com/rachel-carvalho/voxel-mars
+994,atom-elm,65,22,65,18,25/10/2014,30/10/2018,416.00 KB,416,An atom package providing syntax highlighting and snippets for the Elm language.,CoffeeScript,https://github.com/edubkendo/atom-elm
+995,terminal-status,65,17,65,59,17/03/2014,30/07/2015,882.00 KB,882,Atom terminal status,CoffeeScript,https://github.com/guileen/terminal-status
+996,weather-widget,65,31,65,18,15/07/2014,02/04/2023,2.07 MB,2123,A weather widget for Übersicht,CoffeeScript,https://github.com/felixhageloh/weather-widget
+997,gridy.js,65,4,65,0,26/11/2012,11/04/2016,718.00 KB,718,"Gridy.js is a library that can be used in SmartTV's apps. You can use it for carousels, grids, and sliders",CoffeeScript,https://github.com/ialpert/gridy.js
+998,i18njs,65,17,65,7,18/06/2013,26/02/2024,39.00 KB,39,Internationalisation library for JS projects,CoffeeScript,https://github.com/roddeh/i18njs
+999,jim,65,3,65,7,05/06/2011,27/02/2012,1.03 MB,1056,Vim mode for Ace (Github & Cloud9's editor),CoffeeScript,https://github.com/misfo/jim
+1000,N1-Markdown-Composer,65,11,65,12,18/12/2015,03/03/2017,361.00 KB,361,An N1 plugin to write emails using markdown,CoffeeScript,https://github.com/nylas/N1-Markdown-Composer
