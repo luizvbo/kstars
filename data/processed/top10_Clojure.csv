@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,FiraCode,79949,3171,79949,416,11/11/2014,16/05/2025,88.20 MB,90315,Free monospaced font with programming ligatures,Clojure,https://github.com/tonsky/FiraCode
-2,metabase,43366,5816,43366,3852,02/02/2015,23/08/2025,1.22 GB,1275594,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:,Clojure,https://github.com/metabase/metabase
-3,penpot,39809,2140,39809,507,29/12/2015,22/08/2025,265.64 MB,272016,Penpot: The open-source design tool for design and code collaboration,Clojure,https://github.com/penpot/penpot
-4,logseq,38138,2273,38138,1282,23/05/2020,22/08/2025,139.00 MB,142336,"A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",Clojure,https://github.com/logseq/logseq
-5,LightTable,11710,916,11710,181,27/06/2012,17/06/2022,19.19 MB,19648,The Light Table IDE ⛺,Clojure,https://github.com/LightTable/LightTable
-6,clojurescript,9318,792,9318,8,20/07/2011,12/08/2025,18.54 MB,18983,Clojure to JS compiler,Clojure,https://github.com/clojure/clojurescript
-7,instant,9163,290,9163,12,19/08/2024,23/08/2025,20.28 MB,20763,Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.,Clojure,https://github.com/instantdb/instant
-8,leiningen,7292,1598,7292,97,01/11/2009,22/08/2025,7.35 MB,7531,Moved to Codeberg; this is a convenience mirror,Clojure,https://github.com/technomancy/leiningen
-9,jepsen,7138,734,7138,67,14/04/2013,06/08/2025,46.04 MB,47142,"A framework for distributed systems verification, with fault injection",Clojure,https://github.com/jepsen-io/jepsen
-10,om,6642,358,6642,80,11/12/2013,17/08/2020,2.13 MB,2181,ClojureScript interface to Facebook's React,Clojure,https://github.com/omcljs/om
+1,FiraCode,80016,3173,80016,416,11/11/2014,16/05/2025,88.20 MB,90315,Free monospaced font with programming ligatures,Clojure,https://github.com/tonsky/FiraCode
+2,metabase,43442,5822,43442,3828,02/02/2015,29/08/2025,1.23 GB,1285028,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:,Clojure,https://github.com/metabase/metabase
+3,penpot,40020,2167,40020,504,29/12/2015,29/08/2025,270.69 MB,277188,Penpot: The open-source design tool for design and code collaboration,Clojure,https://github.com/penpot/penpot
+4,logseq,38305,2280,38305,1273,23/05/2020,29/08/2025,139.40 MB,142741,"A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",Clojure,https://github.com/logseq/logseq
+5,LightTable,11711,916,11711,181,27/06/2012,17/06/2022,19.19 MB,19648,The Light Table IDE ⛺,Clojure,https://github.com/LightTable/LightTable
+6,clojurescript,9320,792,9320,8,20/07/2011,27/08/2025,18.71 MB,19155,Clojure to JS compiler,Clojure,https://github.com/clojure/clojurescript
+7,instant,9181,289,9181,12,19/08/2024,28/08/2025,38.53 MB,39456,Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.,Clojure,https://github.com/instantdb/instant
+8,leiningen,7294,1598,7294,97,01/11/2009,24/08/2025,7.34 MB,7518,Moved to Codeberg; this is a convenience mirror,Clojure,https://github.com/technomancy/leiningen
+9,jepsen,7145,735,7145,67,14/04/2013,06/08/2025,46.04 MB,47142,"A framework for distributed systems verification, with fault injection",Clojure,https://github.com/jepsen-io/jepsen
+10,om,6643,358,6643,80,11/12/2013,17/08/2020,2.13 MB,2181,ClojureScript interface to Facebook's React,Clojure,https://github.com/omcljs/om
