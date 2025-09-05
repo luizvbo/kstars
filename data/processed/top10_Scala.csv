@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,the-algorithm,63525,12161,63525,463,27/03/2023,10/07/2024,7.62 MB,7803,Source code for Twitter's Recommendation Algorithm,Scala,https://github.com/twitter/the-algorithm
-2,spark,41782,28756,41782,225,25/02/2014,29/08/2025,501.73 MB,513770,Apache Spark - A unified analytics engine for large-scale data processing,Scala,https://github.com/apache/spark
-3,lila,17029,2459,17029,1111,21/02/2012,29/08/2025,553.47 MB,566755,"♞ lichess.org: the forever free, adless and open source chess server ♞",Scala,https://github.com/lichess-org/lila
-4,prisma1,16463,852,16463,2,25/09/2016,01/09/2022,189.37 MB,193917,"💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",Scala,https://github.com/prisma/prisma1
-5,scala,14403,3108,14403,20,01/12/2011,29/08/2025,156.95 MB,160720,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,Scala,https://github.com/scala/scala
-6,akka,13206,3589,13206,895,16/02/2009,29/08/2025,275.64 MB,282260,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",Scala,https://github.com/akka/akka
-7,playframework,12584,4082,12584,474,07/09/2011,28/08/2025,110.02 MB,112656,The Community Maintained High Velocity Web Framework For Java and Scala.,Scala,https://github.com/playframework/playframework
+1,the-algorithm,63537,12160,63537,463,27/03/2023,10/07/2024,7.62 MB,7803,Source code for Twitter's Recommendation Algorithm,Scala,https://github.com/twitter/the-algorithm
+2,spark,41829,28777,41829,228,25/02/2014,05/09/2025,502.37 MB,514423,Apache Spark - A unified analytics engine for large-scale data processing,Scala,https://github.com/apache/spark
+3,lila,17060,2465,17060,1115,21/02/2012,05/09/2025,554.02 MB,567315,"♞ lichess.org: the forever free, adless and open source chess server ♞",Scala,https://github.com/lichess-org/lila
+4,prisma1,16461,852,16461,2,25/09/2016,01/09/2022,189.37 MB,193917,"💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",Scala,https://github.com/prisma/prisma1
+5,scala,14405,3108,14405,19,01/12/2011,03/09/2025,157.04 MB,160805,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,Scala,https://github.com/scala/scala
+6,akka,13207,3587,13207,896,16/02/2009,05/09/2025,275.64 MB,282260,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",Scala,https://github.com/akka/akka
+7,playframework,12583,4083,12583,476,07/09/2011,03/09/2025,110.07 MB,112707,The Community Maintained High Velocity Web Framework For Java and Scala.,Scala,https://github.com/playframework/playframework
 8,predictionio,12528,1923,12528,80,25/01/2013,09/01/2021,35.44 MB,36295,"PredictionIO, a machine learning server for developers and ML engineers.",Scala,https://github.com/apache/predictionio
-9,CMAK,11928,2498,11928,520,28/01/2015,02/08/2023,3.97 MB,4066,CMAK is a tool for managing Apache Kafka clusters,Scala,https://github.com/yahoo/CMAK
-10,bfg-repo-cleaner,11710,568,11710,275,21/12/2012,19/01/2025,1.95 MB,1992,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",Scala,https://github.com/rtyley/bfg-repo-cleaner
+9,CMAK,11929,2498,11929,520,28/01/2015,02/08/2023,3.97 MB,4066,CMAK is a tool for managing Apache Kafka clusters,Scala,https://github.com/yahoo/CMAK
+10,bfg-repo-cleaner,11725,568,11725,275,21/12/2012,19/01/2025,1.95 MB,1992,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",Scala,https://github.com/rtyley/bfg-repo-cleaner
