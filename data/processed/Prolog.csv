@@ -1,28 +1,28 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,open-source-rover,8906,1408,8906,17,29/06/2018,16/07/2025,2.94 GB,3084678,"A build-it-yourself, 6-wheel rover based on the rovers on Mars!",Prolog,https://github.com/nasa-jpl/open-source-rover
-2,terminusdb,3048,120,3048,30,23/07/2019,21/07/2025,13.44 MB,13764,"TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.",Prolog,https://github.com/terminusdb/terminusdb
-3,pslab-hardware,1672,94,1672,18,28/03/2017,21/06/2024,135.22 MB,138467,PSLab Hardware Design and Schematics https://pslab.io,Prolog,https://github.com/fossasia/pslab-hardware
-4,OnBoard,925,1096,925,25,30/04/2023,31/05/2025,749.96 MB,767964," 💡 Join 1,000 teenagers and make your first PCB with a $100 grant!",Prolog,https://github.com/hackclub/OnBoard
-5,stixfonts,831,45,831,87,06/04/2018,17/03/2025,167.70 MB,171727,"OpenType Unicode fonts for Scientific, Technical, and Mathematical texts",Prolog,https://github.com/stipub/stixfonts
+1,open-source-rover,8923,1412,8923,17,29/06/2018,16/07/2025,2.94 GB,3084678,"A build-it-yourself, 6-wheel rover based on the rovers on Mars!",Prolog,https://github.com/nasa-jpl/open-source-rover
+2,terminusdb,3051,120,3051,30,23/07/2019,21/07/2025,13.44 MB,13764,"TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.",Prolog,https://github.com/terminusdb/terminusdb
+3,pslab-hardware,1673,94,1673,18,28/03/2017,21/06/2024,135.22 MB,138467,PSLab Hardware Design and Schematics https://pslab.io,Prolog,https://github.com/fossasia/pslab-hardware
+4,OnBoard,924,1095,924,23,30/04/2023,31/05/2025,749.96 MB,767964," 💡 Join 1,000 teenagers and make your first PCB with a $100 grant!",Prolog,https://github.com/hackclub/OnBoard
+5,stixfonts,833,47,833,87,06/04/2018,17/03/2025,167.70 MB,171727,"OpenType Unicode fonts for Scientific, Technical, and Mathematical texts",Prolog,https://github.com/stipub/stixfonts
 6,prolog-examples,610,178,610,4,18/10/2012,04/11/2022,87.00 KB,87,Some simple examples for new Prolog programmers,Prolog,https://github.com/Anniepoo/prolog-examples
 7,stabilizer,579,47,579,7,28/04/2012,29/09/2021,29.49 MB,30194,Stabilizer: Rigorous Performance Evaluation,Prolog,https://github.com/ccurtsinger/stabilizer
-8,the-constitution-of-japan,549,6,549,2,02/09/2015,23/02/2016,40.00 KB,40,,Prolog,https://github.com/bitlaw-jp/the-constitution-of-japan
+8,the-constitution-of-japan,550,6,550,2,02/09/2015,23/02/2016,40.00 KB,40,,Prolog,https://github.com/bitlaw-jp/the-constitution-of-japan
 9,swish,536,133,536,42,09/09/2014,26/08/2025,4.80 MB,4911,SWI-Prolog for SHaring: a SWI-Prolog web IDE,Prolog,https://github.com/SWI-Prolog/swish
-10,logtalk3,464,34,464,11,17/08/2012,04/09/2025,1.04 GB,1091654,Logtalk - declarative object-oriented logic programming language,Prolog,https://github.com/LogtalkDotOrg/logtalk3
+10,logtalk3,464,34,464,11,17/08/2012,11/09/2025,1.04 GB,1092938,Logtalk - declarative object-oriented logic programming language,Prolog,https://github.com/LogtalkDotOrg/logtalk3
 11,marelle,389,23,389,3,08/05/2013,22/09/2018,95.00 KB,95,Test-driven system administration with a little extra logic.,Prolog,https://github.com/larsyencken/marelle
 12,weed,348,35,348,6,13/03/2012,13/11/2024,4.58 MB,4689,Heavily Xchat inspired beautiful irssi theme.,Prolog,https://github.com/ronilaukkarinen/weed
-13,elpi,324,38,324,50,20/03/2017,03/09/2025,43.59 MB,44636,Embeddable Lambda Prolog Interpreter,Prolog,https://github.com/LPCIC/elpi
+13,elpi,326,38,326,51,20/03/2017,11/09/2025,43.59 MB,44638,Embeddable Lambda Prolog Interpreter,Prolog,https://github.com/LPCIC/elpi
 14,ciao,312,24,312,43,07/12/2015,21/06/2025,15.69 MB,16065,"Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.",Prolog,https://github.com/ciao-lang/ciao
-15,learn-prolog-now-exercises,291,87,291,10,21/06/2012,11/07/2023,86.00 KB,86,"My solutions to the exercises and practical sessions of the book 'Learn Prolog Now!' by Patrick Blackburn, Johan Bos, and Kristina Striegnitz.",Prolog,https://github.com/dragonwasrobot/learn-prolog-now-exercises
-16,plwm,279,6,279,33,10/11/2023,10/08/2025,1.32 MB,1349,An X11 window manager written in Prolog,Prolog,https://github.com/Seeker04/plwm
+15,learn-prolog-now-exercises,290,87,290,10,21/06/2012,11/07/2023,86.00 KB,86,"My solutions to the exercises and practical sessions of the book 'Learn Prolog Now!' by Patrick Blackburn, Johan Bos, and Kristina Striegnitz.",Prolog,https://github.com/dragonwasrobot/learn-prolog-now-exercises
+16,plwm,281,6,281,33,10/11/2023,10/08/2025,1.32 MB,1349,An X11 window manager written in Prolog,Prolog,https://github.com/Seeker04/plwm
 17,datalog,272,24,272,1,24/12/2012,17/10/2024,2.19 MB,2239,An in-memory datalog implementation for OCaml.,Prolog,https://github.com/c-cube/datalog
 18,tar.pl,262,7,262,0,18/01/2023,22/01/2023,16.00 KB,16,tar creator+extractor in ~100 lines of prolog,Prolog,https://github.com/SuperDisk/tar.pl
 19,esplay_micro_hardware,249,51,249,1,04/04/2019,26/11/2019,17.05 MB,17464,"Micro version of esplay hardware, ESP32 based gaming console",Prolog,https://github.com/pebri86/esplay_micro_hardware
 20,FontPro,240,44,240,19,02/11/2010,25/08/2017,5.14 MB,5266,"LaTeX support for Adobe's Pro opentype fonts: Minion Pro, Myriad Pro, Cronos Pro and possibly more",Prolog,https://github.com/sebschub/FontPro
-21,COOLFluiD,239,78,239,11,23/09/2014,13/08/2025,1.37 GB,1437116,"The object-oriented HPC platform for CFD, plasma and multi-physics simulations whose development started in 2002 at the Von Karman Institute for Fluid Dynamics is finally open!",Prolog,https://github.com/andrealani/COOLFluiD
-22,clpz,206,15,206,27,17/04/2016,05/02/2024,1.04 MB,1062,Constraint Logic Programming over Integers,Prolog,https://github.com/triska/clpz
-23,APE,205,28,205,16,21/11/2011,21/04/2024,3.74 MB,3827,Parser for Attempto Controlled English (ACE),Prolog,https://github.com/Attempto/APE
-24,metagol,204,28,204,3,09/12/2015,13/09/2021,218.00 KB,218,Metagol - an inductive logic programming system,Prolog,https://github.com/metagol/metagol
+21,COOLFluiD,240,78,240,11,23/09/2014,13/08/2025,1.37 GB,1437116,"The object-oriented HPC platform for CFD, plasma and multi-physics simulations whose development started in 2002 at the Von Karman Institute for Fluid Dynamics is finally open!",Prolog,https://github.com/andrealani/COOLFluiD
+22,clpz,206,15,206,28,17/04/2016,05/02/2024,1.04 MB,1062,Constraint Logic Programming over Integers,Prolog,https://github.com/triska/clpz
+23,APE,204,28,204,16,21/11/2011,21/04/2024,3.74 MB,3827,Parser for Attempto Controlled English (ACE),Prolog,https://github.com/Attempto/APE
+24,metagol,204,29,204,3,09/12/2015,13/09/2021,218.00 KB,218,Metagol - an inductive logic programming system,Prolog,https://github.com/metagol/metagol
 25,iPad3_lcd,199,50,199,1,21/04/2013,01/06/2013,210.00 KB,210,A PCB for attaching an iPad retina LCD to a DisplayPort source,Prolog,https://github.com/Emeryth/iPad3_lcd
 26,prolog_notes,189,26,189,3,18/08/2019,29/11/2023,19.30 MB,19764,Some notes taken while working on Prolog,Prolog,https://github.com/dtonhofer/prolog_notes
 27,StrangeLoop2014,188,58,188,1,06/08/2014,25/10/2014,246.35 MB,252260,Strange Loop 2014 archives,Prolog,https://github.com/strangeloop/StrangeLoop2014
@@ -31,7 +31,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 30,c_plus_prolog,165,4,165,0,26/01/2025,11/03/2025,94.00 KB,94,C plus Prolog,Prolog,https://github.com/needleful/c_plus_prolog
 31,simply-logical,161,25,161,3,08/10/2015,17/12/2024,13.67 MB,13996,"Online, interactive edition of the ""Simply Logical"" Prolog textbook",Prolog,https://github.com/simply-logical/simply-logical
 32,xsd2json,154,29,154,20,17/04/2014,23/01/2023,3.06 MB,3137,Translate XML Schema into equivalent JSON Schema,Prolog,https://github.com/fnogatz/xsd2json
-33,eye,152,19,152,19,09/05/2019,04/09/2025,229.55 MB,235061,Euler Yet another proof Engine,Prolog,https://github.com/eyereasoner/eye
+33,eye,152,19,152,19,09/05/2019,11/09/2025,228.65 MB,234136,Euler Yet another proof Engine,Prolog,https://github.com/eyereasoner/eye
 34,lisprolog,148,12,148,0,12/09/2014,22/02/2023,9.00 KB,9,Interpreter for a simple Lisp. Written in Prolog.,Prolog,https://github.com/triska/lisprolog
 35,Miniscope-v4,142,29,142,8,25/04/2019,09/08/2023,97.66 MB,100008,All things Miniscope v4,Prolog,https://github.com/Aharoni-Lab/Miniscope-v4
 36,Niz-Plum-84EC-S-Pro-Ble-Non-RGB-manual,130,24,130,3,17/10/2017,04/02/2021,10.48 MB,10728,Translated English Manual for Niz Plum 84EC(S) Pro-Ble Non RGB manual keyboard,Prolog,https://github.com/jgilfillan/Niz-Plum-84EC-S-Pro-Ble-Non-RGB-manual
@@ -48,7 +48,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 47,twitchcoq,110,19,110,1,06/10/2019,01/08/2020,284.00 KB,284,It's a poorly named metamath verifier,Prolog,https://github.com/geohot/twitchcoq
 48,biomake,109,9,109,27,10/09/2011,14/11/2023,960.00 KB,960,GNU-Make-like utility for managing builds and complex workflows,Prolog,https://github.com/evoldoers/biomake
 49,Eagle-Tutorial-Series,106,105,106,2,09/06/2012,10/10/2013,902.00 KB,902,These are the supporting materials for my series of tutorials on using the Eagle CAD software for PCB design.,Prolog,https://github.com/sciguy14/Eagle-Tutorial-Series
-50,hardware,106,24,106,1,12/01/2016,07/07/2019,14.31 MB,14650,"OBD-II CAN adapter for Particle Electron, Photon, and RedBear Duo",Prolog,https://github.com/carloop/hardware
+50,hardware,105,24,105,1,12/01/2016,07/07/2019,14.31 MB,14650,"OBD-II CAN adapter for Particle Electron, Photon, and RedBear Duo",Prolog,https://github.com/carloop/hardware
 51,BH_OnOfre,102,25,102,2,01/12/2017,25/02/2021,16.29 MB,16682,"O projeto BH OnOfre, é uma solução IoT baseada em ESP8266 com o objetivo de tornar a automação domiciliar muito mais simples, de forma aberta e sem restrições. Todo o código fonte é aberto bem como Hardware.",Prolog,https://github.com/brunohorta82/BH_OnOfre
 52,postgresql-prolog,102,4,102,1,26/09/2021,01/05/2024,43.00 KB,43,A Prolog library to connect to PostgreSQL databases,Prolog,https://github.com/aarroyoc/postgresql-prolog
 53,Prolog-Adventure-game,101,2,101,0,16/04/2022,14/08/2023,7.00 KB,7,Text Adventure game in SWI Prolog.,Prolog,https://github.com/stefanrodrigues2/Prolog-Adventure-game
@@ -56,16 +56,16 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 55,Reconcobra,99,134,99,3,15/06/2019,23/06/2020,511.00 KB,511,Ultimate Recon Software for Information Gathering,Prolog,https://github.com/HackerUniverse/Reconcobra
 56,csplib,97,72,97,13,07/11/2013,03/08/2025,162.98 MB,166893,A benchmark library for constraints,Prolog,https://github.com/csplib/csplib
 57,Gleemin,95,10,95,0,17/12/2011,27/01/2012,248.00 KB,248,A Magic: the Gathering™ expert system,Prolog,https://github.com/stassa/Gleemin
-58,prolog_library_collection,88,14,88,0,16/04/2013,31/08/2024,8.05 MB,8245,A collection of Prolog libraries.,Prolog,https://github.com/wouterbeek/prolog_library_collection
-59,Unreal-testing,87,3,87,105,29/08/2020,30/11/2024,1.35 GB,1411428,OU 227 testing,Prolog,https://github.com/OldUnreal/Unreal-testing
+58,Unreal-testing,89,3,89,104,29/08/2020,30/11/2024,1.35 GB,1411428,OU 227 testing,Prolog,https://github.com/OldUnreal/Unreal-testing
+59,prolog_library_collection,88,14,88,0,16/04/2013,31/08/2024,8.05 MB,8245,A collection of Prolog libraries.,Prolog,https://github.com/wouterbeek/prolog_library_collection
 60,ParZu,86,23,86,2,09/09/2011,27/08/2025,4.76 MB,4879,The Zurich Dependency Parser for German,Prolog,https://github.com/rsennrich/ParZu
 61,bedrock,85,78,85,13,02/05/2017,02/09/2025,3.09 MB,3161,Bedrock is TM1 Best Practice assets built from years of TM1 experience,Prolog,https://github.com/cubewise-code/bedrock
 62,Config,79,0,79,0,10/09/2023,23/08/2025,229.82 MB,235334,,Prolog,https://github.com/luyu-wu/Config
 63,mixologician,78,1,78,0,19/03/2021,10/01/2022,81.00 KB,81,optimize your home bar with ✨logic programming✨,Prolog,https://github.com/ianthehenry/mixologician
-64,cplint,77,14,77,0,09/11/2014,17/07/2025,37.25 MB,38148,cplint is a suite of programs for reasoning with probabilistic logic programs,Prolog,https://github.com/friguzzi/cplint
-65,prolog-rands,75,34,75,0,13/01/2015,26/12/2018,10.00 KB,10,random stuff in prolog ,Prolog,https://github.com/xmonader/prolog-rands
+64,cplint,77,15,77,0,09/11/2014,17/07/2025,37.25 MB,38148,cplint is a suite of programs for reasoning with probabilistic logic programs,Prolog,https://github.com/friguzzi/cplint
+65,prolog-rands,76,34,76,0,13/01/2015,26/12/2018,10.00 KB,10,random stuff in prolog ,Prolog,https://github.com/xmonader/prolog-rands
 66,PrologCheatSheet,74,5,74,0,25/05/2019,16/09/2020,1.18 MB,1209,Basics of relational programming with Prolog —PROgramming in LOGic ^_^,Prolog,https://github.com/alhassy/PrologCheatSheet
-67,OpenSprinkler-Hardware,72,40,72,1,06/06/2017,12/05/2025,4.66 MB,4774,OpenSprinkler Hardware Design files,Prolog,https://github.com/OpenSprinkler/OpenSprinkler-Hardware
+67,OpenSprinkler-Hardware,72,40,72,1,06/06/2017,07/09/2025,4.67 MB,4781,OpenSprinkler Hardware Design files,Prolog,https://github.com/OpenSprinkler/OpenSprinkler-Hardware
 68,GoT-Check,71,13,71,0,26/03/2019,15/04/2019,38.00 KB,38,:crossed_swords: Game of Thrones character database and family trees in Prolog,Prolog,https://github.com/rachelwiles/GoT-Check
 69,SemRep,69,14,69,8,22/07/2019,31/05/2022,148.95 MB,152528,,Prolog,https://github.com/LHNCBC/SemRep
 70,spectector,68,10,68,0,20/12/2018,14/07/2021,134.00 KB,134,Automatic detection of speculative information flows,Prolog,https://github.com/spectector/spectector
@@ -86,9 +86,9 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 85,ChiPFormer,48,12,48,4,18/05/2023,21/06/2024,39.40 MB,40350,The release for ICML 2023 paper,Prolog,https://github.com/laiyao1/ChiPFormer
 86,lpnes,47,11,47,0,25/01/2015,01/02/2015,276.00 KB,276,Learn Prolog Now! Proper and elegant exercise solutions,Prolog,https://github.com/mrkkrp/lpnes
 87,sparqlprog,47,7,47,5,27/01/2018,16/01/2023,481.00 KB,481,logic programming with SPARQL,Prolog,https://github.com/cmungall/sparqlprog
-88,clpb,46,6,46,0,06/08/2014,08/12/2024,312.00 KB,312,Boolean Constraint Solving in Prolog,Prolog,https://github.com/triska/clpb
-89,prolongo,46,9,46,2,08/01/2011,04/04/2018,4.86 MB,4972,MongoDB Driver for Prolog,Prolog,https://github.com/khueue/prolongo
-90,EveOnlineMiningYield,46,6,46,0,20/01/2019,22/01/2022,764.00 KB,764,formulars and numbers for mining yield in Eve Online,Prolog,https://github.com/Wilm0rien/EveOnlineMiningYield
+88,EveOnlineMiningYield,47,6,47,0,20/01/2019,22/01/2022,764.00 KB,764,formulars and numbers for mining yield in Eve Online,Prolog,https://github.com/Wilm0rien/EveOnlineMiningYield
+89,clpb,46,6,46,0,06/08/2014,08/12/2024,312.00 KB,312,Boolean Constraint Solving in Prolog,Prolog,https://github.com/triska/clpb
+90,prolongo,46,9,46,2,08/01/2011,04/04/2018,4.86 MB,4972,MongoDB Driver for Prolog,Prolog,https://github.com/khueue/prolongo
 91,expert-systems,46,22,46,1,15/03/2015,02/08/2016,9.00 KB,9,"A basic expert system, written in Prolog, that suggests what programming language one should learn first.",Prolog,https://github.com/linkyndy/expert-systems
 92,clpBNR,44,8,44,4,09/03/2018,09/05/2025,3.66 MB,3743,CLP(BNR) module for SWI-Prolog,Prolog,https://github.com/ridgeworks/clpBNR
 93,prolog-dry,43,3,43,0,14/03/2017,14/02/2019,581.00 KB,581,A terse Prolog course,Prolog,https://github.com/norswap/prolog-dry
@@ -97,23 +97,23 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 96,Expert-Systems-Guide,42,5,42,0,12/09/2021,09/01/2022,153.00 KB,153,Expert Systems Guide ,Prolog,https://github.com/mikeroyal/Expert-Systems-Guide
 97,pusheenz40,41,3,41,0,20/12/2023,05/02/2024,18.70 MB,19144,A pocket keyboard that uses SMD mouse switches. Low profile and easy to assemble,Prolog,https://github.com/ChrisChrisLoLo/pusheenz40
 98,prolog-for-dummies,41,1,41,2,20/09/2020,28/09/2021,4.24 MB,4343,,Prolog,https://github.com/Vulwsztyn/prolog-for-dummies
-99,Physical_Design_Automation,40,5,40,0,04/11/2020,26/05/2025,47.52 MB,48657,"2019 NTHU CS6135 (CS613500) VLSI Physical Design Automation Course Projects (include Two-way Min-cut Partitioning, Fixed-outline Slicing Floorplan Design, Placement Legalization, Global Routing)",Prolog,https://github.com/EricLu1218/Physical_Design_Automation
+99,Physical_Design_Automation,40,5,40,0,04/11/2020,07/09/2025,47.52 MB,48660,"NTHU CS6135 VLSI Physical Design Automation Course Projects (include Two-way Min-cut Partitioning, Fixed-outline Slicing Floorplan Design, Placement Legalization, Global Routing)",Prolog,https://github.com/EricLu1218/Physical_Design_Automation
 100,Bridges-Puzzle-Solver,39,0,39,0,16/10/2024,30/07/2025,24.00 KB,24,,Prolog,https://github.com/KevenJAntenor/Bridges-Puzzle-Solver
-101,MCSLI,39,11,39,1,03/12/2014,19/01/2015,91.29 MB,93480,A simple minecraft server installer for Linux,Prolog,https://github.com/jbschooley/MCSLI
-102,DALI,39,11,39,18,25/07/2014,04/09/2025,11.23 MB,11503,DALI Multi Agent System Framework,Prolog,https://github.com/AAAI-DISIM-UnivAQ/DALI
-103,owl-verbalizer,39,7,39,10,18/09/2013,01/10/2023,2.63 MB,2693,OWL verbalizer: making machine-readable knowledge also human-readable,Prolog,https://github.com/Kaljurand/owl-verbalizer
-104,BigMAC,39,14,39,5,02/12/2019,29/09/2023,22.24 MB,22777,BigMAC: Analysis tool to introspect and query Android security policies.,Prolog,https://github.com/FICS/BigMAC
-105,Motorized-Fader-as-DAW-Mixer-Controller-BOARD-DESIGN-,39,4,39,0,18/12/2020,18/12/2020,60.00 KB,60,,Prolog,https://github.com/fcampanini/Motorized-Fader-as-DAW-Mixer-Controller-BOARD-DESIGN-
-106,letswicrypt,38,3,38,1,06/05/2016,11/02/2018,27.00 KB,27,Prolog HTTPS Servers,Prolog,https://github.com/triska/letswicrypt
-107,Prolog-Graphplan,38,3,38,2,26/09/2011,25/01/2015,152.00 KB,152,"The Graphplan algorithm is an automatic planning algorithm that can compute, given a set of rules, a plan of action to go from an initial state to a final state.  This project provides an open source (GPL v3) implementation of this planner in Prolog.",Prolog,https://github.com/Mortimerp9/Prolog-Graphplan
+101,DALI,39,11,39,17,25/07/2014,10/09/2025,11.53 MB,11806,DALI Multi Agent System Framework,Prolog,https://github.com/AAAI-DISIM-UnivAQ/DALI
+102,owl-verbalizer,39,7,39,10,18/09/2013,01/10/2023,2.63 MB,2693,OWL verbalizer: making machine-readable knowledge also human-readable,Prolog,https://github.com/Kaljurand/owl-verbalizer
+103,BigMAC,39,14,39,5,02/12/2019,29/09/2023,22.24 MB,22777,BigMAC: Analysis tool to introspect and query Android security policies.,Prolog,https://github.com/FICS/BigMAC
+104,Motorized-Fader-as-DAW-Mixer-Controller-BOARD-DESIGN-,39,4,39,0,18/12/2020,18/12/2020,60.00 KB,60,,Prolog,https://github.com/fcampanini/Motorized-Fader-as-DAW-Mixer-Controller-BOARD-DESIGN-
+105,letswicrypt,38,3,38,1,06/05/2016,11/02/2018,27.00 KB,27,Prolog HTTPS Servers,Prolog,https://github.com/triska/letswicrypt
+106,Prolog-Graphplan,38,3,38,2,26/09/2011,25/01/2015,152.00 KB,152,"The Graphplan algorithm is an automatic planning algorithm that can compute, given a set of rules, a plan of action to go from an initial state to a final state.  This project provides an open source (GPL v3) implementation of this planner in Prolog.",Prolog,https://github.com/Mortimerp9/Prolog-Graphplan
+107,MCSLI,38,11,38,1,03/12/2014,19/01/2015,91.29 MB,93480,A simple minecraft server installer for Linux,Prolog,https://github.com/jbschooley/MCSLI
 108,enunciados-miercoles-noche,37,32,37,2,01/02/2019,29/08/2025,39.57 MB,40524,"Repositorio donde guardaremos las cosas que necesitemos para la cursada del miércoles a la noche, curso original",Prolog,https://github.com/pdep-utn/enunciados-miercoles-noche
 109,SHAP_FOLD,37,9,37,0,07/06/2019,28/03/2020,7.48 MB,7661,(Explainable AI) - Learning  Non-Monotonic Logic Programs From Statistical Models Using High-Utility Itemset Mining,Prolog,https://github.com/fxs130430/SHAP_FOLD
-110,LIT-Eagle,37,60,37,0,13/07/2012,16/01/2013,11.71 MB,11990,holds all eagle files - projects and libraries,Prolog,https://github.com/kernd/LIT-Eagle
-111,Embedded_Hardware,36,8,36,1,22/01/2014,01/04/2019,5.98 MB,6124,"Eagle files, gerbers, BOMs, etc",Prolog,https://github.com/The-Public-Radio/Embedded_Hardware
-112,aop,36,12,36,1,30/11/2016,28/08/2019,79.00 KB,79,Art of Prolog Code,Prolog,https://github.com/npe9/aop
-113,LogicalEnglish,35,6,35,14,24/11/2021,29/08/2025,6.87 MB,7033,,Prolog,https://github.com/LogicalContracts/LogicalEnglish
-114,openPSU,35,20,35,1,24/12/2014,10/11/2021,4.43 MB,4536,An open source linear power supply unit for hobbyists and professionals,Prolog,https://github.com/mrkindustries/openPSU
-115,void-pi,35,4,35,4,09/03/2023,17/07/2024,519.00 KB,519,Void Linux installer implemented in GNU Prolog.,Prolog,https://github.com/sdbtools/void-pi
+110,void-pi,37,4,37,4,09/03/2023,17/07/2024,519.00 KB,519,Void Linux installer implemented in GNU Prolog.,Prolog,https://github.com/sdbtools/void-pi
+111,LIT-Eagle,37,60,37,0,13/07/2012,16/01/2013,11.71 MB,11990,holds all eagle files - projects and libraries,Prolog,https://github.com/kernd/LIT-Eagle
+112,Embedded_Hardware,36,8,36,1,22/01/2014,01/04/2019,5.98 MB,6124,"Eagle files, gerbers, BOMs, etc",Prolog,https://github.com/The-Public-Radio/Embedded_Hardware
+113,aop,36,12,36,1,30/11/2016,28/08/2019,79.00 KB,79,Art of Prolog Code,Prolog,https://github.com/npe9/aop
+114,LogicalEnglish,35,6,35,14,24/11/2021,05/09/2025,7.04 MB,7206,,Prolog,https://github.com/LogicalContracts/LogicalEnglish
+115,openPSU,35,20,35,1,24/12/2014,10/11/2021,4.43 MB,4536,An open source linear power supply unit for hobbyists and professionals,Prolog,https://github.com/mrkindustries/openPSU
 116,MPU-6050_Breakout,34,19,34,0,12/06/2013,27/06/2025,339.00 KB,339,"MPU-6050 TriAxis Accelerometer and Gyroscope, available from SparkFun Electronics",Prolog,https://github.com/sparkfun/MPU-6050_Breakout
 117,swipldcgtut,34,8,34,16,30/08/2012,08/02/2021,87.00 KB,87,A tutorial for DCG's in swi-Prolog,Prolog,https://github.com/Anniepoo/swipldcgtut
 118,ytuce-files,34,17,34,0,17/11/2018,06/04/2019,1.81 GB,1899508,https://www.ce.yildiz.edu.tr/ sitesindeki bütün hocalarin dosyalari,Prolog,https://github.com/ytuozguryazilim/ytuce-files
@@ -123,11 +123,11 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 122,TypesAndProofs,33,4,33,1,28/04/2018,22/05/2024,4.01 MB,4104,Type inference algorithms and intuitionistic propositional theorem provers solving type inhabitation problems,Prolog,https://github.com/ptarau/TypesAndProofs
 123,Prolog,33,15,33,0,05/02/2013,23/04/2013,149.00 KB,149,Example Problems and Assignments for Prolog,Prolog,https://github.com/Duke-PL-Course/Prolog
 124,irssi-powerline,33,1,33,6,23/04/2014,06/06/2017,242.00 KB,242,Powerline theme for IRSSI,Prolog,https://github.com/darac/irssi-powerline
-125,simple-template,32,9,32,3,26/11/2013,14/03/2020,82.00 KB,82,Text templating processor for SWI-Prolog.,Prolog,https://github.com/rla/simple-template
-126,packages-semweb,32,15,32,26,25/04/2014,01/09/2025,7.92 MB,8106,The SWI-Prolog RDF store,Prolog,https://github.com/SWI-Prolog/packages-semweb
-127,MobilECG-II,32,126,32,0,03/01/2015,05/10/2014,34.27 MB,35088,Open source ECG holter,Prolog,https://github.com/openmeddev/MobilECG-II
-128,prolog,31,45,31,7,04/10/2016,01/09/2025,861.00 KB,861,Exercism exercises in Prolog.,Prolog,https://github.com/exercism/prolog
-129,lefdef_util,31,7,31,1,16/10/2018,15/08/2019,34.47 MB,35293,A LEF/DEF Utility.,Prolog,https://github.com/jinwookjungs/lefdef_util
+125,lefdef_util,32,7,32,1,16/10/2018,15/08/2019,34.47 MB,35293,A LEF/DEF Utility.,Prolog,https://github.com/jinwookjungs/lefdef_util
+126,simple-template,32,9,32,3,26/11/2013,14/03/2020,82.00 KB,82,Text templating processor for SWI-Prolog.,Prolog,https://github.com/rla/simple-template
+127,packages-semweb,32,15,32,26,25/04/2014,09/09/2025,7.92 MB,8106,The SWI-Prolog RDF store,Prolog,https://github.com/SWI-Prolog/packages-semweb
+128,MobilECG-II,32,126,32,0,03/01/2015,05/10/2014,34.27 MB,35088,Open source ECG holter,Prolog,https://github.com/openmeddev/MobilECG-II
+129,prolog,31,45,31,7,04/10/2016,01/09/2025,861.00 KB,861,Exercism exercises in Prolog.,Prolog,https://github.com/exercism/prolog
 130,NephroDoctor,31,2,31,0,18/05/2018,11/07/2018,22.00 KB,22, NephroDoctor: A simple Medical Expert System written in Prolog,Prolog,https://github.com/nicoladileo/NephroDoctor
 131,code,31,1,31,0,03/08/2022,11/03/2023,10.22 MB,10464,,Prolog,https://github.com/prologbyexample/code
 132,httppl,30,5,30,0,12/11/2016,22/11/2016,1.00 KB,1,A simple http server written in Prolog,Prolog,https://github.com/jamesbvaughan/httppl
@@ -135,36 +135,36 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 134,nus-cpu,30,3,30,0,13/12/2016,14/12/2020,68.14 MB,69779,This tends to re-create Nintendo 64 schematics and lay out a board suitable for portable version,Prolog,https://github.com/dmkfasi/nus-cpu
 135,Clex,30,7,30,0,03/10/2013,05/11/2018,632.00 KB,632,"Large lexicon for APE (~100,000 entries)",Prolog,https://github.com/Attempto/Clex
 136,wordnet-prolog,30,7,30,0,05/07/2017,24/02/2024,93.55 MB,95791,Prolog versions of the WordNet databases,Prolog,https://github.com/ekaf/wordnet-prolog
-137,simsttab,29,12,29,3,27/10/2014,12/07/2024,36.00 KB,36,Simple timetabling engine for schools,Prolog,https://github.com/triska/simsttab
-138,PRESS,29,7,29,1,02/09/2016,02/09/2016,335.00 KB,335,PRolog Equation Solving System,Prolog,https://github.com/maths/PRESS
-139,precautionary,28,5,28,3,12/05/2021,01/02/2022,43.75 MB,44797,"Patient-centered safety diagnostics for oncology dose-escalation trials, examining design safety in light of inter-individual variation in PKPD.",Prolog,https://github.com/dcnorris/precautionary
+137,precautionary,29,5,29,3,12/05/2021,01/02/2022,43.75 MB,44797,"Patient-centered safety diagnostics for oncology dose-escalation trials, examining design safety in light of inter-individual variation in PKPD.",Prolog,https://github.com/dcnorris/precautionary
+138,simsttab,29,12,29,3,27/10/2014,12/07/2024,36.00 KB,36,Simple timetabling engine for schools,Prolog,https://github.com/triska/simsttab
+139,PRESS,29,7,29,1,02/09/2016,02/09/2016,335.00 KB,335,PRolog Equation Solving System,Prolog,https://github.com/maths/PRESS
 140,prologmud,28,6,28,0,25/02/2017,06/02/2022,428.00 KB,428,MUD Server written in Prolog using Forward chaining,Prolog,https://github.com/logicmoo/prologmud
 141,doclog,28,3,28,12,18/09/2022,29/12/2024,47.00 KB,47,DocLog builds documentation from source code in Prolog,Prolog,https://github.com/aarroyoc/doclog
 142,Jds-040-Usb-C,27,0,27,3,02/08/2023,07/04/2025,5.13 MB,5257,Custom pcb to replace Dualshock 4's micro b  port with usb c (PD compatible),Prolog,https://github.com/DoganM95/Jds-040-Usb-C
 143,prolog,27,7,27,5,18/04/2014,01/09/2019,9.99 MB,10234,Prolog stuff,Prolog,https://github.com/samer--/prolog
 144,julian,27,3,27,10,11/10/2013,08/03/2021,78.00 KB,78,Date and time library for Prolog,Prolog,https://github.com/fifth-postulate/julian
 145,stabilizer,26,3,26,9,14/09/2022,15/08/2023,29.54 MB,30247,Stabilizer: Rigorous Performance Evaluation,Prolog,https://github.com/Dead2/stabilizer
-146,packages-chr,26,12,26,5,25/04/2014,01/09/2025,1.02 MB,1047,CHR: Leuven Constraint Handling Rules,Prolog,https://github.com/SWI-Prolog/packages-chr
-147,LearnSAT,26,4,26,0,25/02/2018,01/11/2022,1.89 MB,1939,SAT solver for education,Prolog,https://github.com/motib/LearnSAT
-148,wumpus-prolog,26,33,26,1,21/03/2012,21/09/2018,19.00 KB,19,Prolog Implementation of Wumpus World,Prolog,https://github.com/rlegendi/wumpus-prolog
-149,plog,26,1,26,0,18/02/2019,03/02/2024,6.26 MB,6409,"A bare-bones blogging system, written in Prolog",Prolog,https://github.com/oblivia-simplex/plog
-150,ArchBspwm,26,1,26,0,15/08/2024,30/05/2025,27.71 MB,28377,My Arch linux Bspwm  dotfiles,Prolog,https://github.com/k0lp0na/ArchBspwm
-151,CORGI,26,3,26,1,17/06/2020,18/06/2020,26.51 MB,27150,Conversational Neuro-Symbolic Commonsense Reasoning,Prolog,https://github.com/ForoughA/CORGI
-152,gotalog,26,4,26,0,20/01/2017,21/09/2020,759.00 KB,759,"Golang implementation of datalog, port of MITRE corporation's lua implementation",Prolog,https://github.com/amzuko/gotalog
-153,packages-http,26,26,26,21,25/04/2014,01/09/2025,7.39 MB,7570,The SWI-Prolog HTTP server and client libraries,Prolog,https://github.com/SWI-Prolog/packages-http
-154,blipkit,26,3,26,6,13/05/2010,28/08/2016,12.18 MB,12470,biological logic programming toolkit,Prolog,https://github.com/cmungall/blipkit
-155,artemis-hardware,25,7,25,1,04/08/2020,17/04/2024,111.93 MB,114620,"Hardware design resources for the Artemis Kit, an affordable 1U CubeSat that encompasses all the essential subsystems of a fully operational passive small satellite, commonly known as a smallsat.",Prolog,https://github.com/hsfl/artemis-hardware
+146,artemis-hardware,26,7,26,1,04/08/2020,17/04/2024,111.93 MB,114620,"Hardware design resources for the Artemis Kit, an affordable 1U CubeSat that encompasses all the essential subsystems of a fully operational passive small satellite, commonly known as a smallsat.",Prolog,https://github.com/hsfl/artemis-hardware
+147,packages-chr,26,12,26,5,25/04/2014,09/09/2025,1.02 MB,1047,CHR: Leuven Constraint Handling Rules,Prolog,https://github.com/SWI-Prolog/packages-chr
+148,LearnSAT,26,4,26,0,25/02/2018,01/11/2022,1.89 MB,1939,SAT solver for education,Prolog,https://github.com/motib/LearnSAT
+149,wumpus-prolog,26,33,26,1,21/03/2012,21/09/2018,19.00 KB,19,Prolog Implementation of Wumpus World,Prolog,https://github.com/rlegendi/wumpus-prolog
+150,plog,26,1,26,0,18/02/2019,03/02/2024,6.26 MB,6409,"A bare-bones blogging system, written in Prolog",Prolog,https://github.com/oblivia-simplex/plog
+151,ArchBspwm,26,1,26,0,15/08/2024,30/05/2025,27.71 MB,28377,My Arch linux Bspwm  dotfiles,Prolog,https://github.com/k0lp0na/ArchBspwm
+152,CORGI,26,3,26,1,17/06/2020,18/06/2020,26.51 MB,27150,Conversational Neuro-Symbolic Commonsense Reasoning,Prolog,https://github.com/ForoughA/CORGI
+153,gotalog,26,4,26,0,20/01/2017,21/09/2020,759.00 KB,759,"Golang implementation of datalog, port of MITRE corporation's lua implementation",Prolog,https://github.com/amzuko/gotalog
+154,packages-http,26,26,26,21,25/04/2014,09/09/2025,7.39 MB,7570,The SWI-Prolog HTTP server and client libraries,Prolog,https://github.com/SWI-Prolog/packages-http
+155,blipkit,26,3,26,6,13/05/2010,28/08/2016,12.18 MB,12470,biological logic programming toolkit,Prolog,https://github.com/cmungall/blipkit
 156,mp4-to-mpegdash,25,18,25,5,17/11/2016,21/09/2018,18.00 KB,18,Script to convert a MP4 file into MPEG-DASH,Prolog,https://github.com/CyrexEnterprise/mp4-to-mpegdash
-157,djota,24,1,24,1,05/01/2023,03/01/2024,77.00 KB,77,A Djot implementation in Prolog,Prolog,https://github.com/aarroyoc/djota
-158,financial-planning,24,3,24,0,30/07/2017,26/07/2025,8.08 MB,8276,Your AI-Powered Personal Finance Assistant,Prolog,https://github.com/aindilis/financial-planning
-159,DP-Film-Expert-System,24,8,24,0,28/01/2018,14/02/2018,19.00 KB,19,Film expert system based on logic rules. Created at the Univeristy as the project within Declarative Programming classes in 2015. The purpose of this project was to creat expert system in Prolog and improve understanding of declarative programming paradigm.,Prolog,https://github.com/maciej-nowak/DP-Film-Expert-System
-160,fasill,24,2,24,0,30/10/2018,12/09/2024,1.10 MB,1125,Fuzzy Aggregators and Similarity Into a Logic Language,Prolog,https://github.com/jariazavalverde/fasill
-161,prolog-poetry,24,2,24,0,29/01/2021,31/03/2021,106.00 KB,106,Генератор стихов на Prolog,Prolog,https://github.com/egryaznov/prolog-poetry
-162,Functional-Dependency-Calculator,24,6,24,0,02/02/2012,11/12/2021,41.00 KB,41,"Declarative algorithms for simple operations on relational schemas and functional dependency sets (e.g. minimal cover, highest normal form)",Prolog,https://github.com/bme-db-lab/Functional-Dependency-Calculator
-163,euclid-16,24,1,24,0,03/10/2022,16/06/2025,473.00 KB,473,raspberry pi pico 16-step euclidean sequencer drum machine,Prolog,https://github.com/redraw/euclid-16
+157,euclid-16,25,1,25,0,03/10/2022,16/06/2025,473.00 KB,473,raspberry pi pico 16-step euclidean sequencer drum machine,Prolog,https://github.com/redraw/euclid-16
+158,djota,24,1,24,1,05/01/2023,03/01/2024,77.00 KB,77,A Djot implementation in Prolog,Prolog,https://github.com/aarroyoc/djota
+159,financial-planning,24,3,24,0,30/07/2017,26/07/2025,8.08 MB,8276,Your AI-Powered Personal Finance Assistant,Prolog,https://github.com/aindilis/financial-planning
+160,DP-Film-Expert-System,24,8,24,0,28/01/2018,14/02/2018,19.00 KB,19,Film expert system based on logic rules. Created at the Univeristy as the project within Declarative Programming classes in 2015. The purpose of this project was to creat expert system in Prolog and improve understanding of declarative programming paradigm.,Prolog,https://github.com/maciej-nowak/DP-Film-Expert-System
+161,fasill,24,2,24,0,30/10/2018,12/09/2024,1.10 MB,1125,Fuzzy Aggregators and Similarity Into a Logic Language,Prolog,https://github.com/jariazavalverde/fasill
+162,prolog-poetry,24,2,24,0,29/01/2021,31/03/2021,106.00 KB,106,Генератор стихов на Prolog,Prolog,https://github.com/egryaznov/prolog-poetry
+163,Functional-Dependency-Calculator,24,6,24,0,02/02/2012,11/12/2021,41.00 KB,41,"Declarative algorithms for simple operations on relational schemas and functional dependency sets (e.g. minimal cover, highest normal form)",Prolog,https://github.com/bme-db-lab/Functional-Dependency-Calculator
 164,binprolog,24,7,24,3,26/07/2015,11/05/2025,3.42 MB,3503,"Fast, simplified WAM-based Prolog system",Prolog,https://github.com/ptarau/binprolog
 165,Qt-CUDA-example,24,5,24,0,16/12/2017,16/12/2017,4.00 KB,4,Example Qt project implementing a simple vector addition running on the GPU with performance measurement.,Prolog,https://github.com/mihaits/Qt-CUDA-example
-166,Alpino,24,3,24,2,09/10/2019,04/09/2025,2.47 GB,2585120,Alpino parser and related tools for Dutch,Prolog,https://github.com/rug-compling/Alpino
+166,Alpino,24,3,24,2,09/10/2019,08/09/2025,2.47 GB,2585182,Alpino parser and related tools for Dutch,Prolog,https://github.com/rug-compling/Alpino
 167,adventure,24,5,24,1,24/12/2012,29/11/2015,8.95 MB,9164,"an advanced text adventure engine with a web interface, written in prolog",Prolog,https://github.com/adrian-prantl/adventure
 168,99-prolog-problems,23,12,23,0,12/02/2014,17/02/2014,211.00 KB,211,Solving the 99 prolog problems.,Prolog,https://github.com/Rootex/99-prolog-problems
 169,NI404,23,1,23,3,21/01/2024,23/05/2025,123.71 MB,126680,Sequencer / Synthesizer based on Teensy4.1,Prolog,https://github.com/Soundpauli/NI404
@@ -174,7 +174,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 173,ilp-experiments,23,4,23,5,22/09/2021,24/07/2025,71.24 MB,72945,Experimentation framework for Popper,Prolog,https://github.com/logic-and-learning-lab/ilp-experiments
 174,RushSPI,23,8,23,0,25/11/2012,25/11/2012,161.00 KB,161,Open Hardware SPI programmer based on FTDI FT232H,Prolog,https://github.com/NikolajSchlej/RushSPI
 175,blog-core,23,9,23,3,22/11/2013,02/03/2023,2.10 MB,2146,Blogging/CMS framework for SWI-Prolog.,Prolog,https://github.com/Blog-Core/blog-core
-176,metta-wam,22,22,22,111,17/02/2024,31/08/2025,57.38 MB,58758,A Hyperon MeTTa Interpreter/Transpilier that targets the Warren Abstract Machine,Prolog,https://github.com/trueagi-io/metta-wam
+176,metta-wam,22,22,22,112,17/02/2024,10/09/2025,57.39 MB,58767,A Hyperon MeTTa Interpreter/Transpilier that targets the Warren Abstract Machine,Prolog,https://github.com/trueagi-io/metta-wam
 177,sirius2,22,7,22,1,23/05/2023,09/06/2025,1.87 GB,1964962,SuperEasy Library for Control Scanner and Laser - (c)SpiralLAB,Prolog,https://github.com/labspiral/sirius2
 178,feup-iart-summary,22,4,22,0,17/02/2018,15/06/2018,88.87 MB,91003,"Artificial Intelligence Course - Summaries, Exams, Minitests and Comic Sans",Prolog,https://github.com/msramalho/feup-iart-summary
 179,bitcoinolog,22,5,22,0,11/06/2017,17/03/2024,25.00 KB,25,Reason about Bitcoin addresses with Prolog,Prolog,https://github.com/triska/bitcoinolog
@@ -214,7 +214,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 213,Prolog-Planning-Library,19,8,19,1,19/05/2010,26/07/2021,415.00 KB,415,Prolog is suitable enviroment for writting planners. However there is no way how to work with PDDL files so far. In this library we provide PDDL parser in Prolog. In addition we present few easy planners based on it.,Prolog,https://github.com/RobertSasak/Prolog-Planning-Library
 214,MPTP2,19,5,19,0,29/04/2009,22/02/2017,7.16 MB,7331,,Prolog,https://github.com/JUrban/MPTP2
 215,logicmoo_clif,19,1,19,0,03/03/2017,02/10/2021,27.71 MB,28377,Base Forward Chaining Knowledge Base Maintenance System,Prolog,https://github.com/logicmoo/logicmoo_clif
-216,chatbot,19,8,19,0,06/03/2012,29/03/2012,196.00 KB,196,cute little chatbot in Prolog,Prolog,https://github.com/jlsalmon/chatbot
+216,chatbot,19,9,19,0,06/03/2012,29/03/2012,196.00 KB,196,cute little chatbot in Prolog,Prolog,https://github.com/jlsalmon/chatbot
 217,Prolog-chess-game,19,1,19,1,13/04/2019,13/05/2019,39.00 KB,39,,Prolog,https://github.com/he7850/Prolog-chess-game
 218,plweb,19,10,19,8,25/04/2014,03/08/2025,6.80 MB,6962,SWI-Prolog web server sources for www.swi-prolog.org,Prolog,https://github.com/SWI-Prolog/plweb
 219,CoFloCo,19,1,19,1,14/01/2015,25/09/2021,201.50 MB,206338,CoFloCo is a static analysis tool written in prolog to infer automatically symbolic complexity bounds of imperative and recursive programs.,Prolog,https://github.com/aeflores/CoFloCo
@@ -233,49 +233,49 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 232,Expert-system-in-Prolog,18,8,18,0,01/06/2020,10/01/2021,150.00 KB,150,Expert system in Prolog for diagnosis of mental disorders.,Prolog,https://github.com/RadostinaIvanova/Expert-system-in-Prolog
 233,ProjectTartarus,18,7,18,4,30/01/2017,25/02/2023,5.51 MB,5646,Tartarus is a multi-agent emulator for Static as well as Mobile Agents.,Prolog,https://github.com/roboticslab-cseiitg/ProjectTartarus
 234,.scripts,18,8,18,0,07/11/2010,17/11/2017,7.00 KB,7,scripts for better linux productivity ,Prolog,https://github.com/meskarune/.scripts
-235,cve-fuzzing-poc,18,10,18,0,12/11/2016,14/02/2020,25.00 KB,25,PoCs discovered through fuzzing which resulted in a CVE assignment.,Prolog,https://github.com/geeknik/cve-fuzzing-poc
-236,prologsolvers,18,1,18,0,30/06/2024,08/07/2024,144.00 KB,144,Copies of prolog solvers for use from python,Prolog,https://github.com/philzook58/prologsolvers
-237,F4Dev,18,6,18,0,15/08/2012,31/01/2013,771.00 KB,771,Development board for the STM32F4 microcontrollers,Prolog,https://github.com/JorgeAparicio/F4Dev
-238,prolog_rdf,18,3,18,0,18/05/2014,31/08/2024,4.55 MB,4655,Advanced support for working with RDF in Prolog.,Prolog,https://github.com/wouterbeek/prolog_rdf
-239,awesome-prolog-puzzles,18,0,18,0,25/07/2025,26/07/2025,40.00 KB,40,"A collection of fun logic puzzles solved in Prolog, demonstrating the power of logic programming for solving complex reasoning problems. ",Prolog,https://github.com/cryptoque/awesome-prolog-puzzles
-240,ADS1220-Klipper-Board,18,1,18,0,15/08/2024,26/01/2025,23.15 MB,23710,A board for connecting up to 4 Load cells to an ADS1220,Prolog,https://github.com/garethky/ADS1220-Klipper-Board
-241,idl-coyote,17,7,17,9,14/03/2015,19/01/2016,62.67 MB,64172,Automatically exported from code.google.com/p/idl-coyote,Prolog,https://github.com/davidwfanning/idl-coyote
-242,monarch-disease-ontology-RETIRED,17,9,17,1,21/07/2015,05/02/2021,250.56 MB,256578,THIS IS THE OLD REPO: Use this one instead: https://github.com/monarch-initiative/mondo-build,Prolog,https://github.com/monarch-initiative/monarch-disease-ontology-RETIRED
-243,8x8_RGB_LED_Matrix_Controller,17,3,17,0,24/11/2010,09/01/2015,2.87 MB,2940,LAYOUT FILES: 8x8-RGB-LED-Matrix controller using 4x 74HC595 shift registers. CPU: ATmega168/328. Arduino 'compatible'. Runs with code from 'V3_x_boards_test' repo. KICAD and Gerber files.,Prolog,https://github.com/madworm/8x8_RGB_LED_Matrix_Controller
-244,eagle-cad-files,17,5,17,0,24/06/2013,26/05/2013,20.33 MB,20813,A collection of PCB (printed circuit board) designs made with the Eagle CAD program.,Prolog,https://github.com/diyaudiocircuits/eagle-cad-files
-245,cassette,17,3,17,1,13/07/2022,29/12/2022,610.00 KB,610,a new evolutionary highlevel and readable tape language (unlike brainf),Prolog,https://github.com/joes-esolangs/cassette
-246,LPC812breakout,17,2,17,0,17/09/2013,30/01/2014,1.05 MB,1072,Breakout Board for the LPC812 MCU,Prolog,https://github.com/cpldcpu/LPC812breakout
-247,Husky,17,1,17,0,29/08/2020,21/09/2020,125.00 KB,125,"🐺 Husky is a lazy functional language similar to Haskell, but with a more conventional syntax",Prolog,https://github.com/Genivia/Husky
-248,othello-prolog,17,6,17,0,06/11/2017,26/04/2024,1.46 MB,1495,":scroll: A fully functional Othello (Reversi) game, with several AIs, made in prolog for swipl.",Prolog,https://github.com/pchampio/othello-prolog
-249,VLSI-Physical-Design-Automation,17,0,17,0,04/10/2022,20/01/2023,343.97 MB,352222,NTHU CS6135 VLSI Physical Design Automation (2022 Fall),Prolog,https://github.com/curry0622/VLSI-Physical-Design-Automation
-250,cmsc330,17,35,17,0,02/06/2016,28/03/2024,5.18 MB,5304,,Prolog,https://github.com/anwarmamat/cmsc330
-251,HF-PA-v10,17,4,17,0,20/08/2023,17/08/2025,61.51 MB,62983,HF-PA-v10 ;) Is this the end of the search for a 5W Digital PA? HF-PA-v10 is now a rugged 10W PA! We also do 100W+ now ;),Prolog,https://github.com/kholia/HF-PA-v10
-252,COMP9414,17,4,17,0,08/03/2018,30/03/2019,20.36 MB,20847,AI course,Prolog,https://github.com/chen1415-UNSW/COMP9414
-253,metasplain,17,0,17,0,11/03/2019,17/03/2019,52.00 KB,52,Explainable machine learning,Prolog,https://github.com/stassa/metasplain
-254,vuelog,17,2,17,5,06/02/2019,03/03/2019,93.00 KB,93,Prolog Pengines + vue.js,Prolog,https://github.com/jamesnvc/vuelog
-255,regex,17,4,17,5,09/09/2013,06/07/2017,55.00 KB,55,Regular expressions for Prolog,Prolog,https://github.com/mndrix/regex
-256,sCASP,17,2,17,0,25/06/2021,19/09/2022,3.67 MB,3759,top-down interpreter for ASP programs with constraints,Prolog,https://github.com/JanWielemaker/sCASP
-257,prolog_graphviz,17,1,17,0,10/05/2018,31/08/2024,97.00 KB,97,A library for visualizing graphs in Prolog.,Prolog,https://github.com/wouterbeek/prolog_graphviz
-258,numsynth-aaai23,17,1,17,2,23/11/2022,22/02/2023,87.52 MB,89617,"C. Hocquette and A. Cropper, Relational program synthesis with numerical reasoning, AAAI23.",Prolog,https://github.com/celinehocquette/numsynth-aaai23
-259,bakage,17,3,17,8,27/04/2025,13/07/2025,123.00 KB,123,An experimental package manager for Scryer Prolog,Prolog,https://github.com/bakaq/bakage
-260,marelle-deps,17,4,17,0,08/05/2013,12/04/2017,70.00 KB,70,Configuration targets for Marelle.,Prolog,https://github.com/larsyencken/marelle-deps
-261,bench,16,9,16,0,25/04/2014,01/09/2025,370.00 KB,370,Prolog benchmarks (`van Roy' set),Prolog,https://github.com/SWI-Prolog/bench
-262,THELEMA,16,2,16,1,11/10/2015,15/04/2016,1.48 MB,1511,My MSc thesis: a grammar induction system,Prolog,https://github.com/stassa/THELEMA
-263,SWI-Prolog,16,2,16,0,08/02/2018,15/03/2018,14.49 MB,14837,SWI-Prolog  Logical Programming Languages,Prolog,https://github.com/VanHakobyan/SWI-Prolog
-264,cmsc330-public,16,60,16,1,25/01/2017,12/08/2025,38.70 MB,39629,Publicly visible materials for UMD course CMSC 330,Prolog,https://github.com/plum-umd/cmsc330-public
-265,MedusaNet,16,4,16,0,22/08/2020,05/01/2021,64.78 MB,66338,,Prolog,https://github.com/j9650/MedusaNet
-266,logicmoo_ec,16,0,16,2,03/06/2018,06/02/2022,30.97 MB,31713,A SWI-Prolog Pack that lets Prolog code seamlessly switch between planners,Prolog,https://github.com/logicmoo/logicmoo_ec
-267,crisp,16,0,16,0,05/12/2010,07/04/2018,75.00 KB,75,Crazy Simple Unit Testing in Prolog,Prolog,https://github.com/khueue/crisp
-268,prolog-sudoku,16,6,16,0,02/06/2012,02/06/2012,185.00 KB,185,A simple sudoku solver written in SWI-Prolog,Prolog,https://github.com/fatuhoku/prolog-sudoku
-269,expresscard-breakout,16,0,16,3,05/11/2015,08/01/2018,61.00 KB,61,Simple breakout board for an expresscard socket,Prolog,https://github.com/HokieGeek/expresscard-breakout
-270,EFSDAF,16,10,16,1,12/08/2019,28/07/2021,86.83 MB,88918,,Prolog,https://github.com/ChenlieShi-NWU/EFSDAF
-271,gnuprolog-redisclient,16,5,16,0,24/11/2013,01/11/2016,46.00 KB,46,"A simple but effective pure GNU Prolog client connecting with Redis, no libraries required.",Prolog,https://github.com/emacstheviking/gnuprolog-redisclient
-272,trakt,16,8,16,5,03/02/2022,15/07/2025,763.00 KB,763,A generic goal preprocessing tool for proof automation tactics in Coq,Prolog,https://github.com/ecranceMERCE/trakt
-273,prolog-json,16,2,16,0,01/11/2012,07/04/2018,34.00 KB,34,JSON Parser for Prolog,Prolog,https://github.com/khueue/prolog-json
-274,plman,16,3,16,0,28/02/2016,23/08/2020,770.00 KB,770,Pacman-like game where the user controls the pacman with Prolog code,Prolog,https://github.com/Matematicas1UA/plman
-275,oak,16,6,16,0,18/10/2010,29/06/2012,4.54 MB,4644,Spartan 3E/Cortex M3 interface board,Prolog,https://github.com/leaflabs/oak
-276,openmind,16,3,16,1,30/12/2011,07/11/2012,1.40 MB,1436,An open source Brain-Computer-Interface hardware design,Prolog,https://github.com/jaseg/openmind
-277,trs,16,4,16,0,18/03/2015,24/07/2022,13.00 KB,13,Reason about Term Rewriting Systems,Prolog,https://github.com/triska/trs
+235,sCASP,18,2,18,0,25/06/2021,19/09/2022,3.67 MB,3759,top-down interpreter for ASP programs with constraints,Prolog,https://github.com/JanWielemaker/sCASP
+236,cve-fuzzing-poc,18,10,18,0,12/11/2016,14/02/2020,25.00 KB,25,PoCs discovered through fuzzing which resulted in a CVE assignment.,Prolog,https://github.com/geeknik/cve-fuzzing-poc
+237,prologsolvers,18,1,18,0,30/06/2024,08/07/2024,144.00 KB,144,Copies of prolog solvers for use from python,Prolog,https://github.com/philzook58/prologsolvers
+238,F4Dev,18,6,18,0,15/08/2012,31/01/2013,771.00 KB,771,Development board for the STM32F4 microcontrollers,Prolog,https://github.com/JorgeAparicio/F4Dev
+239,prolog_rdf,18,3,18,0,18/05/2014,31/08/2024,4.55 MB,4655,Advanced support for working with RDF in Prolog.,Prolog,https://github.com/wouterbeek/prolog_rdf
+240,awesome-prolog-puzzles,18,0,18,0,25/07/2025,26/07/2025,40.00 KB,40,"A collection of fun logic puzzles solved in Prolog, demonstrating the power of logic programming for solving complex reasoning problems. ",Prolog,https://github.com/cryptoque/awesome-prolog-puzzles
+241,ADS1220-Klipper-Board,18,1,18,0,15/08/2024,26/01/2025,23.15 MB,23710,A board for connecting up to 4 Load cells to an ADS1220,Prolog,https://github.com/garethky/ADS1220-Klipper-Board
+242,idl-coyote,17,7,17,9,14/03/2015,19/01/2016,62.67 MB,64172,Automatically exported from code.google.com/p/idl-coyote,Prolog,https://github.com/davidwfanning/idl-coyote
+243,monarch-disease-ontology-RETIRED,17,9,17,1,21/07/2015,05/02/2021,250.56 MB,256578,THIS IS THE OLD REPO: Use this one instead: https://github.com/monarch-initiative/mondo-build,Prolog,https://github.com/monarch-initiative/monarch-disease-ontology-RETIRED
+244,8x8_RGB_LED_Matrix_Controller,17,3,17,0,24/11/2010,09/01/2015,2.87 MB,2940,LAYOUT FILES: 8x8-RGB-LED-Matrix controller using 4x 74HC595 shift registers. CPU: ATmega168/328. Arduino 'compatible'. Runs with code from 'V3_x_boards_test' repo. KICAD and Gerber files.,Prolog,https://github.com/madworm/8x8_RGB_LED_Matrix_Controller
+245,eagle-cad-files,17,5,17,0,24/06/2013,26/05/2013,20.33 MB,20813,A collection of PCB (printed circuit board) designs made with the Eagle CAD program.,Prolog,https://github.com/diyaudiocircuits/eagle-cad-files
+246,cassette,17,3,17,1,13/07/2022,29/12/2022,610.00 KB,610,a new evolutionary highlevel and readable tape language (unlike brainf),Prolog,https://github.com/joes-esolangs/cassette
+247,LPC812breakout,17,2,17,0,17/09/2013,30/01/2014,1.05 MB,1072,Breakout Board for the LPC812 MCU,Prolog,https://github.com/cpldcpu/LPC812breakout
+248,Husky,17,1,17,0,29/08/2020,21/09/2020,125.00 KB,125,"🐺 Husky is a lazy functional language similar to Haskell, but with a more conventional syntax",Prolog,https://github.com/Genivia/Husky
+249,othello-prolog,17,6,17,0,06/11/2017,26/04/2024,1.46 MB,1495,":scroll: A fully functional Othello (Reversi) game, with several AIs, made in prolog for swipl.",Prolog,https://github.com/pchampio/othello-prolog
+250,VLSI-Physical-Design-Automation,17,0,17,0,04/10/2022,20/01/2023,343.97 MB,352222,NTHU CS6135 VLSI Physical Design Automation (2022 Fall),Prolog,https://github.com/curry0622/VLSI-Physical-Design-Automation
+251,cmsc330,17,35,17,0,02/06/2016,28/03/2024,5.18 MB,5304,,Prolog,https://github.com/anwarmamat/cmsc330
+252,HF-PA-v10,17,4,17,0,20/08/2023,17/08/2025,61.51 MB,62983,HF-PA-v10 ;) Is this the end of the search for a 5W Digital PA? HF-PA-v10 is now a rugged 10W PA! We also do 100W+ now ;),Prolog,https://github.com/kholia/HF-PA-v10
+253,COMP9414,17,4,17,0,08/03/2018,30/03/2019,20.36 MB,20847,AI course,Prolog,https://github.com/chen1415-UNSW/COMP9414
+254,metasplain,17,0,17,0,11/03/2019,17/03/2019,52.00 KB,52,Explainable machine learning,Prolog,https://github.com/stassa/metasplain
+255,vuelog,17,2,17,5,06/02/2019,03/03/2019,93.00 KB,93,Prolog Pengines + vue.js,Prolog,https://github.com/jamesnvc/vuelog
+256,regex,17,4,17,5,09/09/2013,06/07/2017,55.00 KB,55,Regular expressions for Prolog,Prolog,https://github.com/mndrix/regex
+257,trs,17,4,17,0,18/03/2015,24/07/2022,13.00 KB,13,Reason about Term Rewriting Systems,Prolog,https://github.com/triska/trs
+258,prolog_graphviz,17,1,17,0,10/05/2018,31/08/2024,97.00 KB,97,A library for visualizing graphs in Prolog.,Prolog,https://github.com/wouterbeek/prolog_graphviz
+259,numsynth-aaai23,17,1,17,2,23/11/2022,22/02/2023,87.52 MB,89617,"C. Hocquette and A. Cropper, Relational program synthesis with numerical reasoning, AAAI23.",Prolog,https://github.com/celinehocquette/numsynth-aaai23
+260,bakage,17,3,17,8,27/04/2025,13/07/2025,123.00 KB,123,An experimental package manager for Scryer Prolog,Prolog,https://github.com/bakaq/bakage
+261,marelle-deps,17,4,17,0,08/05/2013,12/04/2017,70.00 KB,70,Configuration targets for Marelle.,Prolog,https://github.com/larsyencken/marelle-deps
+262,bench,16,9,16,0,25/04/2014,09/09/2025,371.00 KB,371,Prolog benchmarks (`van Roy' set),Prolog,https://github.com/SWI-Prolog/bench
+263,THELEMA,16,2,16,1,11/10/2015,15/04/2016,1.48 MB,1511,My MSc thesis: a grammar induction system,Prolog,https://github.com/stassa/THELEMA
+264,SWI-Prolog,16,2,16,0,08/02/2018,15/03/2018,14.49 MB,14837,SWI-Prolog  Logical Programming Languages,Prolog,https://github.com/VanHakobyan/SWI-Prolog
+265,cmsc330-public,16,60,16,1,25/01/2017,12/08/2025,38.70 MB,39629,Publicly visible materials for UMD course CMSC 330,Prolog,https://github.com/plum-umd/cmsc330-public
+266,MedusaNet,16,4,16,0,22/08/2020,05/01/2021,64.78 MB,66338,,Prolog,https://github.com/j9650/MedusaNet
+267,logicmoo_ec,16,0,16,2,03/06/2018,06/02/2022,30.97 MB,31713,A SWI-Prolog Pack that lets Prolog code seamlessly switch between planners,Prolog,https://github.com/logicmoo/logicmoo_ec
+268,crisp,16,0,16,0,05/12/2010,07/04/2018,75.00 KB,75,Crazy Simple Unit Testing in Prolog,Prolog,https://github.com/khueue/crisp
+269,prolog-sudoku,16,6,16,0,02/06/2012,02/06/2012,185.00 KB,185,A simple sudoku solver written in SWI-Prolog,Prolog,https://github.com/fatuhoku/prolog-sudoku
+270,expresscard-breakout,16,0,16,3,05/11/2015,08/01/2018,61.00 KB,61,Simple breakout board for an expresscard socket,Prolog,https://github.com/HokieGeek/expresscard-breakout
+271,EFSDAF,16,10,16,1,12/08/2019,28/07/2021,86.83 MB,88918,,Prolog,https://github.com/ChenlieShi-NWU/EFSDAF
+272,gnuprolog-redisclient,16,5,16,0,24/11/2013,01/11/2016,46.00 KB,46,"A simple but effective pure GNU Prolog client connecting with Redis, no libraries required.",Prolog,https://github.com/emacstheviking/gnuprolog-redisclient
+273,trakt,16,9,16,5,03/02/2022,10/09/2025,745.00 KB,745,A generic goal preprocessing tool for proof automation tactics in Coq,Prolog,https://github.com/ecranceMERCE/trakt
+274,prolog-json,16,2,16,0,01/11/2012,07/04/2018,34.00 KB,34,JSON Parser for Prolog,Prolog,https://github.com/khueue/prolog-json
+275,plman,16,3,16,0,28/02/2016,23/08/2020,770.00 KB,770,Pacman-like game where the user controls the pacman with Prolog code,Prolog,https://github.com/Matematicas1UA/plman
+276,oak,16,6,16,0,18/10/2010,29/06/2012,4.54 MB,4644,Spartan 3E/Cortex M3 interface board,Prolog,https://github.com/leaflabs/oak
+277,openmind,16,3,16,1,30/12/2011,07/11/2012,1.40 MB,1436,An open source Brain-Computer-Interface hardware design,Prolog,https://github.com/jaseg/openmind
 278,mathematical-logic,16,2,16,0,15/03/2015,23/11/2022,11.22 MB,11492,Prolog programs for Mathematical Logic for Computer Science (3rd Edition),Prolog,https://github.com/motib/mathematical-logic
 279,ffi,17,6,17,4,19/01/2018,21/09/2024,835.00 KB,835,SWI-Prolog dynamic C interface,Prolog,https://github.com/JanWielemaker/ffi
 280,lottery-problem,15,7,15,0,23/07/2023,20/11/2023,28.00 KB,28,"Code from the paper ""You need 27 tickets to guarantee a win on the UK National Lottery""",Prolog,https://github.com/cushydom88/lottery-problem
@@ -290,7 +290,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 289,Einsteins-Riddle-Prolog,14,6,14,0,24/12/2018,24/12/2018,4.00 KB,4,Einstein's Riddle (aka Zebra Puzzle) formulated as a Prolog program.,Prolog,https://github.com/DonaldKellett/Einsteins-Riddle-Prolog
 290,tus,14,3,14,1,11/12/2020,05/11/2024,79.00 KB,79,TUS protocol for resumable file uploads via HTTP,Prolog,https://github.com/terminusdb/tus
 291,PFL-Exercises,14,1,14,0,24/09/2022,02/02/2023,134.00 KB,134,This repository holds the solutions to the exercise sheets found in the practical lessons of PFL.,Prolog,https://github.com/MartimVideira/PFL-Exercises
-292,dotfiles,14,1,14,0,01/08/2012,26/08/2025,10.59 MB,10845,My dotfiles stash,Prolog,https://github.com/lxcode/dotfiles
+292,dotfiles,14,1,14,0,01/08/2012,06/09/2025,10.60 MB,10851,My dotfiles stash,Prolog,https://github.com/lxcode/dotfiles
 293,Interpreter-in-Prolog,14,4,14,0,05/01/2017,25/09/2017,42.00 KB,42,An interpreter capable of executing a simple scripting language from a plain-text file,Prolog,https://github.com/jdswalker/Interpreter-in-Prolog
 294,lasershark_hardware,14,14,14,0,04/11/2012,20/02/2013,456.00 KB,456,LaserShark USB ShowCard,Prolog,https://github.com/macpod/lasershark_hardware
 295,cheryls-birthday-prolog,14,2,14,0,17/04/2015,17/04/2015,120.00 KB,120,Solving the Cheryl's Birthday problem -- with Prolog!,Prolog,https://github.com/fj/cheryls-birthday-prolog
@@ -309,8 +309,8 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 308,Incremental_RTEC,13,1,13,1,29/12/2020,26/11/2021,603.00 KB,603,Incremental RTEC is the incremental extension of RTEC (https://github.com/aartikis/RTEC) for handling more efficiently out-of-order streams.,Prolog,https://github.com/eftsilio/Incremental_RTEC
 309,gnuprolog-json,13,3,13,1,03/06/2015,10/06/2015,152.00 KB,152,Pure prolog JSON encoding and decoding library plus some simple utility functions.,Prolog,https://github.com/emacstheviking/gnuprolog-json
 310,DetectiveBoysWT,13,0,13,0,27/06/2022,03/08/2023,16.30 MB,16689,Walkie talkie using custom PCB with ATMEGA328P and NRF24L01 module,Prolog,https://github.com/DanieElectronics/DetectiveBoysWT
-311,pytheas,13,2,13,1,07/02/2019,16/03/2021,14.14 MB,14478,Python Electromagnetic Analysis and Simulation with the Finite Element Method,Prolog,https://github.com/benvial/pytheas
-312,My_InSAR_Codes,13,8,13,0,03/03/2017,16/03/2015,16.51 MB,16904,Sasmac InSAR Codes,Prolog,https://github.com/IvanLJF/My_InSAR_Codes
+311,My_InSAR_Codes,13,8,13,0,03/03/2017,16/03/2015,16.51 MB,16904,Sasmac InSAR Codes,Prolog,https://github.com/IvanLJF/My_InSAR_Codes
+312,pytheas,13,2,13,1,07/02/2019,16/03/2021,14.14 MB,14478,Python Electromagnetic Analysis and Simulation with the Finite Element Method,Prolog,https://github.com/benvial/pytheas
 313,prolog-examples,13,8,13,1,16/04/2016,21/11/2017,60.00 KB,60,Set of awesome Prolog Examples,Prolog,https://github.com/garciparedes/prolog-examples
 314,zimbra-net_snmp-extension,12,11,12,3,14/08/2017,25/10/2017,68.00 KB,68,How to monitor a Zimbra Collaboration Environment using pflogsumm and NET-SNMP-EXTEND,Prolog,https://github.com/jorgedlcruz/zimbra-net_snmp-extension
 315,jolog,12,2,12,3,03/08/2013,10/03/2015,185.00 KB,185,Concurrent and distributed Prolog via join patterns (join calculus),Prolog,https://github.com/mndrix/jolog
@@ -320,7 +320,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 319,CGADoxygen,12,5,12,0,27/08/2018,14/07/2022,18.74 MB,19190,Doxygen PERLMOD to Markdown converter(v0.9) to support ASPICE (Automotive SPICE),Prolog,https://github.com/1434cga/CGADoxygen
 320,trill-on-swish,12,3,12,0,26/12/2014,06/09/2024,15.36 MB,15731,The Trill probabilistic ontology reasoner on SWISH,Prolog,https://github.com/friguzzi/trill-on-swish
 321,tap,12,1,12,1,11/06/2013,19/01/2023,57.00 KB,57,Write TAP tests with SWI-Prolog,Prolog,https://github.com/fnogatz/tap
-322,packages-pengines,12,14,12,14,25/04/2014,01/09/2025,1.91 MB,1958,Pengines: Prolog engines,Prolog,https://github.com/SWI-Prolog/packages-pengines
+322,packages-pengines,12,14,12,14,25/04/2014,09/09/2025,1.91 MB,1958,Pengines: Prolog engines,Prolog,https://github.com/SWI-Prolog/packages-pengines
 323,ron,12,0,12,2,31/07/2022,10/08/2025,90.00 KB,90,小さい計算体系をシンプルに定義できるような言語をつくりたい,Prolog,https://github.com/mitsuchi/ron
 324,dcg4pt,12,2,12,0,23/10/2018,20/01/2023,36.00 KB,36,Extend Definite Clause Grammars for Prolog by the corresponding parse tree,Prolog,https://github.com/fnogatz/dcg4pt
 325,MINX,12,8,12,1,17/08/2016,22/07/2019,120.43 MB,123322,MISR INteractive eXplorer,Prolog,https://github.com/nasa/MINX
@@ -425,118 +425,118 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 424,qtpatches,9,1,9,0,12/07/2024,14/07/2024,29.00 KB,29,Windows XP support patches for Qt newer than 5.6 (5.9 for now),Prolog,https://github.com/crackedmind/qtpatches
 425,bennycheung.github.io,9,0,9,0,18/04/2016,23/08/2025,332.34 MB,340313,Benny Cheung Mind Hack Blog,Prolog,https://github.com/bennycheung/bennycheung.github.io
 426,DeepPlace,9,2,9,2,02/03/2024,21/03/2024,29.95 MB,30673,用于快速简单的使用 DeepPlace 模型,Prolog,https://github.com/SP-FA/DeepPlace
-427,docker-snort-ids,9,7,9,0,28/08/2017,17/04/2018,10.58 MB,10830,Docker image with Snort and Barnyard,Prolog,https://github.com/fabriziogaliano/docker-snort-ids
-428,eliza,9,3,9,0,05/04/2017,02/05/2017,144.00 KB,144,Prolog Eliza - psychotherapist chatbot,Prolog,https://github.com/maresmar/eliza
-429,nng,9,0,9,0,01/10/2024,16/05/2025,95.00 KB,95,needleful dot net generator,Prolog,https://github.com/needleful/nng
-430,uJTAG,9,3,9,0,21/08/2012,21/08/2012,160.00 KB,160,Minimalistic JTAG dongle.,Prolog,https://github.com/JorgeAparicio/uJTAG
-431,gpi_pipeline,9,6,9,47,29/07/2016,25/06/2021,40.00 MB,40961,Gemini Planet Imager Data Reduction Pipeline,Prolog,https://github.com/geminiplanetimager/gpi_pipeline
-432,achelois,9,0,9,0,20/07/2018,27/02/2021,55.00 KB,55,achelois is a collection of tools to make writing shell scripts in Prolog easier.,Prolog,https://github.com/ReedOei/achelois
-433,prolog-vdom,9,1,9,1,17/06/2018,25/06/2018,1.16 MB,1184,Virtual DOM implementation for SWI-Prolog,Prolog,https://github.com/rla/prolog-vdom
-434,rclswi,9,3,9,1,24/02/2021,02/12/2022,677.00 KB,677,ROS2 bridge for SWI-Prolog,Prolog,https://github.com/SWI-Prolog/rclswi
-435,Medical-Expert-System,9,4,9,0,07/11/2020,21/01/2021,24.00 KB,24,A medical  expert system for COVID-19 and other medical complications.  ,Prolog,https://github.com/R-White-0/Medical-Expert-System
-436,packages-plunit,9,13,9,1,25/04/2014,01/09/2025,1.09 MB,1112,The SWI-Prolog Unit Testing library,Prolog,https://github.com/SWI-Prolog/packages-plunit
-437,novepad,9,6,9,1,23/10/2014,02/12/2014,1.54 MB,1580,"Adapter board from Kosagi Novena to ""iPad 3"" 2048x1536 display. Prototype stage.",Prolog,https://github.com/projectgus/novepad
-438,constrained.pl,9,4,9,5,16/09/2023,12/11/2024,60.00 KB,60,Provides generalized versions of common Prolog predicates using constraints to make them more flexible and declarative. ,Prolog,https://github.com/bakaq/constrained.pl
-439,Artificial_Inteligence,9,2,9,0,11/01/2022,30/08/2022,1.15 MB,1180,,Prolog,https://github.com/Moriumnasa-Mim/Artificial_Inteligence
-440,SoapyHifiBerry,9,0,9,0,07/06/2022,07/11/2024,546.01 MB,559112,Raspberry PI SDR Tayloe board and SoapySDR driver,Prolog,https://github.com/paulh002/SoapyHifiBerry
-441,Grail0,9,3,9,0,27/03/2015,16/12/2015,674.00 KB,674,Grail0 is a bare-bones proof net theorem prover for multimodal categorial grammars producing natural deduction output,Prolog,https://github.com/RichardMoot/Grail0
-442,packages-clpqr,9,8,9,1,25/04/2014,01/09/2025,443.00 KB,443,"CLP(Q,R): constraints over rational numbers and floats by Leslie de Koninck",Prolog,https://github.com/SWI-Prolog/packages-clpqr
-443,SWRL2SHACL,9,0,9,0,03/02/2018,02/10/2018,42.00 KB,42,Convert SWRL rules to SHACL-SPARQL rules,Prolog,https://github.com/nbassili/SWRL2SHACL
-444,prolog_jwt,9,2,9,1,19/06/2015,16/12/2018,29.00 KB,29,A library bringing JSON Web Token (JWT) support to SWI-Prolog.,Prolog,https://github.com/wouterbeek/prolog_jwt
-445,polarshieldv3_hardware,9,7,9,0,15/04/2018,16/11/2018,3.48 MB,3559,"Schematics, board and gerbers for Polarshield v3",Prolog,https://github.com/euphy/polarshieldv3_hardware
-446,adventofcode-pl-2017,9,0,9,0,03/12/2017,26/12/2017,160.00 KB,160,solutions to http://adventofcode.com/2017 puzzles in Prolog,Prolog,https://github.com/Average-user/adventofcode-pl-2017
-447,buffalo,9,3,9,0,28/04/2015,26/09/2015,168.00 KB,168,:water_buffalo::deciduous_tree: English is fun,Prolog,https://github.com/averykatko/buffalo
-448,PlasmaArcSpeaker,9,2,9,0,12/08/2012,13/08/2012,162.35 MB,166244,,Prolog,https://github.com/paulfaget/PlasmaArcSpeaker
-449,blog-ejemplos,9,4,9,7,01/01/2018,11/03/2024,20.42 MB,20913,Ejemplos del blog Adrianistán,Prolog,https://github.com/aarroyoc/blog-ejemplos
-450,DroneCore,9,8,9,0,02/11/2012,16/11/2012,452.00 KB,452,Open Board for UAV,Prolog,https://github.com/HackBo/DroneCore
-451,multlog,9,1,9,9,18/09/2020,02/07/2024,396.00 KB,396,"M. Ultlog, the genius many-valued logic expert",Prolog,https://github.com/rzach/multlog
-452,pcb_stm32f4_sram,9,5,9,0,15/07/2013,28/07/2013,1.15 MB,1176,Schematics and PCB for an STM32F4-board with external SRAM and micro-SD card,Prolog,https://github.com/knielsen/pcb_stm32f4_sram
-453,swillprover,9,1,9,0,07/01/2014,08/10/2018,12.00 KB,12,a linear logic prover based on Naoyuki Tamura's llprover that works under SWI Prolog,Prolog,https://github.com/wenkokke/swillprover
-454,date_time,9,3,9,0,30/01/2019,24/03/2022,27.00 KB,27,Logical arithmetic on dates and times in Prolog,Prolog,https://github.com/fnogatz/date_time
-455,presprover,9,2,9,0,19/10/2014,05/10/2024,35.00 KB,35,Prove formulas of Presburger Arithmetic,Prolog,https://github.com/triska/presprover
-456,tabling_library,9,1,9,1,04/05/2016,19/05/2016,119.00 KB,119,Benoit Desouter's library for tabling on delimited continuations,Prolog,https://github.com/JanWielemaker/tabling_library
-457,plasticsearch,9,2,9,0,18/06/2015,15/03/2016,62.00 KB,62,,Prolog,https://github.com/EricssonResearch/plasticsearch
-458,NSM-DALIA,9,2,9,48,01/01/2017,05/08/2021,464.00 KB,464,Parser for Natural Semantic Metalanguage,Prolog,https://github.com/Yakushima/NSM-DALIA
-459,sql_compiler,8,0,8,0,04/08/2020,04/08/2020,20.00 KB,20,Translates logic program queries to SQL,Prolog,https://github.com/cmungall/sql_compiler
-460,prolog-tut-cn,8,1,8,0,07/01/2019,05/07/2020,1.12 MB,1152,📚prolog chinese tutorial. https://zhzluke96.github.io/prolog-tut-cn/,Prolog,https://github.com/zhzLuke96/prolog-tut-cn
-461,plstat,8,1,8,0,19/04/2021,09/11/2024,60.00 KB,60,Statistics using prolog,Prolog,https://github.com/damianoazzolini/plstat
-462,the-baze,8,1,8,0,27/06/2015,27/09/2019,16.99 MB,17399,A (wannabe) Swiss Army knife for the data scientist,Prolog,https://github.com/AILab-FOI/the-baze
-463,sld-tree-generator,8,3,8,0,01/01/2017,03/12/2020,367.00 KB,367,,Prolog,https://github.com/apoll500/sld-tree-generator
-464,play,8,1,8,0,25/07/2015,27/07/2015,492.00 KB,492,"A Logic Programming Playground for Lambda Terms, Combinators, Types and Tree-based Arithmetic Computations",Prolog,https://github.com/ptarau/play
-465,pfl-prolog-exs,8,2,8,0,17/12/2021,21/01/2022,16.00 KB,16,My solutions for FEUP-LEIC-PFL's Prolog exercises.,Prolog,https://github.com/jfbaltazar/pfl-prolog-exs
-466,GNN-toolbox,8,3,8,0,17/12/2017,17/12/2017,348.00 KB,348,"This toolbox is the work of Prof. Franco Scarselli, especially useful for graph neural network modelling. ",Prolog,https://github.com/caomxin/GNN-toolbox
-467,Qwiic_GPS-RTK,9,2,9,1,13/08/2018,29/01/2021,20.12 MB,20607,"A breakout board for the ublox NEO-M8P high precision, RTK ready GNSS module.",Prolog,https://github.com/sparkfun/Qwiic_GPS-RTK
-468,project-euler,8,2,8,0,09/07/2015,20/11/2017,116.00 KB,116,Project Euler polyglot,Prolog,https://github.com/lunixbochs/project-euler
-469,NLP---SICStus,8,2,8,0,11/12/2014,12/12/2014,148.00 KB,148,NLP parsers in Prolog,Prolog,https://github.com/ioana-vlad/NLP---SICStus
-470,TurtleBot,8,6,8,0,13/07/2011,27/07/2013,20.84 MB,21343,TurtleBot Tools and Documentation,Prolog,https://github.com/LucidOne/TurtleBot
-471,IMAPR,8,1,8,6,06/04/2023,10/05/2024,19.86 MB,20333,,Prolog,https://github.com/wang-lab/IMAPR
-472,plow,8,1,8,0,22/11/2018,18/06/2021,634.00 KB,634,Quantitative logic programming,Prolog,https://github.com/theresasturn/plow
-473,djson,8,1,8,3,01/11/2013,10/03/2015,148.00 KB,148,Declarative JSON library for Prolog,Prolog,https://github.com/mndrix/djson
-474,Prolog-Akari,8,0,8,0,16/08/2022,26/08/2022,252.00 KB,252,"A solver to a game called ""akari"" (https://krazydad.com/play/akari/) using SWI-Prolog.",Prolog,https://github.com/RedWn/Prolog-Akari
-475,robot_scenarios_sim,8,1,8,0,25/06/2014,16/07/2014,33.74 MB,34548,Simulated Robot Scenarios for Testing various Robot Activities,Prolog,https://github.com/code-iai/robot_scenarios_sim
-476,brainfuck-pl,8,1,8,0,11/04/2010,08/11/2010,122.00 KB,122,A brainf*ck interpreter in Prolog,Prolog,https://github.com/danieldk/brainfuck-pl
-477,identity,8,1,8,11,20/12/2018,23/08/2021,154.00 KB,154,"A pack for SWI-Prolog web framework to handle usernames, login, signup, and other user management",Prolog,https://github.com/Anniepoo/identity
-478,prolog-samples,8,2,8,0,30/10/2015,03/08/2016,13.00 KB,13,Sample Prolog code,Prolog,https://github.com/mjones-credera/prolog-samples
-479,ai-pokemon-go,8,0,8,0,15/01/2023,30/01/2023,465.00 KB,465,"An AI agent, which carries an egg, has to go into a randomly generated maze and fetch randomly placed pokemons and spend enough time in the maze for the egg to hatch.",Prolog,https://github.com/a-tokyo/ai-pokemon-go
-480,simpletapl,8,0,8,0,25/02/2018,11/01/2019,3.95 MB,4047,,Prolog,https://github.com/hsk/simpletapl
-481,prosqlite,8,4,8,0,22/11/2016,15/08/2024,1.51 MB,1545,An SWI-Prolog interface to SQLite,Prolog,https://github.com/nicos-angelopoulos/prosqlite
-482,akinator-of-thrones,8,4,8,0,25/09/2017,29/09/2017,5.00 KB,5,Akinator project implemented using Prolog,Prolog,https://github.com/Paradigmas-2-2017/akinator-of-thrones
-483,advent-of-code-2020,8,0,8,4,30/11/2020,08/07/2021,147.00 KB,147,Solutions of Advent of Code 2020,Prolog,https://github.com/aarroyoc/advent-of-code-2020
-484,tm1-sublime,8,0,8,0,21/04/2017,20/09/2017,502.00 KB,502,IBM Cognos TM1 syntax highlighting for Sublime Text,Prolog,https://github.com/hermie64/tm1-sublime
-485,prolog-experiments,8,7,8,0,23/09/2015,23/09/2015,5.40 MB,5528,A few (small) experiments in Amzi! Prolog,Prolog,https://github.com/christian-vigh/prolog-experiments
-486,PL94171,8,3,8,1,31/03/2021,02/09/2025,3.50 MB,3582,Tabulate P.L. 94-171 Redistricting Data Summary Files,Prolog,https://github.com/CoryMcCartan/PL94171
-487,contrib-protobufs,8,7,8,5,25/04/2014,01/09/2025,735.00 KB,735,An interface to Google Protocol Buffers (protobuf),Prolog,https://github.com/SWI-Prolog/contrib-protobufs
-488,packages-R,8,4,8,0,25/04/2014,20/02/2015,540.00 KB,540,SWI-Prolog to R Project for Statistical Computing interface,Prolog,https://github.com/SWI-Prolog/packages-R
-489,prolog-tic-tac-toe,8,5,8,0,12/02/2019,12/02/2019,3.00 KB,3,"Tic tac toe written in Prolog, applying game-semantics to programming",Prolog,https://github.com/cheery/prolog-tic-tac-toe
-490,Grail,8,2,8,1,23/02/2015,11/02/2021,2.06 MB,2106,Grail is a theorem prover for multimodal type-logical grammars,Prolog,https://github.com/RichardMoot/Grail
-491,prolog_toy_gameoflife,8,1,8,0,08/12/2015,12/12/2015,10.00 KB,10,Conway's Game of Life in Prolog (I'm a prolog newbie!),Prolog,https://github.com/leandrosansilva/prolog_toy_gameoflife
-492,raylib-prolog,8,0,8,0,20/02/2023,08/04/2023,38.00 KB,38,Raylib bindings to Scryer Prolog using library(ffi),Prolog,https://github.com/aarroyoc/raylib-prolog
-493,adventofcode2023,8,0,8,0,01/12/2023,06/01/2024,97.00 KB,97,Advent of Code 2023 solutions in SWI Prolog,Prolog,https://github.com/emiruz/adventofcode2023
-494,iamsim,8,1,8,6,12/07/2023,20/10/2024,40.00 KB,40,A Prolog module that stores IAM policies and actions to simulate permissions.,Prolog,https://github.com/dnmfarrell/iamsim
-495,delay,8,1,8,2,06/08/2013,10/03/2015,276.00 KB,276,Coroutine versions of built-in Prolog predicates,Prolog,https://github.com/mndrix/delay
-496,aaai20-forgetgol,8,0,8,0,15/11/2019,23/11/2019,264.14 MB,270479,A. Cropper. Forgetting to learn logic programs. AAAI 2020. ,Prolog,https://github.com/andrewcropper/aaai20-forgetgol
-497,russian-numbers,8,1,8,1,20/12/2017,11/09/2018,5.00 KB,5,Prolog description of the relationship between a number and its full Russian name.,Prolog,https://github.com/jocap/russian-numbers
-498,particleslogic,8,0,8,7,04/12/2019,15/12/2023,131.00 KB,131,A Prolog application of basic interactions between elementary particles.,Prolog,https://github.com/mlliarm/particleslogic
-499,flux,8,2,8,0,13/06/2018,29/07/2018,1.20 MB,1226,FLUX: A logic programming method for reasoning agents,Prolog,https://github.com/logicmoo/flux
-500,dyc3g,8,2,8,0,05/08/2017,02/11/2018,61.00 KB,61,Dynamic Continuized Combinatory Categorial Grammar Library,Prolog,https://github.com/mwhite14850/dyc3g
-501,greenICTer,8,1,8,0,16/02/2023,22/02/2023,124.00 KB,124,A logic programming solution to assess the ecological footprint of your ICT system,Prolog,https://github.com/teto1992/greenICTer
-502,prolog-smtlib,8,1,8,0,17/11/2018,20/01/2019,102.00 KB,102,An SMT-LIB parser in Prolog,Prolog,https://github.com/jariazavalverde/prolog-smtlib
-503,sigma_ace,8,0,8,0,07/05/2018,02/10/2021,37.94 MB,38846,Attempto Controlled English - Restricted English to logic translation,Prolog,https://github.com/logicmoo/sigma_ace
-504,adaptive_parser,8,2,8,0,21/10/2018,28/09/2020,12.00 KB,12,A simple adaptive parser in Prolog,Prolog,https://github.com/jarble/adaptive_parser
-505,wumpus,8,2,8,0,13/10/2010,21/10/2010,96.00 KB,96,Hunt the Wumpus in Prolog for a school project,Prolog,https://github.com/blatyo/wumpus
-506,luapstricks,8,0,8,6,09/08/2021,25/02/2024,346.75 MB,355071,,Prolog,https://github.com/zauguin/luapstricks
-507,peano,7,1,7,0,08/11/2016,08/11/2016,3.00 KB,3,Implementation of Peano arithmetic in Prolog,Prolog,https://github.com/ffagerholm/peano
-508,prolog-utils,7,4,7,0,12/10/2016,26/01/2017,57.00 KB,57,Materiale ausiliario ed esercitazioni di Prolog,Prolog,https://github.com/ilario-pierbattista/prolog-utils
-509,gedemin-prolog,7,0,7,0,14/03/2015,22/12/2023,5.01 MB,5131,Automatically exported from code.google.com/p/gedemin-prolog,Prolog,https://github.com/gsbelarus/gedemin-prolog
-510,react-and-prolog-demo,7,1,7,0,04/10/2017,05/10/2017,13.00 KB,13,A demo website to show how to deploy React based webapps into an SWI-Prolog web server. ,Prolog,https://github.com/da-poodle/react-and-prolog-demo
-511,wumpus,7,6,7,9,21/11/2015,25/10/2022,497.00 KB,497,Hunt The Wumpus - Wumpus World Simulator,Prolog,https://github.com/drbeco/wumpus
-512,vb_hardware,7,2,7,0,17/09/2014,06/02/2015,4.39 MB,4494,OSHW Video Interface Hardware,Prolog,https://github.com/videobrick/vb_hardware
-513,FIB-LI-Labs,7,3,7,0,14/09/2017,15/02/2020,54.03 MB,55325,✅ Labs for LI (FIB),Prolog,https://github.com/anamestre/FIB-LI-Labs
-514,packages-inclpr,7,4,7,1,25/04/2014,01/09/2025,308.00 KB,308,Constraint solver for nonlinear (polynomial) constraints over reals,Prolog,https://github.com/SWI-Prolog/packages-inclpr
-515,idl,7,17,7,0,09/05/2012,29/03/2013,21.36 MB,21869,IDL code repo,Prolog,https://github.com/callumenator/idl
-516,Apple_IIGS_MemExpansion,7,1,7,0,28/04/2019,28/04/2019,89.00 KB,89,,Prolog,https://github.com/calphool/Apple_IIGS_MemExpansion
-517,prolog-snippets,7,1,7,0,19/07/2013,24/04/2022,88.00 KB,88,Some sparse Prolog code I wrote (and sometime used),Prolog,https://github.com/CapelliC/prolog-snippets
-518,SWRL2SPIN,7,1,7,0,29/01/2018,07/07/2020,105.00 KB,105,SWRL2SPIN is a tool built in SWI-Prolog for transforming SWRL rules to SPIN rules,Prolog,https://github.com/nbassili/SWRL2SPIN
-519,Azul_Board_Game,7,2,7,0,12/07/2021,12/07/2021,19.00 KB,19,"Azul Board Game, in Prolog.",Prolog,https://github.com/dayfundora/Azul_Board_Game
-520,Root41-Hardware,7,0,7,0,21/02/2021,24/10/2021,28.46 MB,29142,Root41のハードウェア開発リポジトリです。,Prolog,https://github.com/Root41-Gifu/Root41-Hardware
-521,irssi-ascii-image,7,2,7,0,10/05/2013,10/05/2013,98.00 KB,98,Display an ASCII representation of an image using jp2a in IRSSI,Prolog,https://github.com/athieriot/irssi-ascii-image
-522,Logic-Programming,7,1,7,0,21/04/2022,07/06/2022,5.44 MB,5566,,Prolog,https://github.com/Hann1bal/Logic-Programming
-523,Whirl,7,2,7,0,04/08/2011,01/07/2024,444.00 KB,444,The Whirl Programming Language,Prolog,https://github.com/BigZaphod/Whirl
-524,elc117-2020a,7,5,7,0,06/03/2020,24/08/2020,393.00 KB,393,ELC117 - Paradigmas de Programação - UFSM - 2020a,Prolog,https://github.com/AndreaInfUFSM/elc117-2020a
-525,packages-cql,7,6,7,1,03/09/2014,01/09/2025,415.00 KB,415,High level database interface,Prolog,https://github.com/SWI-Prolog/packages-cql
-526,prolog-ludumdare44,7,4,7,0,19/04/2019,29/04/2019,212.00 KB,212,Ludum Dare 44  entry,Prolog,https://github.com/SWI-PrologTeamLudumDare32/prolog-ludumdare44
-527,kalah-prolog,7,7,7,0,24/07/2008,04/07/2014,316.00 KB,316,"PROLOG implementation for the kalah game. Created as a project for ""PROLOG - aspects for AI"" of the Israeli Open University ",Prolog,https://github.com/kenegozi/kalah-prolog
-528,PrologAI,8,13,8,0,04/03/2023,26/03/2023,540.00 KB,540,,Prolog,https://github.com/SajidMajeed92/PrologAI
-529,LEIC-PFL-2021-22,7,0,7,0,12/11/2021,19/06/2022,9.51 MB,9735,Funcional And Logic Programming Course (Programação Funcional e em Lógica) - FEUP LEIC 3rd Year 1st Semester,Prolog,https://github.com/FabioMiguel2000/LEIC-PFL-2021-22
-530,Prob-EC,7,2,7,0,14/10/2013,14/10/2013,5.39 MB,5516,"A probabilistic version of the Event Calculus logic programming engine, developed during my time at NCSR ""Demokritos"", Athens, Greece.",Prolog,https://github.com/jasonfilippou/Prob-EC
-531,brainf_prolog_interpreter,7,1,7,2,19/09/2016,14/08/2020,9.00 KB,9,A Brainf*** Interpreter written in SWI Prolog,Prolog,https://github.com/joyheron/brainf_prolog_interpreter
-532,ccpc,7,2,7,0,17/04/2018,28/08/2022,19.16 MB,19616,,Prolog,https://github.com/timhunter/ccpc
-533,chuka-university-computer-science-department-knowledge-base,7,0,7,0,14/03/2025,14/03/2025,1.00 KB,1,,Prolog,https://github.com/YM1587/chuka-university-computer-science-department-knowledge-base
-534,wangs-algorithm,7,2,7,0,02/12/2014,17/10/2016,8.00 KB,8,Propositional theorem prover using Wang's algorithm,Prolog,https://github.com/benhuds/wangs-algorithm
-535,dict,7,0,7,0,23/10/2024,05/11/2024,8.00 KB,8,"An ISO Prolog dictionary, implemented as an incomplete binary search tree.",Prolog,https://github.com/dnmfarrell/dict
-536,MSX_FPGA_Hat,7,2,7,0,12/11/2022,14/01/2025,244.93 MB,250806,"A Cartridge interface that converts MSX 5v signal levels to 3v, exposing an IDC connector for external devices that operates at 3v level.",Prolog,https://github.com/costarc/MSX_FPGA_Hat
-537,flymaple-pcb,7,8,7,0,19/04/2012,19/04/2012,170.00 KB,170,Flymaple PCB file for KiCAD,Prolog,https://github.com/opendrone/flymaple-pcb
-538,rev-rewriting,7,2,7,0,30/09/2016,20/01/2017,44.00 KB,44,A tool for the transformation of an irreversible Term Rewriting System into a reversible one,Prolog,https://github.com/mistupv/rev-rewriting
+427,simpletapl,9,0,9,0,25/02/2018,11/01/2019,3.95 MB,4047,,Prolog,https://github.com/hsk/simpletapl
+428,docker-snort-ids,9,7,9,0,28/08/2017,17/04/2018,10.58 MB,10830,Docker image with Snort and Barnyard,Prolog,https://github.com/fabriziogaliano/docker-snort-ids
+429,eliza,9,3,9,0,05/04/2017,02/05/2017,144.00 KB,144,Prolog Eliza - psychotherapist chatbot,Prolog,https://github.com/maresmar/eliza
+430,nng,9,0,9,0,01/10/2024,16/05/2025,95.00 KB,95,needleful dot net generator,Prolog,https://github.com/needleful/nng
+431,uJTAG,9,3,9,0,21/08/2012,21/08/2012,160.00 KB,160,Minimalistic JTAG dongle.,Prolog,https://github.com/JorgeAparicio/uJTAG
+432,gpi_pipeline,9,6,9,47,29/07/2016,25/06/2021,40.00 MB,40961,Gemini Planet Imager Data Reduction Pipeline,Prolog,https://github.com/geminiplanetimager/gpi_pipeline
+433,achelois,9,0,9,0,20/07/2018,27/02/2021,55.00 KB,55,achelois is a collection of tools to make writing shell scripts in Prolog easier.,Prolog,https://github.com/ReedOei/achelois
+434,prolog-vdom,9,1,9,1,17/06/2018,25/06/2018,1.16 MB,1184,Virtual DOM implementation for SWI-Prolog,Prolog,https://github.com/rla/prolog-vdom
+435,rclswi,9,3,9,1,24/02/2021,02/12/2022,677.00 KB,677,ROS2 bridge for SWI-Prolog,Prolog,https://github.com/SWI-Prolog/rclswi
+436,Medical-Expert-System,9,4,9,0,07/11/2020,21/01/2021,24.00 KB,24,A medical  expert system for COVID-19 and other medical complications.  ,Prolog,https://github.com/R-White-0/Medical-Expert-System
+437,packages-plunit,9,13,9,1,25/04/2014,09/09/2025,1.09 MB,1113,The SWI-Prolog Unit Testing library,Prolog,https://github.com/SWI-Prolog/packages-plunit
+438,novepad,9,6,9,1,23/10/2014,02/12/2014,1.54 MB,1580,"Adapter board from Kosagi Novena to ""iPad 3"" 2048x1536 display. Prototype stage.",Prolog,https://github.com/projectgus/novepad
+439,constrained.pl,9,4,9,5,16/09/2023,12/11/2024,60.00 KB,60,Provides generalized versions of common Prolog predicates using constraints to make them more flexible and declarative. ,Prolog,https://github.com/bakaq/constrained.pl
+440,Artificial_Inteligence,9,2,9,0,11/01/2022,30/08/2022,1.15 MB,1180,,Prolog,https://github.com/Moriumnasa-Mim/Artificial_Inteligence
+441,SoapyHifiBerry,9,0,9,0,07/06/2022,07/11/2024,546.01 MB,559112,Raspberry PI SDR Tayloe board and SoapySDR driver,Prolog,https://github.com/paulh002/SoapyHifiBerry
+442,Grail0,9,3,9,0,27/03/2015,16/12/2015,674.00 KB,674,Grail0 is a bare-bones proof net theorem prover for multimodal categorial grammars producing natural deduction output,Prolog,https://github.com/RichardMoot/Grail0
+443,packages-clpqr,9,8,9,1,25/04/2014,09/09/2025,444.00 KB,444,"CLP(Q,R): constraints over rational numbers and floats by Leslie de Koninck",Prolog,https://github.com/SWI-Prolog/packages-clpqr
+444,SWRL2SHACL,9,0,9,0,03/02/2018,02/10/2018,42.00 KB,42,Convert SWRL rules to SHACL-SPARQL rules,Prolog,https://github.com/nbassili/SWRL2SHACL
+445,prolog_jwt,9,2,9,1,19/06/2015,16/12/2018,29.00 KB,29,A library bringing JSON Web Token (JWT) support to SWI-Prolog.,Prolog,https://github.com/wouterbeek/prolog_jwt
+446,polarshieldv3_hardware,9,7,9,0,15/04/2018,16/11/2018,3.48 MB,3559,"Schematics, board and gerbers for Polarshield v3",Prolog,https://github.com/euphy/polarshieldv3_hardware
+447,adventofcode-pl-2017,9,0,9,0,03/12/2017,26/12/2017,160.00 KB,160,solutions to http://adventofcode.com/2017 puzzles in Prolog,Prolog,https://github.com/Average-user/adventofcode-pl-2017
+448,buffalo,9,3,9,0,28/04/2015,26/09/2015,168.00 KB,168,:water_buffalo::deciduous_tree: English is fun,Prolog,https://github.com/averykatko/buffalo
+449,PlasmaArcSpeaker,9,2,9,0,12/08/2012,13/08/2012,162.35 MB,166244,,Prolog,https://github.com/paulfaget/PlasmaArcSpeaker
+450,blog-ejemplos,9,4,9,7,01/01/2018,11/03/2024,20.42 MB,20913,Ejemplos del blog Adrianistán,Prolog,https://github.com/aarroyoc/blog-ejemplos
+451,DroneCore,9,8,9,0,02/11/2012,16/11/2012,452.00 KB,452,Open Board for UAV,Prolog,https://github.com/HackBo/DroneCore
+452,multlog,9,1,9,9,18/09/2020,02/07/2024,396.00 KB,396,"M. Ultlog, the genius many-valued logic expert",Prolog,https://github.com/rzach/multlog
+453,pcb_stm32f4_sram,9,5,9,0,15/07/2013,28/07/2013,1.15 MB,1176,Schematics and PCB for an STM32F4-board with external SRAM and micro-SD card,Prolog,https://github.com/knielsen/pcb_stm32f4_sram
+454,swillprover,9,1,9,0,07/01/2014,08/10/2018,12.00 KB,12,a linear logic prover based on Naoyuki Tamura's llprover that works under SWI Prolog,Prolog,https://github.com/wenkokke/swillprover
+455,date_time,9,3,9,0,30/01/2019,24/03/2022,27.00 KB,27,Logical arithmetic on dates and times in Prolog,Prolog,https://github.com/fnogatz/date_time
+456,presprover,9,2,9,0,19/10/2014,05/10/2024,35.00 KB,35,Prove formulas of Presburger Arithmetic,Prolog,https://github.com/triska/presprover
+457,tabling_library,9,1,9,1,04/05/2016,19/05/2016,119.00 KB,119,Benoit Desouter's library for tabling on delimited continuations,Prolog,https://github.com/JanWielemaker/tabling_library
+458,plasticsearch,9,2,9,0,18/06/2015,15/03/2016,62.00 KB,62,,Prolog,https://github.com/EricssonResearch/plasticsearch
+459,NSM-DALIA,9,2,9,48,01/01/2017,05/08/2021,464.00 KB,464,Parser for Natural Semantic Metalanguage,Prolog,https://github.com/Yakushima/NSM-DALIA
+460,sql_compiler,8,0,8,0,04/08/2020,04/08/2020,20.00 KB,20,Translates logic program queries to SQL,Prolog,https://github.com/cmungall/sql_compiler
+461,prolog-tut-cn,8,1,8,0,07/01/2019,05/07/2020,1.12 MB,1152,📚prolog chinese tutorial. https://zhzluke96.github.io/prolog-tut-cn/,Prolog,https://github.com/zhzLuke96/prolog-tut-cn
+462,plstat,8,1,8,0,19/04/2021,09/11/2024,60.00 KB,60,Statistics using prolog,Prolog,https://github.com/damianoazzolini/plstat
+463,the-baze,8,1,8,0,27/06/2015,27/09/2019,16.99 MB,17399,A (wannabe) Swiss Army knife for the data scientist,Prolog,https://github.com/AILab-FOI/the-baze
+464,sld-tree-generator,8,3,8,0,01/01/2017,03/12/2020,367.00 KB,367,,Prolog,https://github.com/apoll500/sld-tree-generator
+465,play,8,1,8,0,25/07/2015,27/07/2015,492.00 KB,492,"A Logic Programming Playground for Lambda Terms, Combinators, Types and Tree-based Arithmetic Computations",Prolog,https://github.com/ptarau/play
+466,pfl-prolog-exs,8,2,8,0,17/12/2021,21/01/2022,16.00 KB,16,My solutions for FEUP-LEIC-PFL's Prolog exercises.,Prolog,https://github.com/jfbaltazar/pfl-prolog-exs
+467,GNN-toolbox,8,3,8,0,17/12/2017,17/12/2017,348.00 KB,348,"This toolbox is the work of Prof. Franco Scarselli, especially useful for graph neural network modelling. ",Prolog,https://github.com/caomxin/GNN-toolbox
+468,Qwiic_GPS-RTK,9,2,9,1,13/08/2018,29/01/2021,20.12 MB,20607,"A breakout board for the ublox NEO-M8P high precision, RTK ready GNSS module.",Prolog,https://github.com/sparkfun/Qwiic_GPS-RTK
+469,project-euler,8,2,8,0,09/07/2015,20/11/2017,116.00 KB,116,Project Euler polyglot,Prolog,https://github.com/lunixbochs/project-euler
+470,NLP---SICStus,8,2,8,0,11/12/2014,12/12/2014,148.00 KB,148,NLP parsers in Prolog,Prolog,https://github.com/ioana-vlad/NLP---SICStus
+471,TurtleBot,8,6,8,0,13/07/2011,27/07/2013,20.84 MB,21343,TurtleBot Tools and Documentation,Prolog,https://github.com/LucidOne/TurtleBot
+472,IMAPR,8,1,8,6,06/04/2023,10/05/2024,19.86 MB,20333,,Prolog,https://github.com/wang-lab/IMAPR
+473,plow,8,1,8,0,22/11/2018,18/06/2021,634.00 KB,634,Quantitative logic programming,Prolog,https://github.com/theresasturn/plow
+474,djson,8,1,8,3,01/11/2013,10/03/2015,148.00 KB,148,Declarative JSON library for Prolog,Prolog,https://github.com/mndrix/djson
+475,Prolog-Akari,8,0,8,0,16/08/2022,26/08/2022,252.00 KB,252,"A solver to a game called ""akari"" (https://krazydad.com/play/akari/) using SWI-Prolog.",Prolog,https://github.com/RedWn/Prolog-Akari
+476,rev-rewriting,8,2,8,0,30/09/2016,20/01/2017,44.00 KB,44,A tool for the transformation of an irreversible Term Rewriting System into a reversible one,Prolog,https://github.com/mistupv/rev-rewriting
+477,robot_scenarios_sim,8,1,8,0,25/06/2014,16/07/2014,33.74 MB,34548,Simulated Robot Scenarios for Testing various Robot Activities,Prolog,https://github.com/code-iai/robot_scenarios_sim
+478,brainfuck-pl,8,1,8,0,11/04/2010,08/11/2010,122.00 KB,122,A brainf*ck interpreter in Prolog,Prolog,https://github.com/danieldk/brainfuck-pl
+479,identity,8,1,8,11,20/12/2018,23/08/2021,154.00 KB,154,"A pack for SWI-Prolog web framework to handle usernames, login, signup, and other user management",Prolog,https://github.com/Anniepoo/identity
+480,prolog-samples,8,2,8,0,30/10/2015,03/08/2016,13.00 KB,13,Sample Prolog code,Prolog,https://github.com/mjones-credera/prolog-samples
+481,ai-pokemon-go,8,0,8,0,15/01/2023,30/01/2023,465.00 KB,465,"An AI agent, which carries an egg, has to go into a randomly generated maze and fetch randomly placed pokemons and spend enough time in the maze for the egg to hatch.",Prolog,https://github.com/a-tokyo/ai-pokemon-go
+482,prosqlite,8,4,8,0,22/11/2016,15/08/2024,1.51 MB,1545,An SWI-Prolog interface to SQLite,Prolog,https://github.com/nicos-angelopoulos/prosqlite
+483,akinator-of-thrones,8,4,8,0,25/09/2017,29/09/2017,5.00 KB,5,Akinator project implemented using Prolog,Prolog,https://github.com/Paradigmas-2-2017/akinator-of-thrones
+484,advent-of-code-2020,8,0,8,4,30/11/2020,08/07/2021,147.00 KB,147,Solutions of Advent of Code 2020,Prolog,https://github.com/aarroyoc/advent-of-code-2020
+485,tm1-sublime,8,0,8,0,21/04/2017,20/09/2017,502.00 KB,502,IBM Cognos TM1 syntax highlighting for Sublime Text,Prolog,https://github.com/hermie64/tm1-sublime
+486,prolog-experiments,8,7,8,0,23/09/2015,23/09/2015,5.40 MB,5528,A few (small) experiments in Amzi! Prolog,Prolog,https://github.com/christian-vigh/prolog-experiments
+487,PL94171,8,3,8,0,31/03/2021,05/09/2025,3.50 MB,3583,Tabulate P.L. 94-171 Redistricting Data Summary Files,Prolog,https://github.com/CoryMcCartan/PL94171
+488,contrib-protobufs,8,7,8,5,25/04/2014,09/09/2025,735.00 KB,735,An interface to Google Protocol Buffers (protobuf),Prolog,https://github.com/SWI-Prolog/contrib-protobufs
+489,packages-R,8,4,8,0,25/04/2014,20/02/2015,540.00 KB,540,SWI-Prolog to R Project for Statistical Computing interface,Prolog,https://github.com/SWI-Prolog/packages-R
+490,prolog-tic-tac-toe,8,5,8,0,12/02/2019,12/02/2019,3.00 KB,3,"Tic tac toe written in Prolog, applying game-semantics to programming",Prolog,https://github.com/cheery/prolog-tic-tac-toe
+491,Grail,8,2,8,1,23/02/2015,11/02/2021,2.06 MB,2106,Grail is a theorem prover for multimodal type-logical grammars,Prolog,https://github.com/RichardMoot/Grail
+492,prolog_toy_gameoflife,8,1,8,0,08/12/2015,12/12/2015,10.00 KB,10,Conway's Game of Life in Prolog (I'm a prolog newbie!),Prolog,https://github.com/leandrosansilva/prolog_toy_gameoflife
+493,raylib-prolog,8,0,8,0,20/02/2023,08/04/2023,38.00 KB,38,Raylib bindings to Scryer Prolog using library(ffi),Prolog,https://github.com/aarroyoc/raylib-prolog
+494,adventofcode2023,8,0,8,0,01/12/2023,06/01/2024,97.00 KB,97,Advent of Code 2023 solutions in SWI Prolog,Prolog,https://github.com/emiruz/adventofcode2023
+495,iamsim,8,1,8,6,12/07/2023,20/10/2024,40.00 KB,40,A Prolog module that stores IAM policies and actions to simulate permissions.,Prolog,https://github.com/dnmfarrell/iamsim
+496,delay,8,1,8,2,06/08/2013,10/03/2015,276.00 KB,276,Coroutine versions of built-in Prolog predicates,Prolog,https://github.com/mndrix/delay
+497,aaai20-forgetgol,8,0,8,0,15/11/2019,23/11/2019,264.14 MB,270479,A. Cropper. Forgetting to learn logic programs. AAAI 2020. ,Prolog,https://github.com/andrewcropper/aaai20-forgetgol
+498,russian-numbers,8,1,8,1,20/12/2017,11/09/2018,5.00 KB,5,Prolog description of the relationship between a number and its full Russian name.,Prolog,https://github.com/jocap/russian-numbers
+499,particleslogic,8,0,8,7,04/12/2019,15/12/2023,131.00 KB,131,A Prolog application of basic interactions between elementary particles.,Prolog,https://github.com/mlliarm/particleslogic
+500,flux,8,2,8,0,13/06/2018,29/07/2018,1.20 MB,1226,FLUX: A logic programming method for reasoning agents,Prolog,https://github.com/logicmoo/flux
+501,dyc3g,8,2,8,0,05/08/2017,02/11/2018,61.00 KB,61,Dynamic Continuized Combinatory Categorial Grammar Library,Prolog,https://github.com/mwhite14850/dyc3g
+502,greenICTer,8,1,8,0,16/02/2023,22/02/2023,124.00 KB,124,A logic programming solution to assess the ecological footprint of your ICT system,Prolog,https://github.com/teto1992/greenICTer
+503,prolog-smtlib,8,1,8,0,17/11/2018,20/01/2019,102.00 KB,102,An SMT-LIB parser in Prolog,Prolog,https://github.com/jariazavalverde/prolog-smtlib
+504,sigma_ace,8,0,8,0,07/05/2018,02/10/2021,37.94 MB,38846,Attempto Controlled English - Restricted English to logic translation,Prolog,https://github.com/logicmoo/sigma_ace
+505,adaptive_parser,8,2,8,0,21/10/2018,28/09/2020,12.00 KB,12,A simple adaptive parser in Prolog,Prolog,https://github.com/jarble/adaptive_parser
+506,wumpus,8,2,8,0,13/10/2010,21/10/2010,96.00 KB,96,Hunt the Wumpus in Prolog for a school project,Prolog,https://github.com/blatyo/wumpus
+507,luapstricks,8,0,8,6,09/08/2021,25/02/2024,346.75 MB,355071,,Prolog,https://github.com/zauguin/luapstricks
+508,peano,7,1,7,0,08/11/2016,08/11/2016,3.00 KB,3,Implementation of Peano arithmetic in Prolog,Prolog,https://github.com/ffagerholm/peano
+509,prolog-utils,7,4,7,0,12/10/2016,26/01/2017,57.00 KB,57,Materiale ausiliario ed esercitazioni di Prolog,Prolog,https://github.com/ilario-pierbattista/prolog-utils
+510,gedemin-prolog,7,0,7,0,14/03/2015,22/12/2023,5.01 MB,5131,Automatically exported from code.google.com/p/gedemin-prolog,Prolog,https://github.com/gsbelarus/gedemin-prolog
+511,react-and-prolog-demo,7,1,7,0,04/10/2017,05/10/2017,13.00 KB,13,A demo website to show how to deploy React based webapps into an SWI-Prolog web server. ,Prolog,https://github.com/da-poodle/react-and-prolog-demo
+512,wumpus,7,6,7,9,21/11/2015,25/10/2022,497.00 KB,497,Hunt The Wumpus - Wumpus World Simulator,Prolog,https://github.com/drbeco/wumpus
+513,vb_hardware,7,2,7,0,17/09/2014,06/02/2015,4.39 MB,4494,OSHW Video Interface Hardware,Prolog,https://github.com/videobrick/vb_hardware
+514,FIB-LI-Labs,7,3,7,0,14/09/2017,15/02/2020,54.03 MB,55325,✅ Labs for LI (FIB),Prolog,https://github.com/anamestre/FIB-LI-Labs
+515,packages-inclpr,7,4,7,1,25/04/2014,09/09/2025,308.00 KB,308,Constraint solver for nonlinear (polynomial) constraints over reals,Prolog,https://github.com/SWI-Prolog/packages-inclpr
+516,idl,7,17,7,0,09/05/2012,29/03/2013,21.36 MB,21869,IDL code repo,Prolog,https://github.com/callumenator/idl
+517,Apple_IIGS_MemExpansion,7,1,7,0,28/04/2019,28/04/2019,89.00 KB,89,,Prolog,https://github.com/calphool/Apple_IIGS_MemExpansion
+518,prolog-snippets,7,1,7,0,19/07/2013,24/04/2022,88.00 KB,88,Some sparse Prolog code I wrote (and sometime used),Prolog,https://github.com/CapelliC/prolog-snippets
+519,SWRL2SPIN,7,1,7,0,29/01/2018,07/07/2020,105.00 KB,105,SWRL2SPIN is a tool built in SWI-Prolog for transforming SWRL rules to SPIN rules,Prolog,https://github.com/nbassili/SWRL2SPIN
+520,Azul_Board_Game,7,2,7,0,12/07/2021,12/07/2021,19.00 KB,19,"Azul Board Game, in Prolog.",Prolog,https://github.com/dayfundora/Azul_Board_Game
+521,Root41-Hardware,7,0,7,0,21/02/2021,24/10/2021,28.46 MB,29142,Root41のハードウェア開発リポジトリです。,Prolog,https://github.com/Root41-Gifu/Root41-Hardware
+522,irssi-ascii-image,7,2,7,0,10/05/2013,10/05/2013,98.00 KB,98,Display an ASCII representation of an image using jp2a in IRSSI,Prolog,https://github.com/athieriot/irssi-ascii-image
+523,Logic-Programming,7,1,7,0,21/04/2022,07/06/2022,5.44 MB,5566,,Prolog,https://github.com/Hann1bal/Logic-Programming
+524,Whirl,7,2,7,0,04/08/2011,01/07/2024,444.00 KB,444,The Whirl Programming Language,Prolog,https://github.com/BigZaphod/Whirl
+525,elc117-2020a,7,5,7,0,06/03/2020,24/08/2020,393.00 KB,393,ELC117 - Paradigmas de Programação - UFSM - 2020a,Prolog,https://github.com/AndreaInfUFSM/elc117-2020a
+526,packages-cql,7,6,7,1,03/09/2014,09/09/2025,416.00 KB,416,High level database interface,Prolog,https://github.com/SWI-Prolog/packages-cql
+527,prolog-ludumdare44,7,4,7,0,19/04/2019,29/04/2019,212.00 KB,212,Ludum Dare 44  entry,Prolog,https://github.com/SWI-PrologTeamLudumDare32/prolog-ludumdare44
+528,kalah-prolog,7,7,7,0,24/07/2008,04/07/2014,316.00 KB,316,"PROLOG implementation for the kalah game. Created as a project for ""PROLOG - aspects for AI"" of the Israeli Open University ",Prolog,https://github.com/kenegozi/kalah-prolog
+529,PrologAI,8,13,8,0,04/03/2023,26/03/2023,540.00 KB,540,,Prolog,https://github.com/SajidMajeed92/PrologAI
+530,LEIC-PFL-2021-22,7,0,7,0,12/11/2021,19/06/2022,9.51 MB,9735,Funcional And Logic Programming Course (Programação Funcional e em Lógica) - FEUP LEIC 3rd Year 1st Semester,Prolog,https://github.com/FabioMiguel2000/LEIC-PFL-2021-22
+531,Prob-EC,7,2,7,0,14/10/2013,14/10/2013,5.39 MB,5516,"A probabilistic version of the Event Calculus logic programming engine, developed during my time at NCSR ""Demokritos"", Athens, Greece.",Prolog,https://github.com/jasonfilippou/Prob-EC
+532,brainf_prolog_interpreter,7,1,7,2,19/09/2016,14/08/2020,9.00 KB,9,A Brainf*** Interpreter written in SWI Prolog,Prolog,https://github.com/joyheron/brainf_prolog_interpreter
+533,ccpc,7,2,7,0,17/04/2018,28/08/2022,19.16 MB,19616,,Prolog,https://github.com/timhunter/ccpc
+534,chuka-university-computer-science-department-knowledge-base,7,0,7,0,14/03/2025,14/03/2025,1.00 KB,1,,Prolog,https://github.com/YM1587/chuka-university-computer-science-department-knowledge-base
+535,wangs-algorithm,7,2,7,0,02/12/2014,17/10/2016,8.00 KB,8,Propositional theorem prover using Wang's algorithm,Prolog,https://github.com/benhuds/wangs-algorithm
+536,dict,7,0,7,0,23/10/2024,05/11/2024,8.00 KB,8,"An ISO Prolog dictionary, implemented as an incomplete binary search tree.",Prolog,https://github.com/dnmfarrell/dict
+537,MSX_FPGA_Hat,7,2,7,0,12/11/2022,14/01/2025,244.93 MB,250806,"A Cartridge interface that converts MSX 5v signal levels to 3v, exposing an IDC connector for external devices that operates at 3v level.",Prolog,https://github.com/costarc/MSX_FPGA_Hat
+538,flymaple-pcb,7,8,7,0,19/04/2012,19/04/2012,170.00 KB,170,Flymaple PCB file for KiCAD,Prolog,https://github.com/opendrone/flymaple-pcb
 539,scc,7,3,7,0,07/10/2014,13/04/2020,5.00 KB,5,Strongly Connected Components of a Graph,Prolog,https://github.com/triska/scc
 540,Red-Soul,7,3,7,0,11/04/2012,12/09/2012,1.57 MB,1604,Arduino Compatible board with built in LCD,Prolog,https://github.com/dustinandrews/Red-Soul
 541,oslc_prolog,7,2,7,2,29/01/2018,30/06/2021,677.00 KB,677,Implementation of OSLC Core in SWI-Prolog,Prolog,https://github.com/EricssonResearch/oslc_prolog
@@ -554,275 +554,275 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 553,twitter_pack,7,2,7,0,30/06/2015,01/03/2021,7.00 KB,7,Pack to access twitter api from swi prolog,Prolog,https://github.com/samwalrus/twitter_pack
 554,avr-isp-shield,7,3,7,0,28/12/2012,06/02/2013,1.66 MB,1701,Arduino AVR ISP shield,Prolog,https://github.com/jiahuang/avr-isp-shield
 555,tesc,7,0,7,0,08/05/2020,21/04/2021,32.98 MB,33773,TESC proof format for first-order ATPs,Prolog,https://github.com/skbaek/tesc
-556,ASU-CSE-259-Prolog,7,3,7,1,09/09/2022,03/09/2025,22.68 MB,23225,,Prolog,https://github.com/Waqar-107/ASU-CSE-259-Prolog
+556,ASU-CSE-259-Prolog,7,3,7,1,09/09/2022,10/09/2025,22.68 MB,23227,,Prolog,https://github.com/Waqar-107/ASU-CSE-259-Prolog
 557,XMG-2,7,2,7,2,14/06/2016,03/04/2025,23.29 MB,23846,,Prolog,https://github.com/spetitjean/XMG-2
 558,slack_prolog,7,2,7,0,21/01/2017,10/10/2021,414.00 KB,414,Prolog Slack Client,Prolog,https://github.com/swi-to-yap/slack_prolog
 559,systematicity,7,1,7,1,01/05/2020,27/01/2023,45.00 KB,45,Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?,Prolog,https://github.com/verypluming/systematicity
 560,medical-expert-ehrlich,7,0,7,0,10/06/2021,26/12/2022,2.14 MB,2193,Backward-chaining medical expert system that specializes in selected autoimmune diseases and employs MYCIN-style computations to handle uncertainty,Prolog,https://github.com/memgonzales/medical-expert-ehrlich
-561,relationship-advisor-pl,7,0,7,0,06/04/2025,06/04/2025,1.00 KB,1,relationship-advisor-prolog-project,Prolog,https://github.com/menacedjava/relationship-advisor-pl
-562,prolog-pong,7,0,7,0,17/05/2024,17/05/2024,2.00 KB,2,Pong in linux terminal with prolog,Prolog,https://github.com/cleggacus/prolog-pong
-563,hammurabi,7,2,7,1,10/08/2022,10/08/2022,4.86 MB,4978,,Prolog,https://github.com/semaj/hammurabi
-564,EvoPlace,7,1,7,0,08/05/2025,08/05/2025,21.28 MB,21793,,Prolog,https://github.com/yaoxufeng/EvoPlace
-565,Knights-Tour,7,1,7,0,18/04/2012,21/08/2013,108.00 KB,108,"A Prolog solution to the Knights Tour problem, as stated by Euler.",Prolog,https://github.com/bnjbvr/Knights-Tour
-566,Prolog,7,2,7,0,02/10/2010,28/11/2014,120.00 KB,120,Programs in prolog.,Prolog,https://github.com/dagosi/Prolog
-567,programs,7,1,7,3,20/12/2016,18/01/2018,35.00 KB,35,Prolog programs from the Simply Logical book,Prolog,https://github.com/simply-logical/programs
-568,MLogic,7,1,7,0,24/10/2017,27/10/2017,12.00 KB,12,An implementation of a mini-ML written entirely in prolog,Prolog,https://github.com/TOTBWF/MLogic
-569,sdcg,7,3,7,2,07/05/2008,16/06/2017,15.05 MB,15415,Stochastic Definite Clause Grammars,Prolog,https://github.com/cth/sdcg
-570,martelli-montanari,7,0,7,0,05/12/2013,06/12/2013,344.00 KB,344,An implementation of Martelli-Montanari unification algorithm for Prolog written in Prolog.,Prolog,https://github.com/pulmro/martelli-montanari
-571,ALog-BottleLogger,7,5,7,6,11/09/2013,02/03/2021,78.54 MB,80427,Arduino-compatible low-power field environmental data logging platform: hardware schematics and circuit board layouts,Prolog,https://github.com/NorthernWidget/ALog-BottleLogger
-572,WifIco,7,1,7,1,08/11/2014,08/11/2014,288.00 KB,288,Small hardware adapter for ESP8266. Purpose is to make the cheap module 5v compatible and breadboard friendly.,Prolog,https://github.com/soynerdito/WifIco
-573,2022.1_G3_Logico_Chess,7,2,7,0,26/07/2022,30/08/2022,113.00 KB,113,"Projeto da matéria de Paradigmas da Programação da FGA, focado na utilização do paradigma lógico com a criação de uma interface gráfica, utilização de sockets (multiplayer) e uso do Stockfish (vs Computador)",Prolog,https://github.com/UnBParadigmas2022-1/2022.1_G3_Logico_Chess
-574,COMP9414,7,5,7,0,14/05/2017,03/07/2017,6.36 MB,6510,,Prolog,https://github.com/wuzeshixp/COMP9414
-575,nix-cpan,7,2,7,0,07/12/2020,04/02/2024,27.22 MB,27871,,Prolog,https://github.com/stigtsp/nix-cpan
-576,Medical-Diagnosis-system-using-Prolog,7,3,7,0,24/11/2019,25/11/2019,1.00 KB,1,Medical Diagnosis system using Prolog,Prolog,https://github.com/sjbushra/Medical-Diagnosis-system-using-Prolog
-577,functional-logic,7,2,7,0,04/09/2015,08/01/2019,3.46 MB,3540,"No Mercury here, just small utilities in Haskell and Prolog.",Prolog,https://github.com/zambonin/functional-logic
-578,tinytrackuino,7,0,7,3,11/09/2013,23/09/2013,236.00 KB,236,Small Trackuino-compatible board for transmitting APRS packets over 2m amateur radio.,Prolog,https://github.com/johnboiles/tinytrackuino
-579,ICON,7,0,7,0,07/10/2023,27/01/2024,7.83 MB,8021,,Prolog,https://github.com/Fonty02/ICON
-580,JSCSExamMaterial,7,5,7,0,12/04/2016,21/05/2016,3.64 MB,3725,Study Material for the CompSci Junior Sophister Exams,Prolog,https://github.com/RobAntcliff/JSCSExamMaterial
-581,pixeldust,7,48,7,4,28/03/2025,06/05/2025,97.64 MB,99982,,Prolog,https://github.com/hackclub/pixeldust
-582,IDL_learning,7,1,7,0,19/12/2018,01/06/2019,1.40 MB,1436,自学IDL笔记,Prolog,https://github.com/ChenlieShi-NWU/IDL_learning
-583,wh40ksim,7,0,7,0,27/11/2017,22/10/2018,106.00 KB,106,Warhammer 40k Combat simulator,Prolog,https://github.com/stassa/wh40ksim
-584,Prolog-Exercises,7,1,7,0,29/09/2018,29/03/2020,17.00 KB,17,Prolog Programming Artificial Intelligence Exercises Solutions-Bratko-4th-Edition,Prolog,https://github.com/okanvk/Prolog-Exercises
-585,cs-web-proto,7,1,7,8,17/07/2019,15/07/2024,11.05 MB,11311,Prototype Operator Interface and Display Manager on the Web for EPICS,Prolog,https://github.com/DiamondLightSource/cs-web-proto
-586,prechacthis,7,5,7,8,04/12/2013,01/09/2025,5.14 MB,5261,,Prolog,https://github.com/prechac/prechacthis
-587,PrologTutorial,7,1,7,0,04/07/2022,01/11/2022,5.99 MB,6129,A Prolog Tutorial with Focus on Solving Interesting Problems,Prolog,https://github.com/ptarau/PrologTutorial
-588,rever,7,0,7,0,14/02/2020,15/11/2021,35.00 KB,35,,Prolog,https://github.com/mistupv/rever
-589,ijcai16-metagolai,7,0,7,0,18/04/2016,18/04/2016,415.00 KB,415,Cropper and S.H. Muggleton. Learning higher-order logic programs through abstraction and invention. IJCAI 2016.,Prolog,https://github.com/andrewcropper/ijcai16-metagolai
-590,RAHFT,7,1,7,0,23/11/2015,04/02/2022,1.14 MB,1171,RAHFT: A tool for verifying Horn clauses using abstract interpretation and finite tree automata,Prolog,https://github.com/bishoksan/RAHFT
-591,tauchain_prolog,7,0,7,0,23/12/2019,03/01/2024,498.00 KB,498,Tau Meta Language (TML) Inptereter coded in Prolog,Prolog,https://github.com/logicmoo/tauchain_prolog
-592,Peatland-mapping,6,1,6,0,05/04/2022,21/07/2022,58.00 KB,58,Data and code for: Crezee et al. (2022). Mapping peat thickness and carbon stocks of the central Congo Basin using field data. Nature Geoscience. https://doi.org/10.1038/s41561-022-00966-7,Prolog,https://github.com/CongoPeat/Peatland-mapping
-593,Intelligenza-Artificiale,6,2,6,1,28/07/2023,10/01/2024,18.37 MB,18806,Corso seguito presso Università di Parma nella facoltà di Informatica,Prolog,https://github.com/DennisTurco/Intelligenza-Artificiale
-594,COMP3608-2019,6,0,6,0,31/01/2019,13/03/2019,89.00 KB,89,Code for COMP3608 - Intelligent Systems ,Prolog,https://github.com/InzamamRahaman/COMP3608-2019
-595,irdroino_irda_shield,6,0,6,1,28/03/2019,29/03/2019,99.00 KB,99,Irdroino irDA Shield for Arduino,Prolog,https://github.com/Irdroid/irdroino_irda_shield
-596,winrt,6,3,6,0,26/05/2013,10/09/2013,1012.00 KB,1012,Qt on WinRT Book,Prolog,https://github.com/andrewknight/winrt
-597,PS2_tap,6,3,6,0,16/05/2013,12/06/2013,204.00 KB,204,A PS/2 data tap over audio line in,Prolog,https://github.com/dominicgs/PS2_tap
-598,plspec,6,0,6,7,04/01/2017,15/01/2021,2.53 MB,2593,,Prolog,https://github.com/wysiib/plspec
-599,clam3,6,0,6,0,30/12/2016,30/12/2016,1.49 MB,1524,"Prolog implementation of proof planner with critics, and some higher-order unification, in the v3 branch of Clam.",Prolog,https://github.com/theoremprover-museum/clam3
-600,prolog-monty-python,6,2,6,0,21/08/2016,21/08/2016,1.00 KB,1, Demo of the Monty Python witch scene with Prolog,Prolog,https://github.com/Risto-Stevcev/prolog-monty-python
-601,Logic-Vision,6,4,6,0,03/12/2014,02/06/2016,9.42 MB,9650,geometry learning with inductive logic programming,Prolog,https://github.com/haldai/Logic-Vision
-602,isel-leic-ai-2425summer-LI61D,6,0,6,0,22/02/2025,28/05/2025,100.00 KB,100,Artificial Intelligence course resources - 2024/25 Summer semester - Class LI61D,Prolog,https://github.com/nleite-isel/isel-leic-ai-2425summer-LI61D
-603,bencode,6,2,6,0,22/02/2013,10/03/2015,124.00 KB,124,Bencoding for Prolog,Prolog,https://github.com/mndrix/bencode
-604,packages-RDF,6,7,6,3,25/04/2014,01/09/2025,377.00 KB,377,The SWI-Prolog RDF/XML parser,Prolog,https://github.com/SWI-Prolog/packages-RDF
-605,logicmoo_cogserver,6,0,6,1,11/02/2022,30/08/2022,123.00 KB,123,Logicmoo server presenting a CogServer-compatible network interface,Prolog,https://github.com/opencog/logicmoo_cogserver
-606,CHIMERA,6,2,6,0,20/12/2017,19/02/2018,188.00 KB,188,Library of SolarSoft IDL routines to identify and extract coronal holes and their properties from EUV images of the Sun.,Prolog,https://github.com/TCDSolar/CHIMERA
-607,prolog-yamltiny,6,1,6,2,27/01/2013,27/01/2013,108.00 KB,108,A YAML subset parser for Prolog,Prolog,https://github.com/rla/prolog-yamltiny
-608,community,6,0,6,0,16/10/2013,25/10/2013,276.00 KB,276,"This repository is to build up a collection of pointers to economics formalizations (software, theorems, proofs).",Prolog,https://github.com/formare/community
-609,CHR-Minesweeper,6,5,6,0,23/07/2014,23/07/2014,148.00 KB,148,Simple Minesweeper application with Prolog and Constraint Handling Rules (CHR),Prolog,https://github.com/fnogatz/CHR-Minesweeper
-610,LHornSolver,6,0,6,0,20/11/2015,04/02/2022,1.26 MB,1291,A linear Horn clause solver for non-linear Horn clauses.,Prolog,https://github.com/bishoksan/LHornSolver
-611,sweet,6,0,6,7,16/05/2014,07/08/2014,224.00 KB,224,Sugar to make Prolog a little sweeter,Prolog,https://github.com/mndrix/sweet
-612,klondike,6,45,6,0,20/05/2013,19/05/2013,17.66 MB,18081,Bitcoin ASIC mining board project,Prolog,https://github.com/Jumpsu/klondike
-613,OOL,6,0,6,0,01/02/2019,13/03/2019,88.00 KB,88,Object Oriented extensions for Lisp and Prolog,Prolog,https://github.com/Lewih/OOL
-614,SWLOR_Haks,6,59,6,3,06/04/2019,26/08/2025,7.36 GB,7717417,"Star Wars: Legends of the Old Republic hakpak content, a persistent world for Neverwinter Nights.",Prolog,https://github.com/zunath/SWLOR_Haks
-615,Graph-Neural-Networks,6,5,6,0,24/02/2013,27/02/2013,660.00 KB,660,Neural Networks for Graphs. Simulator written for Mathworks Matlab 7+,Prolog,https://github.com/francoscarselli/Graph-Neural-Networks
-616,condition,6,0,6,1,13/09/2013,10/03/2015,176.00 KB,176,Condition system (a la Common Lisp) for Prolog,Prolog,https://github.com/mndrix/condition
-617,prolog-getting-started,6,2,6,0,08/10/2014,09/10/2014,144.00 KB,144,Sample application for heroku-prolog-buildpack,Prolog,https://github.com/thetrime/prolog-getting-started
-618,Career-Counseling-System,6,5,6,0,05/11/2018,08/11/2018,12.00 KB,12,an expert system using artificial intelligence that recommends the user to take courses based on their interests. ,Prolog,https://github.com/calmesam01/Career-Counseling-System
-619,mlj19-metaho,6,0,6,0,26/11/2019,26/11/2019,34.38 MB,35201,"A. Cropper, R. Morel, and S.H. Muggleton. Learning higher-order logic programs. Machine learning journal, 2019.",Prolog,https://github.com/andrewcropper/mlj19-metaho
-620,onaPL,6,1,6,0,14/02/2021,15/02/2021,48.00 KB,48,Could potentially become a Prolog implementation of OpenNARS-for-Applications,Prolog,https://github.com/patham9/onaPL
-621,Wii-BT-to-USB,6,1,6,1,06/08/2020,05/04/2021,6.39 MB,6545,A conversion for Wii bluetooth adapters to be used via USB on PC's,Prolog,https://github.com/Micah-Nailima/Wii-BT-to-USB
-622,Prolog-Codes,6,2,6,2,14/01/2020,14/07/2020,3.00 MB,3069,Prolog Codes and Assignments for AI Course of IIIT Allahabad,Prolog,https://github.com/aryan-harsh/Prolog-Codes
-623,crosswordsmith,6,0,6,1,10/10/2013,16/10/2016,11.00 KB,11,A crossword layout generator in Prolog,Prolog,https://github.com/ned2/crosswordsmith
-624,aaai23-disco,6,1,6,0,24/02/2023,24/02/2023,22.65 MB,23191,,Prolog,https://github.com/logic-and-learning-lab/aaai23-disco
-625,prolog-reversible-interpreter,6,0,6,0,09/03/2025,11/03/2025,16.00 KB,16,"Study of Inductive Program Synthesis by Using a Reversible Meta-Interpreter (Numao & Shimura, 1997)",Prolog,https://github.com/namin/prolog-reversible-interpreter
-626,pitopping,6,0,6,0,14/07/2013,14/07/2013,1.59 MB,1628,Pi-Topping robotics framework for the Raspberry Pi,Prolog,https://github.com/arnans/pitopping
-627,SAUCES,6,0,6,0,10/07/2018,07/01/2019,37.00 KB,37,Stellar Activity for Understanding and Characterizing Exoplanetary Systems,Prolog,https://github.com/RMRoettenbacher/SAUCES
-628,karma_agency,6,0,6,0,01/07/2020,04/09/2025,3.85 MB,3945,"Prolog app implementing functions that impart agency to a robot, namely apperception, a fitness evaluation, an evolving society of mind, event-based communication, and an interface to the agent's body (real or simulated)",Prolog,https://github.com/jfcloutier/karma_agency
-629,checkers-webapp,6,1,6,0,03/06/2017,21/05/2018,38.00 KB,38,A web checkers player using swi-prolog as the server and javascript as the client,Prolog,https://github.com/roblaing/checkers-webapp
-630,ngi_visualizations,6,12,6,0,09/07/2014,22/02/2018,2.37 MB,2427,Development fork. Head fork here >>>,Prolog,https://github.com/ewels/ngi_visualizations
-631,OpenWALAS.github.io,6,0,6,2,21/08/2020,09/07/2025,680.14 MB,696466,Mainpage,Prolog,https://github.com/OpenWALAS/OpenWALAS.github.io
-632,logilic,6,4,6,2,01/12/2012,04/12/2012,131.00 KB,131,Tools to reason about software licenses,Prolog,https://github.com/flepied/logilic
-633,race,6,0,6,0,28/06/2018,05/07/2018,15.00 KB,15,Prolog client for the SOAP interface of the Attempto Reasoner RACE,Prolog,https://github.com/fnogatz/race
-634,xlci,6,1,6,2,28/02/2019,22/12/2021,519.15 MB,531608,Cross-lingual CCG Induction,Prolog,https://github.com/texttheater/xlci
-635,typo,6,0,6,0,11/06/2019,12/06/2019,24.00 KB,24,Type and syntax checker reporting using metainterpretation.,Prolog,https://github.com/GavinMendelGleason/typo
-636,timber-wolf-VLSI-placement,6,1,6,0,09/10/2016,09/10/2016,4.22 MB,4322,Timber wolf algorithm (simulated annelling) for VLSI placement,Prolog,https://github.com/zjyfdu/timber-wolf-VLSI-placement
-637,eqdsk2helena,6,1,6,0,11/08/2011,11/08/2011,100.00 KB,100,Convert EQDSK equilibrium files into input for HELENA,Prolog,https://github.com/bendudson/eqdsk2helena
-638,prolog-hydrocarbons-simulation,6,0,6,0,15/01/2023,15/01/2023,265.00 KB,265,Prolog simulator for HydroCarbons,Prolog,https://github.com/a-tokyo/prolog-hydrocarbons-simulation
-639,hm-prolog,6,0,6,0,27/09/2017,27/09/2017,3.00 KB,3,A Hindley-Milner implementation in Prolog.,Prolog,https://github.com/remexre/hm-prolog
-640,kubepl,6,0,6,0,02/09/2016,30/11/2016,4.00 KB,4,Prolog Kubernetes client,Prolog,https://github.com/honnix/kubepl
-641,8-puzzle,6,8,6,0,23/10/2015,23/10/2015,140.00 KB,140,Solve 8 sliding tile puzzle in Prolog,Prolog,https://github.com/ad52825196/8-puzzle
-642,ClocksinMellish,6,1,6,0,02/08/2010,02/08/2010,232.00 KB,232,"Code from the book ""Programming in Prolog"" by William F. Clocksin and Christopher S. Mellish (original and my own solutions to exercises).",Prolog,https://github.com/aistrate/ClocksinMellish
-643,ddsv-prolog,6,0,6,0,19/10/2019,13/05/2020,14.00 KB,14,Prolog implementation for https://principia.connpass.com/event/143181/,Prolog,https://github.com/Kuniwak/ddsv-prolog
-644,packages-regex,6,3,6,0,25/04/2014,25/04/2014,164.00 KB,164,Pure Prolog regex implementation,Prolog,https://github.com/SWI-Prolog/packages-regex
-645,clingo-solvers,6,2,6,0,11/11/2018,03/01/2022,676.00 KB,676,"Answer Set Programming (ASP): clingo solvers for NxN Sudoku, Yosenabe, Minotaur and Elevator games",Prolog,https://github.com/atreyasha/clingo-solvers
-646,cool-compiler,6,1,6,0,07/12/2017,20/12/2017,1.43 MB,1466,This is a simple compiler for cool (classroom object-oriented language).,Prolog,https://github.com/liyu10000/cool-compiler
-647,famicombox,6,0,6,0,22/09/2022,22/09/2022,3.44 MB,3518,FamicomBox+ Mod,Prolog,https://github.com/Eevitronics/famicombox
-648,prolog-english-grammar-parser,6,0,6,0,15/01/2023,15/01/2023,4.00 KB,4,"parser for a definite clause grammar of English-Light. English- Light is a fragment of English (i.e., English-Light does not include any ungrammatical English sentences).",Prolog,https://github.com/a-tokyo/prolog-english-grammar-parser
-649,valveni-db,6,0,6,0,01/05/2022,10/05/2022,8.00 KB,8,ValveniDB,Prolog,https://github.com/aarroyoc/valveni-db
-650,board-m1,6,5,6,0,22/03/2012,27/06/2012,558.00 KB,558,Milkymist One PCB design files,Prolog,https://github.com/m-labs/board-m1
-651,Creativity-augmenter,6,2,6,0,23/10/2016,30/03/2020,131.00 KB,131,This is a useful thing for making twitter bots (and random nonsense).,Prolog,https://github.com/noahmartinwilliams/Creativity-augmenter
-652,elc117-2021a,6,9,6,0,04/04/2021,07/09/2021,532.00 KB,532,ELC117 - Paradigmas de Programação - UFSM - 2021a,Prolog,https://github.com/AndreaInfUFSM/elc117-2021a
-653,CC2540,6,3,6,0,19/09/2013,20/09/2013,168.00 KB,168,TI CC 2540 BTLE Break out board,Prolog,https://github.com/mako34/CC2540
-654,packages-pldoc,6,14,6,13,25/04/2014,01/09/2025,3.16 MB,3236,The SWI-Prolog documentation system,Prolog,https://github.com/SWI-Prolog/packages-pldoc
-655,multseq,6,1,6,0,02/07/2024,02/07/2024,41.00 KB,41,"M. Ultseq, the genius many-valued sequent theorem prover",Prolog,https://github.com/rzach/multseq
-656,peronautas,6,1,6,0,30/03/2011,25/11/2012,14.12 MB,14464,D3LP0R,Prolog,https://github.com/leosmolas/peronautas
-657,faasshell,6,1,6,1,30/11/2017,02/09/2020,3.09 MB,3169,FaaS Shell is a shell for Serverless Function Workflow across multiple clouds.,Prolog,https://github.com/NaohiroTamura/faasshell
-658,terfblocklist,6,1,6,0,23/03/2018,23/03/2018,9.00 KB,9,semi-automatic tool to gather IDs of transphobic users on Twitter,Prolog,https://github.com/Anniepoo/terfblocklist
-659,r34_sCASP,6,2,6,1,16/02/2021,29/06/2025,260.00 KB,260,,Prolog,https://github.com/smucclaw/r34_sCASP
-660,2023-clases,6,1,6,0,22/03/2023,30/10/2023,1.36 MB,1390,,Prolog,https://github.com/pdep-lunes-tarde/2023-clases
-661,morphing-airfoil,6,0,6,0,24/02/2025,25/04/2025,12.56 MB,12860,UNSW DESN1000 morphing airfoil project,Prolog,https://github.com/mvx-dev/morphing-airfoil
-662,unicvmod,6,1,6,0,06/08/2019,17/04/2020,399.00 KB,399,Universal composite mod for retro computers,Prolog,https://github.com/gusmanb/unicvmod
-663,advent-of-code-2023,6,1,6,0,01/12/2023,18/12/2023,137.00 KB,137,My solutions for AoC 2023,Prolog,https://github.com/aarroyoc/advent-of-code-2023
-664,semantique,6,1,6,6,18/09/2017,08/06/2018,119.82 MB,122700,Cours de Bachelor : Sémantique des Langages Informatiques,Prolog,https://github.com/cui-unige/semantique
-665,rTANDEM,6,4,6,0,19/06/2012,24/09/2013,2.52 MB,2582,,Prolog,https://github.com/CharlesJB/rTANDEM
-666,ev3dev-prolog,6,2,6,2,01/07/2019,06/03/2024,62.00 KB,62,ev3dev-based API for Prolog using the readily available swi-Prolog,Prolog,https://github.com/maweki/ev3dev-prolog
-667,audiofeaturesonto,6,0,6,1,12/10/2011,12/10/2011,128.00 KB,128,"This ontology express the most common things you may extract automatically from a musical signal, by sub-classing some of the terms defined in the Music Ontology.",Prolog,https://github.com/motools/audiofeaturesonto
-668,Learn-Prolog,6,2,6,0,12/11/2021,21/04/2022,531.00 KB,531,"A repository for showcasing my knowledge of the Prolog programming language, and continuing to learn the language. ",Prolog,https://github.com/seanpm2001/Learn-Prolog
-669,Physical-Design-Automation,6,0,6,0,08/03/2017,16/12/2019,36.58 MB,37456,"This repo is ""NTHU Physical Design Automation"" course project.",Prolog,https://github.com/laplaceyc/Physical-Design-Automation
-670,PrologExamples,6,0,6,0,29/12/2018,07/12/2019,4.00 KB,4,,Prolog,https://github.com/3bru/PrologExamples
-671,phil,6,2,6,1,08/10/2018,05/11/2024,3.30 MB,3378,PHIL is a parameter learning algorithm that learns the parameters of Hierarchical Probabilistic Logic Programs applying gradient descent and Expectation Maximization,Prolog,https://github.com/ArnaudFadja/phil
-672,couch_orcl,6,2,6,0,18/08/2010,17/01/2012,831.00 KB,831,A CouchDB client for Oracle PL/SQL,Prolog,https://github.com/zekzekus/couch_orcl
-673,eezoterial,6,0,6,0,16/06/2016,02/07/2024,1.63 MB,1672,"Mass Effect - inspired Visual Studio Code/Apple Terminal/Konsole/Geany/Kate/Mintty/Secure Shell/Irssi theme with material colors, aka solarized abomination",Prolog,https://github.com/unic0rn/eezoterial
-674,lix,6,0,6,0,17/06/2019,15/07/2024,45.00 KB,45,Lix: A self-applicable partial evaluator for Prolog,Prolog,https://github.com/leuschel/lix
-675,mlj19-iggp,6,0,6,0,23/06/2019,26/06/2019,24.51 MB,25096,"A. Cropper, R. Evans, and M. Law. Inductive general game playing. Machine learning journal, 2019.",Prolog,https://github.com/andrewcropper/mlj19-iggp
-676,ModelMMORPG,6,0,6,0,12/10/2018,15/03/2019,1.10 MB,1130,"ModelMMORPG was a scientific project sponsored by the Croatian Science Foundation. Massively multi-player on-line role playing games (MMORPGs) give us the opportunity to study two important aspects of computing: (1) large-scale virtual social interaction of people (players) and (2) the design, development and coordination of large-scale distributed artificial inteligence (AI).",Prolog,https://github.com/AILab-FOI/ModelMMORPG
-677,daplacer,6,1,6,0,02/12/2021,28/08/2025,21.57 MB,22084,Tool for data-aware application placement and routing in the Cloud-IoT continuum,Prolog,https://github.com/di-unipi-socc/daplacer
-678,PESAD,6,1,6,0,08/07/2019,21/04/2023,612.00 KB,612,Prolog Expert System on Anxiety Disorders,Prolog,https://github.com/dmeoli/PESAD
-679,wikidata_ontomatcher,6,0,6,2,28/07/2019,15/06/2020,15.00 KB,15,Matches ontology classes against wikidata,Prolog,https://github.com/cmungall/wikidata_ontomatcher
-680,term_diff,6,1,6,0,12/07/2013,10/03/2015,128.00 KB,128,Calculate patches between two Prolog terms,Prolog,https://github.com/mndrix/term_diff
-681,Prolog-Arvore-Familiar-Pinheiro,6,1,6,1,14/11/2020,17/11/2021,3.00 KB,3,,Prolog,https://github.com/YuriDomingos/Prolog-Arvore-Familiar-Pinheiro
-682,prolog_bot,6,1,6,0,07/08/2019,06/02/2024,51.00 KB,51,Simple Telegram bot in PROLOG,Prolog,https://github.com/Cuttlerat/prolog_bot
-683,ICON_2024,6,0,6,0,02/01/2025,13/01/2025,3.55 MB,3632,project for the exam of icon,Prolog,https://github.com/icekern/ICON_2024
-684,prologmud_I7,6,0,6,0,29/09/2018,25/01/2020,49.72 MB,50911,"Small adventure Games Gleaned off the Web such as ""Marty's Prolog Adventure Prototype""",Prolog,https://github.com/logicmoo/prologmud_I7
-685,rayleighsommerfeld,6,8,6,0,14/01/2013,25/07/2013,66.00 KB,66,IDL code for analyzing in-line holographic microscopy images with Rayleigh-Sommerfeld back-propagation,Prolog,https://github.com/davidgrier/rayleighsommerfeld
-686,restaurant-expert-system,6,7,6,0,15/06/2020,15/06/2020,33.00 KB,33,:plate_with_cutlery: A simple expert system which recommends food menu based on user preferences.,Prolog,https://github.com/murshidazher/restaurant-expert-system
-687,IMKO-1,6,1,6,0,24/09/2012,13/12/2012,1.21 MB,1241,Reverse-engineering the first Bulgarian personal computer,Prolog,https://github.com/lowvoltage/IMKO-1
-688,beaglebone-fpga,6,5,6,0,29/08/2012,31/12/2012,2.44 MB,2501,My attempt at making an FPGA add-on cape for the Beaglebone,Prolog,https://github.com/magyarm/beaglebone-fpga
-689,regexc,6,2,6,0,22/10/2018,06/01/2019,192.00 KB,192,A regular expression compiler written in Prolog,Prolog,https://github.com/SallySoul/regexc
-690,scheme,6,0,6,0,12/12/2012,07/01/2013,108.00 KB,108,Very limited scheme interpreter,Prolog,https://github.com/FigBug/scheme
-691,A-Star-Search,6,0,6,0,14/02/2016,16/02/2016,1.00 KB,1,A Prolog Implementation of A* Search,Prolog,https://github.com/houli/A-Star-Search
-692,SoM-allwinnerA10,6,0,6,0,01/03/2013,01/03/2013,3.37 MB,3452,Allwinner A10 cpu card with SO-DIMM connector,Prolog,https://github.com/SoM-Boards/SoM-allwinnerA10
-693,conlang,6,0,6,0,29/07/2016,26/01/2019,20.00 KB,20,Constructed language doodles,Prolog,https://github.com/fusiongyro/conlang
-694,Three_Phase_Motor_Driver-TMC6300,6,1,6,0,21/09/2022,12/12/2022,8.29 MB,8494,Breakout board for the TMC6300 brushless DC 3-phase motor driver.,Prolog,https://github.com/sparkfunX/Three_Phase_Motor_Driver-TMC6300
-695,NUWT,6,1,6,0,14/03/2016,15/01/2019,154.81 MB,158523,Northumbria wave tracking code,Prolog,https://github.com/Richardjmorton/NUWT
-696,jobshop-scheduling,6,1,6,0,01/12/2020,06/06/2023,39.00 KB,39,Optimal ECLiPSe Prolog job-shop scheduling solver,Prolog,https://github.com/georgesittas/jobshop-scheduling
-697,plsheet,5,1,5,0,18/12/2012,14/01/2014,288.00 KB,288,Prolog based spreadsheet analyzer (prototype),Prolog,https://github.com/JanWielemaker/plsheet
-698,Prolog-DAG-Scheduler,5,0,5,3,29/12/2014,23/08/2015,244.00 KB,244,Prolog Parallel DAG Task Scheduler,Prolog,https://github.com/endymion64/Prolog-DAG-Scheduler
-699,dictoo,5,0,5,1,29/01/2017,16/09/2023,130.00 KB,130,Dict-like OO Syntax Pack,Prolog,https://github.com/logicmoo/dictoo
-700,datalaude,5,1,5,0,11/09/2009,11/09/2009,38.56 MB,39485,Datalog solver based on rewriting logic.,Prolog,https://github.com/datalaude/datalaude
-701,lf-shield,5,1,5,0,14/04/2011,21/10/2014,125.00 KB,125,"This is a template for new Freeduino, Arduino shields. The template is made in KiCAD EDA.",Prolog,https://github.com/Open-Laboratory/lf-shield
-702,rdfs2pl,5,1,5,0,20/07/2014,30/10/2017,60.00 KB,60,RDF schema to prolog compiler,Prolog,https://github.com/cmungall/rdfs2pl
-703,Prolog-problems,5,0,5,0,10/01/2019,11/01/2019,28.00 KB,28,,Prolog,https://github.com/aspil/Prolog-problems
-704,sbot,5,1,5,0,10/02/2018,28/12/2018,141.00 KB,141,SBot the smart ChatDev bot,Prolog,https://github.com/fredericlepied/sbot
-705,parareal,5,4,5,1,15/02/2019,02/05/2023,443.00 KB,443,A Parareal Implementation in Matlab/Octave for Problems with Discontinuous Sources,Prolog,https://github.com/temf/parareal
-706,toern,5,0,5,0,08/01/2025,29/07/2025,22.24 MB,22776,"the successor project to NI404 - better, simpler, all-in-one.",Prolog,https://github.com/Soundpauli/toern
-707,NTUA-Artificial-Intelligence-Prolog,5,0,5,0,25/02/2018,25/02/2018,24.73 MB,25324,,Prolog,https://github.com/chrispanag/NTUA-Artificial-Intelligence-Prolog
-708,PMI-0.4,5,7,5,0,27/11/2013,01/10/2021,103.71 MB,106197,The software PMI (Platform for Research in Medical Imaging) supports the translation of basic research in medical image analysis into early clinical studies.,Prolog,https://github.com/plaresmedima/PMI-0.4
-709,PyILP,5,0,5,0,26/02/2022,10/05/2024,411.00 KB,411,A novel user-friendly Python interface for Inductive Logic programming(ILP)  system for teaching machine learning and data-mining,Prolog,https://github.com/danyvarghese/PyILP
-710,Logic-Programming,5,4,5,0,24/02/2018,18/01/2019,25.36 MB,25967,Logic Programming using Prolog.,Prolog,https://github.com/rahul1947/Logic-Programming
-711,UrbanAnalyticsCourse,5,29,5,1,06/07/2021,07/09/2024,199.32 MB,204099,Urban Analytics Course work for Johns Hopkins Univeristy,Prolog,https://github.com/achapkowski/UrbanAnalyticsCourse
-712,SxxMachine,5,1,5,0,11/09/2018,24/06/2019,15.69 MB,16062,C++ Prolog/Datalog Inference Engine,Prolog,https://github.com/DouglasRMiles/SxxMachine
-713,prologWebScanner,5,3,5,0,23/03/2019,05/11/2021,285.00 KB,285,SWI-Prolog code to test the security of your web application,Prolog,https://github.com/brog45/prologWebScanner
-714,rc2324,5,1,5,0,23/02/2024,16/07/2024,1.10 MB,1128,Curso de Representación del Conocimiento2023-2024 de la Universidad de Huelva ,Prolog,https://github.com/jcarpio/rc2324
-715,stix_type1,5,0,5,4,17/12/2020,15/01/2021,9.59 MB,9817,type 1 versions of STIX 2.0.0 (deprecated),Prolog,https://github.com/stipub/stix_type1
-716,trealla-spin,5,0,5,1,02/03/2023,02/03/2023,6.00 KB,6,Trealla Prolog templates for Spin,Prolog,https://github.com/guregu/trealla-spin
-717,open-geiger-counter,5,0,5,0,27/10/2014,03/02/2015,232.00 KB,232,PIN diode based Geiger counter,Prolog,https://github.com/SyrianSpock/open-geiger-counter
-718,LearningProlog,5,5,5,0,10/12/2019,20/10/2021,14.00 KB,14,Tutorial on learning Prolog: https://medium.com/@ibjects/complete-prolog-language-tutorial-d46a811c58e8,Prolog,https://github.com/thechaudharysab/LearningProlog
-719,Aura-sync-splitter,5,0,5,0,30/05/2018,08/08/2018,616.00 KB,616,Splits an addressable WS2811 RGB signal into separately powered discrete Aura Sync headers,Prolog,https://github.com/Breina/Aura-sync-splitter
-720,id3-prolog,5,0,5,0,10/06/2017,09/07/2019,147.00 KB,147,Prolog Implementation of the ID3 Algorithm,Prolog,https://github.com/ignaciomosca/id3-prolog
-721,mine-prolog-tba,5,0,5,0,19/04/2012,20/04/2012,128.00 KB,128,A small text-based adventure game developed in prolog.,Prolog,https://github.com/tobischo/mine-prolog-tba
-722,Left-Corner-MG-parser,5,0,5,0,30/05/2018,30/05/2018,33.00 KB,33,,Prolog,https://github.com/stanojevic/Left-Corner-MG-parser
-723,prolog-tableaux,5,0,5,0,24/05/2012,03/06/2012,148.00 KB,148,Method of analytic tableaux for a propositional logic,Prolog,https://github.com/tchap/prolog-tableaux
-724,cpropstoo,5,5,5,18,02/04/2013,05/11/2019,434.00 KB,434,CPROPS-for-ALMA revision,Prolog,https://github.com/akleroy/cpropstoo
-725,bulletpl,5,0,5,0,19/07/2018,24/08/2018,380.00 KB,380,,Prolog,https://github.com/hsk/bulletpl
-726,gba-mtom-link,5,0,5,0,31/03/2023,29/02/2024,2.16 MB,2215,A Male to Male GBA Link adapter.,Prolog,https://github.com/Semicolon7645/gba-mtom-link
-727,Prusa-MK2-Ext.-Driver-Board,5,0,5,0,22/11/2022,05/01/2024,88.55 MB,90679,Prusa MK2 Ext. Driver Board,Prolog,https://github.com/toto99303/Prusa-MK2-Ext.-Driver-Board
-728,sql_compiler-OLD,5,0,5,0,21/10/2012,10/07/2018,24.00 KB,24,Draxler prolog to SQL compiler,Prolog,https://github.com/cmungall/sql_compiler-OLD
-729,ProLog_Tp,5,0,5,0,16/10/2017,18/12/2017,11.00 KB,11,"ProLog Tp work, process of learning logical programming using prolog",Prolog,https://github.com/oussamabonnor1/ProLog_Tp
-730,MSOP10_DIP,5,1,5,0,26/07/2010,23/01/2013,428.00 KB,428,LAYOUT FILES: MSOP10 / TSSOP8 to DIP adapter. Essential for breadboard prototyping. KICAD and Gerber files.,Prolog,https://github.com/madworm/MSOP10_DIP
-731,kProbLogDSL,5,0,5,0,01/02/2017,07/02/2017,74.53 MB,76320,,Prolog,https://github.com/orsinif/kProbLogDSL
-732,Problems,5,0,5,0,08/01/2019,05/10/2019,28.00 KB,28,💭💡All problems implementated as exercises in course: Principals Of Programming Languages,Prolog,https://github.com/nikosgalanis/Problems
-733,estoque-console-app,5,0,5,1,28/02/2022,01/04/2022,158.00 KB,158,Esta é uma aplicação proposta como projeto da disciplina de Paradigmas de Linguagens de Programação. ,Prolog,https://github.com/PauloHFS/estoque-console-app
-734,Prolog-Othello-Game,5,6,5,0,11/05/2020,11/05/2020,2.51 MB,2568,Othello Game Application Implemented with Alpha-Beta Algorithm in SWI-Prolog's Logic Programming Language :chess_pawn:,Prolog,https://github.com/cwelt/Prolog-Othello-Game
-735,advent-of-code-2022,5,0,5,0,01/12/2022,12/01/2024,50.00 KB,50,,Prolog,https://github.com/aarroyoc/advent-of-code-2022
-736,Drowzee,5,0,5,2,01/09/2024,23/06/2025,19.77 MB,20249,,Prolog,https://github.com/security-pride/Drowzee
-737,exn-source,5,0,5,0,18/10/2014,21/10/2014,212.00 KB,212,Exception backtrace for OCaml with source code printing,Prolog,https://github.com/johnwhitington/exn-source
-738,http2_client,5,0,5,1,11/09/2018,18/12/2019,94.00 KB,94,Prolog HTTP/2 Client. Mirror of https://gitlab.com/jamesnvc/prolog_http2_client,Prolog,https://github.com/jamesnvc/http2_client
-739,Aquarius-MiniExpander-1-1-0,5,3,5,0,27/08/2020,29/03/2022,24.93 MB,25526,Stock Aquarius Mini Expander PCB,Prolog,https://github.com/1stage/Aquarius-MiniExpander-1-1-0
-740,neoplasmer,5,0,5,1,22/08/2018,15/07/2019,91.00 KB,91,Neoplasm Entity Recognition: matching disease names to ontology classes,Prolog,https://github.com/INCATools/neoplasmer
-741,InferenceEngine,5,1,5,0,18/08/2012,01/09/2012,596.00 KB,596,Inference engine for 3D object recognition in Prolog,Prolog,https://github.com/mlisicki/InferenceEngine
-742,openSX70-FTDI,5,1,5,0,25/01/2018,10/07/2019,11.82 MB,12106,FTDI connection to program openSX70 camera,Prolog,https://github.com/openSX70/openSX70-FTDI
-743,uTracer,5,1,5,0,29/10/2022,12/05/2023,109.79 MB,112425,,Prolog,https://github.com/donpivo/uTracer
-744,0xTwitterBot,5,5,5,1,10/02/2018,12/02/2018,16.00 KB,16,Twitter BotNet,Prolog,https://github.com/u0pattern/0xTwitterBot
-745,Architectural-Floor-Plan-Generator,5,1,5,0,23/12/2014,23/12/2014,4.71 MB,4828,Architectural-Floor-Plan-Generator,Prolog,https://github.com/Minuri-Rajapaksha/Architectural-Floor-Plan-Generator
-746,prolog-nlp,5,2,5,0,22/11/2016,03/12/2016,148.00 KB,148,Natural language parsing and validation with Prolog,Prolog,https://github.com/Phyxius/prolog-nlp
-747,PoEInjector4ChUnregulated,5,1,5,0,22/06/2010,24/04/2019,54.00 KB,54,Simple adapter for home-brew Power-over-Ethernet,Prolog,https://github.com/freetronics/PoEInjector4ChUnregulated
-748,epictetus,5,2,5,0,05/03/2013,28/09/2014,791.00 KB,791,IRC bot written in prolog.,Prolog,https://github.com/ljos/epictetus
-749,course-advisor,5,3,5,9,26/06/2012,26/07/2012,1.51 MB,1542,An expert system for advising Computer Science students (at Brock) which courses to enroll in.,Prolog,https://github.com/dideler/course-advisor
-750,ptunes,5,3,5,0,12/09/2013,24/09/2013,22.39 MB,22932,pTunes runtime parameter adaptation framework,Prolog,https://github.com/mzimmerling/ptunes
-751,advertent-curt,5,3,5,0,19/08/2008,01/09/2008,288.00 KB,288,An extension to the Curt system found in Blackburn and Bos 2005,Prolog,https://github.com/adimit/advertent-curt
-752,reactome-pengine,5,3,5,0,17/01/2018,24/01/2018,2.23 MB,2285,,Prolog,https://github.com/samwalrus/reactome-pengine
-753,war-crimes-explorer,5,2,5,0,15/04/2022,01/12/2023,24.00 KB,24,"Interactive in-browser learning about genocide, war crimes, crimes against humanity, and aggression.",Prolog,https://github.com/public-law/war-crimes-explorer
-754,LeanProlog,5,1,5,0,25/02/2022,25/02/2022,2.10 MB,2152,,Prolog,https://github.com/ptarau/LeanProlog
-755,7in7,5,0,5,0,16/12/2011,05/01/2012,152.00 KB,152,Seven Languages in Seven Weeks,Prolog,https://github.com/gatesphere/7in7
-756,MinCov,5,1,5,1,21/10/2019,30/09/2021,68.80 MB,70447,An tool that produces the coverabillty set for Petri nets,Prolog,https://github.com/IgorKhm/MinCov
-757,beaglebone-capes,5,1,5,1,12/12/2011,24/12/2011,1.38 MB,1410,Collection of BeagleBone cape designs,Prolog,https://github.com/koenkooi/beaglebone-capes
-758,esp8266-devboard-schematics,5,2,5,0,12/11/2014,12/11/2014,140.00 KB,140,ESP8266 Devboard schematics and layout,Prolog,https://github.com/nekromant/esp8266-devboard-schematics
-759,function_expansion,5,3,5,1,18/01/2013,27/10/2016,152.00 KB,152,Help for writing function-like macros,Prolog,https://github.com/mndrix/function_expansion
-760,henry,5,1,5,1,30/05/2012,31/05/2012,192.00 KB,192,A SWI-Prolog N3 parser/reasoner,Prolog,https://github.com/moustaki/henry
-761,idl,5,4,5,0,07/02/2012,07/02/2012,980.00 KB,980,idl submodule of davit,Prolog,https://github.com/ajribeiro/idl
-762,Ivan-Bratko-Prolog-Examples,5,2,5,0,07/08/2022,07/08/2022,8.01 MB,8206,"PROLOG PROGRAMMING FOR ARTIFICIAL INTELLIGENCE by lvan Bratko, E.Kardelj University.  J.Stefan Institute Yugoslavia",Prolog,https://github.com/AMITKESARI2000/Ivan-Bratko-Prolog-Examples
-763,ppm,5,0,5,0,13/06/2017,22/07/2018,72.00 KB,72,Prolog Package Manager (PPM): A package manager for Prolog.,Prolog,https://github.com/wouterbeek/ppm
-764,jazz-engine,5,2,5,0,22/05/2023,07/09/2023,6.39 MB,6546,Prolog implementation of music theory & jazz guitar.,Prolog,https://github.com/vasilescur/jazz-engine
-765,sudoku,5,0,5,0,27/01/2015,27/01/2015,282.00 KB,282,A Prolog program that solves 4x4 Sudoku puzzles,Prolog,https://github.com/melissamangos/sudoku
-766,todo,5,0,5,0,29/07/2015,01/08/2015,168.00 KB,168,A simple web-based todo app in Prolog.,Prolog,https://github.com/jaelle/todo
-767,PROLOG-TD2,5,0,5,0,02/06/2021,02/06/2021,87.00 KB,87,,Prolog,https://github.com/GL3-2021-2020/PROLOG-TD2
-768,pro2sql,5,0,5,0,25/06/2023,02/07/2023,61.00 KB,61,A lightweight prolog to sql translator,Prolog,https://github.com/RdR1024/pro2sql
-769,java-parse,5,0,5,0,09/04/2017,03/10/2017,28.00 KB,28,Prolog project that parses Java code,Prolog,https://github.com/epeld/java-parse
-770,packages-pcre,5,7,5,9,23/04/2017,01/09/2025,249.00 KB,249,SWI-Prolog package for access to Perl Regular Expressions,Prolog,https://github.com/SWI-Prolog/packages-pcre
-771,microflare_dem,5,3,5,1,18/05/2012,28/11/2012,725.00 KB,725,Determining the differential emission measure of microflares using AIA and RHESSI,Prolog,https://github.com/ehsteve/microflare_dem
-772,BLDC,5,4,5,0,07/02/2013,07/02/2013,244.00 KB,244,BLDC Motor Driver,Prolog,https://github.com/triffid/BLDC
-773,Rational-Hallucination,5,1,5,0,11/05/2023,13/06/2023,15.00 KB,15,"An experimental Python-Prolog Hybrid model that explores adding reasoning capabilities to LLMs using a Fact, Rule and Inference Framework.",Prolog,https://github.com/ahmed-khalil-hafsi/Rational-Hallucination
-774,ilp18-dreduce,5,0,5,0,11/07/2018,11/07/2018,283.00 KB,283,A. Cropper and S. Tourret. Derivation reduction of metarules in meta-interpretive learning. ILP 2018. ,Prolog,https://github.com/andrewcropper/ilp18-dreduce
-775,ijcai19-playgol,5,1,5,0,23/11/2019,23/11/2019,90.64 MB,92812,A. Cropper. Playgol: learning programs through play. IJCAI 2019. http://andrewcropper.com/pubs/ijcai19-playgol.pdf,Prolog,https://github.com/andrewcropper/ijcai19-playgol
-776,listprologinterpreter,5,3,5,0,09/02/2018,29/08/2025,1020.00 KB,1020,A Prolog Interpreter written in Prolog.,Prolog,https://github.com/luciangreen/listprologinterpreter
-777,flashadapters,5,2,5,0,27/07/2012,27/07/2012,116.00 KB,116,different flash adapters for buspirate and the hacked router,Prolog,https://github.com/nekromant/flashadapters
-778,datalogsolve,5,1,5,0,13/11/2009,20/11/2009,5.42 MB,5546,A Datalog-Based Static Program Analyzer,Prolog,https://github.com/ftarin/datalogsolve
-779,rdet,5,1,5,1,02/11/2015,16/04/2020,19.00 KB,19,Runtime determinacy checker for SWI-Prolog,Prolog,https://github.com/rla/rdet
-780,flysim,5,2,5,0,15/05/2018,06/11/2018,470.91 MB,482216,a spiking neural network simulator,Prolog,https://github.com/yc-h/flysim
-781,prolog,5,3,5,0,29/04/2018,28/04/2019,15.00 KB,15,simple examples with prolog ,Prolog,https://github.com/Z4ck404/prolog
-782,aoc-2019,5,0,5,0,02/12/2019,25/12/2019,2.30 MB,2359,Solutions for the Advent of Code 2019 problems,Prolog,https://github.com/vstrimaitis/aoc-2019
-783,chr_book,5,0,5,0,04/02/2022,30/04/2022,108.00 KB,108,"Valuable code and exercises about the book ""Constraint Handling Rules (2009)"" .",Prolog,https://github.com/chansey97/chr_book
-784,logicmoo_cg,5,1,5,0,11/09/2020,06/02/2022,3.54 MB,3626,Conceptual Graph (CG) Libraries in Prolog,Prolog,https://github.com/logicmoo/logicmoo_cg
-785,cleanmodels,5,0,5,1,30/11/2020,24/12/2020,227.00 KB,227,Continued development on OldManBeard's CleanModels application for Neverwinter Nights,Prolog,https://github.com/plenarius/cleanmodels
-786,xcj_swarm,5,4,5,0,05/06/2012,09/08/2012,535.00 KB,535,Xinchejian Swarm Robot project,Prolog,https://github.com/edwardrf/xcj_swarm
-787,wordnet,5,1,5,0,26/11/2017,03/05/2018,14.00 KB,14,SWI-Prolog pack to load WordNet relations lazily,Prolog,https://github.com/JanWielemaker/wordnet
-788,eagle,5,4,5,7,01/07/2016,17/01/2020,20.76 MB,21255,,Prolog,https://github.com/irllabs/eagle
-789,Design-Compiler-for-Programming-Language,5,0,5,0,24/05/2020,03/06/2020,1.81 MB,1849,Rancho - Whole new prgramming language and compiler built using Prolog,Prolog,https://github.com/mayankkt9/Design-Compiler-for-Programming-Language
-790,lambda-pro,5,3,5,0,16/03/2018,15/08/2019,81.00 KB,81,an interpreter for lambda calculus,Prolog,https://github.com/dtaskoff/lambda-pro
-791,grepy,5,0,5,3,05/03/2024,07/05/2024,101.00 KB,101,Simple grep implementation written in haskell and prolog,Prolog,https://github.com/alcantarajulio/grepy
-792,GettingToBlinky,5,5,5,0,01/10/2013,03/10/2013,136.00 KB,136,A project to show how to use KiCad and build a tiny blinking PCB,Prolog,https://github.com/ContextualElectronics/GettingToBlinky
-793,mbLifter,5,0,5,0,05/04/2020,12/07/2021,1.58 MB,1616,Eurorack Gain Attenuation Saturation InOut FxLoop Thing.,Prolog,https://github.com/mariosgit/mbLifter
-794,InteligenciaArtificial,5,0,5,0,17/11/2021,11/12/2021,1016.00 KB,1016,,Prolog,https://github.com/FranciscoReisIzquierdo/InteligenciaArtificial
-795,IATP-L3S2,5,0,5,0,17/03/2025,22/04/2025,2.00 KB,2,,Prolog,https://github.com/maxviiiy/IATP-L3S2
-796,CHR-Constraint-Server,5,1,5,0,23/03/2017,23/03/2017,2.00 KB,2,A Persistent CHR Webserver,Prolog,https://github.com/fnogatz/CHR-Constraint-Server
-797,PROLOG,5,6,5,0,18/09/2020,11/10/2020,626.00 KB,626,Short Projects in Prolog,Prolog,https://github.com/CO18325/PROLOG
-798,DCG-Handler,5,1,5,0,17/12/2018,19/12/2018,2.00 KB,2,"Prolog Program that explicitly coverts, Definite Clause Grammar (DCG) rules to the corresponding Prolog Program",Prolog,https://github.com/kon172verma/DCG-Handler
-799,game-of-thrones-knowledge-base-representation-checker,5,1,5,0,28/07/2019,20/05/2023,5.64 MB,5773,"⚔️ 🛡️ 🐲 A project based in Knowledge Base Representation and Logic Programming. This project was built using Prolog, with the support of SWISH and SWI-Prolog. The project it's a simple application to allow to make checks, verifications and queries, about some informations and data, of the TV Show Series of Game of Thrones, through a knowledge base representation, built with facts, predicates and rules, among many others!",Prolog,https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker
-800,TAOP-Exercises,5,0,5,0,06/06/2010,11/07/2010,116.00 KB,116,"The Answer code for ""The Art Of Prolog(2nd Ed)"" Exercises.",Prolog,https://github.com/konn/TAOP-Exercises
-801,mbStromer,5,0,5,0,03/04/2020,29/04/2020,1.39 MB,1425,Asymmetric Power Supply for Eurorack. (+12V@3A -12V@1A no 5V for use with transformer),Prolog,https://github.com/mariosgit/mbStromer
-802,lojban-prolog-things,5,2,5,0,07/11/2019,12/11/2019,23.00 KB,23,,Prolog,https://github.com/matko/lojban-prolog-things
-803,packages-indent,5,3,5,0,25/04/2014,25/04/2014,128.00 KB,128,Reformatter for Prolog source code,Prolog,https://github.com/SWI-Prolog/packages-indent
-804,hvsupply,5,0,5,0,14/05/2013,22/12/2013,664.00 KB,664,Design files for an adjustable high-voltage bench supply.,Prolog,https://github.com/xunil/hvsupply
-805,Noise,5,0,5,0,26/04/2024,08/05/2024,52.00 KB,52,Deque based concatenative language for MIDI music.,Prolog,https://github.com/JosephOziel/Noise
-806,UA-1-Year-2016-17,5,2,5,0,12/09/2019,12/09/2019,106.01 MB,108557,,Prolog,https://github.com/pedrogial/UA-1-Year-2016-17
-807,knorf_aaai21,5,0,5,0,26/02/2021,26/02/2021,63.60 MB,65130,,Prolog,https://github.com/sebdumancic/knorf_aaai21
-808,prolog-library,5,0,5,0,08/03/2018,08/03/2018,9.00 KB,9,🤓A set of prolog algorithms and projects.,Prolog,https://github.com/a-tokyo/prolog-library
-809,perl6-vocabular-coach,5,0,5,0,21/10/2010,07/11/2010,104.00 KB,104,Perl 6 vocabular learning tool,Prolog,https://github.com/moritz/perl6-vocabular-coach
-810,Arithmelog,5,1,5,3,14/10/2016,29/10/2016,20.00 KB,20,A library of Prolog predicates for CLP(FD) arithmetic.,Prolog,https://github.com/JCumin/Arithmelog
-811,sistema-experto-diagnosticador,5,5,5,0,23/07/2014,08/01/2020,5.56 MB,5692,sistema experto diagnosticador de enfermedades del pez goldfish en prolog,Prolog,https://github.com/jofese/sistema-experto-diagnosticador
-812,sabados-tarde,5,8,5,0,06/04/2019,28/11/2020,813.00 KB,813,Repo donde guardaremos las cosas necesarias para los sabados a la tarde,Prolog,https://github.com/pdep-utn/sabados-tarde
-813,KvW,5,1,5,1,26/10/2020,30/08/2024,58.00 KB,58,"Kwee Van Woerden algorithm for eclipse or transit minimum timing, with improved error calculation",Prolog,https://github.com/hdeeg/KvW
-814,mega65-r3-expansion-board,5,1,5,5,26/10/2022,29/03/2024,35.46 MB,36315,Expansion board for the MEGA65 R3+ Main Boards,Prolog,https://github.com/MEGA65/mega65-r3-expansion-board
-815,espeak_id,5,1,5,0,18/11/2014,10/02/2015,184.00 KB,184,Repository for eSpeak pronounciation rules and dictionary files in Bahasa Indonesia,Prolog,https://github.com/kurakuradave/espeak_id
-816,s_expression,5,1,5,0,18/02/2017,18/12/2018,326.00 KB,326,"Utilities for Handling of S-Expression Lisp/Scheme-Like forms and parsing of KIF, GDL, PDDL, CLIF",Prolog,https://github.com/logicmoo/s_expression
-817,KZ80-USBKBD,5,1,5,0,08/08/2021,28/04/2024,4.43 MB,4535,KZ80 MSX USB Keyboard Adapter,Prolog,https://github.com/kuninet/KZ80-USBKBD
-818,fp-215-plotter,5,2,5,0,09/01/2013,10/10/2024,1.89 MB,1934,Radio Shack TRS-80 FP-215 Flatbed Plotter Info,Prolog,https://github.com/skriebel/fp-215-plotter
-819,PCB,5,0,5,1,04/11/2018,05/10/2020,10.18 MB,10420,PCB Designs for the HackerHotel 2019 Badge,Prolog,https://github.com/HackerHotel/PCB
-820,btech_cse_sem_4-material_-2021-MRU,5,1,5,0,04/01/2021,24/05/2021,289.92 MB,296875,,Prolog,https://github.com/harshmittal1750/btech_cse_sem_4-material_-2021-MRU
-821,rolog,5,2,5,1,01/06/2021,11/06/2025,3.80 MB,3889,Access SWI-Prolog from R. Access R from SWI-Prolog.,Prolog,https://github.com/mgondan/rolog
-822,interpolate,5,0,5,1,16/08/2013,09/03/2015,140.00 KB,140,String interpolation for Prolog,Prolog,https://github.com/mndrix/interpolate
-823,prolog-to-minizinc,5,0,5,0,26/01/2020,03/02/2020,23.00 KB,23,A Prolog-to-MiniZinc translator,Prolog,https://github.com/jarble/prolog-to-minizinc
-824,autonomous-ai-agent,5,2,5,0,28/01/2024,02/02/2025,129.00 KB,129,Prolog-Agent/SPAMI/Autonomous BDI+LLM agents,Prolog,https://github.com/aindilis/autonomous-ai-agent
+561,Learn-Prolog,7,2,7,0,12/11/2021,21/04/2022,531.00 KB,531,"A repository for showcasing my knowledge of the Prolog programming language, and continuing to learn the language. ",Prolog,https://github.com/seanpm2001/Learn-Prolog
+562,relationship-advisor-pl,7,0,7,0,06/04/2025,06/04/2025,1.00 KB,1,relationship-advisor-prolog-project,Prolog,https://github.com/menacedjava/relationship-advisor-pl
+563,prolog-pong,7,0,7,0,17/05/2024,17/05/2024,2.00 KB,2,Pong in linux terminal with prolog,Prolog,https://github.com/cleggacus/prolog-pong
+564,hammurabi,7,2,7,1,10/08/2022,10/08/2022,4.86 MB,4978,,Prolog,https://github.com/semaj/hammurabi
+565,EvoPlace,7,1,7,0,08/05/2025,08/05/2025,21.28 MB,21793,,Prolog,https://github.com/yaoxufeng/EvoPlace
+566,Knights-Tour,7,1,7,0,18/04/2012,21/08/2013,108.00 KB,108,"A Prolog solution to the Knights Tour problem, as stated by Euler.",Prolog,https://github.com/bnjbvr/Knights-Tour
+567,Prolog,7,2,7,0,02/10/2010,28/11/2014,120.00 KB,120,Programs in prolog.,Prolog,https://github.com/dagosi/Prolog
+568,programs,7,1,7,3,20/12/2016,18/01/2018,35.00 KB,35,Prolog programs from the Simply Logical book,Prolog,https://github.com/simply-logical/programs
+569,MLogic,7,1,7,0,24/10/2017,27/10/2017,12.00 KB,12,An implementation of a mini-ML written entirely in prolog,Prolog,https://github.com/TOTBWF/MLogic
+570,sdcg,7,3,7,2,07/05/2008,16/06/2017,15.05 MB,15415,Stochastic Definite Clause Grammars,Prolog,https://github.com/cth/sdcg
+571,martelli-montanari,7,0,7,0,05/12/2013,06/12/2013,344.00 KB,344,An implementation of Martelli-Montanari unification algorithm for Prolog written in Prolog.,Prolog,https://github.com/pulmro/martelli-montanari
+572,ALog-BottleLogger,7,5,7,6,11/09/2013,02/03/2021,78.54 MB,80427,Arduino-compatible low-power field environmental data logging platform: hardware schematics and circuit board layouts,Prolog,https://github.com/NorthernWidget/ALog-BottleLogger
+573,WifIco,7,1,7,1,08/11/2014,08/11/2014,288.00 KB,288,Small hardware adapter for ESP8266. Purpose is to make the cheap module 5v compatible and breadboard friendly.,Prolog,https://github.com/soynerdito/WifIco
+574,2022.1_G3_Logico_Chess,7,2,7,0,26/07/2022,30/08/2022,113.00 KB,113,"Projeto da matéria de Paradigmas da Programação da FGA, focado na utilização do paradigma lógico com a criação de uma interface gráfica, utilização de sockets (multiplayer) e uso do Stockfish (vs Computador)",Prolog,https://github.com/UnBParadigmas2022-1/2022.1_G3_Logico_Chess
+575,COMP9414,7,5,7,0,14/05/2017,03/07/2017,6.36 MB,6510,,Prolog,https://github.com/wuzeshixp/COMP9414
+576,nix-cpan,7,2,7,0,07/12/2020,04/02/2024,27.22 MB,27871,,Prolog,https://github.com/stigtsp/nix-cpan
+577,Medical-Diagnosis-system-using-Prolog,7,3,7,0,24/11/2019,25/11/2019,1.00 KB,1,Medical Diagnosis system using Prolog,Prolog,https://github.com/sjbushra/Medical-Diagnosis-system-using-Prolog
+578,functional-logic,7,2,7,0,04/09/2015,08/01/2019,3.46 MB,3540,"No Mercury here, just small utilities in Haskell and Prolog.",Prolog,https://github.com/zambonin/functional-logic
+579,tinytrackuino,7,0,7,3,11/09/2013,23/09/2013,236.00 KB,236,Small Trackuino-compatible board for transmitting APRS packets over 2m amateur radio.,Prolog,https://github.com/johnboiles/tinytrackuino
+580,ICON,7,0,7,0,07/10/2023,27/01/2024,7.83 MB,8021,,Prolog,https://github.com/Fonty02/ICON
+581,JSCSExamMaterial,7,5,7,0,12/04/2016,21/05/2016,3.64 MB,3725,Study Material for the CompSci Junior Sophister Exams,Prolog,https://github.com/RobAntcliff/JSCSExamMaterial
+582,pixeldust,7,48,7,4,28/03/2025,06/05/2025,97.64 MB,99982,,Prolog,https://github.com/hackclub/pixeldust
+583,IDL_learning,7,1,7,0,19/12/2018,01/06/2019,1.40 MB,1436,自学IDL笔记,Prolog,https://github.com/ChenlieShi-NWU/IDL_learning
+584,wh40ksim,7,0,7,0,27/11/2017,22/10/2018,106.00 KB,106,Warhammer 40k Combat simulator,Prolog,https://github.com/stassa/wh40ksim
+585,Prolog-Exercises,7,1,7,0,29/09/2018,29/03/2020,17.00 KB,17,Prolog Programming Artificial Intelligence Exercises Solutions-Bratko-4th-Edition,Prolog,https://github.com/okanvk/Prolog-Exercises
+586,cs-web-proto,7,1,7,8,17/07/2019,15/07/2024,11.05 MB,11311,Prototype Operator Interface and Display Manager on the Web for EPICS,Prolog,https://github.com/DiamondLightSource/cs-web-proto
+587,prechacthis,7,5,7,8,04/12/2013,01/09/2025,5.14 MB,5261,,Prolog,https://github.com/prechac/prechacthis
+588,PrologTutorial,7,1,7,0,04/07/2022,01/11/2022,5.99 MB,6129,A Prolog Tutorial with Focus on Solving Interesting Problems,Prolog,https://github.com/ptarau/PrologTutorial
+589,rever,7,0,7,0,14/02/2020,15/11/2021,35.00 KB,35,,Prolog,https://github.com/mistupv/rever
+590,ijcai16-metagolai,7,0,7,0,18/04/2016,18/04/2016,415.00 KB,415,Cropper and S.H. Muggleton. Learning higher-order logic programs through abstraction and invention. IJCAI 2016.,Prolog,https://github.com/andrewcropper/ijcai16-metagolai
+591,RAHFT,7,1,7,0,23/11/2015,04/02/2022,1.14 MB,1171,RAHFT: A tool for verifying Horn clauses using abstract interpretation and finite tree automata,Prolog,https://github.com/bishoksan/RAHFT
+592,tauchain_prolog,7,0,7,0,23/12/2019,03/01/2024,498.00 KB,498,Tau Meta Language (TML) Inptereter coded in Prolog,Prolog,https://github.com/logicmoo/tauchain_prolog
+593,Peatland-mapping,6,1,6,0,05/04/2022,21/07/2022,58.00 KB,58,Data and code for: Crezee et al. (2022). Mapping peat thickness and carbon stocks of the central Congo Basin using field data. Nature Geoscience. https://doi.org/10.1038/s41561-022-00966-7,Prolog,https://github.com/CongoPeat/Peatland-mapping
+594,Intelligenza-Artificiale,6,2,6,1,28/07/2023,10/01/2024,18.37 MB,18806,Corso seguito presso Università di Parma nella facoltà di Informatica,Prolog,https://github.com/DennisTurco/Intelligenza-Artificiale
+595,COMP3608-2019,6,0,6,0,31/01/2019,13/03/2019,89.00 KB,89,Code for COMP3608 - Intelligent Systems ,Prolog,https://github.com/InzamamRahaman/COMP3608-2019
+596,irdroino_irda_shield,6,0,6,1,28/03/2019,29/03/2019,99.00 KB,99,Irdroino irDA Shield for Arduino,Prolog,https://github.com/Irdroid/irdroino_irda_shield
+597,winrt,6,3,6,0,26/05/2013,10/09/2013,1012.00 KB,1012,Qt on WinRT Book,Prolog,https://github.com/andrewknight/winrt
+598,PS2_tap,6,3,6,0,16/05/2013,12/06/2013,204.00 KB,204,A PS/2 data tap over audio line in,Prolog,https://github.com/dominicgs/PS2_tap
+599,plspec,6,0,6,7,04/01/2017,15/01/2021,2.53 MB,2593,,Prolog,https://github.com/wysiib/plspec
+600,clam3,6,0,6,0,30/12/2016,30/12/2016,1.49 MB,1524,"Prolog implementation of proof planner with critics, and some higher-order unification, in the v3 branch of Clam.",Prolog,https://github.com/theoremprover-museum/clam3
+601,prolog-monty-python,6,2,6,0,21/08/2016,21/08/2016,1.00 KB,1, Demo of the Monty Python witch scene with Prolog,Prolog,https://github.com/Risto-Stevcev/prolog-monty-python
+602,Logic-Vision,6,4,6,0,03/12/2014,02/06/2016,9.42 MB,9650,geometry learning with inductive logic programming,Prolog,https://github.com/haldai/Logic-Vision
+603,isel-leic-ai-2425summer-LI61D,6,0,6,0,22/02/2025,28/05/2025,100.00 KB,100,Artificial Intelligence course resources - 2024/25 Summer semester - Class LI61D,Prolog,https://github.com/nleite-isel/isel-leic-ai-2425summer-LI61D
+604,Prolog-problems,6,0,6,0,10/01/2019,11/01/2019,28.00 KB,28,,Prolog,https://github.com/aspil/Prolog-problems
+605,bencode,6,2,6,0,22/02/2013,10/03/2015,124.00 KB,124,Bencoding for Prolog,Prolog,https://github.com/mndrix/bencode
+606,packages-RDF,6,7,6,3,25/04/2014,09/09/2025,378.00 KB,378,The SWI-Prolog RDF/XML parser,Prolog,https://github.com/SWI-Prolog/packages-RDF
+607,logicmoo_cogserver,6,0,6,1,11/02/2022,30/08/2022,123.00 KB,123,Logicmoo server presenting a CogServer-compatible network interface,Prolog,https://github.com/opencog/logicmoo_cogserver
+608,CHIMERA,6,2,6,0,20/12/2017,19/02/2018,188.00 KB,188,Library of SolarSoft IDL routines to identify and extract coronal holes and their properties from EUV images of the Sun.,Prolog,https://github.com/TCDSolar/CHIMERA
+609,prolog-yamltiny,6,1,6,2,27/01/2013,27/01/2013,108.00 KB,108,A YAML subset parser for Prolog,Prolog,https://github.com/rla/prolog-yamltiny
+610,community,6,0,6,0,16/10/2013,25/10/2013,276.00 KB,276,"This repository is to build up a collection of pointers to economics formalizations (software, theorems, proofs).",Prolog,https://github.com/formare/community
+611,CHR-Minesweeper,6,5,6,0,23/07/2014,23/07/2014,148.00 KB,148,Simple Minesweeper application with Prolog and Constraint Handling Rules (CHR),Prolog,https://github.com/fnogatz/CHR-Minesweeper
+612,LHornSolver,6,0,6,0,20/11/2015,04/02/2022,1.26 MB,1291,A linear Horn clause solver for non-linear Horn clauses.,Prolog,https://github.com/bishoksan/LHornSolver
+613,sweet,6,0,6,7,16/05/2014,07/08/2014,224.00 KB,224,Sugar to make Prolog a little sweeter,Prolog,https://github.com/mndrix/sweet
+614,klondike,6,45,6,0,20/05/2013,19/05/2013,17.66 MB,18081,Bitcoin ASIC mining board project,Prolog,https://github.com/Jumpsu/klondike
+615,OOL,6,0,6,0,01/02/2019,13/03/2019,88.00 KB,88,Object Oriented extensions for Lisp and Prolog,Prolog,https://github.com/Lewih/OOL
+616,SWLOR_Haks,6,59,6,4,06/04/2019,26/08/2025,7.36 GB,7717417,"Star Wars: Legends of the Old Republic hakpak content, a persistent world for Neverwinter Nights.",Prolog,https://github.com/zunath/SWLOR_Haks
+617,Graph-Neural-Networks,6,5,6,0,24/02/2013,27/02/2013,660.00 KB,660,Neural Networks for Graphs. Simulator written for Mathworks Matlab 7+,Prolog,https://github.com/francoscarselli/Graph-Neural-Networks
+618,condition,6,0,6,1,13/09/2013,10/03/2015,176.00 KB,176,Condition system (a la Common Lisp) for Prolog,Prolog,https://github.com/mndrix/condition
+619,prolog-getting-started,6,2,6,0,08/10/2014,09/10/2014,144.00 KB,144,Sample application for heroku-prolog-buildpack,Prolog,https://github.com/thetrime/prolog-getting-started
+620,Career-Counseling-System,6,5,6,0,05/11/2018,08/11/2018,12.00 KB,12,an expert system using artificial intelligence that recommends the user to take courses based on their interests. ,Prolog,https://github.com/calmesam01/Career-Counseling-System
+621,mlj19-metaho,6,0,6,0,26/11/2019,26/11/2019,34.38 MB,35201,"A. Cropper, R. Morel, and S.H. Muggleton. Learning higher-order logic programs. Machine learning journal, 2019.",Prolog,https://github.com/andrewcropper/mlj19-metaho
+622,onaPL,6,1,6,0,14/02/2021,15/02/2021,48.00 KB,48,Could potentially become a Prolog implementation of OpenNARS-for-Applications,Prolog,https://github.com/patham9/onaPL
+623,Wii-BT-to-USB,6,1,6,1,06/08/2020,05/04/2021,6.39 MB,6545,A conversion for Wii bluetooth adapters to be used via USB on PC's,Prolog,https://github.com/Micah-Nailima/Wii-BT-to-USB
+624,Prolog-Codes,6,2,6,2,14/01/2020,14/07/2020,3.00 MB,3069,Prolog Codes and Assignments for AI Course of IIIT Allahabad,Prolog,https://github.com/aryan-harsh/Prolog-Codes
+625,crosswordsmith,6,0,6,1,10/10/2013,16/10/2016,11.00 KB,11,A crossword layout generator in Prolog,Prolog,https://github.com/ned2/crosswordsmith
+626,aaai23-disco,6,1,6,0,24/02/2023,24/02/2023,22.65 MB,23191,,Prolog,https://github.com/logic-and-learning-lab/aaai23-disco
+627,prolog-reversible-interpreter,6,0,6,0,09/03/2025,11/03/2025,16.00 KB,16,"Study of Inductive Program Synthesis by Using a Reversible Meta-Interpreter (Numao & Shimura, 1997)",Prolog,https://github.com/namin/prolog-reversible-interpreter
+628,pitopping,6,0,6,0,14/07/2013,14/07/2013,1.59 MB,1628,Pi-Topping robotics framework for the Raspberry Pi,Prolog,https://github.com/arnans/pitopping
+629,SAUCES,6,0,6,0,10/07/2018,07/01/2019,37.00 KB,37,Stellar Activity for Understanding and Characterizing Exoplanetary Systems,Prolog,https://github.com/RMRoettenbacher/SAUCES
+630,karma_agency,6,0,6,0,01/07/2020,04/09/2025,3.85 MB,3945,"Prolog app implementing functions that impart agency to a robot, namely apperception, a fitness evaluation, an evolving society of mind, event-based communication, and an interface to the agent's body (real or simulated)",Prolog,https://github.com/jfcloutier/karma_agency
+631,checkers-webapp,6,1,6,0,03/06/2017,21/05/2018,38.00 KB,38,A web checkers player using swi-prolog as the server and javascript as the client,Prolog,https://github.com/roblaing/checkers-webapp
+632,ngi_visualizations,6,12,6,0,09/07/2014,22/02/2018,2.37 MB,2427,Development fork. Head fork here >>>,Prolog,https://github.com/ewels/ngi_visualizations
+633,OpenWALAS.github.io,6,0,6,2,21/08/2020,08/09/2025,682.32 MB,698695,Mainpage,Prolog,https://github.com/OpenWALAS/OpenWALAS.github.io
+634,logilic,6,4,6,2,01/12/2012,04/12/2012,131.00 KB,131,Tools to reason about software licenses,Prolog,https://github.com/flepied/logilic
+635,race,6,0,6,0,28/06/2018,05/07/2018,15.00 KB,15,Prolog client for the SOAP interface of the Attempto Reasoner RACE,Prolog,https://github.com/fnogatz/race
+636,xlci,6,1,6,2,28/02/2019,22/12/2021,519.15 MB,531608,Cross-lingual CCG Induction,Prolog,https://github.com/texttheater/xlci
+637,typo,6,0,6,0,11/06/2019,12/06/2019,24.00 KB,24,Type and syntax checker reporting using metainterpretation.,Prolog,https://github.com/GavinMendelGleason/typo
+638,timber-wolf-VLSI-placement,6,1,6,0,09/10/2016,09/10/2016,4.22 MB,4322,Timber wolf algorithm (simulated annelling) for VLSI placement,Prolog,https://github.com/zjyfdu/timber-wolf-VLSI-placement
+639,eqdsk2helena,6,1,6,0,11/08/2011,11/08/2011,100.00 KB,100,Convert EQDSK equilibrium files into input for HELENA,Prolog,https://github.com/bendudson/eqdsk2helena
+640,prolog-hydrocarbons-simulation,6,0,6,0,15/01/2023,15/01/2023,265.00 KB,265,Prolog simulator for HydroCarbons,Prolog,https://github.com/a-tokyo/prolog-hydrocarbons-simulation
+641,hm-prolog,6,0,6,0,27/09/2017,27/09/2017,3.00 KB,3,A Hindley-Milner implementation in Prolog.,Prolog,https://github.com/remexre/hm-prolog
+642,kubepl,6,0,6,0,02/09/2016,30/11/2016,4.00 KB,4,Prolog Kubernetes client,Prolog,https://github.com/honnix/kubepl
+643,8-puzzle,6,8,6,0,23/10/2015,23/10/2015,140.00 KB,140,Solve 8 sliding tile puzzle in Prolog,Prolog,https://github.com/ad52825196/8-puzzle
+644,ClocksinMellish,6,1,6,0,02/08/2010,02/08/2010,232.00 KB,232,"Code from the book ""Programming in Prolog"" by William F. Clocksin and Christopher S. Mellish (original and my own solutions to exercises).",Prolog,https://github.com/aistrate/ClocksinMellish
+645,ddsv-prolog,6,0,6,0,19/10/2019,13/05/2020,14.00 KB,14,Prolog implementation for https://principia.connpass.com/event/143181/,Prolog,https://github.com/Kuniwak/ddsv-prolog
+646,packages-regex,6,3,6,0,25/04/2014,25/04/2014,164.00 KB,164,Pure Prolog regex implementation,Prolog,https://github.com/SWI-Prolog/packages-regex
+647,clingo-solvers,6,2,6,0,11/11/2018,03/01/2022,676.00 KB,676,"Answer Set Programming (ASP): clingo solvers for NxN Sudoku, Yosenabe, Minotaur and Elevator games",Prolog,https://github.com/atreyasha/clingo-solvers
+648,cool-compiler,6,1,6,0,07/12/2017,20/12/2017,1.43 MB,1466,This is a simple compiler for cool (classroom object-oriented language).,Prolog,https://github.com/liyu10000/cool-compiler
+649,famicombox,6,0,6,0,22/09/2022,22/09/2022,3.44 MB,3518,FamicomBox+ Mod,Prolog,https://github.com/Eevitronics/famicombox
+650,prolog-english-grammar-parser,6,0,6,0,15/01/2023,15/01/2023,4.00 KB,4,"parser for a definite clause grammar of English-Light. English- Light is a fragment of English (i.e., English-Light does not include any ungrammatical English sentences).",Prolog,https://github.com/a-tokyo/prolog-english-grammar-parser
+651,valveni-db,6,0,6,0,01/05/2022,10/05/2022,8.00 KB,8,ValveniDB,Prolog,https://github.com/aarroyoc/valveni-db
+652,board-m1,6,5,6,0,22/03/2012,27/06/2012,558.00 KB,558,Milkymist One PCB design files,Prolog,https://github.com/m-labs/board-m1
+653,Creativity-augmenter,6,2,6,0,23/10/2016,30/03/2020,131.00 KB,131,This is a useful thing for making twitter bots (and random nonsense).,Prolog,https://github.com/noahmartinwilliams/Creativity-augmenter
+654,elc117-2021a,6,9,6,0,04/04/2021,07/09/2021,532.00 KB,532,ELC117 - Paradigmas de Programação - UFSM - 2021a,Prolog,https://github.com/AndreaInfUFSM/elc117-2021a
+655,CC2540,6,3,6,0,19/09/2013,20/09/2013,168.00 KB,168,TI CC 2540 BTLE Break out board,Prolog,https://github.com/mako34/CC2540
+656,packages-pldoc,6,14,6,13,25/04/2014,09/09/2025,3.16 MB,3236,The SWI-Prolog documentation system,Prolog,https://github.com/SWI-Prolog/packages-pldoc
+657,multseq,6,1,6,0,02/07/2024,02/07/2024,41.00 KB,41,"M. Ultseq, the genius many-valued sequent theorem prover",Prolog,https://github.com/rzach/multseq
+658,peronautas,6,1,6,0,30/03/2011,25/11/2012,14.12 MB,14464,D3LP0R,Prolog,https://github.com/leosmolas/peronautas
+659,faasshell,6,1,6,1,30/11/2017,02/09/2020,3.09 MB,3169,FaaS Shell is a shell for Serverless Function Workflow across multiple clouds.,Prolog,https://github.com/NaohiroTamura/faasshell
+660,terfblocklist,6,1,6,0,23/03/2018,23/03/2018,9.00 KB,9,semi-automatic tool to gather IDs of transphobic users on Twitter,Prolog,https://github.com/Anniepoo/terfblocklist
+661,r34_sCASP,6,2,6,1,16/02/2021,29/06/2025,260.00 KB,260,,Prolog,https://github.com/smucclaw/r34_sCASP
+662,2023-clases,6,1,6,0,22/03/2023,30/10/2023,1.36 MB,1390,,Prolog,https://github.com/pdep-lunes-tarde/2023-clases
+663,morphing-airfoil,6,0,6,0,24/02/2025,25/04/2025,12.56 MB,12860,UNSW DESN1000 morphing airfoil project,Prolog,https://github.com/mvx-dev/morphing-airfoil
+664,unicvmod,6,1,6,0,06/08/2019,17/04/2020,399.00 KB,399,Universal composite mod for retro computers,Prolog,https://github.com/gusmanb/unicvmod
+665,advent-of-code-2023,6,1,6,0,01/12/2023,18/12/2023,137.00 KB,137,My solutions for AoC 2023,Prolog,https://github.com/aarroyoc/advent-of-code-2023
+666,semantique,6,1,6,6,18/09/2017,08/06/2018,119.82 MB,122700,Cours de Bachelor : Sémantique des Langages Informatiques,Prolog,https://github.com/cui-unige/semantique
+667,rTANDEM,6,4,6,0,19/06/2012,24/09/2013,2.52 MB,2582,,Prolog,https://github.com/CharlesJB/rTANDEM
+668,ev3dev-prolog,6,2,6,2,01/07/2019,06/03/2024,62.00 KB,62,ev3dev-based API for Prolog using the readily available swi-Prolog,Prolog,https://github.com/maweki/ev3dev-prolog
+669,audiofeaturesonto,6,0,6,1,12/10/2011,12/10/2011,128.00 KB,128,"This ontology express the most common things you may extract automatically from a musical signal, by sub-classing some of the terms defined in the Music Ontology.",Prolog,https://github.com/motools/audiofeaturesonto
+670,Physical-Design-Automation,6,0,6,0,08/03/2017,16/12/2019,36.58 MB,37456,"This repo is ""NTHU Physical Design Automation"" course project.",Prolog,https://github.com/laplaceyc/Physical-Design-Automation
+671,PrologExamples,6,0,6,0,29/12/2018,07/12/2019,4.00 KB,4,,Prolog,https://github.com/3bru/PrologExamples
+672,phil,6,2,6,1,08/10/2018,05/11/2024,3.30 MB,3378,PHIL is a parameter learning algorithm that learns the parameters of Hierarchical Probabilistic Logic Programs applying gradient descent and Expectation Maximization,Prolog,https://github.com/ArnaudFadja/phil
+673,couch_orcl,6,2,6,0,18/08/2010,17/01/2012,831.00 KB,831,A CouchDB client for Oracle PL/SQL,Prolog,https://github.com/zekzekus/couch_orcl
+674,eezoterial,6,0,6,0,16/06/2016,02/07/2024,1.63 MB,1672,"Mass Effect - inspired Visual Studio Code/Apple Terminal/Konsole/Geany/Kate/Mintty/Secure Shell/Irssi theme with material colors, aka solarized abomination",Prolog,https://github.com/unic0rn/eezoterial
+675,lix,6,0,6,0,17/06/2019,15/07/2024,45.00 KB,45,Lix: A self-applicable partial evaluator for Prolog,Prolog,https://github.com/leuschel/lix
+676,mlj19-iggp,6,0,6,0,23/06/2019,26/06/2019,24.51 MB,25096,"A. Cropper, R. Evans, and M. Law. Inductive general game playing. Machine learning journal, 2019.",Prolog,https://github.com/andrewcropper/mlj19-iggp
+677,ModelMMORPG,6,0,6,0,12/10/2018,15/03/2019,1.10 MB,1130,"ModelMMORPG was a scientific project sponsored by the Croatian Science Foundation. Massively multi-player on-line role playing games (MMORPGs) give us the opportunity to study two important aspects of computing: (1) large-scale virtual social interaction of people (players) and (2) the design, development and coordination of large-scale distributed artificial inteligence (AI).",Prolog,https://github.com/AILab-FOI/ModelMMORPG
+678,daplacer,6,1,6,0,02/12/2021,28/08/2025,21.57 MB,22084,Tool for data-aware application placement and routing in the Cloud-IoT continuum,Prolog,https://github.com/di-unipi-socc/daplacer
+679,PESAD,6,1,6,0,08/07/2019,21/04/2023,612.00 KB,612,Prolog Expert System on Anxiety Disorders,Prolog,https://github.com/dmeoli/PESAD
+680,wikidata_ontomatcher,6,0,6,2,28/07/2019,15/06/2020,15.00 KB,15,Matches ontology classes against wikidata,Prolog,https://github.com/cmungall/wikidata_ontomatcher
+681,term_diff,6,1,6,0,12/07/2013,10/03/2015,128.00 KB,128,Calculate patches between two Prolog terms,Prolog,https://github.com/mndrix/term_diff
+682,Prolog-Arvore-Familiar-Pinheiro,6,1,6,1,14/11/2020,17/11/2021,3.00 KB,3,,Prolog,https://github.com/YuriDomingos/Prolog-Arvore-Familiar-Pinheiro
+683,prolog_bot,6,1,6,0,07/08/2019,06/02/2024,51.00 KB,51,Simple Telegram bot in PROLOG,Prolog,https://github.com/Cuttlerat/prolog_bot
+684,ICON_2024,6,0,6,0,02/01/2025,13/01/2025,3.55 MB,3632,project for the exam of icon,Prolog,https://github.com/icekern/ICON_2024
+685,autonomous-ai-agent,6,2,6,0,28/01/2024,02/02/2025,129.00 KB,129,Prolog-Agent/SPAMI/Autonomous BDI+LLM agents,Prolog,https://github.com/aindilis/autonomous-ai-agent
+686,prologmud_I7,6,0,6,0,29/09/2018,25/01/2020,49.72 MB,50911,"Small adventure Games Gleaned off the Web such as ""Marty's Prolog Adventure Prototype""",Prolog,https://github.com/logicmoo/prologmud_I7
+687,rayleighsommerfeld,6,8,6,0,14/01/2013,25/07/2013,66.00 KB,66,IDL code for analyzing in-line holographic microscopy images with Rayleigh-Sommerfeld back-propagation,Prolog,https://github.com/davidgrier/rayleighsommerfeld
+688,restaurant-expert-system,6,7,6,0,15/06/2020,15/06/2020,33.00 KB,33,:plate_with_cutlery: A simple expert system which recommends food menu based on user preferences.,Prolog,https://github.com/murshidazher/restaurant-expert-system
+689,IMKO-1,6,1,6,0,24/09/2012,13/12/2012,1.21 MB,1241,Reverse-engineering the first Bulgarian personal computer,Prolog,https://github.com/lowvoltage/IMKO-1
+690,beaglebone-fpga,6,5,6,0,29/08/2012,31/12/2012,2.44 MB,2501,My attempt at making an FPGA add-on cape for the Beaglebone,Prolog,https://github.com/magyarm/beaglebone-fpga
+691,regexc,6,2,6,0,22/10/2018,06/01/2019,192.00 KB,192,A regular expression compiler written in Prolog,Prolog,https://github.com/SallySoul/regexc
+692,practicas-haskell-prolog-wollok,6,0,6,0,13/06/2025,10/09/2025,62.00 KB,62,Ejercicios y prácticas de Haskell para la facultad ,Prolog,https://github.com/lucassoliz/practicas-haskell-prolog-wollok
+693,scheme,6,0,6,0,12/12/2012,07/01/2013,108.00 KB,108,Very limited scheme interpreter,Prolog,https://github.com/FigBug/scheme
+694,A-Star-Search,6,0,6,0,14/02/2016,16/02/2016,1.00 KB,1,A Prolog Implementation of A* Search,Prolog,https://github.com/houli/A-Star-Search
+695,SoM-allwinnerA10,6,0,6,0,01/03/2013,01/03/2013,3.37 MB,3452,Allwinner A10 cpu card with SO-DIMM connector,Prolog,https://github.com/SoM-Boards/SoM-allwinnerA10
+696,conlang,6,0,6,0,29/07/2016,26/01/2019,20.00 KB,20,Constructed language doodles,Prolog,https://github.com/fusiongyro/conlang
+697,Three_Phase_Motor_Driver-TMC6300,6,1,6,0,21/09/2022,12/12/2022,8.29 MB,8494,Breakout board for the TMC6300 brushless DC 3-phase motor driver.,Prolog,https://github.com/sparkfunX/Three_Phase_Motor_Driver-TMC6300
+698,NUWT,6,1,6,0,14/03/2016,15/01/2019,154.81 MB,158523,Northumbria wave tracking code,Prolog,https://github.com/Richardjmorton/NUWT
+699,jobshop-scheduling,6,1,6,0,01/12/2020,06/06/2023,39.00 KB,39,Optimal ECLiPSe Prolog job-shop scheduling solver,Prolog,https://github.com/georgesittas/jobshop-scheduling
+700,plsheet,5,1,5,0,18/12/2012,14/01/2014,288.00 KB,288,Prolog based spreadsheet analyzer (prototype),Prolog,https://github.com/JanWielemaker/plsheet
+701,Prolog-DAG-Scheduler,5,0,5,3,29/12/2014,23/08/2015,244.00 KB,244,Prolog Parallel DAG Task Scheduler,Prolog,https://github.com/endymion64/Prolog-DAG-Scheduler
+702,dictoo,5,0,5,1,29/01/2017,16/09/2023,130.00 KB,130,Dict-like OO Syntax Pack,Prolog,https://github.com/logicmoo/dictoo
+703,datalaude,5,1,5,0,11/09/2009,11/09/2009,38.56 MB,39485,Datalog solver based on rewriting logic.,Prolog,https://github.com/datalaude/datalaude
+704,lf-shield,5,1,5,0,14/04/2011,21/10/2014,125.00 KB,125,"This is a template for new Freeduino, Arduino shields. The template is made in KiCAD EDA.",Prolog,https://github.com/Open-Laboratory/lf-shield
+705,rdfs2pl,5,1,5,0,20/07/2014,30/10/2017,60.00 KB,60,RDF schema to prolog compiler,Prolog,https://github.com/cmungall/rdfs2pl
+706,sbot,5,1,5,0,10/02/2018,28/12/2018,141.00 KB,141,SBot the smart ChatDev bot,Prolog,https://github.com/fredericlepied/sbot
+707,parareal,5,4,5,1,15/02/2019,02/05/2023,443.00 KB,443,A Parareal Implementation in Matlab/Octave for Problems with Discontinuous Sources,Prolog,https://github.com/temf/parareal
+708,NTUA-Artificial-Intelligence-Prolog,5,0,5,0,25/02/2018,25/02/2018,24.73 MB,25324,,Prolog,https://github.com/chrispanag/NTUA-Artificial-Intelligence-Prolog
+709,PMI-0.4,5,7,5,0,27/11/2013,01/10/2021,103.71 MB,106197,The software PMI (Platform for Research in Medical Imaging) supports the translation of basic research in medical image analysis into early clinical studies.,Prolog,https://github.com/plaresmedima/PMI-0.4
+710,PyILP,5,0,5,0,26/02/2022,10/05/2024,411.00 KB,411,A novel user-friendly Python interface for Inductive Logic programming(ILP)  system for teaching machine learning and data-mining,Prolog,https://github.com/danyvarghese/PyILP
+711,Logic-Programming,5,4,5,0,24/02/2018,18/01/2019,25.36 MB,25967,Logic Programming using Prolog.,Prolog,https://github.com/rahul1947/Logic-Programming
+712,UrbanAnalyticsCourse,5,31,5,1,06/07/2021,07/09/2024,199.32 MB,204099,Urban Analytics Course work for Johns Hopkins Univeristy,Prolog,https://github.com/achapkowski/UrbanAnalyticsCourse
+713,SxxMachine,5,1,5,0,11/09/2018,24/06/2019,15.69 MB,16062,C++ Prolog/Datalog Inference Engine,Prolog,https://github.com/DouglasRMiles/SxxMachine
+714,prologWebScanner,5,3,5,0,23/03/2019,05/11/2021,285.00 KB,285,SWI-Prolog code to test the security of your web application,Prolog,https://github.com/brog45/prologWebScanner
+715,rc2324,5,1,5,0,23/02/2024,16/07/2024,1.10 MB,1128,Curso de Representación del Conocimiento2023-2024 de la Universidad de Huelva ,Prolog,https://github.com/jcarpio/rc2324
+716,stix_type1,5,0,5,4,17/12/2020,15/01/2021,9.59 MB,9817,type 1 versions of STIX 2.0.0 (deprecated),Prolog,https://github.com/stipub/stix_type1
+717,trealla-spin,5,0,5,1,02/03/2023,02/03/2023,6.00 KB,6,Trealla Prolog templates for Spin,Prolog,https://github.com/guregu/trealla-spin
+718,open-geiger-counter,5,0,5,0,27/10/2014,03/02/2015,232.00 KB,232,PIN diode based Geiger counter,Prolog,https://github.com/SyrianSpock/open-geiger-counter
+719,LearningProlog,5,5,5,0,10/12/2019,20/10/2021,14.00 KB,14,Tutorial on learning Prolog: https://medium.com/@ibjects/complete-prolog-language-tutorial-d46a811c58e8,Prolog,https://github.com/thechaudharysab/LearningProlog
+720,Aura-sync-splitter,5,0,5,0,30/05/2018,08/08/2018,616.00 KB,616,Splits an addressable WS2811 RGB signal into separately powered discrete Aura Sync headers,Prolog,https://github.com/Breina/Aura-sync-splitter
+721,id3-prolog,5,0,5,0,10/06/2017,09/07/2019,147.00 KB,147,Prolog Implementation of the ID3 Algorithm,Prolog,https://github.com/ignaciomosca/id3-prolog
+722,mine-prolog-tba,5,0,5,0,19/04/2012,20/04/2012,128.00 KB,128,A small text-based adventure game developed in prolog.,Prolog,https://github.com/tobischo/mine-prolog-tba
+723,Left-Corner-MG-parser,5,0,5,0,30/05/2018,30/05/2018,33.00 KB,33,,Prolog,https://github.com/stanojevic/Left-Corner-MG-parser
+724,prolog-tableaux,5,0,5,0,24/05/2012,03/06/2012,148.00 KB,148,Method of analytic tableaux for a propositional logic,Prolog,https://github.com/tchap/prolog-tableaux
+725,cpropstoo,5,5,5,18,02/04/2013,05/11/2019,434.00 KB,434,CPROPS-for-ALMA revision,Prolog,https://github.com/akleroy/cpropstoo
+726,bulletpl,5,0,5,0,19/07/2018,24/08/2018,380.00 KB,380,,Prolog,https://github.com/hsk/bulletpl
+727,gba-mtom-link,5,0,5,0,31/03/2023,29/02/2024,2.16 MB,2215,A Male to Male GBA Link adapter.,Prolog,https://github.com/Semicolon7645/gba-mtom-link
+728,Prusa-MK2-Ext.-Driver-Board,5,0,5,0,22/11/2022,05/01/2024,88.55 MB,90679,Prusa MK2 Ext. Driver Board,Prolog,https://github.com/toto99303/Prusa-MK2-Ext.-Driver-Board
+729,sql_compiler-OLD,5,0,5,0,21/10/2012,10/07/2018,24.00 KB,24,Draxler prolog to SQL compiler,Prolog,https://github.com/cmungall/sql_compiler-OLD
+730,ProLog_Tp,5,0,5,0,16/10/2017,18/12/2017,11.00 KB,11,"ProLog Tp work, process of learning logical programming using prolog",Prolog,https://github.com/oussamabonnor1/ProLog_Tp
+731,MSOP10_DIP,5,1,5,0,26/07/2010,23/01/2013,428.00 KB,428,LAYOUT FILES: MSOP10 / TSSOP8 to DIP adapter. Essential for breadboard prototyping. KICAD and Gerber files.,Prolog,https://github.com/madworm/MSOP10_DIP
+732,kProbLogDSL,5,0,5,0,01/02/2017,07/02/2017,74.53 MB,76320,,Prolog,https://github.com/orsinif/kProbLogDSL
+733,Problems,5,0,5,0,08/01/2019,05/10/2019,28.00 KB,28,💭💡All problems implementated as exercises in course: Principals Of Programming Languages,Prolog,https://github.com/nikosgalanis/Problems
+734,estoque-console-app,5,0,5,1,28/02/2022,01/04/2022,158.00 KB,158,Esta é uma aplicação proposta como projeto da disciplina de Paradigmas de Linguagens de Programação. ,Prolog,https://github.com/PauloHFS/estoque-console-app
+735,Prolog-Othello-Game,5,6,5,0,11/05/2020,11/05/2020,2.51 MB,2568,Othello Game Application Implemented with Alpha-Beta Algorithm in SWI-Prolog's Logic Programming Language :chess_pawn:,Prolog,https://github.com/cwelt/Prolog-Othello-Game
+736,advent-of-code-2022,5,0,5,0,01/12/2022,12/01/2024,50.00 KB,50,,Prolog,https://github.com/aarroyoc/advent-of-code-2022
+737,Drowzee,5,1,5,2,01/09/2024,23/06/2025,19.77 MB,20249,,Prolog,https://github.com/security-pride/Drowzee
+738,exn-source,5,0,5,0,18/10/2014,21/10/2014,212.00 KB,212,Exception backtrace for OCaml with source code printing,Prolog,https://github.com/johnwhitington/exn-source
+739,http2_client,5,0,5,1,11/09/2018,18/12/2019,94.00 KB,94,Prolog HTTP/2 Client. Mirror of https://gitlab.com/jamesnvc/prolog_http2_client,Prolog,https://github.com/jamesnvc/http2_client
+740,Aquarius-MiniExpander-1-1-0,5,3,5,0,27/08/2020,29/03/2022,24.93 MB,25526,Stock Aquarius Mini Expander PCB,Prolog,https://github.com/1stage/Aquarius-MiniExpander-1-1-0
+741,neoplasmer,5,0,5,1,22/08/2018,15/07/2019,91.00 KB,91,Neoplasm Entity Recognition: matching disease names to ontology classes,Prolog,https://github.com/INCATools/neoplasmer
+742,InferenceEngine,5,1,5,0,18/08/2012,01/09/2012,596.00 KB,596,Inference engine for 3D object recognition in Prolog,Prolog,https://github.com/mlisicki/InferenceEngine
+743,openSX70-FTDI,5,1,5,0,25/01/2018,10/07/2019,11.82 MB,12106,FTDI connection to program openSX70 camera,Prolog,https://github.com/openSX70/openSX70-FTDI
+744,uTracer,5,1,5,0,29/10/2022,12/05/2023,109.79 MB,112425,,Prolog,https://github.com/donpivo/uTracer
+745,0xTwitterBot,5,5,5,1,10/02/2018,12/02/2018,16.00 KB,16,Twitter BotNet,Prolog,https://github.com/u0pattern/0xTwitterBot
+746,Architectural-Floor-Plan-Generator,5,1,5,0,23/12/2014,23/12/2014,4.71 MB,4828,Architectural-Floor-Plan-Generator,Prolog,https://github.com/Minuri-Rajapaksha/Architectural-Floor-Plan-Generator
+747,prolog-nlp,5,2,5,0,22/11/2016,03/12/2016,148.00 KB,148,Natural language parsing and validation with Prolog,Prolog,https://github.com/Phyxius/prolog-nlp
+748,PoEInjector4ChUnregulated,5,1,5,0,22/06/2010,24/04/2019,54.00 KB,54,Simple adapter for home-brew Power-over-Ethernet,Prolog,https://github.com/freetronics/PoEInjector4ChUnregulated
+749,epictetus,5,2,5,0,05/03/2013,28/09/2014,791.00 KB,791,IRC bot written in prolog.,Prolog,https://github.com/ljos/epictetus
+750,course-advisor,5,3,5,9,26/06/2012,26/07/2012,1.51 MB,1542,An expert system for advising Computer Science students (at Brock) which courses to enroll in.,Prolog,https://github.com/dideler/course-advisor
+751,ptunes,5,3,5,0,12/09/2013,24/09/2013,22.39 MB,22932,pTunes runtime parameter adaptation framework,Prolog,https://github.com/mzimmerling/ptunes
+752,advertent-curt,5,3,5,0,19/08/2008,01/09/2008,288.00 KB,288,An extension to the Curt system found in Blackburn and Bos 2005,Prolog,https://github.com/adimit/advertent-curt
+753,reactome-pengine,5,3,5,0,17/01/2018,24/01/2018,2.23 MB,2285,,Prolog,https://github.com/samwalrus/reactome-pengine
+754,war-crimes-explorer,5,2,5,0,15/04/2022,01/12/2023,24.00 KB,24,"Interactive in-browser learning about genocide, war crimes, crimes against humanity, and aggression.",Prolog,https://github.com/public-law/war-crimes-explorer
+755,LeanProlog,5,1,5,0,25/02/2022,25/02/2022,2.10 MB,2152,,Prolog,https://github.com/ptarau/LeanProlog
+756,7in7,5,0,5,0,16/12/2011,05/01/2012,152.00 KB,152,Seven Languages in Seven Weeks,Prolog,https://github.com/gatesphere/7in7
+757,MinCov,5,1,5,1,21/10/2019,30/09/2021,68.80 MB,70447,An tool that produces the coverabillty set for Petri nets,Prolog,https://github.com/IgorKhm/MinCov
+758,beaglebone-capes,5,1,5,1,12/12/2011,24/12/2011,1.38 MB,1410,Collection of BeagleBone cape designs,Prolog,https://github.com/koenkooi/beaglebone-capes
+759,esp8266-devboard-schematics,5,2,5,0,12/11/2014,12/11/2014,140.00 KB,140,ESP8266 Devboard schematics and layout,Prolog,https://github.com/nekromant/esp8266-devboard-schematics
+760,function_expansion,5,3,5,1,18/01/2013,27/10/2016,152.00 KB,152,Help for writing function-like macros,Prolog,https://github.com/mndrix/function_expansion
+761,henry,5,1,5,1,30/05/2012,31/05/2012,192.00 KB,192,A SWI-Prolog N3 parser/reasoner,Prolog,https://github.com/moustaki/henry
+762,idl,5,4,5,0,07/02/2012,07/02/2012,980.00 KB,980,idl submodule of davit,Prolog,https://github.com/ajribeiro/idl
+763,Ivan-Bratko-Prolog-Examples,5,2,5,0,07/08/2022,07/08/2022,8.01 MB,8206,"PROLOG PROGRAMMING FOR ARTIFICIAL INTELLIGENCE by lvan Bratko, E.Kardelj University.  J.Stefan Institute Yugoslavia",Prolog,https://github.com/AMITKESARI2000/Ivan-Bratko-Prolog-Examples
+764,ppm,5,0,5,0,13/06/2017,22/07/2018,72.00 KB,72,Prolog Package Manager (PPM): A package manager for Prolog.,Prolog,https://github.com/wouterbeek/ppm
+765,jazz-engine,5,2,5,0,22/05/2023,07/09/2023,6.39 MB,6546,Prolog implementation of music theory & jazz guitar.,Prolog,https://github.com/vasilescur/jazz-engine
+766,sudoku,5,0,5,0,27/01/2015,27/01/2015,282.00 KB,282,A Prolog program that solves 4x4 Sudoku puzzles,Prolog,https://github.com/melissamangos/sudoku
+767,todo,5,0,5,0,29/07/2015,01/08/2015,168.00 KB,168,A simple web-based todo app in Prolog.,Prolog,https://github.com/jaelle/todo
+768,PROLOG-TD2,5,0,5,0,02/06/2021,02/06/2021,87.00 KB,87,,Prolog,https://github.com/GL3-2021-2020/PROLOG-TD2
+769,pro2sql,5,0,5,0,25/06/2023,02/07/2023,61.00 KB,61,A lightweight prolog to sql translator,Prolog,https://github.com/RdR1024/pro2sql
+770,java-parse,5,0,5,0,09/04/2017,03/10/2017,28.00 KB,28,Prolog project that parses Java code,Prolog,https://github.com/epeld/java-parse
+771,packages-pcre,5,7,5,9,23/04/2017,09/09/2025,249.00 KB,249,SWI-Prolog package for access to Perl Regular Expressions,Prolog,https://github.com/SWI-Prolog/packages-pcre
+772,microflare_dem,5,3,5,1,18/05/2012,28/11/2012,725.00 KB,725,Determining the differential emission measure of microflares using AIA and RHESSI,Prolog,https://github.com/ehsteve/microflare_dem
+773,BLDC,5,4,5,0,07/02/2013,07/02/2013,244.00 KB,244,BLDC Motor Driver,Prolog,https://github.com/triffid/BLDC
+774,Rational-Hallucination,5,1,5,0,11/05/2023,13/06/2023,15.00 KB,15,"An experimental Python-Prolog Hybrid model that explores adding reasoning capabilities to LLMs using a Fact, Rule and Inference Framework.",Prolog,https://github.com/ahmed-khalil-hafsi/Rational-Hallucination
+775,ilp18-dreduce,5,0,5,0,11/07/2018,11/07/2018,283.00 KB,283,A. Cropper and S. Tourret. Derivation reduction of metarules in meta-interpretive learning. ILP 2018. ,Prolog,https://github.com/andrewcropper/ilp18-dreduce
+776,ijcai19-playgol,5,1,5,0,23/11/2019,23/11/2019,90.64 MB,92812,A. Cropper. Playgol: learning programs through play. IJCAI 2019. http://andrewcropper.com/pubs/ijcai19-playgol.pdf,Prolog,https://github.com/andrewcropper/ijcai19-playgol
+777,listprologinterpreter,5,3,5,0,09/02/2018,09/09/2025,1021.00 KB,1021,A Prolog Interpreter written in Prolog.,Prolog,https://github.com/luciangreen/listprologinterpreter
+778,flashadapters,5,2,5,0,27/07/2012,27/07/2012,116.00 KB,116,different flash adapters for buspirate and the hacked router,Prolog,https://github.com/nekromant/flashadapters
+779,datalogsolve,5,1,5,0,13/11/2009,20/11/2009,5.42 MB,5546,A Datalog-Based Static Program Analyzer,Prolog,https://github.com/ftarin/datalogsolve
+780,rdet,5,1,5,1,02/11/2015,16/04/2020,19.00 KB,19,Runtime determinacy checker for SWI-Prolog,Prolog,https://github.com/rla/rdet
+781,flysim,5,2,5,0,15/05/2018,06/11/2018,470.91 MB,482216,a spiking neural network simulator,Prolog,https://github.com/yc-h/flysim
+782,prolog,5,3,5,0,29/04/2018,28/04/2019,15.00 KB,15,simple examples with prolog ,Prolog,https://github.com/Z4ck404/prolog
+783,aoc-2019,5,0,5,0,02/12/2019,25/12/2019,2.30 MB,2359,Solutions for the Advent of Code 2019 problems,Prolog,https://github.com/vstrimaitis/aoc-2019
+784,chr_book,5,0,5,0,04/02/2022,30/04/2022,108.00 KB,108,"Valuable code and exercises about the book ""Constraint Handling Rules (2009)"" .",Prolog,https://github.com/chansey97/chr_book
+785,logicmoo_cg,5,1,5,0,11/09/2020,06/02/2022,3.54 MB,3626,Conceptual Graph (CG) Libraries in Prolog,Prolog,https://github.com/logicmoo/logicmoo_cg
+786,cleanmodels,5,0,5,1,30/11/2020,24/12/2020,227.00 KB,227,Continued development on OldManBeard's CleanModels application for Neverwinter Nights,Prolog,https://github.com/plenarius/cleanmodels
+787,xcj_swarm,5,4,5,0,05/06/2012,09/08/2012,535.00 KB,535,Xinchejian Swarm Robot project,Prolog,https://github.com/edwardrf/xcj_swarm
+788,wordnet,5,1,5,0,26/11/2017,03/05/2018,14.00 KB,14,SWI-Prolog pack to load WordNet relations lazily,Prolog,https://github.com/JanWielemaker/wordnet
+789,eagle,5,4,5,7,01/07/2016,17/01/2020,20.76 MB,21255,,Prolog,https://github.com/irllabs/eagle
+790,Design-Compiler-for-Programming-Language,5,0,5,0,24/05/2020,03/06/2020,1.81 MB,1849,Rancho - Whole new prgramming language and compiler built using Prolog,Prolog,https://github.com/mayankkt9/Design-Compiler-for-Programming-Language
+791,lambda-pro,5,3,5,0,16/03/2018,15/08/2019,81.00 KB,81,an interpreter for lambda calculus,Prolog,https://github.com/dtaskoff/lambda-pro
+792,grepy,5,0,5,3,05/03/2024,07/05/2024,101.00 KB,101,Simple grep implementation written in haskell and prolog,Prolog,https://github.com/alcantarajulio/grepy
+793,GettingToBlinky,5,5,5,0,01/10/2013,03/10/2013,136.00 KB,136,A project to show how to use KiCad and build a tiny blinking PCB,Prolog,https://github.com/ContextualElectronics/GettingToBlinky
+794,mbLifter,5,0,5,0,05/04/2020,12/07/2021,1.58 MB,1616,Eurorack Gain Attenuation Saturation InOut FxLoop Thing.,Prolog,https://github.com/mariosgit/mbLifter
+795,InteligenciaArtificial,5,0,5,0,17/11/2021,11/12/2021,1016.00 KB,1016,,Prolog,https://github.com/FranciscoReisIzquierdo/InteligenciaArtificial
+796,IATP-L3S2,5,0,5,0,17/03/2025,22/04/2025,2.00 KB,2,,Prolog,https://github.com/maxviiiy/IATP-L3S2
+797,CHR-Constraint-Server,5,1,5,0,23/03/2017,23/03/2017,2.00 KB,2,A Persistent CHR Webserver,Prolog,https://github.com/fnogatz/CHR-Constraint-Server
+798,PROLOG,5,6,5,0,18/09/2020,11/10/2020,626.00 KB,626,Short Projects in Prolog,Prolog,https://github.com/CO18325/PROLOG
+799,DCG-Handler,5,1,5,0,17/12/2018,19/12/2018,2.00 KB,2,"Prolog Program that explicitly coverts, Definite Clause Grammar (DCG) rules to the corresponding Prolog Program",Prolog,https://github.com/kon172verma/DCG-Handler
+800,game-of-thrones-knowledge-base-representation-checker,5,1,5,0,28/07/2019,20/05/2023,5.64 MB,5773,"⚔️ 🛡️ 🐲 A project based in Knowledge Base Representation and Logic Programming. This project was built using Prolog, with the support of SWISH and SWI-Prolog. The project it's a simple application to allow to make checks, verifications and queries, about some informations and data, of the TV Show Series of Game of Thrones, through a knowledge base representation, built with facts, predicates and rules, among many others!",Prolog,https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker
+801,TAOP-Exercises,5,0,5,0,06/06/2010,11/07/2010,116.00 KB,116,"The Answer code for ""The Art Of Prolog(2nd Ed)"" Exercises.",Prolog,https://github.com/konn/TAOP-Exercises
+802,mbStromer,5,0,5,0,03/04/2020,29/04/2020,1.39 MB,1425,Asymmetric Power Supply for Eurorack. (+12V@3A -12V@1A no 5V for use with transformer),Prolog,https://github.com/mariosgit/mbStromer
+803,lojban-prolog-things,5,2,5,0,07/11/2019,12/11/2019,23.00 KB,23,,Prolog,https://github.com/matko/lojban-prolog-things
+804,packages-indent,5,3,5,0,25/04/2014,25/04/2014,128.00 KB,128,Reformatter for Prolog source code,Prolog,https://github.com/SWI-Prolog/packages-indent
+805,hvsupply,5,0,5,0,14/05/2013,22/12/2013,664.00 KB,664,Design files for an adjustable high-voltage bench supply.,Prolog,https://github.com/xunil/hvsupply
+806,Noise,5,0,5,0,26/04/2024,08/05/2024,52.00 KB,52,Deque based concatenative language for MIDI music.,Prolog,https://github.com/JosephOziel/Noise
+807,UA-1-Year-2016-17,5,2,5,0,12/09/2019,12/09/2019,106.01 MB,108557,,Prolog,https://github.com/pedrogial/UA-1-Year-2016-17
+808,knorf_aaai21,5,0,5,0,26/02/2021,26/02/2021,63.60 MB,65130,,Prolog,https://github.com/sebdumancic/knorf_aaai21
+809,prolog-library,5,0,5,0,08/03/2018,08/03/2018,9.00 KB,9,🤓A set of prolog algorithms and projects.,Prolog,https://github.com/a-tokyo/prolog-library
+810,perl6-vocabular-coach,5,0,5,0,21/10/2010,07/11/2010,104.00 KB,104,Perl 6 vocabular learning tool,Prolog,https://github.com/moritz/perl6-vocabular-coach
+811,Arithmelog,5,1,5,3,14/10/2016,29/10/2016,20.00 KB,20,A library of Prolog predicates for CLP(FD) arithmetic.,Prolog,https://github.com/JCumin/Arithmelog
+812,sistema-experto-diagnosticador,5,5,5,0,23/07/2014,08/01/2020,5.56 MB,5692,sistema experto diagnosticador de enfermedades del pez goldfish en prolog,Prolog,https://github.com/jofese/sistema-experto-diagnosticador
+813,sabados-tarde,5,8,5,0,06/04/2019,28/11/2020,813.00 KB,813,Repo donde guardaremos las cosas necesarias para los sabados a la tarde,Prolog,https://github.com/pdep-utn/sabados-tarde
+814,KvW,5,1,5,1,26/10/2020,30/08/2024,58.00 KB,58,"Kwee Van Woerden algorithm for eclipse or transit minimum timing, with improved error calculation",Prolog,https://github.com/hdeeg/KvW
+815,mega65-r3-expansion-board,5,1,5,5,26/10/2022,29/03/2024,35.46 MB,36315,Expansion board for the MEGA65 R3+ Main Boards,Prolog,https://github.com/MEGA65/mega65-r3-expansion-board
+816,espeak_id,5,1,5,0,18/11/2014,10/02/2015,184.00 KB,184,Repository for eSpeak pronounciation rules and dictionary files in Bahasa Indonesia,Prolog,https://github.com/kurakuradave/espeak_id
+817,s_expression,5,1,5,0,18/02/2017,18/12/2018,326.00 KB,326,"Utilities for Handling of S-Expression Lisp/Scheme-Like forms and parsing of KIF, GDL, PDDL, CLIF",Prolog,https://github.com/logicmoo/s_expression
+818,KZ80-USBKBD,5,1,5,0,08/08/2021,28/04/2024,4.43 MB,4535,KZ80 MSX USB Keyboard Adapter,Prolog,https://github.com/kuninet/KZ80-USBKBD
+819,fp-215-plotter,5,2,5,0,09/01/2013,10/10/2024,1.89 MB,1934,Radio Shack TRS-80 FP-215 Flatbed Plotter Info,Prolog,https://github.com/skriebel/fp-215-plotter
+820,PCB,5,0,5,1,04/11/2018,05/10/2020,10.18 MB,10420,PCB Designs for the HackerHotel 2019 Badge,Prolog,https://github.com/HackerHotel/PCB
+821,btech_cse_sem_4-material_-2021-MRU,5,1,5,0,04/01/2021,24/05/2021,289.92 MB,296875,,Prolog,https://github.com/harshmittal1750/btech_cse_sem_4-material_-2021-MRU
+822,rolog,5,2,5,1,01/06/2021,11/06/2025,3.80 MB,3889,Access SWI-Prolog from R. Access R from SWI-Prolog.,Prolog,https://github.com/mgondan/rolog
+823,interpolate,5,0,5,1,16/08/2013,09/03/2015,140.00 KB,140,String interpolation for Prolog,Prolog,https://github.com/mndrix/interpolate
+824,prolog-to-minizinc,5,0,5,0,26/01/2020,03/02/2020,23.00 KB,23,A Prolog-to-MiniZinc translator,Prolog,https://github.com/jarble/prolog-to-minizinc
 825,Nan.Numerics.Prime-Prolog,5,1,5,0,24/08/2016,05/02/2017,1.60 MB,1640,A simple prime number library (in Prolog),Prolog,https://github.com/jp-diegidio/Nan.Numerics.Prime-Prolog
 826,dropkick,5,0,5,0,22/01/2022,14/11/2024,114.05 MB,116791,A data logger designed for skydivers,Prolog,https://github.com/rrainey/dropkick
 827,rocks-predicates,5,2,5,8,16/06/2022,14/07/2022,29.00 KB,29,Put predicates into a RocksDB database,Prolog,https://github.com/JanWielemaker/rocks-predicates
@@ -854,11 +854,11 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 853,bogo-prolog,4,0,4,0,01/05/2020,07/07/2025,4.64 MB,4756,,Prolog,https://github.com/lewtds/bogo-prolog
 854,rdf_matcher,4,1,4,3,09/08/2018,26/04/2021,394.00 KB,394,swi rdf_matcher ,Prolog,https://github.com/INCATools/rdf_matcher
 855,100-Projects-for-Prolog,4,1,4,0,29/06/2024,19/07/2024,6.13 MB,6274,"""The repository '100 Mini Projects for Prolog' includes small projects for learning and practicing Prolog.""",Prolog,https://github.com/jElhamm/100-Projects-for-Prolog
-856,perl-setupenv,4,4,4,1,10/03/2012,11/08/2025,2.00 MB,2049,,Prolog,https://github.com/pawjy/perl-setupenv
+856,perl-setupenv,4,4,4,1,10/03/2012,11/09/2025,2.49 MB,2545,,Prolog,https://github.com/pawjy/perl-setupenv
 857,checkpatch,4,6,4,0,17/10/2017,19/10/2017,74.00 KB,74,Linux Kernel's `checkpatch.pl` for standalone usage,Prolog,https://github.com/riboseinc/checkpatch
 858,Cyclone_Pcb,4,4,4,1,17/10/2013,01/11/2013,1.13 MB,1154,Current Cyclone pcb Alpha release,Prolog,https://github.com/robsbots/Cyclone_Pcb
 859,ai-GOALdigger,4,2,4,0,02/05/2022,08/06/2024,39.44 MB,40386,GOALdigger multi-agent system written in the GOAL agent programming language for The 16th edition of the Multi-Agent Programming Contest (MAPC 2022),Prolog,https://github.com/BenPapple/ai-GOALdigger
-860,AI,4,3,4,0,04/01/2024,16/01/2025,179.53 MB,183835,AI - Intelligenza Artificiale presso l'Università degli Studi di Parma (6 CFU).,Prolog,https://github.com/unipr-org/AI
+860,AI,4,4,4,1,04/01/2024,16/01/2025,179.53 MB,183835,AI - Intelligenza Artificiale presso l'Università degli Studi di Parma (6 CFU).,Prolog,https://github.com/unipr-org/AI
 861,Minimalist-Type-Theory-In-Lambda-Prolog,4,3,4,6,18/09/2016,08/12/2018,9.66 MB,9891,An implementation in Lambda-Prolog of the Minimalist Type Theory,Prolog,https://github.com/sacerdot/Minimalist-Type-Theory-In-Lambda-Prolog
 862,ALGT,4,1,4,2,21/03/2015,17/12/2021,83.00 KB,83,An expert system using SWI Prolog that can be used to verify imaging algorithms,Prolog,https://github.com/dg1an3/ALGT
 863,multimodal_dcg,4,1,4,0,18/02/2017,18/10/2020,13.00 KB,13,Reduce floundering of DCGs by constraining and narrowing search ,Prolog,https://github.com/logicmoo/multimodal_dcg
@@ -913,7 +913,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 912,datasets,4,1,4,0,11/06/2014,29/06/2015,1.07 MB,1096,ILP datasets collection,Prolog,https://github.com/mdrl/datasets
 913,CZ3005-AI-Lab,4,6,4,0,11/05/2015,11/05/2015,12.40 MB,12696,Artificial Intelligence Lab Assignment for 2014/15 Sem 2,Prolog,https://github.com/ztong001/CZ3005-AI-Lab
 914,aoc2020,4,0,4,0,02/12/2020,16/12/2020,105.00 KB,105,,Prolog,https://github.com/indocomsoft/aoc2020
-915,packages-redis,4,4,4,0,02/10/2020,01/09/2025,199.00 KB,199,Redis client library,Prolog,https://github.com/SWI-Prolog/packages-redis
+915,packages-redis,4,4,4,0,02/10/2020,09/09/2025,200.00 KB,200,Redis client library,Prolog,https://github.com/SWI-Prolog/packages-redis
 916,normalization,4,0,4,0,28/07/2015,31/07/2015,152.00 KB,152,Database normalization in Prolog,Prolog,https://github.com/cbarrick/normalization
 917,prolog-learning,4,0,4,0,04/01/2021,15/01/2021,81.00 KB,81,Prolog语言知识推理系列文章,Prolog,https://github.com/bsspirit/prolog-learning
 918,Logical-Programming-Assignment_Prolog,4,0,4,0,28/08/2023,28/08/2023,14.00 KB,14,"Welcome to the logic programming problem set provided by Programming Languages Course! In this section, you'll find a collection of problems to practice your logic programming skills using Prolog",Prolog,https://github.com/pedromelobitencourt/Logical-Programming-Assignment_Prolog
@@ -933,7 +933,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 932,challengeMe,4,0,4,0,25/03/2021,09/09/2023,51.00 KB,51,🎮 Solving Programming problems,Prolog,https://github.com/raulpy271/challengeMe
 933,IBM-Planning-Analytics,4,0,4,1,27/03/2022,29/03/2022,18.00 KB,18,This repository contains all the code samples from the IBM Planning Analytics YouTube videos.,Prolog,https://github.com/drerrolb/IBM-Planning-Analytics
 934,tailwind_pl,4,0,4,0,09/07/2021,07/08/2021,69.00 KB,69,Tailwind-Style CSS generator for Prolog,Prolog,https://github.com/jamesnvc/tailwind_pl
-935,packages-zlib,4,6,4,0,25/04/2014,01/09/2025,425.00 KB,425,The SWI-Prolog zlib compressed stream interface,Prolog,https://github.com/SWI-Prolog/packages-zlib
+935,packages-zlib,4,6,4,0,25/04/2014,09/09/2025,426.00 KB,426,The SWI-Prolog zlib compressed stream interface,Prolog,https://github.com/SWI-Prolog/packages-zlib
 936,13lackWidowsDotfiles,4,0,4,0,31/01/2017,01/09/2017,2.42 MB,2480,My dotfiles for sharing and updating new operating systems.,Prolog,https://github.com/13lackWidow/13lackWidowsDotfiles
 937,functional_prolog,4,0,4,0,27/12/2017,04/04/2018,13.00 KB,13,Functional prolog,Prolog,https://github.com/rrunix/functional_prolog
 938,BrGram,4,0,4,1,02/02/2018,05/04/2018,48.00 KB,48,Computational grammar fragment of Brazilian Portuguese in the LFG formalism implemented in XLE,Prolog,https://github.com/LR-POR/BrGram
@@ -969,7 +969,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 968,logical-loops,4,0,4,0,25/11/2015,25/11/2015,7.00 KB,7,ECLiPSe logical loops for SWI-Prolog,Prolog,https://github.com/JanWielemaker/logical-loops
 969,neutrino,4,0,4,1,12/11/2019,07/02/2020,695.00 KB,695,"A compiler for a linearly-typed functional programming language, written in Prolog.",Prolog,https://github.com/brosenan/neutrino
 970,DashbuttonReplica,4,0,4,0,10/06/2019,16/06/2019,83.00 KB,83,Amazon Dashbutton like IoT button,Prolog,https://github.com/Arsaev/DashbuttonReplica
-971,busstuc,4,1,4,0,10/11/2015,04/09/2025,791.07 MB,810053,Intelligent Bus Route System for Trondheim and some other Norwegian cities,Prolog,https://github.com/saetre/busstuc
+971,busstuc,4,1,4,0,10/11/2015,06/09/2025,791.74 MB,810739,Intelligent Bus Route System for Trondheim and some other Norwegian cities,Prolog,https://github.com/saetre/busstuc
 972,Logic-Functional-Programming,4,2,4,0,06/09/2011,14/04/2014,190.00 KB,190,Tasks for University,Prolog,https://github.com/Sleepy-Coders/Logic-Functional-Programming
 973,PrologVirtualWorlds,4,1,4,0,26/02/2016,26/02/2016,49.80 MB,50998,,Prolog,https://github.com/opensim4opencog/PrologVirtualWorlds
 974,cplint_datasets,4,0,4,0,24/11/2016,24/11/2016,3.92 MB,4016,Datasets for cplint,Prolog,https://github.com/friguzzi/cplint_datasets
@@ -993,7 +993,7 @@ Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Siz
 992,Prolog-Practicals,4,0,4,0,09/07/2018,09/07/2018,2.00 KB,2,,Prolog,https://github.com/NikhilMudgal/Prolog-Practicals
 993,chordpro-songs,4,3,4,0,21/01/2018,28/09/2022,3.83 MB,3919,Collection of Worship songs in ChordPro format,Prolog,https://github.com/saipanman95/chordpro-songs
 994,horc,4,0,4,0,25/02/2020,11/09/2024,127.00 KB,127,horc: Lightweight HORn-Clause Interpreter,Prolog,https://github.com/amka66/horc
-995,shacl-repairs,4,1,4,0,02/04/2023,19/08/2025,1.38 MB,1413,,Prolog,https://github.com/robert-david/shacl-repairs
+995,shacl-repairs,4,0,4,0,02/04/2023,19/08/2025,1.38 MB,1413,,Prolog,https://github.com/robert-david/shacl-repairs
 996,web,4,2,4,3,04/03/2015,04/03/2015,268.00 KB,268,Easy web client library for Prolog,Prolog,https://github.com/mndrix/web
 997,pltcourse,4,1,4,0,07/10/2012,09/02/2015,4.82 MB,4932,,Prolog,https://github.com/rlaemmel/pltcourse
 998,t430s-yosemite,4,3,4,1,11/04/2015,17/05/2015,1.69 MB,1728,Kexts & DSDT/SSDT files for Lenovo T430s,Prolog,https://github.com/fsegouin/t430s-yosemite
