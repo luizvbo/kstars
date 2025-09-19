@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,linux,201808,57670,201808,503,04/09/2011,11/09/2025,5.40 GB,5660641,Linux kernel source tree,C,https://github.com/torvalds/linux
-2,scrcpy,127931,11990,127931,2530,21/11/2017,11/09/2025,7.40 MB,7577,Display and control your Android device,C,https://github.com/Genymobile/scrcpy
-3,netdata,75838,6148,75838,239,17/06/2013,12/09/2025,233.25 MB,238847,"The fastest path to AI-powered full stack observability, even for lean teams.",C,https://github.com/netdata/netdata
-4,redis,70825,24219,70825,2669,21/03/2009,11/09/2025,198.53 MB,203293,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis
-5,Ventoy,70569,4471,70569,966,10/03/2020,18/08/2025,213.13 MB,218248,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy
-6,obs-studio,66738,8678,66738,991,01/10/2013,11/09/2025,77.63 MB,79495,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio
-7,git,56417,26634,56417,259,23/07/2008,11/09/2025,279.08 MB,285780,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git
-8,FFmpeg,53179,13028,53179,3,14/04/2011,11/09/2025,439.49 MB,450034,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg
-9,wrk,39486,3017,39486,201,20/03/2012,30/12/2023,37.83 MB,38743,Modern HTTP benchmarking tool,C,https://github.com/wg/wrk
-10,php-src,39443,7927,39443,1517,16/06/2011,11/09/2025,593.66 MB,607906,The PHP Interpreter,C,https://github.com/php/php-src
+1,linux,202367,57778,202367,505,04/09/2011,18/09/2025,5.40 GB,5661570,Linux kernel source tree,C,https://github.com/torvalds/linux
+2,scrcpy,128311,12037,128311,2547,21/11/2017,18/09/2025,7.41 MB,7584,Display and control your Android device,C,https://github.com/Genymobile/scrcpy
+3,netdata,75959,6154,75959,238,17/06/2013,19/09/2025,234.30 MB,239925,"The fastest path to AI-powered full stack observability, even for lean teams.",C,https://github.com/netdata/netdata
+4,redis,70913,24233,70913,2679,21/03/2009,19/09/2025,198.70 MB,203471,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis
+5,Ventoy,70750,4483,70750,975,10/03/2020,18/08/2025,213.13 MB,218248,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy
+6,obs-studio,66870,8684,66870,983,01/10/2013,17/09/2025,77.65 MB,79517,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio
+7,git,56501,26665,56501,259,23/07/2008,18/09/2025,279.38 MB,286086,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git
+8,FFmpeg,53361,13064,53361,3,14/04/2011,18/09/2025,440.56 MB,451132,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg
+9,wrk,39529,3024,39529,201,20/03/2012,30/12/2023,37.83 MB,38743,Modern HTTP benchmarking tool,C,https://github.com/wg/wrk
+10,php-src,39462,7934,39462,1539,16/06/2011,19/09/2025,594.13 MB,608389,The PHP Interpreter,C,https://github.com/php/php-src
