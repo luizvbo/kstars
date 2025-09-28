@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,anoma,34373,4094,34373,195,02/02/2021,04/09/2025,76.13 MB,77954,Reference implementation of Anoma,Elixir,https://github.com/anoma/anoma
-2,elixir,25784,3464,25784,29,09/01/2011,18/09/2025,65.83 MB,67414,"Elixir is a dynamic, functional language for building scalable and maintainable applications",Elixir,https://github.com/elixir-lang/elixir
-3,analytics,23350,1273,23350,55,04/12/2018,19/09/2025,455.56 MB,466496,"Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",Elixir,https://github.com/plausible/analytics
-4,phoenix,22462,3003,22462,60,20/01/2014,18/09/2025,22.47 MB,23005,Peace of mind from prototype to production,Elixir,https://github.com/phoenixframework/phoenix
-5,awesome-elixir,13002,1192,13002,5,01/07/2014,27/08/2025,2.66 MB,2720,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",Elixir,https://github.com/h4cc/awesome-elixir
-6,electric,9203,263,9203,146,01/06/2022,18/09/2025,149.38 MB,152961,Real-time sync for Postgres.,Elixir,https://github.com/electric-sql/electric
-7,firezone,7516,333,7516,461,22/04/2020,19/09/2025,181.56 MB,185916,Enterprise-ready zero-trust access platform built on WireGuard®.,Elixir,https://github.com/firezone/firezone
-8,realtime,7284,393,7284,55,23/09/2019,19/09/2025,9.36 MB,9584,"Broadcast, Presence, and Postgres Changes via WebSockets",Elixir,https://github.com/supabase/realtime
-9,teslamate,7147,858,7147,75,31/03/2019,13/09/2025,87.28 MB,89375,A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld],Elixir,https://github.com/teslamate-org/teslamate
-10,phoenix_live_view,6599,1006,6599,59,12/09/2018,18/09/2025,19.64 MB,20108,"Rich, real-time user experiences with server-rendered HTML",Elixir,https://github.com/phoenixframework/phoenix_live_view
+1,anoma,34358,4096,34358,196,02/02/2021,26/09/2025,76.03 MB,77851,Reference implementation of Anoma,Elixir,https://github.com/anoma/anoma
+2,elixir,25849,3465,25849,34,09/01/2011,27/09/2025,65.87 MB,67454,"Elixir is a dynamic, functional language for building scalable and maintainable applications",Elixir,https://github.com/elixir-lang/elixir
+3,analytics,23401,1284,23401,56,04/12/2018,26/09/2025,459.35 MB,470378,"Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",Elixir,https://github.com/plausible/analytics
+4,phoenix,22478,3005,22478,53,20/01/2014,24/09/2025,22.33 MB,22865,Peace of mind from prototype to production,Elixir,https://github.com/phoenixframework/phoenix
+5,awesome-elixir,13009,1191,13009,5,01/07/2014,27/08/2025,2.66 MB,2720,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",Elixir,https://github.com/h4cc/awesome-elixir
+6,electric,9249,265,9249,123,01/06/2022,27/09/2025,154.30 MB,158007,Real-time sync for Postgres.,Elixir,https://github.com/electric-sql/electric
+7,firezone,7724,342,7724,475,22/04/2020,26/09/2025,181.93 MB,186292,Enterprise-ready zero-trust access platform built on WireGuard®.,Elixir,https://github.com/firezone/firezone
+8,realtime,7302,395,7302,56,23/09/2019,27/09/2025,9.26 MB,9485,"Broadcast, Presence, and Postgres Changes via WebSockets",Elixir,https://github.com/supabase/realtime
+9,teslamate,7170,862,7170,69,31/03/2019,27/09/2025,87.40 MB,89496,A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld],Elixir,https://github.com/teslamate-org/teslamate
+10,phoenix_live_view,6612,1007,6612,66,12/09/2018,22/09/2025,20.09 MB,20570,"Rich, real-time user experiences with server-rendered HTML",Elixir,https://github.com/phoenixframework/phoenix_live_view
