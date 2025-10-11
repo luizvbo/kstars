@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,winutil,40741,2176,40741,228,28/04/2022,01/10/2025,7.45 MB,7624,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil
-2,Win11Debloat,27100,1135,27100,35,27/10/2020,28/09/2025,460.00 KB,460,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat
-3,Scoop,22953,1476,22953,422,11/05/2013,29/09/2025,13.79 MB,14122,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop
-4,core,21634,4924,21634,337,18/11/2014,30/09/2025,49.29 MB,50468,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core
-5,Windows10Debloater,18665,2076,18665,300,12/12/2017,10/03/2023,478.00 KB,478,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater
-6,SpotX,18306,945,18306,6,11/08/2021,29/09/2025,24.47 MB,25061,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX
-7,Atlas,16903,606,16903,8,08/02/2021,29/09/2025,332.10 MB,340072,"🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",PowerShell,https://github.com/Atlas-OS/Atlas
-8,tiny11builder,14388,1153,14388,33,24/02/2023,12/09/2025,233.00 KB,233,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder
-9,PowerSploit,12630,4707,12630,104,26/05/2012,17/08/2020,10.47 MB,10719,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit
-10,Office-Tool,11996,974,11996,2,06/11/2018,28/09/2025,39.63 MB,40578,Office Tool Plus localization projects.,PowerShell,https://github.com/YerongAI/Office-Tool
+1,winutil,40988,2190,40988,235,28/04/2022,08/10/2025,7.45 MB,7630,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil
+2,Win11Debloat,27445,1143,27445,32,27/10/2020,06/10/2025,431.00 KB,431,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat
+3,Scoop,22970,1479,22970,429,11/05/2013,29/09/2025,13.79 MB,14122,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop
+4,core,21644,4929,21644,334,18/11/2014,09/10/2025,49.29 MB,50476,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core
+5,Windows10Debloater,18642,2072,18642,300,12/12/2017,10/03/2023,478.00 KB,478,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater
+6,SpotX,18359,953,18359,3,11/08/2021,10/10/2025,24.52 MB,25112,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX
+7,Atlas,16915,602,16915,9,08/02/2021,09/10/2025,332.12 MB,340096,"🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",PowerShell,https://github.com/Atlas-OS/Atlas
+8,tiny11builder,14653,1166,14653,43,24/02/2023,12/09/2025,233.00 KB,233,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder
+9,PowerSploit,12637,4710,12637,104,26/05/2012,17/08/2020,10.47 MB,10719,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit
+10,runner-images,12019,3537,12019,41,05/06/2019,10/10/2025,14.04 MB,14380,GitHub Actions runner images,PowerShell,https://github.com/actions/runner-images
