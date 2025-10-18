@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,pandoc,39546,3649,39546,1041,20/03/2010,10/10/2025,67.28 MB,68896,Universal markup converter,Haskell,https://github.com/jgm/pandoc
-2,shellcheck,38207,1869,38207,1164,17/11/2012,25/09/2025,5.51 MB,5647,"ShellCheck, a static analysis tool for shell scripts",Haskell,https://github.com/koalaman/shellcheck
-3,postgrest,25862,1120,25862,359,13/06/2014,10/10/2025,12.61 MB,12913,REST API for any Postgres database,Haskell,https://github.com/PostgREST/postgrest
-4,hadolint,11574,475,11574,236,15/11/2015,29/09/2025,3.88 MB,3976,"Dockerfile linter, validate inline bash, written in Haskell",Haskell,https://github.com/hadolint/hadolint
-5,simplex-chat,9702,504,9702,1003,21/12/2019,10/10/2025,303.01 MB,310284,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",Haskell,https://github.com/simplex-chat/simplex-chat
-6,semantic,9058,458,9058,0,15/03/2019,01/04/2025,33.72 MB,34525,"Parsing, analyzing, and comparing source code across many languages",Haskell,https://github.com/github/semantic
-7,purescript,8778,569,8778,303,30/09/2013,27/06/2025,13.42 MB,13739,A strongly-typed language that compiles to JavaScript,Haskell,https://github.com/purescript/purescript
-8,compiler,7678,669,7678,336,19/04/2012,10/09/2025,9.65 MB,9886,"Compiler for Elm, a functional language for reliable webapps.",Haskell,https://github.com/elm/compiler
-9,unison,6216,284,6216,1196,06/05/2015,10/10/2025,136.52 MB,139800,A friendly programming language from the future,Haskell,https://github.com/unisonweb/unison
-10,Carp,5723,177,5723,147,11/01/2016,16/09/2025,11.71 MB,11990,"A statically typed lisp, without a GC, for real-time applications.",Haskell,https://github.com/carp-lang/Carp
+1,pandoc,39654,3656,39654,1043,20/03/2010,16/10/2025,67.77 MB,69395,Universal markup converter,Haskell,https://github.com/jgm/pandoc
+2,shellcheck,38261,1873,38261,1164,17/11/2012,16/10/2025,5.24 MB,5366,"ShellCheck, a static analysis tool for shell scripts",Haskell,https://github.com/koalaman/shellcheck
+3,postgrest,25886,1121,25886,358,13/06/2014,17/10/2025,12.62 MB,12924,REST API for any Postgres database,Haskell,https://github.com/PostgREST/postgrest
+4,hadolint,11586,475,11586,237,15/11/2015,29/09/2025,3.88 MB,3976,"Dockerfile linter, validate inline bash, written in Haskell",Haskell,https://github.com/hadolint/hadolint
+5,simplex-chat,9741,510,9741,1016,21/12/2019,17/10/2025,310.83 MB,318289,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",Haskell,https://github.com/simplex-chat/simplex-chat
+6,semantic,9060,458,9060,0,15/03/2019,01/04/2025,33.72 MB,34525,"Parsing, analyzing, and comparing source code across many languages",Haskell,https://github.com/github/semantic
+7,purescript,8783,569,8783,303,30/09/2013,27/06/2025,13.42 MB,13739,A strongly-typed language that compiles to JavaScript,Haskell,https://github.com/purescript/purescript
+8,compiler,7685,669,7685,335,19/04/2012,10/09/2025,9.65 MB,9886,"Compiler for Elm, a functional language for reliable webapps.",Haskell,https://github.com/elm/compiler
+9,unison,6219,284,6219,1198,06/05/2015,17/10/2025,138.65 MB,141978,A friendly programming language from the future,Haskell,https://github.com/unisonweb/unison
+10,Carp,5727,178,5727,147,11/01/2016,16/09/2025,11.71 MB,11990,"A statically typed lisp, without a GC, for real-time applications.",Haskell,https://github.com/carp-lang/Carp

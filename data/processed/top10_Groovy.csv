@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,gradle,18071,5023,18071,3249,09/09/2009,10/10/2025,641.26 MB,656653,"Adaptable, fast automation for all",Groovy,https://github.com/gradle/gradle
-2,devops-resources,9242,2309,9242,24,07/01/2019,12/07/2024,1.78 MB,1822,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",Groovy,https://github.com/bregman-arie/devops-resources
-3,rundeck,5912,957,5912,660,03/09/2010,10/10/2025,214.02 MB,219158,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,https://github.com/rundeck/rundeck
-4,pipeline-examples,4281,3554,4281,15,24/11/2015,31/08/2023,127.00 KB,127,"A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin",Groovy,https://github.com/jenkinsci/pipeline-examples
+1,gradle,18078,5025,18078,3260,09/09/2009,17/10/2025,642.24 MB,657655,"Adaptable, fast automation for all",Groovy,https://github.com/gradle/gradle
+2,devops-resources,9254,2315,9254,24,07/01/2019,12/07/2024,1.78 MB,1822,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",Groovy,https://github.com/bregman-arie/devops-resources
+3,rundeck,5914,958,5914,663,03/09/2010,17/10/2025,214.14 MB,219284,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,https://github.com/rundeck/rundeck
+4,pipeline-examples,4281,3556,4281,15,24/11/2015,31/08/2023,127.00 KB,127,"A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin",Groovy,https://github.com/jenkinsci/pipeline-examples
 5,gradle_plugin_android_aspectjx,3971,578,3971,153,25/04/2016,15/09/2021,16.60 MB,16998,"A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.",Groovy,https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
-6,fat-aar-android,3259,677,3259,166,19/12/2018,25/07/2024,7.07 MB,7241,A gradle plugin that merge dependencies into the final aar file works with AGP 3.+,Groovy,https://github.com/kezong/fat-aar-android
-7,nextflow,3174,736,3174,499,27/03/2013,10/10/2025,62.48 MB,63982,A DSL for data-driven computational pipelines,Groovy,https://github.com/nextflow-io/nextflow
-8,grails-core,2847,963,2847,851,10/02/2010,10/10/2025,424.87 MB,435068,Grails - the Web Application Framework,Groovy,https://github.com/apache/grails-core
-9,SmartThingsPublic,2625,88720,2625,2512,04/08/2015,18/07/2023,20.57 MB,21066,SmartThings open-source DeviceType Handlers and SmartApps code,Groovy,https://github.com/SmartThingsCommunity/SmartThingsPublic
+6,fat-aar-android,3262,682,3262,166,19/12/2018,25/07/2024,7.07 MB,7241,A gradle plugin that merge dependencies into the final aar file works with AGP 3.+,Groovy,https://github.com/kezong/fat-aar-android
+7,nextflow,3182,738,3182,509,27/03/2013,17/10/2025,62.65 MB,64150,A DSL for data-driven computational pipelines,Groovy,https://github.com/nextflow-io/nextflow
+8,grails-core,2849,963,2849,854,10/02/2010,17/10/2025,425.12 MB,435322,Grails - the Web Application Framework,Groovy,https://github.com/apache/grails-core
+9,SmartThingsPublic,2623,88691,2623,2512,04/08/2015,18/07/2023,20.57 MB,21066,SmartThings open-source DeviceType Handlers and SmartApps code,Groovy,https://github.com/SmartThingsCommunity/SmartThingsPublic
 10,asgard,2226,399,2226,100,21/05/2012,10/04/2023,25.97 MB,26590,[Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases,Groovy,https://github.com/Netflix/asgard
