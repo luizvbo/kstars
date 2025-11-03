@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,winutil,41398,2215,41398,242,28/04/2022,14/10/2025,7.54 MB,7718,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil
-2,Win11Debloat,29560,1192,29560,34,27/10/2020,06/10/2025,431.00 KB,431,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat
-3,Scoop,23017,1479,23017,441,11/05/2013,15/10/2025,13.78 MB,14108,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop
-4,core,21658,4932,21658,328,18/11/2014,17/10/2025,49.37 MB,50554,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core
-5,Windows10Debloater,18654,2075,18654,300,12/12/2017,10/03/2023,478.00 KB,478,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater
-6,SpotX,18415,957,18415,3,11/08/2021,17/10/2025,24.56 MB,25153,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX
-7,Atlas,17003,608,17003,2,08/02/2021,17/10/2025,332.16 MB,340136,"🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",PowerShell,https://github.com/Atlas-OS/Atlas
-8,tiny11builder,15073,1182,15073,48,24/02/2023,12/09/2025,233.00 KB,233,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder
-9,PowerSploit,12656,4713,12656,104,26/05/2012,17/08/2020,10.47 MB,10719,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit
-10,Office-Tool,12065,979,12065,0,06/11/2018,15/10/2025,39.80 MB,40755,Office Tool Plus localization projects.,PowerShell,https://github.com/YerongAI/Office-Tool
+1,winutil,42223,2256,42223,259,28/04/2022,01/11/2025,7.46 MB,7634,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil
+2,Win11Debloat,30750,1217,30750,36,27/10/2020,06/10/2025,431.00 KB,431,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat
+3,Scoop,23090,1481,23090,445,11/05/2013,03/11/2025,13.77 MB,14105,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop
+4,core,21683,4936,21683,330,18/11/2014,03/11/2025,49.23 MB,50415,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core
+5,Windows10Debloater,18676,2073,18676,300,12/12/2017,10/03/2023,478.00 KB,478,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater
+6,SpotX,18573,963,18573,3,11/08/2021,22/10/2025,24.54 MB,25131,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX
+7,tiny11builder,16170,1255,16170,70,24/02/2023,12/09/2025,233.00 KB,233,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder
+8,PowerSploit,12686,4713,12686,104,26/05/2012,17/08/2020,10.47 MB,10719,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit
+9,Office-Tool,12140,978,12140,0,06/11/2018,21/10/2025,39.80 MB,40758,Office Tool Plus localization projects.,PowerShell,https://github.com/YerongAI/Office-Tool
+10,runner-images,12114,3560,12114,49,05/06/2019,01/11/2025,14.10 MB,14437,GitHub Actions runner images,PowerShell,https://github.com/actions/runner-images
