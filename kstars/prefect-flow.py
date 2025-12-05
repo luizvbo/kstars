@@ -1,5 +1,4 @@
 import subprocess
-from datetime import timedelta
 from pathlib import Path
 from typing import TypeVar
 
@@ -45,8 +44,8 @@ LANGUAGES = {
 }
 DATA_FOLDER = Path("../data")
 README_PATH = Path("../README.md")
-CACHE_POLICY = DEFAULT
 HOME_PAGE = "https://luizvbo.github.io/kstars"
+
 
 def human_readable_size(size_kb: int) -> str:
     """Converts file size in KB to a human-readable format."""
@@ -79,7 +78,6 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 ## Top 10 Repositories
 
 """
-    logger = get_run_logger()
     for lang_safe, lang_display in languages.items():
         content += f"1. [{lang_display}](#{lang_display.replace(' ', '-')})\n"
     content += "\n"
@@ -106,9 +104,7 @@ Below, you'll find a fallback representation of the top 10 repositories for each
     print("README.md file generated successfully!")
 
 
-
 def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
-    logger = get_run_logger()
     fname = f"{lang_name}.csv"
     input_file_path = Path(input_folder) / fname
     output_file_path = Path(output_folder) / fname
@@ -149,7 +145,6 @@ def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
 def run_kstars_task(
     language: str, lang_name: str, output_folder: str | Path
 ) -> None | State:
-    logger = get_run_logger()
     command = f'kstars -t $(cat .access_token.txt) -l "{language}:{lang_name}" -o {output_folder}'
     print(f"Running command: {command}")
     try:
@@ -175,7 +170,6 @@ def run_load_api(languages: dict[str, str], output_folder: str):
     path_data_original.mkdir(parents=True, exist_ok=True)
 
     for lang in languages.keys():
-        rate_limit("rate-limited-gh-api")
         _ = run_kstars_task(lang, lang, path_data_original)
 
 
@@ -187,17 +181,3 @@ def run_post_processing(languages: dict[str, str], output_folder: str):
         _ = preprocess_data(lang_name, path_data_original, path_data_processed)
 
     generate_readme(LANGUAGES, DATA_FOLDER / "processed", README_PATH)
-
-
-if __name__ == "__main__":
-    flow_run_kstars = run_load_api.to_deployment(
-        name="kstars-load-api",
-        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
-        cron="0 1 * * 5",
-    )
-    flow_run_post_processing = run_post_processing.to_deployment(
-        name="kstars-data-processing",
-        parameters={"languages": LANGUAGES, "output_folder": DATA_FOLDER},
-        cron="0 3 * * 5",
-    )
-    serve(flow_run_kstars, flow_run_post_processing)
