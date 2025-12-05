@@ -3,13 +3,13 @@ use clap::Parser;
 use csv::Writer;
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
+use serde_json;
 use std::{
-    fs::{self, File}, 
-    io::{BufReader, BufWriter}, 
-    path::{Path, PathBuf}, 
+    fs::{self, File},
+    io::{BufReader, BufWriter},
+    path::{Path, PathBuf},
     time::Duration,
 };
-use serde_json;
 use tokio::time::sleep;
 use tracing::{debug, error, info, warn};
 use tracing_subscriber::{EnvFilter, fmt, prelude::*};
@@ -37,7 +37,7 @@ struct Args {
 }
 
 /// Structure for a GitHub repository (partial data).
-#[derive(Deserialize, Serialize, Debug, Clone)] 
+#[derive(Deserialize, Serialize, Debug, Clone)]
 struct Repo {
     name: String,
     html_url: String,
@@ -79,8 +79,8 @@ fn get_page_cache_file_path(cache_dir: &Path, page: u32) -> PathBuf {
 /// Saves a list of repositories for a specific page to its cache file.
 fn save_page_to_cache(path: &Path, repos: &[Repo]) -> Result<()> {
     debug!("Saving page cache to: {:?}", path);
-    let file = File::create(path)
-        .with_context(|| format!("Failed to create cache file: {:?}", path))?;
+    let file =
+        File::create(path).with_context(|| format!("Failed to create cache file: {:?}", path))?;
     let writer = BufWriter::new(file);
     serde_json::to_writer(writer, repos)
         .with_context(|| format!("Failed to serialize and write cache file: {:?}", path))?;
@@ -91,8 +91,8 @@ fn save_page_to_cache(path: &Path, repos: &[Repo]) -> Result<()> {
 /// Loads a list of repositories for a specific page from its cache file.
 fn load_page_from_cache(path: &Path) -> Result<Vec<Repo>> {
     debug!("Attempting to load page cache from: {:?}", path);
-    let file = File::open(path)
-        .with_context(|| format!("Failed to open cache file: {:?}", path))?;
+    let file =
+        File::open(path).with_context(|| format!("Failed to open cache file: {:?}", path))?;
     let reader = BufReader::new(file);
     let repos: Vec<Repo> = serde_json::from_reader(reader)
         .with_context(|| format!("Failed to deserialize cache file: {:?}", path))?;
@@ -126,6 +126,8 @@ fn get_access_token(token_input: Option<String>) -> Result<String> {
 }
 
 /// Fetches repositories for a given language and page (each page has 100 results).
+
+/// Fetches repositories for a given language and page (each page has 100 results).
 async fn fetch_repos(
     client: &reqwest::Client,
     token: &str,
@@ -154,53 +156,86 @@ async fn fetch_repos(
             .expect("Invalid token format"),
     );
 
-    // Send the request
-    let resp = client
-        .get(&url)
-        .headers(headers)
-        .send()
-        .await
-        .context("HTTP request failed")?;
-
-    // Handle rate limiting if a 403 error is returned
-    if resp.status() == reqwest::StatusCode::FORBIDDEN {
-        let headers = resp.headers();
-        if let Some(retry_after) = headers.get("x-ratelimit-reset") {
-            let reset_time: u64 = retry_after.to_str()?.parse()?;
-            let wait_time = reset_time - (chrono::Utc::now().timestamp() as u64);
-            if wait_time > 0 {
-                warn!("Rate limit exceeded. Sleeping for {} seconds...", wait_time);
-                tokio::time::sleep(tokio::time::Duration::from_secs(wait_time)).await;
-            }
-        }
-    }
-
-    // Now check if the response was successful
-    if !resp.status().is_success() {
-        let status = resp.status(); // capture status first
-        let error_text = resp
-            .text()
+    // Loop until successful or a non-recoverable error occurs
+    loop {
+        // Send the request (clone headers because .send() consumes them)
+        let resp = client
+            .get(&url)
+            .headers(headers.clone())
+            .send()
             .await
-            .unwrap_or_else(|_| "Failed to retrieve error message".to_string());
-        error!(
-            "Failed to fetch page {} for {}: {}. API message: {}",
-            page, language, status, error_text
-        );
-        anyhow::bail!("Request failed with status {}: {}", status, error_text);
-    }
+            .context("HTTP request failed")?;
 
-    // Deserialize the response into SearchResponse
-    let search_resp: SearchResponse = resp
-        .json()
-        .await
-        .context("Failed to deserialize JSON response")?;
-    debug!(
-        "Page {} for {} returned {} repos.",
-        page,
-        language,
-        search_resp.items.len()
-    );
-    Ok(search_resp.items)
+        let status = resp.status();
+
+        // Handle rate limiting (403 Forbidden or 429 Too Many Requests)
+        if status == reqwest::StatusCode::FORBIDDEN
+            || status == reqwest::StatusCode::TOO_MANY_REQUESTS
+        {
+            let resp_headers = resp.headers();
+
+            // Case 1: Standard Rate Limit (x-ratelimit-reset header exists)
+            if let Some(retry_after) = resp_headers.get("x-ratelimit-reset") {
+                let reset_time: u64 = retry_after.to_str()?.parse()?;
+                let now = chrono::Utc::now().timestamp() as u64;
+
+                // Calculate wait time, ensuring we don't underflow
+                let wait_time = if reset_time > now {
+                    reset_time - now
+                } else {
+                    1
+                };
+
+                warn!(
+                    "Rate limit exceeded (Standard). Sleeping for {} seconds...",
+                    wait_time
+                );
+                tokio::time::sleep(tokio::time::Duration::from_secs(wait_time)).await;
+                continue; // Retry the loop
+            }
+
+            // Case 2: Secondary Rate Limit (No header, usually specific JSON body)
+            // The API documentation suggests waiting "a few minutes".
+            warn!(
+                "Secondary rate limit exceeded (or 403 without reset header). Sleeping for 60 seconds before retrying..."
+            );
+
+            // Optional: Log the body to see the specific GitHub message
+            if let Ok(body) = resp.text().await {
+                debug!("Rate limit error body: {}", body);
+            }
+
+            tokio::time::sleep(tokio::time::Duration::from_secs(60)).await;
+            continue; // Retry the loop
+        }
+
+        // Now check if the response was successful
+        if !status.is_success() {
+            let error_text = resp
+                .text()
+                .await
+                .unwrap_or_else(|_| "Failed to retrieve error message".to_string());
+            error!(
+                "Failed to fetch page {} for {}: {}. API message: {}",
+                page, language, status, error_text
+            );
+            anyhow::bail!("Request failed with status {}: {}", status, error_text);
+        }
+
+        // Deserialize the response into SearchResponse
+        let search_resp: SearchResponse = resp
+            .json()
+            .await
+            .context("Failed to deserialize JSON response")?;
+        debug!(
+            "Page {} for {} returned {} repos.",
+            page,
+            language,
+            search_resp.items.len()
+        );
+
+        return Ok(search_resp.items);
+    }
 }
 
 /// Fetches up to `records` repositories for the specified language, using caching.
@@ -210,14 +245,20 @@ async fn fetch_top_repos_for_language(
     token: &str,
     language_api_name: &str,
     records: u32,
-    output_dir: &str, 
+    output_dir: &str,
 ) -> Result<Vec<Repo>> {
-    info!("Fetching top repositories for language: {}", language_api_name);
+    info!(
+        "Fetching top repositories for language: {}",
+        language_api_name
+    );
     let per_page = 100;
     // GitHub search API only returns up to 1000 results (10 pages of 100).
     let max_pages = 10;
     let requested_pages = ((records + per_page - 1) / per_page).min(max_pages);
-    info!("Planning to fetch {} pages (max {} allowed by API).", requested_pages, max_pages);
+    info!(
+        "Planning to fetch {} pages (max {} allowed by API).",
+        requested_pages, max_pages
+    );
 
     let mut all_repos = Vec::new();
 
@@ -226,7 +267,6 @@ async fn fetch_top_repos_for_language(
     fs::create_dir_all(&cache_dir)
         .with_context(|| format!("Failed to create cache directory: {:?}", cache_dir))?;
     info!("Using cache directory: {:?}", cache_dir);
-
 
     for page in 1..=requested_pages {
         let page_cache_file = get_page_cache_file_path(&cache_dir, page);
@@ -252,11 +292,12 @@ async fn fetch_top_repos_for_language(
 
         // If not loaded from cache, fetch from API
         if page_repos.is_empty() {
-             info!("Fetching page {} for {} from API", page, language_api_name);
+            info!("Fetching page {} for {} from API", page, language_api_name);
             match fetch_repos(client, token, language_api_name, page).await {
                 Ok(repos) => {
-                    if repos.is_empty() && page > 1 { // Check page > 1, as page 1 might genuinely have 0 results
-                         warn!(
+                    if repos.is_empty() && page > 1 {
+                        // Check page > 1, as page 1 might genuinely have 0 results
+                        warn!(
                             "No repos returned from API on page {} for {}. Stopping.",
                             page, language_api_name
                         );
@@ -276,7 +317,7 @@ async fn fetch_top_repos_for_language(
                         "Failed to fetch page {} for {}: {}. Stopping processing for this language.",
                         page, language_api_name, e
                     );
-                     // Return an error to stop processing this language completely on failure
+                    // Return an error to stop processing this language completely on failure
                     return Err(e).with_context(|| format!("API fetch failed for page {}", page));
                 }
             }
@@ -285,9 +326,12 @@ async fn fetch_top_repos_for_language(
         // Add the repos for this page (either from cache or API) to the total
         all_repos.extend(page_repos);
 
-         // Check if we have reached the desired number of records
+        // Check if we have reached the desired number of records
         if all_repos.len() >= records as usize {
-            info!("Reached target of {} records for {}. Stopping fetch.", records, language_api_name);
+            info!(
+                "Reached target of {} records for {}. Stopping fetch.",
+                records, language_api_name
+            );
             // Trim excess records if we fetched a full page but only needed part of it
             all_repos.truncate(records as usize);
             break;
@@ -299,8 +343,8 @@ async fn fetch_top_repos_for_language(
             sleep(Duration::from_secs(2)).await;
         } else {
             // Optional small sleep even for cache hits to avoid overwhelming the disk?
-             // sleep(Duration::from_millis(50)).await;
-             debug!("Loaded page {} from cache, no API sleep needed.", page);
+            // sleep(Duration::from_millis(50)).await;
+            debug!("Loaded page {} from cache, no API sleep needed.", page);
         }
     }
 
@@ -477,11 +521,17 @@ async fn main() -> Result<()> {
         // Define cache dir path for potential cleanup
         let cache_dir = get_language_cache_dir(&args.output, &mapping.api_name);
 
-        match fetch_top_repos_for_language(&client, &token, &mapping.api_name, args.records, &args.output)
-            .await
+        match fetch_top_repos_for_language(
+            &client,
+            &token,
+            &mapping.api_name,
+            args.records,
+            &args.output,
+        )
+        .await
         {
             Ok(repos) => {
-                 // Build a safe file name based on display name.
+                // Build a safe file name based on display name.
                 let safe_name: String = mapping
                     .display_name
                     .chars()
@@ -508,14 +558,14 @@ async fn main() -> Result<()> {
                         );
                         // Clean up cache directory for this language *only* on success
                         if cache_dir.exists() {
-                             info!("Cleaning up cache directory: {:?}", cache_dir);
+                            info!("Cleaning up cache directory: {:?}", cache_dir);
                             if let Err(e) = fs::remove_dir_all(&cache_dir) {
                                 warn!("Failed to remove cache directory {:?}: {}", cache_dir, e);
                             }
                         }
                     }
                     Err(e) => {
-                         error!(
+                        error!(
                             "Failed writing final CSV for {}: {}. Cache files in {:?} were NOT deleted.",
                             mapping.display_name, e, cache_dir
                         );
@@ -525,11 +575,11 @@ async fn main() -> Result<()> {
                 }
             }
             Err(e) => {
-                 error!(
+                error!(
                     "Failed fetching repos for {}: {}. Skipping this language. Cache files in {:?} may remain.",
                     mapping.api_name, e, cache_dir
-                 );
-                 // Continue to the next language if one fails
+                );
+                // Continue to the next language if one fails
             }
         }
     }
