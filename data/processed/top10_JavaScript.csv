@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,react,240619,49874,240619,1062,24/05/2013,15/11/2025,1.17 GB,1232058,The library for web and native user interfaces.,JavaScript,https://github.com/facebook/react
-2,javascript-algorithms,194096,30960,194096,377,24/03/2018,09/11/2025,14.54 MB,14893,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,JavaScript,https://github.com/trekhleb/javascript-algorithms
-3,javascript,147805,26800,147805,181,01/11/2012,06/11/2025,3.64 MB,3724,JavaScript Style Guide,JavaScript,https://github.com/airbnb/javascript
-4,awesome-chatgpt-prompts,136538,18160,136538,289,05/12/2022,14/10/2025,1.66 MB,1700,This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.,JavaScript,https://github.com/f/awesome-chatgpt-prompts
-5,next.js,135673,29855,135673,3212,05/10/2016,16/11/2025,2.29 GB,2406257,The React Framework,JavaScript,https://github.com/vercel/next.js
-6,30-seconds-of-code,125778,12372,125778,2,29/11/2017,14/11/2025,725.22 MB,742630,Coding articles to level up your development skills,JavaScript,https://github.com/Chalarangelo/30-seconds-of-code
-7,open-webui,115324,16148,115324,321,06/10/2023,16/11/2025,287.34 MB,294234,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",JavaScript,https://github.com/open-webui/open-webui
-8,node,114312,33780,114312,2401,26/11/2014,16/11/2025,1.31 GB,1377311,Node.js JavaScript runtime ✨🐢🚀✨,JavaScript,https://github.com/nodejs/node
-9,three.js,109383,36072,109383,593,23/03/2010,16/11/2025,1.46 GB,1526552,JavaScript 3D Library.,JavaScript,https://github.com/mrdoob/three.js
-10,axios,108219,11408,108219,293,18/08/2014,14/11/2025,22.77 MB,23313,Promise based HTTP client for the browser and node.js,JavaScript,https://github.com/axios/axios
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,react,241129,50001,241129,1097,24/05/2013,05/12/2025,842.47 MB,The library for web and native user interfaces.,JavaScript,https://github.com/facebook/react,842.47 MB
+2,javascript-algorithms,194850,31048,194850,384,24/03/2018,23/11/2025,14.55 MB,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,JavaScript,https://github.com/trekhleb/javascript-algorithms,14.55 MB
+3,javascript,147965,26792,147965,181,01/11/2012,06/11/2025,3.64 MB,JavaScript Style Guide,JavaScript,https://github.com/airbnb/javascript,3.64 MB
+4,awesome-chatgpt-prompts,138475,18362,138475,291,05/12/2022,02/12/2025,1.67 MB,This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.,JavaScript,https://github.com/f/awesome-chatgpt-prompts,1.67 MB
+5,next.js,136099,29977,136099,3139,05/10/2016,05/12/2025,2.31 GB,The React Framework,JavaScript,https://github.com/vercel/next.js,2.31 GB
+6,30-seconds-of-code,125954,12383,125954,1,29/11/2017,02/12/2025,725.19 MB,Coding articles to level up your development skills,JavaScript,https://github.com/Chalarangelo/30-seconds-of-code,725.19 MB
+7,node,114583,33951,114583,2396,26/11/2014,04/12/2025,1.32 GB,Node.js JavaScript runtime ✨🐢🚀✨,JavaScript,https://github.com/nodejs/node,1.32 GB
+8,three.js,109682,36131,109682,605,23/03/2010,05/12/2025,1.48 GB,JavaScript 3D Library.,JavaScript,https://github.com/mrdoob/three.js,1.48 GB
+9,axios,108327,11455,108327,342,18/08/2014,05/12/2025,23.44 MB,Promise based HTTP client for the browser and node.js,JavaScript,https://github.com/axios/axios,23.44 MB
+10,create-react-app,103902,27181,103902,2356,17/07/2016,15/02/2025,24.60 MB,Set up a modern web app by running one command.,JavaScript,https://github.com/facebook/create-react-app,24.60 MB

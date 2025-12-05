@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,rust,107883,13989,107883,11742,16/06/2010,16/11/2025,788.63 MB,807554,Empowering everyone to build reliable and efficient software.,Rust,https://github.com/rust-lang/rust
-2,deno,105208,5783,105208,2518,15/05/2018,15/11/2025,180.49 MB,184822,A modern runtime for JavaScript and TypeScript.,Rust,https://github.com/denoland/deno
-3,rustdesk,102558,15063,102558,79,28/09/2020,15/11/2025,63.82 MB,65354,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,https://github.com/rustdesk/rustdesk
-4,tauri,98905,3172,98905,1240,13/07/2019,15/11/2025,97.78 MB,100125,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",Rust,https://github.com/tauri-apps/tauri
-5,union,74478,3833,74478,210,16/05/2023,14/11/2025,466.51 MB,477702,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",Rust,https://github.com/unionlabs/union
-6,uv,72884,2230,72884,2401,02/10/2023,15/11/2025,118.89 MB,121741,"An extremely fast Python package and project manager, written in Rust.",Rust,https://github.com/astral-sh/uv
-7,zed,69816,5967,69816,3237,20/02/2021,16/11/2025,302.46 MB,309721,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,https://github.com/zed-industries/zed
-8,sway,62103,5430,62103,905,19/01/2021,14/11/2025,104.99 MB,107507,🌴 Empowering everyone to build reliable and efficient smart contracts.,Rust,https://github.com/FuelLabs/sway
-9,alacritty,61059,3230,61059,336,18/02/2016,12/11/2025,13.79 MB,14120,"A cross-platform, OpenGL terminal emulator.",Rust,https://github.com/alacritty/alacritty
-10,rustlings,60643,10979,60643,76,15/09/2015,25/09/2025,4.15 MB,4250,:crab: Small exercises to get you used to reading and writing Rust code!,Rust,https://github.com/rust-lang/rustlings
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,rust,108271,14079,108271,11791,16/06/2010,05/12/2025,785.21 MB,Empowering everyone to build reliable and efficient software.,Rust,https://github.com/rust-lang/rust,785.21 MB
+2,deno,105420,5813,105420,2516,15/05/2018,05/12/2025,181.83 MB,A modern runtime for JavaScript and TypeScript.,Rust,https://github.com/denoland/deno,181.83 MB
+3,rustdesk,103507,15274,103507,88,28/09/2020,05/12/2025,63.50 MB,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,https://github.com/rustdesk/rustdesk,63.50 MB
+4,tauri,99624,3211,99624,1266,13/07/2019,05/12/2025,97.92 MB,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",Rust,https://github.com/tauri-apps/tauri,97.92 MB
+5,union,74453,3832,74453,184,16/05/2023,05/12/2025,466.76 MB,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",Rust,https://github.com/unionlabs/union,466.76 MB
+6,uv,74277,2297,74277,2429,02/10/2023,05/12/2025,120.77 MB,"An extremely fast Python package and project manager, written in Rust.",Rust,https://github.com/astral-sh/uv,120.77 MB
+7,zed,70895,6164,70895,3262,20/02/2021,05/12/2025,327.53 MB,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,https://github.com/zed-industries/zed,327.53 MB
+8,sway,62068,5434,62068,903,19/01/2021,05/12/2025,108.03 MB,🌴 Empowering everyone to build reliable and efficient smart contracts.,Rust,https://github.com/FuelLabs/sway,108.03 MB
+9,alacritty,61301,3240,61301,330,18/02/2016,24/11/2025,13.77 MB,"A cross-platform, OpenGL terminal emulator.",Rust,https://github.com/alacritty/alacritty,13.77 MB
+10,rustlings,60866,11011,60866,73,15/09/2015,20/11/2025,4.12 MB,:crab: Small exercises to get you used to reading and writing Rust code!,Rust,https://github.com/rust-lang/rustlings,4.12 MB

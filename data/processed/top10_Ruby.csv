@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,rails,57874,22039,57874,1350,11/04/2008,16/11/2025,265.51 MB,271883,Ruby on Rails,Ruby,https://github.com/rails/rails
-2,maybe,53378,4589,53378,0,01/01/2024,24/07/2025,6.73 MB,6891,The personal finance app for everyone,Ruby,https://github.com/maybe-finance/maybe
-3,jekyll,51087,10239,51087,234,20/10/2008,07/11/2025,68.27 MB,69907,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,Ruby,https://github.com/jekyll/jekyll
-4,mastodon,49243,7354,49243,4294,22/02/2016,16/11/2025,322.24 MB,329977,"Your self-hosted, globally interconnected microblogging community",Ruby,https://github.com/mastodon/mastodon
-5,huginn,48014,4170,48014,693,10/03/2013,15/11/2025,8.57 MB,8776,Create agents that monitor and act on your behalf.  Your agents are standing by!,Ruby,https://github.com/huginn/huginn
-6,discourse,45575,8715,45575,122,12/01/2013,15/11/2025,770.28 MB,788767,"A platform for community discussion. Free, open, simple.",Ruby,https://github.com/discourse/discourse
-7,brew,45467,10680,45467,26,06/03/2016,16/11/2025,103.27 MB,105752,🍺 The missing package manager for macOS (or Linux),Ruby,https://github.com/Homebrew/brew
-8,fastlane,40670,5957,40670,949,02/12/2014,14/11/2025,80.10 MB,82019,🚀 The easiest way to automate building and releasing your iOS and Android apps,Ruby,https://github.com/fastlane/fastlane
-9,devdocs,37864,2518,37864,230,24/10/2013,09/11/2025,31.66 MB,32422,API Documentation Browser,Ruby,https://github.com/freeCodeCamp/devdocs
-10,metasploit-framework,36892,14617,36892,490,30/08/2011,14/11/2025,1.14 GB,1192206,Metasploit Framework,Ruby,https://github.com/rapid7/metasploit-framework
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,rails,57940,22055,57940,1392,11/04/2008,05/12/2025,268.28 MB,Ruby on Rails,Ruby,https://github.com/rails/rails,268.28 MB
+2,maybe,53838,4706,53838,0,01/01/2024,24/07/2025,6.73 MB,The personal finance app for everyone,Ruby,https://github.com/maybe-finance/maybe,6.73 MB
+3,jekyll,51182,10255,51182,236,20/10/2008,07/11/2025,68.27 MB,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,Ruby,https://github.com/jekyll/jekyll,68.27 MB
+4,mastodon,49330,7366,49330,4313,22/02/2016,05/12/2025,326.61 MB,"Your self-hosted, globally interconnected microblogging community",Ruby,https://github.com/mastodon/mastodon,326.61 MB
+5,huginn,48257,4211,48257,694,10/03/2013,03/12/2025,8.58 MB,Create agents that monitor and act on your behalf.  Your agents are standing by!,Ruby,https://github.com/huginn/huginn,8.58 MB
+6,discourse,45715,8736,45715,117,12/01/2013,05/12/2025,778.95 MB,"A platform for community discussion. Free, open, simple.",Ruby,https://github.com/discourse/discourse,778.95 MB
+7,brew,45691,10736,45691,20,06/03/2016,04/12/2025,103.96 MB,🍺 The missing package manager for macOS (or Linux),Ruby,https://github.com/Homebrew/brew,103.96 MB
+8,fastlane,40723,5957,40723,917,02/12/2014,04/12/2025,79.99 MB,🚀 The easiest way to automate building and releasing your iOS and Android apps,Ruby,https://github.com/fastlane/fastlane,79.99 MB
+9,devdocs,37996,2530,37996,232,24/10/2013,30/11/2025,31.67 MB,API Documentation Browser,Ruby,https://github.com/freeCodeCamp/devdocs,31.67 MB
+10,metasploit-framework,37010,14645,37010,491,30/08/2011,04/12/2025,1.14 GB,Metasploit Framework,Ruby,https://github.com/rapid7/metasploit-framework,1.14 GB

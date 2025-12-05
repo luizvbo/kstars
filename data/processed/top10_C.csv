@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,linux,207187,58397,207187,3,04/09/2011,15/11/2025,5.45 GB,5713862,Linux kernel source tree,C,https://github.com/torvalds/linux
-2,scrcpy,131130,12274,131130,2618,21/11/2017,11/11/2025,7.51 MB,7690,Display and control your Android device,C,https://github.com/Genymobile/scrcpy
-3,netdata,76718,6225,76718,239,17/06/2013,15/11/2025,238.34 MB,244063,"The fastest path to AI-powered full stack observability, even for lean teams.",C,https://github.com/netdata/netdata
-4,Ventoy,72401,4564,72401,1026,10/03/2020,18/08/2025,213.13 MB,218248,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy
-5,redis,71716,24321,71716,2712,21/03/2009,14/11/2025,200.15 MB,204958,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis
-6,obs-studio,68079,8797,68079,1036,01/10/2013,12/11/2025,76.78 MB,78623,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio
-7,git,57378,26988,57378,282,23/07/2008,15/11/2025,283.94 MB,290759,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git
-8,FFmpeg,54811,13212,54811,3,14/04/2011,15/11/2025,447.54 MB,458283,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg
-9,curl,39894,6948,39894,41,18/03/2010,16/11/2025,116.60 MB,119395,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",C,https://github.com/curl/curl
-10,wrk,39779,3025,39779,202,20/03/2012,30/12/2023,37.83 MB,38743,Modern HTTP benchmarking tool,C,https://github.com/wg/wrk
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,linux,209429,58560,209429,3,04/09/2011,05/12/2025,5.48 GB,Linux kernel source tree,C,https://github.com/torvalds/linux,5.48 GB
+2,scrcpy,132031,12334,132031,2633,21/11/2017,28/11/2025,7.54 MB,Display and control your Android device,C,https://github.com/Genymobile/scrcpy,7.54 MB
+3,netdata,76914,6251,76914,244,17/06/2013,05/12/2025,239.84 MB,"The fastest path to AI-powered full stack observability, even for lean teams.",C,https://github.com/netdata/netdata,239.84 MB
+4,Ventoy,72762,4568,72762,1035,10/03/2020,18/08/2025,213.13 MB,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy,213.13 MB
+5,redis,72006,24369,72006,2738,21/03/2009,04/12/2025,200.98 MB,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis,200.98 MB
+6,obs-studio,68493,8854,68493,1043,01/10/2013,04/12/2025,76.89 MB,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio,76.89 MB
+7,git,57860,27119,57860,291,23/07/2008,05/12/2025,285.73 MB,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git,285.73 MB
+8,FFmpeg,55301,13248,55301,3,14/04/2011,05/12/2025,450.89 MB,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg,450.89 MB
+9,curl,40066,6976,40066,27,18/03/2010,05/12/2025,119.81 MB,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",C,https://github.com/curl/curl,119.81 MB
+10,tmux,39957,2325,39957,28,03/06/2015,05/12/2025,18.03 MB,tmux source code,C,https://github.com/tmux/tmux,18.03 MB

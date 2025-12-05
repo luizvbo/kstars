@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,winutil,42784,2278,42784,279,28/04/2022,15/11/2025,7.46 MB,7635,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil
-2,Win11Debloat,33076,1294,33076,36,27/10/2020,14/11/2025,513.00 KB,513,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat
-3,cmder,26645,2079,26645,59,09/07/2013,14/11/2025,3.29 MB,3371,Lovely console emulator package for Windows,PowerShell,https://github.com/cmderdev/cmder
-4,Scoop,23165,1488,23165,443,11/05/2013,15/11/2025,13.80 MB,14129,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop
-5,core,21723,4940,21723,331,18/11/2014,14/11/2025,50.01 MB,51212,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core
-6,Windows10Debloater,18690,2074,18690,300,12/12/2017,10/03/2023,478.00 KB,478,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater
-7,SpotX,18676,965,18676,3,11/08/2021,13/11/2025,24.58 MB,25173,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX
-8,tiny11builder,16464,1275,16464,79,24/02/2023,12/09/2025,233.00 KB,233,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder
-9,PowerSploit,12699,4713,12699,104,26/05/2012,17/08/2020,10.47 MB,10719,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit
-10,Office-Tool,12217,985,12217,1,06/11/2018,14/11/2025,40.41 MB,41380,Office Tool Plus localization projects.,PowerShell,https://github.com/YerongAI/Office-Tool
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,winutil,43532,2313,43532,282,28/04/2022,02/12/2025,7.50 MB,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,https://github.com/ChrisTitusTech/winutil,7.50 MB
+2,Win11Debloat,34518,1347,34518,37,27/10/2020,04/12/2025,447.00 KB,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,https://github.com/Raphire/Win11Debloat,447.00 KB
+3,cmder,26677,2084,26677,61,09/07/2013,28/11/2025,3.31 MB,Lovely console emulator package for Windows,PowerShell,https://github.com/cmderdev/cmder,3.31 MB
+4,Scoop,23249,1485,23249,446,11/05/2013,26/11/2025,13.88 MB,A command-line installer for Windows.,PowerShell,https://github.com/ScoopInstaller/Scoop,13.88 MB
+5,core,21786,4949,21786,330,18/11/2014,04/12/2025,51.01 MB,".NET news, announcements, release notes, and more!",PowerShell,https://github.com/dotnet/core,51.01 MB
+6,SpotX,18877,972,18877,3,11/08/2021,04/12/2025,24.60 MB,SpotX patcher used for patching the desktop version of Spotify,PowerShell,https://github.com/SpotX-Official/SpotX,24.60 MB
+7,Windows10Debloater,18706,2077,18706,300,12/12/2017,10/03/2023,478.00 KB,Script to remove Windows 10 bloatware.,PowerShell,https://github.com/Sycnex/Windows10Debloater,478.00 KB
+8,tiny11builder,16803,1304,16803,94,24/02/2023,12/09/2025,233.00 KB,Scripts to build a trimmed-down Windows 11 image.,PowerShell,https://github.com/ntdevlabs/tiny11builder,233.00 KB
+9,PowerSploit,12731,4717,12731,104,26/05/2012,17/08/2020,10.47 MB,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,https://github.com/PowerShellMafia/PowerSploit,10.47 MB
+10,Office-Tool,12317,992,12317,0,06/11/2018,02/12/2025,40.26 MB,Office Tool Plus localization projects.,PowerShell,https://github.com/YerongAI/Office-Tool,40.26 MB
