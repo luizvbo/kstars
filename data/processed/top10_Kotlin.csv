@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,Magisk,55572,14989,55572,47,08/09/2016,29/08/2025,60.03 MB,61472,The Magic Mask for Android,Kotlin,https://github.com/topjohnwu/Magisk
-2,kotlin,51175,5998,51175,192,13/02/2012,29/08/2025,4.18 GB,4379117,The Kotlin Programming Language. ,Kotlin,https://github.com/JetBrains/kotlin
-3,okhttp,46621,9239,46621,74,23/07/2012,25/08/2025,58.43 MB,59828,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",Kotlin,https://github.com/square/okhttp
-4,architecture-samples,45260,11797,45260,211,05/02/2016,27/08/2025,13.05 MB,13366,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,Kotlin,https://github.com/android/architecture-samples
-5,v2rayNG,44360,6361,44360,9,15/05/2019,25/08/2025,259.58 MB,265808,"A V2Ray client for Android, support Xray core and v2fly core",Kotlin,https://github.com/2dust/v2rayNG
-6,fanqiang,40346,7383,40346,330,14/01/2015,19/08/2025,734.29 MB,751914,翻墙-科学上网,Kotlin,https://github.com/bannedbook/fanqiang
-7,legado,39572,4565,39572,74,22/05/2019,27/08/2025,75.12 MB,76922,"Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",Kotlin,https://github.com/gedoor/legado
-8,shadowsocks-android,36057,11550,36057,54,16/12/2012,12/07/2025,52.50 MB,53764,A shadowsocks client for Android,Kotlin,https://github.com/shadowsocks/shadowsocks-android
-9,p3c,30731,8069,30731,186,23/06/2017,06/08/2024,26.46 MB,27099,Alibaba Java Coding Guidelines pmd implements and IDE plugin,Kotlin,https://github.com/alibaba/p3c
-10,gkd,30540,1497,30540,13,04/07/2023,23/08/2025,3.75 MB,3840,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",Kotlin,https://github.com/gkd-kit/gkd
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,kotlin,51939,6141,51939,199,13/02/2012,05/12/2025,4.51 GB,The Kotlin Programming Language. ,Kotlin,https://github.com/JetBrains/kotlin,4.51 GB
+2,v2rayNG,47849,6667,47849,11,15/05/2019,03/12/2025,259.71 MB,"A V2Ray client for Android, support Xray core and v2fly core",Kotlin,https://github.com/2dust/v2rayNG,259.71 MB
+3,okhttp,46783,9258,46783,77,23/07/2012,04/12/2025,61.55 MB,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",Kotlin,https://github.com/square/okhttp,61.55 MB
+4,architecture-samples,45460,11831,45460,216,05/02/2016,03/12/2025,13.05 MB,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,Kotlin,https://github.com/android/architecture-samples,13.05 MB
+5,legado,42128,4747,42128,76,22/05/2019,04/12/2025,60.40 MB,"Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",Kotlin,https://github.com/gedoor/legado,60.40 MB
+6,fanqiang,41027,7419,41027,334,14/01/2015,08/11/2025,734.33 MB,翻墙-科学上网,Kotlin,https://github.com/bannedbook/fanqiang,734.33 MB
+7,shadowsocks-android,36464,11557,36464,58,16/12/2012,12/07/2025,52.50 MB,A shadowsocks client for Android,Kotlin,https://github.com/shadowsocks/shadowsocks-android,52.50 MB
+8,gkd,33999,1646,33999,9,04/07/2023,04/12/2025,4.22 MB,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",Kotlin,https://github.com/gkd-kit/gkd,4.22 MB
+9,p3c,30783,8064,30783,186,23/06/2017,06/08/2024,26.46 MB,Alibaba Java Coding Guidelines pmd implements and IDE plugin,Kotlin,https://github.com/alibaba/p3c,26.46 MB
+10,leakcanary,29844,3978,29844,145,29/04/2015,05/08/2025,143.99 MB,A memory leak detection library for Android.,Kotlin,https://github.com/square/leakcanary,143.99 MB

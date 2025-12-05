@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,FriendsDontLetFriends,6825,274,6825,11,24/05/2022,31/07/2025,10.20 MB,10442,Friends don't let friends make certain types of data visualization - What are they and why are they bad. ,R,https://github.com/cxli233/FriendsDontLetFriends
-2,ggplot2,6763,2091,6763,109,25/05/2008,19/08/2025,1.20 GB,1257988,An implementation of the Grammar of Graphics in R,R,https://github.com/tidyverse/ggplot2
-3,awesome-R,6279,1505,6279,19,19/07/2014,08/08/2025,1.20 MB,1230,"A curated list of awesome R packages, frameworks and software.",R,https://github.com/qinwf/awesome-R
-4,shiny,5524,1878,5524,868,20/06/2012,28/08/2025,63.61 MB,65133,Easy interactive web applications with R,R,https://github.com/rstudio/shiny
-5,dplyr,4925,2129,4925,128,28/10/2012,19/08/2025,70.65 MB,72341,dplyr: A grammar of data manipulation,R,https://github.com/tidyverse/dplyr
-6,r4ds,4861,4333,4861,32,27/07/2015,15/08/2025,76.28 MB,78109,R for data science: a book,R,https://github.com/hadley/r4ds
-7,swirl_courses,4464,7243,4464,205,23/02/2014,10/01/2024,47.26 MB,48394,:mortar_board: A collection of interactive courses for the swirl R package.,R,https://github.com/swirldev/swirl_courses
-8,stat_rethinking_2022,4105,438,4105,12,08/10/2021,15/03/2022,15.43 MB,15803,Statistical Rethinking course winter 2022,R,https://github.com/rmcelreath/stat_rethinking_2022
-9,awesome-network-analysis,3817,618,3817,11,10/04/2016,24/07/2025,1.43 MB,1465,A curated list of awesome network analysis resources.,R,https://github.com/briatte/awesome-network-analysis
-10,data.table,3770,1014,3770,970,07/06/2014,29/08/2025,60.55 MB,62004,R's data.table package extends data.frame:,R,https://github.com/Rdatatable/data.table
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,FriendsDontLetFriends,6931,283,6931,11,24/05/2022,03/09/2025,10.21 MB,Friends don't let friends make certain types of data visualization - What are they and why are they bad. ,R,https://github.com/cxli233/FriendsDontLetFriends,10.21 MB
+2,ggplot2,6835,2111,6835,84,25/05/2008,04/12/2025,1.24 GB,An implementation of the Grammar of Graphics in R,R,https://github.com/tidyverse/ggplot2,1.24 GB
+3,awesome-R,6363,1515,6363,21,19/07/2014,18/09/2025,1.22 MB,"A curated list of awesome R packages, frameworks and software.",R,https://github.com/qinwf/awesome-R,1.22 MB
+4,shiny,5574,1876,5574,872,20/06/2012,03/12/2025,62.57 MB,Easy interactive web applications with R,R,https://github.com/rstudio/shiny,62.57 MB
+5,dplyr,4973,2130,4973,80,28/10/2012,03/12/2025,72.72 MB,dplyr: A grammar of data manipulation,R,https://github.com/tidyverse/dplyr,72.72 MB
+6,r4ds,4939,4384,4939,18,27/07/2015,14/11/2025,76.18 MB,R for data science: a book,R,https://github.com/hadley/r4ds,76.18 MB
+7,swirl_courses,4505,7239,4505,206,23/02/2014,10/01/2024,47.26 MB,:mortar_board: A collection of interactive courses for the swirl R package.,R,https://github.com/swirldev/swirl_courses,47.26 MB
+8,stat_rethinking_2022,4101,438,4101,12,08/10/2021,15/03/2022,15.43 MB,Statistical Rethinking course winter 2022,R,https://github.com/rmcelreath/stat_rethinking_2022,15.43 MB
+9,awesome-network-analysis,3906,628,3906,14,10/04/2016,24/07/2025,1.43 MB,A curated list of awesome network analysis resources.,R,https://github.com/briatte/awesome-network-analysis,1.43 MB
+10,data.table,3809,1018,3809,981,07/06/2014,05/12/2025,61.97 MB,R's data.table package extends data.frame:,R,https://github.com/Rdatatable/data.table,61.97 MB

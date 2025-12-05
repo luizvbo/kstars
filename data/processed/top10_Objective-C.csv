@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,AFNetworking,33543,10493,33543,102,31/05/2011,17/01/2023,5.99 MB,6129,"A delightful networking framework for iOS, macOS, watchOS, and tvOS.",Objective-C,https://github.com/AFNetworking/AFNetworking
-2,SDWebImage,25440,5991,25440,107,21/09/2009,29/08/2025,24.97 MB,25566,Asynchronous image downloader with cache support as a UIImageView category,Objective-C,https://github.com/SDWebImage/SDWebImage
-3,WeChatExtension-ForMac,22632,3602,22632,903,25/04/2019,13/02/2025,203.75 MB,208645,A plugin for Mac WeChat,Objective-C,https://github.com/MustangYM/WeChatExtension-ForMac
-4,GPUImage,20327,4600,20327,1003,13/02/2012,16/02/2024,43.81 MB,44862,An open source iOS framework for GPU-based image and video processing,Objective-C,https://github.com/BradLarson/GPUImage
-5,TrollStore,20065,1321,20065,46,02/09/2022,02/09/2024,10.43 MB,10684,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,Objective-C,https://github.com/opa334/TrollStore
-6,Masonry,18203,3162,18203,151,22/07/2013,13/04/2023,767.00 KB,767,"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",Objective-C,https://github.com/SnapKit/Masonry
-7,realm-swift,16541,2201,16541,479,16/04/2012,27/06/2025,65.14 MB,66700,Realm is a mobile database: a replacement for Core Data & SQLite,Objective-C,https://github.com/realm/realm-swift
-8,iTerm2,16264,1230,16264,36,07/04/2011,29/08/2025,435.57 MB,446023,iTerm2 is a terminal emulator for Mac OS X that does amazing things.,Objective-C,https://github.com/gnachman/iTerm2
-9,MBProgressHUD,16012,3582,16012,94,31/05/2009,14/08/2024,1.22 MB,1254,MBProgressHUD + Customizations,Objective-C,https://github.com/jdg/MBProgressHUD
-10,FLEX,14417,1755,14417,47,29/05/2014,06/06/2025,30.62 MB,31355,An in-app debugging and exploration tool for iOS,Objective-C,https://github.com/FLEXTool/FLEX
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,AFNetworking,33703,10502,33703,102,31/05/2011,17/01/2023,5.99 MB,"A delightful networking framework for iOS, macOS, watchOS, and tvOS.",Objective-C,https://github.com/AFNetworking/AFNetworking,5.99 MB
+2,SDWebImage,25851,6000,25851,119,21/09/2009,03/12/2025,24.99 MB,Asynchronous image downloader with cache support as a UIImageView category,Objective-C,https://github.com/SDWebImage/SDWebImage,24.99 MB
+3,WeChatExtension-ForMac,22679,3600,22679,906,25/04/2019,13/02/2025,203.75 MB,A plugin for Mac WeChat,Objective-C,https://github.com/MustangYM/WeChatExtension-ForMac,203.75 MB
+4,TrollStore,20506,1389,20506,47,02/09/2022,02/09/2024,10.43 MB,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,Objective-C,https://github.com/opa334/TrollStore,10.43 MB
+5,GPUImage,20336,4596,20336,1001,13/02/2012,16/02/2024,43.81 MB,An open source iOS framework for GPU-based image and video processing,Objective-C,https://github.com/BradLarson/GPUImage,43.81 MB
+6,Masonry,18379,3155,18379,151,22/07/2013,13/04/2023,767.00 KB,"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",Objective-C,https://github.com/SnapKit/Masonry,767.00 KB
+7,iTerm2,16604,1262,16604,43,07/04/2011,03/12/2025,439.53 MB,iTerm2 is a terminal emulator for Mac OS X that does amazing things.,Objective-C,https://github.com/gnachman/iTerm2,439.53 MB
+8,realm-swift,16567,2207,16567,491,16/04/2012,12/11/2025,66.54 MB,Realm is a mobile database: a replacement for Core Data & SQLite,Objective-C,https://github.com/realm/realm-swift,66.54 MB
+9,MBProgressHUD,16002,3577,16002,94,31/05/2009,14/08/2024,1.22 MB,MBProgressHUD + Customizations,Objective-C,https://github.com/jdg/MBProgressHUD,1.22 MB
+10,FLEX,14505,1774,14505,47,29/05/2014,04/12/2025,30.43 MB,An in-app debugging and exploration tool for iOS,Objective-C,https://github.com/FLEXTool/FLEX,30.43 MB

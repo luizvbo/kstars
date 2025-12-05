@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,PowerToys,122712,7317,122712,7110,01/05/2019,29/08/2025,434.36 MB,444787,Windows system utilities to maximize productivity,C#,https://github.com/microsoft/PowerToys
-2,v2rayN,85765,13210,85765,5,30/07/2019,29/08/2025,42.33 MB,43345,"A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",C#,https://github.com/2dust/v2rayN
-3,shadowsocks-windows,59002,16352,59002,196,14/01/2013,01/01/2025,13.17 MB,13489,A C# port of shadowsocks,C#,https://github.com/shadowsocks/shadowsocks-windows
-4,PowerShell,48311,7818,48311,1277,13/01/2016,29/08/2025,97.13 MB,99463,PowerShell for every system!,C#,https://github.com/PowerShell/PowerShell
-5,jellyfin,42995,3842,42995,545,09/12/2018,27/08/2025,67.68 MB,69305,The Free Software Media System - Server Backend & API,C#,https://github.com/jellyfin/jellyfin
-6,Files,38336,2403,38336,525,04/01/2019,29/08/2025,256.33 MB,262484,A modern file manager that helps users organize their files and folders.,C#,https://github.com/files-community/Files
-7,aspnetcore,37015,10430,37015,3629,11/03/2014,29/08/2025,358.34 MB,366940,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",C#,https://github.com/dotnet/aspnetcore
-8,RevokeMsgPatcher,34403,3764,34403,45,21/07/2019,24/08/2025,3.65 MB,3739,:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）,C#,https://github.com/huiyadanli/RevokeMsgPatcher
-9,ShareX,33533,3450,33533,531,08/10/2013,26/08/2025,61.99 MB,63481,"ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",C#,https://github.com/ShareX/ShareX
-10,DevToys,29791,1616,29791,279,29/09/2021,29/08/2025,223.60 MB,228965,A Swiss Army knife for developers.,C#,https://github.com/DevToys-app/DevToys
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,PowerToys,126245,7518,126245,7727,01/05/2019,05/12/2025,450.15 MB,Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks,C#,https://github.com/microsoft/PowerToys,450.15 MB
+2,v2rayN,91559,13774,91559,10,30/07/2019,04/12/2025,44.04 MB,"A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",C#,https://github.com/2dust/v2rayN,44.04 MB
+3,shadowsocks-windows,59151,16352,59151,198,14/01/2013,01/01/2025,13.17 MB,A C# port of shadowsocks,C#,https://github.com/shadowsocks/shadowsocks-windows,13.17 MB
+4,PowerShell,50917,8114,50917,1367,13/01/2016,05/12/2025,99.31 MB,PowerShell for every system!,C#,https://github.com/PowerShell/PowerShell,99.31 MB
+5,jellyfin,46278,4187,46278,707,09/12/2018,04/12/2025,68.64 MB,The Free Software Media System - Server Backend & API,C#,https://github.com/jellyfin/jellyfin,68.64 MB
+6,Files,40600,2539,40600,492,04/01/2019,03/12/2025,258.52 MB,A modern file manager that helps users organize their files and folders.,C#,https://github.com/files-community/Files,258.52 MB
+7,aspnetcore,37463,10494,37463,3577,11/03/2014,05/12/2025,361.30 MB,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",C#,https://github.com/dotnet/aspnetcore,361.30 MB
+8,RevokeMsgPatcher,35808,3837,35808,64,21/07/2019,08/11/2025,3.67 MB,:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）,C#,https://github.com/huiyadanli/RevokeMsgPatcher,3.67 MB
+9,ShareX,34667,3529,34667,590,08/10/2013,28/11/2025,62.12 MB,"ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",C#,https://github.com/ShareX/ShareX,62.12 MB
+10,DevToys,30524,1687,30524,300,29/09/2021,26/10/2025,223.68 MB,A Swiss Army knife for developers.,C#,https://github.com/DevToys-app/DevToys,223.68 MB

@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Size (KB),Description,Language,Repo URL
-1,freeCodeCamp,426788,41355,426788,303,24/12/2014,29/08/2025,500.40 MB,512405,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",TypeScript,https://github.com/freeCodeCamp/freeCodeCamp
-2,developer-roadmap,334916,42657,334916,283,15/03/2017,29/08/2025,302.63 MB,309890,"Interactive roadmaps, guides and other educational content to help developers grow in their careers.",TypeScript,https://github.com/kamranahmedse/developer-roadmap
-3,vue,209310,33749,209310,605,29/07/2013,10/10/2024,31.40 MB,32152,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",TypeScript,https://github.com/vuejs/vue
-4,vscode,176196,34653,176196,12988,03/09/2015,29/08/2025,1.01 GB,1061657,Visual Studio Code,TypeScript,https://github.com/microsoft/vscode
-5,n8n,133636,41699,133636,1120,22/06/2019,29/08/2025,241.98 MB,247789,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",TypeScript,https://github.com/n8n-io/n8n
-6,tech-interview-handbook,129293,15725,129293,54,05/07/2016,27/08/2025,32.05 MB,32822,💯 Curated coding interview preparation materials for busy software engineers,TypeScript,https://github.com/yangshun/tech-interview-handbook
-7,dify,112507,17186,112507,717,12/04/2023,29/08/2025,111.84 MB,114522,Production-ready platform for agentic workflow development.,TypeScript,https://github.com/langgenius/dify
-8,excalidraw,106168,10691,106168,2326,02/01/2020,29/08/2025,92.14 MB,94348,Virtual whiteboard for sketching hand-drawn like diagrams,TypeScript,https://github.com/excalidraw/excalidraw
-9,TypeScript,105755,12977,105755,6067,17/06/2014,27/08/2025,2.70 GB,2833410,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,TypeScript,https://github.com/microsoft/TypeScript
-10,angular,98574,26547,98574,1345,18/09/2014,29/08/2025,551.12 MB,564351,Deliver web apps with confidence 🚀,TypeScript,https://github.com/angular/angular
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,freeCodeCamp,434152,42687,434152,294,24/12/2014,05/12/2025,520.37 MB,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",TypeScript,https://github.com/freeCodeCamp/freeCodeCamp,520.37 MB
+2,developer-roadmap,344893,43474,344893,49,15/03/2017,05/12/2025,349.92 MB,"Interactive roadmaps, guides and other educational content to help developers grow in their careers.",TypeScript,https://github.com/kamranahmedse/developer-roadmap,349.92 MB
+3,vue,209744,33804,209744,616,29/07/2013,10/10/2024,31.40 MB,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",TypeScript,https://github.com/vuejs/vue,31.40 MB
+4,vscode,179314,36651,179314,14909,03/09/2015,05/12/2025,1.05 GB,Visual Studio Code,TypeScript,https://github.com/microsoft/vscode,1.05 GB
+5,n8n,160763,51442,160763,1322,22/06/2019,05/12/2025,296.27 MB,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",TypeScript,https://github.com/n8n-io/n8n,296.27 MB
+6,tech-interview-handbook,135936,16298,135936,53,05/07/2016,18/11/2025,32.08 MB,Curated coding interview preparation materials for busy software engineers,TypeScript,https://github.com/yangshun/tech-interview-handbook,32.08 MB
+7,dify,120635,18747,120635,691,12/04/2023,05/12/2025,175.87 MB,Production-ready platform for agentic workflow development.,TypeScript,https://github.com/langgenius/dify,175.87 MB
+8,excalidraw,111881,11759,111881,2630,02/01/2020,05/12/2025,92.97 MB,Virtual whiteboard for sketching hand-drawn like diagrams,TypeScript,https://github.com/excalidraw/excalidraw,92.97 MB
+9,TypeScript,106978,13148,106978,5469,17/06/2014,04/12/2025,2.75 GB,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,TypeScript,https://github.com/microsoft/TypeScript,2.75 GB
+10,iptv,104582,4680,104582,311,14/11/2018,05/12/2025,1.05 GB,Collection of publicly available IPTV channels from all over the world,TypeScript,https://github.com/iptv-org/iptv,1.05 GB
