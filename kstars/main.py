@@ -171,7 +171,7 @@ def run_kstars_task(
     
     # Construct command
     # Note: Assuming .access_token.txt is in the same dir as the script
-    token_path = BASE_DIR / ".access_token.txt"
+    token_path = BASE_DIR / "access_token.txt"
     
     if not token_path.exists():
         logger.error(f"Access token not found at {token_path}")
