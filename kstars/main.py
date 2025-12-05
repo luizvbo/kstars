@@ -190,7 +190,10 @@ def run_kstars_task(
             )
             # Log stdout if needed, or just success
             if result.stdout:
-                logger.debug(result.stdout)
+                logger.info(result.stdout)
+
+            if result.stderr: # Also good to log any stderr on success, if present
+                logger.warning(f"kstars produced stderr (though successful): {result.stderr}")
             logger.info(f"Successfully loaded data for {language}")
             break  # Success, exit loop
 
