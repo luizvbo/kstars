@@ -4,10 +4,6 @@ from pathlib import Path
 from typing import TypeVar
 
 import pandas as pd
-from prefect import State, flow, serve, task
-from prefect.cache_policies import DEFAULT
-from prefect.concurrency.sync import rate_limit
-from prefect.logging import get_run_logger
 
 T = TypeVar("T")
 LANGUAGES = {
@@ -67,11 +63,6 @@ def human_readable_size(size_kb: int) -> str:
         return f"{size_tb:.2f} TB"
 
 
-@task(
-    tags=["kstars-generate-readme"],
-    retries=5,
-    retry_delay_seconds=10,
-)
 def generate_readme(
     languages: dict[str, str], lang_folder: str | Path, readme_path: Path | str
 ):
@@ -116,11 +107,6 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 
 
 
-@task(
-    tags=["kstars-data-processing"],
-    retries=5,
-    retry_delay_seconds=10,
-)
 def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
     logger = get_run_logger()
     fname = f"{lang_name}.csv"
@@ -160,13 +146,6 @@ def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
         raise e
 
 
-@task(
-    tags=["kstars-api"],
-    retries=10,
-    retry_delay_seconds=30,
-    cache_policy=CACHE_POLICY,
-    cache_expiration=timedelta(days=1),
-)
 def run_kstars_task(
     language: str, lang_name: str, output_folder: str | Path
 ) -> None | State:
@@ -191,7 +170,6 @@ def run_kstars_task(
         raise e
 
 
-@flow(log_prints=True)
 def run_load_api(languages: dict[str, str], output_folder: str):
     path_data_original = Path(output_folder) / "original"
     path_data_original.mkdir(parents=True, exist_ok=True)
@@ -201,7 +179,6 @@ def run_load_api(languages: dict[str, str], output_folder: str):
         _ = run_kstars_task(lang, lang, path_data_original)
 
 
-@flow(log_prints=True)
 def run_post_processing(languages: dict[str, str], output_folder: str):
     path_data_original = Path(output_folder) / "original"
     path_data_processed = Path(output_folder) / "processed"
