@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,cloc,22125,1089,22125,25,07/09/2015,23/11/2025,6.35 MB,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",Perl,https://github.com/AlDanial/cloc,6.35 MB
-2,FlameGraph,19027,2066,19027,171,16/12/2011,20/10/2024,1.87 MB,Stack trace visualizer,Perl,https://github.com/brendangregg/FlameGraph,1.87 MB
-3,diff-so-fancy,17871,340,17871,33,04/02/2016,15/07/2025,666.00 KB,Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:,Perl,https://github.com/so-fancy/diff-so-fancy,666.00 KB
-4,nikto,9871,1385,9871,1,24/11/2012,26/11/2025,5.27 MB,Nikto web server scanner,Perl,https://github.com/sullo/nikto,5.27 MB
-5,MySQLTuner-perl,9402,1295,9402,31,29/05/2009,02/12/2025,33.76 MB,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,Perl,https://github.com/major/MySQLTuner-perl,33.76 MB
-6,gitolite,8547,1014,8547,6,24/08/2009,06/10/2025,3.11 MB,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",Perl,https://github.com/sitaramc/gitolite,3.11 MB
-7,git-it-electron,4844,1205,4844,137,08/05/2015,10/04/2024,78.53 MB,":computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",Perl,https://github.com/jlord/git-it-electron,78.53 MB
-8,Expose,4429,258,4429,24,28/08/2015,16/03/2022,409.00 KB,A simple static site generator for photoessays,Perl,https://github.com/Jack000/Expose,409.00 KB
-9,sicp-pdf,4361,550,4361,20,21/06/2011,27/06/2024,36.21 MB,SICP PDF with Texinfo and LaTeX source,Perl,https://github.com/sarabander/sicp-pdf,36.21 MB
-10,exiftool,4203,393,4203,8,09/05/2018,04/12/2025,51.46 MB,ExifTool meta information reader/writer,Perl,https://github.com/exiftool/exiftool,51.46 MB
+1,cloc,22466,1092,22466,25,07/09/2015,26/01/2026,6.48 MB,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",Perl,https://github.com/AlDanial/cloc,6.48 MB
+2,FlameGraph,19206,2083,19206,173,16/12/2011,20/10/2024,1.87 MB,Stack trace visualizer,Perl,https://github.com/brendangregg/FlameGraph,1.87 MB
+3,diff-so-fancy,17919,339,17919,33,04/02/2016,15/07/2025,666.00 KB,Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:,Perl,https://github.com/so-fancy/diff-so-fancy,666.00 KB
+4,nikto,10019,1402,10019,1,24/11/2012,25/12/2025,5.28 MB,Nikto web server scanner,Perl,https://github.com/sullo/nikto,5.28 MB
+5,MySQLTuner-perl,9427,1291,9427,35,29/05/2009,18/01/2026,33.77 MB,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,Perl,https://github.com/major/MySQLTuner-perl,33.77 MB
+6,gitolite,8571,1012,8571,6,24/08/2009,23/01/2026,3.11 MB,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",Perl,https://github.com/sitaramc/gitolite,3.11 MB
+7,git-it-electron,4855,1212,4855,137,08/05/2015,10/04/2024,78.53 MB,":computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",Perl,https://github.com/jlord/git-it-electron,78.53 MB
+8,Expose,4433,258,4433,24,28/08/2015,16/03/2022,409.00 KB,A simple static site generator for photoessays,Perl,https://github.com/Jack000/Expose,409.00 KB
+9,exiftool,4384,411,4384,13,09/05/2018,27/01/2026,57.30 MB,ExifTool meta information reader/writer,Perl,https://github.com/exiftool/exiftool,57.30 MB
+10,sicp-pdf,4381,548,4381,20,21/06/2011,27/06/2024,36.21 MB,SICP PDF with Texinfo and LaTeX source,Perl,https://github.com/sarabander/sicp-pdf,36.21 MB
