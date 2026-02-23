@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,julia,48296,5723,48296,4952,21/04/2011,30/01/2026,347.53 MB,The Julia Programming Language,Julia,https://github.com/JuliaLang/julia,347.53 MB
-2,Pluto.jl,5292,325,5292,365,23/02/2020,23/01/2026,65.43 MB,🎈 Simple reactive notebooks for Julia,Julia,https://github.com/JuliaPluto/Pluto.jl,65.43 MB
-3,Flux.jl,4697,616,4697,191,01/04/2016,27/01/2026,13.16 MB,Relax! Flux is the ML library that doesn't make you tensor,Julia,https://github.com/FluxML/Flux.jl,13.16 MB
-4,DifferentialEquations.jl,3055,244,3055,167,11/05/2016,05/01/2026,173.36 MB,"Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",Julia,https://github.com/SciML/DifferentialEquations.jl,173.36 MB
-5,IJulia.jl,2886,425,2886,40,05/03/2013,29/01/2026,8.43 MB,Julia kernel for Jupyter,Julia,https://github.com/JuliaLang/IJulia.jl,8.43 MB
-6,computational-thinking,2781,495,2781,8,25/08/2020,19/12/2025,910.95 MB,"Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia",Julia,https://github.com/mitmath/computational-thinking,910.95 MB
-7,Makie.jl,2707,370,2707,974,25/09/2017,30/01/2026,652.52 MB,Interactive data visualizations and plotting in Julia,Julia,https://github.com/MakieOrg/Makie.jl,652.52 MB
-8,JuMP.jl,2397,413,2397,15,10/10/2012,29/01/2026,376.98 MB,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",Julia,https://github.com/jump-dev/JuMP.jl,376.98 MB
-9,Genie.jl,2386,188,2386,119,19/02/2016,22/01/2026,53.82 MB,🧞The highly productive Julia web framework,Julia,https://github.com/GenieFramework/Genie.jl,53.82 MB
-10,Turing.jl,2199,232,2199,71,29/04/2016,29/01/2026,43.10 MB,Bayesian inference with probabilistic programming.,Julia,https://github.com/TuringLang/Turing.jl,43.10 MB
+1,julia,48471,5743,48471,4804,21/04/2011,19/02/2026,347.91 MB,The Julia Programming Language,Julia,https://github.com/JuliaLang/julia,347.91 MB
+2,Pluto.jl,5295,329,5295,356,23/02/2020,17/02/2026,65.24 MB,🎈 Simple reactive notebooks for Julia,Julia,https://github.com/JuliaPluto/Pluto.jl,65.24 MB
+3,Flux.jl,4699,617,4699,191,01/04/2016,01/02/2026,13.54 MB,Relax! Flux is the ML library that doesn't make you tensor,Julia,https://github.com/FluxML/Flux.jl,13.54 MB
+4,DifferentialEquations.jl,3058,246,3058,168,11/05/2016,08/02/2026,173.37 MB,"Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",Julia,https://github.com/SciML/DifferentialEquations.jl,173.37 MB
+5,IJulia.jl,2890,426,2890,39,05/03/2013,13/02/2026,8.63 MB,Julia kernel for Jupyter,Julia,https://github.com/JuliaLang/IJulia.jl,8.63 MB
+6,computational-thinking,2781,494,2781,8,25/08/2020,19/12/2025,910.95 MB,"Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia",Julia,https://github.com/mitmath/computational-thinking,910.95 MB
+7,Makie.jl,2721,373,2721,979,25/09/2017,19/02/2026,688.11 MB,Interactive data visualizations and plotting in Julia,Julia,https://github.com/MakieOrg/Makie.jl,688.11 MB
+8,JuMP.jl,2409,413,2409,15,10/10/2012,17/02/2026,377.14 MB,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",Julia,https://github.com/jump-dev/JuMP.jl,377.14 MB
+9,Genie.jl,2391,187,2391,120,19/02/2016,19/02/2026,53.89 MB,🧞The highly productive Julia web framework,Julia,https://github.com/GenieFramework/Genie.jl,53.89 MB
+10,Turing.jl,2206,231,2206,77,29/04/2016,15/02/2026,43.10 MB,Bayesian inference with probabilistic programming.,Julia,https://github.com/TuringLang/Turing.jl,43.10 MB
