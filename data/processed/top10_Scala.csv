@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,the-algorithm,72753,13268,72753,508,27/03/2023,08/09/2025,8.22 MB,Source code for the X Recommendation Algorithm,Scala,https://github.com/twitter/the-algorithm,8.22 MB
-2,spark,42841,29070,42841,255,25/02/2014,20/02/2026,525.11 MB,Apache Spark - A unified analytics engine for large-scale data processing,Scala,https://github.com/apache/spark,525.11 MB
-3,lila,17770,2570,17770,1197,21/02/2012,20/02/2026,586.96 MB,"♞ lichess.org: the forever free, adless and open source chess server ♞",Scala,https://github.com/lichess-org/lila,586.96 MB
-4,prisma1,16429,844,16429,2,25/09/2016,01/09/2022,189.37 MB,"💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",Scala,https://github.com/prisma/prisma1,189.37 MB
-5,scala,14441,3097,14441,30,01/12/2011,13/02/2026,157.93 MB,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,Scala,https://github.com/scala/scala,157.93 MB
-6,akka-core,13264,3576,13264,901,16/02/2009,19/02/2026,276.09 MB,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",Scala,https://github.com/akka/akka-core,276.09 MB
-7,playframework,12628,4065,12628,491,07/09/2011,13/02/2026,110.75 MB,The Community Maintained High Velocity Web Framework For Java and Scala.,Scala,https://github.com/playframework/playframework,110.75 MB
-8,predictionio,12532,1918,12532,80,25/01/2013,09/01/2021,35.44 MB,"PredictionIO, a machine learning server for developers and ML engineers.",Scala,https://github.com/apache/predictionio,35.44 MB
-9,bfg-repo-cleaner,11983,575,11983,275,21/12/2012,19/01/2025,1.95 MB,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",Scala,https://github.com/rtyley/bfg-repo-cleaner,1.95 MB
-10,CMAK,11952,2495,11952,520,28/01/2015,02/08/2023,3.97 MB,CMAK is a tool for managing Apache Kafka clusters,Scala,https://github.com/yahoo/CMAK,3.97 MB
+1,the-algorithm,72802,13277,72802,509,27/03/2023,08/09/2025,8.22 MB,Source code for the X Recommendation Algorithm,Scala,https://github.com/twitter/the-algorithm,8.22 MB
+2,spark,42896,29079,42896,259,25/02/2014,27/02/2026,526.37 MB,Apache Spark - A unified analytics engine for large-scale data processing,Scala,https://github.com/apache/spark,526.37 MB
+3,lila,17829,2575,17829,1207,21/02/2012,27/02/2026,587.65 MB,"♞ lichess.org: the forever free, adless and open source chess server ♞",Scala,https://github.com/lichess-org/lila,587.65 MB
+4,prisma1,16428,844,16428,2,25/09/2016,01/09/2022,189.37 MB,"💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",Scala,https://github.com/prisma/prisma1,189.37 MB
+5,scala,14441,3096,14441,30,01/12/2011,23/02/2026,158.13 MB,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,Scala,https://github.com/scala/scala,158.13 MB
+6,akka-core,13261,3576,13261,898,16/02/2009,26/02/2026,276.11 MB,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",Scala,https://github.com/akka/akka-core,276.11 MB
+7,playframework,12622,4064,12622,492,07/09/2011,25/02/2026,110.77 MB,The Community Maintained High Velocity Web Framework For Java and Scala.,Scala,https://github.com/playframework/playframework,110.77 MB
+8,predictionio,12527,1918,12527,80,25/01/2013,09/01/2021,35.44 MB,"PredictionIO, a machine learning server for developers and ML engineers.",Scala,https://github.com/apache/predictionio,35.44 MB
+9,bfg-repo-cleaner,11991,575,11991,275,21/12/2012,19/01/2025,1.95 MB,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",Scala,https://github.com/rtyley/bfg-repo-cleaner,1.95 MB
+10,CMAK,11949,2496,11949,520,28/01/2015,02/08/2023,3.97 MB,CMAK is a tool for managing Apache Kafka clusters,Scala,https://github.com/yahoo/CMAK,3.97 MB
