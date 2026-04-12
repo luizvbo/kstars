@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,awesome-go,168356,13096,168356,171,06/07/2014,26/03/2026,10.75 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,10.75 MB
-2,ollama,166247,15181,166247,2726,26/06/2023,27/03/2026,76.06 MB,"Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,76.06 MB
-3,go,133187,18883,133187,9882,19/08/2014,27/03/2026,420.89 MB,The Go programming language,Go,https://github.com/golang/go,420.89 MB
-4,kubernetes,121375,42736,121375,2636,06/06/2014,26/03/2026,1.39 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.39 GB
-5,frp,105621,14961,105621,50,21/12/2015,20/03/2026,30.93 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,30.93 MB
-6,gin,88325,8570,88325,653,16/06/2014,26/03/2026,10.33 MB,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",Go,https://github.com/gin-gonic/gin,10.33 MB
-7,hugo,87305,8224,87305,257,04/07/2013,26/03/2026,134.89 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,134.89 MB
-8,syncthing,81165,4972,81165,409,26/11/2013,26/03/2026,121.76 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,121.76 MB
-9,fzf,79020,2734,79020,318,23/10/2013,26/03/2026,7.82 MB,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf,7.82 MB
-10,lazygit,75086,2641,75086,948,19/05/2018,26/03/2026,148.55 MB,simple terminal UI for git commands,Go,https://github.com/jesseduffield/lazygit,148.55 MB
+1,awesome-go,169547,13125,169547,173,06/07/2014,08/04/2026,11.04 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,11.04 MB
+2,ollama,168378,15494,168378,2889,26/06/2023,09/04/2026,76.81 MB,"Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,76.81 MB
+3,go,133382,18906,133382,9928,19/08/2014,09/04/2026,421.60 MB,The Go programming language,Go,https://github.com/golang/go,421.60 MB
+4,kubernetes,121653,42819,121653,2724,06/06/2014,09/04/2026,1.39 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.39 GB
+5,frp,105831,14984,105831,45,21/12/2015,29/03/2026,31.05 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,31.05 MB
+6,gin,88328,8571,88328,671,16/06/2014,08/04/2026,10.31 MB,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",Go,https://github.com/gin-gonic/gin,10.31 MB
+7,hugo,87495,8243,87495,265,04/07/2013,09/04/2026,135.17 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,135.17 MB
+8,syncthing,81570,4992,81570,394,26/11/2013,09/04/2026,121.97 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,121.97 MB
+9,fzf,79381,2757,79381,315,23/10/2013,08/04/2026,7.79 MB,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf,7.79 MB
+10,lazygit,76052,2737,76052,951,19/05/2018,08/04/2026,149.64 MB,simple terminal UI for git commands,Go,https://github.com/jesseduffield/lazygit,149.64 MB
