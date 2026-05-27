@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,anoma,33872,4116,33872,120,02/02/2021,10/04/2026,76.62 MB,Reference implementation of Anoma,Elixir,https://github.com/anoma/anoma,76.62 MB
-2,elixir,26397,3490,26397,15,09/01/2011,14/05/2026,68.17 MB,"Elixir is a dynamic, functional language for building scalable and maintainable applications",Elixir,https://github.com/elixir-lang/elixir,68.17 MB
-3,analytics,24854,1403,24854,68,04/12/2018,14/05/2026,588.27 MB,"Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",Elixir,https://github.com/plausible/analytics,588.27 MB
-4,symphony,23786,2286,23786,5,26/02/2026,14/05/2026,29.44 MB,"Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",Elixir,https://github.com/openai/symphony,29.44 MB
-5,phoenix,23000,3059,23000,45,20/01/2014,09/05/2026,23.49 MB,Peace of mind from prototype to production,Elixir,https://github.com/phoenixframework/phoenix,23.49 MB
-6,awesome-elixir,13136,1184,13136,15,01/07/2014,12/10/2025,2.73 MB,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",Elixir,https://github.com/h4cc/awesome-elixir,2.73 MB
-7,firezone,8613,414,8613,482,22/04/2020,15/05/2026,216.97 MB,Enterprise-ready zero-trust access platform built on WireGuard®.,Elixir,https://github.com/firezone/firezone,216.97 MB
-8,teslamate,7980,932,7980,74,31/03/2019,13/05/2026,88.95 MB,A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld],Elixir,https://github.com/teslamate-org/teslamate,88.95 MB
-9,realtime,7557,428,7557,63,23/09/2019,14/05/2026,10.71 MB,"Broadcast, Presence, and Postgres Changes via WebSockets",Elixir,https://github.com/supabase/realtime,10.71 MB
-10,phoenix_live_view,6759,1038,6759,61,12/09/2018,09/05/2026,21.02 MB,"Rich, real-time user experiences with server-rendered HTML",Elixir,https://github.com/phoenixframework/phoenix_live_view,21.02 MB
+1,anoma,33842,4117,33842,120,02/02/2021,10/04/2026,76.62 MB,Reference implementation of Anoma,Elixir,https://github.com/anoma/anoma,76.62 MB
+2,elixir,26419,3491,26419,18,09/01/2011,21/05/2026,68.41 MB,"Elixir is a dynamic, functional language for building scalable and maintainable applications",Elixir,https://github.com/elixir-lang/elixir,68.41 MB
+3,analytics,26271,1521,26271,68,04/12/2018,21/05/2026,593.12 MB,"Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",Elixir,https://github.com/plausible/analytics,593.12 MB
+4,symphony,24397,2399,24397,3,26/02/2026,20/05/2026,29.45 MB,"Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",Elixir,https://github.com/openai/symphony,29.45 MB
+5,phoenix,22996,3065,22996,48,20/01/2014,20/05/2026,23.28 MB,Peace of mind from prototype to production,Elixir,https://github.com/phoenixframework/phoenix,23.28 MB
+6,awesome-elixir,13139,1185,13139,16,01/07/2014,12/10/2025,2.73 MB,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",Elixir,https://github.com/h4cc/awesome-elixir,2.73 MB
+7,firezone,8617,415,8617,468,22/04/2020,22/05/2026,218.33 MB,Enterprise-ready zero-trust access platform built on WireGuard®.,Elixir,https://github.com/firezone/firezone,218.33 MB
+8,teslamate,7998,931,7998,66,31/03/2019,20/05/2026,88.83 MB,A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld],Elixir,https://github.com/teslamate-org/teslamate,88.83 MB
+9,realtime,7562,433,7562,64,23/09/2019,21/05/2026,10.85 MB,"Broadcast, Presence, and Postgres Changes via WebSockets",Elixir,https://github.com/supabase/realtime,10.85 MB
+10,phoenix_live_view,6761,1039,6761,60,12/09/2018,21/05/2026,21.40 MB,"Rich, real-time user experiences with server-rendered HTML",Elixir,https://github.com/phoenixframework/phoenix_live_view,21.40 MB
