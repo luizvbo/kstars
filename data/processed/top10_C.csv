@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,linux,236914,62759,236914,3,04/09/2011,18/06/2026,5.91 GB,Linux kernel source tree,C,https://github.com/torvalds/linux,5.91 GB
-2,scrcpy,143811,13253,143811,2834,21/11/2017,29/05/2026,8.47 MB,Display and control your Android device,C,https://github.com/Genymobile/scrcpy,8.47 MB
-3,PowerToys,135226,8117,135226,7275,01/05/2019,18/06/2026,498.34 MB,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows,C,https://github.com/microsoft/PowerToys,498.34 MB
-4,netdata,79299,6482,79299,335,17/06/2013,18/06/2026,279.10 MB,"The fastest path to AI-powered full stack observability, even for lean teams.",C,https://github.com/netdata/netdata,279.10 MB
-5,Ventoy,77271,4826,77271,969,10/03/2020,07/05/2026,213.42 MB,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy,213.42 MB
-6,redis,74978,24675,74978,2851,21/03/2009,17/06/2026,208.76 MB,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis,208.76 MB
-7,obs-studio,73297,9360,73297,1100,01/10/2013,18/06/2026,79.16 MB,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio,79.16 MB
-8,git,61559,28028,61559,378,23/07/2008,18/06/2026,302.59 MB,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git,302.59 MB
-9,FFmpeg,61253,13920,61253,3,14/04/2011,18/06/2026,472.16 MB,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg,472.16 MB
-10,tmux,46718,2696,46718,28,03/06/2015,18/06/2026,20.03 MB,tmux source code,C,https://github.com/tmux/tmux,20.03 MB
+1,linux,237560,62866,237560,3,04/09/2011,25/06/2026,5.92 GB,Linux kernel source tree,C,https://github.com/torvalds/linux,5.92 GB
+2,scrcpy,144358,13309,144358,2843,21/11/2017,25/06/2026,8.51 MB,Display and control your Android device,C,https://github.com/Genymobile/scrcpy,8.51 MB
+3,PowerToys,135510,8146,135510,7265,01/05/2019,25/06/2026,498.25 MB,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows,C,https://github.com/microsoft/PowerToys,498.25 MB
+4,Ventoy,77429,4836,77429,967,10/03/2020,25/06/2026,214.33 MB,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy,214.33 MB
+5,redis,75108,24676,75108,2848,21/03/2009,25/06/2026,208.74 MB,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis,208.74 MB
+6,obs-studio,73438,9381,73438,1108,01/10/2013,25/06/2026,79.30 MB,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio,79.30 MB
+7,git,61673,28050,61673,378,23/07/2008,25/06/2026,303.82 MB,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git,303.82 MB
+8,FFmpeg,61445,13934,61445,3,14/04/2011,25/06/2026,473.69 MB,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg,473.69 MB
+9,tmux,46994,2712,46994,33,03/06/2015,25/06/2026,20.34 MB,tmux source code,C,https://github.com/tmux/tmux,20.34 MB
+10,curl,42243,7246,42243,59,18/03/2010,25/06/2026,137.80 MB,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",C,https://github.com/curl/curl,137.80 MB
