@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,awesome-go,176393,13352,176393,181,06/07/2014,25/06/2026,11.33 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,11.33 MB
-2,ollama,174909,16725,174909,3492,26/06/2023,25/06/2026,87.27 MB,"Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,87.27 MB
-3,go,134931,19023,134931,10171,19/08/2014,25/06/2026,432.93 MB,The Go programming language,Go,https://github.com/golang/go,432.93 MB
-4,kubernetes,123286,43281,123286,2746,06/06/2014,25/06/2026,1.41 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.41 GB
-5,frp,107559,15079,107559,44,21/12/2015,24/06/2026,31.44 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,31.44 MB
-6,gin,88757,8632,88757,706,16/06/2014,23/06/2026,10.35 MB,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",Go,https://github.com/gin-gonic/gin,10.35 MB
-7,hugo,88727,8276,88727,233,04/07/2013,25/06/2026,139.26 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,139.26 MB
-8,syncthing,85784,5308,85784,391,26/11/2013,23/06/2026,122.36 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,122.36 MB
-9,ragflow,83633,9701,83633,2849,12/12/2023,25/06/2026,129.81 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,129.81 MB
-10,fzf,81219,2800,81219,323,23/10/2013,23/06/2026,8.06 MB,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf,8.06 MB
+1,awesome-go,178990,13424,178990,191,06/07/2014,22/07/2026,11.48 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,11.48 MB
+2,ollama,176735,17078,176735,3528,26/06/2023,23/07/2026,87.82 MB,"Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,87.82 MB
+3,go,135332,19125,135332,10174,19/08/2014,23/07/2026,435.56 MB,The Go programming language,Go,https://github.com/golang/go,435.56 MB
+4,kubernetes,123899,43572,123899,2659,06/06/2014,23/07/2026,1.44 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.44 GB
+5,frp,108301,15135,108301,49,21/12/2015,23/07/2026,31.56 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,31.56 MB
+6,hugo,89113,8299,89113,236,04/07/2013,22/07/2026,139.47 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,139.47 MB
+7,gin,88944,8649,88944,725,16/06/2014,16/07/2026,10.34 MB,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",Go,https://github.com/gin-gonic/gin,10.34 MB
+8,syncthing,86844,5382,86844,400,26/11/2013,21/07/2026,122.46 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,122.46 MB
+9,ragflow,85798,10047,85798,2108,12/12/2023,23/07/2026,139.67 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,139.67 MB
+10,fzf,81936,2820,81936,325,23/10/2013,23/07/2026,8.27 MB,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf,8.27 MB
