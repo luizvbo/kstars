@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,cloc,23327,1118,23327,25,07/09/2015,17/07/2026,7.40 MB,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",Perl,https://github.com/AlDanial/cloc,7.40 MB
-2,FlameGraph,19618,2106,19618,174,16/12/2011,20/10/2024,1.87 MB,Stack trace visualizer,Perl,https://github.com/brendangregg/FlameGraph,1.87 MB
-3,diff-so-fancy,18074,346,18074,3,04/02/2016,19/07/2026,769.00 KB,Make your diffs human readable for improved code quality and faster defect detection. :tada:,Perl,https://github.com/so-fancy/diff-so-fancy,769.00 KB
-4,nikto,10570,1448,10570,1,24/11/2012,22/07/2026,5.23 MB,Nikto web server scanner,Perl,https://github.com/sullo/nikto,5.23 MB
-5,MySQLTuner-perl,9470,1291,9470,31,29/05/2009,21/07/2026,35.30 MB,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,Perl,https://github.com/major/MySQLTuner-perl,35.30 MB
-6,gitolite,8581,1008,8581,6,24/08/2009,22/02/2026,3.11 MB,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",Perl,https://github.com/sitaramc/gitolite,3.11 MB
-7,book,7520,32,7520,1,06/06/2026,21/07/2026,291.00 KB,"The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model.",Perl,https://github.com/astrid-runtime/book,291.00 KB
-8,exiftool,4891,461,4891,32,09/05/2018,27/05/2026,58.52 MB,ExifTool meta information reader/writer,Perl,https://github.com/exiftool/exiftool,58.52 MB
-9,git-it-electron,4887,1213,4887,138,08/05/2015,10/04/2024,78.53 MB,":computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",Perl,https://github.com/jlord/git-it-electron,78.53 MB
+1,cloc,23359,1119,23359,25,07/09/2015,30/07/2026,5.30 MB,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",Perl,https://github.com/AlDanial/cloc,5.30 MB
+2,FlameGraph,19632,2105,19632,174,16/12/2011,20/10/2024,1.87 MB,Stack trace visualizer,Perl,https://github.com/brendangregg/FlameGraph,1.87 MB
+3,diff-so-fancy,18076,346,18076,3,04/02/2016,28/07/2026,770.00 KB,Make your diffs human readable for improved code quality and faster defect detection. :tada:,Perl,https://github.com/so-fancy/diff-so-fancy,770.00 KB
+4,nikto,10605,1450,10605,1,24/11/2012,22/07/2026,5.23 MB,Nikto web server scanner,Perl,https://github.com/sullo/nikto,5.23 MB
+5,MySQLTuner-perl,9470,1289,9470,24,29/05/2009,30/07/2026,35.70 MB,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,Perl,https://github.com/major/MySQLTuner-perl,35.70 MB
+6,gitolite,8582,1008,8582,6,24/08/2009,22/02/2026,3.11 MB,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",Perl,https://github.com/sitaramc/gitolite,3.11 MB
+7,book,7503,32,7503,1,06/06/2026,21/07/2026,291.00 KB,"The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model.",Perl,https://github.com/astrid-runtime/book,291.00 KB
+8,exiftool,4914,465,4914,35,09/05/2018,27/05/2026,58.52 MB,ExifTool meta information reader/writer,Perl,https://github.com/exiftool/exiftool,58.52 MB
+9,git-it-electron,4888,1213,4888,138,08/05/2015,10/04/2024,78.53 MB,":computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",Perl,https://github.com/jlord/git-it-electron,78.53 MB
 10,Expose,4435,256,4435,23,28/08/2015,16/03/2022,409.00 KB,A simple static site generator for photoessays,Perl,https://github.com/Jack000/Expose,409.00 KB

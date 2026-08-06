@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,gradle,18721,5218,18721,3505,09/09/2009,23/07/2026,880.07 MB,"Adaptable, fast automation for all",Groovy,https://github.com/gradle/gradle,880.07 MB
-2,devops-resources,9621,2402,9621,28,07/01/2019,12/07/2024,1.78 MB,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",Groovy,https://github.com/bregman-arie/devops-resources,1.78 MB
-3,rundeck,6240,984,6240,683,03/09/2010,23/07/2026,221.11 MB,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,https://github.com/rundeck/rundeck,221.11 MB
-4,pipeline-examples,4294,3568,4294,15,24/11/2015,31/08/2023,127.00 KB,"A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin",Groovy,https://github.com/jenkinsci/pipeline-examples,127.00 KB
-5,gradle-versions-plugin,4074,205,4074,95,02/12/2012,23/07/2026,2.69 MB,Gradle plugin to discover dependency updates,Groovy,https://github.com/ben-manes/gradle-versions-plugin,2.69 MB
-6,gradle_plugin_android_aspectjx,3960,573,3960,153,25/04/2016,15/09/2021,16.60 MB,"A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.",Groovy,https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx,16.60 MB
-7,nextflow,3448,797,3448,392,27/03/2013,23/07/2026,71.33 MB,A DSL for data-driven computational pipelines,Groovy,https://github.com/nextflow-io/nextflow,71.33 MB
+1,gradle,18742,5285,18742,3507,09/09/2009,30/07/2026,881.60 MB,"Adaptable, fast automation for all",Groovy,https://github.com/gradle/gradle,881.60 MB
+2,devops-resources,9623,2404,9623,28,07/01/2019,12/07/2024,1.78 MB,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",Groovy,https://github.com/bregman-arie/devops-resources,1.78 MB
+3,rundeck,6246,984,6246,686,03/09/2010,30/07/2026,221.24 MB,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,https://github.com/rundeck/rundeck,221.24 MB
+4,pipeline-examples,4293,3566,4293,15,24/11/2015,31/08/2023,127.00 KB,"A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin",Groovy,https://github.com/jenkinsci/pipeline-examples,127.00 KB
+5,gradle-versions-plugin,4074,205,4074,70,02/12/2012,31/07/2026,2.84 MB,Gradle plugin to discover dependency updates,Groovy,https://github.com/ben-manes/gradle-versions-plugin,2.84 MB
+6,gradle_plugin_android_aspectjx,3962,572,3962,153,25/04/2016,15/09/2021,16.60 MB,"A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.",Groovy,https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx,16.60 MB
+7,nextflow,3454,800,3454,409,27/03/2013,30/07/2026,71.29 MB,A DSL for data-driven computational pipelines,Groovy,https://github.com/nextflow-io/nextflow,71.29 MB
 8,fat-aar-android,3290,708,3290,166,19/12/2018,25/07/2024,7.07 MB,A gradle plugin that merge dependencies into the final aar file works with AGP 3.+,Groovy,https://github.com/kezong/fat-aar-android,7.07 MB
-9,grails-core,2926,973,2926,964,10/02/2010,23/07/2026,488.25 MB,Grails - the Web Application Framework,Groovy,https://github.com/apache/grails-core,488.25 MB
-10,SmartThingsPublic,2651,86816,2651,2507,04/08/2015,18/07/2023,20.57 MB,SmartThings open-source DeviceType Handlers and SmartApps code,Groovy,https://github.com/SmartThingsCommunity/SmartThingsPublic,20.57 MB
+9,grails-core,2924,972,2924,877,10/02/2010,31/07/2026,488.08 MB,Grails - the Web Application Framework,Groovy,https://github.com/apache/grails-core,488.08 MB
+10,SmartThingsPublic,2653,86770,2653,2507,04/08/2015,18/07/2023,20.57 MB,SmartThings open-source DeviceType Handlers and SmartApps code,Groovy,https://github.com/SmartThingsCommunity/SmartThingsPublic,20.57 MB
