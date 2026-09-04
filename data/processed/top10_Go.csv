@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,awesome-go,179669,13442,179669,196,06/07/2014,29/07/2026,11.65 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,11.65 MB
-2,ollama,177332,17202,177332,3584,26/06/2023,31/07/2026,88.02 MB,"Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,88.02 MB
-3,go,135428,19182,135428,10204,19/08/2014,30/07/2026,436.43 MB,The Go programming language,Go,https://github.com/golang/go,436.43 MB
-4,kubernetes,124070,43656,124070,2730,06/06/2014,30/07/2026,1.44 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.44 GB
-5,frp,108454,15145,108454,48,21/12/2015,30/07/2026,31.66 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,31.66 MB
-6,hugo,89250,8312,89250,229,04/07/2013,30/07/2026,141.29 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,141.29 MB
-7,gin,88994,8657,88994,739,16/06/2014,30/07/2026,10.37 MB,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",Go,https://github.com/gin-gonic/gin,10.37 MB
-8,syncthing,87105,5386,87105,387,26/11/2013,28/07/2026,124.29 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,124.29 MB
-9,ragflow,86443,10144,86443,2032,12/12/2023,30/07/2026,142.47 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,142.47 MB
-10,fzf,82055,2824,82055,323,23/10/2013,30/07/2026,8.27 MB,:cherry_blossom: A command-line fuzzy finder,Go,https://github.com/junegunn/fzf,8.27 MB
+1,awesome-go,183088,13540,183088,224,06/07/2014,03/09/2026,12.35 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,12.35 MB
+2,ollama,180077,17670,180077,3892,26/06/2023,03/09/2026,89.90 MB,"Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,89.90 MB
+3,go,137500,19338,137500,10140,19/08/2014,03/09/2026,444.30 MB,The Go programming language,Go,https://github.com/golang/go,444.30 MB
+4,kubernetes,126327,43993,126327,3027,06/06/2014,03/09/2026,1.44 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.44 GB
+5,TypeScript,110876,13799,110876,5138,17/06/2014,03/09/2026,2.73 GB,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,Go,https://github.com/microsoft/TypeScript,2.73 GB
+6,frp,109185,15214,109185,47,21/12/2015,29/08/2026,31.91 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,31.91 MB
+7,caveman,103085,5994,103085,95,04/04/2026,03/09/2026,10.42 MB,🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman,Go,https://github.com/JuliusBrussee/caveman,10.42 MB
+8,ragflow,89999,10609,89999,1587,12/12/2023,03/09/2026,158.15 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,158.15 MB
+9,hugo,89688,8365,89688,224,04/07/2013,03/09/2026,142.75 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,142.75 MB
+10,gin,89170,8685,89170,771,16/06/2014,15/08/2026,10.37 MB,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",Go,https://github.com/gin-gonic/gin,10.37 MB
