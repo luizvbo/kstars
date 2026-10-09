@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,hello-algo,130460,15500,130460,42,04/11/2022,17/08/2026,467.09 MB,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",Java,https://github.com/krahets/hello-algo,467.09 MB
-2,java-design-patterns,94767,27370,94767,137,09/08/2014,08/10/2026,47.59 MB,Design patterns implemented in Java,Java,https://github.com/iluwatar/java-design-patterns,47.59 MB
-3,mall,84866,29841,84866,16,04/04/2018,15/09/2026,57.37 MB,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,Java,https://github.com/macrozheng/mall,57.37 MB
-4,ghidra,81742,9081,81742,1985,01/03/2019,08/10/2026,406.21 MB,Ghidra is a software reverse engineering (SRE) framework,Java,https://github.com/NationalSecurityAgency/ghidra,406.21 MB
-5,spring-boot,81574,44237,81574,495,19/10/2012,08/10/2026,214.86 MB,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",Java,https://github.com/spring-projects/spring-boot,214.86 MB
-6,advanced-java,79141,19135,79141,0,06/10/2018,24/09/2026,33.67 MB,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,Java,https://github.com/doocs/advanced-java,33.67 MB
-7,elasticsearch,78215,26112,78215,6155,08/02/2010,08/10/2026,1.72 GB,"Free and Open Source, Distributed, RESTful Search Engine",Java,https://github.com/elastic/elasticsearch,1.72 GB
-8,LeetCodeAnimation,76706,13858,76706,22,06/12/2018,12/06/2026,498.38 MB,"Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）",Java,https://github.com/MisterBooo/LeetCodeAnimation,498.38 MB
-9,Java,66362,21281,66362,11,16/07/2016,06/10/2026,7.58 MB,All Algorithms implemented in Java,Java,https://github.com/TheAlgorithms/Java,7.58 MB
-10,interviews,65259,12886,65259,122,14/02/2017,12/05/2025,23.89 MB,Everything you need to know to get the job.,Java,https://github.com/kdn251/interviews,23.89 MB
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL
+1,hello-algo,130460,15500,130460,42,04/11/2022,17/08/2026,467.09 MB,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",Java,https://github.com/krahets/hello-algo
+2,java-design-patterns,94767,27370,94767,137,09/08/2014,08/10/2026,47.59 MB,Design patterns implemented in Java,Java,https://github.com/iluwatar/java-design-patterns
+3,mall,84866,29841,84866,16,04/04/2018,15/09/2026,57.37 MB,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,Java,https://github.com/macrozheng/mall
+4,ghidra,81742,9081,81742,1985,01/03/2019,08/10/2026,406.21 MB,Ghidra is a software reverse engineering (SRE) framework,Java,https://github.com/NationalSecurityAgency/ghidra
+5,spring-boot,81574,44237,81574,495,19/10/2012,08/10/2026,214.86 MB,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",Java,https://github.com/spring-projects/spring-boot
+6,advanced-java,79141,19135,79141,0,06/10/2018,24/09/2026,33.67 MB,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,Java,https://github.com/doocs/advanced-java
+7,elasticsearch,78215,26112,78215,6155,08/02/2010,08/10/2026,1.72 GB,"Free and Open Source, Distributed, RESTful Search Engine",Java,https://github.com/elastic/elasticsearch
+8,LeetCodeAnimation,76706,13858,76706,22,06/12/2018,12/06/2026,498.38 MB,"Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）",Java,https://github.com/MisterBooo/LeetCodeAnimation
+9,Java,66362,21281,66362,11,16/07/2016,06/10/2026,7.58 MB,All Algorithms implemented in Java,Java,https://github.com/TheAlgorithms/Java
+10,interviews,65259,12886,65259,122,14/02/2017,12/05/2025,23.89 MB,Everything you need to know to get the job.,Java,https://github.com/kdn251/interviews

@@ -4,6 +4,9 @@ kstars/target
 data/original
 kstars/.access_token.txt
 
+# Syncthing conflict artifacts
+*.sync-conflict-*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

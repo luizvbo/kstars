@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,cloc,23586,1123,23586,27,07/09/2015,20/09/2026,5.85 MB,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",Perl,https://github.com/AlDanial/cloc,5.85 MB
-2,FlameGraph,19789,2110,19789,173,16/12/2011,20/10/2024,1.87 MB,Stack trace visualizer,Perl,https://github.com/brendangregg/FlameGraph,1.87 MB
-3,diff-so-fancy,18103,350,18103,1,04/02/2016,06/10/2026,846.00 KB,Make your diffs human readable for improved code quality and faster defect detection. :tada:,Perl,https://github.com/so-fancy/diff-so-fancy,846.00 KB
-4,nikto,10762,1466,10762,0,24/11/2012,04/10/2026,6.85 MB,Nikto web server scanner,Perl,https://github.com/sullo/nikto,6.85 MB
-5,MySQLTuner-perl,9480,1284,9480,7,29/05/2009,05/10/2026,35.24 MB,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,Perl,https://github.com/major/MySQLTuner-perl,35.24 MB
-6,gitolite,8596,1004,8596,6,24/08/2009,29/09/2026,3.12 MB,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",Perl,https://github.com/sitaramc/gitolite,3.12 MB
-7,book,7453,32,7453,1,06/06/2026,08/09/2026,308.00 KB,"The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model.",Perl,https://github.com/astrid-runtime/book,308.00 KB
-8,exiftool,5136,492,5136,47,09/05/2018,27/05/2026,58.52 MB,ExifTool meta information reader/writer,Perl,https://github.com/exiftool/exiftool,58.52 MB
-9,git-it-electron,4890,1216,4890,139,08/05/2015,10/04/2024,78.53 MB,":computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",Perl,https://github.com/jlord/git-it-electron,78.53 MB
-10,Expose,4437,257,4437,23,28/08/2015,16/03/2022,409.00 KB,A simple static site generator for photoessays,Perl,https://github.com/Jack000/Expose,409.00 KB
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL
+1,cloc,23586,1123,23586,27,07/09/2015,20/09/2026,5.85 MB,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",Perl,https://github.com/AlDanial/cloc
+2,FlameGraph,19789,2110,19789,173,16/12/2011,20/10/2024,1.87 MB,Stack trace visualizer,Perl,https://github.com/brendangregg/FlameGraph
+3,diff-so-fancy,18103,350,18103,1,04/02/2016,06/10/2026,846.00 KB,Make your diffs human readable for improved code quality and faster defect detection. :tada:,Perl,https://github.com/so-fancy/diff-so-fancy
+4,nikto,10762,1466,10762,0,24/11/2012,04/10/2026,6.85 MB,Nikto web server scanner,Perl,https://github.com/sullo/nikto
+5,MySQLTuner-perl,9480,1284,9480,7,29/05/2009,05/10/2026,35.24 MB,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,Perl,https://github.com/major/MySQLTuner-perl
+6,gitolite,8596,1004,8596,6,24/08/2009,29/09/2026,3.12 MB,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",Perl,https://github.com/sitaramc/gitolite
+7,book,7453,32,7453,1,06/06/2026,08/09/2026,308.00 KB,"The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model.",Perl,https://github.com/astrid-runtime/book
+8,exiftool,5136,492,5136,47,09/05/2018,27/05/2026,58.52 MB,ExifTool meta information reader/writer,Perl,https://github.com/exiftool/exiftool
+9,git-it-electron,4890,1216,4890,139,08/05/2015,10/04/2024,78.53 MB,":computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",Perl,https://github.com/jlord/git-it-electron
+10,Expose,4437,257,4437,23,28/08/2015,16/03/2022,409.00 KB,A simple static site generator for photoessays,Perl,https://github.com/Jack000/Expose
