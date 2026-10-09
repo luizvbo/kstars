@@ -23,8 +23,15 @@ const HEADER_TO_CLASS_MAP = {
   Language: "td-language",
 };
 
+function onLanguageLoaded() {
+  loadedLanguagesCount++;
+  if (loadedLanguagesCount === languages.length) {
+    Sortable.init();
+  }
+}
+
 function loadCSV(language, folder, prefix) {
-  Papa.parse(`${folder}/${prefix}${language[0]}.csv`, {
+  Papa.parse(`${folder}/${prefix}${encodeURIComponent(language[0])}.csv`, {
     download: true,
     skipEmptyLines: "greedy",
     complete: function (results) {
@@ -57,16 +64,26 @@ function loadCSV(language, folder, prefix) {
       }
 
       contentDiv.appendChild(sectionDiv);
-      loadedLanguagesCount++;
-      if (loadedLanguagesCount === languages.length) {
-        Sortable.init();
-      }
+      onLanguageLoaded();
+    },
+    error: function (err) {
+      console.error(`Error loading CSV for ${language[0]}:`, err);
+      const sectionDiv = document.createElement("div");
+      sectionDiv.classList.add("language-section");
+      sectionDiv.id = language[0];
+      sectionDiv.appendChild(
+        document.createTextNode(`Could not load data for ${language[1]}.`),
+      );
+      contentDiv.appendChild(sectionDiv);
+      onLanguageLoaded();
     },
   });
 }
 
 function truncateStringAtWord(str, maxChars) {
-  if (!str || str.length <= maxChars) return str;
+  if (str == null) return str;
+  str = String(str);
+  if (str.length <= maxChars) return str;
   const truncated = str.slice(0, maxChars);
   const lastSpaceIndex = truncated.lastIndexOf(" ");
   return (
@@ -113,7 +130,7 @@ function createTable(data, maxRows) {
     if (repoUrlIndex !== -1 && rowData[repoUrlIndex]) {
       row.style.cursor = "pointer"; // Add visual feedback
       row.addEventListener("click", () => {
-        window.open(rowData[repoUrlIndex], "_blank");
+        window.open(rowData[repoUrlIndex], "_blank", "noopener");
       });
     }
 
@@ -129,6 +146,7 @@ function createTable(data, maxRows) {
         const link = document.createElement("a");
         link.href = cellText;
         link.target = "_blank";
+        link.rel = "noopener noreferrer";
         link.textContent = cellText.replace("https://github.com/", "");
         link.addEventListener("click", (e) => e.stopPropagation());
         td.appendChild(link);
@@ -151,8 +169,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const navToggleBtn = document.getElementById("navToggleBtn");
   const languageNav = document.getElementById("language-nav");
-
-  let loadedLanguagesCount = 0;
 
   function applyTheme(isDark) {
     document.body.classList.toggle("dark", isDark);
@@ -236,14 +252,4 @@ const languages = [
 ];
 
 const contentDiv = document.getElementById("content");
-const navLinksDiv = document.getElementById("language-nav-links");
 let loadedLanguagesCount = 0;
-
-languages.forEach((lang) => {
-  const link = document.createElement("a");
-  link.href = `#${lang[0]}`;
-  link.textContent = lang[1];
-  navLinksDiv.appendChild(link);
-});
-
-languages.forEach((language) => loadCSV(language, "data/processed", "top10_"));

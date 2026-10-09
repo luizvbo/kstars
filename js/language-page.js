@@ -24,7 +24,9 @@ const HEADER_TO_CLASS_MAP = {
 };
 
 function truncateStringAtWord(str, maxChars) {
-  if (!str || str.length <= maxChars) return str;
+  if (str == null) return str;
+  str = String(str);
+  if (str.length <= maxChars) return str;
   const truncated = str.slice(0, maxChars);
   const lastSpaceIndex = truncated.lastIndexOf(" ");
   return (
@@ -67,7 +69,7 @@ function createTable(data) {
     if (repoUrlIndex !== -1 && rowData[repoUrlIndex]) {
       row.style.cursor = "pointer";
       row.addEventListener("click", () => {
-        window.open(rowData[repoUrlIndex], "_blank");
+        window.open(rowData[repoUrlIndex], "_blank", "noopener");
       });
     }
 
@@ -83,6 +85,7 @@ function createTable(data) {
         const link = document.createElement("a");
         link.href = cellText;
         link.target = "_blank";
+        link.rel = "noopener noreferrer";
         link.textContent = cellText.replace("https://github.com/", "");
         link.addEventListener("click", (e) => e.stopPropagation());
         td.appendChild(link);
@@ -116,6 +119,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const nameMap = {
       CSharp: "C#",
       CPP: "C++",
+      "Vim-script": "Vim script",
     };
     return nameMap[lang] || lang;
   }
@@ -125,7 +129,13 @@ document.addEventListener("DOMContentLoaded", () => {
   languageTitle.textContent = `kstars ${displayName}`;
   document.title = pageTitle;
 
-  const csvPath = `../data/processed/${language}.csv`;
+  const csvPath = `../data/processed/${encodeURIComponent(language)}.csv`;
+
+  function showMessage(text) {
+    const p = document.createElement("p");
+    p.textContent = text;
+    languageContentDiv.appendChild(p);
+  }
 
   Papa.parse(csvPath, {
     download: true,
@@ -140,13 +150,13 @@ document.addEventListener("DOMContentLoaded", () => {
         languageContentDiv.appendChild(tableContainer);
         Sortable.init();
       } else {
-        languageContentDiv.innerHTML = `<p>No repository data found for ${language}.</p>`;
+        showMessage(`No repository data found for ${language}.`);
       }
     },
     error: function (err) {
       loadingMessage.style.display = "none";
       console.error(`Error loading CSV for ${language} from ${csvPath}:`, err);
-      languageContentDiv.innerHTML = `<p>Could not load repository data for ${language}.</p>`;
+      showMessage(`Could not load repository data for ${language}.`);
     },
   });
 
