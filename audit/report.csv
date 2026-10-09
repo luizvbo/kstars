@@ -1,0 +1,21 @@
+bug_id,severity,category,component,title,status
+BUG-01,high,security/secret-leak,kstars/src/main.rs,GitHub access token printed to logs,fixed
+BUG-02,high,security/xss,js/language-page.js,Reflected DOM XSS via ?lang= parameter,fixed
+BUG-03,high,security/secret-exposure,kstars/main.py,Token exposed via shell command substitution,fixed
+BUG-04,high,functional/duplicate-init,js/main.js,Page initialization ran twice,fixed
+BUG-05,high,data/corruption,kstars/main.py,Duplicate 'Size' column in all processed CSVs,fixed
+BUG-06,medium,functional/test-failure,kstars/src/main.rs,test_parse_languages_with_default_list failing,fixed
+BUG-07,medium,functional/missing-data,kstars/src/main.rs,Prolog missing from default language list,fixed
+BUG-08,medium,functional/broken-links,kstars/main.py,README TOC anchors broken,fixed
+BUG-09,medium,integration/broken-build,kstars/Makefile,deploy/schedule targets reference removed Prefect flow,fixed
+BUG-10,medium,reliability/hang,kstars/main.py,Infinite retry on any failure,fixed
+BUG-11,medium,reliability/missing-error-path,js/main.js,No Papa.parse error callback,fixed
+BUG-12,medium,integration/setup,kstars/main.py + Makefile,kstars binary not on PATH,fixed
+BUG-13,low,functional/naming,kstars/src/main.rs,CSV filename derived from display name,fixed
+BUG-14,low,functional/inconsistency,js/language-page.js,Missing Vim-script display name,fixed
+BUG-15,low,robustness/panic,kstars/src/main.rs,Panic on malformed token,fixed
+BUG-16,low,integration/encoding,kstars/src/main.rs + js,Unencoded language in URLs,fixed
+BUG-17,low,security/tabnabbing,"js/*, *.html",target=_blank without rel=noopener,fixed
+BUG-18,low,robustness/type-error,"js/main.js, js/language-page.js",truncateStringAtWord crashes on non-strings,fixed
+BUG-19,low,robustness/parse,kstars/main.py,Element-wise date parsing crashed cron on bad values,fixed
+BUG-20,low,hygiene/artifacts,data/processed/,70 Syncthing sync-conflict files committed,fixed
