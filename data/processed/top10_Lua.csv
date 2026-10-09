@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL
-1,kong,44253,5227,44253,222,17/11/2014,08/10/2026,95.70 MB,🦍 The API and AI Gateway,Lua,https://github.com/Kong/kong
-2,kickstart.nvim,31559,46448,31559,18,24/06/2022,05/10/2026,991.00 KB,A launch point for your personal nvim configuration,Lua,https://github.com/nvim-lua/kickstart.nvim
-3,koreader,30170,1947,30170,1369,24/03/2013,08/10/2026,72.23 MB,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",Lua,https://github.com/koreader/koreader
-4,NvChad,28512,2216,28512,6,07/03/2021,03/07/2026,1.96 MB,"Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",Lua,https://github.com/NvChad/NvChad
-5,waifu2x,28223,2658,28223,154,17/05/2015,04/05/2023,692.88 MB,Image Super-Resolution for Anime-Style Art,Lua,https://github.com/nagadomi/waifu2x
-6,LazyVim,27623,1826,27623,84,30/12/2022,08/09/2026,5.55 MB,Neovim config for the lazy,Lua,https://github.com/LazyVim/LazyVim
-7,lazy.nvim,21634,596,21634,71,20/11/2022,29/06/2026,3.08 MB,💤 A modern plugin manager for Neovim,Lua,https://github.com/folke/lazy.nvim
-8,telescope.nvim,19813,968,19813,465,15/07/2020,17/08/2026,4.71 MB,"Find, Filter, Preview, Pick. All lua, all the time.",Lua,https://github.com/nvim-telescope/telescope.nvim
-9,rime-ice,19665,1195,19665,5,29/01/2021,05/10/2026,260.93 MB,Rime 配置：雾凇拼音 | 长期维护的简体词库,Lua,https://github.com/iDvel/rime-ice
-10,LunarVim,19263,1484,19263,33,16/08/2018,05/06/2025,13.88 MB,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,Lua,https://github.com/LunarVim/LunarVim
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,kong,44253,5227,44253,222,17/11/2014,08/10/2026,95.70 MB,🦍 The API and AI Gateway,Lua,https://github.com/Kong/kong,95.70 MB
+2,kickstart.nvim,31559,46448,31559,18,24/06/2022,05/10/2026,991.00 KB,A launch point for your personal nvim configuration,Lua,https://github.com/nvim-lua/kickstart.nvim,991.00 KB
+3,koreader,30170,1947,30170,1369,24/03/2013,08/10/2026,72.23 MB,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",Lua,https://github.com/koreader/koreader,72.23 MB
+4,NvChad,28512,2216,28512,6,07/03/2021,03/07/2026,1.96 MB,"Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",Lua,https://github.com/NvChad/NvChad,1.96 MB
+5,waifu2x,28223,2658,28223,154,17/05/2015,04/05/2023,692.88 MB,Image Super-Resolution for Anime-Style Art,Lua,https://github.com/nagadomi/waifu2x,692.88 MB
+6,LazyVim,27623,1826,27623,84,30/12/2022,08/09/2026,5.55 MB,Neovim config for the lazy,Lua,https://github.com/LazyVim/LazyVim,5.55 MB
+7,lazy.nvim,21634,596,21634,71,20/11/2022,29/06/2026,3.08 MB,💤 A modern plugin manager for Neovim,Lua,https://github.com/folke/lazy.nvim,3.08 MB
+8,telescope.nvim,19813,968,19813,465,15/07/2020,17/08/2026,4.71 MB,"Find, Filter, Preview, Pick. All lua, all the time.",Lua,https://github.com/nvim-telescope/telescope.nvim,4.71 MB
+9,rime-ice,19665,1195,19665,5,29/01/2021,05/10/2026,260.93 MB,Rime 配置：雾凇拼音 | 长期维护的简体词库,Lua,https://github.com/iDvel/rime-ice,260.93 MB
+10,LunarVim,19263,1484,19263,33,16/08/2018,05/06/2025,13.88 MB,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,Lua,https://github.com/LunarVim/LunarVim,13.88 MB
