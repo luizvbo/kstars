@@ -21,4 +21,3 @@ chrono = "0.4"
 
 [dev-dependencies]
 tempfile = "3.8"
-csv = "1.1"

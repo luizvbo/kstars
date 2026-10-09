@@ -3,7 +3,6 @@ use clap::Parser;
 use csv::Writer;
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
-use serde_json;
 use std::{
     fs::{self, File},
     io::{BufReader, BufWriter},
@@ -126,19 +125,17 @@ fn get_access_token(token_input: Option<String>) -> Result<String> {
 }
 
 /// Fetches repositories for a given language and page (each page has 100 results).
-
-/// Fetches repositories for a given language and page (each page has 100 results).
 async fn fetch_repos(
     client: &reqwest::Client,
     token: &str,
     language: &str,
     page: u32,
 ) -> Result<Vec<Repo>> {
-    let url = format!(
-        "https://api.github.com/search/repositories?q=language:{}&sort=stars&order=desc&per_page=100&page={}",
-        language, page
+    let url = "https://api.github.com/search/repositories";
+    debug!(
+        "Requesting {} for language {} page {}",
+        url, language, page
     );
-    debug!("Requesting URL: {}", url);
 
     // Set up headers
     let mut headers = reqwest::header::HeaderMap::new();
@@ -153,14 +150,23 @@ async fn fetch_repos(
     headers.insert(
         reqwest::header::AUTHORIZATION,
         reqwest::header::HeaderValue::from_str(&format!("token {}", token))
-            .expect("Invalid token format"),
+            .context("Token contains characters that are not valid in an HTTP header")?,
     );
 
     // Loop until successful or a non-recoverable error occurs
     loop {
-        // Send the request (clone headers because .send() consumes them)
+        // Send the request (clone headers because .send() consumes them).
+        // Query parameters are passed via .query() so reqwest percent-encodes
+        // language names containing spaces or other special characters.
         let resp = client
-            .get(&url)
+            .get(url)
+            .query(&[
+                ("q", format!("language:{}", language)),
+                ("sort", "stars".to_string()),
+                ("order", "desc".to_string()),
+                ("per_page", "100".to_string()),
+                ("page", page.to_string()),
+            ])
             .headers(headers.clone())
             .send()
             .await
@@ -406,8 +412,8 @@ fn parse_languages(args: Option<Vec<String>>) -> Vec<LanguageMapping> {
     let default = vec![
         ("ActionScript", "ActionScript"),
         ("C", "C"),
-        ("CSharp", "CSharp"),
-        ("CPP", "CPP"),
+        ("CSharp", "C#"),
+        ("CPP", "C++"),
         ("Clojure", "Clojure"),
         ("CoffeeScript", "CoffeeScript"),
         ("CSS", "CSS"),
@@ -428,6 +434,7 @@ fn parse_languages(args: Option<Vec<String>>) -> Vec<LanguageMapping> {
         ("Perl", "Perl"),
         ("PHP", "PHP"),
         ("PowerShell", "PowerShell"),
+        ("Prolog", "Prolog"),
         ("Python", "Python"),
         ("R", "R"),
         ("Ruby", "Ruby"),
@@ -437,7 +444,7 @@ fn parse_languages(args: Option<Vec<String>>) -> Vec<LanguageMapping> {
         ("Swift", "Swift"),
         ("TeX", "TeX"),
         ("TypeScript", "TypeScript"),
-        ("Vim-script", "Vim-script"),
+        ("Vim-script", "Vim script"),
     ];
 
     let mut mappings = Vec::new();
@@ -495,8 +502,12 @@ async fn main() -> Result<()> {
     info!("Application started.");
 
     // Parse CLI arguments.
+    // NOTE: do not log `args` with {:?} — it contains the access token.
     let args = Args::parse();
-    info!("Parsed arguments: {:?}", args);
+    info!(
+        "Parsed arguments: languages={:?}, records={}, output={}",
+        args.languages, args.records, args.output
+    );
 
     // Ensure the output directory exists.
     fs::create_dir_all(&args.output).context("Failed to create output directory")?;
@@ -531,9 +542,11 @@ async fn main() -> Result<()> {
         .await
         {
             Ok(repos) => {
-                // Build a safe file name based on display name.
+                // Build a safe file name based on the API name (not the display
+                // name) so e.g. "CPP:C++" still produces "CPP.csv", matching the
+                // file names expected by the website and main.py.
                 let safe_name: String = mapping
-                    .display_name
+                    .api_name
                     .chars()
                     .map(|c| {
                         if c.is_alphanumeric() || vec!['_', '-', '.', '+', '#', ' '].contains(&c) {
