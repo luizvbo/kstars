@@ -1,0 +1,1001 @@
+Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
+1,rust,108271,14079,108271,11791,16/06/2010,05/12/2025,785.21 MB,Empowering everyone to build reliable and efficient software.,Rust,https://github.com/rust-lang/rust,785.21 MB
+2,deno,105420,5813,105420,2516,15/05/2018,05/12/2025,181.83 MB,A modern runtime for JavaScript and TypeScript.,Rust,https://github.com/denoland/deno,181.83 MB
+3,rustdesk,103507,15274,103507,88,28/09/2020,05/12/2025,63.50 MB,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,https://github.com/rustdesk/rustdesk,63.50 MB
+4,tauri,99624,3211,99624,1266,13/07/2019,05/12/2025,97.92 MB,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",Rust,https://github.com/tauri-apps/tauri,97.92 MB
+5,union,74453,3832,74453,184,16/05/2023,05/12/2025,466.76 MB,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",Rust,https://github.com/unionlabs/union,466.76 MB
+6,uv,74277,2297,74277,2429,02/10/2023,05/12/2025,120.77 MB,"An extremely fast Python package and project manager, written in Rust.",Rust,https://github.com/astral-sh/uv,120.77 MB
+7,zed,70895,6164,70895,3262,20/02/2021,05/12/2025,327.53 MB,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,https://github.com/zed-industries/zed,327.53 MB
+8,sway,62068,5434,62068,903,19/01/2021,05/12/2025,108.03 MB,🌴 Empowering everyone to build reliable and efficient smart contracts.,Rust,https://github.com/FuelLabs/sway,108.03 MB
+9,alacritty,61301,3240,61301,330,18/02/2016,24/11/2025,13.77 MB,"A cross-platform, OpenGL terminal emulator.",Rust,https://github.com/alacritty/alacritty,13.77 MB
+10,rustlings,60866,11011,60866,73,15/09/2015,20/11/2025,4.12 MB,:crab: Small exercises to get you used to reading and writing Rust code!,Rust,https://github.com/rust-lang/rustlings,4.12 MB
+11,ripgrep,57835,2333,57835,96,11/03/2016,29/11/2025,5.39 MB,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,Rust,https://github.com/BurntSushi/ripgrep,5.39 MB
+12,fuel-core,57443,2856,57443,161,27/08/2020,01/12/2025,888.07 MB,Rust full node implementation of the Fuel v2 protocol.,Rust,https://github.com/FuelLabs/fuel-core,888.07 MB
+13,Magisk,57348,16067,57348,46,08/09/2016,05/12/2025,60.17 MB,The Magic Mask for Android,Rust,https://github.com/topjohnwu/Magisk,60.17 MB
+14,bat,56080,1419,56080,326,21/04/2018,04/12/2025,35.37 MB,A cat(1) clone with wings.,Rust,https://github.com/sharkdp/bat,35.37 MB
+15,meilisearch,54805,2286,54805,277,23/04/2018,05/12/2025,83.17 MB,A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.,Rust,https://github.com/meilisearch/meilisearch,83.17 MB
+16,ChatGPT,54348,6197,54348,893,07/12/2022,29/08/2024,31.74 MB,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",Rust,https://github.com/lencx/ChatGPT,31.74 MB
+17,awesome-rust,54137,3093,54137,11,17/07/2014,02/12/2025,7.47 MB,A curated list of Rust code and resources.,Rust,https://github.com/rust-unofficial/awesome-rust,7.47 MB
+18,starship,52621,2310,52621,970,02/04/2019,03/12/2025,43.00 MB,"☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",Rust,https://github.com/starship/starship,43.00 MB
+19,codex,51978,6590,51978,928,13/04/2025,05/12/2025,76.02 MB,Lightweight coding agent that runs in your terminal,Rust,https://github.com/openai/codex,76.02 MB
+20,vaultwarden,51588,2408,51588,43,17/02/2018,30/11/2025,11.43 MB,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",Rust,https://github.com/dani-garcia/vaultwarden,11.43 MB
+21,typst,49062,1344,49062,1079,24/09/2019,04/12/2025,133.08 MB,A markup-based typesetting system that is powerful and easy to learn.,Rust,https://github.com/typst/typst,133.08 MB
+22,ruff,44194,1638,44194,1826,09/08/2022,05/12/2025,106.47 MB,"An extremely fast Python linter and code formatter, written in Rust.",Rust,https://github.com/astral-sh/ruff,106.47 MB
+23,Pake,43689,8438,43689,3,14/10/2022,21/11/2025,60.00 MB,🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用,Rust,https://github.com/tw93/Pake,60.00 MB
+24,fuels-rs,43515,1358,43515,68,31/10/2021,01/12/2025,19.64 MB,Fuel Network Rust SDK,Rust,https://github.com/FuelLabs/fuels-rs,19.64 MB
+25,bevy,43366,4266,43366,3221,18/01/2020,05/12/2025,149.58 MB,A refreshingly simple data-driven game engine built in Rust,Rust,https://github.com/bevyengine/bevy,149.58 MB
+26,helix,41678,3190,41678,1341,01/06/2020,03/12/2025,72.46 MB,A post-modern modal text editor.,Rust,https://github.com/helix-editor/helix,72.46 MB
+27,fd,40706,959,40706,158,09/05/2017,02/12/2025,2.15 MB,"A simple, fast and user-friendly alternative to 'find'",Rust,https://github.com/sharkdp/fd,2.15 MB
+28,hyperswitch,39330,4552,39330,1325,17/10/2022,05/12/2025,253.68 MB,"An open source payments switch written in Rust to make payments fast, reliable and affordable",Rust,https://github.com/juspay/hyperswitch,253.68 MB
+29,lapce,37690,1207,37690,862,06/02/2018,05/12/2025,27.93 MB,Lightning-fast and Powerful Code Editor written in Rust,Rust,https://github.com/lapce/lapce,27.93 MB
+30,nushell,37449,1974,37449,1517,10/05/2019,05/12/2025,57.31 MB,A new type of shell,Rust,https://github.com/nushell/nushell,57.31 MB
+31,polars,36402,2501,36402,2650,13/05/2020,05/12/2025,212.72 MB,"Extremely fast Query Engine for DataFrames, written in Rust",Rust,https://github.com/pola-rs/polars,212.72 MB
+32,spacedrive,35750,1130,35750,0,27/09/2021,05/12/2025,243.01 MB,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",Rust,https://github.com/spacedriveapp/spacedrive,243.01 MB
+33,servo,34445,3383,34445,3132,08/02/2012,05/12/2025,1.64 GB,"Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",Rust,https://github.com/servo/servo,1.64 GB
+34,swc,32990,1348,32990,429,22/12/2017,05/12/2025,402.92 MB,Rust-based platform for the Web,Rust,https://github.com/swc-project/swc,402.92 MB
+35,tabby,32536,1646,32536,285,16/03/2023,27/11/2025,109.14 MB,Self-hosted AI coding assistant,Rust,https://github.com/TabbyML/tabby,109.14 MB
+36,dioxus,32425,1397,32425,543,15/01/2021,05/12/2025,49.99 MB,"Fullstack app framework for web, desktop, and mobile.",Rust,https://github.com/DioxusLabs/dioxus,49.99 MB
+37,comprehensive-rust,32355,1937,32355,141,21/12/2022,05/12/2025,26.11 MB,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,Rust,https://github.com/google/comprehensive-rust,26.11 MB
+38,yew,32168,1451,32168,155,16/12/2017,05/12/2025,16.92 MB,Rust / Wasm framework for creating reliable and efficient web applications,Rust,https://github.com/yewstack/yew,16.92 MB
+39,sniffnet,31976,1156,31976,43,31/07/2022,02/12/2025,320.89 MB,Comfortably monitor your Internet traffic 🕵️‍♂️,Rust,https://github.com/GyulyVGC/sniffnet,320.89 MB
+40,linera-protocol,31878,2221,31878,558,19/12/2021,05/12/2025,210.38 MB,Main repository for the Linera protocol,Rust,https://github.com/linera-io/linera-protocol,210.38 MB
+41,fish-shell,31768,2174,31768,533,10/05/2012,30/11/2025,137.24 MB,The user-friendly command line shell.,Rust,https://github.com/fish-shell/fish-shell,137.24 MB
+42,zoxide,31557,706,31557,142,05/03/2020,01/12/2025,4.20 MB,A smarter cd command. Supports all major shells.,Rust,https://github.com/ajeetdsouza/zoxide,4.20 MB
+43,firecracker,31276,2154,31276,61,19/10/2017,05/12/2025,36.67 MB,Secure and fast microVMs for serverless computing.,Rust,https://github.com/firecracker-microvm/firecracker,36.67 MB
+44,influxdb,30931,3674,30931,2127,26/09/2013,04/12/2025,200.37 MB,"Scalable datastore for metrics, events, and real-time analytics",Rust,https://github.com/influxdata/influxdb,200.37 MB
+45,surrealdb,30478,1075,30478,641,09/12/2021,05/12/2025,44.50 MB,"A scalable, distributed, collaborative, document-graph database, for the realtime web",Rust,https://github.com/surrealdb/surrealdb,44.50 MB
+46,tokio,30433,2850,30433,382,09/09/2016,05/12/2025,15.89 MB,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",Rust,https://github.com/tokio-rs/tokio,15.89 MB
+47,yazi,30406,658,30406,65,08/07/2023,05/12/2025,6.72 MB,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",Rust,https://github.com/sxyazi/yazi,6.72 MB
+48,rust-course,29340,2508,29340,63,07/08/2018,26/11/2025,9.72 MB,"“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book ",Rust,https://github.com/sunface/rust-course,9.72 MB
+49,turborepo,29202,2180,29202,154,05/10/2021,05/12/2025,763.88 MB,"Build system optimized for JavaScript and TypeScript, written in Rust",Rust,https://github.com/vercel/turborepo,763.88 MB
+50,just,28995,621,28995,380,17/06/2016,05/12/2025,14.52 MB,🤖 Just a command runner,Rust,https://github.com/casey/just,14.52 MB
+51,iced,28390,1416,28390,328,15/07/2019,05/12/2025,21.27 MB,"A cross-platform GUI library for Rust, inspired by Elm",Rust,https://github.com/iced-rs/iced,21.27 MB
+52,delta,28290,455,28290,339,24/06/2019,26/11/2025,10.91 MB,"A syntax-highlighting pager for git, diff, grep, and blame output",Rust,https://github.com/dandavison/delta,10.91 MB
+53,qdrant,27475,1929,27475,442,30/05/2020,05/12/2025,39.27 MB,"Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",Rust,https://github.com/qdrant/qdrant,39.27 MB
+54,zellij,27465,873,27465,1404,01/09/2020,31/10/2025,122.07 MB,A terminal workspace with batteries included,Rust,https://github.com/zellij-org/zellij,122.07 MB
+55,czkawka,27350,874,27350,478,01/09/2020,03/12/2025,7.79 MB,"Multi functional app to find duplicates, empty folders, similar images etc.",Rust,https://github.com/qarmin/czkawka,7.79 MB
+56,atuin,27327,738,27327,451,04/10/2020,03/12/2025,45.93 MB,✨ Magical shell history,Rust,https://github.com/atuinsh/atuin,45.93 MB
+57,egui,27322,1887,27322,1023,13/01/2019,05/12/2025,87.07 MB,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,Rust,https://github.com/emilk/egui,87.07 MB
+58,hyperfine,26928,439,26928,62,13/01/2018,01/12/2025,2.01 MB,A command-line benchmarking tool,Rust,https://github.com/sharkdp/hyperfine,2.01 MB
+59,fhevm,26283,2651,26283,94,02/05/2025,05/12/2025,55.06 MB,"FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",Rust,https://github.com/zama-ai/fhevm,55.06 MB
+60,pingora,25643,1533,25643,229,05/05/2023,21/11/2025,4.40 MB,"A library for building fast, reliable and evolvable network services.",Rust,https://github.com/cloudflare/pingora,4.40 MB
+61,Rocket,25528,1614,25528,86,18/03/2016,01/10/2025,8.25 MB,A web framework for Rust.,Rust,https://github.com/rwf2/Rocket,8.25 MB
+62,Rust,25122,2495,25122,12,13/09/2018,05/12/2025,1.30 MB, All Algorithms implemented in Rust ,Rust,https://github.com/TheAlgorithms/Rust,1.30 MB
+63,anki,25062,2628,25062,293,21/12/2012,01/12/2025,45.58 MB,Anki is a smart spaced repetition flashcard program,Rust,https://github.com/ankitects/anki,45.58 MB
+64,chroma,24746,1947,24746,497,05/10/2022,05/12/2025,840.09 MB,Open-source search and retrieval database for AI applications.,Rust,https://github.com/chroma-core/chroma,840.09 MB
+65,exa,24241,665,24241,215,22/05/2014,24/09/2024,3.66 MB,A modern replacement for ‘ls’.,Rust,https://github.com/ogham/exa,3.66 MB
+66,axum,24018,1280,24018,74,30/05/2021,05/12/2025,5.28 MB,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",Rust,https://github.com/tokio-rs/axum,5.28 MB
+67,actix-web,23973,1817,23973,241,30/09/2017,01/12/2025,16.92 MB,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",Rust,https://github.com/actix/actix-web,16.92 MB
+68,difftastic,23678,417,23678,251,18/12/2018,05/12/2025,1.63 GB,a structural diff that understands syntax 🟥🟩,Rust,https://github.com/Wilfred/difftastic,1.63 GB
+69,tools,23545,651,23545,94,20/02/2020,04/09/2023,141.56 MB,"Unified developer tools for JavaScript, TypeScript, and the web",Rust,https://github.com/rome/tools,141.56 MB
+70,Graphite,22908,994,22908,417,26/04/2020,05/12/2025,43.03 MB,"An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",Rust,https://github.com/GraphiteEditor/Graphite,43.03 MB
+71,tree-sitter,22902,2248,22902,115,06/11/2013,03/12/2025,20.23 MB,An incremental parsing system for programming tools,Rust,https://github.com/tree-sitter/tree-sitter,20.23 MB
+72,fnm,22898,593,22898,352,16/01/2019,05/12/2025,4.18 MB,"🚀 Fast and simple Node.js version manager, built in Rust",Rust,https://github.com/Schniz/fnm,4.18 MB
+73,jj,22775,829,22775,927,18/12/2020,05/12/2025,61.93 MB,A Git-compatible VCS that is both simple and powerful,Rust,https://github.com/jj-vcs/jj,61.93 MB
+74,wezterm,22751,1068,22751,1490,07/02/2018,01/12/2025,302.42 MB,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,Rust,https://github.com/wezterm/wezterm,302.42 MB
+75,goose,22696,2070,22696,186,23/08/2024,05/12/2025,2.12 GB,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",Rust,https://github.com/block/goose,2.12 GB
+76,biome,22550,780,22550,467,27/07/2023,05/12/2025,226.67 MB,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",Rust,https://github.com/biomejs/biome,226.67 MB
+77,coreutils,22252,1659,22252,605,02/08/2013,05/12/2025,32.39 MB,Cross-platform Rust rewrite of the GNU coreutils,Rust,https://github.com/uutils/coreutils,32.39 MB
+78,mise,21913,757,21913,39,09/01/2023,05/12/2025,32.52 MB,"dev tools, env vars, task runner",Rust,https://github.com/jdx/mise,32.52 MB
+79,flow,21179,841,21179,0,04/03/2016,04/12/2025,381.00 KB,"Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.",Rust,https://github.com/nikivdev/flow,381.00 KB
+80,slint,21155,788,21155,828,04/05/2020,05/12/2025,58.06 MB,"Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",Rust,https://github.com/slint-ui/slint,58.06 MB
+81,sonic,21060,609,21060,73,26/02/2019,06/01/2025,2.54 MB,"🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",Rust,https://github.com/valeriansaliou/sonic,2.54 MB
+82,gitui,20989,674,20989,257,16/03/2020,03/12/2025,64.05 MB,Blazing 💥 fast terminal-ui for git written in rust 🦀,Rust,https://github.com/gitui-org/gitui,64.05 MB
+83,RustPython,20874,1365,20874,447,28/05/2018,04/12/2025,73.94 MB,A Python Interpreter written in Rust,Rust,https://github.com/RustPython/RustPython,73.94 MB
+84,vector,20860,1932,20860,2185,27/08/2018,04/12/2025,127.11 MB,A high-performance observability data pipeline.,Rust,https://github.com/vectordotdev/vector,127.11 MB
+85,mdBook,20748,1794,20748,647,07/07/2015,02/12/2025,7.06 MB,Create book from markdown files. Like Gitbook but implemented in Rust,Rust,https://github.com/rust-lang/mdBook,7.06 MB
+86,gleam,20703,892,20703,193,30/06/2016,05/12/2025,23.09 MB,"⭐️ A friendly language for building type-safe, scalable systems!",Rust,https://github.com/gleam-lang/gleam,23.09 MB
+87,neon,20357,840,20357,507,26/03/2021,03/10/2025,81.78 MB,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",Rust,https://github.com/neondatabase/neon,81.78 MB
+88,wasmer,20228,920,20228,206,11/10/2018,05/12/2025,1.41 GB,"🚀 Fast, secure, lightweight containers based on WebAssembly",Rust,https://github.com/wasmerio/wasmer,1.41 GB
+89,xi-editor,19840,706,19840,154,26/04/2016,19/03/2024,9.48 MB,A modern editor with a backend written in Rust.,Rust,https://github.com/xi-editor/xi-editor,9.48 MB
+90,leptos,19532,814,19532,129,31/07/2022,01/12/2025,16.37 MB,Build fast web applications with Rust.,Rust,https://github.com/leptos-rs/leptos,16.37 MB
+91,cube,19146,1925,19146,856,16/09/2018,05/12/2025,400.71 MB,"📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics",Rust,https://github.com/cube-js/cube,400.71 MB
+92,Bend,19104,464,19104,101,29/08/2023,03/06/2025,72.95 MB,"A massively parallel, high-level programming language",Rust,https://github.com/HigherOrderCO/Bend,72.95 MB
+93,relay,18900,1877,18900,780,10/08/2015,05/12/2025,6.63 GB,Relay is a JavaScript framework for building data-driven React applications.,Rust,https://github.com/facebook/relay,6.63 GB
+94,spotify-tui,18804,570,18804,309,16/08/2019,04/04/2024,2.35 MB,Spotify for the terminal written in Rust 🚀,Rust,https://github.com/Rigellute/spotify-tui,2.35 MB
+95,candle,18733,1322,18733,545,19/06/2023,04/12/2025,13.84 MB,Minimalist ML framework for Rust,Rust,https://github.com/huggingface/candle,13.84 MB
+96,eza,18706,360,18706,318,28/07/2023,29/11/2025,8.16 MB,A modern alternative to ls,Rust,https://github.com/eza-community/eza,8.16 MB
+97,SpacetimeDB,18694,649,18694,681,17/06/2023,05/12/2025,56.88 MB,Multiplayer at the speed of light,Rust,https://github.com/clockworklabs/SpacetimeDB,56.88 MB
+98,RustScan,18635,1242,18635,39,11/07/2020,03/12/2025,14.32 MB,🤖 The Modern Port Scanner 🤖,Rust,https://github.com/bee-san/RustScan,14.32 MB
+99,universal-android-debloater,18347,960,18347,591,07/10/2021,02/08/2024,9.08 MB,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",Rust,https://github.com/0x192/universal-android-debloater,9.08 MB
+100,hurl,18221,698,18221,205,25/08/2020,05/12/2025,475.94 MB,"Hurl, run and test HTTP requests with plain text.",Rust,https://github.com/Orange-OpenSource/hurl,475.94 MB
+101,oxc,17661,735,17661,418,09/02/2023,05/12/2025,494.75 MB,⚓ A collection of JavaScript tools written in Rust.,Rust,https://github.com/oxc-project/oxc,494.75 MB
+102,ruffle,17455,938,17455,5573,25/04/2019,05/12/2025,166.49 MB,A Flash Player emulator written in Rust,Rust,https://github.com/ruffle-rs/ruffle,166.49 MB
+103,openobserve,17430,706,17430,693,02/02/2023,05/12/2025,97.17 MB,"Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.",Rust,https://github.com/openobserve/openobserve,97.17 MB
+104,wasmtime,17261,1574,17261,821,29/08/2017,05/12/2025,131.71 MB,"A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",Rust,https://github.com/bytecodealliance/wasmtime,131.71 MB
+105,gitbutler,17144,723,17144,648,31/01/2023,05/12/2025,150.62 MB,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",Rust,https://github.com/gitbutlerapp/gitbutler,150.62 MB
+106,book,17002,3867,17002,304,11/12/2015,18/11/2025,71.25 MB,The Rust Programming Language,Rust,https://github.com/rust-lang/book,71.25 MB
+107,pyxel,16809,911,16809,16,10/06/2018,15/11/2025,281.46 MB,A retro game engine for Python,Rust,https://github.com/kitao/pyxel,281.46 MB
+108,diem,16703,2576,16703,360,02/04/2019,04/12/2025,121.68 MB,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.,Rust,https://github.com/diem/diem,121.68 MB
+109,nautilus_trader,16551,1945,16551,68,25/06/2018,05/12/2025,160.17 MB,A high-performance algorithmic trading platform and event-driven backtester,Rust,https://github.com/nautechsystems/nautilus_trader,160.17 MB
+110,ratatui,16494,523,16494,183,12/02/2023,04/12/2025,133.90 MB,A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs,Rust,https://github.com/ratatui/ratatui,133.90 MB
+111,navi,16459,531,16459,97,20/09/2019,14/10/2025,1.44 MB,An interactive cheatsheet tool for the command-line,Rust,https://github.com/denisidoro/navi,1.44 MB
+112,asciinema,16452,985,16452,8,21/11/2011,22/11/2025,3.70 MB,"Terminal session recorder, streamer and player 📹",Rust,https://github.com/asciinema/asciinema,3.70 MB
+113,tikv,16336,2229,16336,1646,31/12/2015,05/12/2025,125.90 MB,"Distributed transactional key-value database, originally created to complement TiDB",Rust,https://github.com/tikv/tikv,125.90 MB
+114,zola,16215,1099,16215,371,06/12/2016,04/12/2025,100.35 MB,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,Rust,https://github.com/getzola/zola,100.35 MB
+115,sqlx,16078,1519,16078,720,28/12/2019,02/12/2025,9.37 MB,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",Rust,https://github.com/launchbadge/sqlx,9.37 MB
+116,niri,15889,570,15889,409,10/08/2023,02/12/2025,9.62 MB,A scrollable-tiling Wayland compositor.,Rust,https://github.com/YaLTeR/niri,9.62 MB
+117,redox,15793,957,15793,183,20/04/2015,05/12/2025,15.91 MB,Mirror of https://gitlab.redox-os.org/redox-os/redox,Rust,https://github.com/redox-os/redox,15.91 MB
+118,clap,15792,1133,15792,384,25/02/2015,01/12/2025,19.96 MB,"A full featured, fast Command Line Argument Parser for Rust",Rust,https://github.com/clap-rs/clap,19.96 MB
+119,rust-analyzer,15759,1881,15759,2021,21/12/2017,05/12/2025,99.35 MB,A Rust compiler front-end for IDEs,Rust,https://github.com/rust-lang/rust-analyzer,99.35 MB
+120,wgpu,15740,1163,15740,1046,13/09/2018,05/12/2025,73.11 MB,"A cross-platform, safe, pure-Rust graphics API.",Rust,https://github.com/gfx-rs/wgpu,73.11 MB
+121,hyper,15734,1692,15734,241,30/08/2014,01/12/2025,13.73 MB,An HTTP library for Rust,Rust,https://github.com/hyperium/hyper,13.73 MB
+122,carbonyl,15682,322,15682,78,20/01/2023,01/07/2024,283.00 KB,Chromium running inside your terminal,Rust,https://github.com/fathyb/carbonyl,283.00 KB
+123,lsd,15158,472,15158,178,24/11/2018,24/10/2025,1.69 MB,The next gen ls command,Rust,https://github.com/lsd-rs/lsd,1.69 MB
+124,pyo3,14948,904,14948,328,13/05/2017,05/12/2025,50.39 MB,Rust bindings for the Python interpreter,Rust,https://github.com/PyO3/pyo3,50.39 MB
+125,Seelen-UI,14946,454,14946,168,16/02/2024,01/12/2025,57.98 MB,The Fully Customizable Desktop Environment for Windows 10/11.,Rust,https://github.com/eythaann/Seelen-UI,57.98 MB
+126,turso,14911,615,14911,391,26/08/2023,05/12/2025,41.02 MB,"Turso is an in-process SQL database, compatible with SQLite.",Rust,https://github.com/tursodatabase/turso,41.02 MB
+127,solana,14682,5403,14682,265,14/02/2018,22/01/2025,438.26 MB,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",Rust,https://github.com/solana-labs/solana,438.26 MB
+128,py-spy,14655,488,14655,219,01/08/2018,04/12/2025,3.04 MB,Sampling profiler for Python programs,Rust,https://github.com/benfred/py-spy,3.04 MB
+129,neovide,14614,576,14614,269,06/12/2019,05/12/2025,84.37 MB,No Nonsense Neovim Client in Rust,Rust,https://github.com/neovide/neovide,84.37 MB
+130,monolith,14543,438,14543,67,20/02/2017,29/08/2025,4.23 MB,⬛️ CLI tool and library for saving complete web pages as a single HTML file,Rust,https://github.com/Y2Z/monolith,4.23 MB
+131,rust-raspberrypi-OS-tutorials,14485,855,14485,21,31/03/2018,10/02/2024,20.74 MB,:books: Learn to write an embedded OS in Rust :crab:,Rust,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials,20.74 MB
+132,rye,14319,468,14319,336,22/04/2023,04/12/2025,3.45 MB,a Hassle-Free Python Experience,Rust,https://github.com/astral-sh/rye,3.45 MB
+133,cargo,14292,2741,14292,1565,04/03/2014,05/12/2025,62.49 MB,The Rust package manager,Rust,https://github.com/rust-lang/cargo,62.49 MB
+134,static-analysis,14237,1406,14237,1,18/12/2015,17/10/2025,41.04 MB,"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",Rust,https://github.com/analysis-tools-dev/static-analysis,41.04 MB
+135,lemmy,14143,937,14143,120,14/02/2019,05/12/2025,36.47 MB,🐀 A link aggregator and forum for the fediverse,Rust,https://github.com/LemmyNet/lemmy,36.47 MB
+136,tantivy,14105,824,14105,388,11/01/2016,05/12/2025,62.32 MB,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,Rust,https://github.com/quickwit-oss/tantivy,62.32 MB
+137,diesel,13813,1166,13813,156,29/08/2015,05/12/2025,113.93 MB,"A safe, extensible ORM and Query Builder for Rust",Rust,https://github.com/diesel-rs/diesel,113.93 MB
+138,rustfs,13708,617,13708,46,23/11/2023,05/12/2025,10.89 MB,"🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",Rust,https://github.com/rustfs/rustfs,10.89 MB
+139,burn,13577,744,13577,280,18/07/2022,04/12/2025,67.52 MB,"Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",Rust,https://github.com/tracel-ai/burn,67.52 MB
+140,ZLUDA,13543,861,13543,144,05/01/2020,05/12/2025,9.22 MB,CUDA on non-NVIDIA GPUs,Rust,https://github.com/vosen/ZLUDA,9.22 MB
+141,tokei,13529,626,13529,216,26/05/2015,03/12/2025,2.93 MB,"Count your code, quickly.",Rust,https://github.com/XAMPPRocky/tokei,2.93 MB
+142,rust-by-practice,13446,1098,13446,61,18/04/2018,26/11/2025,2.79 MB,"Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",Rust,https://github.com/sunface/rust-by-practice,2.79 MB
+143,komorebi,13437,289,13437,85,29/07/2021,01/12/2025,9.69 MB,A tiling window manager for Windows 🍉,Rust,https://github.com/LGUG2Z/komorebi,9.69 MB
+144,binwalk,13324,1729,13324,61,15/11/2013,28/08/2025,51.85 MB,Firmware Analysis Tool,Rust,https://github.com/ReFirmLabs/binwalk,51.85 MB
+145,edit,12940,589,12940,129,21/03/2025,01/12/2025,1.88 MB,We all edit.,Rust,https://github.com/microsoft/edit,1.88 MB
+146,rust-clippy,12699,1832,12699,2570,19/11/2014,03/12/2025,73.39 MB,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,Rust,https://github.com/rust-lang/rust-clippy,73.39 MB
+147,volta,12658,319,12658,331,25/09/2017,15/11/2025,65.93 MB,Volta: JS Toolchains as Code. ⚡,Rust,https://github.com/volta-cli/volta,65.93 MB
+148,espanso,12572,363,12572,457,30/08/2019,02/12/2025,101.26 MB,"A Privacy-first, Cross-platform Text Expander written in Rust",Rust,https://github.com/espanso/espanso,101.26 MB
+149,rolldown,12457,674,12457,215,18/09/2023,05/12/2025,42.82 MB,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.,Rust,https://github.com/rolldown/rolldown,42.82 MB
+150,clash-nyanpasu,12451,771,12451,93,10/11/2023,05/12/2025,32.92 MB,Clash Nyanpasu～(∠・ω< )⌒☆​,Rust,https://github.com/libnyanpasu/clash-nyanpasu,32.92 MB
+151,rayon,12428,565,12428,213,02/10/2014,28/10/2025,3.55 MB,Rayon: A data parallelism library for Rust,Rust,https://github.com/rayon-rs/rayon,3.55 MB
+152,rathole,12419,666,12419,108,14/12/2021,29/07/2025,657.00 KB,"A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",Rust,https://github.com/rathole-org/rathole,657.00 KB
+153,bottom,12389,316,12389,116,28/08/2019,01/12/2025,77.96 MB,Yet another cross-platform graphical process/system monitor.,Rust,https://github.com/ClementTsang/bottom,77.96 MB
+154,rspack,12277,737,12277,188,01/04/2022,05/12/2025,78.32 MB,The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️,Rust,https://github.com/web-infra-dev/rspack,78.32 MB
+155,gping,12172,347,12172,44,17/10/2015,24/11/2025,5.49 MB,"Ping, but with a graph",Rust,https://github.com/orf/gping,5.49 MB
+156,broot,12155,273,12155,243,15/11/2018,04/12/2025,19.35 MB,A new way to see and navigate directory trees : https://dystroy.org/broot,Rust,https://github.com/Canop/broot,19.35 MB
+157,eww,11803,499,11803,360,19/09/2020,30/06/2025,4.20 MB,ElKowars wacky widgets,Rust,https://github.com/elkowar/eww,4.20 MB
+158,windows-rs,11739,586,11739,33,12/09/2019,02/12/2025,1.11 GB,Rust for Windows,Rust,https://github.com/microsoft/windows-rs,1.11 GB
+159,genact,11727,481,11727,10,09/02/2011,01/12/2025,9.70 MB,🌀 A nonsense activity generator,Rust,https://github.com/svenstaro/genact,9.70 MB
+160,tonic,11585,1157,11585,300,09/08/2019,29/11/2025,80.95 MB,A native gRPC client & server implementation with async/await support.,Rust,https://github.com/hyperium/tonic,80.95 MB
+161,ast-grep,11540,289,11540,38,01/07/2022,04/12/2025,8.20 MB,"⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",Rust,https://github.com/ast-grep/ast-grep,8.20 MB
+162,onefetch,11371,301,11371,51,14/09/2018,01/12/2025,28.71 MB,Command-line Git information tool,Rust,https://github.com/o2sh/onefetch,28.71 MB
+163,bandwhich,11353,332,11353,37,06/09/2019,03/11/2025,5.42 MB,Terminal bandwidth utilization tool,Rust,https://github.com/imsnif/bandwhich,5.42 MB
+164,reqwest,11187,1304,11187,448,01/07/2016,04/12/2025,2.34 MB,An easy and powerful Rust HTTP Client,Rust,https://github.com/seanmonstar/reqwest,2.34 MB
+165,git-cliff,11025,255,11025,111,30/05/2021,02/12/2025,18.43 MB,A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ,Rust,https://github.com/orhun/git-cliff,18.43 MB
+166,quiche,10997,902,10997,286,29/09/2018,05/12/2025,24.25 MB,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,Rust,https://github.com/cloudflare/quiche,24.25 MB
+167,dust,10912,247,10912,11,16/03/2018,24/11/2025,791.00 KB,A more intuitive version of du in rust,Rust,https://github.com/bootandy/dust,791.00 KB
+168,tui-rs,10883,481,10883,0,08/11/2016,06/08/2023,3.78 MB,Build terminal user interfaces and dashboards using Rust,Rust,https://github.com/fdehau/tui-rs,3.78 MB
+169,xsv,10747,328,10747,165,02/09/2014,24/04/2025,560.00 KB,A fast CSV command line toolkit written in Rust.,Rust,https://github.com/BurntSushi/xsv,560.00 KB
+170,talent-plan,10734,1364,10734,127,22/01/2019,18/09/2023,4.01 MB,open source training courses about distributed database and distributed systems,Rust,https://github.com/pingcap/talent-plan,4.01 MB
+171,glazewm,10701,312,10701,330,28/06/2020,30/11/2025,10.44 MB,GlazeWM is a tiling window manager for Windows inspired by i3wm.,Rust,https://github.com/glzr-io/glazewm,10.44 MB
+172,tensorzero,10637,737,10637,414,16/07/2024,05/12/2025,118.13 MB,"TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",Rust,https://github.com/tensorzero/tensorzero,118.13 MB
+173,rnote,10619,413,10619,404,05/08/2021,26/11/2025,262.38 MB,Sketch and take handwritten notes.,Rust,https://github.com/flxzt/rnote,262.38 MB
+174,quickwit,10605,495,10605,719,13/04/2021,05/12/2025,55.52 MB,"Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",Rust,https://github.com/quickwit-oss/quickwit,55.52 MB
+175,gitoxide,10591,403,10591,160,07/06/2018,04/12/2025,81.89 MB,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Rust,https://github.com/GitoxideLabs/gitoxide,81.89 MB
+176,stalwart,10568,556,10568,243,06/03/2023,04/12/2025,28.33 MB,"All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",Rust,https://github.com/stalwartlabs/stalwart,28.33 MB
+177,prql,10541,244,10541,252,18/01/2022,05/12/2025,23.32 MB,"PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement",Rust,https://github.com/PRQL/prql,23.32 MB
+178,bore,10485,453,10485,12,04/04/2022,09/06/2025,66.00 KB,🕳 bore is a simple CLI tool for making tunnels to localhost,Rust,https://github.com/ekzhang/bore,66.00 KB
+179,spotifyd,10459,488,10459,44,10/12/2014,19/11/2025,3.23 MB,A spotify daemon,Rust,https://github.com/Spotifyd/spotifyd,3.23 MB
+180,tokenizers,10280,1002,10280,119,01/11/2019,02/12/2025,14.10 MB,💥 Fast State-of-the-Art Tokenizers optimized for Research and Production,Rust,https://github.com/huggingface/tokenizers,14.10 MB
+181,nom,10214,836,10214,284,23/11/2014,26/08/2025,10.55 MB,Rust parser combinator framework,Rust,https://github.com/rust-bakery/nom,10.55 MB
+182,serde,10206,871,10206,353,13/11/2013,20/11/2025,8.55 MB,Serialization framework for Rust,Rust,https://github.com/serde-rs/serde,8.55 MB
+183,warp,10159,746,10159,231,11/07/2018,25/11/2025,983.00 KB,"A super-easy, composable, web server framework for warp speeds.",Rust,https://github.com/seanmonstar/warp,983.00 KB
+184,shadowsocks-rust,10065,1360,10065,58,15/10/2014,05/12/2025,8.56 MB,A Rust port of shadowsocks,Rust,https://github.com/shadowsocks/shadowsocks-rust,8.56 MB
+185,hexyl,9894,253,9894,21,05/11/2018,19/10/2025,598.00 KB,A command-line hex viewer,Rust,https://github.com/sharkdp/hexyl,598.00 KB
+186,foundry,9872,2282,9872,519,08/09/2021,05/12/2025,48.71 MB,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",Rust,https://github.com/foundry-rs/foundry,48.71 MB
+187,aliyundrive-webdav,9804,1103,9804,25,18/08/2021,10/06/2025,3.77 MB,阿里云盘 WebDAV 服务,Rust,https://github.com/messense/aliyundrive-webdav,3.77 MB
+188,oha,9762,280,9762,48,02/03/2020,29/11/2025,11.07 MB,"Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",Rust,https://github.com/hatoo/oha,11.07 MB
+189,druid,9702,569,9702,303,01/11/2018,25/10/2024,9.41 MB,A data-first Rust-native UI design toolkit. ,Rust,https://github.com/linebender/druid,9.41 MB
+190,rerun,9694,587,9694,1359,08/04/2022,05/12/2025,220.06 MB,"An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",Rust,https://github.com/rerun-io/rerun,220.06 MB
+191,pkgx,9597,1378,9597,45,20/11/2021,24/11/2025,1.79 MB,Run Anything,Rust,https://github.com/pkgxdev/pkgx,1.79 MB
+192,min-sized-rust,9532,237,9532,12,09/12/2018,03/10/2025,99.00 KB,🦀 How to minimize Rust binary size 📦,Rust,https://github.com/johnthagen/min-sized-rust,99.00 KB
+193,bloop,9488,593,9488,43,10/12/2022,04/12/2024,77.79 MB,bloop is a fast code search engine written in Rust.,Rust,https://github.com/BloopAI/bloop,77.79 MB
+194,bottlerocket,9462,563,9462,171,03/04/2019,17/11/2025,16.31 MB,An operating system designed for hosting containers,Rust,https://github.com/bottlerocket-os/bottlerocket,16.31 MB
+195,dufs,9279,466,9279,3,26/05/2022,04/09/2025,853.00 KB,"A file server that supports static serving, uploading, searching, accessing control, webdav...",Rust,https://github.com/sigoden/dufs,853.00 KB
+196,ripgrep-all,9263,203,9263,63,04/06/2019,09/11/2025,9.54 MB,"rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",Rust,https://github.com/phiresky/ripgrep-all,9.54 MB
+197,psst,9255,250,9255,138,27/05/2020,05/12/2025,5.68 MB,Fast and multi-platform Spotify client with native GUI,Rust,https://github.com/jpochyla/psst,5.68 MB
+198,sea-orm,9083,637,9083,201,09/02/2021,04/12/2025,19.36 MB,🐚 An async & dynamic ORM for Rust,Rust,https://github.com/SeaQL/sea-orm,19.36 MB
+199,actix,9076,666,9076,36,18/09/2017,01/12/2025,16.90 MB,Actor framework for Rust.,Rust,https://github.com/actix/actix,16.90 MB
+200,databend,9004,836,9004,563,10/10/2020,05/12/2025,322.45 MB,"𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Blazing analytics, fast search, geo insights, vector AI. Built for multimodal analytics, Open-source Snowflake alternative. https://databend.com",Rust,https://github.com/databendlabs/databend,322.45 MB
+201,rustdesk-server,9001,2088,9001,156,28/09/2020,22/11/2025,1.70 MB,RustDesk Server Program,Rust,https://github.com/rustdesk/rustdesk-server,1.70 MB
+202,gpui-component,9000,348,9000,44,13/06/2024,05/12/2025,6.88 MB,Rust GUI components for building fantastic cross-platform desktop application by using GPUI.,Rust,https://github.com/longbridge/gpui-component,6.88 MB
+203,sled,8808,409,8808,168,11/01/2016,04/11/2025,9.09 MB,the champagne of beta embedded databases,Rust,https://github.com/spacejam/sled,9.09 MB
+204,aichat,8759,572,8759,24,03/03/2023,01/12/2025,4.15 MB,"All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",Rust,https://github.com/sigoden/aichat,4.15 MB
+205,Fyrox,8745,407,8745,49,30/03/2019,04/12/2025,379.66 MB,3D and 2D game engine written in Rust,Rust,https://github.com/FyroxEngine/Fyrox,379.66 MB
+206,komodo,8722,227,8722,301,13/03/2022,05/12/2025,54.42 MB,🦎 a tool to build and deploy software on many servers 🦎,Rust,https://github.com/moghtech/komodo,54.42 MB
+207,harper,8714,234,8714,266,22/10/2023,04/12/2025,25.75 MB,"Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",Rust,https://github.com/Automattic/harper,25.75 MB
+208,wasm-bindgen,8695,1172,8695,541,18/12/2017,01/12/2025,33.62 MB,Facilitating high-level interactions between Wasm modules and JavaScript,Rust,https://github.com/wasm-bindgen/wasm-bindgen,33.62 MB
+209,llrt,8653,382,8653,51,20/09/2023,05/12/2025,5.72 MB,"LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",Rust,https://github.com/awslabs/llrt,5.72 MB
+210,Weylus,8576,336,8576,132,01/05/2020,21/10/2025,5.91 MB,Use your tablet as graphic tablet/touch screen on your computer.,Rust,https://github.com/H-M-H/Weylus,5.91 MB
+211,risingwave,8568,712,8568,1339,28/01/2022,05/12/2025,189.58 MB,"Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.",Rust,https://github.com/risingwavelabs/risingwave,189.58 MB
+212,meeting-minutes,8565,694,8565,102,26/12/2024,05/12/2025,27.20 MB," Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.",Rust,https://github.com/Zackriya-Solutions/meeting-minutes,27.20 MB
+213,100-exercises-to-learn-rust,8558,1823,8558,37,12/05/2024,30/10/2025,1.61 MB,"A self-paced course to learn Rust, one exercise at a time.",Rust,https://github.com/mainmatter/100-exercises-to-learn-rust,1.61 MB
+214,xray,8449,234,8449,22,07/12/2017,22/07/2019,3.63 MB,An experimental next-generation Electron-based text editor,Rust,https://github.com/atom-archive/xray,3.63 MB
+215,EasyTier,8431,778,8431,299,29/09/2023,05/12/2025,20.51 MB,"A simple, decentralized mesh VPN with WireGuard support.",Rust,https://github.com/EasyTier/EasyTier,20.51 MB
+216,substrate,8426,2669,8426,627,07/11/2017,25/09/2023,265.62 MB,Substrate: The platform for blockchain innovators,Rust,https://github.com/paritytech/substrate,265.62 MB
+217,convex-backend,8425,481,8425,100,08/03/2024,05/12/2025,109.06 MB,The open-source reactive database for app developers,Rust,https://github.com/get-convex/convex-backend,109.06 MB
+218,neon,8371,288,8371,116,19/09/2015,03/12/2025,10.56 MB,Rust bindings for writing safe and fast native Node.js modules.,Rust,https://github.com/neon-bindings/neon,10.56 MB
+219,loco,8354,384,8354,51,07/11/2023,21/11/2025,15.26 MB,🚂 🦀 The one-person framework for Rust for side-projects and startups,Rust,https://github.com/loco-rs/loco,15.26 MB
+220,ccf-deadlines,8315,546,8315,14,01/02/2021,05/12/2025,10.80 MB,"⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~",Rust,https://github.com/ccfddl/ccf-deadlines,10.80 MB
+221,crossbeam,8190,516,8190,164,13/05/2015,07/06/2025,3.96 MB,Tools for concurrent programming in Rust,Rust,https://github.com/crossbeam-rs/crossbeam,3.96 MB
+222,websocat,8189,311,8189,153,23/11/2016,24/10/2025,2.50 MB,"Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",Rust,https://github.com/vi/websocat,2.50 MB
+223,rust-blog,8189,423,8189,2,02/05/2020,17/02/2025,5.33 MB,Educational blog posts for Rust beginners,Rust,https://github.com/pretzelhammer/rust-blog,5.33 MB
+224,lancedb,8144,662,8144,512,28/02/2023,05/12/2025,22.69 MB,Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.,Rust,https://github.com/lancedb/lancedb,22.69 MB
+225,datafusion,8110,1796,8110,1660,17/04/2021,05/12/2025,170.94 MB,Apache DataFusion SQL Query Engine,Rust,https://github.com/apache/datafusion,170.94 MB
+226,citybound,8065,346,8065,153,04/06/2016,07/01/2023,6.04 MB,"A work-in-progress, open-source, multi-player city simulation game.",Rust,https://github.com/citybound/citybound,6.04 MB
+227,abstreet,8062,372,8062,229,04/06/2018,10/09/2025,417.52 MB,"Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit",Rust,https://github.com/a-b-street/abstreet,417.52 MB
+228,arnis,8038,725,8038,69,10/09/2022,05/12/2025,90.13 MB,Generate any location from the real world in Minecraft Java Edition with a high level of detail.,Rust,https://github.com/louis-e/arnis,90.13 MB
+229,amethyst,8027,738,8027,0,21/12/2015,06/12/2021,57.91 MB,Data-oriented and data-driven game engine written in Rust,Rust,https://github.com/amethyst/amethyst,57.91 MB
+230,gyroflow,8011,369,8011,46,11/11/2021,04/12/2025,85.80 MB,Video stabilization using gyroscope data,Rust,https://github.com/gyroflow/gyroflow,85.80 MB
+231,paradedb,7989,299,7989,111,30/06/2023,05/12/2025,37.14 MB,The transactional Elasticsearch alternative built on Postgres,Rust,https://github.com/paradedb/paradedb,37.14 MB
+232,grex,7919,182,7919,12,05/10/2019,01/12/2025,1.67 MB,A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases,Rust,https://github.com/pemistahl/grex,1.67 MB
+233,cross,7874,433,7874,241,25/12/2016,26/09/2025,3.34 MB,“Zero setup” cross compilation and “cross testing” of Rust crates,Rust,https://github.com/cross-rs/cross,3.34 MB
+234,embassy,7847,1262,7847,604,22/09/2020,05/12/2025,25.56 MB,"Modern embedded framework, using Rust and async.",Rust,https://github.com/embassy-rs/embassy,25.56 MB
+235,paru,7692,274,7692,149,05/08/2020,17/10/2025,10.56 MB,Feature packed AUR helper,Rust,https://github.com/Morganamilo/paru,10.56 MB
+236,rust-gpu,7582,248,7582,108,24/07/2020,31/10/2025,254.23 MB,🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧,Rust,https://github.com/EmbarkStudios/rust-gpu,254.23 MB
+237,sui,7500,11688,7500,854,09/11/2021,05/12/2025,439.78 MB," Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",Rust,https://github.com/MystenLabs/sui,439.78 MB
+238,iroh,7499,324,7499,126,14/03/2022,05/12/2025,204.39 MB,peer-2-peer that just works,Rust,https://github.com/n0-computer/iroh,204.39 MB
+239,mcfly,7494,183,7494,126,15/07/2018,12/09/2025,10.67 MB,Fly through your shell history. Great Scott!,Rust,https://github.com/cantino/mcfly,10.67 MB
+240,presenterm,7483,161,7483,33,27/08/2023,02/12/2025,7.87 MB,A markdown terminal slideshow tool,Rust,https://github.com/mfontanini/presenterm,7.87 MB
+241,htmlq,7455,129,7455,45,07/05/2019,29/05/2024,59.00 KB,"Like jq, but for HTML.",Rust,https://github.com/mgdm/htmlq,59.00 KB
+242,idiomatic-rust,7428,234,7428,0,03/05/2017,07/11/2025,4.22 MB,"🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.",Rust,https://github.com/mre/idiomatic-rust,4.22 MB
+243,xh,7351,116,7351,33,10/09/2020,25/11/2025,2.67 MB,Friendly and fast tool for sending HTTP requests,Rust,https://github.com/ducaale/xh,2.67 MB
+244,lightningcss,7323,230,7323,323,09/10/2021,30/09/2025,9.83 MB,"An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",Rust,https://github.com/parcel-bundler/lightningcss,9.83 MB
+245,napi-rs,7303,347,7303,239,28/04/2018,04/12/2025,52.08 MB,A framework for building compiled Node.js add-ons in Rust via Node-API,Rust,https://github.com/napi-rs/napi-rs,52.08 MB
+246,feroxbuster,7269,576,7269,38,22/08/2020,29/11/2025,22.93 MB,"A fast, simple, recursive content discovery tool written in Rust.",Rust,https://github.com/epi052/feroxbuster,22.93 MB
+247,ffsend,7256,202,7256,32,05/03/2018,20/11/2025,13.74 MB,:mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.,Rust,https://github.com/timvisee/ffsend,13.74 MB
+248,miniserve,7210,353,7210,95,26/04/2018,01/12/2025,3.97 MB,🌟 For when you really just want to serve some files over HTTP right now!,Rust,https://github.com/svenstaro/miniserve,3.97 MB
+249,sshx,7158,252,7158,18,12/02/2022,19/06/2025,1012.00 KB,"Fast, collaborative live terminal sharing over the web",Rust,https://github.com/ekzhang/sshx,1012.00 KB
+250,polkadot,7144,1563,7144,223,09/08/2018,15/11/2023,189.18 MB,Polkadot Node Implementation,Rust,https://github.com/paritytech/polkadot,189.18 MB
+251,toydb,7129,620,7129,0,28/04/2019,25/09/2025,4.78 MB,"Distributed SQL database in Rust, written as an educational project",Rust,https://github.com/erikgrinaker/toydb,4.78 MB
+252,youki,7107,395,7107,121,27/03/2021,03/12/2025,24.29 MB,A container runtime written in Rust,Rust,https://github.com/youki-dev/youki,24.29 MB
+253,rustls,7097,766,7097,97,02/05/2016,04/12/2025,16.29 MB,A modern TLS library in Rust,Rust,https://github.com/rustls/rustls,16.29 MB
+254,kata-containers,7091,1210,7091,1686,07/12/2017,05/12/2025,84.53 MB,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",Rust,https://github.com/kata-containers/kata-containers,84.53 MB
+255,ALVR,7046,590,7046,180,16/07/2019,03/12/2025,43.03 MB,Stream VR games from your PC to your headset via Wi-Fi,Rust,https://github.com/alvr-org/ALVR,43.03 MB
+256,wasm-pack,6971,464,6971,384,12/02/2018,30/11/2025,3.61 MB,📦✨ your favorite rust -> wasm workflow tool!,Rust,https://github.com/drager/wasm-pack,3.61 MB
+257,veloren,6963,472,6963,4,29/05/2018,05/12/2025,1.13 GB,"[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",Rust,https://github.com/veloren/veloren,1.13 GB
+258,baml,6941,336,6941,209,06/10/2023,05/12/2025,278.93 MB,The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible),Rust,https://github.com/BoundaryML/baml,278.93 MB
+259,tailspin,6906,118,6906,5,03/07/2022,24/11/2025,11.69 MB,🌀 A log file highlighter,Rust,https://github.com/bensadeh/tailspin,11.69 MB
+260,parity-ethereum,6853,1711,6853,161,23/11/2015,01/11/2020,78.32 MB,"The fast, light, and robust client for Ethereum-like networks.",Rust,https://github.com/openethereum/parity-ethereum,78.32 MB
+261,code2prompt,6820,380,6820,9,09/03/2024,02/12/2025,6.66 MB,"A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",Rust,https://github.com/mufeedvh/code2prompt,6.66 MB
+262,mio,6818,810,6818,19,20/08/2014,04/12/2025,3.28 MB,Metal I/O library for Rust.,Rust,https://github.com/tokio-rs/mio,3.28 MB
+263,sccache,6778,616,6778,416,26/04/2016,24/11/2025,6.35 MB,"Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.",Rust,https://github.com/mozilla/sccache,6.35 MB
+264,shuttle,6773,284,6773,67,19/02/2022,21/11/2025,70.38 MB,Build & ship backends without writing any infrastructure files.,Rust,https://github.com/shuttle-hq/shuttle,70.38 MB
+265,sd,6753,152,6753,70,23/12/2018,18/04/2025,424.00 KB,Intuitive find & replace CLI (sed alternative),Rust,https://github.com/chmln/sd,424.00 KB
+266,rustup,6692,992,6692,444,26/09/2015,05/12/2025,13.03 MB,The Rust toolchain installer,Rust,https://github.com/rust-lang/rustup,13.03 MB
+267,boa,6686,478,6686,160,08/08/2018,04/12/2025,57.87 MB,Boa is an embeddable Javascript engine written in Rust.,Rust,https://github.com/boa-dev/boa,57.87 MB
+268,boringtun,6667,473,6667,107,12/10/2018,24/11/2025,975.00 KB,Userspace WireGuard® Implementation in Rust,Rust,https://github.com/cloudflare/boringtun,975.00 KB
+269,rustfmt,6665,973,6665,898,07/03/2015,03/12/2025,14.84 MB,Format Rust code,Rust,https://github.com/rust-lang/rustfmt,14.84 MB
+270,sapling,6640,326,6640,280,05/05/2016,05/12/2025,425.01 MB,"A Scalable, User-Friendly Source Control System.",Rust,https://github.com/facebook/sapling,425.01 MB
+271,postgresml,6630,352,6630,152,11/04/2022,01/07/2025,435.43 MB,Postgres with GPUs for ML/AI apps.,Rust,https://github.com/postgresml/postgresml,435.43 MB
+272,dog,6565,203,6565,77,25/04/2020,29/05/2024,885.00 KB,A command-line DNS client.,Rust,https://github.com/ogham/dog,885.00 KB
+273,cxx,6560,392,6560,171,27/12/2019,03/12/2025,9.23 MB,Safe interop between Rust and C++,Rust,https://github.com/dtolnay/cxx,9.23 MB
+274,watchexec,6535,175,6535,60,18/09/2016,01/12/2025,3.42 MB,Executes commands in response to file modifications,Rust,https://github.com/watchexec/watchexec,3.42 MB
+275,mullvadvpn-app,6492,439,6492,117,19/12/2017,05/12/2025,237.77 MB,The Mullvad VPN client app for desktop and mobile,Rust,https://github.com/mullvad/mullvadvpn-app,237.77 MB
+276,nannou,6432,324,6432,279,01/09/2017,13/11/2025,32.65 MB,A Creative Coding Framework for Rust.,Rust,https://github.com/nannou-org/nannou,32.65 MB
+277,aptos-core,6401,3866,6401,601,23/02/2022,05/12/2025,421.08 MB,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,Rust,https://github.com/aptos-labs/aptos-core,421.08 MB
+278,tracing,6375,846,6375,776,11/01/2019,28/11/2025,9.14 MB,Application level tracing for Rust.,Rust,https://github.com/tokio-rs/tracing,9.14 MB
+279,librespot,6361,784,6361,82,15/11/2017,03/12/2025,5.39 MB,Open Source Spotify client library,Rust,https://github.com/librespot-org/librespot,5.39 MB
+280,trippy,6333,193,6333,79,28/03/2022,02/12/2025,25.55 MB,A network diagnostic tool ,Rust,https://github.com/fujiapple852/trippy,25.55 MB
+281,zero-to-production,6318,580,6318,22,23/08/2020,01/09/2024,1.15 MB,"Code for ""Zero To Production In Rust"", a book on API development using Rust.",Rust,https://github.com/LukeMathWalker/zero-to-production,1.15 MB
+282,anyhow,6311,173,6311,36,05/10/2019,20/11/2025,1.05 MB,Flexible concrete Error type built on std::error::Error,Rust,https://github.com/dtolnay/anyhow,1.05 MB
+283,kanata,6305,230,6305,109,18/04/2022,05/12/2025,5.22 MB,Improve keyboard comfort and usability with advanced customization,Rust,https://github.com/jtroo/kanata,5.22 MB
+284,ncspot,6289,255,6289,194,10/11/2018,01/12/2025,3.59 MB,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",Rust,https://github.com/hrkfdn/ncspot,3.59 MB
+285,superagent,6279,947,6279,4,10/05/2023,02/12/2025,88.46 MB,Superagent provides purpose-trained guardrails that make AI-agents secure and compliant.,Rust,https://github.com/superagent-ai/superagent,88.46 MB
+286,evcxr,6272,230,6272,119,25/09/2018,07/10/2025,1.55 MB,,Rust,https://github.com/evcxr/evcxr,1.55 MB
+287,mistral.rs,6254,488,6254,246,26/02/2024,05/12/2025,163.22 MB,Blazingly fast LLM inference.,Rust,https://github.com/EricLBuehler/mistral.rs,163.22 MB
+288,vibe-kanban,6186,628,6186,102,14/06/2025,05/12/2025,45.45 MB,Kanban board to manage your AI coding agents,Rust,https://github.com/BloopAI/vibe-kanban,45.45 MB
+289,materialize,6182,485,6182,449,22/02/2019,05/12/2025,290.27 MB,"The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL",Rust,https://github.com/MaterializeInc/materialize,290.27 MB
+290,spin,6175,291,6175,290,02/11/2021,25/11/2025,31.92 MB,Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.,Rust,https://github.com/spinframework/spin,31.92 MB
+291,warpgate,6175,219,6175,157,05/02/2022,03/12/2025,4.66 MB,"Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",Rust,https://github.com/warp-tech/warpgate,4.66 MB
+292,llm,6138,371,6138,81,13/03/2023,24/06/2024,6.49 MB,"[Unmaintained, see README] An ecosystem of Rust libraries for working with large language models",Rust,https://github.com/rustformers/llm,6.49 MB
+293,wstunnel,6132,490,6132,22,14/05/2016,26/11/2025,21.77 MB,Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available ,Rust,https://github.com/erebe/wstunnel,21.77 MB
+294,skim,6129,223,6129,123,29/05/2016,16/11/2025,2.56 MB,Fuzzy Finder in rust!,Rust,https://github.com/skim-rs/skim,2.56 MB
+295,iron,6117,396,6117,57,10/06/2014,14/06/2024,1.02 MB,"An Extensible, Concurrent Web Framework for Rust",Rust,https://github.com/iron/iron,1.02 MB
+296,tock,6089,787,6089,161,28/05/2015,04/12/2025,175.91 MB,A secure embedded operating system for microcontrollers,Rust,https://github.com/tock/tock,175.91 MB
+297,pastel,6072,122,6072,26,02/06/2019,01/12/2025,9.41 MB,"A command-line tool to generate, analyze, convert and manipulate colors",Rust,https://github.com/sharkdp/pastel,9.41 MB
+298,rio,6072,233,6072,289,05/10/2022,30/11/2025,310.60 MB,A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.,Rust,https://github.com/raphamorim/rio,310.60 MB
+299,azul,6064,223,6064,42,16/01/2018,30/11/2025,36.88 MB,Desktop GUI Framework,Rust,https://github.com/fschutt/azul,36.88 MB
+300,PyOxidizer,6023,253,6023,361,18/12/2018,24/12/2024,12.17 MB,A modern Python application packaging and distribution tool,Rust,https://github.com/indygreg/PyOxidizer,12.17 MB
+301,devenv,6018,441,6018,328,22/10/2022,05/12/2025,12.38 MB,"Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",Rust,https://github.com/cachix/devenv,12.38 MB
+302,makepad,5965,296,5965,113,20/02/2019,05/12/2025,136.64 MB,"Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",Rust,https://github.com/makepad/makepad,136.64 MB
+303,Pumpkin,5961,343,5961,128,28/07/2024,04/12/2025,58.11 MB,Empowering everyone to host fast and efficient Minecraft servers.,Rust,https://github.com/Pumpkin-MC/Pumpkin,58.11 MB
+304,pueue,5921,139,5921,9,04/09/2015,05/09/2025,3.52 MB,:stars: Manage your shell commands.,Rust,https://github.com/Nukesor/pueue,3.52 MB
+305,juniper,5915,438,5915,103,11/09/2016,04/12/2025,14.75 MB,GraphQL server library for Rust,Rust,https://github.com/graphql-rust/juniper,14.75 MB
+306,spotify-player,5912,292,5912,124,08/07/2021,12/11/2025,3.04 MB,A Spotify player in the terminal with full feature parity,Rust,https://github.com/aome510/spotify-player,3.04 MB
+307,jnv,5840,71,5840,24,18/03/2024,21/07/2025,361.00 KB,Interactive JSON filter using jq,Rust,https://github.com/ynqa/jnv,361.00 KB
+308,pixi,5819,387,5819,536,28/04/2023,05/12/2025,129.67 MB,Package management made easy,Rust,https://github.com/prefix-dev/pixi,129.67 MB
+309,procs,5816,137,5816,26,28/01/2019,02/12/2025,4.07 MB,A modern replacement for ps written in Rust,Rust,https://github.com/dalance/procs,4.07 MB
+310,cursor-free-everyday,5802,542,5802,41,14/05/2025,02/12/2025,306.00 KB,"完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度",Rust,https://github.com/agentcodee/cursor-free-everyday,306.00 KB
+311,lance,5796,492,5796,953,07/07/2022,05/12/2025,40.16 MB,"Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",Rust,https://github.com/lance-format/lance,40.16 MB
+312,lldap,5783,307,5783,91,02/03/2021,04/12/2025,3.95 MB,Light LDAP implementation,Rust,https://github.com/lldap/lldap,3.95 MB
+313,futures-rs,5775,668,5775,262,30/03/2016,19/07/2025,10.24 MB,Zero-cost asynchronous programming in Rust,Rust,https://github.com/rust-lang/futures-rs,10.24 MB
+314,stc,5757,161,5757,75,29/12/2020,25/01/2024,15.56 MB,Speedy TypeScript type checker,Rust,https://github.com/dudykr/stc,15.56 MB
+315,greptimedb,5756,431,5756,182,11/04/2022,05/12/2025,80.87 MB,"Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.",Rust,https://github.com/GreptimeTeam/greptimedb,80.87 MB
+316,game-developer-roadmap,5729,499,5729,5,02/05/2017,31/01/2025,11.00 MB,Roadmap to becoming a game developer in 2022,Rust,https://github.com/utilForever/game-developer-roadmap,11.00 MB
+317,winit,5682,1127,5682,575,23/02/2016,25/11/2025,13.05 MB,Window handling library in pure Rust,Rust,https://github.com/rust-windowing/winit,13.05 MB
+318,tealdeer,5678,142,5678,24,29/12/2015,01/12/2025,2.67 MB,A very fast implementation of tldr in Rust.,Rust,https://github.com/tealdeer-rs/tealdeer,2.67 MB
+319,miri,5640,413,5640,174,12/11/2015,05/12/2025,27.37 MB,An interpreter for Rust's mid-level intermediate representation,Rust,https://github.com/rust-lang/miri,27.37 MB
+320,flamegraph,5638,177,5638,70,07/03/2019,24/11/2025,1.05 MB,"Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3",Rust,https://github.com/flamegraph-rs/flamegraph,1.05 MB
+321,rust-web-framework-comparison,5630,221,5630,6,16/08/2015,07/11/2025,458.00 KB,A comparison of some web frameworks and libs written in Rust,Rust,https://github.com/flosse/rust-web-framework-comparison,458.00 KB
+322,dynamo,5607,723,5607,411,03/03/2025,05/12/2025,82.16 MB,A Datacenter Scale Distributed Inference Serving Framework,Rust,https://github.com/ai-dynamo/dynamo,82.16 MB
+323,massa,5567,724,5567,156,08/11/2021,12/11/2025,364.87 MB,The Decentralized and Scaled Blockchain,Rust,https://github.com/massalabs/massa,364.87 MB
+324,image,5561,673,5561,170,25/05/2014,05/12/2025,38.05 MB,Encoding and decoding images in Rust,Rust,https://github.com/image-rs/image,38.05 MB
+325,leaf,5548,269,5548,33,26/10/2015,20/03/2024,3.85 MB,Open Machine Intelligence Framework for Hackers. (GPU/CPU),Rust,https://github.com/autumnai/leaf,3.85 MB
+326,farm,5512,186,5512,202,26/06/2022,30/11/2025,43.45 MB,Extremely fast Vite-compatible web build tool written in Rust,Rust,https://github.com/farm-fe/farm,43.45 MB
+327,mountpoint-s3,5512,222,5512,122,22/08/2022,04/12/2025,17.42 MB,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",Rust,https://github.com/awslabs/mountpoint-s3,17.42 MB
+328,sxt-proof-of-sql,5496,260,5496,31,25/04/2024,05/12/2025,19.71 MB,Space and Time | Proof of SQL,Rust,https://github.com/spaceandtimefdn/sxt-proof-of-sql,19.71 MB
+329,verso,5452,172,5452,33,15/01/2024,08/10/2025,3.35 MB,Mirror of https://gitlab.com/verso-browser/verso,Rust,https://github.com/versotile-org/verso,3.35 MB
+330,rust,5435,431,5435,69,05/02/2016,12/01/2025,29.45 MB,Rust language bindings for TensorFlow,Rust,https://github.com/tensorflow/rust,29.45 MB
+331,sudo,5435,158,5435,52,01/02/2024,07/07/2025,2.40 MB,"It's sudo, for Windows",Rust,https://github.com/microsoft/sudo,2.40 MB
+332,gfx,5399,535,5399,331,25/10/2013,27/02/2023,26.36 MB,[maintenance mode] A low-overhead Vulkan-like GPU API for Rust.,Rust,https://github.com/gfx-rs/gfx,26.36 MB
+333,json,5394,625,5394,214,19/05/2015,20/11/2025,2.89 MB,Strongly typed JSON library for Rust,Rust,https://github.com/serde-rs/json,2.89 MB
+334,WASI,5389,299,5389,230,02/04/2019,02/12/2025,4.34 MB,WebAssembly System Interface,Rust,https://github.com/WebAssembly/WASI,4.34 MB
+335,roc,5377,358,5377,1027,20/01/2019,05/12/2025,165.17 MB,"A fast, friendly, functional language.",Rust,https://github.com/roc-lang/roc,165.17 MB
+336,criterion.rs,5374,354,5374,220,26/05/2014,29/11/2025,5.13 MB,Statistics-driven benchmarking library for Rust,Rust,https://github.com/bheisler/criterion.rs,5.13 MB
+337,deepreasoning,5361,447,5361,54,26/01/2025,07/10/2025,723.00 KB,A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.,Rust,https://github.com/winfunc/deepreasoning,723.00 KB
+338,innernet,5346,207,5346,87,29/03/2021,27/11/2025,952.00 KB,A private network system that uses WireGuard under the hood.,Rust,https://github.com/tonarino/innernet,952.00 KB
+339,gifski,5327,164,5327,32,01/11/2017,13/07/2025,711.00 KB,GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.,Rust,https://github.com/ImageOptim/gifski,711.00 KB
+340,dua-cli,5325,136,5325,34,29/05/2019,24/11/2025,1.86 MB,"View disk space usage and delete unwanted data, fast.",Rust,https://github.com/Byron/dua-cli,1.86 MB
+341,serenity,5318,635,5318,57,06/11/2016,20/11/2025,116.42 MB,A Rust library for the Discord API.,Rust,https://github.com/serenity-rs/serenity,116.42 MB
+342,extism,5311,146,5311,43,13/08/2022,01/12/2025,9.31 MB,"The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.",Rust,https://github.com/extism/extism,9.31 MB
+343,rust-libp2p,5290,1146,5290,249,24/03/2017,27/11/2025,20.26 MB,The Rust Implementation of the libp2p networking stack. ,Rust,https://github.com/libp2p/rust-libp2p,20.26 MB
+344,git-absorb,5283,86,5283,20,15/02/2018,13/09/2025,336.00 KB,"git commit --fixup, but automatic",Rust,https://github.com/tummychow/git-absorb,336.00 KB
+345,thiserror,5242,194,5242,26,09/10/2019,20/11/2025,1.02 MB,derive(Error) for struct and enum error types,Rust,https://github.com/dtolnay/thiserror,1.02 MB
+346,kajiya,5216,195,5216,20,26/03/2021,07/07/2025,130.87 MB,💡 Experimental real-time global illumination renderer 🦀,Rust,https://github.com/EmbarkStudios/kajiya,130.87 MB
+347,viddy,5208,96,5208,29,14/08/2021,29/08/2025,21.45 MB,👀 A modern watch command. Time machine and pager etc.,Rust,https://github.com/sachaos/viddy,21.45 MB
+348,noria,5207,250,5207,47,14/06/2016,30/10/2021,82.51 MB,"Fast web applications through dynamic, partially-stateful dataflow",Rust,https://github.com/mit-pdos/noria,82.51 MB
+349,pest,5207,281,5207,68,24/04/2016,21/11/2025,2.39 MB,The Elegant Parser,Rust,https://github.com/pest-parser/pest,2.39 MB
+350,reth,5197,2169,5197,341,15/09/2022,05/12/2025,132.88 MB,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",Rust,https://github.com/paradigmxyz/reth,132.88 MB
+351,cve-rs,5195,117,5195,24,16/02/2024,26/09/2025,1.01 MB,"Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀",Rust,https://github.com/Speykious/cve-rs,1.01 MB
+352,jless,5183,103,5183,92,24/04/2021,15/11/2025,3.94 MB,"jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.",Rust,https://github.com/PaulJuliusMartinez/jless,3.94 MB
+353,maturin,5182,370,5182,106,21/07/2018,04/12/2025,7.76 MB,"Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",Rust,https://github.com/PyO3/maturin,7.76 MB
+354,tch-rs,5164,407,5164,224,16/02/2019,04/11/2025,5.01 MB,Rust bindings for the C++ api of PyTorch.,Rust,https://github.com/LaurentMazare/tch-rs,5.01 MB
+355,libreddit,5157,265,5157,198,12/08/2020,15/02/2025,1.75 MB,Private front-end for Reddit,Rust,https://github.com/libreddit/libreddit,1.75 MB
+356,universal-android-debloater-next-generation,5153,198,5153,185,26/10/2023,02/12/2025,21.13 MB,"Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",Rust,https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation,21.13 MB
+357,readyset,5153,153,5153,280,24/05/2022,05/12/2025,236.93 MB,"Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.",Rust,https://github.com/readysettech/readyset,236.93 MB
+358,libsignal,5151,631,5151,7,12/09/2020,01/12/2025,17.63 MB,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,Rust,https://github.com/signalapp/libsignal,17.63 MB
+359,loro,5130,115,5130,17,12/07/2022,27/11/2025,13.34 MB,Make your JSON data collaborative and version-controlled with CRDTs,Rust,https://github.com/loro-dev/loro,13.34 MB
+360,postgres-language-server,5118,107,5118,23,17/05/2023,04/12/2025,14.72 MB,A Language Server for Postgres,Rust,https://github.com/supabase-community/postgres-language-server,14.72 MB
+361,tide,5116,331,5116,135,08/08/2018,05/01/2024,1.49 MB,Fast and friendly HTTP server framework for async Rust,Rust,https://github.com/http-rs/tide,1.49 MB
+362,crab,5105,64,5105,4,11/04/2023,19/08/2024,926.20 MB,"A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! ",Rust,https://github.com/crablang/crab,926.20 MB
+363,fluvio,5104,517,5104,141,31/08/2019,20/11/2025,35.41 MB,🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.,Rust,https://github.com/infinyon/fluvio,35.41 MB
+364,vtracer,5096,348,5096,12,23/10/2020,17/10/2025,34.43 MB,Raster to Vector Graphics Converter,Rust,https://github.com/visioncortex/vtracer,34.43 MB
+365,grin,5083,986,5083,136,21/10/2016,22/11/2025,20.82 MB,Minimal implementation of the Mimblewimble protocol.,Rust,https://github.com/mimblewimble/grin,20.82 MB
+366,rig,5068,576,5068,118,05/06/2024,04/12/2025,18.32 MB,⚙️🦀 Build modular and scalable LLM Applications in Rust,Rust,https://github.com/0xPlaygrounds/rig,18.32 MB
+367,himalaya,5066,140,5066,53,23/12/2020,05/03/2025,3.03 MB,CLI to manage emails,Rust,https://github.com/pimalaya/himalaya,3.03 MB
+368,rust-bindgen,5027,776,5027,540,22/06/2016,28/11/2025,17.68 MB,Automatically generates Rust FFI bindings to C (and some C++) libraries.,Rust,https://github.com/rust-lang/rust-bindgen,17.68 MB
+369,rhai,5019,212,5019,44,29/02/2016,02/12/2025,14.48 MB,Rhai - An embedded scripting language for Rust.,Rust,https://github.com/rhaiscript/rhai,14.48 MB
+370,cloud-hypervisor,5006,555,5006,153,30/04/2019,05/12/2025,28.53 MB,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",Rust,https://github.com/cloud-hypervisor/cloud-hypervisor,28.53 MB
+371,indicatif,4978,267,4978,92,23/04/2017,29/11/2025,2.04 MB,A command line progress reporting library for Rust,Rust,https://github.com/console-rs/indicatif,2.04 MB
+372,vulkano,4942,459,4942,92,06/07/2015,29/11/2025,33.06 MB,Safe and rich Rust wrapper around the Vulkan API,Rust,https://github.com/vulkano-rs/vulkano,33.06 MB
+373,zksync,4942,2650,4942,109,29/05/2019,24/07/2024,374.70 MB,zkSync: trustless scaling and privacy engine for Ethereum,Rust,https://github.com/matter-labs/zksync,374.70 MB
+374,rapier,4939,311,4939,160,25/08/2020,21/11/2025,4.79 MB,2D and 3D physics engines focused on performance.,Rust,https://github.com/dimforge/rapier,4.79 MB
+375,pyrefly,4919,213,4919,426,19/02/2025,05/12/2025,408.56 MB,A fast type checker and language server for Python,Rust,https://github.com/facebook/pyrefly,408.56 MB
+376,Daft,4915,354,4915,370,25/04/2022,05/12/2025,49.97 MB,"High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",Rust,https://github.com/Eventual-Inc/Daft,49.97 MB
+377,rust-cuda,4901,215,4901,74,17/10/2021,05/12/2025,6.35 MB,Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.,Rust,https://github.com/Rust-GPU/rust-cuda,6.35 MB
+378,rustowl,4881,111,4881,26,16/10/2024,04/12/2025,5.25 MB,Visualize Ownership and Lifetimes in Rust,Rust,https://github.com/cordx56/rustowl,5.25 MB
+379,hickory-dns,4857,532,4857,305,08/08/2015,05/12/2025,22.22 MB,"A Rust based DNS client, server, and resolver",Rust,https://github.com/hickory-dns/hickory-dns,22.22 MB
+380,anchor,4834,1782,4834,255,01/01/2021,29/11/2025,46.09 MB,⚓ Solana Program Framework,Rust,https://github.com/solana-foundation/anchor,46.09 MB
+381,FlyingCarpet,4821,224,4821,15,30/07/2017,01/12/2025,63.67 MB,"Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.",Rust,https://github.com/spieglt/FlyingCarpet,63.67 MB
+382,lunatic,4809,139,4809,47,26/08/2020,29/03/2025,4.00 MB,Lunatic is an Erlang-inspired runtime for WebAssembly,Rust,https://github.com/lunatic-solutions/lunatic,4.00 MB
+383,webrtc,4807,449,4807,149,15/08/2019,04/12/2025,13.90 MB,A pure Rust implementation of WebRTC,Rust,https://github.com/webrtc-rs/webrtc,13.90 MB
+384,leo,4796,700,4796,171,10/03/2020,05/12/2025,228.75 MB,"🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",Rust,https://github.com/ProvableHQ/leo,228.75 MB
+385,monoio,4767,269,4767,67,30/11/2021,13/11/2025,5.19 MB,Rust async runtime based on io-uring.,Rust,https://github.com/bytedance/monoio,5.19 MB
+386,mirrord,4762,164,4762,198,01/02/2022,05/12/2025,31.22 MB,"Connect your local process and your cloud environment, and run local code in cloud conditions.",Rust,https://github.com/metalbear-co/mirrord,31.22 MB
+387,rivet,4736,134,4736,34,16/06/2023,05/12/2025,199.37 MB,"Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.",Rust,https://github.com/rivet-dev/rivet,199.37 MB
+388,shellharden,4727,130,4727,6,19/01/2017,23/11/2025,469.00 KB,The corrective bash syntax highlighter,Rust,https://github.com/anordal/shellharden,469.00 KB
+389,melody,4724,56,4724,8,13/02/2022,24/11/2024,3.89 MB,Melody is a language that compiles to regular expressions and aims to be more readable and maintainable,Rust,https://github.com/yoav-lavi/melody,3.89 MB
+390,granian,4724,133,4724,42,15/04/2022,02/12/2025,1.53 MB,A Rust HTTP server for Python applications,Rust,https://github.com/emmett-framework/granian,1.53 MB
+391,quinn,4723,507,4723,147,03/04/2018,04/12/2025,10.95 MB,Async-friendly QUIC implementation in Rust,Rust,https://github.com/quinn-rs/quinn,10.95 MB
+392,xilem,4708,175,4708,133,16/11/2022,05/12/2025,7.06 MB,An experimental Rust native UI framework,Rust,https://github.com/linebender/xilem,7.06 MB
+393,check-if-email-exists,4697,400,4697,80,25/04/2017,27/10/2025,4.38 MB,"Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",Rust,https://github.com/reacherhq/check-if-email-exists,4.38 MB
+394,cursive,4694,258,4694,207,09/05/2015,01/12/2025,3.52 MB,A Text User Interface library for the Rust programming language,Rust,https://github.com/gyscos/cursive,3.52 MB
+395,piston,4692,236,4692,36,24/04/2014,21/05/2024,4.37 MB,A modular game engine written in Rust,Rust,https://github.com/PistonDevelopers/piston,4.37 MB
+396,napkin-math,4689,192,4689,7,01/06/2019,15/09/2024,438.00 KB,Techniques and numbers for estimating system's performance from first-principles,Rust,https://github.com/sirupsen/napkin-math,438.00 KB
+397,pagefind,4688,159,4688,178,03/05/2022,17/11/2025,2.29 MB,Static low-bandwidth search at scale,Rust,https://github.com/Pagefind/pagefind,2.29 MB
+398,proc-macro-workshop,4687,1184,4687,2,27/03/2019,20/11/2025,565.00 KB,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",Rust,https://github.com/dtolnay/proc-macro-workshop,565.00 KB
+399,arroyo,4687,324,4687,88,31/03/2023,01/12/2025,15.90 MB,Distributed stream processing engine in Rust,Rust,https://github.com/ArroyoSystems/arroyo,15.90 MB
+400,rustler,4670,231,4670,47,18/08/2015,02/12/2025,2.24 MB,Safe Rust bridge for creating Erlang NIF functions,Rust,https://github.com/rusterlium/rustler,2.24 MB
+401,opendal,4636,672,4636,226,14/02/2022,05/12/2025,48.80 MB,"Apache OpenDAL: One Layer, All Storage.",Rust,https://github.com/apache/opendal,48.80 MB
+402,xplr,4628,87,4628,15,24/02/2021,03/12/2025,10.34 MB,"A hackable, minimal, fast TUI file explorer",Rust,https://github.com/sayanarijit/xplr,10.34 MB
+403,ludusavi,4627,96,4627,52,20/06/2020,30/11/2025,24.23 MB,Backup tool for PC game saves,Rust,https://github.com/mtkennerly/ludusavi,24.23 MB
+404,smol,4622,180,4622,20,04/02/2020,03/11/2025,996.00 KB,A small and fast async runtime for Rust,Rust,https://github.com/smol-rs/smol,996.00 KB
+405,c2rust,4582,281,4582,330,20/04/2018,04/12/2025,81.93 MB,Migrate C code to Rust,Rust,https://github.com/immunant/c2rust,81.93 MB
+406,ockam,4579,562,4579,94,30/11/2018,03/11/2025,89.16 MB,"Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.",Rust,https://github.com/build-trust/ockam,89.16 MB
+407,forge,4578,1183,4578,74,08/12/2024,05/12/2025,11.85 MB,"AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",Rust,https://github.com/antinomyhq/forge,11.85 MB
+408,ggez,4550,435,4550,71,30/01/2016,14/08/2025,5.71 MB,Rust library to create a Good Game Easily,Rust,https://github.com/ggez/ggez,5.71 MB
+409,rainfrog,4547,82,4547,23,15/05/2024,02/12/2025,8.51 MB,🐸 a database tool for the terminal,Rust,https://github.com/achristmascarl/rainfrog,8.51 MB
+410,borgo,4547,65,4547,32,17/02/2023,27/10/2024,1.00 MB,Borgo is a statically typed language that compiles to Go.,Rust,https://github.com/borgo-lang/borgo,1.00 MB
+411,nalgebra,4545,522,4545,414,14/05/2013,23/11/2025,7.61 MB,Linear algebra library for Rust.,Rust,https://github.com/dimforge/nalgebra,7.61 MB
+412,wry,4534,379,4534,133,12/07/2020,03/12/2025,9.52 MB,Cross-platform WebView library in Rust for Tauri.,Rust,https://github.com/tauri-apps/wry,9.52 MB
+413,imessage-exporter,4514,219,4514,2,05/05/2022,17/11/2025,18.65 MB,Export iMessage data + run iMessage Diagnostics,Rust,https://github.com/ReagentX/imessage-exporter,18.65 MB
+414,prost,4499,584,4499,230,13/06/2017,01/12/2025,55.84 MB,PROST! a Protocol Buffers implementation for the Rust Language,Rust,https://github.com/tokio-rs/prost,55.84 MB
+415,mini-redis,4499,539,4499,34,04/12/2019,03/08/2024,244.00 KB,Incomplete Redis client and server implementation using Tokio - for learning purposes only,Rust,https://github.com/tokio-rs/mini-redis,244.00 KB
+416,archgw,4483,251,4483,86,09/07/2024,04/12/2025,30.05 MB,"The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.",Rust,https://github.com/katanemo/archgw,30.05 MB
+417,snarkOS,4483,2685,4483,101,16/02/2020,05/12/2025,651.03 MB,A Decentralized Operating System for ZK Applications,Rust,https://github.com/ProvableHQ/snarkOS,651.03 MB
+418,linfa,4440,304,4440,77,05/04/2018,27/11/2025,5.66 MB,A Rust machine learning framework.,Rust,https://github.com/rust-ml/linfa,5.66 MB
+419,cheats.rs,4435,432,4435,3,12/11/2018,08/09/2025,1.99 MB,Rust Language Cheat Sheet - https://cheats.rs,Rust,https://github.com/ralfbiedert/cheats.rs,1.99 MB
+420,plotters,4405,306,4405,166,24/04/2019,27/03/2025,7.66 MB,"A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀",Rust,https://github.com/plotters-rs/plotters,7.66 MB
+421,amber,4384,100,4384,102,20/07/2022,05/12/2025,1.54 MB,💎 Amber the programming language compiled to Bash,Rust,https://github.com/amber-lang/amber,1.54 MB
+422,dura,4376,68,4376,27,31/12/2021,02/10/2023,281.00 KB,You shouldn't ever lose your work if you're using Git,Rust,https://github.com/tkellogg/dura,281.00 KB
+423,Replibyte,4369,139,4369,119,15/02/2022,08/08/2025,7.90 MB,Seed your development database with real data ⚡️,Rust,https://github.com/Qovery/Replibyte,7.90 MB
+424,fselect,4361,86,4361,13,26/01/2018,05/12/2025,1.48 MB,Find files with SQL-like queries,Rust,https://github.com/jhspetersson/fselect,1.48 MB
+425,imageflow,4349,144,4349,29,08/11/2014,23/11/2025,9.02 MB,"High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow",Rust,https://github.com/imazen/imageflow,9.02 MB
+426,chumsky,4328,189,4328,127,10/07/2021,03/12/2025,4.29 MB,"Write expressive, high-performance parsers with ease.",Rust,https://github.com/zesterer/chumsky,4.29 MB
+427,console,4326,163,4326,93,30/04/2021,15/11/2025,9.88 MB,a debugger for async rust!,Rust,https://github.com/tokio-rs/console,9.88 MB
+428,kanidm,4294,276,4294,246,02/02/2019,02/12/2025,169.30 MB,"Kanidm: A simple, secure, and fast identity management platform",Rust,https://github.com/kanidm/kanidm,169.30 MB
+429,poem,4284,341,4284,184,11/08/2021,08/11/2025,6.49 MB,A full-featured and easy-to-use web framework with the Rust programming language.,Rust,https://github.com/poem-web/poem,6.49 MB
+430,smoltcp,4279,498,4279,106,02/12/2016,29/10/2025,3.74 MB,a smol tcp/ip stack,Rust,https://github.com/smoltcp-rs/smoltcp,3.74 MB
+431,text-embeddings-inference,4274,324,4274,175,13/10/2023,14/11/2025,2.49 MB,A blazing fast inference solution for text embeddings models,Rust,https://github.com/huggingface/text-embeddings-inference,2.49 MB
+432,pgrx,4271,298,4271,321,18/12/2019,04/12/2025,34.41 MB,Build Postgres Extensions with Rust!,Rust,https://github.com/pgcentralfoundation/pgrx,34.41 MB
+433,openvas-scanner,4268,741,4268,21,22/01/2018,05/12/2025,38.17 MB,This repository contains the scanner component for Greenbone Community Edition.,Rust,https://github.com/greenbone/openvas-scanner,38.17 MB
+434,Toshi,4252,136,4252,27,28/06/2018,19/01/2024,1.65 MB,A full-text search engine in rust,Rust,https://github.com/toshi-search/Toshi,1.65 MB
+435,gritql,4247,111,4247,129,08/03/2024,01/12/2025,58.74 MB,"GritQL is a query language for searching, linting, and modifying code.",Rust,https://github.com/honeycombio/gritql,58.74 MB
+436,gdext,4203,262,4203,86,06/07/2022,05/12/2025,8.75 MB,Rust bindings for Godot 4,Rust,https://github.com/godot-rust/gdext,8.75 MB
+437,nofwl,4202,399,4202,83,22/02/2023,23/01/2024,4.96 MB,NoFWL Desktop Application,Rust,https://github.com/lencx/nofwl,4.96 MB
+438,black-hat-rust,4200,418,4200,7,03/02/2021,01/10/2025,1.99 MB,Applied offensive security with Rust  - https://kerkour.com/black-hat-rust,Rust,https://github.com/skerkour/black-hat-rust,1.99 MB
+439,BiliTools,4196,279,4196,16,24/11/2023,18/11/2025,214.05 MB,A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源,Rust,https://github.com/btjawa/BiliTools,214.05 MB
+440,buck2,4167,308,4167,304,21/01/2022,05/12/2025,147.49 MB,"Build system, successor to Buck",Rust,https://github.com/facebook/buck2,147.49 MB
+441,macroquad,4148,387,4148,317,08/01/2020,03/11/2025,19.38 MB,Cross-platform game engine in Rust. ,Rust,https://github.com/not-fl3/macroquad,19.38 MB
+442,lan-mouse,4147,152,4147,93,15/09/2022,04/12/2025,1.44 MB,mouse & keyboard sharing via LAN,Rust,https://github.com/feschber/lan-mouse,1.44 MB
+443,solana-program-library,4135,2370,4135,68,29/05/2020,11/03/2025,88.92 MB,A collection of Solana programs maintained by Solana Labs,Rust,https://github.com/solana-labs/solana-program-library,88.92 MB
+444,typedb,4125,353,4125,248,11/07/2016,03/12/2025,107.01 MB,"TypeDB: the power of programming, in your database",Rust,https://github.com/typedb/typedb,107.01 MB
+445,sudo-rs,4121,139,4121,78,12/12/2022,03/12/2025,4.63 MB,A memory safe implementation of sudo and su.,Rust,https://github.com/trifectatechfoundation/sudo-rs,4.63 MB
+446,microsandbox,4121,183,4121,52,03/10/2024,21/11/2025,6.50 MB,self-hosted plaform for secure execution of untrusted user or AI-generated code,Rust,https://github.com/zerocore-ai/microsandbox,6.50 MB
+447,ndarray,4112,354,4112,205,04/08/2014,13/11/2025,6.46 MB,"ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",Rust,https://github.com/rust-ndarray/ndarray,6.46 MB
+448,redis-rs,4088,650,4088,75,29/12/2013,05/12/2025,4.42 MB,Redis library for rust,Rust,https://github.com/redis-rs/redis-rs,4.42 MB
+449,redb,4084,189,4084,9,23/09/2018,28/10/2025,2.50 MB,An embedded key-value database in pure Rust,Rust,https://github.com/cberner/redb,2.50 MB
+450,aya,4075,360,4075,176,20/01/2021,04/12/2025,9.54 MB,"Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.",Rust,https://github.com/aya-rs/aya,9.54 MB
+451,svgbob,4073,117,4073,35,09/10/2016,08/04/2025,3.58 MB,Convert your ascii diagram scribbles into happy little SVG,Rust,https://github.com/ivanceras/svgbob,3.58 MB
+452,trunk,4072,303,4072,122,19/08/2020,17/09/2025,4.17 MB,"Build, bundle & ship your Rust WASM application to the web.",Rust,https://github.com/trunk-rs/trunk,4.17 MB
+453,async-std,4063,340,4063,193,08/08/2019,15/08/2025,2.28 MB,Async version of the Rust standard library,Rust,https://github.com/async-rs/async-std,2.28 MB
+454,uniffi-rs,4053,285,4053,257,10/06/2020,04/12/2025,65.77 MB,a multi-language bindings generator for rust,Rust,https://github.com/mozilla/uniffi-rs,65.77 MB
+455,lucet,4052,167,4052,65,07/12/2018,23/03/2022,10.40 MB,"Lucet, the Sandboxing WebAssembly Compiler.",Rust,https://github.com/bytecodealliance/lucet,10.40 MB
+456,tera,4049,312,4049,196,17/07/2015,30/10/2025,1.95 MB,A template engine for Rust based on Jinja2/Django,Rust,https://github.com/Keats/tera,1.95 MB
+457,harmony,4047,232,4047,34,31/07/2025,05/11/2025,330.00 KB,Renderer for the harmony response format to be used with gpt-oss,Rust,https://github.com/openai/harmony,330.00 KB
+458,hyperlight,4033,154,4033,154,05/11/2024,04/12/2025,5.62 MB,Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.,Rust,https://github.com/hyperlight-dev/hyperlight,5.62 MB
+459,os_kernel_lab,4029,1909,4029,9,21/08/2012,27/01/2023,96.87 MB,OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32,Rust,https://github.com/chyyuu/os_kernel_lab,96.87 MB
+460,dim,4021,179,4021,158,08/01/2021,21/09/2025,79.37 MB,"Dim, a media manager fueled by dark forces.",Rust,https://github.com/Dusk-Labs/dim,79.37 MB
+461,tower,4012,317,4012,84,24/07/2017,02/10/2025,3.85 MB,"async fn(Request) -> Result<Response, Error>",Rust,https://github.com/tower-rs/tower,3.85 MB
+462,awesome-alternatives-in-rust,3997,112,3997,42,25/05/2021,02/08/2024,105.00 KB,A curated list of replacements for existing software written in Rust,Rust,https://github.com/TaKO8Ki/awesome-alternatives-in-rust,105.00 KB
+463,amp,3972,110,3972,96,01/02/2015,19/11/2025,2.16 MB,A complete text editor for your terminal.,Rust,https://github.com/jmacdonald/amp,2.16 MB
+464,asterinas,3968,249,3968,332,17/05/2022,05/12/2025,11.62 MB,"Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.",Rust,https://github.com/asterinas/asterinas,11.62 MB
+465,microbin,3963,251,3963,115,10/04/2022,02/11/2024,5.48 MB,"A secure, configurable file-sharing and URL shortening web app written in Rust.",Rust,https://github.com/szabodanika/microbin,5.48 MB
+466,salvo,3954,244,3954,44,07/11/2019,01/12/2025,17.30 MB,A powerful web framework built with a simplified design.,Rust,https://github.com/salvo-rs/salvo,17.30 MB
+467,ord,3948,1463,3948,434,12/12/2021,16/11/2025,327.92 MB,👁‍🗨 Rare and exotic sats,Rust,https://github.com/ordinals/ord,327.92 MB
+468,RedisJSON,3946,340,3946,178,16/06/2016,04/12/2025,10.91 MB,RedisJSON - a JSON data type for Redis,Rust,https://github.com/RedisJSON/RedisJSON,10.91 MB
+469,rust-algorithms,3941,232,3941,4,16/05/2017,27/02/2025,180.00 KB,Common data structures and algorithms in Rust,Rust,https://github.com/EbTech/rust-algorithms,180.00 KB
+470,rusqlite,3940,434,3940,162,04/11/2014,02/12/2025,36.40 MB,Ergonomic bindings to SQLite for Rust,Rust,https://github.com/rusqlite/rusqlite,36.40 MB
+471,git-branchless,3938,100,3938,107,10/12/2020,24/11/2025,4.75 MB,"High-velocity, monorepo-scale workflow for Git",Rust,https://github.com/arxanas/git-branchless,4.75 MB
+472,examples,3914,810,3914,32,13/04/2018,01/12/2025,5.40 MB,Community showcase and examples of Actix Web ecosystem usage.,Rust,https://github.com/actix/examples,5.40 MB
+473,PPHC,3913,349,3913,7,11/02/2023,21/11/2025,19.63 MB,📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com,Rust,https://github.com/johnlui/PPHC,19.63 MB
+474,rustpad,3906,182,3906,11,01/06/2021,02/02/2025,335.00 KB,"Efficient and minimal collaborative code editor, self-hosted, no database required",Rust,https://github.com/ekzhang/rustpad,335.00 KB
+475,Ambient,3889,128,3889,281,19/12/2022,07/01/2025,391.75 MB,The multiplayer game engine,Rust,https://github.com/AmbientRun/Ambient,391.75 MB
+476,RustMinerSystem,3882,243,3882,1,10/03/2023,23/11/2025,2.98 GB,💰唯一正版💰 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池抽水 矿池代理 矿池中转 矿池抽水 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy,Rust,https://github.com/EvilGenius-dot/RustMinerSystem,2.98 GB
+477,quadratic,3880,253,3880,177,11/11/2021,05/12/2025,1.34 GB,"Spreadsheet with AI, Code, Connections",Rust,https://github.com/quadratichq/quadratic,1.34 GB
+478,teloxide,3875,274,3875,65,01/09/2019,01/12/2025,12.81 MB,🤖 An elegant Telegram bots framework for Rust,Rust,https://github.com/teloxide/teloxide,12.81 MB
+479,rust-postgres,3849,524,3849,146,23/07/2013,01/12/2025,5.22 MB,Native PostgreSQL driver for the Rust programming language,Rust,https://github.com/rust-postgres/rust-postgres,5.22 MB
+480,regex,3848,487,3848,49,11/12/2014,13/10/2025,7.91 MB,An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.,Rust,https://github.com/rust-lang/regex,7.91 MB
+481,floem,3838,185,3838,75,31/01/2023,02/12/2025,5.78 MB,A native Rust UI library with fine-grained reactivity,Rust,https://github.com/lapce/floem,5.78 MB
+482,seed,3837,158,3837,55,01/12/2018,11/01/2025,10.28 MB,A Rust framework for creating web apps,Rust,https://github.com/seed-rs/seed,10.28 MB
+483,pathfinder,3825,228,3825,117,07/01/2017,10/07/2025,8.95 MB,"A fast, practical GPU rasterizer for fonts and vector graphics",Rust,https://github.com/servo/pathfinder,8.95 MB
+484,pushpin,3816,154,3816,28,29/08/2012,20/11/2025,7.23 MB,"A proxy server for adding push to your API, used at the core of Fastly's Fanout service",Rust,https://github.com/fastly/pushpin,7.23 MB
+485,dashmap,3813,176,3813,65,06/12/2019,05/03/2025,659.00 KB,Blazing fast concurrent HashMap for Rust.,Rust,https://github.com/xacrimon/dashmap,659.00 KB
+486,crossterm,3800,328,3800,189,03/01/2018,14/11/2025,29.56 MB,Cross platform terminal library rust,Rust,https://github.com/crossterm-rs/crossterm,29.56 MB
+487,mini-lsm,3799,574,3799,21,23/12/2022,03/11/2025,874.00 KB,A course of building an LSM-Tree storage engine (database) in a week.,Rust,https://github.com/skyzh/mini-lsm,874.00 KB
+488,r4cppp,3792,293,3792,59,20/02/2015,16/05/2024,512.00 KB,Rust for C++ programmers,Rust,https://github.com/nrc/r4cppp,512.00 KB
+489,orbtk,3789,186,3789,88,14/12/2015,18/10/2022,16.67 MB,The Rust UI-Toolkit.,Rust,https://github.com/redox-os/orbtk,16.67 MB
+490,cozo,3788,122,3788,40,14/10/2022,04/12/2024,9.62 MB,"A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!",Rust,https://github.com/cozodb/cozo,9.62 MB
+491,pgcat,3781,244,3781,198,29/01/2022,27/02/2025,1.57 MB,"PostgreSQL pooler with sharding, load balancing and failover support.",Rust,https://github.com/postgresml/pgcat,1.57 MB
+492,ron,3773,142,3773,42,20/04/2015,30/11/2025,7.86 MB,Rusty Object Notation,Rust,https://github.com/ron-rs/ron,7.86 MB
+493,television,3760,103,3760,26,15/09/2024,04/12/2025,25.75 MB,A portable and hackable fuzzy finder for the terminal.,Rust,https://github.com/alexpasmantier/television,25.75 MB
+494,rusty_v8,3734,358,3734,96,31/10/2019,05/12/2025,3.88 MB,Rust bindings for the V8 JavaScript engine,Rust,https://github.com/denoland/rusty_v8,3.88 MB
+495,chrono,3733,593,3733,188,28/03/2014,24/11/2025,4.79 MB,Date and time library for Rust,Rust,https://github.com/chronotope/chrono,4.79 MB
+496,computerraria,3729,50,3729,0,17/02/2023,24/03/2025,36.43 MB,A fully compliant RISC-V computer made inside the game Terraria,Rust,https://github.com/misprit7/computerraria,36.43 MB
+497,trailbase,3716,100,3716,28,29/10/2024,05/12/2025,15.69 MB,"A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.",Rust,https://github.com/trailbaseio/trailbase,15.69 MB
+498,dprint,3693,95,3693,125,16/06/2019,02/12/2025,38.16 MB,Pluggable and configurable code formatting platform written in Rust.,Rust,https://github.com/dprint/dprint,38.16 MB
+499,binsider,3691,84,3691,31,14/08/2023,30/11/2025,19.44 MB,Analyze ELF binaries like a boss 😼🕵️‍♂️,Rust,https://github.com/orhun/binsider,19.44 MB
+500,angle-grinder,3681,74,3681,28,01/03/2018,24/04/2025,1.89 MB,Slice and dice logs on the command line,Rust,https://github.com/rcoh/angle-grinder,1.89 MB
+501,rkyv,3669,200,3669,54,05/11/2020,04/12/2025,4.50 MB,Zero-copy deserialization framework for Rust,Rust,https://github.com/rkyv/rkyv,4.50 MB
+502,Project-Lightspeed,3664,142,3664,44,04/01/2021,03/04/2023,969.00 KB,A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming,Rust,https://github.com/GRVYDEV/Project-Lightspeed,969.00 KB
+503,petgraph,3656,426,3656,238,22/12/2014,03/12/2025,97.86 MB,Graph data structure library for Rust.,Rust,https://github.com/petgraph/petgraph,97.86 MB
+504,joshuto,3648,163,3648,103,13/07/2018,29/11/2025,10.75 MB,ranger-like terminal file manager written in Rust,Rust,https://github.com/kamiyaa/joshuto,10.75 MB
+505,flox,3648,104,3648,374,22/12/2022,05/12/2025,18.65 MB,Developer environments you can take with you,Rust,https://github.com/flox/flox,18.65 MB
+506,ox,3647,117,3647,29,29/07/2020,13/03/2025,88.60 MB,The simple but flexible text editor,Rust,https://github.com/curlpipe/ox,88.60 MB
+507,gdnative,3646,211,3646,62,10/04/2017,09/09/2024,7.77 MB,Rust bindings for Godot 3,Rust,https://github.com/godot-rust/gdnative,7.77 MB
+508,rCore,3640,376,3640,11,02/04/2018,24/08/2023,12.19 MB,Rust version of THU uCore OS. Linux compatible.,Rust,https://github.com/rcore-os/rCore,12.19 MB
+509,typos,3632,157,3632,125,16/04/2019,01/12/2025,69.66 MB,Source code spell checker,Rust,https://github.com/crate-ci/typos,69.66 MB
+510,Findomain,3632,387,3632,9,14/04/2019,20/11/2025,34.60 MB,"The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.",Rust,https://github.com/Findomain/Findomain,34.60 MB
+511,oxipng,3632,145,3632,33,11/01/2016,26/11/2025,53.41 MB,Multithreaded PNG optimizer written in Rust,Rust,https://github.com/oxipng/oxipng,53.41 MB
+512,gosub-engine,3610,180,3610,38,08/08/2023,15/09/2025,5.69 MB,The Gosub browser engine,Rust,https://github.com/gosub-io/gosub-engine,5.69 MB
+513,tarpc,3607,212,3607,51,11/02/2016,20/11/2025,1.45 MB,An RPC framework for Rust with a focus on ease of use.,Rust,https://github.com/google/tarpc,1.45 MB
+514,krustlet,3600,224,3600,111,09/12/2019,02/10/2023,40.62 MB,Kubernetes Rust Kubelet,Rust,https://github.com/krustlet/krustlet,40.62 MB
+515,samply,3599,78,3599,87,25/05/2020,24/11/2025,41.28 MB,"Command-line sampling profiler for macOS, Linux, and Windows",Rust,https://github.com/mstange/samply,41.28 MB
+516,async-graphql,3598,510,3598,268,01/03/2020,24/05/2025,13.00 MB,A GraphQL server library implemented in Rust,Rust,https://github.com/async-graphql/async-graphql,13.00 MB
+517,glium,3596,406,3596,348,03/10/2014,19/08/2025,7.26 MB,Safe OpenGL wrapper for the Rust language.,Rust,https://github.com/glium/glium,7.26 MB
+518,firefly,3595,109,3595,49,07/12/2018,18/10/2023,13.96 MB,"An alternative BEAM implementation, designed for WebAssembly",Rust,https://github.com/GetFirefly/firefly,13.96 MB
+519,sozu,3579,207,3579,125,18/01/2017,30/11/2025,9.42 MB,"Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!",Rust,https://github.com/sozu-proxy/sozu,9.42 MB
+520,askama-old,3575,219,3575,131,22/12/2016,11/03/2025,3.65 MB,"The original askama repo, please go to https://github.com/askama-rs/askama",Rust,https://github.com/askama-rs/askama-old,3.65 MB
+521,moon,3559,198,3559,131,23/10/2021,05/12/2025,381.43 MB,"A build system and monorepo management tool for the web ecosystem, written in Rust.",Rust,https://github.com/moonrepo/moon,381.43 MB
+522,LanguageClient-neovim,3557,273,3557,125,11/02/2017,09/10/2025,44.40 MB,Language Server Protocol (LSP) support for vim and neovim.,Rust,https://github.com/autozimu/LanguageClient-neovim,44.40 MB
+523,aws-lambda-rust-runtime,3556,380,3556,29,08/11/2018,20/11/2025,10.09 MB,A Rust runtime for AWS Lambda,Rust,https://github.com/aws/aws-lambda-rust-runtime,10.09 MB
+524,vello,3555,201,3555,135,15/04/2020,04/12/2025,10.77 MB,A GPU compute-centric 2D renderer.,Rust,https://github.com/linebender/vello,10.77 MB
+525,cr-sqlite,3551,106,3551,53,24/07/2022,25/10/2024,42.25 MB,"Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite",Rust,https://github.com/vlcn-io/cr-sqlite,42.25 MB
+526,rayhunter,3549,266,3549,65,08/11/2023,03/12/2025,5.18 MB,Rust tool to detect cell site simulators on an orbic mobile hotspot ,Rust,https://github.com/EFForg/rayhunter,5.18 MB
+527,timely-dataflow,3543,289,3543,102,07/12/2014,24/11/2025,10.30 MB,A modular implementation of timely dataflow in Rust,Rust,https://github.com/TimelyDataflow/timely-dataflow,10.30 MB
+528,swww,3537,95,3537,41,31/12/2021,31/10/2025,33.19 MB,A Solution to your Wayland Wallpaper Woes,Rust,https://github.com/LGFae/swww,33.19 MB
+529,kube,3530,371,3530,136,11/11/2018,28/11/2025,4.55 MB,Rust Kubernetes client and controller runtime,Rust,https://github.com/kube-rs/kube,4.55 MB
+530,cocoindex,3523,284,3523,64,03/03/2025,05/12/2025,99.40 MB,"Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!",Rust,https://github.com/cocoindex-io/cocoindex,99.40 MB
+531,rls,3508,253,3508,293,30/08/2016,29/08/2022,9.19 MB,Repository for the Rust Language Server (aka RLS),Rust,https://github.com/rust-lang/rls,9.19 MB
+532,utoipa,3504,314,3504,253,30/09/2021,24/11/2025,61.31 MB,"Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",Rust,https://github.com/juhaku/utoipa,61.31 MB
+533,oso,3494,187,3494,117,04/05/2020,26/02/2025,105.87 MB,Deprecated: See README,Rust,https://github.com/osohq/oso,105.87 MB
+534,resvg,3488,283,3488,138,27/10/2016,29/10/2025,22.50 MB,An SVG rendering library.,Rust,https://github.com/linebender/resvg,22.50 MB
+535,xan,3480,64,3480,87,10/07/2018,04/12/2025,9.21 MB,The CSV magician,Rust,https://github.com/medialab/xan,9.21 MB
+536,too-many-lists,3470,295,3470,85,23/05/2015,30/07/2024,2.82 MB,Learn Rust by writing Entirely Too Many linked lists,Rust,https://github.com/rust-unofficial/too-many-lists,2.82 MB
+537,GQL,3468,95,3468,10,05/06/2023,16/11/2025,6.87 MB,"GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and window functions and allow customization like user-defined types and functions",Rust,https://github.com/AmrDeveloper/GQL,6.87 MB
+538,halloy,3468,141,3468,106,13/04/2022,04/12/2025,87.59 MB,IRC application written in Rust,Rust,https://github.com/squidowl/halloy,87.59 MB
+539,stdweb,3459,178,3459,134,12/03/2017,28/02/2024,1.12 MB,A standard library for the client-side Web,Rust,https://github.com/koute/stdweb,1.12 MB
+540,kerla,3453,90,3453,27,18/05/2021,11/11/2024,2.61 MB,A new operating system kernel with Linux binary compatibility written in Rust.,Rust,https://github.com/nuta/kerla,2.61 MB
+541,helix-db,3442,169,3442,25,23/11/2024,05/12/2025,22.28 MB,HelixDB is an open-source graph-vector database built from scratch in Rust.,Rust,https://github.com/HelixDB/helix-db,22.28 MB
+542,LACT,3438,85,3438,44,17/10/2020,30/11/2025,6.03 MB,Linux GPU Configuration And Monitoring Tool,Rust,https://github.com/ilya-zlobintsev/LACT,6.03 MB
+543,shimmy,3437,244,3437,17,28/08/2025,23/10/2025,208.09 MB,"⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.",Rust,https://github.com/Michael-A-Kuykendall/shimmy,208.09 MB
+544,glommio,3435,187,3435,80,02/09/2020,29/04/2025,2.12 MB,Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.,Rust,https://github.com/DataDog/glommio,2.12 MB
+545,silicon,3426,95,3426,48,07/07/2019,26/09/2024,7.33 MB,Create beautiful image of your source code.,Rust,https://github.com/Aloxaf/silicon,7.33 MB
+546,crates.io,3404,683,3404,92,30/06/2014,05/12/2025,54.49 MB,The Rust package registry,Rust,https://github.com/rust-lang/crates.io,54.49 MB
+547,refact,3402,298,3402,45,19/04/2023,04/12/2025,133.55 MB,"AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",Rust,https://github.com/smallcloudai/refact,133.55 MB
+548,nixpacks,3398,309,3398,98,27/03/2022,02/12/2025,38.13 MB,App source + Nix packages + Docker = Image,Rust,https://github.com/railwayapp/nixpacks,38.13 MB
+549,lalrpop,3394,300,3394,166,12/06/2015,10/11/2025,12.36 MB,LR(1) parser generator for Rust,Rust,https://github.com/lalrpop/lalrpop,12.36 MB
+550,gitlogue,3394,72,3394,9,08/11/2025,04/12/2025,79.19 MB,"A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",Rust,https://github.com/unhappychoice/gitlogue,79.19 MB
+551,chainsaw,3389,295,3389,10,13/08/2021,12/10/2025,16.15 MB,Rapidly Search and Hunt through Windows Forensic Artefacts,Rust,https://github.com/WithSecureLabs/chainsaw,16.15 MB
+552,zizmor,3383,121,3383,90,19/08/2024,05/12/2025,3.46 MB,Static analysis for GitHub Actions,Rust,https://github.com/zizmorcore/zizmor,3.46 MB
+553,iggy,3370,223,3370,66,18/03/2023,05/12/2025,56.57 MB,Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed,Rust,https://github.com/apache/iggy,56.57 MB
+554,cpal,3367,460,3367,230,11/12/2014,04/12/2025,9.14 MB,Cross-platform audio I/O library in pure Rust,Rust,https://github.com/RustAudio/cpal,9.14 MB
+555,gluon,3365,152,3365,165,02/08/2015,06/12/2024,12.43 MB,"A static, type inferred and embeddable language written in Rust.",Rust,https://github.com/gluon-lang/gluon,12.43 MB
+556,roapi,3365,207,3365,59,11/12/2020,17/10/2025,1.51 MB,Create full-fledged APIs for slowly moving datasets without writing a single line of code.,Rust,https://github.com/roapi/roapi,1.51 MB
+557,sql-studio,3360,111,3360,15,11/06/2024,03/12/2025,3.59 MB,"SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]",Rust,https://github.com/frectonz/sql-studio,3.59 MB
+558,racer,3359,277,3359,147,03/03/2014,19/11/2023,6.83 MB,Rust Code Completion utility,Rust,https://github.com/racer-rust/racer,6.83 MB
+559,deep-prove,3359,75,3359,19,07/11/2024,01/10/2025,17.16 MB,Framework to prove inference of ML models blazingly fast,Rust,https://github.com/Lagrange-Labs/deep-prove,17.16 MB
+560,lighthouse,3354,938,3354,490,06/07/2018,05/12/2025,147.60 MB,Ethereum consensus client in Rust,Rust,https://github.com/sigp/lighthouse,147.60 MB
+561,rx,3354,110,3354,38,14/08/2019,31/01/2024,3.60 MB,👾 Modern and minimalist pixel editor,Rust,https://github.com/cloudhead/rx,3.60 MB
+562,simple-http-server,3354,219,3354,48,27/05/2017,19/11/2025,733.00 KB,Simple http server in Rust (Windows/Mac/Linux),Rust,https://github.com/TheWaWaR/simple-http-server,733.00 KB
+563,conrod,3352,296,3352,219,14/06/2014,17/01/2022,6.31 MB,"An easy-to-use, 2D GUI library written entirely in Rust.",Rust,https://github.com/PistonDevelopers/conrod,6.31 MB
+564,hftbacktest,3346,661,3346,20,25/08/2022,04/12/2025,151.61 MB,"Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",Rust,https://github.com/nkaz001/hftbacktest,151.61 MB
+565,logos,3344,148,3344,115,09/11/2018,21/11/2025,2.49 MB,Create ridiculously fast Lexers,Rust,https://github.com/maciejhirsz/logos,2.49 MB
+566,qsv,3341,93,3341,67,11/12/2020,05/12/2025,76.74 MB,Blazing-fast Data-Wrangling toolkit,Rust,https://github.com/dathere/qsv,76.74 MB
+567,hubris,3334,212,3334,270,02/04/2020,04/12/2025,63.69 MB,"A lightweight, memory-protected, message-passing kernel for deeply embedded systems.",Rust,https://github.com/oxidecomputer/hubris,63.69 MB
+568,cargo-edit,3327,161,3327,71,18/06/2015,11/11/2025,25.58 MB,A utility for managing cargo dependencies from the command line.,Rust,https://github.com/killercup/cargo-edit,25.58 MB
+569,pua-lang,3319,126,3319,35,18/04/2021,02/12/2024,1.20 MB,a dialect of The Monkey Programming Language,Rust,https://github.com/flaneur2020/pua-lang,1.20 MB
+570,jaq,3315,96,3315,31,05/12/2020,01/12/2025,2.38 MB,"A jq clone focussed on correctness, speed, and simplicity",Rust,https://github.com/01mf02/jaq,2.38 MB
+571,iced,3310,263,3310,50,07/09/2018,01/12/2025,82.55 MB,"Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua",Rust,https://github.com/icedland/iced,82.55 MB
+572,topgrade,3308,156,3308,67,29/05/2018,12/10/2022,3.01 MB,Upgrade everything,Rust,https://github.com/r-darwish/topgrade,3.01 MB
+573,teach-rs,3308,168,3308,26,07/10/2022,21/11/2025,4.13 MB,"A modular, reusable university course for Rust",Rust,https://github.com/trifectatechfoundation/teach-rs,4.13 MB
+574,ESP32-Cheap-Yellow-Display,3300,346,3300,73,19/05/2023,24/11/2025,25.25 MB,Building a community around a cheap ESP32 Display with a touch screen,Rust,https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display,25.25 MB
+575,webrender,3292,306,3292,199,21/09/2015,30/11/2025,68.90 MB,A GPU-based renderer for the web,Rust,https://github.com/servo/webrender,68.90 MB
+576,touchHLE,3290,174,3290,84,01/12/2022,05/12/2025,23.53 MB,"High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",Rust,https://github.com/touchHLE/touchHLE,23.53 MB
+577,ouch,3285,113,3285,85,19/03/2021,30/11/2025,1.65 MB,Painless compression and decompression in the terminal,Rust,https://github.com/ouch-org/ouch,1.65 MB
+578,nix-installer,3283,100,3283,393,02/09/2022,03/12/2025,2.60 MB,"Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.",Rust,https://github.com/DeterminateSystems/nix-installer,2.60 MB
+579,photon,3282,176,3282,52,13/02/2019,28/06/2025,73.02 MB,⚡ Rust/WebAssembly image processing library,Rust,https://github.com/silvia-odwyer/photon,73.02 MB
+580,csvlens,3270,55,3270,46,14/08/2021,01/12/2025,4.81 MB,Command line csv viewer,Rust,https://github.com/YS-L/csvlens,4.81 MB
+581,brush,3265,154,3265,47,23/02/2024,04/12/2025,201.77 MB,3D Reconstruction for all,Rust,https://github.com/ArthurBrussee/brush,201.77 MB
+582,arrow-rs,3255,1056,3255,625,17/04/2021,04/12/2025,52.97 MB,Official Rust implementation of Apache Arrow,Rust,https://github.com/apache/arrow-rs,52.97 MB
+583,pg_graphql,3254,123,3254,44,05/08/2021,01/12/2025,10.63 MB,GraphQL support for PostgreSQL ,Rust,https://github.com/supabase/pg_graphql,10.63 MB
+584,datafusion-sqlparser-rs,3253,675,3253,232,06/02/2018,04/12/2025,7.77 MB,Extensible SQL Lexer and Parser for Rust,Rust,https://github.com/apache/datafusion-sqlparser-rs,7.77 MB
+585,raft-rs,3250,437,3250,67,19/12/2017,29/10/2025,2.69 MB,Raft distributed consensus algorithm implemented in Rust.,Rust,https://github.com/tikv/raft-rs,2.69 MB
+586,ATAC,3250,119,3250,17,05/02/2024,31/10/2025,35.84 MB,A simple API client (postman like) in your terminal,Rust,https://github.com/Julien-cpsn/ATAC,35.84 MB
+587,aws-sdk-rust,3248,267,3248,146,12/04/2021,04/12/2025,2.50 GB,AWS SDK for the Rust Programming Language,Rust,https://github.com/awslabs/aws-sdk-rust,2.50 GB
+588,OpenSK,3242,315,3242,34,17/12/2019,26/11/2025,7.23 MB,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.,Rust,https://github.com/google/OpenSK,7.23 MB
+589,restate,3241,111,3241,318,04/01/2023,05/12/2025,76.19 MB,Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.,Rust,https://github.com/restatedev/restate,76.19 MB
+590,FastNoiseLite,3236,359,3236,22,28/03/2016,21/09/2025,1.84 MB,Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go ,Rust,https://github.com/Auburn/FastNoiseLite,1.84 MB
+591,syn,3230,345,3230,70,03/09/2016,28/11/2025,11.46 MB,Parser for Rust source code,Rust,https://github.com/dtolnay/syn,11.46 MB
+592,zksync-era,3217,2160,3217,297,15/02/2023,05/12/2025,187.81 MB,zkSync era,Rust,https://github.com/matter-labs/zksync-era,187.81 MB
+593,workers-rs,3213,356,3213,159,10/08/2021,01/12/2025,2.86 MB,Write Cloudflare Workers in 100% Rust via WebAssembly,Rust,https://github.com/cloudflare/workers-rs,2.86 MB
+594,wrangler-legacy,3200,335,3200,0,11/03/2019,03/08/2023,6.41 MB,🤠  Home to Wrangler v1 (deprecated),Rust,https://github.com/cloudflare/wrangler-legacy,6.41 MB
+595,parking_lot,3199,259,3199,72,13/05/2016,19/11/2025,1.94 MB,Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.,Rust,https://github.com/Amanieu/parking_lot,1.94 MB
+596,gobang,3193,98,3193,58,12/06/2021,10/11/2023,77.34 MB,A cross-platform TUI database management tool written in Rust,Rust,https://github.com/TaKO8Ki/gobang,77.34 MB
+597,display-switch,3186,118,3186,20,28/07/2020,02/12/2025,322.00 KB,Turn a $30 USB switch into a full-featured multi-monitor KVM switch,Rust,https://github.com/haimgel/display-switch,322.00 KB
+598,rage,3170,133,3170,60,08/10/2019,17/09/2025,3.49 MB,"A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.",Rust,https://github.com/str4d/rage,3.49 MB
+599,sycamore,3167,166,3167,33,05/03/2021,02/12/2025,45.48 MB,A library for creating reactive web apps in Rust and WebAssembly,Rust,https://github.com/sycamore-rs/sycamore,45.48 MB
+600,maestro,3162,102,3162,10,29/11/2020,05/12/2025,8.05 MB,"Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases",Rust,https://github.com/maestro-os/maestro,8.05 MB
+601,notify,3161,254,3161,120,11/12/2014,16/11/2025,1.45 MB,🔭 Cross-platform filesystem notification library for Rust. ,Rust,https://github.com/notify-rs/notify,1.45 MB
+602,valence,3158,158,3158,83,20/01/2022,21/10/2025,5.55 MB,A Rust framework for building Minecraft servers.,Rust,https://github.com/valence-rs/valence,5.55 MB
+603,lychee,3154,185,3154,94,04/08/2020,05/12/2025,5.55 MB,"⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",Rust,https://github.com/lycheeverse/lychee,5.55 MB
+604,teller,3153,196,3153,55,24/03/2021,30/07/2024,10.67 MB,Cloud native secrets management for developers - never leave your command line for secrets.,Rust,https://github.com/tellerops/teller,10.67 MB
+605,martin,3148,306,3148,110,30/09/2017,03/12/2025,25.96 MB,"Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.",Rust,https://github.com/maplibre/martin,25.96 MB
+606,artichoke,3129,110,3129,118,27/07/2019,03/11/2025,70.09 MB,💎 Artichoke is a Ruby made with Rust,Rust,https://github.com/artichoke/artichoke,70.09 MB
+607,topgrade,3117,202,3117,164,11/10/2022,03/12/2025,8.03 MB,Upgrade all the things,Rust,https://github.com/topgrade-rs/topgrade,8.03 MB
+608,Rust-for-Malware-Development,3115,180,3115,0,12/02/2024,09/11/2025,33.94 MB,"Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀",Rust,https://github.com/Whitecat18/Rust-for-Malware-Development,33.94 MB
+609,Kooha,3108,84,3108,82,04/03/2021,04/12/2025,6.04 MB,Elegantly record your screen,Rust,https://github.com/SeaDve/Kooha,6.04 MB
+610,graph-node,3086,1057,3086,379,19/04/2018,04/12/2025,330.19 MB,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,Rust,https://github.com/graphprotocol/graph-node,330.19 MB
+611,blitz,3084,113,3084,61,28/02/2022,04/12/2025,18.63 MB,A radically modular HTML/CSS rendering engine,Rust,https://github.com/DioxusLabs/blitz,18.63 MB
+612,sandspiel,3084,211,3084,127,20/10/2018,21/10/2025,20.08 MB,Creative cellular automata browser game ,Rust,https://github.com/MaxBittker/sandspiel,20.08 MB
+613,Theseus,3082,182,3082,69,21/07/2017,22/09/2024,132.23 MB,Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.,Rust,https://github.com/theseus-os/Theseus,132.23 MB
+614,codelldb,3061,286,3061,160,11/01/2016,02/12/2025,4.09 MB,"A VSCode debugger extension for native code, powered by LLDB.",Rust,https://github.com/vadimcn/codelldb,4.09 MB
+615,wild,3057,83,3057,61,04/02/2024,05/12/2025,3.57 MB,A very fast linker for Linux,Rust,https://github.com/davidlattimore/wild,3.57 MB
+616,lsp-ai,3057,110,3057,42,24/11/2023,07/01/2025,1.64 MB,"LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.",Rust,https://github.com/SilasMarvin/lsp-ai,1.64 MB
+617,itertools,3051,339,3051,179,28/07/2014,03/12/2025,2.47 MB,"Extra iterator adaptors, iterator methods, free functions, and macros.",Rust,https://github.com/rust-itertools/itertools,2.47 MB
+618,delta-rs,3050,551,3050,193,26/04/2020,02/12/2025,23.52 MB,"A native Rust library for Delta Lake, with bindings into Python",Rust,https://github.com/delta-io/delta-rs,23.52 MB
+619,config-rs,3050,254,3050,138,24/01/2017,01/12/2025,1.21 MB,⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). ,Rust,https://github.com/rust-cli/config-rs,1.21 MB
+620,stacks-core,3044,717,3044,608,23/09/2014,05/12/2025,163.42 MB,The Stacks blockchain implementation,Rust,https://github.com/stacks-network/stacks-core,163.42 MB
+621,nickel.rs,3044,158,3044,55,03/06/2014,10/05/2022,9.39 MB,An expressjs inspired web framework for Rust,Rust,https://github.com/nickel-org/nickel.rs,9.39 MB
+622,i3status-rust,3043,492,3043,131,15/04/2017,22/11/2025,56.97 MB,"Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust",Rust,https://github.com/greshake/i3status-rust,56.97 MB
+623,leftwm,3033,192,3033,109,01/04/2019,04/12/2025,15.15 MB,A tiling window manager for Adventurers,Rust,https://github.com/leftwm/leftwm,15.15 MB
+624,svix-webhooks,3010,219,3010,57,25/02/2021,02/12/2025,13.56 MB,The open source and enterprise-ready webhooks service 🦀,Rust,https://github.com/svix/svix-webhooks,13.56 MB
+625,geph4-client,3007,352,3007,4,13/09/2020,13/02/2025,26.21 MB,Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering. ,Rust,https://github.com/geph-official/geph4-client,26.21 MB
+626,weld,3004,254,3004,75,13/06/2016,22/06/2022,2.94 MB,High-performance runtime for data analytics applications,Rust,https://github.com/weld-project/weld,2.94 MB
+627,gluesql,2996,244,2996,206,11/12/2019,02/12/2025,6.59 MB,GlueSQL is quite sticky. It attaches to anywhere.,Rust,https://github.com/gluesql/gluesql,6.59 MB
+628,rust-bert,2995,238,2995,70,25/01/2020,10/06/2025,4.01 MB,"Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)",Rust,https://github.com/guillaume-be/rust-bert,4.01 MB
+629,IronCalc,2994,103,2994,148,20/11/2023,03/12/2025,7.98 MB,Main engine of the IronCalc ecosystem,Rust,https://github.com/ironcalc/IronCalc,7.98 MB
+630,cargo-expand,2989,72,2989,12,05/06/2016,20/11/2025,1.65 MB,Subcommand to show result of macro expansion,Rust,https://github.com/dtolnay/cargo-expand,1.65 MB
+631,RustGPT,2982,252,2982,10,13/09/2025,10/10/2025,201.00 KB,An transformer based LLM. Written completely in Rust,Rust,https://github.com/tekaratzas/RustGPT,201.00 KB
+632,viu,2972,69,2972,42,12/04/2019,04/12/2024,42.62 MB,Terminal image viewer with native support for iTerm and Kitty,Rust,https://github.com/atanunq/viu,42.62 MB
+633,rust-protobuf,2958,395,2958,90,28/07/2013,21/09/2025,54.19 MB,Rust implementation of Google protocol buffers,Rust,https://github.com/stepancheg/rust-protobuf,54.19 MB
+634,flowistry,2955,62,2955,34,09/03/2021,23/09/2025,93.25 MB,Flowistry is an IDE plugin for Rust that helps you focus on relevant code.,Rust,https://github.com/willcrichton/flowistry,93.25 MB
+635,OffensiveRust,2953,333,2953,1,07/05/2019,25/04/2024,11.24 MB,Rust Weaponization for Red Team Engagements.,Rust,https://github.com/trickster0/OffensiveRust,11.24 MB
+636,bacon,2953,111,2953,58,29/10/2020,02/12/2025,3.24 MB,background code checker,Rust,https://github.com/Canop/bacon,3.24 MB
+637,hayabusa,2951,259,2951,36,18/09/2020,02/12/2025,152.07 MB,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Rust,https://github.com/Yamato-Security/hayabusa,152.07 MB
+638,RustBook,2943,248,2943,5,24/04/2021,21/07/2024,73.16 MB,A book about Rust Data Structures and Algorithms.,Rust,https://github.com/QMHTMY/RustBook,73.16 MB
+639,tfs,2942,124,2942,33,18/10/2016,07/02/2024,885.00 KB,Mirror of https://gitlab.redox-os.org/redox-os/tfs,Rust,https://github.com/redox-os/tfs,885.00 KB
+640,nix,2940,718,2940,319,07/08/2014,05/12/2025,6.14 MB,Rust friendly bindings to *nix APIs,Rust,https://github.com/nix-rust/nix,6.14 MB
+641,imgui-rs,2925,379,2925,70,16/08/2015,05/02/2025,9.42 MB,Rust bindings for Dear ImGui,Rust,https://github.com/imgui-rs/imgui-rs,9.42 MB
+642,aquascope,2921,68,2921,32,15/09/2022,08/07/2025,80.57 MB,Interactive visualizations of Rust at compile-time and run-time,Rust,https://github.com/cognitive-engineering-lab/aquascope,80.57 MB
+643,rust-sdl2,2917,474,2917,258,17/08/2013,26/11/2025,9.22 MB,SDL2 bindings for Rust,Rust,https://github.com/Rust-SDL2/rust-sdl2,9.22 MB
+644,chunkr,2915,188,2915,14,24/08/2024,24/09/2025,621.65 MB,Vision infrastructure to turn complex documents into RAG/LLM-ready data,Rust,https://github.com/lumina-ai-inc/chunkr,621.65 MB
+645,zenith,2907,76,2907,43,16/09/2019,04/12/2025,4.33 MB,"Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage",Rust,https://github.com/bvaisvil/zenith,4.33 MB
+646,Symphonia,2902,175,2902,98,23/02/2019,30/11/2025,2.22 MB,"Pure Rust multimedia format demuxing, tag reading, and audio decoding library",Rust,https://github.com/pdeljanov/Symphonia,2.22 MB
+647,dijo,2899,70,2899,37,01/07/2020,13/08/2024,217.00 KB,"scriptable, curses-based, digital habit tracker",Rust,https://github.com/oppiliappan/dijo,217.00 KB
+648,rquickshare,2899,65,2899,67,12/02/2024,01/12/2025,4.13 MB,Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.,Rust,https://github.com/Martichou/rquickshare,4.13 MB
+649,diskonaut,2898,83,2898,41,22/02/2020,07/03/2024,4.59 MB,Terminal disk space navigator 🔭,Rust,https://github.com/imsnif/diskonaut,4.59 MB
+650,cake,2896,171,2896,17,07/07/2024,23/10/2024,17.87 MB,"Distributed LLM and StableDiffusion inference for mobile, desktop and server.",Rust,https://github.com/evilsocket/cake,17.87 MB
+651,bastion,2883,102,2883,55,21/07/2019,22/04/2023,4.00 MB,Highly-available Distributed Fault-tolerant Runtime,Rust,https://github.com/bastion-rs/bastion,4.00 MB
+652,tinysearch,2879,91,2879,5,28/01/2018,01/09/2025,888.00 KB,"🔍 Tiny, full-text search engine for static websites built with Rust and Wasm",Rust,https://github.com/tinysearch/tinysearch,888.00 KB
+653,pylyzer,2877,41,2877,29,12/12/2022,10/05/2025,3.85 MB,"A fast, feature-rich static code analyzer & language server for Python",Rust,https://github.com/mtshiba/pylyzer,3.85 MB
+654,glicol,2874,96,2874,48,13/07/2020,06/04/2025,111.31 MB,Graph-oriented live coding language and music/audio DSP library written in Rust,Rust,https://github.com/chaosprint/glicol,111.31 MB
+655,differential-dataflow,2871,199,2871,107,05/05/2015,24/11/2025,23.28 MB,An implementation of differential dataflow using timely dataflow on Rust.,Rust,https://github.com/TimelyDataflow/differential-dataflow,23.28 MB
+656,redlib,2867,189,2867,173,26/12/2023,06/10/2025,2.13 MB, Private front-end for Reddit ,Rust,https://github.com/redlib-org/redlib,2.13 MB
+657,qlty,2866,258,2866,59,19/06/2015,04/12/2025,5.43 MB,"💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability",Rust,https://github.com/qltysh/qlty,5.43 MB
+658,cargo-make,2866,140,2866,74,23/06/2017,03/12/2025,20.54 MB,Rust task runner and build tool.,Rust,https://github.com/sagiegurari/cargo-make,20.54 MB
+659,jsr,2860,146,2860,300,28/02/2024,30/11/2025,82.44 MB,The open-source package registry for modern JavaScript and TypeScript,Rust,https://github.com/jsr-io/jsr,82.44 MB
+660,vnt,2856,316,2856,76,03/01/2023,23/09/2025,2.59 MB,An efficient VPN. 简便高效的异地组网、内网穿透工具,Rust,https://github.com/vnt-dev/vnt,2.59 MB
+661,artemis,2852,560,2852,36,25/04/2023,05/03/2024,2.41 MB,"A simple, modular, and fast framework for writing MEV bots in Rust.",Rust,https://github.com/paradigmxyz/artemis,2.41 MB
+662,cargo-watch,2848,83,2848,33,04/08/2014,14/01/2025,1021.00 KB,Watches over your Cargo project's source.,Rust,https://github.com/watchexec/cargo-watch,1021.00 KB
+663,erg,2846,56,2846,74,10/08/2022,04/12/2025,18.77 MB,A statically typed language compatible with Python,Rust,https://github.com/erg-lang/erg,18.77 MB
+664,tarpaulin,2843,194,2843,54,07/04/2017,03/12/2025,3.79 MB,A code coverage tool for Rust projects,Rust,https://github.com/xd009642/tarpaulin,3.79 MB
+665,sqlsync,2837,42,2837,27,26/05/2023,19/11/2025,1.00 MB,"SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.",Rust,https://github.com/orbitinghail/sqlsync,1.00 MB
+666,typeshare,2827,118,2827,86,24/09/2022,30/11/2025,2.98 MB,Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.,Rust,https://github.com/1Password/typeshare,2.98 MB
+667,pgdog,2826,103,2826,129,27/12/2024,05/12/2025,7.03 MB,Horizontal scaling for PostgreSQL with automatic sharding.,Rust,https://github.com/pgdogdev/pgdog,7.03 MB
+668,hashbrown,2816,320,2816,97,28/10/2018,30/11/2025,6.21 MB,Rust port of Google's SwissTable hash map,Rust,https://github.com/rust-lang/hashbrown,6.21 MB
+669,kmon,2812,88,2812,16,05/11/2019,22/04/2025,1.59 MB,Linux Kernel Manager and Activity Monitor 🐧💻,Rust,https://github.com/orhun/kmon,1.59 MB
+670,horaedb,2809,224,2809,25,26/05/2022,28/10/2025,12.31 MB,"Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.",Rust,https://github.com/apache/horaedb,12.31 MB
+671,taffy,2808,157,2808,96,04/01/2022,04/12/2025,57.20 MB,A high performance rust-powered UI layout library,Rust,https://github.com/DioxusLabs/taffy,57.20 MB
+672,headway,2803,69,2803,24,15/11/2020,05/12/2025,5.29 MB,"Self-hostable maps stack, powered by OpenStreetMap.",Rust,https://github.com/headwaymaps/headway,5.29 MB
+673,trustfall,2796,84,2796,54,11/01/2022,01/12/2025,5.80 MB,A query engine for any combination of data sources. Query your files and APIs as if they were databases!,Rust,https://github.com/obi1kenobi/trustfall,5.80 MB
+674,flume,2792,97,2792,37,30/07/2019,28/11/2025,602.00 KB,"A safe and fast multi-producer, multi-consumer channel.",Rust,https://github.com/zesterer/flume,602.00 KB
+675,rust-headless-chrome,2785,255,2785,140,18/09/2018,23/11/2025,1.39 MB,"A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.",Rust,https://github.com/rust-headless-chrome/rust-headless-chrome,1.39 MB
+676,kani,2770,130,2770,479,26/03/2021,01/12/2025,35.13 MB,Kani Rust Verifier,Rust,https://github.com/model-checking/kani,35.13 MB
+677,cbindgen,2767,357,2767,256,12/04/2017,29/10/2025,2.78 MB,A project for generating C bindings from Rust code,Rust,https://github.com/mozilla/cbindgen,2.78 MB
+678,IronRDP,2763,148,2763,46,10/07/2019,05/12/2025,15.10 MB,Rust implementation of the Microsoft Remote Desktop Protocol (RDP),Rust,https://github.com/Devolutions/IronRDP,15.10 MB
+679,nickel,2760,108,2760,147,08/01/2019,04/12/2025,33.65 MB,Better configuration for less,Rust,https://github.com/tweag/nickel,33.65 MB
+680,stork,2754,59,2754,47,20/11/2019,01/07/2023,2.89 MB,"🔎 Impossibly fast web search, made for static sites.",Rust,https://github.com/jameslittle230/stork,2.89 MB
+681,inkwell,2750,257,2750,117,27/06/2017,01/12/2025,10.20 MB,It's a New Kind of Wrapper for Exposing LLVM (Safely),Rust,https://github.com/TheDan64/inkwell,10.20 MB
+682,structopt,2733,150,2733,5,03/02/2017,07/01/2024,643.00 KB,Parse command line arguments by defining a struct.,Rust,https://github.com/TeXitoi/structopt,643.00 KB
+683,rusoto,2732,441,2732,259,15/07/2015,11/12/2023,252.23 MB,AWS SDK for Rust,Rust,https://github.com/rusoto/rusoto,252.23 MB
+684,rslint,2727,81,2727,38,07/04/2020,05/03/2023,2.92 MB,A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate,Rust,https://github.com/rslint/rslint,2.92 MB
+685,habitat,2726,317,2726,24,22/05/2015,05/12/2025,189.86 MB,Modern applications with built-in automation,Rust,https://github.com/habitat-sh/habitat,189.86 MB
+686,ezno,2723,45,2723,46,03/02/2023,27/11/2025,3.80 MB,A fast and correct TypeScript type checker and compiler with additional experiments,Rust,https://github.com/kaleidawave/ezno,3.80 MB
+687,dora,2719,244,2719,134,17/02/2022,04/12/2025,13.28 MB,"DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",Rust,https://github.com/dora-rs/dora,13.28 MB
+688,spyglass,2717,72,2717,43,17/11/2021,27/06/2025,48.36 MB,"A personal search engine:  Create a searchable library from your personal documents, interests, and more!",Rust,https://github.com/spyglass-search/spyglass,48.36 MB
+689,nextest,2711,132,2711,100,08/02/2022,04/12/2025,15.90 MB,A next-generation test runner for Rust.,Rust,https://github.com/nextest-rs/nextest,15.90 MB
+690,rustic,2705,108,2705,136,14/03/2022,04/12/2025,7.33 MB,"rustic - fast, encrypted, and deduplicated backups powered by Rust",Rust,https://github.com/rustic-rs/rustic,7.33 MB
+691,feather,2691,146,2691,109,13/06/2019,12/04/2024,10.97 MB,A Minecraft server implementation in Rust,Rust,https://github.com/feather-rs/feather,10.97 MB
+692,cargo-bloat,2680,56,2680,15,07/01/2018,10/05/2024,234.00 KB,Find out what takes most of the space in your executable.,Rust,https://github.com/RazrFalcon/cargo-bloat,234.00 KB
+693,tract,2679,237,2679,79,07/08/2017,05/12/2025,53.38 MB,"Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",Rust,https://github.com/sonos/tract,53.38 MB
+694,tsukimi,2674,130,2674,24,04/03/2024,01/12/2025,49.84 MB,A simple third-party Jellyfin client for Linux,Rust,https://github.com/tsukinaha/tsukimi,49.84 MB
+695,leaf,2661,487,2661,115,27/09/2020,05/11/2025,1.91 MB,A versatile and efficient proxy framework with nice features suitable for various use cases.,Rust,https://github.com/eycorsican/leaf,1.91 MB
+696,quickcheck,2657,157,2657,36,09/03/2014,05/05/2025,870.00 KB,Automated property based testing for Rust (with shrinking).,Rust,https://github.com/BurntSushi/quickcheck,870.00 KB
+697,hora,2651,77,2651,24,15/05/2021,31/01/2024,14.51 MB,🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . ,Rust,https://github.com/hora-search/hora,14.51 MB
+698,termscp,2647,67,2647,9,07/11/2020,02/12/2025,26.77 MB,🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB,Rust,https://github.com/veeso/termscp,26.77 MB
+699,rust-sdk,2647,409,2647,95,18/02/2025,04/12/2025,998.00 KB,The official Rust SDK for the Model Context Protocol,Rust,https://github.com/modelcontextprotocol/rust-sdk,998.00 KB
+700,pop,2646,99,2646,1647,26/10/2017,27/10/2025,644.00 KB,A project for managing all Pop!_OS sources,Rust,https://github.com/pop-os/pop,644.00 KB
+701,insta,2644,134,2644,67,13/01/2019,29/11/2025,10.91 MB,A snapshot testing library for rust,Rust,https://github.com/mitsuhiko/insta,10.91 MB
+702,forma,2642,56,2642,23,17/11/2022,16/05/2023,10.80 MB,An efficient vector-graphics renderer,Rust,https://github.com/google/forma,10.80 MB
+703,luminal,2640,175,2640,45,18/07/2023,16/11/2025,78.95 MB,Deep learning at the speed of light.,Rust,https://github.com/luminal-ai/luminal,78.95 MB
+704,spiceai,2640,151,2640,421,08/08/2021,05/12/2025,68.57 MB,"A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",Rust,https://github.com/spiceai/spiceai,68.57 MB
+705,skytable,2634,90,2634,29,30/06/2020,31/07/2025,6.53 MB,"Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences",Rust,https://github.com/skytable/skytable,6.53 MB
+706,wrkflw,2627,36,2627,9,29/03/2025,05/09/2025,8.61 MB,Validate and Run GitHub Actions locally.,Rust,https://github.com/bahdotsh/wrkflw,8.61 MB
+707,rust-gpu,2625,83,2625,190,11/07/2024,05/12/2025,404.70 MB,🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧,Rust,https://github.com/Rust-GPU/rust-gpu,404.70 MB
+708,avian,2620,195,2620,153,29/05/2022,30/11/2025,10.02 MB,ECS-driven 2D and 3D physics engine for the Bevy game engine.,Rust,https://github.com/avianphysics/avian,10.02 MB
+709,salsa,2619,194,2619,103,28/09/2018,04/12/2025,10.17 MB,"A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.",Rust,https://github.com/salsa-rs/salsa,10.17 MB
+710,prek,2609,85,2609,69,07/10/2024,05/12/2025,5.35 MB,"⚡ Better `pre-commit`, re-engineered in Rust",Rust,https://github.com/j178/prek,5.35 MB
+711,javy,2601,124,2601,22,22/04/2021,03/12/2025,104.35 MB,JS to WebAssembly toolchain,Rust,https://github.com/bytecodealliance/javy,104.35 MB
+712,sysinfo,2593,387,2593,59,10/03/2015,04/12/2025,3.44 MB,Cross-platform library to fetch system information,Rust,https://github.com/GuillaumeGomez/sysinfo,3.44 MB
+713,specs,2582,214,2582,48,06/04/2016,07/06/2024,2.72 MB,Specs - Parallel ECS,Rust,https://github.com/amethyst/specs,2.72 MB
+714,tach,2576,73,2576,38,31/01/2024,03/12/2025,23.83 MB,"A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust",Rust,https://github.com/tach-org/tach,23.83 MB
+715,nexus-zkvm,2569,528,2569,9,07/09/2023,24/11/2025,72.87 MB,The Nexus zkVM: The zero-knowledge virtual machine,Rust,https://github.com/nexus-xyz/nexus-zkvm,72.87 MB
+716,shadow-tls,2568,288,2568,46,25/08/2022,25/04/2025,475.00 KB,A proxy to expose real tls handshake to the firewall,Rust,https://github.com/ihciah/shadow-tls,475.00 KB
+717,dysk,2568,52,2568,19,09/10/2020,02/12/2025,4.64 MB,"A linux utility to get information on filesystems, like df but better",Rust,https://github.com/Canop/dysk,4.64 MB
+718,tabiew,2568,74,2568,6,27/04/2024,05/12/2025,28.11 MB,"A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.",Rust,https://github.com/shshemi/tabiew,28.11 MB
+719,trieve,2566,229,2566,2,26/03/2023,10/10/2025,180.77 MB,"All-in-one platform for search, recommendations, RAG, and analytics offered via API",Rust,https://github.com/devflowinc/trieve,180.77 MB
+720,polkadot-sdk,2561,1087,2561,2210,04/08/2023,05/12/2025,819.92 MB,The Parity Polkadot Blockchain SDK,Rust,https://github.com/paritytech/polkadot-sdk,819.92 MB
+721,gitu,2557,127,2557,55,23/12/2023,01/12/2025,21.26 MB,A TUI Git client inspired by Magit,Rust,https://github.com/altsem/gitu,21.26 MB
+722,jarvis,2551,546,2551,77,14/12/2022,07/11/2023,136.02 MB,Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.,Rust,https://github.com/Priler/jarvis,136.02 MB
+723,erdtree,2543,69,2543,36,05/05/2022,19/05/2024,18.59 MB,"A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.",Rust,https://github.com/solidiquis/erdtree,18.59 MB
+724,arpchat,2542,52,2542,8,21/03/2022,15/08/2023,93.00 KB,Answering the question nobody asked: what if you wanted to text your friends using only ARP?,Rust,https://github.com/kognise/arpchat,93.00 KB
+725,fclones,2542,95,2542,74,06/06/2020,03/03/2025,874.00 KB,Efficient Duplicate File Finder,Rust,https://github.com/pkolaczk/fclones,874.00 KB
+726,rbspy,2542,104,2542,29,12/05/2016,24/10/2025,2.75 MB,Sampling CPU profiler for Ruby,Rust,https://github.com/rbspy/rbspy,2.75 MB
+727,nearcore,2539,743,2539,376,02/10/2018,05/12/2025,222.19 MB,Reference client for NEAR Protocol,Rust,https://github.com/near/nearcore,222.19 MB
+728,open-tv,2538,112,2538,62,13/03/2022,01/12/2025,27.73 MB,"Ultra-fast, simple and powerful cross-platform IPTV app",Rust,https://github.com/Fredolx/open-tv,27.73 MB
+729,loom,2537,125,2537,105,15/12/2018,12/08/2025,526.00 KB,Concurrency permutation testing tool for Rust.,Rust,https://github.com/tokio-rs/loom,526.00 KB
+730,tinymist,2537,105,2537,144,06/03/2024,03/12/2025,10.37 MB,Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].,Rust,https://github.com/Myriad-Dreamin/tinymist,10.37 MB
+731,aws-lambda-web-adapter,2535,146,2535,35,19/08/2021,17/11/2025,37.32 MB,Run web applications on AWS Lambda,Rust,https://github.com/awslabs/aws-lambda-web-adapter,37.32 MB
+732,rust-stakeholder,2533,50,2533,12,15/03/2025,17/03/2025,271.00 KB,Generate impressive-looking terminal output to look busy when stakeholders walk by,Rust,https://github.com/giacomo-b/rust-stakeholder,271.00 KB
+733,rinf,2532,100,2532,20,15/02/2023,28/11/2025,24.04 MB,"Rust for native business logic, Flutter for flexible and beautiful GUI",Rust,https://github.com/cunarist/rinf,24.04 MB
+734,libpnet,2531,321,2531,137,31/08/2014,23/01/2025,1.46 MB,"Cross-platform, low level networking using the Rust programming language.",Rust,https://github.com/libpnet/libpnet,1.46 MB
+735,ethers-rs,2525,784,2525,213,24/05/2020,23/09/2024,9.65 MB,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,Rust,https://github.com/gakonst/ethers-rs,9.65 MB
+736,rust-bitcoin,2518,919,2518,484,18/07/2014,04/12/2025,19.43 MB,Rust Bitcoin library,Rust,https://github.com/rust-bitcoin/rust-bitcoin,19.43 MB
+737,namada,2517,1019,2517,218,05/07/2022,05/12/2025,273.69 MB,"Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",Rust,https://github.com/namada-net/namada,273.69 MB
+738,lyon,2514,151,2514,18,28/05/2016,13/11/2025,15.47 MB,2D graphics rendering on the GPU in rust using path tessellation.,Rust,https://github.com/nical/lyon,15.47 MB
+739,slatedb,2507,164,2507,132,26/03/2024,05/12/2025,3.56 MB,A cloud native embedded storage engine built on object storage.,Rust,https://github.com/slatedb/slatedb,3.56 MB
+740,somo,2505,62,2505,3,15/05/2023,01/12/2025,1.33 MB,A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.,Rust,https://github.com/theopfr/somo,1.33 MB
+741,zebar,2503,100,2503,52,30/06/2023,15/10/2025,3.79 MB,"Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.",Rust,https://github.com/glzr-io/zebar,3.79 MB
+742,rust-cookbook,2503,313,2503,76,21/02/2017,25/11/2025,4.50 MB,https://rust-lang-nursery.github.io/rust-cookbook,Rust,https://github.com/rust-lang-nursery/rust-cookbook,4.50 MB
+743,autocxx,2498,162,2498,133,13/08/2020,29/08/2025,7.82 MB,Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers,Rust,https://github.com/google/autocxx,7.82 MB
+744,connector-x,2496,201,2496,222,13/01/2021,04/12/2025,243.69 MB,Fastest library to load data from DB to DataFrames in Rust and Python,Rust,https://github.com/sfu-db/connector-x,243.69 MB
+745,privaxy,2495,116,2495,19,08/05/2022,19/07/2024,10.75 MB,"Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS",Rust,https://github.com/Barre/privaxy,10.75 MB
+746,volo,2493,208,2493,43,11/05/2022,17/11/2025,2.49 MB,Rust RPC framework with high-performance and strong-extensibility for building micro-services.,Rust,https://github.com/cloudwego/volo,2.49 MB
+747,sekey,2486,79,2486,32,30/11/2017,11/11/2022,2.28 MB,Use Touch ID / Secure Enclave for SSH Authentication!,Rust,https://github.com/sekey/sekey,2.28 MB
+748,maud,2483,165,2483,55,17/12/2014,03/06/2025,977.00 KB,:pencil: Compile-time HTML templates for Rust,Rust,https://github.com/lambda-fairy/maud,977.00 KB
+749,freya,2483,97,2483,82,27/07/2022,05/12/2025,35.69 MB,Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.,Rust,https://github.com/marc2332/freya,35.69 MB
+750,smithay,2481,223,2481,226,20/01/2017,04/12/2025,28.00 MB,A smithy for rusty wayland compositors,Rust,https://github.com/Smithay/smithay,28.00 MB
+751,freenet-core,2475,107,2475,114,16/07/2021,05/12/2025,161.63 MB,Declare your digital independence,Rust,https://github.com/freenet/freenet-core,161.63 MB
+752,mlua,2472,187,2472,58,30/11/2019,22/11/2025,3.78 MB,High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support,Rust,https://github.com/mlua-rs/mlua,3.78 MB
+753,jiff,2471,76,2471,26,17/02/2024,26/11/2025,3.73 MB,A datetime library for Rust that encourages you to jump into the pit of success.,Rust,https://github.com/BurntSushi/jiff,3.73 MB
+754,nih-plug,2468,216,2468,95,24/01/2022,07/09/2025,2.79 MB,Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself,Rust,https://github.com/robbert-vdh/nih-plug,2.79 MB
+755,probe-rs,2465,503,2465,362,10/02/2019,02/12/2025,40.76 MB,A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host,Rust,https://github.com/probe-rs/probe-rs,40.76 MB
+756,weggli,2463,141,2463,47,30/09/2021,12/07/2024,2.21 MB,weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.,Rust,https://github.com/weggli-rs/weggli,2.21 MB
+757,pgvectorscale,2454,113,2454,16,01/07/2023,04/11/2025,791.00 KB,"A complement to pgvector for high performance, cost efficient vector search on large workloads.",Rust,https://github.com/timescale/pgvectorscale,791.00 KB
+758,relm,2454,79,2454,57,10/02/2017,19/04/2024,1.46 MB,"Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust",Rust,https://github.com/antoyo/relm,1.46 MB
+759,skia-canvas,2452,89,2452,15,04/08/2020,26/09/2025,8.00 MB,"A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js",Rust,https://github.com/samizdatco/skia-canvas,8.00 MB
+760,log,2448,280,2448,19,13/12/2014,02/12/2025,1.06 MB,Logging implementation for Rust,Rust,https://github.com/rust-lang/log,1.06 MB
+761,polaris,2447,116,2447,38,14/08/2016,13/09/2025,24.75 MB,"Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.",Rust,https://github.com/agersant/polaris,24.75 MB
+762,embedded-hal,2446,254,2446,146,09/06/2017,04/12/2025,1.58 MB,A Hardware Abstraction Layer (HAL) for embedded systems,Rust,https://github.com/rust-embedded/embedded-hal,1.58 MB
+763,ntex,2446,124,2446,5,31/01/2020,05/12/2025,12.91 MB,framework for composable networking services ,Rust,https://github.com/ntex-rs/ntex,12.91 MB
+764,charming,2445,102,2445,17,29/06/2023,24/11/2025,2.86 MB,A visualization library for Rust,Rust,https://github.com/yuankunzhang/charming,2.86 MB
+765,inquire,2442,95,2442,74,15/06/2021,23/09/2025,4.93 MB,A Rust library for building interactive prompts,Rust,https://github.com/mikaelmello/inquire,4.93 MB
+766,defguard,2427,81,2427,252,19/10/2022,05/12/2025,19.77 MB,Zero-Trust access management with true WireGuard® 2FA/MFA,Rust,https://github.com/DefGuard/defguard,19.77 MB
+767,faer-rs,2424,91,2424,32,13/06/2022,25/11/2025,10.21 MB,Linear algebra foundation for the Rust programming language,Rust,https://github.com/sarah-quinones/faer-rs,10.21 MB
+768,gptcommit,2421,83,2421,22,13/01/2023,03/12/2025,402.00 KB,A git prepare-commit-msg hook for authoring commit messages with LLMs.,Rust,https://github.com/zurawiki/gptcommit,402.00 KB
+769,html5ever,2420,257,2420,71,13/03/2014,01/12/2025,3.22 MB,High-performance browser-grade HTML5 parser,Rust,https://github.com/servo/html5ever,3.22 MB
+770,fleet,2417,48,2417,27,14/04/2022,06/07/2023,12.56 MB,🚀 The blazing fast build tool for Rust.,Rust,https://github.com/suptejas/fleet,12.56 MB
+771,loc,2417,126,2417,61,05/07/2016,21/04/2024,396.00 KB,Count lines of code quickly.,Rust,https://github.com/cgag/loc,396.00 KB
+772,rbatis,2415,164,2415,75,08/03/2019,03/12/2025,7.17 MB,Compile Time Async Dynamic SQL ORM,Rust,https://github.com/rbatis/rbatis,7.17 MB
+773,numaflow,2414,147,2414,237,20/05/2022,05/12/2025,54.26 MB,Kubernetes-native platform to run massively parallel data/streaming jobs,Rust,https://github.com/numaproj/numaflow,54.26 MB
+774,engine,2411,78,2411,1,21/10/2020,01/09/2025,10.36 MB,The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️,Rust,https://github.com/Qovery/engine,10.36 MB
+775,LibAFL,2409,421,2409,133,22/10/2020,05/12/2025,27.44 MB,"Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...",Rust,https://github.com/AFLplusplus/LibAFL,27.44 MB
+776,piranha,2409,207,2409,68,06/12/2018,06/10/2025,3.38 MB,A tool for refactoring code related to feature flag APIs,Rust,https://github.com/uber/piranha,3.38 MB
+777,pulldown-cmark,2409,267,2409,69,03/06/2015,21/11/2025,4.49 MB,"An efficient, reliable parser for CommonMark, a standard dialect of Markdown",Rust,https://github.com/pulldown-cmark/pulldown-cmark,4.49 MB
+778,spot,2406,133,2406,114,07/05/2020,13/10/2025,32.59 MB,UNMAINTAINED! Please check out active forks,Rust,https://github.com/xou816/spot,32.59 MB
+779,miette,2398,135,2398,102,03/08/2021,29/09/2025,1.90 MB,"Fancy extension for std::error::Error with pretty, detailed diagnostic printing.",Rust,https://github.com/zkat/miette,1.90 MB
+780,rust-doom,2397,102,2397,7,18/09/2014,29/01/2024,18.00 MB,A Doom Renderer written in Rust.,Rust,https://github.com/cristicbz/rust-doom,18.00 MB
+781,libc,2396,1178,2396,187,13/01/2015,05/12/2025,45.47 MB,Raw bindings to platform APIs for Rust,Rust,https://github.com/rust-lang/libc,45.47 MB
+782,cargo-chef,2394,131,2394,52,19/10/2020,10/11/2025,318.00 KB,A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.,Rust,https://github.com/LukeMathWalker/cargo-chef,318.00 KB
+783,kdash,2393,90,2393,44,13/04/2021,17/10/2025,9.53 MB,A simple and fast dashboard for Kubernetes,Rust,https://github.com/kdash-rs/kdash,9.53 MB
+784,indradb,2389,132,2389,17,15/01/2018,16/08/2025,2.51 MB,A graph database written in rust,Rust,https://github.com/indradb/indradb,2.51 MB
+785,wtftw,2388,84,2388,23,01/11/2014,28/04/2021,20.27 MB,Window Tiling For The Win. A tiling window manager written in Rust,Rust,https://github.com/Kintaro/wtftw,20.27 MB
+786,SQLPage,2386,158,2386,102,31/07/2022,03/12/2025,65.70 MB,Fast SQL-only data application builder. Automatically build a UI on top of SQL queries. ,Rust,https://github.com/sqlpage/SQLPage,65.70 MB
+787,mCaptcha,2379,84,2379,50,09/03/2021,07/10/2025,35.91 MB,A no-nonsense CAPTCHA system with seamless UX | Backend component,Rust,https://github.com/mCaptcha/mCaptcha,35.91 MB
+788,opentelemetry-rust,2377,598,2377,285,11/11/2019,05/12/2025,9.02 MB,The Rust OpenTelemetry implementation,Rust,https://github.com/open-telemetry/opentelemetry-rust,9.02 MB
+789,kubie,2376,111,2376,57,07/02/2020,23/09/2025,3.84 MB,A more powerful alternative to kubectx and kubens,Rust,https://github.com/sbstp/kubie,3.84 MB
+790,yek,2376,62,2376,9,11/01/2025,20/10/2025,996.00 KB,A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption,Rust,https://github.com/bodo-run/yek,996.00 KB
+791,gcsf,2376,93,2376,48,06/04/2018,10/06/2024,1.98 MB,a FUSE file system based on Google Drive,Rust,https://github.com/harababurel/gcsf,1.98 MB
+792,validator,2373,173,2373,58,27/12/2016,07/03/2025,449.00 KB,Simple validation for Rust structs,Rust,https://github.com/Keats/validator,449.00 KB
+793,fornjot,2368,125,2368,17,07/04/2021,04/12/2025,19.80 MB,"Early-stage b-rep CAD kernel, written in the Rust programming language.",Rust,https://github.com/hannobraun/fornjot,19.80 MB
+794,stract,2362,59,2362,46,19/05/2022,24/03/2025,20.51 MB,web search done right,Rust,https://github.com/StractOrg/stract,20.51 MB
+795,capnproto-rust,2360,243,2360,86,04/07/2013,04/12/2025,8.24 MB,Cap'n Proto for Rust,Rust,https://github.com/capnproto/capnproto-rust,8.24 MB
+796,nebulet,2352,73,2352,11,19/02/2018,28/02/2023,1.12 MB,"A proof-of-concept microkernel that implements a WebAssembly ""usermode"" that runs in Ring 0.",Rust,https://github.com/nebulet/nebulet,1.12 MB
+797,mdcat,2349,82,2349,0,07/01/2018,10/01/2025,3.72 MB,cat for markdown,Rust,https://github.com/swsnr/mdcat,3.72 MB
+798,quary,2348,59,2348,47,20/02/2024,20/10/2025,107.82 MB,Open-source BI for engineers,Rust,https://github.com/quarylabs/quary,107.82 MB
+799,minijinja,2344,134,2344,25,15/09/2021,30/11/2025,4.36 MB,MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2,Rust,https://github.com/mitsuhiko/minijinja,4.36 MB
+800,sn0int,2340,210,2340,53,05/10/2018,31/01/2025,3.73 MB,Semi-automatic OSINT framework and package manager,Rust,https://github.com/kpcyrd/sn0int,3.73 MB
+801,move,2339,706,2339,210,12/04/2022,04/05/2024,86.88 MB,,Rust,https://github.com/move-language/move,86.88 MB
+802,vortex,2332,99,2332,280,27/02/2024,05/12/2025,29.93 MB,"An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.",Rust,https://github.com/vortex-data/vortex,29.93 MB
+803,scryer-prolog,2329,158,2329,489,29/10/2016,04/12/2025,10.71 MB,A modern Prolog implementation written mostly in Rust.,Rust,https://github.com/mthom/scryer-prolog,10.71 MB
+804,cargo-binstall,2326,91,2326,93,14/12/2020,05/12/2025,5.17 MB,Binary installation for rust projects,Rust,https://github.com/cargo-bins/cargo-binstall,5.17 MB
+805,notty,2323,40,2323,23,15/11/2015,27/03/2017,2.30 MB,A new kind of terminal,Rust,https://github.com/withoutboats/notty,2.30 MB
+806,opencv-rust,2322,177,2322,43,14/04/2015,01/12/2025,24.63 MB,Rust bindings for OpenCV,Rust,https://github.com/twistedfall/opencv-rust,24.63 MB
+807,cargo-generate,2321,186,2321,43,29/05/2018,03/12/2025,4.53 MB,"cargo, make me a project",Rust,https://github.com/cargo-generate/cargo-generate,4.53 MB
+808,elfshaker,2318,47,2318,8,14/10/2021,01/09/2025,780.00 KB,elfshaker stores binary objects efficiently,Rust,https://github.com/elfshaker/elfshaker,780.00 KB
+809,below,2316,94,2316,21,19/02/2020,05/12/2025,5.06 MB,A time traveling resource monitor for modern Linux systems,Rust,https://github.com/facebookincubator/below,5.06 MB
+810,may,2312,96,2312,24,24/03/2017,26/11/2025,1.33 MB,rust stackful coroutine library,Rust,https://github.com/Xudong-Huang/may,1.33 MB
+811,tokio-tungstenite,2303,247,2303,21,17/03/2017,25/09/2025,268.00 KB,Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation,Rust,https://github.com/snapview/tokio-tungstenite,268.00 KB
+812,percy,2301,84,2301,43,16/07/2018,29/09/2024,9.71 MB,Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.,Rust,https://github.com/chinedufn/percy,9.71 MB
+813,rq,2296,59,2296,39,20/02/2016,21/12/2023,18.15 MB,Record Query - A tool for doing record analysis and transformation,Rust,https://github.com/dflemstr/rq,18.15 MB
+814,river,2295,134,2295,32,12/02/2024,06/09/2024,198.00 KB,"This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.",Rust,https://github.com/memorysafety/river,198.00 KB
+815,gotham,2288,125,2288,52,22/07/2017,21/08/2025,2.52 MB,"A flexible web framework that promotes stability, safety, security and speed.",Rust,https://github.com/gotham-rs/gotham,2.52 MB
+816,zenoh,2286,224,2286,194,21/01/2020,05/12/2025,24.29 MB,"zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",Rust,https://github.com/eclipse-zenoh/zenoh,24.29 MB
+817,parseable,2282,157,2282,37,03/08/2022,29/11/2025,12.13 MB,"Parseable is an observability platform built for the modern - cloud native, AI era.",Rust,https://github.com/parseablehq/parseable,12.13 MB
+818,diffsitter,2276,46,2276,25,28/06/2020,05/12/2025,2.16 MB,A tree-sitter based AST difftool to get meaningful semantic diffs,Rust,https://github.com/afnanenayet/diffsitter,2.16 MB
+819,bionic-gpt,2274,233,2274,16,07/07/2023,22/11/2025,157.19 MB,"Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",Rust,https://github.com/bionic-gpt/bionic-gpt,157.19 MB
+820,bevy-cheatbook,2273,136,2273,116,22/01/2021,03/12/2025,7.49 MB,Unofficial Reference Book for the Bevy Game Engine,Rust,https://github.com/bevy-cheatbook/bevy-cheatbook,7.49 MB
+821,tabled,2268,94,2268,119,25/02/2020,26/11/2025,49.10 MB,An easy to use library for pretty print tables of Rust structs and enums.,Rust,https://github.com/zhiburt/tabled,49.10 MB
+822,scraper,2267,123,2267,15,01/01/2016,01/12/2025,412.00 KB,HTML parsing and querying with CSS selectors,Rust,https://github.com/rust-scraper/scraper,412.00 KB
+823,crux,2264,93,2264,47,08/10/2022,05/12/2025,12.57 MB,Cross-platform app development in Rust,Rust,https://github.com/redbadger/crux,12.57 MB
+824,ServerStatus-Rust,2259,390,2259,40,24/01/2022,28/11/2025,1.78 MB,✨ Rust 版 ServerStatus 探针、威力加强版,Rust,https://github.com/zdz/ServerStatus-Rust,1.78 MB
+825,oryx,2256,62,2256,5,01/09/2024,23/11/2025,388.00 KB,🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux,Rust,https://github.com/pythops/oryx,388.00 KB
+826,numbat,2255,89,2255,120,23/07/2022,25/11/2025,12.39 MB,A statically typed programming language for scientific computations with first class support for physical dimensions and units,Rust,https://github.com/sharkdp/numbat,12.39 MB
+827,writing-an-os-in-rust,2254,207,2254,8,23/12/2018,23/06/2023,469.00 KB,《使用Rust编写操作系统》,Rust,https://github.com/rustcc/writing-an-os-in-rust,469.00 KB
+828,cargo-crev,2250,97,2250,55,22/08/2018,21/11/2025,3.29 MB,A cryptographically verifiable code review system for the cargo (Rust) package manager.,Rust,https://github.com/crev-dev/cargo-crev,3.29 MB
+829,bluetui,2246,53,2246,12,21/02/2024,22/11/2025,333.00 KB,🛜 TUI for managing bluetooth on Linux,Rust,https://github.com/pythops/bluetui,333.00 KB
+830,tungstenite-rs,2242,254,2242,39,17/03/2017,01/12/2025,741.00 KB,Lightweight stream-based WebSocket implementation for Rust.,Rust,https://github.com/snapview/tungstenite-rs,741.00 KB
+831,indexmap,2241,188,2241,12,15/09/2016,03/12/2025,1.26 MB,A hash table with consistent order and fast iteration; access items by key or sequence index,Rust,https://github.com/indexmap-rs/indexmap,1.26 MB
+832,webapp.rs,2241,221,2241,23,09/06/2018,16/03/2023,6.00 MB,A web application completely written in Rust. 🌍 ,Rust,https://github.com/saschagrunert/webapp.rs,6.00 MB
+833,vega,2239,203,2239,36,22/10/2019,18/04/2022,2.10 MB,A new arguably faster implementation of Apache Spark from scratch in Rust,Rust,https://github.com/rajasekarv/vega,2.10 MB
+834,utoo,2238,104,2238,52,06/04/2023,05/12/2025,19.36 MB,An unified toolchain for web development.,Rust,https://github.com/utooland/utoo,19.36 MB
+835,BetterNCM-Installer,2235,183,2235,8,16/04/2022,02/10/2024,3.79 MB,一键安装 Better 系软件,Rust,https://github.com/std-microblock/BetterNCM-Installer,3.79 MB
+836,moka,2234,98,2234,62,05/04/2020,27/09/2025,2.77 MB,A high performance concurrent caching library for Rust,Rust,https://github.com/moka-rs/moka,2.77 MB
+837,perseus,2233,89,2233,26,16/07/2021,02/08/2025,176.36 MB,A state-driven web development framework for Rust with full support for server-side rendering and static generation.,Rust,https://github.com/framesurge/perseus,176.36 MB
+838,drill,2228,116,2228,59,18/05/2017,29/02/2024,357.00 KB,Drill is an HTTP load testing application written in Rust,Rust,https://github.com/fcsonline/drill,357.00 KB
+839,cargo-zigbuild,2225,79,2225,43,16/02/2022,01/12/2025,907.00 KB,Compile Cargo project with zig as linker,Rust,https://github.com/rust-cross/cargo-zigbuild,907.00 KB
+840,tunnelto,2224,124,2224,46,22/03/2020,24/09/2022,305.00 KB,Expose your local web server to the internet with a public URL.,Rust,https://github.com/agrinman/tunnelto,305.00 KB
+841,kcl,2219,154,2219,127,05/05/2022,03/12/2025,12.37 MB,KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io,Rust,https://github.com/kcl-lang/kcl,12.37 MB
+842,xiu,2217,226,2217,33,16/08/2020,03/11/2025,1.40 MB," A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀",Rust,https://github.com/harlanc/xiu,1.40 MB
+843,strum,2212,178,2212,83,05/02/2017,19/07/2025,571.00 KB,A small rust library for adding custom derives to enums,Rust,https://github.com/Peternator7/strum,571.00 KB
+844,gtk4-rs,2210,196,2210,85,13/05/2019,02/12/2025,234.48 MB,Rust bindings of GTK 4,Rust,https://github.com/gtk-rs/gtk4-rs,234.48 MB
+845,unreal-rust,2207,87,2207,21,27/12/2021,05/06/2024,470.00 KB,Rust integration for Unreal Engine 5,Rust,https://github.com/MaikKlein/unreal-rust,470.00 KB
+846,syntect,2189,157,2189,71,15/05/2016,01/11/2025,16.05 MB,Rust library for syntax highlighting using Sublime Text syntax definitions.,Rust,https://github.com/trishume/syntect,16.05 MB
+847,Plume,2189,147,2189,165,21/04/2018,08/04/2025,15.27 MB,"Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)",Rust,https://github.com/Plume-org/Plume,15.27 MB
+848,walker,2185,83,2185,9,07/03/2024,05/12/2025,17.11 MB,Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.,Rust,https://github.com/abenz1267/walker,17.11 MB
+849,noseyparker,2181,122,2181,25,08/11/2022,14/11/2025,29.26 MB,Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.,Rust,https://github.com/praetorian-inc/noseyparker,29.26 MB
+850,rtic,2176,243,2176,45,05/03/2017,03/12/2025,39.67 MB,Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers,Rust,https://github.com/rtic-rs/rtic,39.67 MB
+851,rodio,2172,284,2172,156,22/07/2015,25/11/2025,21.07 MB,Rust audio playback library,Rust,https://github.com/RustAudio/rodio,21.07 MB
+852,ante,2170,100,2170,40,11/08/2015,28/11/2025,39.49 MB,"A safe, easy systems language",Rust,https://github.com/jfecher/ante,39.49 MB
+853,ytop,2166,87,2166,52,20/07/2019,29/08/2020,699.00 KB,A TUI system monitor written in Rust,Rust,https://github.com/cjbassi/ytop,699.00 KB
+854,realm,2166,337,2166,7,08/05/2020,05/09/2025,882.00 KB,A network relay tool,Rust,https://github.com/zhboner/realm,882.00 KB
+855,Krakatau,2157,233,2157,25,20/10/2012,02/06/2025,2.31 MB,"Java decompiler, assembler, and disassembler",Rust,https://github.com/Storyyeller/Krakatau,2.31 MB
+856,phantun,2157,182,2157,29,16/09/2021,21/11/2025,480.00 KB,Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.,Rust,https://github.com/dndx/phantun,480.00 KB
+857,nh,2153,81,2153,71,08/02/2022,04/12/2025,1.69 MB,Yet another Nix CLI helper. [Maintainers=@NotAShelf],Rust,https://github.com/nix-community/nh,1.69 MB
+858,termion,2152,114,2152,27,06/03/2016,02/12/2025,4.54 MB,Mirror of https://gitlab.redox-os.org/redox-os/termion,Rust,https://github.com/redox-os/termion,4.54 MB
+859,ash,2148,213,2148,79,13/08/2016,03/12/2025,10.16 MB,Vulkan bindings for Rust,Rust,https://github.com/ash-rs/ash,10.16 MB
+860,kondo,2144,59,2144,42,27/01/2020,20/10/2025,389.00 KB,Cleans dependencies and build artifacts from your projects.,Rust,https://github.com/tbillington/kondo,389.00 KB
+861,MCHPRS,2143,94,2143,54,02/04/2020,21/10/2025,14.66 MB,A multithreaded Minecraft server built for redstone.,Rust,https://github.com/MCHPR/MCHPRS,14.66 MB
+862,wasmCloud,2143,213,2143,90,15/10/2020,05/12/2025,93.78 MB,"wasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.",Rust,https://github.com/wasmCloud/wasmCloud,93.78 MB
+863,choose,2141,48,2141,5,12/09/2019,18/11/2025,162.00 KB,A human-friendly and fast alternative to cut (and sometimes awk),Rust,https://github.com/theryangeary/choose,162.00 KB
+864,hashes,2140,304,2140,32,18/11/2016,26/11/2025,6.36 MB,Collection of cryptographic hash functions written in pure Rust,Rust,https://github.com/RustCrypto/hashes,6.36 MB
+865,lettre,2138,220,2138,67,03/02/2014,08/10/2025,10.01 MB,a mailer library for Rust,Rust,https://github.com/lettre/lettre,10.01 MB
+866,bytes,2136,320,2136,84,30/01/2015,02/12/2025,2.33 MB,Utilities for working with bytes,Rust,https://github.com/tokio-rs/bytes,2.33 MB
+867,vim-clap,2135,83,2135,22,28/09/2019,02/12/2025,6.22 MB,":clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim",Rust,https://github.com/liuchengxu/vim-clap,6.22 MB
+868,mprocs,2133,69,2133,74,30/08/2021,29/11/2025,2.49 MB,Run multiple commands in parallel,Rust,https://github.com/pvolok/mprocs,2.49 MB
+869,cargo-deny,2132,111,2132,85,13/05/2019,03/12/2025,9.80 MB,❌ Cargo plugin for linting your dependencies 🦀,Rust,https://github.com/EmbarkStudios/cargo-deny,9.80 MB
+870,verus,2128,131,2128,189,19/10/2021,05/12/2025,27.88 MB,Verified Rust for low-level systems code,Rust,https://github.com/verus-lang/verus,27.88 MB
+871,wasmer-python,2126,84,2126,74,18/03/2019,17/09/2023,1.42 MB,🐍🕸 WebAssembly runtime for Python,Rust,https://github.com/wasmerio/wasmer-python,1.42 MB
+872,calamine,2125,209,2125,44,24/06/2016,21/11/2025,2.15 MB,A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets,Rust,https://github.com/tafia/calamine,2.15 MB
+873,pgvecto.rs,2123,81,2123,76,15/04/2023,26/02/2025,3.33 MB,"Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.",Rust,https://github.com/tensorchord/pgvecto.rs,3.33 MB
+874,tv,2121,40,2121,28,30/04/2021,21/08/2025,41.29 MB,📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.,Rust,https://github.com/alexhallam/tv,41.29 MB
+875,netease-cloud-music-gtk,2121,102,2121,81,11/04/2019,28/09/2025,1.89 MB,Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器,Rust,https://github.com/gmg137/netease-cloud-music-gtk,1.89 MB
+876,spotify-adblock,2121,106,2121,13,29/04/2021,10/02/2025,58.00 KB,Adblocker for Spotify,Rust,https://github.com/abba23/spotify-adblock,58.00 KB
+877,Steam-Deck-Guide,2119,56,2119,8,21/11/2021,27/06/2025,416.00 KB,"Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. ",Rust,https://github.com/mikeroyal/Steam-Deck-Guide,416.00 KB
+878,facet,2118,87,2118,84,10/03/2025,05/12/2025,19.72 MB,"Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need",Rust,https://github.com/facet-rs/facet,19.72 MB
+879,flutter-rs,2116,81,2116,43,11/12/2018,14/06/2023,40.67 MB,Build beautiful desktop apps with flutter and rust. 🌠 (wip),Rust,https://github.com/flutter-rs/flutter-rs,40.67 MB
+880,netvisor,2113,90,2113,23,29/09/2025,30/11/2025,46.27 MB,Automatically discover and visually document network infrastructure.,Rust,https://github.com/mayanayza/netvisor,46.27 MB
+881,rune,2104,104,2104,104,25/07/2020,27/11/2025,14.73 MB,An embeddable dynamic programming language for Rust.,Rust,https://github.com/rune-rs/rune,14.73 MB
+882,mun,2102,81,2102,50,21/07/2019,12/08/2025,5.17 MB,Source code for the Mun language and runtime.,Rust,https://github.com/mun-lang/mun,5.17 MB
+883,canvas,2096,90,2096,83,30/08/2020,02/12/2025,65.07 MB,High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.,Rust,https://github.com/Brooooooklyn/canvas,65.07 MB
+884,zerocopy,2096,134,2096,270,08/09/2022,04/12/2025,8.27 MB,Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.,Rust,https://github.com/google/zerocopy,8.27 MB
+885,steel,2096,100,2096,66,20/02/2020,05/12/2025,11.76 MB,An embedded scheme interpreter in Rust,Rust,https://github.com/mattwparas/steel,11.76 MB
+886,floneum,2091,117,2091,49,24/05/2023,28/11/2025,270.41 MB,"Instant, controllable, local pre-trained AI models in Rust",Rust,https://github.com/floneum/floneum,270.41 MB
+887,ultimate_rust_crash_course,2090,1099,2090,0,18/02/2020,14/10/2025,6.13 MB,"Rust Programming Fundamentals - one course to rule them all, one course to find them...",Rust,https://github.com/CleanCut/ultimate_rust_crash_course,6.13 MB
+888,linkerd2-proxy,2090,282,2090,21,07/07/2018,04/12/2025,17.11 MB,A purpose-built proxy for the Linkerd service mesh. Written in Rust.,Rust,https://github.com/linkerd/linkerd2-proxy,17.11 MB
+889,neqo,2087,145,2087,158,18/02/2019,04/12/2025,11.00 MB,"Neqo, the Mozilla Firefox implementation of QUIC in Rust",Rust,https://github.com/mozilla/neqo,11.00 MB
+890,rust-rocksdb,2083,830,2083,176,16/11/2014,27/10/2025,2.18 MB,rust wrapper for rocksdb,Rust,https://github.com/rust-rocksdb/rust-rocksdb,2.18 MB
+891,Nping,2082,88,2082,15,21/12/2024,10/09/2025,8.19 MB,"🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations",Rust,https://github.com/hanshuaikang/Nping,8.19 MB
+892,vivid,2081,98,2081,22,19/11/2018,19/10/2025,397.00 KB,A themeable LS_COLORS generator with a rich filetype datebase,Rust,https://github.com/sharkdp/vivid,397.00 KB
+893,oxdraw,2080,70,2080,19,07/10/2025,05/12/2025,25.96 MB,Diagram as Code Tool Written in Rust with Draggable Editing,Rust,https://github.com/RohanAdwankar/oxdraw,25.96 MB
+894,async-trait,2077,93,2077,6,22/07/2019,20/11/2025,843.00 KB,Type erasure for async trait methods,Rust,https://github.com/dtolnay/async-trait,843.00 KB
+895,helios,2071,419,2071,72,10/08/2022,10/11/2025,2.98 MB,"A fast, secure, and portable multichain light client for Ethereum",Rust,https://github.com/a16z/helios,2.98 MB
+896,spider,2070,165,2070,1,07/01/2018,05/12/2025,6.09 MB,Web crawler and scraper for Rust,Rust,https://github.com/spider-rs/spider,6.09 MB
+897,ariadne,2069,95,2069,64,13/07/2021,01/12/2025,332.00 KB,A fancy diagnostics & error reporting crate,Rust,https://github.com/zesterer/ariadne,332.00 KB
+898,stdx,2069,48,2069,15,04/07/2015,10/02/2025,159.00 KB,The missing batteries of Rust,Rust,https://github.com/brson/stdx,159.00 KB
+899,glutin,2064,483,2064,26,27/07/2014,03/11/2025,3.57 MB,A low-level library for OpenGL context creation,Rust,https://github.com/rust-windowing/glutin,3.57 MB
+900,rust-phf,2063,135,2063,25,17/01/2014,12/10/2025,3.01 MB,Compile time static maps for Rust,Rust,https://github.com/rust-phf/rust-phf,3.01 MB
+901,revm,2062,957,2062,62,29/09/2021,04/12/2025,49.79 MB,Rust implementation of the Ethereum Virtual Machine.,Rust,https://github.com/bluealloy/revm,49.79 MB
+902,cc-rs,2060,554,2060,152,01/11/2014,28/11/2025,2.25 MB,Rust library for build scripts to compile C/C++ code into a Rust library,Rust,https://github.com/rust-lang/cc-rs,2.25 MB
+903,code,2058,475,2058,59,16/02/2020,04/03/2023,13.59 MB,Source code for the book Rust in Action,Rust,https://github.com/rust-in-action/code,13.59 MB
+904,aici,2058,82,2058,40,26/09/2023,22/01/2025,9.94 MB,AICI: Prompts as (Wasm) Programs,Rust,https://github.com/microsoft/aici,9.94 MB
+905,left-right,2057,95,2057,8,04/02/2017,01/12/2025,3.87 MB,"A lock-free, read-optimized, concurrency primitive.",Rust,https://github.com/jonhoo/left-right,3.87 MB
+906,sauron,2054,61,2054,7,15/04/2019,27/01/2025,5.16 MB,A versatile web framework and library for building client-side and server-side web applications,Rust,https://github.com/ivanceras/sauron,5.16 MB
+907,piccolo,2053,86,2053,31,05/04/2018,10/07/2025,2.80 MB,An experimental stackless Lua VM implemented in pure Rust,Rust,https://github.com/kyren/piccolo,2.80 MB
+908,etl,2051,126,2051,34,05/02/2024,05/12/2025,4.12 MB,Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.,Rust,https://github.com/supabase/etl,4.12 MB
+909,taplo,2048,155,2048,209,23/05/2020,22/10/2025,23.04 MB,A TOML toolkit written in Rust,Rust,https://github.com/tamasfe/taplo,23.04 MB
+910,once_cell,2045,123,2045,7,02/08/2018,24/05/2025,466.00 KB,Rust library for single assignment cells and lazy statics without macros,Rust,https://github.com/matklad/once_cell,466.00 KB
+911,cargo-udeps,2042,50,2042,40,26/08/2019,22/11/2025,1.04 MB,Find unused dependencies in Cargo.toml,Rust,https://github.com/est31/cargo-udeps,1.04 MB
+912,native-windows-gui,2041,140,2041,71,21/09/2016,16/05/2024,5.36 MB,A light windows GUI toolkit for rust,Rust,https://github.com/gabdube/native-windows-gui,5.36 MB
+913,cacao,2040,78,2040,48,28/02/2020,03/02/2025,825.00 KB,"Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!",Rust,https://github.com/ryanmcgrath/cacao,825.00 KB
+914,adblock-rust,2038,177,2038,72,18/03/2019,01/12/2025,50.20 MB,Brave's Rust-based adblock engine,Rust,https://github.com/brave/adblock-rust,50.20 MB
+915,pixels,2037,138,2037,33,26/09/2019,17/08/2025,4.16 MB,A tiny hardware-accelerated pixel frame buffer. 🦀,Rust,https://github.com/parasyte/pixels,4.16 MB
+916,helix,2037,59,2037,41,06/11/2015,23/10/2020,1.42 MB,Native Ruby extensions without fear,Rust,https://github.com/tildeio/helix,1.42 MB
+917,dotenv-linter,2031,158,2031,24,30/11/2019,27/11/2025,1.23 MB,⚡️Lightning-fast linter for .env files. Written in Rust 🦀,Rust,https://github.com/dotenv-linter/dotenv-linter,1.23 MB
+918,stretch,2025,109,2025,47,29/11/2018,26/01/2023,43.45 MB,High performance flexbox implementation written in rust,Rust,https://github.com/vislyhq/stretch,43.45 MB
+919,derive_more,2024,142,2024,71,24/03/2016,02/12/2025,8.01 MB,Some more derive(Trait) options,Rust,https://github.com/JelteF/derive_more,8.01 MB
+920,static-web-server,2023,110,2023,30,02/09/2019,05/12/2025,10.48 MB,"A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡",Rust,https://github.com/static-web-server/static-web-server,10.48 MB
+921,ureq,2023,211,2023,36,10/06/2018,22/11/2025,1.83 MB,"A simple, safe HTTP client",Rust,https://github.com/algesten/ureq,1.83 MB
+922,lazy-static.rs,2022,125,2022,35,24/06/2014,29/01/2025,989.00 KB,A small macro for defining lazy evaluated static variables in Rust.,Rust,https://github.com/rust-lang-nursery/lazy-static.rs,989.00 KB
+923,owshen,2022,92,2022,5,07/08/2023,06/10/2024,4.21 MB,The Deep Sea,Rust,https://github.com/OwshenNetwork/owshen,4.21 MB
+924,nft_ptr,2020,36,2020,13,01/04/2021,23/05/2021,136.00 KB,C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain,Rust,https://github.com/zhuowei/nft_ptr,136.00 KB
+925,StyLua,2020,93,2020,70,15/12/2020,30/11/2025,2.60 MB,A Lua code formatter,Rust,https://github.com/JohnnyMorganz/StyLua,2.60 MB
+926,chat-ai-desktop,2014,190,2014,39,04/12/2022,23/12/2023,62.95 MB,Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust,Rust,https://github.com/sonnylazuardi/chat-ai-desktop,62.95 MB
+927,deepseek-ocr.rs,2010,151,2010,10,25/10/2025,25/11/2025,1.27 MB,"Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.",Rust,https://github.com/TimmyOVO/deepseek-ocr.rs,1.27 MB
+928,phira,2008,159,2008,144,03/04/2023,04/12/2025,4.96 MB,,Rust,https://github.com/TeamFlos/phira,4.96 MB
+929,fst,1996,133,1996,39,05/09/2015,25/09/2024,2.05 MB,Represent large sets and maps compactly with finite state transducers.,Rust,https://github.com/BurntSushi/fst,2.05 MB
+930,uiua,1995,158,1995,33,27/02/2023,04/12/2025,37.93 MB,A tacit array programming language,Rust,https://github.com/uiua-lang/uiua,37.93 MB
+931,mago,1993,80,1993,64,26/10/2024,05/12/2025,52.45 MB,Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.,Rust,https://github.com/carthage-software/mago,52.45 MB
+932,lopdf,1992,221,1992,84,13/12/2016,13/11/2025,7.80 MB,A Rust library for PDF document manipulation.,Rust,https://github.com/J-F-Liu/lopdf,7.80 MB
+933,sad,1990,26,1990,28,09/05/2020,30/09/2025,38.59 MB,CLI search and replace | Space Age seD,Rust,https://github.com/ms-jpq/sad,38.59 MB
+934,pavex,1989,79,1989,12,20/06/2022,30/11/2025,19.36 MB,A backend framework for Rust professionals ,Rust,https://github.com/LukeMathWalker/pavex,19.36 MB
+935,rumqtt,1988,298,1988,133,15/10/2019,02/12/2025,3.40 MB,The MQTT ecosystem in rust,Rust,https://github.com/bytebeamio/rumqtt,3.40 MB
+936,rustc_codegen_clr,1986,48,1986,17,09/08/2023,14/10/2025,20.50 MB,A Rust compiler backend targeting CIL(.NET IR) and C. ,Rust,https://github.com/FractalFir/rustc_codegen_clr,20.50 MB
+937,plane,1985,44,1985,4,10/11/2021,07/10/2025,3.84 MB,A distributed system for running WebSocket services at scale.,Rust,https://github.com/jamsocket/plane,3.84 MB
+938,OxiCloud,1984,73,1984,12,26/02/2025,09/09/2025,2.76 MB,"☁️ OxiCloud server, efficient and secure way to save all your data",Rust,https://github.com/DioCrafts/OxiCloud,2.76 MB
+939,inferno,1981,145,1981,50,26/01/2019,01/12/2025,2.94 MB,A Rust port of FlameGraph,Rust,https://github.com/jonhoo/inferno,2.94 MB
+940,bumpalo,1978,130,1978,37,20/11/2018,21/10/2025,755.00 KB,A fast bump allocation arena for Rust,Rust,https://github.com/fitzgen/bumpalo,755.00 KB
+941,proptest,1977,202,1977,133,18/06/2017,01/12/2025,3.27 MB,Hypothesis-like property testing for Rust,Rust,https://github.com/proptest-rs/proptest,3.27 MB
+942,chalk,1974,181,1974,44,26/07/2015,29/08/2025,14.33 MB,An implementation and definition of the Rust trait system using a PROLOG-like logic solver,Rust,https://github.com/rust-lang/chalk,14.33 MB
+943,case-studies,1971,52,1971,3,11/05/2019,20/11/2025,141.00 KB,Analysis of various tricky Rust code,Rust,https://github.com/dtolnay/case-studies,141.00 KB
+944,sbtc-developer-release,1966,22,1966,107,21/07/2023,14/02/2024,1.08 MB,"sBTC primitives, signer components, helper tools",Rust,https://github.com/stacks-archive/sbtc-developer-release,1.08 MB
+945,jsonwebtoken,1964,323,1964,55,01/11/2015,06/11/2025,404.00 KB,JWT lib in rust,Rust,https://github.com/Keats/jsonwebtoken,404.00 KB
+946,ferrumc,1963,80,1963,31,02/09/2023,04/12/2025,117.19 MB,A reimplementation of the minecraft server in rust.,Rust,https://github.com/ferrumc-rs/ferrumc,117.19 MB
+947,rui,1962,47,1962,14,19/01/2022,04/09/2025,2.59 MB,Declarative Rust UI library,Rust,https://github.com/audulus/rui,2.59 MB
+948,vpncloud,1960,168,1960,32,23/11/2015,21/03/2024,1.61 MB,Peer-to-peer VPN,Rust,https://github.com/dswd/vpncloud,1.61 MB
+949,tao,1959,252,1959,84,03/05/2021,02/12/2025,10.62 MB,The TAO of cross-platform windowing. A library in Rust built for Tauri.,Rust,https://github.com/tauri-apps/tao,10.62 MB
+950,wasmi,1959,329,1959,35,22/01/2018,05/12/2025,21.77 MB,Efficient and versatile WebAssembly interpreter for embedded systems.,Rust,https://github.com/wasmi-labs/wasmi,21.77 MB
+951,git2-rs,1956,431,1956,163,01/08/2014,20/11/2025,3.71 MB,libgit2 bindings for Rust,Rust,https://github.com/rust-lang/git2-rs,3.71 MB
+952,x8,1954,176,1954,23,27/04/2021,08/09/2024,449.00 KB,Hidden parameters discovery suite,Rust,https://github.com/Sh1Yo/x8,449.00 KB
+953,colored,1953,89,1953,38,12/03/2016,23/10/2025,200.00 KB,(Rust) Coloring terminal so simple you already know how to do it !,Rust,https://github.com/colored-rs/colored,200.00 KB
+954,warp,1952,95,1952,42,08/10/2018,18/05/2024,38.00 KB,Create self-contained single binary applications,Rust,https://github.com/dgiagio/warp,38.00 KB
+955,fuso,1949,206,1949,16,26/11/2021,07/06/2025,8.31 MB,"一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)",Rust,https://github.com/editso/fuso,8.31 MB
+956,wechat-dump-rs,1943,378,1943,29,19/09/2023,04/04/2025,3.95 MB,该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。,Rust,https://github.com/0xlane/wechat-dump-rs,3.95 MB
+957,rand,1942,481,1942,20,03/02/2015,05/12/2025,5.13 MB,A Rust library for random number generation.,Rust,https://github.com/rust-random/rand,5.13 MB
+958,fantoccini,1941,132,1941,28,28/05/2017,14/06/2025,967.00 KB,A high-level API for programmatically interacting with web pages through WebDriver.,Rust,https://github.com/jonhoo/fantoccini,967.00 KB
+959,wsl-distrod,1938,92,1938,59,22/05/2021,05/10/2025,44.70 MB,"Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.",Rust,https://github.com/nullpo-head/wsl-distrod,44.70 MB
+960,gloo,1937,159,1937,112,21/02/2019,01/12/2025,3.65 MB,"A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM",Rust,https://github.com/ranile/gloo,3.65 MB
+961,gdrive,1936,127,1936,103,29/12/2022,03/08/2024,193.00 KB,Google Drive CLI Client,Rust,https://github.com/glotlabs/gdrive,193.00 KB
+962,blueboat,1932,57,1932,31,01/01/2021,23/02/2023,1.36 MB,"All-in-one, multi-tenant serverless JavaScript runtime.",Rust,https://github.com/losfair/blueboat,1.36 MB
+963,rCore-Tutorial-v3,1930,535,1930,31,29/10/2020,25/04/2025,49.09 MB,Let's write an OS which can run on RISC-V in Rust from scratch!,Rust,https://github.com/rcore-os/rCore-Tutorial-v3,49.09 MB
+964,rustc_codegen_cranelift,1927,117,1927,77,22/06/2018,28/11/2025,6.74 MB,Cranelift based backend for rustc,Rust,https://github.com/rust-lang/rustc_codegen_cranelift,6.74 MB
+965,cosmic-text,1926,149,1926,108,18/10/2022,01/12/2025,14.17 MB,Pure Rust multi-line text handling,Rust,https://github.com/pop-os/cosmic-text,14.17 MB
+966,gnvim,1926,70,1926,10,27/07/2018,23/11/2025,1.96 MB,"GUI for neovim, without any web bloat",Rust,https://github.com/vhakulinen/gnvim,1.96 MB
+967,bob,1926,56,1926,22,06/02/2022,04/12/2025,2.09 MB,A version manager for neovim,Rust,https://github.com/MordechaiHadad/bob,2.09 MB
+968,prisma-client-rust,1926,123,1926,46,25/05/2021,12/03/2025,2.03 MB,Type-safe database access for Rust,Rust,https://github.com/Brendonovich/prisma-client-rust,2.03 MB
+969,webx,1926,146,1926,66,17/04/2024,29/06/2024,12.92 MB,"An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.",Rust,https://github.com/face-hh/webx,12.92 MB
+970,vizia,1922,90,1922,56,17/09/2021,02/12/2025,10.89 MB,A declarative GUI library written in Rust,Rust,https://github.com/vizia/vizia,10.89 MB
+971,xremap,1920,104,1920,1,29/11/2016,01/12/2025,1000.00 KB,Key remapper for X11 and Wayland,Rust,https://github.com/xremap/xremap,1000.00 KB
+972,cached,1919,108,1919,71,02/04/2017,22/11/2025,641.00 KB,Rust cache structures and easy function memoization,Rust,https://github.com/jaemk/cached,641.00 KB
+973,winapi-rs,1916,393,1916,275,09/09/2014,27/04/2024,24.89 MB,Rust bindings to Windows API,Rust,https://github.com/retep998/winapi-rs,24.89 MB
+974,datafusion-ballista,1911,251,1911,118,19/05/2022,28/11/2025,21.34 MB,Apache DataFusion Ballista Distributed Query Engine,Rust,https://github.com/apache/datafusion-ballista,21.34 MB
+975,garage,1910,79,1910,5,17/11/2021,25/11/2025,46.61 MB,(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage,Rust,https://github.com/deuxfleurs-org/garage,46.61 MB
+976,hematite,1908,107,1908,26,28/06/2014,18/01/2023,1.83 MB,A simple Minecraft written in Rust with the Piston game engine,Rust,https://github.com/PistonDevelopers/hematite,1.83 MB
+977,rust-rdkafka,1902,340,1902,131,29/10/2016,23/11/2025,14.76 MB,"A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka",Rust,https://github.com/fede1024/rust-rdkafka,14.76 MB
+978,impala,1902,34,1902,3,09/06/2024,04/12/2025,273.00 KB,🛜 TUI for managing wifi on Linux,Rust,https://github.com/pythops/impala,273.00 KB
+979,command-line-rust,1897,299,1897,14,05/03/2020,06/08/2024,45.57 MB,"Code for Command-Line Rust (O'Reilly, 2024, ISBN 9781098109417)",Rust,https://github.com/kyclark/command-line-rust,45.57 MB
+980,Solana-Sniper-Bot,1897,371,1897,5,26/12/2018,25/11/2025,144.00 KB,solana sniper bot https://t.me/av1080trading,Rust,https://github.com/AV1080p/Solana-Sniper-Bot,144.00 KB
+981,vagga,1894,96,1894,78,05/08/2014,31/03/2023,6.12 MB,Vagga is a containerization tool without daemons,Rust,https://github.com/tailhook/vagga,6.12 MB
+982,aurae,1893,93,1893,44,02/09/2022,25/11/2025,14.39 MB,Distributed systems runtime daemon written in Rust.,Rust,https://github.com/aurae-runtime/aurae,14.39 MB
+983,miniquad,1893,208,1893,136,21/12/2019,31/08/2025,3.97 MB,Cross platform rendering in Rust,Rust,https://github.com/not-fl3/miniquad,3.97 MB
+984,lucky-commit,1892,32,1892,0,17/02/2016,02/05/2025,285.00 KB,Customize your git commit hashes!,Rust,https://github.com/not-an-aardvark/lucky-commit,285.00 KB
+985,lol-html,1885,88,1885,28,09/09/2019,17/10/2025,3.11 MB,Low output latency streaming HTML parser/rewriter with CSS selector-based API,Rust,https://github.com/cloudflare/lol-html,3.11 MB
+986,y-crdt,1884,104,1884,101,29/09/2020,30/11/2025,15.31 MB,Rust port of Yjs,Rust,https://github.com/y-crdt/y-crdt,15.31 MB
+987,ractor,1883,111,1883,20,03/01/2023,21/11/2025,3.70 MB,Rust actor framework,Rust,https://github.com/slawlor/ractor,3.70 MB
+988,crush,1882,36,1882,21,29/09/2019,17/08/2025,4.01 MB,Crush is a command line shell that is also a powerful modern programming language.,Rust,https://github.com/liljencrantz/crush,4.01 MB
+989,ZoKrates,1881,382,1881,109,23/10/2017,01/08/2024,18.50 MB,A toolbox for zkSNARKs on Ethereum,Rust,https://github.com/Zokrates/ZoKrates,18.50 MB
+990,zensical,1881,44,1881,9,18/05/2025,03/12/2025,1.36 MB,A modern static site generator by the Material for MkDocs team,Rust,https://github.com/zensical/zensical,1.36 MB
+991,rust-csv,1880,238,1880,95,22/03/2014,17/10/2025,2.90 MB,"A CSV parser for Rust, with Serde support.",Rust,https://github.com/BurntSushi/rust-csv,2.90 MB
+992,rust-quiz,1878,67,1878,2,28/11/2018,20/11/2025,597.00 KB,Medium to hard Rust questions with explanations,Rust,https://github.com/dtolnay/rust-quiz,597.00 KB
+993,dyon,1878,55,1878,65,23/01/2016,02/12/2025,2.76 MB,A rusty dynamically typed scripting language,Rust,https://github.com/PistonDevelopers/dyon,2.76 MB
+994,pyapp,1877,55,1877,29,07/05/2023,01/11/2025,2.51 MB,Runtime installer for Python applications,Rust,https://github.com/ofek/pyapp,2.51 MB
+995,bili-sync,1875,152,1875,42,20/11/2023,05/12/2025,52.67 MB,由 Rust & Tokio 驱动的哔哩哔哩同步工具,Rust,https://github.com/amtoaer/bili-sync,52.67 MB
+996,lapdev,1874,49,1874,15,23/03/2024,24/11/2025,2.59 MB,Seamless dev environments for Kubernetes,Rust,https://github.com/lapce/lapdev,2.59 MB
+997,cargo-dist,1874,120,1874,275,13/10/2022,05/12/2025,14.14 MB,📦 shippable application packaging,Rust,https://github.com/axodotdev/cargo-dist,14.14 MB
+998,bayard,1873,74,1873,20,01/11/2019,06/03/2023,2.82 MB,A full-text search and indexing server written in Rust.,Rust,https://github.com/mosuka/bayard,2.82 MB
+999,dfdx,1873,104,1873,90,12/10/2021,23/07/2024,2.66 MB,"Deep learning in Rust, with shape checked tensors and neural networks",Rust,https://github.com/chelsea0x3b/dfdx,2.66 MB
+1000,heapless,1872,233,1872,59,05/03/2017,25/11/2025,15.91 MB,"Heapless, `static` friendly data structures",Rust,https://github.com/rust-embedded/heapless,15.91 MB

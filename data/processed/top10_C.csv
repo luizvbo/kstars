@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,linux,250789,66386,250789,3,04/09/2011,01/10/2026,6.10 GB,Linux kernel source tree,C,https://github.com/torvalds/linux,6.10 GB
-2,scrcpy,150795,13849,150795,2914,21/11/2017,01/10/2026,8.99 MB,Display and control your Android device,C,https://github.com/Genymobile/scrcpy,8.99 MB
-3,PowerToys,139147,8620,139147,7673,01/05/2019,01/10/2026,513.86 MB,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows,C,https://github.com/microsoft/PowerToys,513.86 MB
-4,Ventoy,79660,4958,79660,1037,10/03/2020,30/09/2026,215.60 MB,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy,215.60 MB
-5,obs-studio,76858,10395,76858,1145,01/10/2013,01/10/2026,80.87 MB,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio,80.87 MB
-6,redis,76570,24830,76570,2991,21/03/2009,30/09/2026,211.83 MB,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis,211.83 MB
-7,codegraph,72772,4675,72772,526,18/01/2026,01/10/2026,34.09 MB,"Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",C,https://github.com/colbymchenry/codegraph,34.09 MB
-8,FFmpeg,64684,14308,64684,3,14/04/2011,01/10/2026,489.19 MB,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg,489.19 MB
-9,git,63488,28460,63488,406,23/07/2008,01/10/2026,318.07 MB,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git,318.07 MB
-10,tmux,49612,2924,49612,47,03/06/2015,01/10/2026,22.84 MB,tmux source code,C,https://github.com/tmux/tmux,22.84 MB
+1,linux,251269,67066,251269,3,04/09/2011,08/10/2026,6.10 GB,Linux kernel source tree,C,https://github.com/torvalds/linux,6.10 GB
+2,scrcpy,151564,13908,151564,2920,21/11/2017,08/10/2026,9.04 MB,Display and control your Android device,C,https://github.com/Genymobile/scrcpy,9.04 MB
+3,PowerToys,139127,8626,139127,7742,01/05/2019,08/10/2026,520.08 MB,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows,C,https://github.com/microsoft/PowerToys,520.08 MB
+4,Ventoy,79793,4962,79793,1042,10/03/2020,08/10/2026,221.63 MB,A new bootable USB solution.,C,https://github.com/ventoy/Ventoy,221.63 MB
+5,obs-studio,77151,10515,77151,1142,01/10/2013,08/10/2026,82.27 MB,OBS Studio - Free and open source software for live streaming and screen recording,C,https://github.com/obsproject/obs-studio,82.27 MB
+6,redis,76640,24846,76640,3005,21/03/2009,08/10/2026,211.85 MB,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",C,https://github.com/redis/redis,211.85 MB
+7,codegraph,73502,4729,73502,526,18/01/2026,07/10/2026,38.14 MB,"Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",C,https://github.com/colbymchenry/codegraph,38.14 MB
+8,FFmpeg,64871,14333,64871,3,14/04/2011,08/10/2026,488.94 MB,Mirror of https://git.ffmpeg.org/ffmpeg.git,C,https://github.com/FFmpeg/FFmpeg,488.94 MB
+9,git,63751,28495,63751,401,23/07/2008,08/10/2026,313.77 MB,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C,https://github.com/git/git,313.77 MB
+10,tmux,49846,2934,49846,34,03/06/2015,08/10/2026,22.33 MB,tmux source code,C,https://github.com/tmux/tmux,22.33 MB
