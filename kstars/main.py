@@ -1,4 +1,7 @@
 import logging
+import os
+import re
+import shutil
 import subprocess
 import sys
 import time
@@ -60,6 +63,28 @@ LANGUAGES = {
 }
 
 
+def github_slugger():
+    """Returns a function that converts heading text into GitHub-style anchors.
+
+    GitHub lowercases the heading, strips characters that are not word
+    characters, hyphens or spaces, turns spaces into hyphens, and appends
+    -1, -2, ... to duplicated slugs. For example: "C++" -> "c",
+    "Vim script" -> "vim-script", "Objective-C" -> "objective-c".
+    """
+    counts: dict[str, int] = {}
+
+    def slug(text: str) -> str:
+        s = re.sub(r"[^\w\- ]", "", text.strip().lower(), flags=re.UNICODE)
+        s = s.replace(" ", "-")
+        if s in counts:
+            counts[s] += 1
+            return f"{s}-{counts[s]}"
+        counts[s] = 0
+        return s
+
+    return slug
+
+
 def human_readable_size(size_kb: int) -> str:
     """Converts file size in KB to a human-readable format."""
     if size_kb < 1024:
@@ -92,8 +117,13 @@ Below, you'll find a fallback representation of the top 10 repositories for each
 ## Top 10 Repositories
 
 """
+    slug = github_slugger()
+    anchors = {
+        lang_safe: slug(lang_display)
+        for lang_safe, lang_display in languages.items()
+    }
     for lang_safe, lang_display in languages.items():
-        content += f"1. [{lang_display}](#{lang_display.replace(' ', '-')})\n"
+        content += f"1. [{lang_display}](#{anchors[lang_safe]})\n"
     content += "\n"
     
     lang_folder = Path(lang_folder) if isinstance(lang_folder, str) else lang_folder
@@ -132,19 +162,24 @@ def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
         df: pd.DataFrame = pd.read_csv(input_file_path)
         for col in ("Last Commit", "Created At"):
             if col in df.columns:
-                df[col] = df[col].apply(pd.to_datetime).dt.strftime("%d/%m/%Y")
-        
+                parsed = pd.to_datetime(df[col], errors="coerce", utc=True)
+                bad = df[col].notna() & parsed.isna()
+                if bad.any():
+                    logger.warning(
+                        "%s: %d unparseable value(s) in column %r",
+                        lang_name,
+                        int(bad.sum()),
+                        col,
+                    )
+                df[col] = parsed.dt.strftime("%d/%m/%Y")
+
         if "Size (KB)" in df.columns:
-            df["Size"] = df["Size (KB)"].apply(human_readable_size)
-            # Reorder columns to put Size where Size (KB) was
-            cols = df.columns.tolist()
-            idx = cols.index("Size (KB)")
-            new_columns = cols[:idx] + ["Size"] + cols[idx+1:]
-            # Remove Size (KB) from list if it's still there (it is in cols, not new_columns)
-            if "Size (KB)" in new_columns: 
-                new_columns.remove("Size (KB)")
-            
-            df = df[new_columns]
+            # Insert "Size" at the position of "Size (KB)" and drop the old column.
+            size_kb_idx = df.columns.get_loc("Size (KB)")
+            df.insert(
+                size_kb_idx, "Size", df["Size (KB)"].apply(human_readable_size)
+            )
+            df = df.drop(columns=["Size (KB)"])
 
         df.to_csv(output_file_path, index=False)
         df.head(10).to_csv(output_top10_file_path, index=False)
@@ -160,25 +195,52 @@ def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
         raise
 
 
+def find_kstars_binary() -> str:
+    """Locates the kstars binary: on PATH, or the local cargo release build."""
+    if binary := shutil.which("kstars"):
+        return binary
+    local_build = BASE_DIR / "target" / "release" / "kstars"
+    if local_build.exists():
+        return str(local_build)
+    raise FileNotFoundError(
+        "kstars binary not found on PATH and no release build exists at "
+        f"{local_build}. Run `cargo build --release` in {BASE_DIR} first."
+    )
+
+
 def run_kstars_task(
-    language: str, lang_name: str, output_folder: str | Path
+    language: str, lang_name: str, output_folder: str | Path,
+    max_attempts: int = 24,
 ) -> None:
-    """
-    Runs the kstars command. Retries indefinitely if it fails (e.g. API limits).
+    """Runs the kstars command, retrying on failure (e.g. API rate limits).
+
+    Retries up to `max_attempts` times (default 24 ≈ 2 hours at 5-minute
+    intervals) so a persistently failing language aborts the cron run instead
+    of hanging forever.
     """
     # Ensure output folder exists
     Path(output_folder).mkdir(parents=True, exist_ok=True)
-    
-    # Construct command
-    # Note: Assuming .access_token.txt is in the same dir as the script
+
+    # The access token lives in access_token.txt next to this script and is
+    # passed to the kstars binary via the GITHUB_TOKEN environment variable.
+    # This avoids exposing the token on the child process command line (which
+    # is visible to other users via `ps`) and avoids invoking a shell.
     token_path = BASE_DIR / "access_token.txt"
-    
+
     if not token_path.exists():
         logger.error(f"Access token not found at {token_path}")
         raise FileNotFoundError("Access token file missing")
 
-    command = f'kstars -t $(cat "{token_path}") -l "{language}:{lang_name}" -o "{output_folder}"'
-    
+    token = token_path.read_text(encoding="utf-8").strip()
+    command = [
+        find_kstars_binary(),
+        "-l",
+        f"{language}:{lang_name}",
+        "-o",
+        str(output_folder),
+    ]
+    env = {**os.environ, "GITHUB_TOKEN": token}
+
     attempt = 1
     wait_time_seconds = 300  # 5 minutes wait time for API reset
 
@@ -186,7 +248,7 @@ def run_kstars_task(
         logger.info(f"Running kstars for {language} (Attempt {attempt})...")
         try:
             result = subprocess.run(
-                command, shell=True, capture_output=True, text=True, check=True
+                command, capture_output=True, text=True, check=True, env=env
             )
             # Log stdout if needed, or just success
             if result.stdout:
@@ -200,6 +262,11 @@ def run_kstars_task(
         except subprocess.CalledProcessError as e:
             logger.warning(f"Failed to run kstars for {language}.")
             logger.warning(f"STDERR: {e.stderr}")
+            if attempt >= max_attempts:
+                logger.error(
+                    f"Giving up on {language} after {attempt} attempts."
+                )
+                raise
             logger.warning(f"Waiting {wait_time_seconds} seconds before retrying...")
             time.sleep(wait_time_seconds)
             attempt += 1
