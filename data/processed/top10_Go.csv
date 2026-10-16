@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,awesome-go,187398,13605,187398,63,06/07/2014,08/10/2026,12.48 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,12.48 MB
-2,ollama,182412,18166,182412,4213,26/06/2023,08/10/2026,93.22 MB,"Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,93.22 MB
-3,go,139136,21560,139136,10278,19/08/2014,08/10/2026,450.87 MB,The Go programming language,Go,https://github.com/golang/go,450.87 MB
-4,kubernetes,128194,46281,128194,3228,06/06/2014,08/10/2026,1.46 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.46 GB
-5,TypeScript,111366,15996,111366,5078,17/06/2014,08/10/2026,2.76 GB,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,Go,https://github.com/microsoft/TypeScript,2.76 GB
-6,caveman,110585,6404,110585,47,04/04/2026,08/10/2026,19.18 MB,🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.,Go,https://github.com/JuliusBrussee/caveman,19.18 MB
-7,frp,109784,15235,109784,45,21/12/2015,08/10/2026,31.99 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,31.99 MB
-8,ragflow,91855,10918,91855,1624,12/12/2023,08/10/2026,171.97 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,171.97 MB
-9,hugo,90068,8384,90068,207,04/07/2013,08/10/2026,143.18 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,143.18 MB
-10,gin,89291,8735,89291,791,16/06/2014,29/09/2026,10.39 MB,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",Go,https://github.com/gin-gonic/gin,10.39 MB
+1,awesome-go,188601,13619,188601,70,06/07/2014,15/10/2026,12.49 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,12.49 MB
+2,ollama,183328,18306,183328,4296,26/06/2023,15/10/2026,93.71 MB,"Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,93.71 MB
+3,go,139199,22432,139199,10350,19/08/2014,15/10/2026,451.22 MB,The Go programming language,Go,https://github.com/golang/go,451.22 MB
+4,kubernetes,128237,47176,128237,3293,06/06/2014,15/10/2026,1.46 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.46 GB
+5,caveman,112524,6519,112524,60,04/04/2026,15/10/2026,19.24 MB,🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.,Go,https://github.com/JuliusBrussee/caveman,19.24 MB
+6,TypeScript,111486,16874,111486,5121,17/06/2014,15/10/2026,2.79 GB,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,Go,https://github.com/microsoft/TypeScript,2.79 GB
+7,frp,109935,15245,109935,36,21/12/2015,15/10/2026,32.04 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,32.04 MB
+8,ragflow,92287,10997,92287,1348,12/12/2023,15/10/2026,175.50 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,175.50 MB
+9,hugo,90127,8393,90127,203,04/07/2013,15/10/2026,147.71 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,147.71 MB
+10,syncthing,89422,5525,89422,391,26/11/2013,13/10/2026,124.93 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,124.93 MB
