@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,julia,49207,5984,49207,4272,21/04/2011,16/10/2026,380.02 MB,The Julia Programming Language,Julia,https://github.com/JuliaLang/julia,380.02 MB
-2,Flux.jl,4754,624,4754,49,01/04/2016,15/10/2026,16.60 MB,Relax! Flux is the ML library that doesn't make you tensor,Julia,https://github.com/FluxML/Flux.jl,16.60 MB
-3,DifferentialEquations.jl,3168,255,3168,115,11/05/2016,15/10/2026,173.41 MB,"Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",Julia,https://github.com/SciML/DifferentialEquations.jl,173.41 MB
-4,IJulia.jl,2908,428,2908,37,05/03/2013,09/10/2026,8.46 MB,Julia kernel for Jupyter,Julia,https://github.com/JuliaLang/IJulia.jl,8.46 MB
-5,computational-thinking,2839,501,2839,6,25/08/2020,12/08/2026,909.10 MB,"Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia",Julia,https://github.com/mitmath/computational-thinking,909.10 MB
-6,Makie.jl,2820,396,2820,957,25/09/2017,16/10/2026,822.71 MB,Interactive data visualizations and plotting in Julia,Julia,https://github.com/MakieOrg/Makie.jl,822.71 MB
-7,JuMP.jl,2484,429,2484,10,10/10/2012,14/10/2026,484.28 MB,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",Julia,https://github.com/jump-dev/JuMP.jl,484.28 MB
-8,Genie.jl,2425,188,2425,122,19/02/2016,15/10/2026,55.82 MB,🧞The highly productive Julia web framework,Julia,https://github.com/GenieFramework/Genie.jl,55.82 MB
-9,Turing.jl,2260,248,2260,14,29/04/2016,15/10/2026,48.33 MB,Bayesian inference with probabilistic programming.,Julia,https://github.com/TuringLang/Turing.jl,48.33 MB
-10,Plots.jl,1953,385,1953,900,25/08/2015,13/10/2026,122.92 MB,Powerful convenience for Julia visualizations and data analysis,Julia,https://github.com/JuliaPlots/Plots.jl,122.92 MB
+1,julia,49197,5944,49197,4272,21/04/2011,22/10/2026,382.66 MB,The Julia Programming Language,Julia,https://github.com/JuliaLang/julia,382.66 MB
+2,Flux.jl,4756,625,4756,51,01/04/2016,22/10/2026,15.74 MB,Relax! Flux is the ML library that doesn't make you tensor,Julia,https://github.com/FluxML/Flux.jl,15.74 MB
+3,DifferentialEquations.jl,3169,255,3169,115,11/05/2016,17/10/2026,173.42 MB,"Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",Julia,https://github.com/SciML/DifferentialEquations.jl,173.42 MB
+4,IJulia.jl,2908,427,2908,37,05/03/2013,09/10/2026,8.46 MB,Julia kernel for Jupyter,Julia,https://github.com/JuliaLang/IJulia.jl,8.46 MB
+5,computational-thinking,2841,502,2841,6,25/08/2020,12/08/2026,909.10 MB,"Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia",Julia,https://github.com/mitmath/computational-thinking,909.10 MB
+6,Makie.jl,2827,396,2827,962,25/09/2017,22/10/2026,817.27 MB,Interactive data visualizations and plotting in Julia,Julia,https://github.com/MakieOrg/Makie.jl,817.27 MB
+7,JuMP.jl,2485,427,2485,12,10/10/2012,22/10/2026,483.64 MB,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",Julia,https://github.com/jump-dev/JuMP.jl,483.64 MB
+8,Genie.jl,2426,188,2426,122,19/02/2016,15/10/2026,55.82 MB,🧞The highly productive Julia web framework,Julia,https://github.com/GenieFramework/Genie.jl,55.82 MB
+9,Turing.jl,2261,249,2261,18,29/04/2016,19/10/2026,48.41 MB,Bayesian inference with probabilistic programming.,Julia,https://github.com/TuringLang/Turing.jl,48.41 MB
+10,Plots.jl,1957,385,1957,895,25/08/2015,22/10/2026,122.96 MB,Powerful convenience for Julia visualizations and data analysis,Julia,https://github.com/JuliaPlots/Plots.jl,122.96 MB
