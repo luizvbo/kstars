@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,gradle,18890,5266,18890,3543,09/09/2009,22/10/2026,904.29 MB,"Adaptable, fast automation for all",Groovy,https://github.com/gradle/gradle,904.29 MB
-2,devops-resources,9727,2425,9727,29,07/01/2019,12/07/2024,1.78 MB,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",Groovy,https://github.com/bregman-arie/devops-resources,1.78 MB
-3,rundeck,6345,988,6345,63,03/09/2010,22/10/2026,227.51 MB,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,https://github.com/rundeck/rundeck,227.51 MB
-4,groovy,5475,1912,5475,26,16/04/2015,22/10/2026,301.88 MB,Apache Groovy: A powerful multi-faceted programming language for the JVM platform,Groovy,https://github.com/apache/groovy,301.88 MB
-5,pipeline-examples,4286,3562,4286,15,24/11/2015,31/08/2023,127.00 KB,"A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin",Groovy,https://github.com/jenkinsci/pipeline-examples,127.00 KB
-6,gradle-versions-plugin,4092,205,4092,58,02/12/2012,19/10/2026,4.19 MB,Gradle plugin to discover dependency updates,Groovy,https://github.com/ben-manes/gradle-versions-plugin,4.19 MB
-7,gradle_plugin_android_aspectjx,3954,573,3954,153,25/04/2016,15/09/2021,16.60 MB,"A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.",Groovy,https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx,16.60 MB
-8,nextflow,3517,818,3517,432,27/03/2013,22/10/2026,75.86 MB,A workflow language for data-driven computational pipelines,Groovy,https://github.com/nextflow-io/nextflow,75.86 MB
-9,fat-aar-android,3285,706,3285,166,19/12/2018,25/07/2024,7.07 MB,A gradle plugin that merge dependencies into the final aar file works with AGP 3.+,Groovy,https://github.com/kezong/fat-aar-android,7.07 MB
-10,grails-core,2938,979,2938,865,10/02/2010,23/10/2026,527.13 MB,Grails - the Web Application Framework,Groovy,https://github.com/apache/grails-core,527.13 MB
+1,gradle,18902,5265,18902,3530,09/09/2009,30/10/2026,908.61 MB,"Adaptable, fast automation for all",Groovy,https://github.com/gradle/gradle,908.61 MB
+2,devops-resources,9730,2425,9730,29,07/01/2019,12/07/2024,1.78 MB,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",Groovy,https://github.com/bregman-arie/devops-resources,1.78 MB
+3,rundeck,6349,989,6349,70,03/09/2010,29/10/2026,228.17 MB,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,https://github.com/rundeck/rundeck,228.17 MB
+4,groovy,5482,1915,5482,72,16/04/2015,29/10/2026,308.87 MB,Apache Groovy: A powerful multi-faceted programming language for the JVM platform,Groovy,https://github.com/apache/groovy,308.87 MB
+5,pipeline-examples,4285,3560,4285,15,24/11/2015,31/08/2023,127.00 KB,"A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin",Groovy,https://github.com/jenkinsci/pipeline-examples,127.00 KB
+6,gradle-versions-plugin,4093,206,4093,59,02/12/2012,19/10/2026,4.19 MB,Gradle plugin to discover dependency updates,Groovy,https://github.com/ben-manes/gradle-versions-plugin,4.19 MB
+7,gradle_plugin_android_aspectjx,3952,572,3952,153,25/04/2016,15/09/2021,16.60 MB,"A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.",Groovy,https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx,16.60 MB
+8,nextflow,3520,818,3520,434,27/03/2013,29/10/2026,76.60 MB,A workflow language for data-driven computational pipelines,Groovy,https://github.com/nextflow-io/nextflow,76.60 MB
+9,fat-aar-android,3283,705,3283,166,19/12/2018,25/07/2024,7.07 MB,A gradle plugin that merge dependencies into the final aar file works with AGP 3.+,Groovy,https://github.com/kezong/fat-aar-android,7.07 MB
+10,grails-core,2940,980,2940,843,10/02/2010,30/10/2026,529.78 MB,Grails - the Web Application Framework,Groovy,https://github.com/apache/grails-core,529.78 MB

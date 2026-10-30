@@ -1,11 +1,11 @@
 Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,awesome-go,189819,13648,189819,88,06/07/2014,22/10/2026,12.50 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,12.50 MB
-2,ollama,184338,18477,184338,4393,26/06/2023,23/10/2026,94.26 MB,"Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,94.26 MB
-3,go,139478,22301,139478,10416,19/08/2014,22/10/2026,451.90 MB,The Go programming language,Go,https://github.com/golang/go,451.90 MB
-4,kubernetes,128561,47098,128561,3204,06/06/2014,22/10/2026,1.46 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.46 GB
-5,caveman,114409,6594,114409,87,04/04/2026,22/10/2026,19.90 MB,🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.,Go,https://github.com/JuliusBrussee/caveman,19.90 MB
-6,TypeScript,111574,16780,111574,5172,17/06/2014,22/10/2026,2.79 GB,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,Go,https://github.com/microsoft/TypeScript,2.79 GB
-7,frp,110080,15248,110080,36,21/12/2015,20/10/2026,32.15 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,32.15 MB
-8,ragflow,92672,11074,92672,1324,12/12/2023,22/10/2026,179.67 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,179.67 MB
-9,hugo,90205,8393,90205,204,04/07/2013,22/10/2026,147.78 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,147.78 MB
-10,syncthing,89627,5535,89627,392,26/11/2013,21/10/2026,124.75 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,124.75 MB
+1,awesome-go,191061,13682,191061,97,06/07/2014,26/10/2026,12.51 MB,"A curated list of awesome Go frameworks, libraries and software",Go,https://github.com/avelino/awesome-go,12.51 MB
+2,ollama,185256,18737,185256,4493,26/06/2023,29/10/2026,94.59 MB,"Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",Go,https://github.com/ollama/ollama,94.59 MB
+3,go,139430,21597,139430,9864,19/08/2014,30/10/2026,454.00 MB,The Go programming language,Go,https://github.com/golang/go,454.00 MB
+4,kubernetes,128513,46372,128513,3229,06/06/2014,30/10/2026,1.47 GB,Production-Grade Container Scheduling and Management,Go,https://github.com/kubernetes/kubernetes,1.47 GB
+5,caveman,116110,6713,116110,129,04/04/2026,29/10/2026,20.22 MB,🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.,Go,https://github.com/JuliusBrussee/caveman,20.22 MB
+6,TypeScript,111664,16050,111664,5221,17/06/2014,29/10/2026,2.80 GB,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,Go,https://github.com/microsoft/TypeScript,2.80 GB
+7,frp,110297,15283,110297,33,21/12/2015,23/10/2026,32.15 MB,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,Go,https://github.com/fatedier/frp,32.15 MB
+8,ragflow,93118,11168,93118,1311,12/12/2023,29/10/2026,183.77 MB,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs,Go,https://github.com/infiniflow/ragflow,183.77 MB
+9,hugo,90272,8430,90272,207,04/07/2013,29/10/2026,147.95 MB,The world’s fastest framework for building websites.,Go,https://github.com/gohugoio/hugo,147.95 MB
+10,syncthing,89879,5558,89879,398,26/11/2013,29/10/2026,124.71 MB,Open Source Continuous File Synchronization,Go,https://github.com/syncthing/syncthing,124.71 MB
