@@ -15,7 +15,7 @@
   --header-height: 60px;
 }
 
-body.dark {
+html.dark {
   --bg-color: #121212;
   --text-color: #e0e0e0;
   --border-color: #343a40;
@@ -72,7 +72,7 @@ body {
   gap: 0.5rem;
 }
 
-/* 3. Hover-to-Show Language Navigation Bar */
+/* 3. Collapsible Language Navigation Bar */
 .language-nav {
   background-color: var(--bg-color);
   padding: 1.5rem 2rem;
@@ -88,19 +88,12 @@ body {
   transition: all 0.4s ease-in-out;
 }
 
-/* --- NEW: Class to show the navigation --- */
+/* Class to show the navigation */
 .language-nav.nav-visible {
   max-height: 500px; /* A large enough value to show all content */
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   opacity: 1;
-}
-
-.main-header:hover + .language-nav,
-.language-nav:hover {
-  transform: translateY(0);
-  opacity: 1;
-  pointer-events: auto;
 }
 
 .language-nav-links {
@@ -210,9 +203,7 @@ th[data-sorted-direction="descending"]::after {
 .td-ranking,
 .td-stars,
 .td-forks,
-.td-watchers,
-.td-open-issues,
-.td-size-kb {
+.td-open-issues {
   text-align: right;
   white-space: nowrap;
 }

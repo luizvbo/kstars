@@ -130,21 +130,20 @@ def preprocess_data(lang_name: str, input_folder: Path, output_folder: Path):
 
     try:
         df: pd.DataFrame = pd.read_csv(input_file_path)
+        # GitHub's watchers_count is the star count, not real watchers: drop it
+        if "Watchers" in df.columns:
+            df = df.drop(columns=["Watchers"])
         for col in ("Last Commit", "Created At"):
             if col in df.columns:
                 df[col] = df[col].apply(pd.to_datetime).dt.strftime("%d/%m/%Y")
-        
+
         if "Size (KB)" in df.columns:
             df["Size"] = df["Size (KB)"].apply(human_readable_size)
             # Reorder columns to put Size where Size (KB) was
             cols = df.columns.tolist()
-            idx = cols.index("Size (KB)")
-            new_columns = cols[:idx] + ["Size"] + cols[idx+1:]
-            # Remove Size (KB) from list if it's still there (it is in cols, not new_columns)
-            if "Size (KB)" in new_columns: 
-                new_columns.remove("Size (KB)")
-            
-            df = df[new_columns]
+            cols.remove("Size")
+            cols[cols.index("Size (KB)")] = "Size"
+            df = df[cols]
 
         df.to_csv(output_file_path, index=False)
         df.head(10).to_csv(output_top10_file_path, index=False)
