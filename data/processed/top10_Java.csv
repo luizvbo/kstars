@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,hello-algo,131683,15569,131683,27,04/11/2022,29/10/2026,487.30 MB,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",Java,https://github.com/krahets/hello-algo,487.30 MB
-2,ghidra,95886,10809,95886,2167,01/03/2019,29/10/2026,406.55 MB,Ghidra is a software reverse engineering (SRE) framework,Java,https://github.com/NationalSecurityAgency/ghidra,406.55 MB
-3,java-design-patterns,94834,27353,94834,145,09/08/2014,08/10/2026,47.59 MB,Design patterns implemented in Java,Java,https://github.com/iluwatar/java-design-patterns,47.59 MB
-4,mall,84985,29843,84985,17,04/04/2018,15/09/2026,57.37 MB,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,Java,https://github.com/macrozheng/mall,57.37 MB
-5,spring-boot,81713,44049,81713,468,19/10/2012,29/10/2026,220.96 MB,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",Java,https://github.com/spring-projects/spring-boot,220.96 MB
-6,advanced-java,79162,19113,79162,1,06/10/2018,19/10/2026,33.69 MB,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,Java,https://github.com/doocs/advanced-java,33.69 MB
-7,elasticsearch,78416,26180,78416,6189,08/02/2010,30/10/2026,1.75 GB,"Free and Open Source, Distributed, RESTful Search Engine",Java,https://github.com/elastic/elasticsearch,1.75 GB
-8,LeetCodeAnimation,76714,13851,76714,23,06/12/2018,12/06/2026,498.38 MB,"Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）",Java,https://github.com/MisterBooo/LeetCodeAnimation,498.38 MB
-9,Java,66621,21395,66621,30,16/07/2016,29/10/2026,7.67 MB,All Algorithms implemented in Java,Java,https://github.com/TheAlgorithms/Java,7.67 MB
-10,interviews,65531,12927,65531,124,14/02/2017,12/05/2025,23.89 MB,Everything you need to know to get the job.,Java,https://github.com/kdn251/interviews,23.89 MB
+Ranking,Project Name,Stars,Forks,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL
+1,ghidra,98139,11105,2187,01/03/2019,05/11/2026,407.56 MB,Ghidra is a software reverse engineering (SRE) framework,Java,https://github.com/NationalSecurityAgency/ghidra
+2,java-design-patterns,94851,27357,146,09/08/2014,08/10/2026,47.59 MB,Design patterns implemented in Java,Java,https://github.com/iluwatar/java-design-patterns
+3,mall,85013,29831,17,04/04/2018,15/09/2026,57.37 MB,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,Java,https://github.com/macrozheng/mall
+4,spring-boot,81741,43441,480,19/10/2012,05/11/2026,221.19 MB,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",Java,https://github.com/spring-projects/spring-boot
+5,advanced-java,79170,19109,1,06/10/2018,19/10/2026,33.69 MB,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,Java,https://github.com/doocs/advanced-java
+6,elasticsearch,78508,26199,6350,08/02/2010,06/11/2026,1.76 GB,"Free and Open Source, Distributed, RESTful Search Engine",Java,https://github.com/elastic/elasticsearch
+7,LeetCodeAnimation,76715,13851,23,06/12/2018,12/06/2026,498.38 MB,"Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）",Java,https://github.com/MisterBooo/LeetCodeAnimation
+8,Java,66738,21468,18,16/07/2016,05/11/2026,7.67 MB,All Algorithms implemented in Java,Java,https://github.com/TheAlgorithms/Java
+9,interviews,65552,12925,124,14/02/2017,12/05/2025,23.89 MB,Everything you need to know to get the job.,Java,https://github.com/kdn251/interviews
+10,termux-app,64182,8207,653,23/10/2015,05/11/2026,5.17 MB,Termux - a terminal emulator application for Android OS extendible by variety of packages.,Java,https://github.com/termux/termux-app

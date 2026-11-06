@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,claw-code,194968,107647,194968,1,31/03/2026,28/10/2026,26.18 MB,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",Rust,https://github.com/ultraworkers/claw-code,26.18 MB
-2,clash-verge-rev,154927,11129,154927,559,21/11/2023,29/10/2026,86.28 MB,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",Rust,https://github.com/clash-verge-rev/clash-verge-rev,86.28 MB
-3,cc-switch,150082,9859,150082,1125,04/08/2025,29/10/2026,105.37 MB,"A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",Rust,https://github.com/farion1231/cc-switch,105.37 MB
-4,codex,131573,20791,131573,25572,13/04/2025,30/10/2026,693.38 MB,Lightweight coding agent that runs in your terminal,Rust,https://github.com/openai/codex,693.38 MB
-5,rustdesk,127511,20157,127511,207,28/09/2020,29/10/2026,85.81 MB,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,https://github.com/rustdesk/rustdesk,85.81 MB
-6,rust,120815,17988,120815,12632,16/06/2010,30/10/2026,1009.92 MB,Empowering everyone to build reliable and efficient software.,Rust,https://github.com/rust-lang/rust,1009.92 MB
-7,tauri,112307,4134,112307,1497,13/07/2019,29/10/2026,110.40 MB,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",Rust,https://github.com/tauri-apps/tauri,110.40 MB
-8,deno,108771,6468,108771,1660,15/05/2018,29/10/2026,247.68 MB,A modern runtime for JavaScript and TypeScript.,Rust,https://github.com/denoland/deno,247.68 MB
-9,RuView,101580,13198,101580,510,07/06/2025,30/10/2026,416.06 MB,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,https://github.com/ruvnet/RuView,416.06 MB
-10,bun,96461,5225,96461,9516,14/04/2021,30/10/2026,1.37 GB,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",Rust,https://github.com/oven-sh/bun,1.37 GB
+Ranking,Project Name,Stars,Forks,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL
+1,claw-code,194948,107511,1,31/03/2026,04/11/2026,26.38 MB,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",Rust,https://github.com/ultraworkers/claw-code
+2,clash-verge-rev,156549,11250,566,21/11/2023,05/11/2026,86.51 MB,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",Rust,https://github.com/clash-verge-rev/clash-verge-rev
+3,cc-switch,152121,9999,1085,04/08/2025,05/11/2026,110.87 MB,"A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",Rust,https://github.com/farion1231/cc-switch
+4,codex,133356,21131,26622,13/04/2025,06/11/2026,720.77 MB,Lightweight coding agent that runs in your terminal,Rust,https://github.com/openai/codex
+5,rustdesk,128337,20368,213,28/09/2020,05/11/2026,86.17 MB,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,https://github.com/rustdesk/rustdesk
+6,rust,121152,17352,12595,16/06/2010,06/11/2026,1015.89 MB,Empowering everyone to build reliable and efficient software.,Rust,https://github.com/rust-lang/rust
+7,tauri,112537,4162,1499,13/07/2019,05/11/2026,110.91 MB,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",Rust,https://github.com/tauri-apps/tauri
+8,deno,108850,6584,1694,15/05/2018,29/10/2026,247.68 MB,A modern runtime for JavaScript and TypeScript.,Rust,https://github.com/denoland/deno
+9,impeccable,103963,6159,65,16/11/2025,05/11/2026,877.66 MB,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",Rust,https://github.com/pbakaus/impeccable
+10,RuView,102583,13311,569,07/06/2025,06/11/2026,416.54 MB,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,https://github.com/ruvnet/RuView

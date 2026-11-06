@@ -1,11 +1,11 @@
-Ranking,Project Name,Stars,Forks,Watchers,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL,Size
-1,tensorflow,201211,78730,201211,3437,07/11/2015,30/10/2026,1.35 GB,An Open Source Machine Learning Framework for Everyone,C++,https://github.com/tensorflow/tensorflow,1.35 GB
-2,llama.cpp,132776,24939,132776,2573,10/03/2023,30/10/2026,455.17 MB,LLM inference in C/C++,C++,https://github.com/ggml-org/llama.cpp,455.17 MB
-3,react-native,126824,25443,126824,1336,09/01/2015,30/10/2026,969.12 MB,A framework for building native applications using React,C++,https://github.com/react/react-native,969.12 MB
-4,electron,123625,17831,123625,791,12/04/2013,30/10/2026,225.86 MB,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",C++,https://github.com/electron/electron,225.86 MB
-5,godot,119262,27270,119262,18913,04/01/2014,29/10/2026,1.81 GB,Godot Engine – Multi-platform 2D and 3D game engine,C++,https://github.com/godotengine/godot,1.81 GB
-6,terminal,105277,9697,105277,1771,11/08/2017,30/10/2026,177.34 MB,"The new Windows Terminal and the original Windows console host, all in the same place!",C++,https://github.com/microsoft/terminal,177.34 MB
-7,opencv,91372,57066,91372,2869,19/07/2012,29/10/2026,557.20 MB,Open Source Computer Vision Library,C++,https://github.com/opencv/opencv,557.20 MB
-8,bitcoin,90538,39416,90538,795,19/12/2010,29/10/2026,323.24 MB,Bitcoin Core integration/staging tree,C++,https://github.com/bitcoin/bitcoin,323.24 MB
-9,gpt4all,77348,8254,77348,776,27/03/2023,27/05/2025,43.63 MB,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.,C++,https://github.com/nomic-ai/gpt4all,43.63 MB
-10,tesseract,77234,10872,77234,493,12/08/2014,28/10/2026,53.50 MB,Tesseract Open Source OCR Engine (main repository),C++,https://github.com/tesseract-ocr/tesseract,53.50 MB
+Ranking,Project Name,Stars,Forks,Open Issues,Created At,Last Commit,Size,Description,Language,Repo URL
+1,tensorflow,201324,78240,3506,07/11/2015,06/11/2026,1.36 GB,An Open Source Machine Learning Framework for Everyone,C++,https://github.com/tensorflow/tensorflow
+2,llama.cpp,133492,25187,2567,10/03/2023,06/11/2026,464.83 MB,LLM inference in C/C++,C++,https://github.com/ggml-org/llama.cpp
+3,react-native,126861,25474,1367,09/01/2015,05/11/2026,970.36 MB,A framework for building native applications using React,C++,https://github.com/react/react-native
+4,electron,123791,17885,787,12/04/2013,06/11/2026,226.83 MB,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",C++,https://github.com/electron/electron
+5,godot,119636,27375,18978,04/01/2014,05/11/2026,1.84 GB,Godot Engine – Multi-platform 2D and 3D game engine,C++,https://github.com/godotengine/godot
+6,terminal,105328,9724,1770,11/08/2017,05/11/2026,177.43 MB,"The new Windows Terminal and the original Windows console host, all in the same place!",C++,https://github.com/microsoft/terminal
+7,opencv,91469,57085,2907,19/07/2012,05/11/2026,557.65 MB,Open Source Computer Vision Library,C++,https://github.com/opencv/opencv
+8,bitcoin,90611,39440,770,19/12/2010,06/11/2026,324.24 MB,Bitcoin Core integration/staging tree,C++,https://github.com/bitcoin/bitcoin
+9,tesseract,77378,10896,489,12/08/2014,02/11/2026,53.54 MB,Tesseract Open Source OCR Engine (main repository),C++,https://github.com/tesseract-ocr/tesseract
+10,gpt4all,77339,8255,775,27/03/2023,27/05/2025,43.63 MB,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.,C++,https://github.com/nomic-ai/gpt4all
